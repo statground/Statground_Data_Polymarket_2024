@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:35:23.551676Z",
+  "market_createdAt": "2024-11-14T23:35:23.551676Z",
+  "market_updatedAt": "2024-11-22T21:58:55.932566Z",
+  "market_startDate": "2024-11-15T00:52:20.203Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-11-21 22:12:26+00",
+  "conditionId": "0x850acb64a9180f566d52f29a667010493e1500ccc72f7d1b358374e48f36c16b",
+  "slug": "trump-formally-nominates-matt-gaetz-for-attorney-general",
+  "question": "Trump formally nominates Matt Gaetz for AG?"
+}

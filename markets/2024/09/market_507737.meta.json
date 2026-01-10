@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:12:23.563076Z",
+  "market_createdAt": "2024-09-23T18:12:23.563076Z",
+  "market_updatedAt": "2024-09-27T00:36:44.046574Z",
+  "market_startDate": "2024-09-23T22:18:19.284045Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 00:31:17+00",
+  "conditionId": "0x82ffcd4a684937777c4be9767da13ba1a8e006d9ddb38948ecaaef705acca119",
+  "slug": "will-galatasaray-beat-paok",
+  "question": "Will Galatasaray beat PAOK?"
+}

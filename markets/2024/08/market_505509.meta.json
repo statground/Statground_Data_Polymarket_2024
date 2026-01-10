@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:28:14.170837Z",
+  "market_createdAt": "2024-08-21T14:28:14.170837Z",
+  "market_updatedAt": "2024-08-23T02:41:04.239516Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:31:04+00",
+  "conditionId": "0x81bb7166aa87cbb19c9b48e05cd289f5294a8171ec677ab0fac5e292bfa3ac18",
+  "slug": "will-pelosi-say-stocks-at-dnc-speech",
+  "question": "Will Pelosi say \"Stocks\" at DNC speech?"
+}

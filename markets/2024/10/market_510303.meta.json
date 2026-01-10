@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:28:08.591617Z",
+  "market_createdAt": "2024-10-21T16:28:08.591617Z",
+  "market_updatedAt": "2024-10-25T03:01:12.601453Z",
+  "market_startDate": "2024-10-21T21:27:48.447Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:12:26+00",
+  "conditionId": "0x1543e4f37c3bd69ab882c37c620535c02da4f10fc7530d4239b2e1a8dedfa4d9",
+  "slug": "will-trump-say-tren-de-aragua-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"Tren de Aragua\" during Georgia rally on October 23?"
+}

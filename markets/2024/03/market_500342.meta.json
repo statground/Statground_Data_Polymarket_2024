@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T14:45:13.197921Z",
+  "market_createdAt": "2024-03-20T14:45:13.197921Z",
+  "market_updatedAt": "2024-05-12T13:04:06.26727Z",
+  "market_startDate": "2024-03-20T21:00:22.203Z",
+  "market_endDate": "2024-05-19T04:00:00Z",
+  "market_closedTime": "2024-05-11 16:41:33+00",
+  "conditionId": "0x394e271c7e4e8cd9c2d3f5de7a9d8c5f21295c2e15b81d7e3604fd05aaae673e",
+  "slug": "will-liverpool-win-the-premier-league",
+  "question": "Will Liverpool win the Premier League?"
+}

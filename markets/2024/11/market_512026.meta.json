@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:25:58.283433Z",
+  "market_createdAt": "2024-11-05T17:25:58.283433Z",
+  "market_updatedAt": "2024-11-16T16:31:02.007331Z",
+  "market_startDate": "2024-11-05T18:20:51.19101Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 17:33:13+00",
+  "conditionId": "0x6ece8859b8e50e8202124faa042a99071e29d19a636be7f2cbacc4e68f3fa36e",
+  "slug": "will-trump-say-illegal-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"Illegal\" in his speech after the election is called?"
+}

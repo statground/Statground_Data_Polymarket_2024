@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T20:56:11.112877Z",
+  "market_createdAt": "2024-05-06T20:56:11.112877Z",
+  "market_updatedAt": "2024-07-17T02:32:45.019617Z",
+  "market_startDate": "2024-05-18T18:17:40.292Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 02:31:23+00",
+  "conditionId": "0xa3e0185c69a933ea5a47b6b188570fa711ad66914c70f9149a1ff7902b1973ef",
+  "slug": "will-doug-burgum-win-the-2024-republican-vp-nomination",
+  "question": "Will Doug Burgum win the 2024 Republican VP nomination?"
+}

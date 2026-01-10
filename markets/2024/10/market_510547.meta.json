@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:53:26.179095Z",
+  "market_createdAt": "2024-10-22T15:53:26.179095Z",
+  "market_updatedAt": "2024-10-26T05:56:58.304091Z",
+  "market_startDate": "2024-10-22T21:47:35.408Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:12:45+00",
+  "conditionId": "0xcc0105a7fe0925ff44eccfe09f12399551a072c7d13635301c29cc38fd9ef5bb",
+  "slug": "will-trump-say-nafta-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"NAFTA\" during Las Vegas rally on October 24?"
+}

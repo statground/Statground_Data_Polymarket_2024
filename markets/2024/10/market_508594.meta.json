@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:53:14.643533Z",
+  "market_createdAt": "2024-10-01T18:53:14.643533Z",
+  "market_updatedAt": "2024-10-07T17:16:41.470016Z",
+  "market_startDate": "2024-10-02T15:30:44.727217Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 20:39:16+00",
+  "conditionId": "0x5b4414a53e07abaebd3789d218158943eb8eaf22f10958efa401d6d7f05444af",
+  "slug": "will-tottenham-beat-brighton",
+  "question": "Will Tottenham beat Brighton?"
+}

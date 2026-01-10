@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:11:04.200760Z",
+  "market_createdAt": "2024-11-01T18:11:04.20076Z",
+  "market_updatedAt": "2024-11-03T05:24:05.349655Z",
+  "market_startDate": "2024-11-01T23:14:50.670175Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:20:56+00",
+  "conditionId": "0x5c9a2054bb5e431b6125d416394975317018bf87765f925363c73db3490d1791",
+  "slug": "will-tennessee-and-kentucky-combine-for-46-or-more-points",
+  "question": "Will Tennessee and Kentucky combine for 46 or more points?"
+}

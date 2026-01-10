@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T20:40:45.907708Z",
+  "market_createdAt": "2024-11-21T20:40:45.907708Z",
+  "market_updatedAt": "2025-08-02T08:54:42.914301Z",
+  "market_startDate": "2024-11-21T20:53:58.012Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-08-01 06:16:28+00",
+  "conditionId": "0x6305af093bee55cfc31252a2ee4fac4b5af533b4884fda44978a1dfc8354343b",
+  "slug": "doge-etf-approved-by-july-31-2025",
+  "question": "Doge ETF approved by July 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:26:55.742408Z",
+  "market_createdAt": "2024-10-21T16:26:55.742408Z",
+  "market_updatedAt": "2024-10-25T03:37:02.354411Z",
+  "market_startDate": "2024-10-21T21:27:18.316Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:33:16+00",
+  "conditionId": "0xbbbd7454f9d991198d3cc9076908f658a03f30c24102f5783e963133264eb4bc",
+  "slug": "will-trump-say-pocahontas-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"Pocahontas\" during Georgia rally on October 23?"
+}

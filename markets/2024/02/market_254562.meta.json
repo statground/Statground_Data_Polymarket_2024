@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T16:20:17.788000Z",
+  "market_createdAt": "2024-02-21T16:20:17.788Z",
+  "market_updatedAt": "2024-05-07T23:09:57.701699Z",
+  "market_startDate": "2024-02-21T17:11:32.459Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-03-19 01:47:46+00",
+  "conditionId": "0x5baca7a842bfac1ade189eee8b235afdfaac474174f24373a69c0085607869e0",
+  "slug": "etherfi-airdrop-by-june-30",
+  "question": "Etherfi airdrop by June 30?"
+}

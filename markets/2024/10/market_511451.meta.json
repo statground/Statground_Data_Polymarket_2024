@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T19:07:24.132970Z",
+  "market_createdAt": "2024-10-30T19:07:24.13297Z",
+  "market_updatedAt": "2024-11-04T04:50:56.800404Z",
+  "market_startDate": "2024-11-01T22:08:40.588275Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 06:31:35+00",
+  "conditionId": "0xb8a29a442e42a779848a8895c752b61c4fb0c27eca1e082232eddf2599ece8a3",
+  "slug": "moreno-vs-albazi",
+  "question": "Moreno vs. Albazi"
+}

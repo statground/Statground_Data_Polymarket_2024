@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:40:54.108862Z",
+  "market_createdAt": "2024-12-13T22:40:54.108862Z",
+  "market_updatedAt": "2024-12-16T02:45:59.621005Z",
+  "market_startDate": "2024-12-13T23:36:51.774614Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:42:47+00",
+  "conditionId": "0x82d130d17e643ca967c1c0b9c432fcf83af2bb84d9d35232b603b292c6409e8a",
+  "slug": "will-the-broncos-beat-the-colts-by-5-or-more-points",
+  "question": "Will the Broncos beat the Colts by 5 or more points?"
+}

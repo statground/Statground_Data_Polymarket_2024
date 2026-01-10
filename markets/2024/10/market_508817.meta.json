@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:16:50.974011Z",
+  "market_createdAt": "2024-10-03T22:16:50.974011Z",
+  "market_updatedAt": "2025-05-05T08:20:26.530722Z",
+  "market_startDate": "2024-10-04T15:28:25.776223Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-05-04 07:01:29+00",
+  "conditionId": "0x9d98de23d9a87c7fe785f5b80fe0a030cc46b28863dd2b67971fe95cca4814da",
+  "slug": "will-the-la-clippers-win-the-western-conference",
+  "question": "Will the LA Clippers win the Western Conference?"
+}

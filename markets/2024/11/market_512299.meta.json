@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:32:24.388909Z",
+  "market_createdAt": "2024-11-07T19:32:24.388909Z",
+  "market_updatedAt": "2024-11-16T03:49:00.608085Z",
+  "market_startDate": "2024-11-07T22:24:41.792Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:31:07+00",
+  "conditionId": "0xfe15121359218df21765ed4b02ae7af059ea087125a9e7b52efdad239c30dd65",
+  "slug": "will-trump-nominate-thomas-homan-for-homeland-security-secretary",
+  "question": "Will Trump nominate Thomas Homan for Homeland Security Secretary?"
+}

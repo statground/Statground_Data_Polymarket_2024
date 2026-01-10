@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:06:03.679974Z",
+  "market_createdAt": "2024-07-19T18:06:03.679974Z",
+  "market_updatedAt": "2024-08-02T17:13:04.106295Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 22:01:02+00",
+  "conditionId": "0x6d9e94a960d986fcd1c42770a78abb04d2653cc1257d32a35abceaed40645111",
+  "slug": "will-noe-ponti-sui-win-gold-in-mens-200m-butterfly",
+  "question": "Will Noe Ponti (SUI) win Gold in Men's 200m Butterfly?"
+}

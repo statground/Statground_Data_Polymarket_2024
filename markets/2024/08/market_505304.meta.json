@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:17:12.256752Z",
+  "market_createdAt": "2024-08-19T16:17:12.256752Z",
+  "market_updatedAt": "2024-08-29T20:57:11.594601Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-28 23:17:22+00",
+  "conditionId": "0xde98b62510752813ad86116100c48ac3904a1be42804182bb48d2133c0c8f33f",
+  "slug": "will-alireza-firouzja-win-the-2024-sinquefield-cup",
+  "question": "Will Alireza Firouzja win the 2024 Sinquefield Cup?"
+}

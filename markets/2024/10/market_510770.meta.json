@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:51:08.478895Z",
+  "market_createdAt": "2024-10-23T21:51:08.478895Z",
+  "market_updatedAt": "2024-10-28T01:16:48.556937Z",
+  "market_startDate": "2024-10-23T22:39:27.717918Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:25:22+00",
+  "conditionId": "0x9592b521674edab2691d08e5296c982289c9108dd445eb320ad67f13e53bd642",
+  "slug": "will-trump-say-phone-app-during-pennsylvania-rally-on-october-26",
+  "question": "Will Trump say \"phone app\" during Pennsylvania rally on October 26?"
+}

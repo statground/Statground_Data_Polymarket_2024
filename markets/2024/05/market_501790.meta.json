@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T15:27:48.197826Z",
+  "market_createdAt": "2024-05-23T15:27:48.197826Z",
+  "market_updatedAt": "2024-06-13T12:26:18.423946Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-12 14:32:59+00",
+  "conditionId": "0x079f8ffaccc9b130ffa269e742a3372f1a54a9ebb0b6bda15e3bf1ffd128e9b4",
+  "slug": "us-inflation-0pt1-from-april-to-may-2024",
+  "question": "US inflation >0.1% from April to May 2024?"
+}

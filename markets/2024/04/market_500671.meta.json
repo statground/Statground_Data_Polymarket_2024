@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:35:17.003137Z",
+  "market_createdAt": "2024-04-04T15:35:17.003137Z",
+  "market_updatedAt": "2024-11-08T01:13:07.1432Z",
+  "market_startDate": "2024-04-12T20:00:56.268Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:54:56+00",
+  "conditionId": "0x544bafa2f84419efb4e3e6d1f5b34e1da0876e237051dc6662f31f4c936441c5",
+  "slug": "will-a-candidate-from-another-party-win-utah-us-senate-election",
+  "question": "Will a candidate from another party win Utah US Senate Election?"
+}

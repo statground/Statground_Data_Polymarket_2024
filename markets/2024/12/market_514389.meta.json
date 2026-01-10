@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:38:47.970814Z",
+  "market_createdAt": "2024-12-02T17:38:47.970814Z",
+  "market_updatedAt": "2025-01-01T20:25:15.026443Z",
+  "market_startDate": "2024-12-02T18:04:47.827Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:42:26+00",
+  "conditionId": "0xdcea3e30f51410e386c8742e1a9b07fc92ba8e0e93ecf6db37b46bfa5835dd41",
+  "slug": "will-ripple-hit-in-3pt50-in-december",
+  "question": "Will Ripple hit in $3.50 in December?"
+}

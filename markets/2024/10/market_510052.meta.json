@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T00:27:59.137729Z",
+  "market_createdAt": "2024-10-17T00:27:59.137729Z",
+  "market_updatedAt": "2024-11-12T19:49:10.256989Z",
+  "market_startDate": "2024-10-18T00:06:15.916Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:39:48+00",
+  "conditionId": "0x6748ba2ff83d71b58dbf42aa57db8191c6f76b6cef1dfa3f3bfaf8a167775697",
+  "slug": "will-kamala-win-60-of-college-graduates",
+  "question": "Will Kamala win 60% of college graduates?"
+}

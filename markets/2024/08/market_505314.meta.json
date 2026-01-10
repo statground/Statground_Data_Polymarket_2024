@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:34:43.458417Z",
+  "market_createdAt": "2024-08-19T16:34:43.458417Z",
+  "market_updatedAt": "2024-09-01T07:03:05.931621Z",
+  "market_startDate": "2024-08-19T16:34:43.458417Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-08-31 07:00:21+00",
+  "conditionId": "0x015cd7131994d936579b5b825efe69cab98e820c1fa884206d04876db8c473ac",
+  "slug": "will-novak-djokovic-win-the-us-open-1",
+  "question": "Will Novak Djokovic win the US Open?"
+}

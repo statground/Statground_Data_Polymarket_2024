@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:48:20.728733Z",
+  "market_createdAt": "2024-11-08T23:48:20.728733Z",
+  "market_updatedAt": "2024-11-11T23:57:24.523658Z",
+  "market_startDate": "2024-11-09T02:57:52.306982Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 02:15:18+00",
+  "conditionId": "0x1cc2be8b538e2e67603aee16d944ab534843c9ee1997a9baccd71e0e309b159f",
+  "slug": "will-the-chargers-and-titans-combine-for-40-or-more-points",
+  "question": "Will the Chargers and Titans combine for 40 or more points?"
+}

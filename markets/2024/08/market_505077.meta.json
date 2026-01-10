@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:19:46.314949Z",
+  "market_createdAt": "2024-08-13T20:19:46.314949Z",
+  "market_updatedAt": "2024-08-19T16:56:58.102681Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 18:02:54+00",
+  "conditionId": "0x7621da49e879270fefc510c883848ecebb67899fc83f958ce114ae62a683faa5",
+  "slug": "will-brentford-vs-crystal-palace-end-in-a-draw",
+  "question": "Will Brentford vs. Crystal Palace end in a draw?"
+}

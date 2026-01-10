@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T19:47:09.097165Z",
+  "market_createdAt": "2024-10-02T19:47:09.097165Z",
+  "market_updatedAt": "2024-10-08T01:52:43.051984Z",
+  "market_startDate": "2024-10-02T21:43:08.925215Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-07 03:42:26+00",
+  "conditionId": "0x86cdc152d13c1570425ea32f8044b128bbaff9d80c9ccf71e6495e1e4942670d",
+  "slug": "will-another-team-win-esl-challenger-atlanta-2024",
+  "question": "Will another team win ESL Challenger Atlanta 2024?"
+}

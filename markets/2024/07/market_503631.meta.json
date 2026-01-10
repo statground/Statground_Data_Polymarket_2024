@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T18:19:27.203206Z",
+  "market_createdAt": "2024-07-17T18:19:27.203206Z",
+  "market_updatedAt": "2024-08-10T22:16:58.434587Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 22:07:43+00",
+  "conditionId": "0xeb203ebcdfab834b801aa2b5b8fba2c83c5b87522c1653581cd09b3ce24e35ea",
+  "slug": "will-spain-win-gold-in-mens-football-soccer",
+  "question": "Will Spain win Gold in Men's Football (Soccer)?"
+}

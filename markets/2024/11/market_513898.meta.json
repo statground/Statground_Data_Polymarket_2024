@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:52:29.491514Z",
+  "market_createdAt": "2024-11-24T18:52:29.491514Z",
+  "market_updatedAt": "2024-11-28T05:03:36.210499Z",
+  "market_startDate": "2024-11-24T18:54:57.158714Z",
+  "market_endDate": "2024-12-04T00:30:00Z",
+  "market_closedTime": "2024-11-27 05:02:29+00",
+  "conditionId": "0xf80932aa73b00415566f0abe0f1d40406b360ab2cd26ab0fa97b14364517ac11",
+  "slug": "nba-mil-mia-2024-11-26",
+  "question": "Bucks vs. Heat"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T22:40:00.380257Z",
+  "market_createdAt": "2024-07-03T22:40:00.380257Z",
+  "market_updatedAt": "2024-07-07T20:55:47.130876Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-07 00:02:04+00",
+  "conditionId": "0xfc3f39d2c1ebfa0f5b60e70ff71f0164beffb4f61df2141254f53c9917b309e0",
+  "slug": "will-the-match-be-a-draw-july-6",
+  "question": "Will the match be a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T22:50:59.579008Z",
+  "market_createdAt": "2024-07-26T22:50:59.579008Z",
+  "market_updatedAt": "2024-08-24T16:07:07.458543Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-23 18:15:22+00",
+  "conditionId": "0xcf663aec0e94a81945ee16e8ba65866bbdb818498fa228ab227b1f94251b1b77",
+  "slug": "538-favorite-when-forecast-is-turned-on",
+  "question": "538 favorite when forecast is turned on? "
+}

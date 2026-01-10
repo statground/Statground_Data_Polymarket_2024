@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:38:45.536398Z",
+  "market_createdAt": "2024-08-09T20:38:45.536398Z",
+  "market_updatedAt": "2024-08-11T19:10:55.692605Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 22:19:45+00",
+  "conditionId": "0xe5a2eb04091ad86b8c274f0837ba9888ae82b52f81e7e66e9db17dd1fc6ff784",
+  "slug": "will-great-britain-win-gold-in-the-mens-4x400m-relay",
+  "question": "Will Great Britain win gold in the Men’s 4x400m Relay?"
+}

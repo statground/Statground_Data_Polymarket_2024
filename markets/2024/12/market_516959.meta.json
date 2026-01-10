@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:48:28.653778Z",
+  "market_createdAt": "2024-12-31T19:48:28.653778Z",
+  "market_updatedAt": "2025-02-02T01:04:53.408643Z",
+  "market_startDate": "2024-12-31T21:03:14.955267Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:08:21+00",
+  "conditionId": "0x14b965ad4681ae74112ed35945ef111dc9c03442bc7750422906f8bbb167138a",
+  "slug": "jones-aspinall-date-announced-before-february",
+  "question": "Jones-Aspinall date announced before February?"
+}

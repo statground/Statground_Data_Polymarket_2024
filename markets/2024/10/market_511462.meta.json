@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T20:23:08.195490Z",
+  "market_createdAt": "2024-10-30T20:23:08.19549Z",
+  "market_updatedAt": "2024-12-19T03:03:36.086127Z",
+  "market_startDate": "2024-11-01T18:20:49.829795Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-18 07:14:30+00",
+  "conditionId": "0x212aa1ec6278e74ed0f3ae4eef45b18fd4adfd830715844e0588eb607b464e40",
+  "slug": "state-wide-recount-in-presidential-election",
+  "question": "State wide recount in Presidential Election? "
+}

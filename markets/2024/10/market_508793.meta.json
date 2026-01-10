@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:02:35.269474Z",
+  "market_createdAt": "2024-10-03T21:02:35.269474Z",
+  "market_updatedAt": "2024-10-10T04:26:51.820972Z",
+  "market_startDate": "2024-10-03T22:36:46.387Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:56:21+00",
+  "conditionId": "0x69fe789035024528095ed46c8e4cf18d3cfbfdb22109c0c223c4502c99242d97",
+  "slug": "will-the-hbo-documentary-identify-david-kleiman-as-satoshi",
+  "question": "Will the HBO documentary identify David Kleiman as Satoshi?"
+}

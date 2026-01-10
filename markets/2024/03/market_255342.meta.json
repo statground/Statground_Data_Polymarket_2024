@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T20:51:19.986000Z",
+  "market_createdAt": "2024-03-07T20:51:19.986Z",
+  "market_updatedAt": "2024-03-09T04:42:09.732Z",
+  "market_startDate": "2024-03-07T21:30:22.315Z",
+  "market_endDate": "2024-03-07T00:00:00Z",
+  "market_closedTime": "2024-03-08 07:00:55+00",
+  "conditionId": "0xe8b22095476bf95aa3cf4f91436e36e2d4f86320416b796bea70a052f821754e",
+  "slug": "will-ethereum-hit-4k-today",
+  "question": "Will Ethereum hit $4k today?"
+}

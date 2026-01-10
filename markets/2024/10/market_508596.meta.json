@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:08:00.707108Z",
+  "market_createdAt": "2024-10-01T19:08:00.707108Z",
+  "market_updatedAt": "2025-04-07T14:28:32.203081Z",
+  "market_startDate": "2024-10-01T21:06:41.731946Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-06 17:33:54+00",
+  "conditionId": "0xa5890f75a739c3650ee153e8827d88416d8a0ae2de2265a8a446cb75024efc53",
+  "slug": "will-southampton-be-relegated",
+  "question": "Will Southampton be relegated?"
+}

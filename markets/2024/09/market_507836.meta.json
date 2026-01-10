@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507836",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:51:10.929073Z",
+  "market_createdAt": "2024-09-24T04:51:10.929073Z",
+  "market_updatedAt": "2024-10-01T00:32:34.917597Z",
+  "market_startDate": "2024-09-24T04:53:36.757136Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:03:48+00",
+  "conditionId": "0xf480adf1c942b5e4aa5ff9e51db8be777a8da7faefb80dd6da1085c3ba59ba0e",
+  "slug": "nfl-ari-wsh-2024-09-29",
+  "question": "Cardinals vs. Commanders"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:11:12.325573Z",
+  "market_createdAt": "2024-11-24T18:11:12.325573Z",
+  "market_updatedAt": "2024-12-01T20:03:48.354327Z",
+  "market_startDate": "2024-11-24T18:13:39.755345Z",
+  "market_endDate": "2024-11-30T15:00:00Z",
+  "market_closedTime": "2024-11-30 20:24:58+00",
+  "conditionId": "0x24137fcb98ddb159e3e91937a0ba98e38a601c6f67bc56a26919dd494f9deb6b",
+  "slug": "epl-wol-bou-2024-11-30-draw",
+  "question": "Will Wolves vs. Bournemouth end in a draw?"
+}

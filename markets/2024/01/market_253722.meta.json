@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T18:24:12.176000Z",
+  "market_createdAt": "2024-01-09T18:24:12.176Z",
+  "market_updatedAt": "2024-11-13T08:37:13.960802Z",
+  "market_startDate": "2024-01-09T23:38:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-12 08:37:48+00",
+  "conditionId": "0xb26fd99a7b7bae4e13c9bb3becf65353708a805f9c1aea74484d107e6ba512cd",
+  "slug": "will-joe-biden-win-the-popular-vote-in-the-2024-presidential-election",
+  "question": "Biden wins the Popular Vote?"
+}

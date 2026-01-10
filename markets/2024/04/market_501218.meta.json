@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T15:33:08.720145Z",
+  "market_createdAt": "2024-04-29T15:33:08.720145Z",
+  "market_updatedAt": "2024-05-07T23:09:36.155583Z",
+  "market_startDate": "2024-04-29T15:38:54.422Z",
+  "market_endDate": "2024-05-02T12:00:00Z",
+  "market_closedTime": "2024-05-07 00:21:45+00",
+  "conditionId": "0x75d84fd0eddecff7734a24d3b6a38f64c5a7e8890c1bd6bc3e5eb42e704f727e",
+  "slug": "will-friendtech-airdrop-by-thursday",
+  "question": "Will Friend.Tech airdrop by Thursday?"
+}

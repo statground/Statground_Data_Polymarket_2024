@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T00:23:21.846000Z",
+  "market_createdAt": "2024-01-11T00:23:21.846Z",
+  "market_updatedAt": "2024-01-15T01:45:13.509Z",
+  "market_startDate": "2024-01-13T00:00:00Z",
+  "market_endDate": "2024-01-13T00:00:00Z",
+  "market_closedTime": "2024-01-14 02:34:59+00",
+  "conditionId": "0x26046a289e8b5ad767b355bc501610c23a76c890094bf8cb91a3e44d6935bea6",
+  "slug": "nfl-hou-cle-2024-01-13",
+  "question": "Texans vs. Browns"
+}

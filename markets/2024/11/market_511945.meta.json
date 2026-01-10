@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:24:13.057976Z",
+  "market_createdAt": "2024-11-04T19:24:13.057976Z",
+  "market_updatedAt": "2024-11-25T13:06:11.320066Z",
+  "market_startDate": "2024-11-06T16:30:26.456606Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:23:56+00",
+  "conditionId": "0xdf5cc2eb95f2eba6120c62fefc04871963d80f4aa3503835dded794e3ccdb5b8",
+  "slug": "will-carlos-sainz-win-the-las-vegas-grand-prix",
+  "question": "Will Carlos Sainz win the 2024 Las Vegas Grand Prix?"
+}

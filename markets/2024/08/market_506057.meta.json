@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:27:36.140003Z",
+  "market_createdAt": "2024-08-29T15:27:36.140003Z",
+  "market_updatedAt": "2024-08-31T22:27:06.988596Z",
+  "market_startDate": "2024-08-29T18:29:23.393Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 22:55:24+00",
+  "conditionId": "0x855c5cee903d04b5e46e73771936a5a56ed8650a492204a763b777c280b1b802",
+  "slug": "will-donald-trump-say-fake-news-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"fake news\" during Pennsylvania rally?"
+}

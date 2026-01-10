@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:35:54.959455Z",
+  "market_createdAt": "2024-08-07T23:35:54.959455Z",
+  "market_updatedAt": "2024-08-12T00:06:53.015474Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 04:11:57+00",
+  "conditionId": "0xba8ef02cc8e9819d8d46954f568d98abd1d43cc5d4647eb916020a79a5a5d20f",
+  "slug": "nfl-jax-kc-2024-08-10",
+  "question": "Jaguars vs. Chiefs"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:21:16.251555Z",
+  "market_createdAt": "2024-10-23T21:21:16.251555Z",
+  "market_updatedAt": "2024-11-07T10:39:04.171652Z",
+  "market_startDate": "2024-10-23T21:45:16.875068Z",
+  "market_endDate": "2024-11-20T12:00:00Z",
+  "market_closedTime": "2024-11-06 18:29:03+00",
+  "conditionId": "0xf42996a13927c17242e49563bde5741ac60571966b39caff5c81d24e18524ac0",
+  "slug": "ap-doesnt-call-the-election-by-november-20",
+  "question": "AP doesn't call the election by November 20?"
+}

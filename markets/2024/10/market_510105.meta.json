@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T15:54:55.484892Z",
+  "market_createdAt": "2024-10-18T15:54:55.484892Z",
+  "market_updatedAt": "2024-10-24T20:27:12.882681Z",
+  "market_startDate": "2024-10-18T17:02:45.068867Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-23 21:04:05+00",
+  "conditionId": "0xd4fd35481eb4c60699eed13e4e1520ab3da9db2fee36239d2e2b5fcd3c0de853",
+  "slug": "will-trump-tweet-35-39-times-october-18-25",
+  "question": "Will Trump tweet 35-39 times October 18-25?"
+}

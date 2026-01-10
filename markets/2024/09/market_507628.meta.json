@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T20:12:02.341080Z",
+  "market_createdAt": "2024-09-20T20:12:02.34108Z",
+  "market_updatedAt": "2024-11-02T06:23:10.086097Z",
+  "market_startDate": "2024-09-20T20:18:13.303437Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:50:13+00",
+  "conditionId": "0x9e0e6aa9fd8ff1ecf7bb242118abbab2343232b023a8c671e4d70df8774e7f71",
+  "slug": "will-qualcomm-acquire-intel",
+  "question": "Will Qualcomm acquire Intel?"
+}

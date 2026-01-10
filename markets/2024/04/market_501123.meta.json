@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T18:09:05.902186Z",
+  "market_createdAt": "2024-04-22T18:09:05.902186Z",
+  "market_updatedAt": "2024-05-07T23:09:29.08025Z",
+  "market_startDate": "2024-04-24T17:59:14.264Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 05:55:16+00",
+  "conditionId": "0xe3ad90bf49d32711e862b1eccd467f7a5def4e164b2982e8f3115846d7564743",
+  "slug": "will-the-seattle-seahawks-draft-a-qb-in-the-1st-round-of-the-nfl-draft",
+  "question": "Will the Seattle Seahawks draft a QB in the 1st round of the NFL Draft?"
+}

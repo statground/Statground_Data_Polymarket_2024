@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T20:47:01.459597Z",
+  "market_createdAt": "2024-10-24T20:47:01.459597Z",
+  "market_updatedAt": "2024-11-06T21:03:07.09125Z",
+  "market_startDate": "2024-10-24T21:47:16.044093Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:59:50+00",
+  "conditionId": "0x3cbc2e894fe67018d03b442a539f950228d729f0d522e503a6c8ad6aec857a82",
+  "slug": "will-georgia-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will Georgia be the last state to be called by the AP?"
+}

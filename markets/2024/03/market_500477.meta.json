@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-27T14:39:21.628353Z",
+  "market_createdAt": "2024-03-27T14:39:21.628353Z",
+  "market_updatedAt": "2024-05-07T23:09:13.786703Z",
+  "market_startDate": "2024-03-27T14:44:20.012Z",
+  "market_endDate": "2024-03-31T12:00:00Z",
+  "market_closedTime": "2024-04-01 06:42:21+00",
+  "conditionId": "0xc3cda87c0ede457c9d572ee542674daa171b637aedf326bbc8f53fa619607fb8",
+  "slug": "diddy-flees-us-in-march",
+  "question": "Diddy flees US in March?"
+}

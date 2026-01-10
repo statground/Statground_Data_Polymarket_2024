@@ -1,0 +1,25 @@
+{
+  "entity": "event",
+  "event_id": "11878",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-08-06T16:04:00.936513Z",
+  "event_createdAt": "2024-08-06T16:04:00.936513Z",
+  "event_creationDate": "2024-08-06T16:40:56.663002Z",
+  "event_startDate": "2024-08-06T16:40:56.663005Z",
+  "event_endDate": "2024-12-18T12:00:00Z",
+  "event_updatedAt": "2024-12-19T22:35:25.291555Z",
+  "markets_len": 6,
+  "market_ids": [
+    "504584",
+    "504585",
+    "504586",
+    "504587",
+    "504588",
+    "507419"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "35"
+  ],
+  "series_slug": "fed-interest-rates"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T21:19:55.672591Z",
+  "market_createdAt": "2024-10-29T21:19:55.672591Z",
+  "market_updatedAt": "2024-11-06T07:13:12.547537Z",
+  "market_startDate": "2024-10-29T21:59:40.111763Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:33:01+00",
+  "conditionId": "0x5073a950dbea1a73022758b6ad2dac05073400ddcf9ad8c907919c76608fcdcc",
+  "slug": "bitcoin-new-all-time-high-before-election",
+  "question": "Bitcoin new all time high before election?"
+}

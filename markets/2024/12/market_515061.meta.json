@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:00:04.633188Z",
+  "market_createdAt": "2024-12-08T07:00:04.633188Z",
+  "market_updatedAt": "2024-12-14T03:45:09.70032Z",
+  "market_startDate": "2024-12-08T07:03:11.421439Z",
+  "market_endDate": "2024-12-20T00:00:00Z",
+  "market_closedTime": "2024-12-13 04:44:21+00",
+  "conditionId": "0xe3954664a3aff76dc0efa73c2cc1c1c7fade84f0a515ed72baf4ace8e5065e75",
+  "slug": "nhl-lak-nj-2024-12-12",
+  "question": "Kings vs. Devils"
+}

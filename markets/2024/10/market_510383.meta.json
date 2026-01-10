@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:35:26.840325Z",
+  "market_createdAt": "2024-10-21T20:35:26.840325Z",
+  "market_updatedAt": "2024-10-29T06:27:08.010696Z",
+  "market_startDate": "2024-10-21T20:37:59.424227Z",
+  "market_endDate": "2024-10-27T19:30:00Z",
+  "market_closedTime": "2024-10-28 06:23:44+00",
+  "conditionId": "0xb2c03eef840cd09c9e81c944aad310251922fffb3ee6426612441bb3535fbc56",
+  "slug": "nba-phi-ind-2024-10-27",
+  "question": "76ers vs. Pacers"
+}

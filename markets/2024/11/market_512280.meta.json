@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:53:21.966356Z",
+  "market_createdAt": "2024-11-07T18:53:21.966356Z",
+  "market_updatedAt": "2024-11-20T21:38:57.853088Z",
+  "market_startDate": "2024-11-07T20:38:30.749841Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 22:56:36+00",
+  "conditionId": "0xd858d56b0352223a41d9f64d9c2fe5509622e0c3e92d8b445f8008b2b306c680",
+  "slug": "will-trump-nominate-bill-hagerty-for-commerce-secretary",
+  "question": "Will Trump nominate Bill Hagerty for Commerce Secretary?"
+}

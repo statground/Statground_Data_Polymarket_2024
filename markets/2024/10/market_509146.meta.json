@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T21:59:25.673027Z",
+  "market_createdAt": "2024-10-07T21:59:25.673027Z",
+  "market_updatedAt": "2024-11-24T02:18:49.501402Z",
+  "market_startDate": "2024-10-08T16:44:03.020559Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-23 06:00:33+00",
+  "conditionId": "0x62374d261898cdadf3f768f3ebaeb51e0834a62cd1f3762ab6a34434e77e01d6",
+  "slug": "will-the-republican-candidate-win-georgia-by-2pt0-3pt0",
+  "question": "Will the Republican candidate win Georgia by 2.0%-3.0%?"
+}

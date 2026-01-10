@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T23:09:13.379056Z",
+  "market_createdAt": "2024-03-28T23:09:13.379056Z",
+  "market_updatedAt": "2024-11-08T18:18:55.559573Z",
+  "market_startDate": "2024-04-10T19:31:57.578Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 19:23:26+00",
+  "conditionId": "0xe90fde5bbf32a779f5ad8cd47f890acd9f86b73e34e0f620698122052189a079",
+  "slug": "congressional-district-2nd-maine-will-a-republican-win",
+  "question": "Will a Republican win Maine's 2nd congressional district?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:21:41.842506Z",
+  "market_createdAt": "2024-06-24T23:21:41.842506Z",
+  "market_updatedAt": "2024-06-26T17:51:13.255837Z",
+  "market_startDate": "2024-06-24T23:28:32.169Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-25 21:02:26+00",
+  "conditionId": "0x184c7d675c28932a06c58a20e5f99a3c91b4df4755710ec8a36715000eb3b565",
+  "slug": "will-poland-win-june-25",
+  "question": "Will Poland win?"
+}

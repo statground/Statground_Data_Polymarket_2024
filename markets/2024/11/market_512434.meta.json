@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T20:10:59.397035Z",
+  "market_createdAt": "2024-11-08T20:10:59.397035Z",
+  "market_updatedAt": "2024-11-11T03:02:39.264231Z",
+  "market_startDate": "2024-11-08T22:20:26.276628Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:26:33+00",
+  "conditionId": "0x2e6b6ba7d93d378fad1b84db56caa701fea6748f4a7599d0ced33d27744b6a01",
+  "slug": "cfb-penn-state-vs-washington",
+  "question": "CFB: Penn State vs. Washington"
+}

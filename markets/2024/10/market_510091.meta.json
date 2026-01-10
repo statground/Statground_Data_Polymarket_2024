@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T15:29:01.696289Z",
+  "market_createdAt": "2024-10-18T15:29:01.696289Z",
+  "market_updatedAt": "2024-10-20T03:26:48.351422Z",
+  "market_startDate": "2024-10-18T16:56:20.92843Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 07:59:32+00",
+  "conditionId": "0xccb3e5c8e393a01f1bc665fa7c0a9575be292dfec3200a71d470400b474e4c1a",
+  "slug": "will-byu-beat-oklahoma-state-by-10-or-more-points",
+  "question": "Will BYU beat Oklahoma State by 10 or more points?"
+}

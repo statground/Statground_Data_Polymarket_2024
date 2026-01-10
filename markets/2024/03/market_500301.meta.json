@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:21:43.613855Z",
+  "market_createdAt": "2024-03-18T23:21:43.613855Z",
+  "market_updatedAt": "2024-05-07T23:09:39.644095Z",
+  "market_startDate": "2024-03-19T00:00:58.894Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-24 09:09:33+00",
+  "conditionId": "0x0c4648bab1119f688dac47d44ac1088449ba4f2c96d084989c1308a4288f63ed",
+  "slug": "will-kyle-kirkland-win-ca20-special-election",
+  "question": "Will Kyle Kirkland win CA-20 Special Election?"
+}

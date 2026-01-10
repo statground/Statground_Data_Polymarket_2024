@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:14:39.986129Z",
+  "market_createdAt": "2024-12-02T19:14:39.986129Z",
+  "market_updatedAt": "2024-12-08T20:17:41.863967Z",
+  "market_startDate": "2024-12-02T19:18:23.215745Z",
+  "market_endDate": "2024-12-07T17:30:00Z",
+  "market_closedTime": "2024-12-07 22:38:25+00",
+  "conditionId": "0x6c98a34f34915e73dae6e8fcbe4b0031ff667cee6926dcdbf4c475f9044dd635",
+  "slug": "epl-mun-not-2024-12-07-draw",
+  "question": "Will Manchester United vs. Nottingham Forest end in a draw?"
+}

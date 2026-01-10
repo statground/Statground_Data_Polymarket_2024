@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:26:48.481014Z",
+  "market_createdAt": "2024-07-08T22:26:48.481014Z",
+  "market_updatedAt": "2024-07-22T16:16:43.47338Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:35:42+00",
+  "conditionId": "0x443faca29c454432c84c6a6a5486d770458ea8f774262a1621b62d96459e8779",
+  "slug": "will-juan-ayuso-win-the-2024-tour-de-france",
+  "question": "Will Juan Ayuso win the 2024 Tour de France?"
+}

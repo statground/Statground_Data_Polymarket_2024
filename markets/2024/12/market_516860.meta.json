@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:54:44.647632Z",
+  "market_createdAt": "2024-12-30T17:54:44.647632Z",
+  "market_updatedAt": "2025-04-01T06:58:08.05828Z",
+  "market_startDate": "2024-12-30T20:32:05.688487Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 06:55:14+00",
+  "conditionId": "0x40966d6cc29422d7fdc6132211d42641060b155f02b72eac30dc67fc33cd8f9a",
+  "slug": "jumper-airdrop-in-q1-2025",
+  "question": "Jumper airdrop in Q1 2025?"
+}

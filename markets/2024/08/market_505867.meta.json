@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505867",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T01:55:22.625932Z",
+  "market_createdAt": "2024-08-27T01:55:22.625932Z",
+  "market_updatedAt": "2024-10-02T09:12:52.969009Z",
+  "market_startDate": "2024-08-27T01:55:22.625Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 09:12:30+00",
+  "conditionId": "0xeacb0280480b1b8777f14bce35b2de253a37d7312ff7fb64a351e8cc655fed47",
+  "slug": "will-california-pass-sb-1047-ai-safety-bill",
+  "question": "Will California pass SB 1047 AI safety bill?"
+}

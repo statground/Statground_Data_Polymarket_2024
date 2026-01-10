@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T15:19:38.080060Z",
+  "market_createdAt": "2024-10-08T15:19:38.08006Z",
+  "market_updatedAt": "2024-11-02T13:51:12.254665Z",
+  "market_startDate": "2024-10-08T15:46:57.936883Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 15:46:53+00",
+  "conditionId": "0x8bee5904f15d7bd78d0e99857a1033287a0318e033c3f4ba5c49072bc5d9cbc4",
+  "slug": "will-the-us-add-150-200k-jobs-in-october",
+  "question": "Will the US add 150-200k jobs in October?"
+}

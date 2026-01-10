@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T16:58:56.238193Z",
+  "market_createdAt": "2024-08-12T16:58:56.238193Z",
+  "market_updatedAt": "2024-08-17T02:47:01.906975Z",
+  "market_startDate": "2024-08-15T12:00:00Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 04:04:21+00",
+  "conditionId": "0xdcc5d1482abf4ed554b1efdfce19a82bd04edc346d4afb79051d943c6959dde5",
+  "slug": "nfl-ne-phi-2024-08-15",
+  "question": "Patriots vs. Eagles"
+}

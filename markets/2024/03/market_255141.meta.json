@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:48:37.159000Z",
+  "market_createdAt": "2024-03-01T18:48:37.159Z",
+  "market_updatedAt": "2024-11-07T10:39:03.99024Z",
+  "market_startDate": "2024-03-28T20:40:23.546Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:14:47+00",
+  "conditionId": "0x2b28adb486a55c74742bef4f3ddf2ce859b0245fcec2be2f23334fbbbe89cd36",
+  "slug": "will-a-candidate-from-another-party-win-maryland-presidential-election",
+  "question": "Will a candidate from another party win Maryland Presidential Election?"
+}

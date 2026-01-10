@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-15T18:45:59.583000Z",
+  "market_createdAt": "2024-02-15T18:45:59.583Z",
+  "market_updatedAt": "2024-02-19T19:37:39.701Z",
+  "market_startDate": "2024-02-16T00:50:00Z",
+  "market_endDate": "2024-02-16T00:00:00Z",
+  "market_closedTime": "2024-02-18 23:45:54+00",
+  "conditionId": "0x04caa46639729d7512a19226ecd86ff697ba27c998dd4e7a545fd4d920907caa",
+  "slug": "will-teo-yoo-win-the-bafta-for-best-actor",
+  "question": "Will Teo Yoo win the BAFTA for Best Actor?"
+}

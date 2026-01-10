@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:14:55.722865Z",
+  "market_createdAt": "2024-11-05T22:14:55.722865Z",
+  "market_updatedAt": "2024-11-11T07:26:39.229081Z",
+  "market_startDate": "2024-11-05T22:49:41.941978Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-10 09:42:20+00",
+  "conditionId": "0xe0ca6ed8e5d3a5ca7c9a6a9b40880cedc8cd9730e62db3780119b9b3e9891604",
+  "slug": "will-trump-concede-by-friday",
+  "question": "Will Trump concede by Friday? "
+}

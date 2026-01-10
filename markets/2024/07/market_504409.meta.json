@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T21:54:01.242168Z",
+  "market_createdAt": "2024-07-31T21:54:01.242168Z",
+  "market_updatedAt": "2024-08-04T17:37:02.897368Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 17:34:07+00",
+  "conditionId": "0xf02e333fa3b11824bd6f2c88f43fe2b35b1a1904254cbb5464a82f478bba80b2",
+  "slug": "will-another-athlete-win-gold-in-womens-uneven-bar-final",
+  "question": "Will another athlete win Gold in Women’s Uneven Bar Final?"
+}

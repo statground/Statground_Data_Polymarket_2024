@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:05:43.639671Z",
+  "market_createdAt": "2024-11-01T18:05:43.639671Z",
+  "market_updatedAt": "2024-11-04T03:52:57.719998Z",
+  "market_startDate": "2024-11-01T23:02:23.95984Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 04:45:34+00",
+  "conditionId": "0x215cf562affd41a8780f86983432b12bcaf466891a13e5f4556e28f5baa9d2da",
+  "slug": "will-iowa-beat-wisconsin",
+  "question": "Will Iowa beat Wisconsin?"
+}

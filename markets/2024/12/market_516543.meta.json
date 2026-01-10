@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T20:10:09.526838Z",
+  "market_createdAt": "2024-12-27T20:10:09.526838Z",
+  "market_updatedAt": "2024-12-29T14:58:41.685095Z",
+  "market_startDate": "2024-12-27T21:32:47.79352Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 04:22:58+00",
+  "conditionId": "0x5d39158529bdc4c2d86018557b1dc801cb91af5977c50d81b32821625a3f60a1",
+  "slug": "will-nc-state-beat-ecu-by-7-or-more-points",
+  "question": "Will NC State beat ECU by 7 or more points?"
+}

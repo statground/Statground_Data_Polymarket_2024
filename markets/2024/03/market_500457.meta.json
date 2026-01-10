@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500457",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T19:08:52.334136Z",
+  "market_createdAt": "2024-03-26T19:08:52.334136Z",
+  "market_updatedAt": "2024-05-07T23:09:32.961069Z",
+  "market_startDate": "2024-03-26T21:08:37.412Z",
+  "market_endDate": "2024-04-23T12:00:00Z",
+  "market_closedTime": "2024-04-22 02:48:36+00",
+  "conditionId": "0xa339d5a23e004e0bc97edbb8acaf800caab9080af5159351999d2c5a67b5289a",
+  "slug": "will-hikaru-nakamura-win-fide-candidates-2024",
+  "question": "Will Hikaru Nakamura win FIDE Candidates 2024?"
+}

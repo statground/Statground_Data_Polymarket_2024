@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:02:03.557978Z",
+  "market_createdAt": "2024-11-06T22:02:03.557978Z",
+  "market_updatedAt": "2025-01-21T18:18:58.90133Z",
+  "market_startDate": "2024-11-06T23:12:08.354Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 19:40:44+00",
+  "conditionId": "0x4cc2cfa101ff18bd886edae9b49d7e8fbfac29d293ef51ac5846920754da736d",
+  "slug": "will-bill-clinton-attend-presidential-inauguration",
+  "question": "Will Bill Clinton attend presidential inauguration?"
+}

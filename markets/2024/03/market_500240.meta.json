@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:24:22.912873Z",
+  "market_createdAt": "2024-03-18T15:24:22.912873Z",
+  "market_updatedAt": "2024-05-07T23:09:57.703485Z",
+  "market_startDate": "2024-03-18T18:58:53.156Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-22 07:38:27+00",
+  "conditionId": "0xeb3d705515394145bf7e4ecf68b7fbfc6399074c823ceeec6fe35c42031fa98b",
+  "slug": "will-texas-tech-win-the-ncaa-tournament",
+  "question": "Will Texas Tech win the NCAA tournament?"
+}

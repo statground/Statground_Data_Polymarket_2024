@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T05:02:52.468308Z",
+  "market_createdAt": "2024-12-18T05:02:52.468308Z",
+  "market_updatedAt": "2024-12-22T18:37:42.551819Z",
+  "market_startDate": "2024-12-18T05:05:22.991436Z",
+  "market_endDate": "2024-12-21T15:00:00Z",
+  "market_closedTime": "2024-12-21 20:25:27+00",
+  "conditionId": "0x608a1e055d09bd47876d159a9ef142cf12b98c261c665e1ab299aba80f0e049f",
+  "slug": "epl-ips-new-2024-12-21-draw",
+  "question": "Will Ipswich vs. Newcastle end in a draw?"
+}

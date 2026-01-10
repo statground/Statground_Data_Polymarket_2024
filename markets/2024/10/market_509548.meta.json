@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:56:14.604528Z",
+  "market_createdAt": "2024-10-10T19:56:14.604528Z",
+  "market_updatedAt": "2024-10-20T16:42:55.354367Z",
+  "market_startDate": "2024-10-10T19:57:57.669011Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:23:08+00",
+  "conditionId": "0xafc8c931c8a04a13d554ed26f7d3b5fbbc4dc922fad3e3849322fd430c7546c3",
+  "slug": "epl-ips-eve-2024-10-19-draw",
+  "question": "Will Ipswich vs. Everton end in a draw?"
+}

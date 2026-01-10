@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T16:52:42.105850Z",
+  "market_createdAt": "2024-08-15T16:52:42.10585Z",
+  "market_updatedAt": "2024-11-14T03:59:05.663554Z",
+  "market_startDate": "2024-08-15T16:52:42.105Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-13 05:50:48+00",
+  "conditionId": "0xc25e59d89a54d4cf156eec9a8fb485b831d927c28702f24b67665089534c7e21",
+  "slug": "ca-27-election-whitesides-d-vs-garcia-r",
+  "question": "CA-27 election: Whitesides (D) vs. Garcia (R)"
+}

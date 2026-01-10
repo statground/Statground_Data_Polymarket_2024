@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T16:32:35.186468Z",
+  "market_createdAt": "2024-06-10T16:32:35.186468Z",
+  "market_updatedAt": "2024-07-01T22:40:54.405078Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 11:46:15+00",
+  "conditionId": "0xa262f6c8f7d545a97d86faa313c4b5bc26b38d562c8396b506b52694cc5819f9",
+  "slug": "next-israel-x-hamas-ceasefire-in-june",
+  "question": "Next Israel x Hamas ceasefire in June?"
+}

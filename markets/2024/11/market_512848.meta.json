@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T17:13:40.370599Z",
+  "market_createdAt": "2024-11-12T17:13:40.370599Z",
+  "market_updatedAt": "2024-12-04T22:57:34.124785Z",
+  "market_startDate": "2024-11-12T17:39:15.256Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:20:18+00",
+  "conditionId": "0x42659126f4c72922009cbc7f4d88fe1dcfaf8ef21dcc1212c2604fa0cd636452",
+  "slug": "will-pnl-win-the-most-seats-in-the-romanian-parliamentary-election",
+  "question": "Will PNL win the most seats in the Romanian parliamentary election?"
+}

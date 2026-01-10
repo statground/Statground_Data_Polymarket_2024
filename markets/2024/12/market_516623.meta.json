@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:07:57.369139Z",
+  "market_createdAt": "2024-12-29T05:07:57.369139Z",
+  "market_updatedAt": "2025-01-05T06:21:00.86766Z",
+  "market_startDate": "2024-12-29T05:10:31.275506Z",
+  "market_endDate": "2025-01-11T02:00:00Z",
+  "market_closedTime": "2025-01-04 06:36:54+00",
+  "conditionId": "0x339943356f077f4108a1c943355b8c895ba9ba5eb95390acaa2c31461492ca5d",
+  "slug": "nba-sas-den-2025-01-03",
+  "question": "Spurs vs. Nuggets"
+}

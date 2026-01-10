@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T20:59:49.819933Z",
+  "market_createdAt": "2024-08-07T20:59:49.819933Z",
+  "market_updatedAt": "2024-08-21T05:21:02.040356Z",
+  "market_startDate": "2024-08-09T20:39:00.426Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-20 05:17:18+00",
+  "conditionId": "0x14ca678afb1d9c47a94dc39d899af68ce658f41d42815df67836a1fabb3805b2",
+  "slug": "will-jill-biden-speak-at-the-dnc",
+  "question": "Will Jill Biden speak at the DNC?"
+}

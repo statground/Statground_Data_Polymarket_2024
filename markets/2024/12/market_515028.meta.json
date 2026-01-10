@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:00:11.322501Z",
+  "market_createdAt": "2024-12-08T05:00:11.322501Z",
+  "market_updatedAt": "2024-12-09T22:21:25.886114Z",
+  "market_startDate": "2024-12-08T05:03:21.073852Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 22:35:32+00",
+  "conditionId": "0x4aefb2fd20aba54fd5aa11096468e22024e66088216d43c5a0e88839047ea785",
+  "slug": "nba-phi-chi-2024-12-08",
+  "question": "76ers vs. Bulls"
+}

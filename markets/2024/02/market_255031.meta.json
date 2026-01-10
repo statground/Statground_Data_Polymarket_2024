@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T22:07:41.158000Z",
+  "market_createdAt": "2024-02-29T22:07:41.158Z",
+  "market_updatedAt": "2024-04-22T22:30:41.666856Z",
+  "market_startDate": "2024-02-29T23:12:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 08:00:48+00",
+  "conditionId": "0x36ad96d44eb72bf5e041158edd4d2eb0484828ae78ab1f1759fe281029223769",
+  "slug": "will-vermont-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Vermont be Trump's worst state on Super Tuesday?"
+}

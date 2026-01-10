@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T15:06:55.869206Z",
+  "market_createdAt": "2024-08-23T15:06:55.869206Z",
+  "market_updatedAt": "2024-08-31T17:57:08.17771Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 18:04:14+00",
+  "conditionId": "0x5caad4415ba1bbc2daa654c69f2d995460ca1f3e6882baca99a85ffe2d0fbde4",
+  "slug": "ethereum-above-2500-on-august-30",
+  "question": "Ethereum above $2,500 on August 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T02:26:32.196859Z",
+  "market_createdAt": "2024-09-04T02:26:32.196859Z",
+  "market_updatedAt": "2024-09-12T04:47:06.199282Z",
+  "market_startDate": "2024-09-04T02:31:11.441Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:13:54+00",
+  "conditionId": "0xe6008988f37a504c76aeea5490c3294fcb833bb79029f7e8c778f4a268a5e883",
+  "slug": "will-kamala-say-im-speaking-at-debate",
+  "question": "Will Kamala say \"I'm speaking\" at debate?"
+}

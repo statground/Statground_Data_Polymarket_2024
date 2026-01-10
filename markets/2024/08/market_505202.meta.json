@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T15:26:50.276281Z",
+  "market_createdAt": "2024-08-16T15:26:50.276281Z",
+  "market_updatedAt": "2024-08-24T16:26:58.10625Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:22:55+00",
+  "conditionId": "0x31f12412912a104cd5138018ae195995c4ca9d237b589039ce03bcb5200668e2",
+  "slug": "will-trump-lead-on-august-23",
+  "question": "Will Trump lead on August 23?"
+}

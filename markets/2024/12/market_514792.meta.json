@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:17:58.412086Z",
+  "market_createdAt": "2024-12-04T21:17:58.412086Z",
+  "market_updatedAt": "2024-12-11T04:31:14.257768Z",
+  "market_startDate": "2024-12-04T21:21:23.305731Z",
+  "market_endDate": "2024-12-17T00:00:00Z",
+  "market_closedTime": "2024-12-10 04:30:33+00",
+  "conditionId": "0x673f7f8229948e451a6376077354ffecac930beb7c830ad17ee9b619abc04771",
+  "slug": "nhl-chi-nyr-2024-12-09",
+  "question": "Blackhawks vs. Rangers"
+}

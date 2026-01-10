@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:31:36.283242Z",
+  "market_createdAt": "2024-10-13T20:31:36.283242Z",
+  "market_updatedAt": "2024-10-15T21:20:43.131226Z",
+  "market_startDate": "2024-10-14T14:55:57.319775Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 01:39:49+00",
+  "conditionId": "0x6f8430cb21a8da221f31dd5fdcb31d42da480b0831f3e40c7a53513a9c1489b0",
+  "slug": "will-italy-beat-israel",
+  "question": "Will Italy beat Israel?"
+}

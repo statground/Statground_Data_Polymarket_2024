@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:33:20.833198Z",
+  "market_createdAt": "2024-11-21T22:33:20.833198Z",
+  "market_updatedAt": "2024-12-01T05:17:30.962157Z",
+  "market_startDate": "2024-11-25T18:48:28.666909Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-30 08:42:28+00",
+  "conditionId": "0x873866fbbc446e9dc7fbe430c36aa086baea7fa19a0efeca467a3338352ea180",
+  "slug": "will-the-sacramento-kings-win-the-2024-nba-cup",
+  "question": "Will the Sacramento Kings win the 2024 NBA Cup?"
+}

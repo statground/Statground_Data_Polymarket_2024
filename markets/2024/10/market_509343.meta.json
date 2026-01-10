@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:14:37.699423Z",
+  "market_createdAt": "2024-10-09T17:14:37.699423Z",
+  "market_updatedAt": "2025-04-14T04:02:03.948487Z",
+  "market_startDate": "2024-10-10T20:15:30.734823Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 03:59:08+00",
+  "conditionId": "0x2f9ac2ac323b01e3b3dd6f9659a3e26baad58929c6b6bc9aa2703376c6c1128a",
+  "slug": "will-anthony-davis-lead-the-nba-in-scoring",
+  "question": "Will Anthony Davis lead the NBA in scoring?"
+}

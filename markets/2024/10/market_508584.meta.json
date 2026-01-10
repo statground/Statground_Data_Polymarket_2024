@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:43:10.244028Z",
+  "market_createdAt": "2024-10-01T18:43:10.244028Z",
+  "market_updatedAt": "2024-10-07T16:06:35.510438Z",
+  "market_startDate": "2024-10-02T15:26:58.456667Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 18:08:46+00",
+  "conditionId": "0x356d555a8a92b5acba4896191a47f793ee7e07901d9a12f100cbd1bd75ae562d",
+  "slug": "will-aston-villa-beat-manchester-united",
+  "question": "Will Aston Villa beat Manchester United?"
+}

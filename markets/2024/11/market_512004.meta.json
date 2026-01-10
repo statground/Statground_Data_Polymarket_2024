@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:39:01.412007Z",
+  "market_createdAt": "2024-11-05T04:39:01.412007Z",
+  "market_updatedAt": "2024-11-08T00:57:13.82529Z",
+  "market_startDate": "2024-11-05T20:16:42.480767Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:33:24+00",
+  "conditionId": "0xd8999bdbeef583fdb4685dbc61b8397bec84cf9623e63b0fbddb0a0938833e91",
+  "slug": "will-the-match-between-paris-saint-germain-and-atletico-madrid-end-in-a-draw",
+  "question": "Will the match between Paris Saint-Germain and Atletico Madrid end in a draw?"
+}

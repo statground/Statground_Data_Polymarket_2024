@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:26:03.963621Z",
+  "market_createdAt": "2024-07-08T16:26:03.963621Z",
+  "market_updatedAt": "2024-07-15T21:10:50.541707Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:42:12+00",
+  "conditionId": "0x52200c757f71a2f1387cda3ec9bb80084e062bdd5a93e685f129f65971f2414d",
+  "slug": "will-xavi-simons-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Xavi Simons be Player of the Tournament for Euro 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:03:48.258079Z",
+  "market_createdAt": "2024-07-15T16:03:48.258079Z",
+  "market_updatedAt": "2024-07-17T23:18:44.230468Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-17 02:44:44+00",
+  "conditionId": "0xf7572d3164bc0358f8c928cd5b98221aaae8ac2e801bf726eee1a68944a04008",
+  "slug": "will-malo-latinois-win-the-wsop-main-event",
+  "question": "Will Malo Latinois win the WSOP main event?"
+}

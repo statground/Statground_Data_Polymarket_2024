@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:45:40.840641Z",
+  "market_createdAt": "2024-09-06T15:45:40.840641Z",
+  "market_updatedAt": "2024-09-08T22:13:04.070198Z",
+  "market_startDate": "2024-09-06T18:19:08.238721Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:16:40+00",
+  "conditionId": "0x55359334c764e2db749cf03d80ac3966387e77e4cb854526c396414bb3a334a8",
+  "slug": "will-iowa-win-by-4-or-more-points",
+  "question": "Will Iowa win by 4 or more points?"
+}

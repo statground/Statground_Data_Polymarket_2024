@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T20:27:28.956384Z",
+  "market_createdAt": "2024-11-22T20:27:28.956384Z",
+  "market_updatedAt": "2025-04-02T01:32:36.740655Z",
+  "market_startDate": "2024-11-22T21:08:40.332Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:25:12+00",
+  "conditionId": "0xa93623e5dcd6a82ba77044a9d0f97e1afe97c2d7a15529076f9e2837b058b5ca",
+  "slug": "will-elon-musk-buy-msnbc-before-april-2025",
+  "question": "Will Elon Musk buy MSNBC?"
+}

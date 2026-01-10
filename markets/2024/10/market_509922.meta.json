@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:01:41.347682Z",
+  "market_createdAt": "2024-10-15T19:01:41.347682Z",
+  "market_updatedAt": "2024-10-18T05:16:45.391039Z",
+  "market_startDate": "2024-10-15T20:39:52.306Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:16:45+00",
+  "conditionId": "0xbebb3b850e0f4f96b968fa9c82437970afc4a6da3d5cc886282751214a6f9db7",
+  "slug": "will-trump-say-trans-during-univision-town-hall",
+  "question": "Will Trump say \"trans\" during Univision town hall?"
+}

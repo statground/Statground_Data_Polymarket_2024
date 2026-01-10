@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:09:25.761476Z",
+  "market_createdAt": "2024-10-09T17:09:25.761476Z",
+  "market_updatedAt": "2025-04-14T04:31:51.444641Z",
+  "market_startDate": "2024-10-10T20:03:01.695662Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:29:06+00",
+  "conditionId": "0x54fe3865c59f0ba109f2f8b91d3d0943690e4940504265fa278f16da5406fd9e",
+  "slug": "will-joel-embiid-lead-the-nba-in-scoring",
+  "question": "Will Joel Embiid lead the NBA in scoring?"
+}

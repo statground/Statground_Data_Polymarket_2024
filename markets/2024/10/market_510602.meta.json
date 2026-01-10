@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T17:45:00.016551Z",
+  "market_createdAt": "2024-10-22T17:45:00.016551Z",
+  "market_updatedAt": "2024-10-29T03:07:04.422588Z",
+  "market_startDate": "2024-10-22T22:33:54.886Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 03:08:09+00",
+  "conditionId": "0xce554a3fca54898f04219002ba77e6975b02628afa1e46d4a8aac9a7c3a69eea",
+  "slug": "will-trump-say-trans-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"trans\" during New York rally on October 27?"
+}

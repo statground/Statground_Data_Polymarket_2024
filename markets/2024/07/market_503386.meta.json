@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T15:29:57.577685Z",
+  "market_createdAt": "2024-07-11T15:29:57.577685Z",
+  "market_updatedAt": "2024-07-16T22:16:44.670548Z",
+  "market_startDate": "2024-07-12T17:21:36.538Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-16 00:24:55+00",
+  "conditionId": "0x036a9936f12e02acce71a944f76e1a38667b0faa1d47f69a546e3001b4710244",
+  "slug": "euro-finals-pitch-invader",
+  "question": "Euro Finals pitch invader?"
+}

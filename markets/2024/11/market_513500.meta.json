@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T20:17:15.960990Z",
+  "market_createdAt": "2024-11-19T20:17:15.96099Z",
+  "market_updatedAt": "2025-01-22T03:00:55.454573Z",
+  "market_startDate": "2024-11-19T23:29:11.095Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-01-21 06:23:12+00",
+  "conditionId": "0x3f50a26fa6973f5830f6802011a4c3789c30d4cf027efc7ca2fde8e144f160f9",
+  "slug": "no-trump-cabinet-confirmations-in-january",
+  "question": "No Trump Cabinet confirmations in January? "
+}

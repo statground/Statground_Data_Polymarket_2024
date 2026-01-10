@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:13:10.214984Z",
+  "market_createdAt": "2024-09-03T17:13:10.214984Z",
+  "market_updatedAt": "2024-09-12T03:17:03.0333Z",
+  "market_startDate": "2024-09-03T21:50:52.073Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:19:04+00",
+  "conditionId": "0x78a4702f121b256bfc0d54258c3c4dc525eefa0759538318b8c025b0904b1a7d",
+  "slug": "will-kamala-say-dei-at-debate",
+  "question": "Will Kamala say \"DEI\" at debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512176",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T17:37:50.143923Z",
+  "market_createdAt": "2024-11-06T17:37:50.143923Z",
+  "market_updatedAt": "2024-12-11T19:05:20.137608Z",
+  "market_startDate": "2024-11-06T18:54:29.238038Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-10 19:17:15+00",
+  "conditionId": "0xf873b562a57f806b34aa30ecbcf37d61462bbf819e5fa5f2a04fe202bc1bca77",
+  "slug": "will-the-november-2024-temperature-increase-be-between-1pt25-1pt29c",
+  "question": "Will the November 2024 temperature increase be between 1.25-1.29°C?"
+}

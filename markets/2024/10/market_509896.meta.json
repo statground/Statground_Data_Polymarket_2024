@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509896",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:08:27.055813Z",
+  "market_createdAt": "2024-10-15T18:08:27.055813Z",
+  "market_updatedAt": "2024-10-20T21:46:44.743152Z",
+  "market_startDate": "2024-10-15T19:32:12.984198Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 00:38:33+00",
+  "conditionId": "0x94e67f9a41a521990057dd3ce5fd73363961f5617bd7fd85ff7059c571247e93",
+  "slug": "will-carlos-alcaraz-win-the-six-kings-slam",
+  "question": "Will Carlos Alcaraz win the Six Kings Slam?"
+}

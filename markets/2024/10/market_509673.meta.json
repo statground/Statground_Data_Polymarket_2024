@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:26:06.599223Z",
+  "market_createdAt": "2024-10-11T17:26:06.599223Z",
+  "market_updatedAt": "2024-10-13T20:56:47.486165Z",
+  "market_startDate": "2024-10-11T19:33:06.9174Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 23:49:35+00",
+  "conditionId": "0x092293086488aa159a9d4d92583fed5d66478a89c37eeee20a7efaa502033036",
+  "slug": "will-denmark-beat-spain",
+  "question": "Will Denmark beat Spain?"
+}

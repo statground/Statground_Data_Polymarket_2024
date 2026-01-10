@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T19:15:04.572098Z",
+  "market_createdAt": "2024-07-02T19:15:04.572098Z",
+  "market_updatedAt": "2024-07-07T06:55:47.469922Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 08:20:11+00",
+  "conditionId": "0x924aaeebf8bfe21bbe81107af8e4e44775fc17ce296f99952fd4ef5a04356a11",
+  "slug": "another-dem-house-member-calls-for-biden-to-drop-out-by-friday",
+  "question": "Another Dem House member calls for Biden to drop out by Friday?"
+}

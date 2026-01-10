@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:39:34.851300Z",
+  "market_createdAt": "2024-08-29T15:39:34.8513Z",
+  "market_updatedAt": "2024-09-01T00:27:03.379244Z",
+  "market_startDate": "2024-08-29T18:30:21.11Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-31 00:20:58+00",
+  "conditionId": "0x9952682dd0a174c7e681e7dea5b528ebc17252ae0649c4a6f2428f73866714b2",
+  "slug": "will-donald-trump-say-border-25-or-more-times-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"border\" 25 or more times during Pennsylvania rally?"
+}

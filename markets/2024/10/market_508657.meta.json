@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:29:32.183826Z",
+  "market_createdAt": "2024-10-01T23:29:32.183826Z",
+  "market_updatedAt": "2024-10-08T00:06:45.578778Z",
+  "market_startDate": "2024-10-01T23:31:35.91618Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-07 01:27:17+00",
+  "conditionId": "0x7213669db30a8d7bff707924a3eca707e8b322591fd36f7d5b144d325eaf4be6",
+  "slug": "nfl-las-den-2024-10-06",
+  "question": "Raiders vs. Broncos"
+}

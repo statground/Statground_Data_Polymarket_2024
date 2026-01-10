@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511891",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:25:01.297590Z",
+  "market_createdAt": "2024-11-04T18:25:01.29759Z",
+  "market_updatedAt": "2024-11-11T02:16:44.613636Z",
+  "market_startDate": "2024-11-04T19:17:23.465283Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:17:24+00",
+  "conditionId": "0x6c0d166f265496aa2c13923c239819c5677b2356cd3e11ae0bc622ef34384227",
+  "slug": "kowalkiewicz-vs-gomes",
+  "question": "Kowalkiewicz vs. Gomes"
+}

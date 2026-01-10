@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:30:53.837400Z",
+  "market_createdAt": "2024-09-06T16:30:53.8374Z",
+  "market_updatedAt": "2024-09-09T17:33:11.77157Z",
+  "market_startDate": "2024-09-06T17:37:00.792065Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-08 20:44:10+00",
+  "conditionId": "0xc8a7572a081dd52763e1a40936106082bdb2b430ee28eb6beb0db7fb8dfd2f83",
+  "slug": "will-trump-tweet-less-than-10-times-this-week",
+  "question": "Will Trump tweet less than 10 times this week?"
+}

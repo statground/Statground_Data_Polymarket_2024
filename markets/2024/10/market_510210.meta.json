@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:51:18.294235Z",
+  "market_createdAt": "2024-10-18T20:51:18.294235Z",
+  "market_updatedAt": "2024-10-22T00:37:13.196213Z",
+  "market_startDate": "2024-10-18T23:18:04.478626Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:45:42+00",
+  "conditionId": "0xbade315bf6775625b68ba05401437cc9dc8ba99e6a4a8c921ab8fc94bbe1b973",
+  "slug": "will-trump-say-ai-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"AI\" during Pennsylvania town hall on October 20?"
+}

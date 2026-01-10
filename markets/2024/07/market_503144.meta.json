@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T21:00:08.817685Z",
+  "market_createdAt": "2024-07-02T21:00:08.817685Z",
+  "market_updatedAt": "2024-07-07T05:15:47.113426Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:35:27+00",
+  "conditionId": "0x518fad4a00c54d8595a34319619759419865f55ba3ccf295486f9f4f73c940ce",
+  "slug": "will-biden-say-project-2025-in-abc-interview",
+  "question": "Will Biden say \"Project 2025\" in ABC interview?"
+}

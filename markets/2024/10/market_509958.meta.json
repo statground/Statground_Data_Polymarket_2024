@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:29:42.782743Z",
+  "market_createdAt": "2024-10-15T20:29:42.782743Z",
+  "market_updatedAt": "2024-10-21T22:31:21.216262Z",
+  "market_startDate": "2024-10-16T18:02:44.564262Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:08:21+00",
+  "conditionId": "0x966ec6654a12917cf0e780b4b0806a5d3eaf99aad0328c7daea3a87114c1e326",
+  "slug": "will-carlos-sainz-win-the-united-states-grand-prix",
+  "question": "Will Carlos Sainz win the United States Grand Prix?"
+}

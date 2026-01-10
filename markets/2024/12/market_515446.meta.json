@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T22:23:50.980784Z",
+  "market_createdAt": "2024-12-11T22:23:50.980784Z",
+  "market_updatedAt": "2025-01-21T21:07:11.192827Z",
+  "market_startDate": "2024-12-12T00:57:58.129Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:09:23+00",
+  "conditionId": "0x7f697cf4dcabd2440273944aef7a6867471b02f2f462f9703229abd8c2745b22",
+  "slug": "will-biden-pardon-hillary",
+  "question": "Will Biden pardon Hillary?"
+}

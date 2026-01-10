@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T22:38:50.411159Z",
+  "market_createdAt": "2024-10-27T22:38:50.411159Z",
+  "market_updatedAt": "2024-11-11T07:32:42.418316Z",
+  "market_startDate": "2024-10-28T16:06:13.360104Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-11-10 23:56:47+00",
+  "conditionId": "0xaad22041adbf33e630535c85374dae382520cb5649f34a940995fc5a8b1035a5",
+  "slug": "will-538-call-all-50-states-correctly",
+  "question": "Will 538 call all 50 states correctly?"
+}

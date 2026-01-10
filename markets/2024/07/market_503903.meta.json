@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T17:42:09.593404Z",
+  "market_createdAt": "2024-07-19T17:42:09.593404Z",
+  "market_updatedAt": "2024-07-31T00:06:59.559792Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-30 15:31:18+00",
+  "conditionId": "0xa58b2023c9805d58e62e9b44c308712c433b3317720008c34aa4778aed28e986",
+  "slug": "will-tomoru-honda-jpn-win-gold-in-mens-200m-butterfly",
+  "question": "Will Tomoru Honda (JPN) win Gold in Men's 200m Butterfly?"
+}

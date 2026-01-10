@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:28:08.538011Z",
+  "market_createdAt": "2024-07-17T17:28:08.538011Z",
+  "market_updatedAt": "2024-08-12T00:32:52.298469Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 00:27:48+00",
+  "conditionId": "0xb9bd873d80852079df0df5133758a477f21566b623519e5d843a8800abf77a39",
+  "slug": "will-france-win-gold-in-mens-basketball",
+  "question": "Will France win Gold in Men's Basketball?"
+}

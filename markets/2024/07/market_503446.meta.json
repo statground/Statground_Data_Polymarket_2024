@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T20:00:29.440968Z",
+  "market_createdAt": "2024-07-12T20:00:29.440968Z",
+  "market_updatedAt": "2024-07-15T20:52:50.493365Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:12:12+00",
+  "conditionId": "0xd972aeab1efc35bf4f67c47710677a49a2c716dab7f5a7288ee024e168613a86",
+  "slug": "will-england-win-in-extra-time",
+  "question": "Will England win in extra time?"
+}

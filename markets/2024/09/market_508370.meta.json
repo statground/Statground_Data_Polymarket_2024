@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:36:42.179302Z",
+  "market_createdAt": "2024-09-27T20:36:42.179302Z",
+  "market_updatedAt": "2024-09-30T12:56:35.287586Z",
+  "market_startDate": "2024-09-27T22:00:54.842356Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:39:46+00",
+  "conditionId": "0x77a8dc442a6d7ef8f8bb76154843d471a80d224f49bf15c244c0132ddac0a33c",
+  "slug": "hou-vs-jax-will-there-be-45-or-more-combined-points-scored",
+  "question": "HOU vs. JAX: Will there be 45 or more combined points scored?"
+}

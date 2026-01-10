@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:03:52.747239Z",
+  "market_createdAt": "2024-11-11T18:03:52.747239Z",
+  "market_updatedAt": "2024-11-14T04:45:37.699728Z",
+  "market_startDate": "2024-11-11T18:06:46.517117Z",
+  "market_endDate": "2024-11-21T00:30:00Z",
+  "market_closedTime": "2024-11-14 04:42:05+00",
+  "conditionId": "0x571ebd2f18861e9a55338a608fb3a8bafe9980c2bfb0a9fc68b23aef0d773918",
+  "slug": "nba-cle-phi-2024-11-13",
+  "question": "Cavaliers vs. 76ers"
+}

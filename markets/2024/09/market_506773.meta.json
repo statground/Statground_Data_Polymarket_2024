@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T18:13:54.588191Z",
+  "market_createdAt": "2024-09-10T18:13:54.588191Z",
+  "market_updatedAt": "2024-09-16T17:16:47.861585Z",
+  "market_startDate": "2024-09-10T18:42:52.419627Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 19:44:54+00",
+  "conditionId": "0x338cfb50128d1b8d2da0527d04e74e6a7ad127c95b7c5e1ca0f694fb38e31f80",
+  "slug": "will-oscar-piastri-win-the-azerbaijan-grand-prix",
+  "question": "Will Oscar Piastri win the Azerbaijan Grand Prix?"
+}

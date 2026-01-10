@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T20:08:04.663554Z",
+  "market_createdAt": "2024-12-19T20:08:04.663554Z",
+  "market_updatedAt": "2025-01-02T08:05:07.967881Z",
+  "market_startDate": "2024-12-20T00:50:14.246056Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:17:06+00",
+  "conditionId": "0xabd3a7959bb7159e32ad97768fc52ee2faf47d5a58c8d413774bcb3fd1d8fff1",
+  "slug": "doodles-token-announcement-in-2024",
+  "question": "Doodles token announcement in 2024?"
+}

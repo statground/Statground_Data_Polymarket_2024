@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T17:10:50.422338Z",
+  "market_createdAt": "2024-07-31T17:10:50.422338Z",
+  "market_updatedAt": "2024-08-02T17:13:02.067846Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:00:50+00",
+  "conditionId": "0x688e78d3e2183e8370f334b3b5680ef438569295cd219292f7771c0bfb3c612c",
+  "slug": "olympic-basketball-usa-27pt5",
+  "question": "Olympic Basketball: USA (-29.5) vs. South Sudan Spread"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:09:08.781577Z",
+  "market_createdAt": "2024-09-23T16:09:08.781577Z",
+  "market_updatedAt": "2024-10-13T05:02:51.426235Z",
+  "market_startDate": "2024-09-23T17:56:58.782Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 04:58:41+00",
+  "conditionId": "0x5676ed2076712cdb563d4a4768d4f93d380b6ef541612f90c0beefe4048ba3d9",
+  "slug": "hoffman-vs-warwick",
+  "question": "Hoffman vs. Warwick"
+}

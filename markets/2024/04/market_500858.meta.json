@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T18:37:00.496793Z",
+  "market_createdAt": "2024-04-10T18:37:00.496793Z",
+  "market_updatedAt": "2024-05-07T23:10:17.591208Z",
+  "market_startDate": "2024-04-10T20:17:01.134Z",
+  "market_endDate": "2024-05-03T12:00:00Z",
+  "market_closedTime": "2024-05-05 00:55:43+00",
+  "conditionId": "0xba9680acdb32577f18c1c211ef13abad98a3b0765d671da4e04459c31a3de1d0",
+  "slug": "friendtech-market-cap-less-than-1b-one-day-after-launch",
+  "question": "FriendTech market cap less than $1b one day after launch?"
+}

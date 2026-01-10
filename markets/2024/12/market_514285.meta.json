@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:05:00.640275Z",
+  "market_createdAt": "2024-12-01T05:05:00.640275Z",
+  "market_updatedAt": "2024-12-05T04:47:32.390023Z",
+  "market_startDate": "2024-12-01T05:08:29.610872Z",
+  "market_endDate": "2024-12-11T00:30:00Z",
+  "market_closedTime": "2024-12-04 05:13:28+00",
+  "conditionId": "0xbc15897ff26bdb5722bd6f63ab5ceebc3414fa1e001b71ff228f995a9310a6cc",
+  "slug": "nba-ind-tor-2024-12-03",
+  "question": "Pacers vs. Raptors"
+}

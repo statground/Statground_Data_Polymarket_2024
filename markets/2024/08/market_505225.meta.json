@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T17:01:04.245861Z",
+  "market_createdAt": "2024-08-16T17:01:04.245861Z",
+  "market_updatedAt": "2024-08-19T21:57:05.186221Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-18 22:23:44+00",
+  "conditionId": "0x9f922b176333d76d49b337ff600981167659f7e146d3fad9d90770279b347aa2",
+  "slug": "will-trump-tweet-10-or-more-times-this-week",
+  "question": "Will Trump tweet 10 or more times this week?"
+}

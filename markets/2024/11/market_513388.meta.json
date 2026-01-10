@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:28:23.667098Z",
+  "market_createdAt": "2024-11-18T20:28:23.667098Z",
+  "market_updatedAt": "2024-12-12T19:35:17.705339Z",
+  "market_startDate": "2024-11-18T20:43:54.652817Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-11 20:29:46+00",
+  "conditionId": "0xede0a4b072ef90690a009b9d5ee2c3276bdba5f65a67f37db23ae00969f238e7",
+  "slug": "will-ndc-win-the-most-seats-in-the-ghanaian-parliamentary-election",
+  "question": "Will NDC win the most seats in the Ghanaian parliamentary election?"
+}

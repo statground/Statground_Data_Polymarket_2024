@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:32:58.845955Z",
+  "market_createdAt": "2024-11-26T08:32:58.845955Z",
+  "market_updatedAt": "2024-11-29T22:29:28.128694Z",
+  "market_startDate": "2024-11-26T22:54:22.356175Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:25:26+00",
+  "conditionId": "0x5f099da42d40fe86b740e2995c3b3f2c738dc67dc6832d6314bf28c6d31ee708",
+  "slug": "will-twente-beat-union-st-gilloise",
+  "question": "Will Twente beat Union St-Gilloise?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T18:20:44.932904Z",
+  "market_createdAt": "2024-06-05T18:20:44.932904Z",
+  "market_updatedAt": "2024-06-12T09:21:13.78981Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 11:18:03+00",
+  "conditionId": "0xcd694421b220ff2d74c5aea962c80195b3f937343aefeaa8b6642994f62d853e",
+  "slug": "will-ensemble-receives-over-16-of-votes",
+  "question": "Will Ensemble! receives over 16% of votes?"
+}

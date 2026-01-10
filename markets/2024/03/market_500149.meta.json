@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-14T17:45:57.471435Z",
+  "market_createdAt": "2024-03-14T17:45:57.471435Z",
+  "market_updatedAt": "2024-11-23T06:22:51.673374Z",
+  "market_startDate": "2024-03-14T19:19:46.116Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-22 06:32:54+00",
+  "conditionId": "0x3ceaf53779ce80dae0f17c892cd7f3b41c949a4fab011411d9a989bac51be8d1",
+  "slug": "will-eth-or-sol-reach-alltime-high-first",
+  "question": "Will ETH or SOL reach all-time high first?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506054",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:13:06.570732Z",
+  "market_createdAt": "2024-08-29T15:13:06.570732Z",
+  "market_updatedAt": "2024-08-31T23:03:12.422834Z",
+  "market_startDate": "2024-08-29T18:28:55.649Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 23:25:51+00",
+  "conditionId": "0x784876fb7eae159292296c85ae7d908c9773e1911565899347c534b271a195fc",
+  "slug": "will-donald-trump-say-maga-3-times-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"MAGA\" 3+ times during Pennsylvania rally?"
+}

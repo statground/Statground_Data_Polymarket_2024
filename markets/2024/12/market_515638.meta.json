@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515638",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:42:57.218800Z",
+  "market_createdAt": "2024-12-13T22:42:57.2188Z",
+  "market_updatedAt": "2024-12-17T01:21:26.528948Z",
+  "market_startDate": "2024-12-13T23:38:27.164449Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 06:31:33+00",
+  "conditionId": "0xe61229127804b2f97b4e6b21cb583cfa28429b53152b840f37263073cca27bca",
+  "slug": "will-the-packers-beat-the-seahawks-by-3-or-more-points",
+  "question": "Will the Packers beat the Seahawks by 3 or more points?"
+}

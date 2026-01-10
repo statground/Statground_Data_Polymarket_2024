@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:11:49.073925Z",
+  "market_createdAt": "2024-08-14T21:11:49.073925Z",
+  "market_updatedAt": "2024-09-05T05:57:01.510211Z",
+  "market_startDate": "2024-08-14T21:11:49.073Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-09-04 07:09:00+00",
+  "conditionId": "0x341f2824d938002301f0f1d75c69dd8d5f1440161bacd9380fc3254c8b122715",
+  "slug": "will-no-onesomeone-else-win-the-bachelorette",
+  "question": "Will no one/someone else win the Bachelorette?"
+}

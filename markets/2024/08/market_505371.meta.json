@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:33:44.688076Z",
+  "market_createdAt": "2024-08-19T19:33:44.688076Z",
+  "market_updatedAt": "2024-08-22T04:47:02.83482Z",
+  "market_startDate": "2024-08-20T15:21:27.299Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:45:16+00",
+  "conditionId": "0x27e372f93693fac8a0609150a872c706874ab7da8d8ceac2abaed6568fc473bb",
+  "slug": "will-obama-say-underdog-at-dnc-speech",
+  "question": "Will Obama say \"Underdog\" at DNC speech?"
+}

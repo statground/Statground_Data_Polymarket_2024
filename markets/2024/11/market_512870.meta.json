@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:53:46.022343Z",
+  "market_createdAt": "2024-11-12T18:53:46.022343Z",
+  "market_updatedAt": "2024-12-25T02:47:35.089489Z",
+  "market_startDate": "2024-11-12T21:22:44.621234Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-24 06:08:41+00",
+  "conditionId": "0x17f61c5797a4fe98ab9a3d3d8e689d7380f5e37b69cd83e98702637c6736f8d1",
+  "slug": "will-the-green-bay-packers-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Green Bay Packers make the 2024-25 NFL Playoffs?"
+}

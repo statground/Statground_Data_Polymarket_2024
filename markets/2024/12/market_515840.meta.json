@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:15:09.827214Z",
+  "market_createdAt": "2024-12-17T17:15:09.827214Z",
+  "market_updatedAt": "2025-05-08T00:22:22.955078Z",
+  "market_startDate": "2024-12-18T15:10:50.983639Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:12:28+00",
+  "conditionId": "0xe8545ea6fed1e7cfa2547777ff038fe800002e04d046a03241ac2950558fdf09",
+  "slug": "will-the-afd-be-part-of-the-next-german-government",
+  "question": "Will the AFD be part of the next German government?"
+}

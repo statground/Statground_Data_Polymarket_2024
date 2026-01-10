@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:06:53.973587Z",
+  "market_createdAt": "2024-12-29T18:06:53.973587Z",
+  "market_updatedAt": "2026-01-02T08:33:09.544413Z",
+  "market_startDate": "2024-12-29T22:41:48.24Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:16:21+00",
+  "conditionId": "0xcddb4f52babca280f8e5fc4b9146f2520f0bfb88e134ff9ac8d52ea674185d79",
+  "slug": "fed-emergency-rate-cut-in-2025",
+  "question": "Fed emergency rate cut in 2025?"
+}

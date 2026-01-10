@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:59:58.944163Z",
+  "market_createdAt": "2024-09-27T19:59:58.944163Z",
+  "market_updatedAt": "2024-12-18T17:31:25.142179Z",
+  "market_startDate": "2024-09-27T21:01:29.462242Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-17 17:38:17+00",
+  "conditionId": "0x5030eadb74d331ce7e6457dcd4611579fe2c6a72139f2ef5128f5e305ec62208",
+  "slug": "pudgy-penguins-airdrop-in-2024",
+  "question": "Pudgy Penguins airdrop in 2024?"
+}

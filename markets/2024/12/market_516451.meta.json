@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T15:42:56.194549Z",
+  "market_createdAt": "2024-12-26T15:42:56.194549Z",
+  "market_updatedAt": "2025-02-02T08:11:35.670113Z",
+  "market_startDate": "2024-12-27T18:28:00.668579Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:07:49+00",
+  "conditionId": "0xd9bf9cb51690f2cab1f47a1e4bae5fe7826eadb205ab7bad6cd8089e759418cf",
+  "slug": "100-bird-flu-cases-in-us-before-february",
+  "question": "100+ Bird Flu cases in U.S. before February?"
+}

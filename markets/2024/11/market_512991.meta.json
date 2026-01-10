@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T20:28:08.000814Z",
+  "market_createdAt": "2024-11-13T20:28:08.000814Z",
+  "market_updatedAt": "2024-11-17T08:45:14.431425Z",
+  "market_startDate": "2024-11-14T20:49:18.582368Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 09:03:50+00",
+  "conditionId": "0x7edd43421e39df5a251bee0f06bf8e024acb6244fa5eff657d5fd63159e0cb89",
+  "slug": "will-the-fight-go-the-distance",
+  "question": "Will the fight go the distance?"
+}

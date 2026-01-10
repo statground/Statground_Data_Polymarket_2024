@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T00:19:32.797844Z",
+  "market_createdAt": "2024-11-14T00:19:32.797844Z",
+  "market_updatedAt": "2024-11-15T23:53:12.531968Z",
+  "market_startDate": "2024-11-14T15:18:21.651227Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 00:56:44+00",
+  "conditionId": "0xe9e4dad63931d29f67db8eb8ad76fcbf4be391ece37372b0ebcb1e0aee00675d",
+  "slug": "will-england-beat-greece",
+  "question": "Will England beat Greece?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:06:07.935772Z",
+  "market_createdAt": "2024-12-08T05:06:07.935772Z",
+  "market_updatedAt": "2024-12-15T05:19:06.900495Z",
+  "market_startDate": "2024-12-08T05:09:36.559784Z",
+  "market_endDate": "2024-12-21T01:00:00Z",
+  "market_closedTime": "2024-12-14 05:22:41+00",
+  "conditionId": "0x4b8988a457fcc4fbc870c3ee177022336310ce8615081dba10551b99871f3524",
+  "slug": "nba-lal-min-2024-12-13",
+  "question": "Lakers vs. Timberwolves"
+}

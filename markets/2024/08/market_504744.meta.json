@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:14:34.731150Z",
+  "market_createdAt": "2024-08-08T18:14:34.73115Z",
+  "market_updatedAt": "2024-12-10T06:41:17.23333Z",
+  "market_startDate": "2024-08-08T19:13:44.498Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-09 07:44:52+00",
+  "conditionId": "0x4d81d55347974169e9f74bb1dac8067b87d9884577bae8ca3b6dc68465122807",
+  "slug": "will-the-los-angeles-chargers-win-the-afc-west",
+  "question": "Will the Los Angeles Chargers win the AFC West?"
+}

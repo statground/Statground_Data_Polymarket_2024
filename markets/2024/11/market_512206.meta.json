@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:10:39.289626Z",
+  "market_createdAt": "2024-11-06T20:10:39.289626Z",
+  "market_updatedAt": "2024-11-16T05:50:53.801941Z",
+  "market_startDate": "2024-11-06T20:38:57.392Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 09:47:46+00",
+  "conditionId": "0x1a556b7a272171bf82e4cecd2aa8d1891d92e966b1cf90f3040515c8e90ec0da",
+  "slug": "will-trump-nominate-mike-waltz-for-defense-secretary",
+  "question": "Will Trump nominate Mike Waltz for Defense Secretary?"
+}

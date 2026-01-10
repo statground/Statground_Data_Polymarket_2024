@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:17:46.898449Z",
+  "market_createdAt": "2024-09-18T20:17:46.898449Z",
+  "market_updatedAt": "2024-11-16T04:34:49.551738Z",
+  "market_startDate": "2024-09-19T17:12:43.173551Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-16 04:31:45+00",
+  "conditionId": "0x56afb8ac38e19e880be5f192eded34b2dae70f78b38ec254522eb2778a7983a1",
+  "slug": "who-will-win-macomb-county",
+  "question": "Who will win Macomb county?"
+}

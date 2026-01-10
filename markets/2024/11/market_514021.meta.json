@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:20:10.146244Z",
+  "market_createdAt": "2024-11-25T22:20:10.146244Z",
+  "market_updatedAt": "2024-11-27T23:43:39.472454Z",
+  "market_startDate": "2024-11-25T23:28:36.918771Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:20:15+00",
+  "conditionId": "0x5468086a990d1372b88c3862fb97a1cda0e98a9ebaa7f27284bbe11aa8beab30",
+  "slug": "will-bayer-leverkusen-beat-rb-salzburg",
+  "question": "Will Bayer Leverkusen beat RB Salzburg?"
+}

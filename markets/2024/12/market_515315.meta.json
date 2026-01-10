@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:54:20.945616Z",
+  "market_createdAt": "2024-12-10T21:54:20.945616Z",
+  "market_updatedAt": "2024-12-13T23:05:22.930902Z",
+  "market_startDate": "2024-12-11T22:57:52.372469Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:08:01+00",
+  "conditionId": "0x902ef0c73176bb65aad202fb94dd2d356bcfac9e913c5eb03b1405e6d71ee889",
+  "slug": "will-manchester-united-beat-viktoria-plzen",
+  "question": "Will Manchester United beat Viktoria Plzen?"
+}

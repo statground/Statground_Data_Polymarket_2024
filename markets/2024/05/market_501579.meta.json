@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T23:17:18.885137Z",
+  "market_createdAt": "2024-05-13T23:17:18.885137Z",
+  "market_updatedAt": "2024-06-11T07:26:16.210359Z",
+  "market_startDate": "2024-05-14T18:30:02.16Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 09:30:53+00",
+  "conditionId": "0x1fc268c4dd8f268b9b2a674fc149be32e95044b0141ee89566ec7455c9aae820",
+  "slug": "will-the-spd-receive-more-than-15-of-votes",
+  "question": "Will the SPD receive more than 15% of votes?"
+}

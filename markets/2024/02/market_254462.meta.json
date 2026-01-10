@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T17:23:53.332000Z",
+  "market_createdAt": "2024-02-14T17:23:53.332Z",
+  "market_updatedAt": "2024-05-07T23:10:03.483675Z",
+  "market_startDate": "2024-02-14T21:38:00Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-03-19 18:46:26+00",
+  "conditionId": "0x2dc8183ade15bc0e74e0af86a14f3f5bc45d5db84a87e182c336ef085cbe018f",
+  "slug": "saga-airdrop-by-june-30",
+  "question": "Saga airdrop by June 30?"
+}

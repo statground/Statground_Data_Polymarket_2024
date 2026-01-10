@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T16:33:53.299000Z",
+  "market_createdAt": "2024-02-14T16:33:53.299Z",
+  "market_updatedAt": "2024-02-22T20:49:45.317Z",
+  "market_startDate": "2024-02-14T17:46:24.178Z",
+  "market_endDate": "2024-02-19T00:00:00Z",
+  "market_closedTime": "2024-02-21 23:16:17+00",
+  "conditionId": "0xcd8cd600826b5826327202ac636524703be66fa1f07595447e7224e439410865",
+  "slug": "will-strk-be-between-1pt50-and-2pt00-one-day-after-airdrop",
+  "question": "Will STRK be between $1.50 and $2.00 one day after airdrop?"
+}

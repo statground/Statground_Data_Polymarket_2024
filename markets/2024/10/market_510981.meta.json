@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:16:53.777868Z",
+  "market_createdAt": "2024-10-25T19:16:53.777868Z",
+  "market_updatedAt": "2024-10-28T05:56:48.664918Z",
+  "market_startDate": "2024-10-25T22:29:18.35193Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 06:13:56+00",
+  "conditionId": "0xae5941f3dbf25e83ebaf70a8c50369ee78f93eec93a7b2b4c23a0604e77b338a",
+  "slug": "will-kentucky-beat-auburn",
+  "question": "Will Kentucky beat Auburn?"
+}

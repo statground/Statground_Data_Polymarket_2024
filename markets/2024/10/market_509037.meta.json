@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T15:46:39.996790Z",
+  "market_createdAt": "2024-10-07T15:46:39.99679Z",
+  "market_updatedAt": "2024-10-11T03:42:49.958506Z",
+  "market_startDate": "2024-10-07T16:42:47.087971Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-10 03:39:03+00",
+  "conditionId": "0x8540502d22a63edb72be7680ee1968e0f06ef1ebf8f46c45266a67ddede01db8",
+  "slug": "will-milton-make-landfall-as-a-category-3",
+  "question": "Will Milton make landfall as a category 3?"
+}

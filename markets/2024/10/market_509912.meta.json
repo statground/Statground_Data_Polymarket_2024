@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:44:18.751888Z",
+  "market_createdAt": "2024-10-15T18:44:18.751888Z",
+  "market_updatedAt": "2024-10-18T05:22:46.078715Z",
+  "market_startDate": "2024-10-15T20:38:17.586Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:26:27+00",
+  "conditionId": "0x8b79c524f64fb031fd1a54f89464e8532bf1e3bd9106f7f1ba080b5bc1092921",
+  "slug": "will-trump-say-kamala-20-or-more-times-during-univision-town-hall",
+  "question": "Will Trump say \"Kamala\" 20 or more times during Univision town hall?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T16:00:50.125997Z",
+  "market_createdAt": "2024-06-03T16:00:50.125997Z",
+  "market_updatedAt": "2024-06-07T14:56:16.322145Z",
+  "market_startDate": "2024-06-05T20:01:36.159Z",
+  "market_endDate": "2024-06-06T12:00:00Z",
+  "market_closedTime": "2024-06-06 16:14:39+00",
+  "conditionId": "0xab82c8f9a8d22186fcbb234899fa9394e7e015770466da69556affad13d63354",
+  "slug": "spacex-starship-launch-by-thursday",
+  "question": "SpaceX Starship launch by Thursday?"
+}

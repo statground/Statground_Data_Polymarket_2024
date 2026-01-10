@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T23:15:16.914000Z",
+  "market_createdAt": "2024-01-18T23:15:16.914Z",
+  "market_updatedAt": "2024-02-17T05:41:46.336Z",
+  "market_startDate": "2024-01-18T23:21:53.873Z",
+  "market_endDate": "2024-02-15T00:00:00Z",
+  "market_closedTime": "2024-02-16 07:02:49+00",
+  "conditionId": "0x8c1450fae65956f2cf33427d994feed9f6f37e1a9794be10ae3ba2f34b7a6b8c",
+  "slug": "wif-listed-on-coinbase-or-binance",
+  "question": "WIF listed on Coinbase or Binance?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T19:02:40.550653Z",
+  "market_createdAt": "2024-10-14T19:02:40.550653Z",
+  "market_updatedAt": "2024-10-21T23:53:10.991436Z",
+  "market_startDate": "2024-10-14T19:04:50.116488Z",
+  "market_endDate": "2024-10-20T20:05:00Z",
+  "market_closedTime": "2024-10-21 01:09:52+00",
+  "conditionId": "0x7939dc7f5e05e8fdaedaf71a135966525ca9979528bec082fd4f8cb8a11c621c",
+  "slug": "nfl-car-wsh-2024-10-20",
+  "question": "Panthers vs. Commanders"
+}

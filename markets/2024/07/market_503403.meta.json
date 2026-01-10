@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T19:13:37.683371Z",
+  "market_createdAt": "2024-07-11T19:13:37.683371Z",
+  "market_updatedAt": "2024-07-29T01:01:03.189005Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 01:58:10+00",
+  "conditionId": "0xb6341fb5e7551730555bb775f162f99d45f7d4bb9dba38b1a86af8a3c41a7f85",
+  "slug": "trump-says-mog-at-bitcoin-conference",
+  "question": "Trump says \"mog\" at Bitcoin Conference?"
+}

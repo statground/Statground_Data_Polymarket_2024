@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:02:11.932115Z",
+  "market_createdAt": "2024-09-09T17:02:11.932115Z",
+  "market_updatedAt": "2024-09-15T18:43:06.707626Z",
+  "market_startDate": "2024-09-09T19:42:59.814011Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-14 19:08:54+00",
+  "conditionId": "0x1c5072e3263c747a9e1395d61b0013fd7fa2d01095de4d6b1a7dafb68285ea6b",
+  "slug": "will-brentford-beat-manchester-city",
+  "question": "Will Brentford beat Manchester City?"
+}

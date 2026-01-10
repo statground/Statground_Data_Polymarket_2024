@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:56:11.504782Z",
+  "market_createdAt": "2024-11-04T18:56:11.504782Z",
+  "market_updatedAt": "2024-12-02T06:19:15.240695Z",
+  "market_startDate": "2024-11-04T20:40:19.58Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:10:14+00",
+  "conditionId": "0x69beec40eb5a4e3e731f87e63470ad0a74c9cf00f2a15b00a64438f4d3fb7c52",
+  "slug": "israel-military-response-against-iran-in-november",
+  "question": "Israel military strike against Iran in November?"
+}

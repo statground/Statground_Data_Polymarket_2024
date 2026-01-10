@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:10:32.551904Z",
+  "market_createdAt": "2024-04-10T19:10:32.551904Z",
+  "market_updatedAt": "2024-07-01T19:30:54.129503Z",
+  "market_startDate": "2024-04-10T20:17:42.725Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:25:48+00",
+  "conditionId": "0x861e6b64f7eedd49a81ca91a365a1148fb370261724993c2110dfb224709c7c7",
+  "slug": "metamask-airdrop-by-june-30",
+  "question": "MetaMask airdrop by June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T22:10:59.869940Z",
+  "market_createdAt": "2024-10-30T22:10:59.86994Z",
+  "market_updatedAt": "2024-11-03T01:57:04.815555Z",
+  "market_startDate": "2024-11-01T16:00:27.209924Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 01:52:38+00",
+  "conditionId": "0x68702463fdb3c4a9a654749c33a8208f01b60b760a5c7de09dc9b7d2a9a4c3aa",
+  "slug": "will-trump-say-border-30-or-more-during-warren-mi-rally",
+  "question": "Will Trump say \"border\" 30 or more during Warren, MI rally?"
+}

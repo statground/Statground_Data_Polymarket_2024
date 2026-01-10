@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:10:53.769298Z",
+  "market_createdAt": "2024-06-03T23:10:53.769298Z",
+  "market_updatedAt": "2024-06-19T02:21:11.106563Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:29:40+00",
+  "conditionId": "0x91788e30229d6558545cc89ecafaf35cc7d8cf3beff9f698f42532eb461433d3",
+  "slug": "kyrie-irving-top-scorer-in-nba-finals",
+  "question": "Kyrie Irving top scorer in NBA Finals?"
+}

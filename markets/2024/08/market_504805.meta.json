@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T15:29:16.510118Z",
+  "market_createdAt": "2024-08-09T15:29:16.510118Z",
+  "market_updatedAt": "2024-08-17T19:53:02.316911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-17 17:27:08+00",
+  "conditionId": "0xcbb198ce672db00eb7572c1e1c64c6bc8d9e1caf9e99dce517b493ee69177f3f",
+  "slug": "will-trump-lead-by-0pt5-0pt9-points-on-august-16",
+  "question": "Will Trump lead by 0.5-0.9 points on August 16?"
+}

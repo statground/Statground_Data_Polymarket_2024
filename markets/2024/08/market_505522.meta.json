@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:46:17.450850Z",
+  "market_createdAt": "2024-08-21T14:46:17.45085Z",
+  "market_updatedAt": "2024-08-23T03:47:06.980657Z",
+  "market_startDate": "2024-08-21T16:50:56.904Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:21:04+00",
+  "conditionId": "0x71b897325f1182dad03f0f3428f48ed0b4aa3e8129b393fe4093a20dc6f6f99b",
+  "slug": "will-bill-clinton-say-chelsea-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Chelsea\" at DNC speech?"
+}

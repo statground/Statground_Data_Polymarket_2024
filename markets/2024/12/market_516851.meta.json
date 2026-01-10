@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:43:15.471060Z",
+  "market_createdAt": "2024-12-30T17:43:15.47106Z",
+  "market_updatedAt": "2025-04-02T02:00:48.470926Z",
+  "market_startDate": "2024-12-30T20:26:31.51642Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 08:21:02+00",
+  "conditionId": "0x8ca679c9d97dc8d7b71bad3e87c9d21b8a3743b400bbf7c447d82f84afdf1252",
+  "slug": "metamask-airdrop-in-q1-2025",
+  "question": "MetaMask airdrop in Q1 2025?"
+}

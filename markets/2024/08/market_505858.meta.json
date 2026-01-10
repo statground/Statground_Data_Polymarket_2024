@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:29:36.601192Z",
+  "market_createdAt": "2024-08-26T20:29:36.601192Z",
+  "market_updatedAt": "2024-09-05T18:07:12.504588Z",
+  "market_startDate": "2024-08-26T20:29:36.601192Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-04 18:43:28+00",
+  "conditionId": "0xbd585affaf0b76021e02fcf2a02194b0478958f2c261ce1da1806e654f1ddbea",
+  "slug": "will-barron-trump-attend-nyu",
+  "question": "Will Barron Trump attend NYU?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:06:43.879961Z",
+  "market_createdAt": "2024-07-01T21:06:43.879961Z",
+  "market_updatedAt": "2024-07-16T08:54:45.102555Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:32:56+00",
+  "conditionId": "0xfec7b0d9c967c3cb37dd95671787b244e78b0747ed6abb82ab22fd259b0078dc",
+  "slug": "will-taylor-fritz-win-wimbledon-mens",
+  "question": "Will Taylor Fritz win Wimbledon Men's?"
+}

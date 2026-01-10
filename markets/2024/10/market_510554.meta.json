@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510554",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:15:43.033107Z",
+  "market_createdAt": "2024-10-22T16:15:43.033107Z",
+  "market_updatedAt": "2024-10-29T02:37:10.422185Z",
+  "market_startDate": "2024-10-22T22:29:00.717Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:48:05+00",
+  "conditionId": "0x4f50e8f1136652009ae5c499dfe4252bdd1c806884f8bee72b65346a5b513372",
+  "slug": "will-trump-say-border-30-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"border\" 30 or more times during New York rally on October 27?"
+}

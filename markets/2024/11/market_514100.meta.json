@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:16:57.988667Z",
+  "market_createdAt": "2024-11-26T08:16:57.988667Z",
+  "market_updatedAt": "2024-11-29T20:59:30.661699Z",
+  "market_startDate": "2024-11-26T22:49:01.784629Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:06:09+00",
+  "conditionId": "0x364da4892ca356c6dd8bea6a6107d3d184ab2956e38551b55d8c46c9d5229da7",
+  "slug": "will-paok-beat-rfs",
+  "question": "Will PAOK beat RFS?"
+}

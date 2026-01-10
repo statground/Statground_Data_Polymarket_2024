@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:33:13.453303Z",
+  "market_createdAt": "2024-06-14T15:33:13.453303Z",
+  "market_updatedAt": "2024-06-26T20:56:13.997905Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:15:03+00",
+  "conditionId": "0xbe2ef632d273d13b501d2b983e5d5dbb4b39552f7a173b9cab68810d094dbf29",
+  "slug": "will-slovenia-win-group-c",
+  "question": "Will Slovenia win Group C?"
+}

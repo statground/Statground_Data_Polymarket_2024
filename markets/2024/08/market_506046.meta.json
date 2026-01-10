@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T21:52:33.107958Z",
+  "market_createdAt": "2024-08-28T21:52:33.107958Z",
+  "market_updatedAt": "2025-01-02T08:26:57.942199Z",
+  "market_startDate": "2024-08-28T21:52:33.107Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:22:28+00",
+  "conditionId": "0x40802562d59f370cc95cd842fde20462fcb627cb275d418fac2e984762f037a2",
+  "slug": "will-ukraine-hold-kursk-through-2024",
+  "question": "Will Ukraine hold Kursk through 2024?"
+}

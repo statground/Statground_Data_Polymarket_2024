@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:01:43.152428Z",
+  "market_createdAt": "2024-10-29T16:01:43.152428Z",
+  "market_updatedAt": "2024-11-02T00:53:09.778372Z",
+  "market_startDate": "2024-10-29T16:58:10.253927Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-11-01 02:49:50+00",
+  "conditionId": "0x7120cc6ddecca426cd47207b271ca7c7dbdc5370e0634defd96a38d652aee107",
+  "slug": "will-jd-vance-say-dana-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"Dana\" during the Joe Rogan podcast?"
+}

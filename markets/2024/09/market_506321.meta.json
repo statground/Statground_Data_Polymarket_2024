@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:03:37.488893Z",
+  "market_createdAt": "2024-09-03T19:03:37.488893Z",
+  "market_updatedAt": "2024-10-29T21:07:12.042821Z",
+  "market_startDate": "2024-09-04T00:29:31.088525Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 00:24:01+00",
+  "conditionId": "0x65b1267c09dec2d42289c67029c1baa7f4745d78ee35f916fc6ce953bf4e8263",
+  "slug": "will-kylian-mbappe-win-the-ballon-dor",
+  "question": "Will Kylian Mbappe win the Ballon d’Or?"
+}

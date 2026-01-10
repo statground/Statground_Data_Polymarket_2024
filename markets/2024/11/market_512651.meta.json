@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:01:01.303664Z",
+  "market_createdAt": "2024-11-11T17:01:01.303664Z",
+  "market_updatedAt": "2024-11-18T23:15:17.857121Z",
+  "market_startDate": "2024-11-11T17:03:38.372444Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:16:20+00",
+  "conditionId": "0xc523009a8be7653b8de7dcd763ed91811c5dbb33a5986372a530b60fe3ee33ac",
+  "slug": "nfl-cle-no-2024-11-17",
+  "question": "Browns vs. Saints"
+}

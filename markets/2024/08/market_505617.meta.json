@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T14:55:28.455388Z",
+  "market_createdAt": "2024-08-22T14:55:28.455388Z",
+  "market_updatedAt": "2024-08-24T04:22:54.123283Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:23:02+00",
+  "conditionId": "0xc38e789406d7adb2dc5e9f0ed25600dbae9fb430653d9b68f8a36a631d52bfdd",
+  "slug": "will-gretchen-whitmer-say-michigan-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Michigan\" in DNC speech?"
+}

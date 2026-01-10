@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:16:38.934929Z",
+  "market_createdAt": "2024-10-01T18:16:38.934929Z",
+  "market_updatedAt": "2024-10-06T15:52:41.118143Z",
+  "market_startDate": "2024-10-02T15:17:35.662483Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:21:51+00",
+  "conditionId": "0x470463212e4c0f1bab7690393a54a4e7c5209fa441f089dfd91a4e9b242df0ac",
+  "slug": "will-the-match-between-arsenal-and-southampton-end-in-a-draw",
+  "question": "Will the match between Arsenal and Southampton end in a draw?"
+}

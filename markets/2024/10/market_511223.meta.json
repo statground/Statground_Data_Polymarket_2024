@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:44:16.718270Z",
+  "market_createdAt": "2024-10-28T20:44:16.71827Z",
+  "market_updatedAt": "2024-11-01T03:32:55.847865Z",
+  "market_startDate": "2024-10-28T20:46:56.629348Z",
+  "market_endDate": "2024-10-30T23:30:00Z",
+  "market_closedTime": "2024-10-31 04:08:38+00",
+  "conditionId": "0x1a05a4cbf6bdeff4202f142f12773cba17962deea1ed9c7ee8d4ba28e7638bc9",
+  "slug": "nba-nyk-mia-2024-10-30",
+  "question": "Knicks vs. Heat"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:40:14.429349Z",
+  "market_createdAt": "2024-09-18T02:40:14.429349Z",
+  "market_updatedAt": "2025-04-23T01:31:32.923295Z",
+  "market_startDate": "2024-09-18T16:47:46.643934Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-23 01:28:44+00",
+  "conditionId": "0x3ad961317dd47e978c66cef2c52af7c1179b6380057c974fc7dfe814ce227218",
+  "slug": "will-villarreal-cf-win-la-liga",
+  "question": "Will Villarreal CF win La Liga?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T21:09:23.255000Z",
+  "market_createdAt": "2024-03-04T21:09:23.255Z",
+  "market_updatedAt": "2024-05-07T23:10:13.286167Z",
+  "market_startDate": "2024-03-06T17:50:00Z",
+  "market_endDate": "2024-03-17T00:00:00Z",
+  "market_closedTime": "2024-03-20 05:04:14+00",
+  "conditionId": "0x6727df9eedb122a2f1e182709da2475dc7860e56d1ce7dc5b1155ba0199a8faa",
+  "slug": "will-frank-larose-win-the-ohio-republican-senate-primary",
+  "question": "Will Frank LaRose win the Ohio Republican Senate Primary?"
+}

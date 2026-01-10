@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:17:15.476853Z",
+  "market_createdAt": "2024-11-20T22:17:15.476853Z",
+  "market_updatedAt": "2025-04-20T00:26:36.261655Z",
+  "market_startDate": "2024-11-20T22:38:26.794Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:28:49+00",
+  "conditionId": "0x6ce7473823f20e76ac2b4291327478e1ec973d2d5ca61d1545e765f8df51985c",
+  "slug": "will-jake-paul-fight-andrew-tate-next",
+  "question": "Will Jake Paul fight Andrew Tate next?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:02:32.462814Z",
+  "market_createdAt": "2024-12-29T07:02:32.462814Z",
+  "market_updatedAt": "2024-12-31T06:15:54.85959Z",
+  "market_startDate": "2024-12-29T07:05:06.787543Z",
+  "market_endDate": "2025-01-06T02:00:00Z",
+  "market_closedTime": "2024-12-30 06:58:45+00",
+  "conditionId": "0xcee2c58938f28cbf3890dab0c398cae5a1ded197d22db7e6f4a932e93ebaf0d2",
+  "slug": "nhl-phi-lak-2024-12-29",
+  "question": "Flyers vs. Kings"
+}

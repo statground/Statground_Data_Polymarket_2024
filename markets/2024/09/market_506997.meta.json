@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T17:25:48.861357Z",
+  "market_createdAt": "2024-09-13T17:25:48.861357Z",
+  "market_updatedAt": "2024-09-17T19:43:00.749853Z",
+  "market_startDate": "2024-09-13T17:59:23.736072Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-16 19:49:38+00",
+  "conditionId": "0xf98c2b8dde29bda659e58ed50fd8aefe5bc344d6409b67b14c064979ce7c8d38",
+  "slug": "will-trump-tweet-less-than-5-times-september-13-20",
+  "question": "Will Trump tweet less than 5 times September 13-20?"
+}

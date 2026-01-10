@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T17:01:44.421000Z",
+  "market_createdAt": "2024-01-25T17:01:44.421Z",
+  "market_updatedAt": "2025-01-02T08:59:03.729215Z",
+  "market_startDate": "2024-01-25T23:23:47.709Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 09:31:14+00",
+  "conditionId": "0xdfd4276c3144acea7037bc3c4d9924f8a79de9af98ce7d798b6086ff0c5e7dc0",
+  "slug": "covid-lab-leak-confirmed-by-us-in-2024",
+  "question": "COVID lab leak confirmed by US in 2024?"
+}

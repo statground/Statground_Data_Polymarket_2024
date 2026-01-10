@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:01:20.322106Z",
+  "market_createdAt": "2024-04-29T19:01:20.322106Z",
+  "market_updatedAt": "2024-05-23T16:34:18.487479Z",
+  "market_startDate": "2024-04-29T22:52:36.687Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-05-22 21:06:48+00",
+  "conditionId": "0x162471d4569b790bce6fbc3238d6ec6b305f2bccbb273f0ffd1eb45d7c1bfe21",
+  "slug": "uk-election-in-august-or-earlier",
+  "question": "UK election in August or earlier? "
+}

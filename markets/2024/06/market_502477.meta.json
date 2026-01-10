@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T20:20:04.751665Z",
+  "market_createdAt": "2024-06-14T20:20:04.751665Z",
+  "market_updatedAt": "2024-06-22T21:56:10.033761Z",
+  "market_startDate": "2024-06-14T20:39:24.884Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 23:23:15+00",
+  "conditionId": "0x5871fa3d5628921115fe1c26b42e13d4fbca108f999076d990c5c8facdd7a689",
+  "slug": "apple-largest-company-on-june-21",
+  "question": "Apple largest company on June 21?"
+}

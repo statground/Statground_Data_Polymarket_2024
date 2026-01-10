@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T22:03:16.035845Z",
+  "market_createdAt": "2024-12-26T22:03:16.035845Z",
+  "market_updatedAt": "2025-08-01T08:42:44.874255Z",
+  "market_startDate": "2024-12-30T18:33:35.373Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-31 19:10:00+00",
+  "conditionId": "0x99a2031057ef3bf05331e83fe6de70bbdb4f731be66c0e34fe314327c94b93cc",
+  "slug": "will-federal-spending-decrease-by-750b-1t-between-q4-2024-and-q2-2025",
+  "question": "Will federal spending decrease by $750b-1t between Q4 2024 and Q2 2025?"
+}

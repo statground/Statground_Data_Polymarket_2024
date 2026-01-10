@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:26:40.739750Z",
+  "market_createdAt": "2024-12-02T20:26:40.73975Z",
+  "market_updatedAt": "2024-12-09T15:35:19.341566Z",
+  "market_startDate": "2024-12-05T23:59:19.247714Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 15:59:22+00",
+  "conditionId": "0x0ccef8093796c790e9df904b93b0280c6e05fa09a7e7e928eb8079867aaae5ff",
+  "slug": "will-game-11-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 11 of the World Chess Championship end in a draw?"
+}

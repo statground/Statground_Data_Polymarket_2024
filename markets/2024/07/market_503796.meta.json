@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:12:59.287659Z",
+  "market_createdAt": "2024-07-18T20:12:59.287659Z",
+  "market_updatedAt": "2024-07-29T16:11:02.335151Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 22:17:58+00",
+  "conditionId": "0x9c64408678bfe98d549d0b11df0987ce7d04527fcb89e07c49e724d251d10e34",
+  "slug": "will-another-athlete-win-gold-in-womens-100m-butterfly",
+  "question": "Will another athlete win Gold in Women's 100m Butterfly?"
+}

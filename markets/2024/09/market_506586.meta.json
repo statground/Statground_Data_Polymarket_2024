@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T21:14:46.703969Z",
+  "market_createdAt": "2024-09-06T21:14:46.703969Z",
+  "market_updatedAt": "2024-09-10T18:13:06.422472Z",
+  "market_startDate": "2024-09-06T21:21:02.300361Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 18:31:33+00",
+  "conditionId": "0x4dbad6146716051243c475f8a258c20145e55e4c4072ec7535c0e8bec54dff7b",
+  "slug": "kamala-positive-favorability-by-sunday",
+  "question": "Kamala positive favorability by Sunday?"
+}

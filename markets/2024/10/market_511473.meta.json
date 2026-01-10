@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:06:11.890940Z",
+  "market_createdAt": "2024-10-31T15:06:11.89094Z",
+  "market_updatedAt": "2024-11-02T22:43:10.386876Z",
+  "market_startDate": "2024-11-01T16:07:41.12531Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 23:45:43+00",
+  "conditionId": "0x9c677d620320d66e498357cce3f9e50655a2d9628c948b73982009d45937f08f",
+  "slug": "will-trump-say-wall-street-during-warren-mi-rally",
+  "question": "Will Trump say \"Wall Street\" during Warren, MI rally?"
+}

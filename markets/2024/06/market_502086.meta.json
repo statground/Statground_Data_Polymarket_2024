@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T14:44:58.843720Z",
+  "market_createdAt": "2024-06-04T14:44:58.84372Z",
+  "market_updatedAt": "2024-06-14T00:46:13.281641Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-13 06:18:31+00",
+  "conditionId": "0xc0c103bfff5feed463fe91d68e2950418f01310d9c2f874e01df1870c630b184",
+  "slug": "will-the-mavericks-win-the-2024-nba-finals-4-2",
+  "question": "Will the Mavericks win the 2024 NBA Finals 4-2?"
+}

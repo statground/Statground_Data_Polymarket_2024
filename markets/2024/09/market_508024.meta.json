@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T20:13:10.035005Z",
+  "market_createdAt": "2024-09-24T20:13:10.035005Z",
+  "market_updatedAt": "2024-10-03T04:16:38.684507Z",
+  "market_startDate": "2024-09-24T23:55:00.495Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:29:41+00",
+  "conditionId": "0x1971083d1c2825b6020d07d51c13ddba71ae55b6e90446154910986e20a61962",
+  "slug": "will-jd-vance-say-usha-during-the-debate",
+  "question": "Will JD Vance say \"Usha\" during the debate?"
+}

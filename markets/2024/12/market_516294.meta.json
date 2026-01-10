@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:08:52.408560Z",
+  "market_createdAt": "2024-12-22T07:08:52.40856Z",
+  "market_updatedAt": "2024-12-30T05:49:36.078673Z",
+  "market_startDate": "2024-12-22T07:11:27.882369Z",
+  "market_endDate": "2025-01-05T03:00:00Z",
+  "market_closedTime": "2024-12-29 07:53:14+00",
+  "conditionId": "0xe2c7e2e58bfc9ffa79dd8b2258bd500377216fcc400d045183dc388277ee3889",
+  "slug": "nhl-cal-sj-2024-12-28",
+  "question": "Flames vs. Sharks"
+}

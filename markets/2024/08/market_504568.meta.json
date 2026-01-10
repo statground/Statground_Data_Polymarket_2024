@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T19:56:59.080638Z",
+  "market_createdAt": "2024-08-05T19:56:59.080638Z",
+  "market_updatedAt": "2024-08-07T18:26:51.501128Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 19:38:20+00",
+  "conditionId": "0x586f52b941dd9b37151bd73f1c914206d274577d542777c8f5f3593bd8d574c5",
+  "slug": "quarterfinals-game-winner-australia-vs-serbia",
+  "question": "Olympic Basketball: Australia vs. Serbia"
+}

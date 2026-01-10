@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T16:49:33.984413Z",
+  "market_createdAt": "2024-05-21T16:49:33.984413Z",
+  "market_updatedAt": "2024-06-02T04:31:16.583433Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:09:59+00",
+  "conditionId": "0xe75d13227e002333d9cede0220cfe1dff7bcd7d01e64ee976be952cf3c49ca8c",
+  "slug": "scarlett-johansson-sues-openai-in-may",
+  "question": "Scarlett Johansson sues OpenAI in May?"
+}

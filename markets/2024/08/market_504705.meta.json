@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:15:25.558044Z",
+  "market_createdAt": "2024-08-07T21:15:25.558044Z",
+  "market_updatedAt": "2024-12-18T09:49:18.056731Z",
+  "market_startDate": "2024-08-08T17:59:22.424Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:12:23+00",
+  "conditionId": "0x46cf194239f2bed4a4e74782ececd7babc45b9dbcaef362614454f420acef630",
+  "slug": "democrats-win-popular-vote-by-6-7",
+  "question": "Democrats win popular vote by 6-7%?"
+}

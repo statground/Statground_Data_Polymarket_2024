@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:06:36.927452Z",
+  "market_createdAt": "2024-12-01T05:06:36.927452Z",
+  "market_updatedAt": "2024-12-05T06:03:29.579351Z",
+  "market_startDate": "2024-12-01T05:10:26.266453Z",
+  "market_endDate": "2024-12-11T02:00:00Z",
+  "market_closedTime": "2024-12-04 06:38:28+00",
+  "conditionId": "0xf2791ac1620e624684725c51b4133f8ba921a56dbf3e33a7e5d01e67296a1050",
+  "slug": "nba-sas-phx-2024-12-03",
+  "question": "Spurs vs. Suns"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:02:24.529731Z",
+  "market_createdAt": "2024-09-03T20:02:24.529731Z",
+  "market_updatedAt": "2024-09-27T01:36:47.832279Z",
+  "market_startDate": "2024-09-04T00:01:12.461991Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-26 04:45:00+00",
+  "conditionId": "0x22c73c3ca4667a8fe6a953654f4ae7fe52d83ddc2ab57565dc036028c432e863",
+  "slug": "will-the-indiana-fever-win-the-2024-wnba-finals",
+  "question": "Will the Indiana Fever win the 2024 WNBA Finals?"
+}

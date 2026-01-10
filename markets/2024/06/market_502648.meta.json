@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:24:56.735339Z",
+  "market_createdAt": "2024-06-19T21:24:56.735339Z",
+  "market_updatedAt": "2024-06-29T18:56:05.721837Z",
+  "market_startDate": "2024-06-20T18:38:17.685Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:17:33+00",
+  "conditionId": "0xcceb2181bfc6dbb84204877d0f851bfd5ce1e6492860ca64d4ccd8d5ceeaa309",
+  "slug": "will-trump-say-prison-during-the-debate",
+  "question": "Will Trump say \"Jail\" or \"Prison\" during the debate?"
+}

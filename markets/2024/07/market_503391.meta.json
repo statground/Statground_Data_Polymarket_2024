@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T16:26:48.650996Z",
+  "market_createdAt": "2024-07-11T16:26:48.650996Z",
+  "market_updatedAt": "2024-07-14T20:58:49.393858Z",
+  "market_startDate": "2024-07-11T18:16:53.793Z",
+  "market_endDate": "2024-07-11T12:00:00Z",
+  "market_closedTime": "2024-07-13 22:54:41+00",
+  "conditionId": "0x0a97e0722011c3d16cdd955a8d2192c05c0042161b07231db6d98fe1096d3b82",
+  "slug": "will-biden-say-kamala-or-harris-during-july-11-press-conference",
+  "question": "Will Biden say \"Kamala\" or \"Harris\" during July 11 press conference?"
+}

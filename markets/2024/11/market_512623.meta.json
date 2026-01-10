@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:47:18.071944Z",
+  "market_createdAt": "2024-11-08T23:47:18.071944Z",
+  "market_updatedAt": "2024-11-11T17:22:48.139697Z",
+  "market_startDate": "2024-11-09T02:57:30.039832Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:05:55+00",
+  "conditionId": "0x3bd503f50fab146c8ad61e0246f80bc4604c52c92154ae7f94803f97e6431428",
+  "slug": "will-the-49ers-and-buccaneers-combine-for-51-or-more-points",
+  "question": "Will the 49ers and Buccaneers combine for 51 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:33:36.765202Z",
+  "market_createdAt": "2024-11-05T19:33:36.765202Z",
+  "market_updatedAt": "2024-11-11T19:49:22.066606Z",
+  "market_startDate": "2024-11-05T19:36:18.148489Z",
+  "market_endDate": "2024-11-10T14:00:00Z",
+  "market_closedTime": "2024-11-10 19:43:53+00",
+  "conditionId": "0x682275ef7a72dfc1c621696cf4fd88c3bc521b0e108d9dc8b2c786eea5b9b95d",
+  "slug": "epl-not-new-2024-11-10-not",
+  "question": "Will Nottingham Forest win on 2024-11-10?"
+}

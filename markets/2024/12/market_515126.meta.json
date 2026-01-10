@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:31:38.448021Z",
+  "market_createdAt": "2024-12-09T17:31:38.448021Z",
+  "market_updatedAt": "2024-12-16T20:53:25.38763Z",
+  "market_startDate": "2024-12-09T17:34:59.333412Z",
+  "market_endDate": "2024-12-15T16:30:00Z",
+  "market_closedTime": "2024-12-15 21:37:06+00",
+  "conditionId": "0x8167715c489ac94e144597c077793cea0aa45f5b107e9c4b85307fb3cea16877",
+  "slug": "epl-mac-mun-2024-12-15-draw",
+  "question": "Will Manchester City vs. Manchester United end in a draw?"
+}

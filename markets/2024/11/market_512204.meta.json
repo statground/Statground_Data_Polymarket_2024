@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:47:59.032590Z",
+  "market_createdAt": "2024-11-06T19:47:59.03259Z",
+  "market_updatedAt": "2025-04-02T07:20:36.477113Z",
+  "market_startDate": "2024-11-06T19:54:30.297Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:20:38+00",
+  "conditionId": "0xdd256865cb41795d18232a30daa2ae9219ad98b91e4864c8e6b67a1767dd76c7",
+  "slug": "will-ben-carson-be-a-member-of-the-trump-administration",
+  "question": "Will Ben Carson be a member of the Trump administration?"
+}

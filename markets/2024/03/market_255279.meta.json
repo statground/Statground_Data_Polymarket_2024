@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:19:07.333000Z",
+  "market_createdAt": "2024-03-05T05:19:07.333Z",
+  "market_updatedAt": "2024-04-26T02:53:21.655482Z",
+  "market_startDate": "2024-03-05T06:03:07.227Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 07:09:03+00",
+  "conditionId": "0x6894f37144ea2eac45b02f9c1278aaed588f77836a0d2d6328fe07674464a10c",
+  "slug": "will-trump-win-alabama-republican-primary",
+  "question": "Will Trump win Alabama Republican Primary?"
+}

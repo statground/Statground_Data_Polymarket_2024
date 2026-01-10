@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:10:06.382706Z",
+  "market_createdAt": "2024-12-15T07:10:06.382706Z",
+  "market_updatedAt": "2024-12-23T01:27:28.049826Z",
+  "market_startDate": "2024-12-15T07:12:54.750729Z",
+  "market_endDate": "2024-12-28T21:00:00Z",
+  "market_closedTime": "2024-12-22 01:58:38+00",
+  "conditionId": "0x0fcf2df64eb13f743927857d47e114156c3b2570a8f8d20e9aa85b06638fed3f",
+  "slug": "nhl-sj-edm-2024-12-21",
+  "question": "Sharks vs. Oilers"
+}

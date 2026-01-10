@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:00:01.226784Z",
+  "market_createdAt": "2024-12-15T07:00:01.226784Z",
+  "market_updatedAt": "2024-12-16T23:19:35.267619Z",
+  "market_startDate": "2024-12-15T07:02:30.469665Z",
+  "market_endDate": "2024-12-22T20:00:00Z",
+  "market_closedTime": "2024-12-16 00:42:08+00",
+  "conditionId": "0xe10f4977705e46b2f42fe6ceb220daccfb9d46eca7fb89940fe2ac365cf8e39f",
+  "slug": "nhl-nyi-chi-2024-12-15",
+  "question": "Islanders vs. Blackhawks"
+}

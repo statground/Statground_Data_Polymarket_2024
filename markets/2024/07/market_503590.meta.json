@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T20:47:48.876993Z",
+  "market_createdAt": "2024-07-16T20:47:48.876993Z",
+  "market_updatedAt": "2024-07-20T04:44:37.053623Z",
+  "market_startDate": "2024-07-16T21:12:43.092Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:04:50+00",
+  "conditionId": "0x0afa23c1c1e6cd697ed046e4568af6e4b52ab2b946cf95bc7e4c86e1b2305036",
+  "slug": "will-trump-say-unity-during-rnc-speech",
+  "question": "Will Trump say \"unity\" during RNC speech?"
+}

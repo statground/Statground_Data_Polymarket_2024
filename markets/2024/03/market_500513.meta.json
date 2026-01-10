@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T19:12:44.876445Z",
+  "market_createdAt": "2024-03-28T19:12:44.876445Z",
+  "market_updatedAt": "2024-11-07T04:07:03.538129Z",
+  "market_startDate": "2024-03-28T21:40:11.012Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:08:47+00",
+  "conditionId": "0x208938ca6a4b6474fc1a9346b6415c69bca34854f27e232200dea09eb18d23aa",
+  "slug": "will-a-candidate-from-another-party-win-new-mexico-presidential-election-2024",
+  "question": "Will a candidate from another party win New Mexico Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:16:06.954035Z",
+  "market_createdAt": "2024-11-04T16:16:06.954035Z",
+  "market_updatedAt": "2024-11-06T01:17:13.072371Z",
+  "market_startDate": "2024-11-04T19:17:23.459639Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 06:51:45+00",
+  "conditionId": "0xe2dd6c2932471fce94f9e9de55ea356b0882e3ce7641d81f4c79c09318565b07",
+  "slug": "will-the-chiefs-beat-the-buccaneers-by-10-or-more-points",
+  "question": "Will the Chiefs beat the Buccaneers by 10 or more points?"
+}

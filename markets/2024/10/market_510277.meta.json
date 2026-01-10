@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T15:50:47.984608Z",
+  "market_createdAt": "2024-10-21T15:50:47.984608Z",
+  "market_updatedAt": "2024-10-25T03:01:15.064312Z",
+  "market_startDate": "2024-10-21T21:13:27.934Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-10-24 03:53:36+00",
+  "conditionId": "0x751634ea1aa5aa8970f516ba02d2188a1f1be40bdf31971e4030c5455a11c6d5",
+  "slug": "will-trump-say-border-20-or-more-times-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"Border\" 20 or more times during Georgia rally on October 23?"
+}

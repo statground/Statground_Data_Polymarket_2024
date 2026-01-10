@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:26:12.173357Z",
+  "market_createdAt": "2024-11-15T21:26:12.173357Z",
+  "market_updatedAt": "2025-01-21T20:55:01.771622Z",
+  "market_startDate": "2024-11-15T22:20:20.23Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:54:46+00",
+  "conditionId": "0xa0945545bf6ad2d1d7037aa9bf5d1f981f88f7c3eea45e19ad184ef4ef7ecc6b",
+  "slug": "will-trump-say-mcdonalds-during-his-inauguration-speech",
+  "question": "Will Trump say \"McDonald's\" during his inauguration speech?"
+}

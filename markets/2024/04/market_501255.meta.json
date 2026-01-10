@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T14:38:29.175328Z",
+  "market_createdAt": "2024-04-30T14:38:29.175328Z",
+  "market_updatedAt": "2024-07-06T12:20:48.760232Z",
+  "market_startDate": "2024-04-30T16:15:20.28Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-07-05 12:40:29+00",
+  "conditionId": "0xbb16299bea1f4e02a1b00ddf4478c581ba1c7df9aeab700c60a3daf5343caf64",
+  "slug": "uk-election-labour-wins-a-majority-of-seats",
+  "question": "Labour wins a majority of seats in UK election? "
+}

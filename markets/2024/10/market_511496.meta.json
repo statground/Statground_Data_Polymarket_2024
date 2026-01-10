@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511496",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:56:32.401513Z",
+  "market_createdAt": "2024-10-31T15:56:32.401513Z",
+  "market_updatedAt": "2024-11-04T02:47:02.253571Z",
+  "market_startDate": "2024-11-01T14:41:00.24Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 04:40:34+00",
+  "conditionId": "0xf000a7c322ecf9f19b84d36fddd040ded7697f165d4146b28658565bbc801b9e",
+  "slug": "will-trump-say-garbage-truck-during-greensboro-nc-rally",
+  "question": "Will Trump say \"garbage truck\" during Greensboro, NC rally?"
+}

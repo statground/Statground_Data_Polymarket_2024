@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:20:12.746438Z",
+  "market_createdAt": "2024-08-29T19:20:12.746438Z",
+  "market_updatedAt": "2024-08-31T01:57:04.624225Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:01:11+00",
+  "conditionId": "0x69827d942f733f54e074b9200d252837d62d9c12c3f74141dc473057e8d16c2f",
+  "slug": "will-kamala-harris-say-mcdonalds-during-cnn-interview",
+  "question": "Will Kamala Harris say \"McDonald's\" during CNN interview?"
+}

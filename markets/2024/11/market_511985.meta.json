@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:47:18.049425Z",
+  "market_createdAt": "2024-11-04T23:47:18.049425Z",
+  "market_updatedAt": "2024-11-06T21:41:14.692227Z",
+  "market_startDate": "2024-11-05T00:50:11.116593Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:38:53+00",
+  "conditionId": "0x968229285b334d762de430de6c54dc897e0996c7299bb2c67602d7beec81968e",
+  "slug": "will-the-match-between-liverpool-and-bayer-leverkusen-end-in-a-draw",
+  "question": "Will the match between Liverpool and Bayer Leverkusen end in a draw?"
+}

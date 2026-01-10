@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:07:51.142915Z",
+  "market_createdAt": "2024-11-17T05:07:51.142915Z",
+  "market_updatedAt": "2024-11-24T05:04:51.613876Z",
+  "market_startDate": "2024-11-17T05:10:20.883686Z",
+  "market_endDate": "2024-11-30T01:00:00Z",
+  "market_closedTime": "2024-11-23 05:35:17+00",
+  "conditionId": "0xc0550086a700da108b77dddaf9d13fb2f08245cc09d0dba0a2f77ab668397c44",
+  "slug": "nba-ind-mil-2024-11-22",
+  "question": "Pacers vs. Bucks"
+}

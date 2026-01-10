@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:01:35.604160Z",
+  "market_createdAt": "2024-12-01T05:01:35.60416Z",
+  "market_updatedAt": "2024-12-03T04:39:16.900982Z",
+  "market_startDate": "2024-12-01T05:04:55.148251Z",
+  "market_endDate": "2024-12-09T00:00:00Z",
+  "market_closedTime": "2024-12-02 05:03:42+00",
+  "conditionId": "0x35416ab95b1c1a951b85300d57d82faa2ef092d5fe701047319aca79c9f1205e",
+  "slug": "nba-okc-hou-2024-12-01",
+  "question": "Thunder vs. Rockets"
+}

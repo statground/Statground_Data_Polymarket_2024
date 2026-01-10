@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:58:44.405677Z",
+  "market_createdAt": "2024-10-04T16:58:44.405677Z",
+  "market_updatedAt": "2024-10-07T05:26:44.260729Z",
+  "market_startDate": "2024-10-04T18:37:32.725637Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:34:15+00",
+  "conditionId": "0xb2028dedb9202f1aaceb1a0255b93c983163a89e467e931214fd3ddf29aa7328",
+  "slug": "will-tennessee-beat-arkansas-by-14-or-more-points",
+  "question": "Will Tennessee beat Arkansas by 14 or more points?"
+}

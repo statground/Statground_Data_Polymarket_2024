@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:24:30.928220Z",
+  "market_createdAt": "2024-10-29T22:24:30.92822Z",
+  "market_updatedAt": "2024-11-11T20:27:30.261697Z",
+  "market_startDate": "2024-10-30T15:07:30.638931Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-11 01:56:44+00",
+  "conditionId": "0x8da84fddaa700e09545ddb9a4b4af8760701bf4e752fbda4c3b25e73ff5d4ced",
+  "slug": "will-sergio-perez-win-the-brazilian-grand-prix",
+  "question": "Will Sergio Perez win the Brazilian Grand Prix?"
+}

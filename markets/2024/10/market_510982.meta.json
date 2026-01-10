@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:16:54.271840Z",
+  "market_createdAt": "2024-10-25T19:16:54.27184Z",
+  "market_updatedAt": "2024-10-28T05:56:39.010392Z",
+  "market_startDate": "2024-10-25T22:30:25.912481Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 06:14:02+00",
+  "conditionId": "0xa99fb4322f1deead8916508c54105009b3d859b04df30f56a47c9a91b8137ae8",
+  "slug": "will-kentucky-beat-auburn-by-3-or-more-points",
+  "question": "Will Kentucky beat Auburn by 3 or more points?"
+}

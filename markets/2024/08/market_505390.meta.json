@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T23:29:38.258075Z",
+  "market_createdAt": "2024-08-19T23:29:38.258075Z",
+  "market_updatedAt": "2024-08-23T05:37:07.596841Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:42:46+00",
+  "conditionId": "0xf47cc33f5b96ed1e4269897b59aa93ab6a361d0be09cc13749eef6e1eb4e51c6",
+  "slug": "will-walz-say-tampon-at-dnc-speech",
+  "question": "Will Walz say \"Tampon\" at DNC speech?"
+}

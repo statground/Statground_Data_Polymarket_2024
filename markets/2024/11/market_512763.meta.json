@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:30:09.476495Z",
+  "market_createdAt": "2024-11-11T21:30:09.476495Z",
+  "market_updatedAt": "2024-11-24T17:53:25.089976Z",
+  "market_startDate": "2024-11-11T21:32:46.592445Z",
+  "market_endDate": "2024-11-23T15:00:00Z",
+  "market_closedTime": "2024-11-23 20:07:33+00",
+  "conditionId": "0xd7f292d7de99cf94850ade6d0637ff1ec3e03d33cd9da166c16a33d2e4f762d6",
+  "slug": "epl-bou-bri-2024-11-23-draw",
+  "question": "Will Bournemouth vs. Brighton end in a draw?"
+}

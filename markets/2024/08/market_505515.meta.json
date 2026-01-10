@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:40:20.580191Z",
+  "market_createdAt": "2024-08-21T14:40:20.580191Z",
+  "market_updatedAt": "2024-08-23T03:37:06.788295Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:46:40+00",
+  "conditionId": "0xc64c1071e95894cd6b6eca55c25fe16fd28b79b4db45b71ee67f4bc72ac5c67b",
+  "slug": "will-pelosi-say-donald-or-trump-3-or-more-times-at-dnc-speech",
+  "question": "Will Pelosi say \"Donald\" or \"Trump\" 3 or more times at DNC speech?"
+}

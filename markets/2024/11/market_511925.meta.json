@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:42:07.507239Z",
+  "market_createdAt": "2024-11-04T18:42:07.507239Z",
+  "market_updatedAt": "2024-11-11T03:02:32.957718Z",
+  "market_startDate": "2024-11-04T18:45:14.92464Z",
+  "market_endDate": "2024-11-09T22:00:00Z",
+  "market_closedTime": "2024-11-10 02:53:55+00",
+  "conditionId": "0x9f8cb132d90e2f4a4d88b677f15d424effa60fc223fde5e49ba9702a52c1b49f",
+  "slug": "nba-uta-sas-2024-11-09",
+  "question": "Jazz vs. Spurs"
+}

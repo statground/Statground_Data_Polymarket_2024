@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T17:44:26.798601Z",
+  "market_createdAt": "2024-11-20T17:44:26.798601Z",
+  "market_updatedAt": "2024-11-26T22:36:07.019565Z",
+  "market_startDate": "2024-11-21T20:55:29.39Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-25 22:40:00+00",
+  "conditionId": "0xc961c545d273465bb00d172061307952330aa0e937f851a382fbdebd0628df88",
+  "slug": "will-wicked-opening-weekend-gross-more-than-twice-gladiator-2",
+  "question": "'Wicked' grosses 2x more than 'Gladiator 2' on opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:09:32.557915Z",
+  "market_createdAt": "2024-11-17T05:09:32.557915Z",
+  "market_updatedAt": "2024-11-25T05:42:18.127373Z",
+  "market_startDate": "2024-11-17T05:12:01.33529Z",
+  "market_endDate": "2024-12-01T01:30:00Z",
+  "market_closedTime": "2024-11-24 05:52:15+00",
+  "conditionId": "0xe36356afa2896d858e2512e215ef8b7ca0afb4874583917c4827941da9b1bd5a",
+  "slug": "nba-gsw-sas-2024-11-23",
+  "question": "Warriors vs. Spurs"
+}

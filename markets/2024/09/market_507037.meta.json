@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:08:29.180242Z",
+  "market_createdAt": "2024-09-13T20:08:29.180242Z",
+  "market_updatedAt": "2024-09-16T20:56:54.970774Z",
+  "market_startDate": "2024-09-13T20:54:36.11Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:23:33+00",
+  "conditionId": "0x2e66fd9396d037f34b8e6b083f4cf9f097780627795da562d1644c7e5dda489b",
+  "slug": "will-the-seahawks-beat-the-patriots-by-4-or-more-points",
+  "question": "Will the Seahawks beat the Patriots by 4 or more points?"
+}

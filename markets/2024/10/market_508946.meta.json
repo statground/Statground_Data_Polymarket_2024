@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:58:47.780588Z",
+  "market_createdAt": "2024-10-04T17:58:47.780588Z",
+  "market_updatedAt": "2024-10-07T17:40:34.249862Z",
+  "market_startDate": "2024-10-04T21:47:44.966685Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 18:56:14+00",
+  "conditionId": "0xcb3246f8645b8f0034bd7a03e85240a2649c669126f87ede98d0dddc6a7ab3c0",
+  "slug": "will-the-vikings-beat-the-jets-by-3-or-more-points",
+  "question": "Will the Vikings beat the Jets by 3 or more points?"
+}

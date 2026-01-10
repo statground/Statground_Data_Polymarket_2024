@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T15:37:13.804642Z",
+  "market_createdAt": "2024-07-15T15:37:13.804642Z",
+  "market_updatedAt": "2024-07-24T00:38:37.905725Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-22T12:00:00Z",
+  "market_closedTime": "2024-07-23 02:26:19+00",
+  "conditionId": "0x26359384fdb8fd4b672fff9ccd06d56dbfd2bb45c5d4e03437ab8761ff37852d",
+  "slug": "will-twisters-gross-less-than-56m-opening-weekend",
+  "question": "Will 'Twisters' gross less than $56m opening weekend?"
+}

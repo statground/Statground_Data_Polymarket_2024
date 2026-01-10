@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:59:39.438992Z",
+  "market_createdAt": "2024-07-25T16:59:39.438992Z",
+  "market_updatedAt": "2024-07-28T21:33:00.235458Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:56:33+00",
+  "conditionId": "0x954699b31bdb6f8a97d042f321cf99b8a58338e2db43a1cb69714c8ad0ef9b6e",
+  "slug": "will-katie-ledecky-usa-win-gold-in-womens-400m-freestyle",
+  "question": "Will Katie Ledecky (USA) win Gold in Women's 400m Freestyle?"
+}

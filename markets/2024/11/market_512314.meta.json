@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:56:24.351335Z",
+  "market_createdAt": "2024-11-07T20:56:24.351335Z",
+  "market_updatedAt": "2025-01-22T22:44:51.283139Z",
+  "market_startDate": "2024-11-07T22:35:11.138Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-22 06:33:44+00",
+  "conditionId": "0xd7399bd24c16cdef567d71ef2352776c8861017146c4e99d727605f4d84ba94d",
+  "slug": "will-frank-larose-be-appointed-as-the-next-ohio-senator",
+  "question": "Will Frank LaRose be appointed as the next Ohio senator?"
+}

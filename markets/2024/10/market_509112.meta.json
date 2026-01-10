@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:26:51.976044Z",
+  "market_createdAt": "2024-10-07T19:26:51.976044Z",
+  "market_updatedAt": "2025-05-23T23:01:21.717994Z",
+  "market_startDate": "2024-10-08T14:55:29.099814Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-10 07:01:38+00",
+  "conditionId": "0xbf44392afde05a6d2bd421d72bbbdbfdaff6650441dee235ba0d83414396e68e",
+  "slug": "will-the-vancouver-canucks-win-the-2025-stanley-cup",
+  "question": "Will the Vancouver Canucks win the 2025 Stanley Cup?"
+}

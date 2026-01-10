@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:14:20.041000Z",
+  "market_createdAt": "2024-03-01T20:14:20.041Z",
+  "market_updatedAt": "2024-11-07T20:59:02.2456Z",
+  "market_startDate": "2024-03-08T00:06:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:08:40+00",
+  "conditionId": "0x357378be4b958929f618b03a935489b0e19ee4e21247f7a89c4ec036fe95d3ed",
+  "slug": "will-a-candidate-from-another-party-win-wisconsin-presidential-election",
+  "question": "Will a candidate from another party win Wisconsin Presidential Election?"
+}

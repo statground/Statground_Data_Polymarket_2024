@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:51:56.689694Z",
+  "market_createdAt": "2024-10-09T20:51:56.689694Z",
+  "market_updatedAt": "2024-12-18T02:10:40.445573Z",
+  "market_startDate": "2024-10-09T21:28:04.485Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:07:48+00",
+  "conditionId": "0x7c629e8faf76becda38c9c154ec936c9ce1149c4931ffef80e789e0ec1ebbe7f",
+  "slug": "will-trump-win-another-state-by-the-largest-margin",
+  "question": "Will Trump win another state by the largest margin?"
+}

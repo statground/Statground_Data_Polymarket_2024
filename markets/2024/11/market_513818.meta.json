@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:11:20.699702Z",
+  "market_createdAt": "2024-11-24T05:11:20.699702Z",
+  "market_updatedAt": "2024-12-02T00:55:38.957815Z",
+  "market_startDate": "2024-11-24T05:13:56.318441Z",
+  "market_endDate": "2024-12-07T20:30:00Z",
+  "market_closedTime": "2024-12-01 02:03:56+00",
+  "conditionId": "0x76f74b192262f61924854421494f26b053afaf44598a3e6ca87a44aca96fb413",
+  "slug": "cfb-mary-psu-2024-11-30",
+  "question": "Maryland vs. Penn State"
+}

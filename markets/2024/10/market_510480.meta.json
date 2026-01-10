@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:37:53.650556Z",
+  "market_createdAt": "2024-10-22T00:37:53.650556Z",
+  "market_updatedAt": "2024-10-28T18:56:56.98556Z",
+  "market_startDate": "2024-10-22T00:40:28.415Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:24:34+00",
+  "conditionId": "0x2847f870969c0bb4c4a0042e9014d8f5c54eb8f028805c933452ca54e694190c",
+  "slug": "epl-wes-mun-2024-10-27-mun",
+  "question": "Will Man Utd win on 2024-10-27?"
+}

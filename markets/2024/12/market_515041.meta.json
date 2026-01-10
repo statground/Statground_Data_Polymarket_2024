@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:03:21.208689Z",
+  "market_createdAt": "2024-12-08T05:03:21.208689Z",
+  "market_updatedAt": "2024-12-12T04:59:08.249045Z",
+  "market_startDate": "2024-12-08T05:06:44.717078Z",
+  "market_endDate": "2024-12-18T00:00:00Z",
+  "market_closedTime": "2024-12-11 05:00:26+00",
+  "conditionId": "0x4d7410af7816944808ebcf6a5129735d34a0d4b2d83313384b1e7f42270bec5c",
+  "slug": "nba-orl-mil-2024-12-10",
+  "question": "Magic vs. Bucks"
+}

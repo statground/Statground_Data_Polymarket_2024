@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:35:55.551791Z",
+  "market_createdAt": "2024-10-11T15:35:55.551791Z",
+  "market_updatedAt": "2024-10-13T23:46:49.241191Z",
+  "market_startDate": "2024-10-11T19:07:04.66778Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:15:43+00",
+  "conditionId": "0x3ddc6443f5dc0823ce428946bab89195303eeaa4a44825559aab9022f06d9537",
+  "slug": "will-texas-beat-oklahoma-by-15-or-more-points",
+  "question": "Will Texas beat Oklahoma by 15 or more points?"
+}

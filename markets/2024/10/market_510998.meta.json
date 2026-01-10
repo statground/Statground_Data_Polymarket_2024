@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:40:14.651981Z",
+  "market_createdAt": "2024-10-25T20:40:14.651981Z",
+  "market_updatedAt": "2024-10-28T19:50:49.689513Z",
+  "market_startDate": "2024-10-25T21:49:40.76116Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:10:10+00",
+  "conditionId": "0x3f13b14c42f346ad1030f9655f7fcdb7ade98200f2585c8f71b0186d31c27f71",
+  "slug": "will-the-lions-beat-the-titans-by-12-or-more-points",
+  "question": "Will the Lions beat the Titans by 12 or more points?"
+}

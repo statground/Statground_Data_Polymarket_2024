@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T15:01:30.835000Z",
+  "market_createdAt": "2024-06-18T15:01:30.835Z",
+  "market_updatedAt": "2024-07-06T18:13:09.043339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 18:11:39+00",
+  "conditionId": "0xb690e95c2f0edd8f8f4b09f4ab46f5ef53fb04800e786c08f4e837e9dc34fa55",
+  "slug": "reform-wins-between-15-and-19-of-votes",
+  "question": "Reform wins between 15% and 19% of votes?"
+}

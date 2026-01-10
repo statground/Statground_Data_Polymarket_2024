@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:34:27.225008Z",
+  "market_createdAt": "2024-09-06T15:34:27.225008Z",
+  "market_updatedAt": "2024-09-08T05:01:04.559883Z",
+  "market_startDate": "2024-09-06T18:09:20.088706Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 07:04:59+00",
+  "conditionId": "0xa281afeee2bf579bea493602cca6f2536e51e682687fbcae09925c028d99636e",
+  "slug": "will-northwestern-beat-duke-1",
+  "question": "Will Northwestern beat Duke?"
+}

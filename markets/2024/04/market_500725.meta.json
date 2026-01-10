@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:11:20.825263Z",
+  "market_createdAt": "2024-04-04T18:11:20.825263Z",
+  "market_updatedAt": "2024-11-07T23:07:14.003826Z",
+  "market_startDate": "2024-04-12T19:05:34.559Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:13:44+00",
+  "conditionId": "0xf6d2f149653747b4aea397565f4f562a50e0b5e0860c739f9a1fc79b76244032",
+  "slug": "will-a-republican-win-rhode-island-us-senate-election",
+  "question": "Will a Republican win Rhode Island US Senate Election?"
+}

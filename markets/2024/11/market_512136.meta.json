@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:06:20.756723Z",
+  "market_createdAt": "2024-11-05T22:06:20.756723Z",
+  "market_updatedAt": "2024-11-08T22:29:00.739621Z",
+  "market_startDate": "2024-11-07T03:09:16.760479Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:16:41+00",
+  "conditionId": "0x2e55fd5fb5e594271261e4c8344198b4e5694c98c8aa6483e8278015ce2fc398",
+  "slug": "will-porto-beat-lazio",
+  "question": "Will Porto beat Lazio?"
+}

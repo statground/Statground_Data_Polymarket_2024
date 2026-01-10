@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T21:39:55.209600Z",
+  "market_createdAt": "2024-09-04T21:39:55.2096Z",
+  "market_updatedAt": "2024-09-07T01:57:06.856751Z",
+  "market_startDate": "2024-09-04T22:32:28.214278Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-09-06 05:58:08+00",
+  "conditionId": "0x33f99150905860f73f33521ea902fa8e0ebbfe81565d8358a26d9af3e2a500e4",
+  "slug": "will-lamar-jackson-run-for-a-td",
+  "question": "Will Lamar Jackson run for a TD?"
+}

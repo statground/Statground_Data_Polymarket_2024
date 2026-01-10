@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T21:27:55.570457Z",
+  "market_createdAt": "2024-08-05T21:27:55.570457Z",
+  "market_updatedAt": "2024-08-07T21:26:48.378251Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 23:13:54+00",
+  "conditionId": "0x9a8e8cfc3339930065b180e0bfcff687207e181f683549fe1c8050ae52fbd3e9",
+  "slug": "olympic-basketball-usa-27pt5-vs-brazil-spread",
+  "question": "Olympic Basketball: USA (-27.5) vs. Brazil Spread"
+}

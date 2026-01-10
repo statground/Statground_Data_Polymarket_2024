@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:48:50.352318Z",
+  "market_createdAt": "2024-07-25T16:48:50.352318Z",
+  "market_updatedAt": "2024-07-28T18:51:02.865885Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:51:43+00",
+  "conditionId": "0x83a2b14b479bd9e27496522d38bc2b56b75a085ac72af60f8c35c7210dbc0fa8",
+  "slug": "will-elijah-winnington-aus-win-gold-in-mens-400m-freestyle",
+  "question": "Will Elijah Winnington (AUS) win Gold in Men's 400m Freestyle?"
+}

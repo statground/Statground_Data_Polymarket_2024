@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T19:47:32.960696Z",
+  "market_createdAt": "2024-06-24T19:47:32.960696Z",
+  "market_updatedAt": "2024-06-30T19:01:06.236886Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-29 19:09:48+00",
+  "conditionId": "0x3429fc7992913fc289e977951c6ba7fd87c52a56c88fb12d9198ed6d63e9359f",
+  "slug": "dexscreener-moonshot-token-hits-10m-by-friday",
+  "question": "Dexscreener Moonshot token hits $10m by Friday?"
+}

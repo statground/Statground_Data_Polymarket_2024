@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T17:33:15.418258Z",
+  "market_createdAt": "2024-07-23T17:33:15.418258Z",
+  "market_updatedAt": "2024-07-26T01:06:42.525025Z",
+  "market_startDate": "2024-07-23T20:35:21.53Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:29:09+00",
+  "conditionId": "0xaf7159cc389550ec48ad0666dcf33cbc519b7896cb951364bce21768d0fef9b9",
+  "slug": "will-biden-say-obama-during-drop-out-speech",
+  "question": "Will Biden say \"Obama\" during drop out speech?"
+}

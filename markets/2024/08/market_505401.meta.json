@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:16:25.531557Z",
+  "market_createdAt": "2024-08-20T00:16:25.531557Z",
+  "market_updatedAt": "2024-08-23T05:31:08.326217Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:43:00+00",
+  "conditionId": "0xfe1bac352c079288a69aa1f95ca4a289d6c5af3f60f6d2f456d991a6ee8de9c5",
+  "slug": "will-walz-say-couch-at-dnc-speech",
+  "question": "Will Walz say \"Couch\" at DNC speech?"
+}

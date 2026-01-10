@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:10:42.389676Z",
+  "market_createdAt": "2024-11-24T05:10:42.389676Z",
+  "market_updatedAt": "2024-12-02T00:23:36.387159Z",
+  "market_startDate": "2024-11-24T05:13:17.85219Z",
+  "market_endDate": "2024-12-07T20:30:00Z",
+  "market_closedTime": "2024-12-01 02:25:06+00",
+  "conditionId": "0x115a17c4845c12316dba27e4e74f9a4953157e8b623c8ac4fccbe63c0ea69f2a",
+  "slug": "cfb-uab-char-2024-11-30",
+  "question": "UAB vs. Charlotte"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-15T18:49:16.055000Z",
+  "market_createdAt": "2024-02-15T18:49:16.055Z",
+  "market_updatedAt": "2024-02-19T19:33:46.528Z",
+  "market_startDate": "2024-02-16T00:51:00Z",
+  "market_endDate": "2024-02-16T00:00:00Z",
+  "market_closedTime": "2024-02-19 00:01:21+00",
+  "conditionId": "0x98bb0d7d1ee08281842ba4c466d04d25a8364ae35fb8d0ae369da91bbe50da94",
+  "slug": "will-barry-keoghan-win-the-bafta-for-best-actor",
+  "question": "Will Barry Keoghan win the BAFTA for Best Actor?"
+}

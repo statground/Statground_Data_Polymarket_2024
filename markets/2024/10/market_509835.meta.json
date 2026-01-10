@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T19:00:46.575925Z",
+  "market_createdAt": "2024-10-14T19:00:46.575925Z",
+  "market_updatedAt": "2024-10-21T22:23:13.601962Z",
+  "market_startDate": "2024-10-14T19:02:55.467316Z",
+  "market_endDate": "2024-10-20T17:00:00Z",
+  "market_closedTime": "2024-10-20 22:24:54+00",
+  "conditionId": "0x97d28f2968e4d99c0c11d5b89ce7bb39bdef18b813f72ccde4e997a37297a5c8",
+  "slug": "nfl-det-min-2024-10-20",
+  "question": "Lions vs. Vikings"
+}

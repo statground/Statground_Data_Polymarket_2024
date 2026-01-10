@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:42:32.406870Z",
+  "market_createdAt": "2024-08-06T20:42:32.40687Z",
+  "market_updatedAt": "2024-08-10T19:30:57.788708Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 21:00:11+00",
+  "conditionId": "0xacf32921cd5fc0b0d786b8a18c9095d6aa9e5706c7b442fd433870cd72d793df",
+  "slug": "olympic-mens-soccer-final-spain-vs-france",
+  "question": "Olympic Men's Soccer Final: Spain vs. France"
+}

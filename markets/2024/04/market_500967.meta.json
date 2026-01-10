@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:32:54.593965Z",
+  "market_createdAt": "2024-04-15T20:32:54.593965Z",
+  "market_updatedAt": "2024-05-07T23:10:10.065676Z",
+  "market_startDate": "2024-04-16T16:50:06.189Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-04-30 05:00:00+00",
+  "conditionId": "0x31912cf0f4c0b527c4dd1d5f63c3c7b7ed17a611b46f3cf6ac589beab6cdba49",
+  "slug": "tampa-bay-lightning-win-the-2024-stanley-cup",
+  "question": "Tampa Bay Lightning win the 2024 Stanley Cup?"
+}

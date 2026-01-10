@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:03:00.988759Z",
+  "market_createdAt": "2024-12-15T07:03:00.988759Z",
+  "market_updatedAt": "2024-12-19T08:13:16.988662Z",
+  "market_startDate": "2024-12-15T07:05:35.579713Z",
+  "market_endDate": "2024-12-25T03:30:00Z",
+  "market_closedTime": "2024-12-18 08:16:06+00",
+  "conditionId": "0xebfd8d84a701ddb1fd8ba8079687af0441d2ca95a83fe9043d6e85e847385cb0",
+  "slug": "nhl-wpg-sj-2024-12-17",
+  "question": "Jets vs. Sharks"
+}

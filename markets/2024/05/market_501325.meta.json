@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T20:43:26.701387Z",
+  "market_createdAt": "2024-05-01T20:43:26.701387Z",
+  "market_updatedAt": "2024-05-07T23:09:16.576615Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-06 16:17:24+00",
+  "conditionId": "0x2b6a97c5e6f7544944c9ec42966d821c97d6842c4a690611e46de3856a07c836",
+  "slug": "will-columbia-be-the-next-university-to-cancel-commencement",
+  "question": "Will Columbia be the next university to cancel commencement?"
+}

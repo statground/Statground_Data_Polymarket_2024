@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T18:14:51.945619Z",
+  "market_createdAt": "2024-07-26T18:14:51.945619Z",
+  "market_updatedAt": "2024-08-05T16:23:00.84592Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:53:41+00",
+  "conditionId": "0x8470b2c84fef27ff92f428903d5b0da7228fa309595f70f8005aaafe5c777369",
+  "slug": "will-another-athlete-win-gold-in-womens-50m-freestyle",
+  "question": "Will another athlete win Gold in Women's 50m Freestyle?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:20:16.504777Z",
+  "market_createdAt": "2024-11-06T22:20:16.504777Z",
+  "market_updatedAt": "2025-01-18T00:08:55.671043Z",
+  "market_startDate": "2024-11-06T23:13:58.956Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:35:56+00",
+  "conditionId": "0x0a47e996b4b7b4c77667a4b01ac9d58006ce295a9a55723ecbf256303cd3066b",
+  "slug": "will-jimmy-carter-attend-presidential-inauguration",
+  "question": "Will Jimmy Carter attend presidential inauguration?"
+}

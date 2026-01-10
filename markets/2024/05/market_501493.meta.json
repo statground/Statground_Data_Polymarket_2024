@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501493",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-08T20:39:35.625341Z",
+  "market_createdAt": "2024-05-08T20:39:35.625341Z",
+  "market_updatedAt": "2024-11-07T20:53:09.195271Z",
+  "market_startDate": "2024-05-08T20:39:35.625341Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 05:40:49+00",
+  "conditionId": "0x7d71619fbc47291a003cf86a5309d91833910c9af6571fa8c40f056c437c3a48",
+  "slug": "will-a-candidate-from-another-party-win-vermont-governor-election-1",
+  "question": "Will a candidate from another party win Vermont Governor Election?"
+}

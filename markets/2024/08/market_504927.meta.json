@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:03:24.009440Z",
+  "market_createdAt": "2024-08-12T17:03:24.00944Z",
+  "market_updatedAt": "2024-08-17T14:43:05.204309Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-16 23:35:04+00",
+  "conditionId": "0x036f3f5f6c0af85e0654e9812bd65066e9fd39955a85753153359f36a6ee86e1",
+  "slug": "will-trump-post-41-45-times-this-week",
+  "question": "Will Trump post 41-45 times this week?"
+}

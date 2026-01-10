@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:21:01.045550Z",
+  "market_createdAt": "2024-06-19T21:21:01.04555Z",
+  "market_updatedAt": "2024-06-29T07:06:02.319179Z",
+  "market_startDate": "2024-06-20T18:38:14.822Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:38:09+00",
+  "conditionId": "0xd15d906f07ebf7a22a84177c0c4a46a89a9bce438826ab75d612736a71e26b08",
+  "slug": "will-trump-say-crack-during-the-debate",
+  "question": "Will Trump say \"Crack\" during the debate?"
+}

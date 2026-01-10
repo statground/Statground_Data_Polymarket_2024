@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-15T14:48:26.354487Z",
+  "market_createdAt": "2024-03-15T14:48:26.354487Z",
+  "market_updatedAt": "2024-05-07T23:09:12.1587Z",
+  "market_startDate": "2024-03-15T15:58:58.028Z",
+  "market_endDate": "2024-03-22T07:00:00Z",
+  "market_closedTime": "2024-03-18 03:57:41+00",
+  "conditionId": "0x44ce0bd52512f6fea2edb5dd3dcc53fa132a71bf3f5720ba6ffe6dc1615ffc8d",
+  "slug": "sol-hits-200-by-next-friday",
+  "question": "SOL hits $200 by next Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T19:25:26.901932Z",
+  "market_createdAt": "2024-08-13T19:25:26.901932Z",
+  "market_updatedAt": "2024-09-11T17:43:10.351129Z",
+  "market_startDate": "2024-08-13T19:25:26.901932Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-10 18:08:07+00",
+  "conditionId": "0x2d21171331eb7efcf6b2339c1e4e56ce176803a49bd1efc007834c61cd6b735a",
+  "slug": "august-temperature-increase-by-between-1pt15-1pt19c",
+  "question": "August temperature increase by between 1.15-1.19°C?"
+}

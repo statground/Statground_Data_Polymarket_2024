@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:26:40.401398Z",
+  "market_createdAt": "2024-07-16T16:26:40.401398Z",
+  "market_updatedAt": "2024-09-20T02:52:45.143409Z",
+  "market_startDate": "2024-07-16T16:26:40.401Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-09-19 06:10:31+00",
+  "conditionId": "0xa71db3c4a0a632b12241f6cf1aa6be5c8cb7b473dbfed77394a1222a9af8a11b",
+  "slug": "will-the-teamsters-not-endorse-a-major-candidate",
+  "question": "Will the Teamsters not endorse a major candidate?"
+}

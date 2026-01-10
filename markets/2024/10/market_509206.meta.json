@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T23:46:24.866849Z",
+  "market_createdAt": "2024-10-07T23:46:24.866849Z",
+  "market_updatedAt": "2024-11-24T20:30:37.252858Z",
+  "market_startDate": "2024-10-08T16:37:45.459834Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-24 20:27:36+00",
+  "conditionId": "0x938ef43cdd42f8e08d1e334deea0b6ab5b1e83bb85af99adac8b5af519cb3730",
+  "slug": "will-the-democratic-candidate-win-michigan-by-1pt0-2pt0",
+  "question": "Will the Democratic candidate win Michigan by 1.0%-2.0%?"
+}

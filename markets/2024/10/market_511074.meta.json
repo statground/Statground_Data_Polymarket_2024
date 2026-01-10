@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T02:20:24.098141Z",
+  "market_createdAt": "2024-10-28T02:20:24.098141Z",
+  "market_updatedAt": "2024-12-18T22:02:36.395789Z",
+  "market_startDate": "2024-11-01T23:54:26.484Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:03:59+00",
+  "conditionId": "0xce9c35c76317971de53939911b7178f385cec48771c502fd50f23bb6254ebc7f",
+  "slug": "us-presidential-election-decided-by-less-than-10k-votes",
+  "question": "U.S. Presidential election decided by ≤10k votes?"
+}

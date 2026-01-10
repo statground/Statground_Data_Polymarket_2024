@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T17:04:58.098842Z",
+  "market_createdAt": "2024-08-22T17:04:58.098842Z",
+  "market_updatedAt": "2024-08-23T21:47:07.296972Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 22:32:59+00",
+  "conditionId": "0xd6779dd17f7387607be28d9f6c9fe8e0e9fbe64696cff6db362d22b0573349f3",
+  "slug": "will-donald-trump-say-hannibal-lecter-in-border-speech",
+  "question": "Will Donald Trump say \"Hannibal Lecter\" in border speech?"
+}

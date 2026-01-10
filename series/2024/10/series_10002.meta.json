@@ -1,0 +1,15 @@
+{
+  "entity": "series",
+  "series_id": "10002",
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
+  "folder_dt_utc": "2024-10-11T12:27:49.307579Z",
+  "series_createdAt": "2024-10-11T12:27:49.307579Z",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-06T14:40:57.872919Z",
+  "slug": "cfb",
+  "ticker": "cfb",
+  "title": "CFB",
+  "startDate": null,
+  "recurrence": "daily",
+  "seriesType": "single"
+}

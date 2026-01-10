@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:05:29.600881Z",
+  "market_createdAt": "2024-10-04T17:05:29.600881Z",
+  "market_updatedAt": "2024-10-06T22:06:44.039294Z",
+  "market_startDate": "2024-10-04T18:41:30.78894Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:58:38+00",
+  "conditionId": "0x77fb60d5e61b41fffbe12cf07bd9047fa4962cb167ab59796fc7b3ff1b67efd3",
+  "slug": "will-usc-beat-minnesota-by-9-or-more-points",
+  "question": "Will USC beat Minnesota by 9 or more points?"
+}

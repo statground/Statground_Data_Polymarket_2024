@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:46:40.459969Z",
+  "market_createdAt": "2024-10-09T20:46:40.459969Z",
+  "market_updatedAt": "2024-11-14T11:20:00.602062Z",
+  "market_startDate": "2024-10-09T21:26:51.296943Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 11:16:58+00",
+  "conditionId": "0xce39f11fcda3de714271b1560cd82e3355dbb3ef2be6a728ebda641b19c737a0",
+  "slug": "will-trump-win-oklahoma-by-the-largest-margin",
+  "question": "Will Trump win Oklahoma by the largest margin?"
+}

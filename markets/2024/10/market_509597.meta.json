@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:08:44.852824Z",
+  "market_createdAt": "2024-10-11T15:08:44.852824Z",
+  "market_updatedAt": "2024-10-13T21:20:54.41691Z",
+  "market_startDate": "2024-10-11T18:46:53.790487Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:37:43+00",
+  "conditionId": "0x1ec731891f6e022a672c138df749933165fd6040f2f32ba52c73045ca1783b77",
+  "slug": "will-alabama-beat-south-carolina",
+  "question": "Will Alabama beat South Carolina?"
+}

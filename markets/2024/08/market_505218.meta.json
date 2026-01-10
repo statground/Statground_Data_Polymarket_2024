@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T16:57:57.753708Z",
+  "market_createdAt": "2024-08-16T16:57:57.753708Z",
+  "market_updatedAt": "2024-08-18T17:37:01.621381Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-17 20:34:24+00",
+  "conditionId": "0x2b0b4d7142ca159db27e301b054005de702f0caf4289b373c9d9033000e46466",
+  "slug": "will-trump-tweet-3-times-this-week",
+  "question": "Will Trump tweet 3 times this week?"
+}

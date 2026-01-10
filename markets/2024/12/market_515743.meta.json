@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:16:00.376577Z",
+  "market_createdAt": "2024-12-16T16:16:00.376577Z",
+  "market_updatedAt": "2025-01-02T01:17:17.155492Z",
+  "market_startDate": "2024-12-16T16:49:10.751231Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:14+00",
+  "conditionId": "0x3fe240e75977dd57b9357791ee7409610f2b91c9f42fd5b0aa585d24fbebc4fe",
+  "slug": "drone-detection-legislation-passes-in-2024",
+  "question": "Drone detection legislation passes in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:16:48.482634Z",
+  "market_createdAt": "2024-12-04T21:16:48.482634Z",
+  "market_updatedAt": "2024-12-10T02:15:16.040865Z",
+  "market_startDate": "2024-12-04T21:20:08.80633Z",
+  "market_endDate": "2024-12-15T22:00:00Z",
+  "market_closedTime": "2024-12-09 02:54:57+00",
+  "conditionId": "0x4ca68b3d1d578fe37f40c5f9ae297ce1db5ec25f05f8941cfca36a05d41f1ab2",
+  "slug": "nhl-nyi-ott-2024-12-08",
+  "question": "Islanders vs. Senators"
+}

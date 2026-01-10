@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T22:11:24.174029Z",
+  "market_createdAt": "2024-05-06T22:11:24.174029Z",
+  "market_updatedAt": "2024-05-09T04:04:05.053907Z",
+  "market_startDate": "2024-05-06T22:17:32.628Z",
+  "market_endDate": "2024-05-07T12:00:00Z",
+  "market_closedTime": "2024-05-08 06:04:08+00",
+  "conditionId": "0x5eef93f332c225694693a1536ca433847cffe982474e2e51c770a06777abbe65",
+  "slug": "nba-okc-dal-2024-05-07",
+  "question": "Oklahoma City Thunder vs. Dallas Mavericks: Game 1"
+}

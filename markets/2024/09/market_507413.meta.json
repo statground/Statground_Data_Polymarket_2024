@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T16:15:52.297219Z",
+  "market_createdAt": "2024-09-18T16:15:52.297219Z",
+  "market_updatedAt": "2025-05-16T08:20:30.5092Z",
+  "market_startDate": "2024-09-18T16:51:21.12365Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-16 02:53:33+00",
+  "conditionId": "0xee922ba545ca6b4c9a8837b2827634cfc86ac6e0e74b2026c7f1212629a46fa0",
+  "slug": "will-another-team-win-la-liga",
+  "question": "Will another team win La Liga?"
+}

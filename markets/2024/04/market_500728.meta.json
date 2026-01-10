@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500728",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:21:00.092093Z",
+  "market_createdAt": "2024-04-04T18:21:00.092093Z",
+  "market_updatedAt": "2024-11-07T20:53:07.180641Z",
+  "market_startDate": "2024-04-12T19:03:08.515Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:05:48+00",
+  "conditionId": "0x4ea4e8587b99e7fe73a7448c87ef492e284bc6b465e4973235c081a00017465f",
+  "slug": "will-a-democrat-win-massachusetts-us-senate-election",
+  "question": "Will a Democrat win Massachusetts US Senate Election?"
+}

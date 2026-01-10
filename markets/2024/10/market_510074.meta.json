@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T18:31:30.683548Z",
+  "market_createdAt": "2024-10-17T18:31:30.683548Z",
+  "market_updatedAt": "2024-10-21T00:36:41.497376Z",
+  "market_startDate": "2024-10-17T20:55:22.047669Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:03:15+00",
+  "conditionId": "0xcec7721f358564fd39990fa663721a9051dd967a989aefb1e6f58c6773feaec6",
+  "slug": "will-trump-say-60-minutes-3-or-more-times-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"60 minutes\" during Pennsylvania rally on October 19?"
+}

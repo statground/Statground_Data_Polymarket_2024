@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:08:48.205597Z",
+  "market_createdAt": "2024-12-30T05:08:48.205597Z",
+  "market_updatedAt": "2025-01-06T18:39:19.782009Z",
+  "market_startDate": "2024-12-30T05:11:23.711537Z",
+  "market_endDate": "2025-01-05T14:00:00Z",
+  "market_closedTime": "2025-01-05 19:08:41+00",
+  "conditionId": "0xb9f3c202b0c2d5294ce5041909674e50ac44d02fba6ea86559af74dcf7b79e0c",
+  "slug": "epl-ful-ips-2025-01-05-ful",
+  "question": "Will Fulham win on 2025-01-05?"
+}

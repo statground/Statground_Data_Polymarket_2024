@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:25:23.755230Z",
+  "market_createdAt": "2024-10-11T15:25:23.75523Z",
+  "market_updatedAt": "2024-10-13T23:16:51.945161Z",
+  "market_startDate": "2024-10-11T18:59:52.905495Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:26:33+00",
+  "conditionId": "0xba5058d241050c8eb30aab981614201b38f14fc8376a0538c7f6492ac02a5eed",
+  "slug": "will-illinois-beat-purdue",
+  "question": "Will Illinois beat Purdue?"
+}

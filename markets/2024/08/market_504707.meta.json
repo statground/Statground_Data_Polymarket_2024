@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:51:49.207901Z",
+  "market_createdAt": "2024-08-07T21:51:49.207901Z",
+  "market_updatedAt": "2024-12-19T00:31:25.120464Z",
+  "market_startDate": "2024-08-08T17:59:23.236Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:57:08+00",
+  "conditionId": "0x4216ea4eec58946ea322cdf9e7d407e8e6f6793190aca3b2954bebf164b2411d",
+  "slug": "neither-a-democrat-nor-a-republican-wins-popular-vote",
+  "question": "Neither a Democrat nor a Republican wins popular vote?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:27:34.886702Z",
+  "market_createdAt": "2024-12-16T16:27:34.886702Z",
+  "market_updatedAt": "2024-12-18T04:57:14.454671Z",
+  "market_startDate": "2024-12-16T23:31:46.556617Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 06:34:55+00",
+  "conditionId": "0x5de4c6d8a407eab675314ab1ed74fcb7c2612fc97ea6705c9bd9acdd47308e6b",
+  "slug": "will-the-vikings-beat-the-bears-by-7-or-more-points",
+  "question": "Will the Vikings beat the Bears by 7 or more points?"
+}

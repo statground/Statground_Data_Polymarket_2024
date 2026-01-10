@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:41:21.057333Z",
+  "market_createdAt": "2024-10-28T20:41:21.057333Z",
+  "market_updatedAt": "2024-11-02T02:23:11.605252Z",
+  "market_startDate": "2024-10-28T23:42:37.442293Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 02:59:38+00",
+  "conditionId": "0x228adc11149cecbf290edca55f7e905f501ac52fce5adc5d098ad9b081c52828",
+  "slug": "will-trump-say-missile-defense-shield-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"missile defense shield\" during Nevada rally on Oct 31?"
+}

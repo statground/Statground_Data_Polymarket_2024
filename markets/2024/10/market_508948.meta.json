@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:00:28.950717Z",
+  "market_createdAt": "2024-10-04T18:00:28.950717Z",
+  "market_updatedAt": "2024-10-07T11:02:43.877793Z",
+  "market_startDate": "2024-10-04T21:48:52.999259Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:16:58+00",
+  "conditionId": "0x6eb4c4eb9b818457d40388e1e6b5d60ec4e8db51a4efe2c21ea581f3d9b85023",
+  "slug": "will-the-bears-beat-the-panthers-by-4-or-more-points",
+  "question": "Will the Bears beat the Panthers by 4 or more points?"
+}

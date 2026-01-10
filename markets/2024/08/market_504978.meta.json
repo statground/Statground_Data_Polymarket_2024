@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:40:06.206707Z",
+  "market_createdAt": "2024-08-12T20:40:06.206707Z",
+  "market_updatedAt": "2024-08-15T06:17:03.066008Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 07:47:35+00",
+  "conditionId": "0xa6a66f6e484a35cdb863b1db3c8329766c49d02d5a9757b3ca3b9ff1645601d0",
+  "slug": "will-andre-jacque-win-the-wi-8-republican-house-primary",
+  "question": "Will André Jacque win the WI-8 Republican House Primary?"
+}

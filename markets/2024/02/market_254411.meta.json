@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-09T17:41:50.970000Z",
+  "market_createdAt": "2024-02-09T17:41:50.97Z",
+  "market_updatedAt": "2024-02-21T16:09:52.556Z",
+  "market_startDate": "2024-02-09T17:45:18.942Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-20 16:01:31+00",
+  "conditionId": "0x29a4124bc2ccb94c6ba72c0ce48aaa475414aee04bff3a1b9ba07429220912d8",
+  "slug": "will-eth-hit-3000-in-february",
+  "question": "Will ETH hit $3,000 in February?"
+}

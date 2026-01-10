@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T18:10:41.971085Z",
+  "market_createdAt": "2024-03-19T18:10:41.971085Z",
+  "market_updatedAt": "2024-05-07T23:09:20.717766Z",
+  "market_startDate": "2024-03-19T18:17:16.819Z",
+  "market_endDate": "2024-04-30T04:00:00Z",
+  "market_closedTime": "2024-05-01 06:15:23+00",
+  "conditionId": "0x1151eebf20ae146538ca696e0e0c46873caec6bbed51263dc15d48b740577ba2",
+  "slug": "will-israel-invade-lebanon-before-may",
+  "question": "Will Israel invade Lebanon before May?"
+}

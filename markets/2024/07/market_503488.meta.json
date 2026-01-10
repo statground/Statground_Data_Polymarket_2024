@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:01:59.892622Z",
+  "market_createdAt": "2024-07-15T16:01:59.892622Z",
+  "market_updatedAt": "2024-07-18T03:30:43.671791Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-17 08:45:54+00",
+  "conditionId": "0xd284ed029924c702e33ae9cd070c9a30ec62ce393e1ff58315bbb86f64dfd047",
+  "slug": "will-boris-angelov-win-the-wsop-main-event",
+  "question": "Will Boris Angelov win the WSOP main event?"
+}

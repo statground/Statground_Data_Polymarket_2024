@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:49:31.109933Z",
+  "market_createdAt": "2024-11-08T23:49:31.109933Z",
+  "market_updatedAt": "2024-11-11T23:43:16.110676Z",
+  "market_startDate": "2024-11-09T02:58:19.06993Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 02:55:37+00",
+  "conditionId": "0x7a661eb30e9b591ed20d581b49d61f79e7762ae0521d8b5fb793a2d3c9d4da6d",
+  "slug": "will-the-eagles-and-cowboys-combine-for-44-or-more-points",
+  "question": "Will the Eagles and Cowboys combine for 44 or more points?"
+}

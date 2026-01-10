@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:20:53.744403Z",
+  "market_createdAt": "2024-12-04T21:20:53.744403Z",
+  "market_updatedAt": "2024-12-12T07:37:03.684274Z",
+  "market_startDate": "2024-12-04T21:24:19.534279Z",
+  "market_endDate": "2024-12-18T03:00:00Z",
+  "market_closedTime": "2024-12-11 08:01:44+00",
+  "conditionId": "0xbbef32b1bcd250593dec7d6773aea9708b0bf3a07ee48a84b5ab9968a4aded53",
+  "slug": "nhl-fla-sea-2024-12-10",
+  "question": "Panthers vs. Kraken"
+}

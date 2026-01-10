@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:14:52.771838Z",
+  "market_createdAt": "2024-12-10T16:14:52.771838Z",
+  "market_updatedAt": "2024-12-11T21:29:16.126745Z",
+  "market_startDate": "2024-12-10T16:31:01.766Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 23:12:32+00",
+  "conditionId": "0x94f778643d0ba20b8825218f520500f21916d6bfb244189ffec1c2951c8c2881",
+  "slug": "will-kjp-say-kamala-during-press-briefing",
+  "question": "Will KJP say \"Kamala\" during press briefing?"
+}

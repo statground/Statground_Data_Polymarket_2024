@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-06T11:49:56.959573Z",
+  "market_createdAt": "2024-04-06T11:49:56.959573Z",
+  "market_updatedAt": "2024-05-07T23:09:50.966322Z",
+  "market_startDate": "2024-04-06T11:53:08.541Z",
+  "market_endDate": "2024-04-07T12:00:00Z",
+  "market_closedTime": "2024-04-07 23:15:15+00",
+  "conditionId": "0x74edf34d36a02b64b102b1c9a3f581c143ff88f9ecabab273b1e9588841897fc",
+  "slug": "wncaa-march-madness-final-iowa-vs-south-carolina",
+  "question": "WNCAA Final: Iowa vs. South Carolina"
+}

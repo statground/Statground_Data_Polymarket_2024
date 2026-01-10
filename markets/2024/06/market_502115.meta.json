@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T19:45:56.491216Z",
+  "market_createdAt": "2024-06-04T19:45:56.491216Z",
+  "market_updatedAt": "2024-06-08T18:11:14.861258Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 18:17:56+00",
+  "conditionId": "0xbc06936ccb3846987519cf6e6497b499fdc678e2c868e70c3ef9b891fd0c5108",
+  "slug": "solana-above-170-on-friday",
+  "question": "Solana above $170 on Friday?"
+}

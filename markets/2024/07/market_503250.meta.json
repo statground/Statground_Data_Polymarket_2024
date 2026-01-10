@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T21:35:38.873347Z",
+  "market_createdAt": "2024-07-05T21:35:38.873347Z",
+  "market_updatedAt": "2024-07-14T18:00:52.505548Z",
+  "market_startDate": "2024-07-09T20:51:36.014Z",
+  "market_endDate": "2024-07-13T12:00:00Z",
+  "market_closedTime": "2024-07-14 06:32:14+00",
+  "conditionId": "0xc4c20c3cc96af2f44055924c9da2cc7ff40802e92080d4b6bfc5db3b67c55aca",
+  "slug": "ufc-fight-night-ponzinibbio-vs-salikhov",
+  "question": "UFC Fight Night: Ponzinibbio vs. Salikhov"
+}

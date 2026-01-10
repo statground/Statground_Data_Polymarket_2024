@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T17:51:21.921765Z",
+  "market_createdAt": "2024-09-19T17:51:21.921765Z",
+  "market_updatedAt": "2024-10-30T08:37:04.244855Z",
+  "market_startDate": "2024-09-19T22:32:55.744Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-29 08:32:20+00",
+  "conditionId": "0x3fe38824b2df0b948a56588c67605e3561bbc321495a3d07036cda227add1170",
+  "slug": "will-bc-ndp-win-the-most-seats-in-the-2024-british-columbia-general-election",
+  "question": "Will BC NDP win the most seats in the 2024 British Columbia general election?"
+}

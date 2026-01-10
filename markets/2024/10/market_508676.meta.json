@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:16:34.309901Z",
+  "market_createdAt": "2024-10-02T17:16:34.309901Z",
+  "market_updatedAt": "2024-10-05T02:06:40.959275Z",
+  "market_startDate": "2024-10-02T21:00:35.14984Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-04 05:17:40+00",
+  "conditionId": "0x33514403a2a14bb2e63e056d49a9f8297888add68606a96cf244cafb5a70666b",
+  "slug": "will-the-milwaukee-brewers-win-the-national-league",
+  "question": "Will the Milwaukee Brewers win the National League?"
+}

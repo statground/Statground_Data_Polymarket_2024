@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:47:50.390111Z",
+  "market_createdAt": "2024-10-07T22:47:50.390111Z",
+  "market_updatedAt": "2024-11-30T14:37:18.242884Z",
+  "market_startDate": "2024-10-08T16:13:31.23692Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-30 00:17:43+00",
+  "conditionId": "0xec759fdefb182af4237d9e42a7c715be7a4213afacb484ddc066290a0f84221f",
+  "slug": "will-the-democratic-candidate-win-wisconsin-by-3-4pt0",
+  "question": "Will the Democratic candidate win Wisconsin by 3%-4.0%? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:21:51.784263Z",
+  "market_createdAt": "2024-10-07T22:21:51.784263Z",
+  "market_updatedAt": "2024-10-15T01:16:54.179508Z",
+  "market_startDate": "2024-10-07T22:23:58.083544Z",
+  "market_endDate": "2024-10-13T20:05:00Z",
+  "market_closedTime": "2024-10-14 01:14:28+00",
+  "conditionId": "0xe0ad079ea21568e02bcf0c1f9cfec5f077185d60571b3978a84f333a99b2c555",
+  "slug": "nfl-pit-las-2024-10-13",
+  "question": "Steelers vs. Raiders"
+}

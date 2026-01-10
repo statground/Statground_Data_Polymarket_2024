@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T16:56:40.290642Z",
+  "market_createdAt": "2024-11-18T16:56:40.290642Z",
+  "market_updatedAt": "2024-11-20T05:57:04.116553Z",
+  "market_startDate": "2024-11-18T19:45:21.344897Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 06:32:10+00",
+  "conditionId": "0x4080fe211a363a7a0437d8dbf790785f2c82339e242b7614d28d344f9754eec5",
+  "slug": "will-the-texans-and-cowboys-combine-for-41-or-more-points",
+  "question": "Will the Texans and Cowboys combine for 41 or more points?"
+}

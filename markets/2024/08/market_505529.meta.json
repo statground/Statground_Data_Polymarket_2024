@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:52:45.642078Z",
+  "market_createdAt": "2024-08-21T14:52:45.642078Z",
+  "market_updatedAt": "2024-08-23T03:21:07.57818Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:26:28+00",
+  "conditionId": "0x8652b6ce02cfb6d77924c89eb92d0c0d43997122fd6292436e9cc3cff71b1126",
+  "slug": "will-pelosi-say-ukraine-at-dnc-speech",
+  "question": "Will Pelosi say \"Ukraine\" at DNC speech?"
+}

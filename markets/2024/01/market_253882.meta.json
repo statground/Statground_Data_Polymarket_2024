@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-15T18:07:53.109000Z",
+  "market_createdAt": "2024-01-15T18:07:53.109Z",
+  "market_updatedAt": "2024-04-26T03:02:38.510613Z",
+  "market_startDate": "2024-01-15T18:19:00Z",
+  "market_endDate": "2024-01-16T00:00:00Z",
+  "market_closedTime": "2024-01-16 10:02:06+00",
+  "conditionId": "0x13e56d0c7853e7f507a4d8939123224359997db77e37eb0e4675a925708a5f24",
+  "slug": "will-jury-duty-win-outstanding-comedy-series-at-the-75th-emmys",
+  "question": "Will Jury Duty win Outstanding Comedy Series at the 75th Emmys?"
+}

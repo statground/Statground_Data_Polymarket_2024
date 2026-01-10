@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T20:06:49.138711Z",
+  "market_createdAt": "2024-11-21T20:06:49.138711Z",
+  "market_updatedAt": "2024-11-23T01:04:53.030286Z",
+  "market_startDate": "2024-11-21T20:33:04.551614Z",
+  "market_endDate": "2024-11-21T12:00:00Z",
+  "market_closedTime": "2024-11-22 02:56:54+00",
+  "conditionId": "0x6d004ecb8fa185dad6f9f74fb2ed4ce2acdcf60d1eac82a09935d0898400e383",
+  "slug": "will-david-hockneys-four-empty-vases-sell-for-5m-or-more",
+  "question": "Will David Hockney's \"Four Empty Vases\" sell for $5m or more?"
+}

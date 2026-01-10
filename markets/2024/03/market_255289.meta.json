@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:28:22.345000Z",
+  "market_createdAt": "2024-03-05T05:28:22.345Z",
+  "market_updatedAt": "2024-04-26T03:01:42.549842Z",
+  "market_startDate": "2024-03-05T06:03:43.996Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 07:18:45+00",
+  "conditionId": "0x0c75aa7b6ad497d763f282fbc7a28f873b623f39dbd8b6795fa7969ed62d8f4e",
+  "slug": "will-trump-win-minnesota-republican-primary",
+  "question": "Will Trump win Minnesota Republican Primary?"
+}

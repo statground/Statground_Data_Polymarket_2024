@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T17:02:12.731257Z",
+  "market_createdAt": "2024-09-20T17:02:12.731257Z",
+  "market_updatedAt": "2024-09-23T16:02:40.661093Z",
+  "market_startDate": "2024-09-20T19:01:48.490899Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:07:30+00",
+  "conditionId": "0x45e347e7d999561de4b1f57e578227114b3232e3d7d13085538e4ae1b4bdb59e",
+  "slug": "will-there-be-50-or-more-combined-points-scored-no-phi",
+  "question": "Will there be 50 or more combined points scored?"
+}

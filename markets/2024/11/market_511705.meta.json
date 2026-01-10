@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:51:50.158020Z",
+  "market_createdAt": "2024-11-01T18:51:50.15802Z",
+  "market_updatedAt": "2024-11-04T21:37:18.319874Z",
+  "market_startDate": "2024-11-01T22:17:20.794059Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 02:41:28+00",
+  "conditionId": "0x25e185b4a4cb3f757a9d2a9650fe105079648f513382051688eeb84bc32fe87c",
+  "slug": "will-the-cardinals-beat-the-bears-by-2-or-more-points",
+  "question": "Will the Cardinals beat the Bears by 2 or more points?"
+}

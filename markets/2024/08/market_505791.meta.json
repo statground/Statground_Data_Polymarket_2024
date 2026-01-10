@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:04:59.252665Z",
+  "market_createdAt": "2024-08-26T18:04:59.252665Z",
+  "market_updatedAt": "2024-09-17T05:56:47.202047Z",
+  "market_startDate": "2024-08-28T20:39:47.529Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 06:05:43+00",
+  "conditionId": "0x2466763d39405de2af140537f02d4dc084609048b7c2449ff1cb4f9503c38466",
+  "slug": "pavel-durov-leaves-france-by-sep-15",
+  "question": "Pavel Durov flees France by Sep 15?"
+}

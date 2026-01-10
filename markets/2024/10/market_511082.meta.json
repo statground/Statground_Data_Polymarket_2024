@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T14:54:03.283998Z",
+  "market_createdAt": "2024-10-28T14:54:03.283998Z",
+  "market_updatedAt": "2024-10-31T02:43:10.181079Z",
+  "market_startDate": "2024-10-28T15:37:08.566509Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 03:05:19+00",
+  "conditionId": "0x69e1d79d0706ee435ec68dc9492da1ae1bd05cb7ea7f2b205f6ca4c9046cd523",
+  "slug": "will-trump-say-puerto-rico-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"Puerto Rico\" during Pennsylvania rally on Oct 29?"
+}

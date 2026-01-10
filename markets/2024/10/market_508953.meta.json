@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:04:32.920996Z",
+  "market_createdAt": "2024-10-04T18:04:32.920996Z",
+  "market_updatedAt": "2024-10-08T00:20:49.297747Z",
+  "market_startDate": "2024-10-04T21:53:11.836856Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-07 01:21:41+00",
+  "conditionId": "0x2a6e8ec644473995415e0e614891cc1e51448633a2ae1445e1656f96490aa4a7",
+  "slug": "will-the-broncos-beat-the-raiders-by-3-or-more-points",
+  "question": "Will the Broncos beat the Raiders by 3 or more points?"
+}

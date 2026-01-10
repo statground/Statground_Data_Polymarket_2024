@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:11:43.387280Z",
+  "market_createdAt": "2024-12-30T22:11:43.38728Z",
+  "market_updatedAt": "2025-01-01T23:17:26.092902Z",
+  "market_startDate": "2024-12-30T23:04:02.065273Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 02:10:55+00",
+  "conditionId": "0x5d68f57caadba33e7593eda708670f884d8398104550e7d0d21d6e1ca9731724",
+  "slug": "will-baylor-win-the-texas-bowl",
+  "question": "Will Baylor win the Texas Bowl?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T16:03:19.099000Z",
+  "market_createdAt": "2024-03-05T16:03:19.099Z",
+  "market_updatedAt": "2024-04-26T02:53:32.959343Z",
+  "market_startDate": "2024-03-05T16:18:59.27Z",
+  "market_endDate": "2024-03-05T00:00:00Z",
+  "market_closedTime": "2024-03-06 07:08:39+00",
+  "conditionId": "0xe09bf01f1655582c4b4e2d6188b1e5c0dfdfae4a2e5ee0291922bef6f73a0323",
+  "slug": "will-bitcoin-hit-70k-today",
+  "question": "Will Bitcoin hit $70k today?"
+}

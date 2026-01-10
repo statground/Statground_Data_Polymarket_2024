@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-12T20:51:21.458109Z",
+  "market_createdAt": "2024-10-12T20:51:21.458109Z",
+  "market_updatedAt": "2024-10-14T21:16:55.235772Z",
+  "market_startDate": "2024-10-13T18:18:25.66114Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:17:25+00",
+  "conditionId": "0x9c1887af9eaf8c943fdb161717abe8f1ca25b5f47bc3a2e765989ac510a411a4",
+  "slug": "wnba-finals-game-2",
+  "question": "WNBA Finals: Liberty vs Lynx Game 2"
+}

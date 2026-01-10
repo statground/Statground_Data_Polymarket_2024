@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:50:34.034579Z",
+  "market_createdAt": "2024-11-05T21:50:34.034579Z",
+  "market_updatedAt": "2024-11-08T22:08:54.780282Z",
+  "market_startDate": "2024-11-07T03:06:18.295302Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:21:27+00",
+  "conditionId": "0x93662de7ddcec61927cced8fc9f5b505838b560fda341490a380169c97174086",
+  "slug": "will-maccabi-tlv-beat-ajax",
+  "question": "Will Maccabi TLV beat Ajax?"
+}

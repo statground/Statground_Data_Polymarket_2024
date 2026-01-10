@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:32:56.635966Z",
+  "market_createdAt": "2024-10-21T20:32:56.635966Z",
+  "market_updatedAt": "2024-10-28T06:46:41.821644Z",
+  "market_startDate": "2024-10-21T20:35:26.883013Z",
+  "market_endDate": "2024-10-27T00:00:00Z",
+  "market_closedTime": "2024-10-27 08:07:09+00",
+  "conditionId": "0x4287938f15c0ce3569d76e43eb9f8b6a4bcb3ddb670005f4bfe271aa9c0c44cb",
+  "slug": "nba-tor-min-2024-10-26",
+  "question": "Raptors vs. Timberwolves"
+}

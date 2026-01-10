@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T22:58:09.384000Z",
+  "market_createdAt": "2024-02-14T22:58:09.384Z",
+  "market_updatedAt": "2024-03-02T12:02:13.025Z",
+  "market_startDate": "2024-02-14T23:17:39.466Z",
+  "market_endDate": "2024-03-15T00:00:00Z",
+  "market_closedTime": "2024-03-01 12:45:57+00",
+  "conditionId": "0x0b420588320f29ab90f0e99af4e546a895f5815c7f13fd708f5688a59c8bcca3",
+  "slug": "will-wif-hit-1-by-march-15",
+  "question": "Will WIF hit $1 by March 15?"
+}

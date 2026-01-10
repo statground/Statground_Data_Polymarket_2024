@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510076",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T18:35:17.812397Z",
+  "market_createdAt": "2024-10-17T18:35:17.812397Z",
+  "market_updatedAt": "2024-10-21T01:10:45.237434Z",
+  "market_startDate": "2024-10-17T22:36:17.007634Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:08:41+00",
+  "conditionId": "0x16ea73133005b75df0f4b7988fbc6cb11598129ad5baa8e1c02fa80831cff473",
+  "slug": "will-trump-say-melania-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"Melania\" during Pennsylvania rally on October 19?"
+}

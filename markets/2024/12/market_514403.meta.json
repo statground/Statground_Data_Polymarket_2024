@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T18:28:02.638210Z",
+  "market_createdAt": "2024-12-02T18:28:02.63821Z",
+  "market_updatedAt": "2025-05-20T00:20:30.350229Z",
+  "market_startDate": "2024-12-17T17:03:23.660465Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-18 21:50:34+00",
+  "conditionId": "0xdec3f79eeef2472ed29955093f1f6aa9800bd9bc7af7e0dd2e212adcf752f769",
+  "slug": "will-arsenal-finish-in-the-top-4-of-the-epl",
+  "question": "Will Arsenal finish in the top 4 of the EPL?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513896",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:52:02.976935Z",
+  "market_createdAt": "2024-11-24T18:52:02.976935Z",
+  "market_updatedAt": "2024-11-27T07:27:43.562448Z",
+  "market_startDate": "2024-11-24T18:54:36.677423Z",
+  "market_endDate": "2024-12-03T03:00:00Z",
+  "market_closedTime": "2024-11-26 07:28:33+00",
+  "conditionId": "0x6fc88974e00246cf2cbb58b07ec851b200114146c39a4284bfffdb4495035e8c",
+  "slug": "nba-okc-sac-2024-11-25",
+  "question": "Thunder vs. Kings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:07:38.542000Z",
+  "market_createdAt": "2024-03-01T20:07:38.542Z",
+  "market_updatedAt": "2024-11-07T12:53:06.799171Z",
+  "market_startDate": "2024-03-28T20:56:19.584Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:50:48+00",
+  "conditionId": "0xb31067bef802154e2a6fbe1fff825bf2769860dfa829c4bf71463bc357df3023",
+  "slug": "will-a-republican-win-west-virginia-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win West Virginia Presidential Election?"
+}

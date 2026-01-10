@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:48:28.224330Z",
+  "market_createdAt": "2024-10-25T17:48:28.22433Z",
+  "market_updatedAt": "2024-10-27T18:16:49.386529Z",
+  "market_startDate": "2024-10-25T22:12:33.481942Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 22:01:13+00",
+  "conditionId": "0x2e01c1e42dd8a1bbff1b1ee765ec90a489145aba82d50dcda5012d1b1ff68cb7",
+  "slug": "will-ohio-state-beat-nebraska-by-26-or-more-points",
+  "question": "Will Ohio State beat Nebraska by 26 or more points?"
+}

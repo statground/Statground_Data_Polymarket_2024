@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:21:27.997740Z",
+  "market_createdAt": "2024-08-27T13:21:27.99774Z",
+  "market_updatedAt": "2024-10-11T00:30:44.972781Z",
+  "market_startDate": "2024-08-27T13:21:27.99774Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-10 05:30:02+00",
+  "conditionId": "0xc339a51acd7e974d793fad39d362ea7c2439fee4c003146a133bbbb8760cc4f3",
+  "slug": "will-the-philadelphia-phillies-win-the-world-series",
+  "question": "Will the Philadelphia Phillies win the World Series?"
+}

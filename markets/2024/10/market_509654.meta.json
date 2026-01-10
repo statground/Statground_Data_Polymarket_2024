@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T16:06:32.279715Z",
+  "market_createdAt": "2024-10-11T16:06:32.279715Z",
+  "market_updatedAt": "2024-10-14T02:36:46.084227Z",
+  "market_startDate": "2024-10-11T19:16:11.673655Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 08:00:36+00",
+  "conditionId": "0xef0dd42762982c50e91aba51b8ad4a5c675e3e20daa1ba96a9ce031620e757c9",
+  "slug": "will-kansas-st-beat-colorado-by-4-or-more-points",
+  "question": "Will Kansas St. beat Colorado by 4 or more points?"
+}

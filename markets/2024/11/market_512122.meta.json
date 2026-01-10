@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:46:19.429429Z",
+  "market_createdAt": "2024-11-05T21:46:19.429429Z",
+  "market_updatedAt": "2024-11-08T22:08:54.206782Z",
+  "market_startDate": "2024-11-07T03:01:03.744378Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:49:48+00",
+  "conditionId": "0xef44efcffc85bf76037806f1737f7a8d09c4b20b366af585b7c5615805a86bf3",
+  "slug": "will-union-st-gilloise-beat-roma",
+  "question": "Will Union St-Gilloise beat Roma?"
+}

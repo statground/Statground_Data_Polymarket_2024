@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:12:23.983319Z",
+  "market_createdAt": "2024-09-08T00:12:23.983319Z",
+  "market_updatedAt": "2024-09-09T16:47:07.515127Z",
+  "market_startDate": "2024-09-08T01:49:55.305Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:24:38+00",
+  "conditionId": "0xf4a04dee640330546aa00a7851fcbdc133bd05c9cdb45caedeae62fcf20d7405",
+  "slug": "will-the-falcons-win-by-4-or-more-points",
+  "question": "Will the Falcons win by 4 or more points?"
+}

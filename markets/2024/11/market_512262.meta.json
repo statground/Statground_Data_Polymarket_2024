@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512262",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:37:23.553097Z",
+  "market_createdAt": "2024-11-07T17:37:23.553097Z",
+  "market_updatedAt": "2024-11-16T07:13:03.481823Z",
+  "market_startDate": "2024-11-07T18:14:35.840796Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:32:19+00",
+  "conditionId": "0xe4cb55f834012d9be79cf1a77c6bc4880304037c3d3226cc9da61240cc41adb4",
+  "slug": "will-trump-nominate-paul-mango-for-hhs-secretary",
+  "question": "Will Trump nominate Paul Mango for HHS Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:37:02.677259Z",
+  "market_createdAt": "2024-11-08T19:37:02.677259Z",
+  "market_updatedAt": "2024-11-11T00:58:43.781628Z",
+  "market_startDate": "2024-11-08T22:15:51.761832Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:28:16+00",
+  "conditionId": "0x7e6fa2599cf9958f6b5d4d9575a5c9230e25a302aea97a531dfb2cf20cf047e7",
+  "slug": "cfb-georgia-vs-ole-miss",
+  "question": "CFB: Georgia vs. Ole Miss"
+}

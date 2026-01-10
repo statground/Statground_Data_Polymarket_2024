@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:18:56.075417Z",
+  "market_createdAt": "2024-09-09T17:18:56.075417Z",
+  "market_updatedAt": "2024-09-10T21:13:13.170987Z",
+  "market_startDate": "2024-09-09T17:32:05.578752Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-09 23:55:09+00",
+  "conditionId": "0x90e4beddae962549619be3d38eeb05f3b3b77a3338a4376680db520a822a081f",
+  "slug": "will-belgium-win-sep-9",
+  "question": "Will Belgium win?"
+}

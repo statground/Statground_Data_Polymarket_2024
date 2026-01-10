@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T22:41:08.697176Z",
+  "market_createdAt": "2024-05-03T22:41:08.697176Z",
+  "market_updatedAt": "2024-06-25T00:37:15.049308Z",
+  "market_startDate": null,
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-06-25 00:35:43+00",
+  "conditionId": "0xd3d5528e7f0d2a93a7d88b9d9e685a68512f344478dab7dac73f2bc1ba6a2584",
+  "slug": "sam-cassell-next-lakers-head-coach",
+  "question": "Sam Cassell next Lakers head coach?"
+}

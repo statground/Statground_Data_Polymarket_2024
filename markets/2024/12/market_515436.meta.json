@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T22:01:25.082704Z",
+  "market_createdAt": "2024-12-11T22:01:25.082704Z",
+  "market_updatedAt": "2024-12-30T01:10:13.025081Z",
+  "market_startDate": "2024-12-23T18:56:03.136306Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 04:07:09+00",
+  "conditionId": "0xce81bf7d6eb86fe2ed3a791021a843001d14e2fb3a06edeaaafc611e86680ec4",
+  "slug": "will-hikaru-nakamura-win-the-2024-world-rapid-championship",
+  "question": "Will Hikaru Nakamura win the 2024 World Rapid Championship?"
+}

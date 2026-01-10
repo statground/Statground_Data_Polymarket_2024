@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T21:31:01.890607Z",
+  "market_createdAt": "2024-11-22T21:31:01.890607Z",
+  "market_updatedAt": "2024-12-02T00:39:08.803187Z",
+  "market_startDate": "2024-11-22T21:35:03.403813Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:29:53+00",
+  "conditionId": "0x1f72c2ce95124720610619d2b1b0d73504016f75c3aa7d05ad5f07785d681614",
+  "slug": "diddy-released-from-custody-before-december",
+  "question": "Diddy released from custody before December?"
+}

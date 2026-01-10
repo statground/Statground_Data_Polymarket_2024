@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:50:49.626658Z",
+  "market_createdAt": "2024-05-15T14:50:49.626658Z",
+  "market_updatedAt": "2024-06-01T13:56:09.490912Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-05-31 17:02:11+00",
+  "conditionId": "0xd3be28df1839417bf2f1004c2a524273abd5a5f7a943fd1dec1afd78e2e97610",
+  "slug": "will-andrey-rublev-win-the-2024-french-open-mens-singles",
+  "question": "Will Andrey Rublev win the 2024 French Open Men's Singles?"
+}

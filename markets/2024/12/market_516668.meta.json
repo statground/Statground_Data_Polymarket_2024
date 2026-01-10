@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:04:48.555462Z",
+  "market_createdAt": "2024-12-29T07:04:48.555462Z",
+  "market_updatedAt": "2025-01-02T05:37:07.333181Z",
+  "market_startDate": "2024-12-29T07:07:26.41245Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 07:17:16+00",
+  "conditionId": "0xabbb9165d095c101de333c3fb9be3ede9a828cb5d2574cf3727a97d3982347b0",
+  "slug": "nhl-buf-dal-2024-12-31",
+  "question": "Sabres vs. Stars"
+}

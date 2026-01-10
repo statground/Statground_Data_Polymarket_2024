@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:34:10.232764Z",
+  "market_createdAt": "2024-08-19T19:34:10.232764Z",
+  "market_updatedAt": "2024-08-24T07:28:16.224274Z",
+  "market_startDate": "2024-08-23T12:00:00Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 07:25:13+00",
+  "conditionId": "0x1044aa08aff25e27c01d9faa26e007abd463efdfa85c176e007dae2db6658af7",
+  "slug": "nfl-las-sf-2024-08-23",
+  "question": "Raiders vs. 49ers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T22:26:22.358046Z",
+  "market_createdAt": "2024-12-12T22:26:22.358046Z",
+  "market_updatedAt": "2025-04-02T19:18:37.371873Z",
+  "market_startDate": "2024-12-12T22:57:51.81Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 21:11:11+00",
+  "conditionId": "0x7a771604bfe9025037a13a72d3d6f2fe6d2249be8a0b688f298cb3db60cb1270",
+  "slug": "will-an-fbi-agent-be-charged-for-inolvement-in-jan-6",
+  "question": "Will an FBI agent be charged for involvement in Jan 6?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T00:18:16.468583Z",
+  "market_createdAt": "2024-11-08T00:18:16.468583Z",
+  "market_updatedAt": "2025-07-01T12:01:00.709684Z",
+  "market_startDate": "2024-11-10T00:04:24.691Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 11:59:37+00",
+  "conditionId": "0xbf870d329924638db4f0d6ed2ce80e2d6b3432b51f7da7c801b45febe186b405",
+  "slug": "will-the-gop-use-nuclear-option-to-break-legislative-filibuster",
+  "question": "Will the GOP use 'Nuclear Option' to break filibuster?"
+}

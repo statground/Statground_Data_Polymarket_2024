@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:51:03.289073Z",
+  "market_createdAt": "2024-03-28T22:51:03.289073Z",
+  "market_updatedAt": "2024-11-07T18:59:09.516185Z",
+  "market_startDate": "2024-04-10T19:26:09.816Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:35:06+00",
+  "conditionId": "0xb156f975ef4e42fc1c32bb838098adcb91fd88f4cd6be2004b95ad53540a7bb7",
+  "slug": "congressional-district-3rd-nebraska-will-a-republican-win",
+  "question": "Will a Republican win Nebraska's 3rd congressional district?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:41:26.848053Z",
+  "market_createdAt": "2024-10-29T19:41:26.848053Z",
+  "market_updatedAt": "2024-10-31T03:57:07.551488Z",
+  "market_startDate": "2024-10-29T20:30:40.856432Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:07:20+00",
+  "conditionId": "0x148f46d0f05734f22ec662be8616b45ed2b111a753c4d594e6240a2904bd8a77",
+  "slug": "will-kamala-say-joyful-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"joyful\" during DC rally on Oct 29?"
+}

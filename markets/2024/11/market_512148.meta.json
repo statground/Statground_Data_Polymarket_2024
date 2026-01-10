@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:19:28.919289Z",
+  "market_createdAt": "2024-11-05T22:19:28.919289Z",
+  "market_updatedAt": "2024-11-08T22:52:59.675551Z",
+  "market_startDate": "2024-11-07T03:12:05.197692Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:21:39+00",
+  "conditionId": "0xaa24284406b1c0c690b2cb5c558f789cd242ce1687a39db66e553fa0f1d5211a",
+  "slug": "will-the-match-between-hoffenheim-and-lyon-end-in-a-draw",
+  "question": "Will the match between Hoffenheim and Lyon end in a draw?"
+}

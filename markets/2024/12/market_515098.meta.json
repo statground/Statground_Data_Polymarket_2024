@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515098",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T16:07:04.684711Z",
+  "market_createdAt": "2024-12-09T16:07:04.684711Z",
+  "market_updatedAt": "2025-03-02T06:12:23.433077Z",
+  "market_startDate": "2024-12-09T16:26:51.911Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2025-03-01 07:41:35+00",
+  "conditionId": "0xa631b8c0a69210de06c6766480a5fde9aa49a68683808cafabb111a8b17ec3cd",
+  "slug": "will-the-us-remove-hts-from-terror-list",
+  "question": "Will the U.S. remove HTS from terror list before March?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T05:06:50.751679Z",
+  "market_createdAt": "2024-12-18T05:06:50.751679Z",
+  "market_updatedAt": "2024-12-23T17:59:45.020842Z",
+  "market_startDate": "2024-12-18T05:09:23.466503Z",
+  "market_endDate": "2024-12-22T14:00:00Z",
+  "market_closedTime": "2024-12-22 19:06:12+00",
+  "conditionId": "0x85fcec5cb5007bb00d3306c244b500011a04d4adf25e7044a59145d303986a26",
+  "slug": "epl-eve-che-2024-12-22-draw",
+  "question": "Will Everton vs. Chelsea end in a draw?"
+}

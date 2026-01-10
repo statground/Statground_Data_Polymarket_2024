@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:08:59.525361Z",
+  "market_createdAt": "2024-11-04T16:08:59.525361Z",
+  "market_updatedAt": "2025-01-22T06:28:53.939149Z",
+  "market_startDate": "2024-11-06T16:13:01.352Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-21 08:30:32+00",
+  "conditionId": "0x06bbb0674262f5e6e488a37d0078688be16b5cb502792093ab3e762653905a6d",
+  "slug": "will-doug-burgum-be-a-member-of-the-trump-administration",
+  "question": "Will Doug Burgum be a member of the Trump administration? "
+}

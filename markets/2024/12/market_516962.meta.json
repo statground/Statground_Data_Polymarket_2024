@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:53:26.901333Z",
+  "market_createdAt": "2024-12-31T19:53:26.901333Z",
+  "market_updatedAt": "2026-01-02T00:31:54.847205Z",
+  "market_startDate": "2024-12-31T20:18:51.41Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:41:07+00",
+  "conditionId": "0x60279053b72e1e5299f66a6efd4f81663d0de5bedfc6bba41d6bbd0a9dbc9d1f",
+  "slug": "will-xai-have-the-top-ai-model-on-december-31",
+  "question": "Will xAI have the top AI model on December 31?"
+}

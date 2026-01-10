@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:01:36.420053Z",
+  "market_createdAt": "2024-12-10T16:01:36.420053Z",
+  "market_updatedAt": "2024-12-11T21:57:09.420457Z",
+  "market_startDate": "2024-12-10T16:26:42.302Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 23:08:04+00",
+  "conditionId": "0x927df72d9a536eb42f09436aec3ecebfa0ee5ffa78bc4f49aedd01fbd36cd2b5",
+  "slug": "will-kjp-say-trump-5-or-more-times-during-press-briefing",
+  "question": "Will KJP say \"Trump\" 5 or more times during press briefing?"
+}

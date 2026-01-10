@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505496",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:43:18.408483Z",
+  "market_createdAt": "2024-08-21T01:43:18.408483Z",
+  "market_updatedAt": "2024-08-26T15:00:54.471274Z",
+  "market_startDate": "2024-08-21T16:46:23.797Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:10:08+00",
+  "conditionId": "0x71ffd996700822cb362101d376534e2d18c80274c254cd296728e8336a8ab65f",
+  "slug": "will-bournemouth-beat-newcastle",
+  "question": "Will Bournemouth beat Newcastle?"
+}

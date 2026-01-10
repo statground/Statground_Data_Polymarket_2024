@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T17:47:04.803304Z",
+  "market_createdAt": "2024-08-05T17:47:04.803304Z",
+  "market_updatedAt": "2024-09-19T20:06:44.422079Z",
+  "market_startDate": "2024-08-05T17:47:04.803304Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 20:07:18+00",
+  "conditionId": "0x14838de558e0e1ee7a379fc11f25f1d0678c02617cdd97fbf65ed45d50db2ddb",
+  "slug": "will-the-fed-cut-rates-by-75-basis-points-in-september",
+  "question": "Fed cuts rates by 75 basis points in Sept meeting?"
+}

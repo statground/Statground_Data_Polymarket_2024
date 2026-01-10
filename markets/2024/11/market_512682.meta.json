@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:03:37.244825Z",
+  "market_createdAt": "2024-11-11T18:03:37.244825Z",
+  "market_updatedAt": "2024-11-14T04:43:04.492851Z",
+  "market_startDate": "2024-11-11T18:06:20.54034Z",
+  "market_endDate": "2024-11-21T00:00:00Z",
+  "market_closedTime": "2024-11-14 04:22:51+00",
+  "conditionId": "0xeb480d3aac2056c84dc4299133cc4ef38c45d6b756bcb89edb9a87399954268b",
+  "slug": "nba-ind-orl-2024-11-13",
+  "question": "Pacers vs. Magic"
+}

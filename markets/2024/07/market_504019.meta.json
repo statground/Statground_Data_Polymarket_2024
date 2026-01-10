@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T21:53:34.736197Z",
+  "market_createdAt": "2024-07-22T21:53:34.736197Z",
+  "market_updatedAt": "2024-08-02T20:26:56.403261Z",
+  "market_startDate": "2024-07-22T22:17:12.126Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 21:16:57+00",
+  "conditionId": "0x82622a0a61e69466616270d47ae73d40a76ffd077139a2bb21faa92de9c8d40e",
+  "slug": "will-joe-bidens-538-approval-reach-40pt0-in-july",
+  "question": "Will Biden's 538 approval reach 40% in July?"
+}

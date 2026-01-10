@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:04:57.920850Z",
+  "market_createdAt": "2024-08-12T17:04:57.92085Z",
+  "market_updatedAt": "2024-08-20T04:07:03.83039Z",
+  "market_startDate": "2024-08-18T12:00:00Z",
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-19 05:06:10+00",
+  "conditionId": "0x2ed1602eb5bf33927d77bdde59f90de9b4ee2752d6de714b3a4b8abbeed450bf",
+  "slug": "nfl-sf-no-2024-08-18",
+  "question": "49ers vs. Saints"
+}

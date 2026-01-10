@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:20:06.903334Z",
+  "market_createdAt": "2024-12-09T22:20:06.903334Z",
+  "market_updatedAt": "2024-12-12T21:51:14.451932Z",
+  "market_startDate": "2024-12-10T21:52:49.734688Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:23:09+00",
+  "conditionId": "0xabc64983b4dd02c605a254d342372ec16b4cb535975d9e325f3693b1328677ff",
+  "slug": "will-the-match-between-juventus-and-manchester-city-end-in-a-draw",
+  "question": "Will the match between Juventus and Manchester City end in a draw?"
+}

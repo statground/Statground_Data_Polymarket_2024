@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:41:46.839242Z",
+  "market_createdAt": "2024-11-11T21:41:46.839242Z",
+  "market_updatedAt": "2024-11-25T17:38:09.169969Z",
+  "market_startDate": "2024-11-11T21:44:25.950683Z",
+  "market_endDate": "2024-11-24T14:00:00Z",
+  "market_closedTime": "2024-11-24 19:10:21+00",
+  "conditionId": "0x3d7597f3ce9f213fcf5c08ac8c60bfbec7b6b19e3602be680057e658d44f8b96",
+  "slug": "epl-sou-liv-2024-11-24-sou",
+  "question": "Will Southampton win on 2024-11-24?"
+}

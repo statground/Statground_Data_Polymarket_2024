@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T20:13:36.802912Z",
+  "market_createdAt": "2024-10-14T20:13:36.802912Z",
+  "market_updatedAt": "2024-10-25T05:47:11.137377Z",
+  "market_startDate": "2024-10-15T15:07:32.757288Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 05:38:03+00",
+  "conditionId": "0xf4f3c92ae1fd4f180946fbda6ed0e92ea4def79e4e942080e2a75148ce4fc2ad",
+  "slug": "will-hans-niemann-win-the-2024-us-chess-championship",
+  "question": "Will Hans Niemann win the 2024 US Chess Championship?"
+}

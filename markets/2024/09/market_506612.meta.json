@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:14:49.780955Z",
+  "market_createdAt": "2024-09-08T00:14:49.780955Z",
+  "market_updatedAt": "2024-09-09T16:31:08.751953Z",
+  "market_startDate": "2024-09-08T01:51:55.604619Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 21:59:36+00",
+  "conditionId": "0x6bb88393631eb6b73bc6208d832ef7d0275af265d3b59555a2d4627922b224ba",
+  "slug": "will-the-vikings-win-by-2-or-more-points",
+  "question": "Will the Vikings win by 2 or more points?"
+}

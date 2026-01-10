@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T08:15:22.490603Z",
+  "market_createdAt": "2024-07-19T08:15:22.490603Z",
+  "market_updatedAt": "2024-07-20T18:36:43.635231Z",
+  "market_startDate": "2024-07-19T08:36:18.076Z",
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-19 19:50:14+00",
+  "conditionId": "0x3a92cef16fda6fb2ab4f245c4ebc4b92bbece61f498f795e5fc26b6e017707c7",
+  "slug": "will-american-airlines-be-ungrounded-by-noon",
+  "question": "Will American Airlines be ungrounded by Noon?"
+}

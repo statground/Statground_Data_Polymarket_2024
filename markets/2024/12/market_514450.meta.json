@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:16:29.101667Z",
+  "market_createdAt": "2024-12-02T19:16:29.101667Z",
+  "market_updatedAt": "2024-12-09T18:57:27.435435Z",
+  "market_startDate": "2024-12-02T19:20:04.096611Z",
+  "market_endDate": "2024-12-08T14:00:00Z",
+  "market_closedTime": "2024-12-08 19:08:17+00",
+  "conditionId": "0x5c448e795458b0e478abd1020862033d49aedca312f6469290901dcefdb5df90",
+  "slug": "epl-lei-bri-2024-12-08-draw",
+  "question": "Will Leicester vs. Brighton end in a draw?"
+}

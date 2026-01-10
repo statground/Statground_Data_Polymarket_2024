@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-06T11:58:48.845814Z",
+  "market_createdAt": "2024-04-06T11:58:48.845814Z",
+  "market_updatedAt": "2024-05-07T23:10:01.829883Z",
+  "market_startDate": "2024-04-06T12:02:57.457Z",
+  "market_endDate": "2024-04-12T12:00:00Z",
+  "market_closedTime": "2024-04-13 06:06:07+00",
+  "conditionId": "0x7be6740378c2474d2be793752f6c91a7f858b30ed07d22b6e7e3b90e9230704d",
+  "slug": "ben-shapiro-candace-owens-debate-by-friday",
+  "question": "Ben Shapiro + Candace Owens debate by Friday?"
+}

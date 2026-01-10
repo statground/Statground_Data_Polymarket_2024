@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:38:43.240104Z",
+  "market_createdAt": "2024-08-21T14:38:43.240104Z",
+  "market_updatedAt": "2024-08-23T01:51:08.444228Z",
+  "market_startDate": "2024-08-21T16:50:56.469Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:05:36+00",
+  "conditionId": "0x53fca014f75b39d25d57d25e0e735d1d1dd9391dc2d2684ee5aba9aa118de33d",
+  "slug": "will-bill-clinton-say-monica-or-lewinsky-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Monica\" or \"Lewinsky\" at DNC speech?"
+}

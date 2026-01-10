@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T15:10:55.568478Z",
+  "market_createdAt": "2024-06-24T15:10:55.568478Z",
+  "market_updatedAt": "2024-06-27T03:01:11.976671Z",
+  "market_startDate": "2024-06-24T17:35:07.239Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 06:12:59+00",
+  "conditionId": "0x0fc8ab0be099880cddc6f79e8a5ffc6a61b42ca62b8a658002062f8569f9cfcb",
+  "slug": "will-chile-win-jun-25",
+  "question": "Will Chile win?"
+}

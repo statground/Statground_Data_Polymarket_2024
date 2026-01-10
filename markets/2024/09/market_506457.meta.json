@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506457",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T14:04:42.395434Z",
+  "market_createdAt": "2024-09-05T14:04:42.395434Z",
+  "market_updatedAt": "2024-09-08T04:53:09.121508Z",
+  "market_startDate": "2024-09-05T14:17:03.322Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 05:06:35+00",
+  "conditionId": "0x5d04a46c2aecf1eca71925a4cea7a3ae064f13def0804aa954ec2625c90cfa21",
+  "slug": "us-open-fritz-vs-tiafoe",
+  "question": "US Open: Fritz vs. Tiafoe"
+}

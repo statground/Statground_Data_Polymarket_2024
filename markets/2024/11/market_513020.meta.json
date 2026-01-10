@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T17:08:30.902493Z",
+  "market_createdAt": "2024-11-14T17:08:30.902493Z",
+  "market_updatedAt": "2024-12-12T16:31:21.195882Z",
+  "market_startDate": "2024-11-14T17:21:17.348Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 16:47:26+00",
+  "conditionId": "0x24ee858fba5f91b94e6278e71b8e1fdaabaf2a3680700d670f42aaa1c5f40179",
+  "slug": "will-inflation-increase-by-2pt8-or-more-in-november",
+  "question": "Will inflation increase by 2.8% or more in November?"
+}

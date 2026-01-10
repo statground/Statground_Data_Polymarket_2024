@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-13T00:02:51.230819Z",
+  "market_createdAt": "2024-04-13T00:02:51.230819Z",
+  "market_updatedAt": "2024-05-07T23:10:10.067154Z",
+  "market_startDate": "2024-04-13T00:19:16.246Z",
+  "market_endDate": "2024-04-16T12:00:00Z",
+  "market_closedTime": "2024-04-17 00:14:16+00",
+  "conditionId": "0x90edaf43212ddb5e7d17e132ba4bac026ead359e510782475d0cae541d5c86d1",
+  "slug": "will-barcelona-win",
+  "question": "Will Barcelona win? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:19:25.111404Z",
+  "market_createdAt": "2024-09-13T20:19:25.111404Z",
+  "market_updatedAt": "2024-09-18T02:36:39.807607Z",
+  "market_startDate": "2024-09-13T20:58:22.648Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:34:57+00",
+  "conditionId": "0xacfb8f5480db4b03edd2750b92ad7c45211f69fcc0fd717173d1af25ffb65862",
+  "slug": "will-trump-say-elon-musk-during-the-x-space",
+  "question": "Will Trump say \"Elon Musk\" during the X space?"
+}

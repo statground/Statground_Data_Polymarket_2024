@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:54:01.872760Z",
+  "market_createdAt": "2024-12-31T19:54:01.87276Z",
+  "market_updatedAt": "2026-01-02T00:29:14.555907Z",
+  "market_startDate": "2024-12-31T20:19:31.627Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:40:01+00",
+  "conditionId": "0x082c611e9d2e294e256c7e6bd40aba498eb6ca2c0d2dc9bf5b8fdce5b5e8af9b",
+  "slug": "will-anthropic-have-the-top-ai-model-on-december-31",
+  "question": "Will Anthropic have the top AI model on December 31?"
+}

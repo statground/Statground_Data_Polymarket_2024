@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:07:06.786651Z",
+  "market_createdAt": "2024-07-31T15:07:06.786651Z",
+  "market_updatedAt": "2024-08-04T23:22:54.906739Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:41:52+00",
+  "conditionId": "0x40dc8b419b5f81a5c032e40d93c7a097edc36161bf9e274a305e3c1d069d4052",
+  "slug": "ufc-fight-night-cory-sandhagen-vs-umar-nurmagomedov",
+  "question": "UFC Fight Night: Cory Sandhagen vs. Umar Nurmagomedov"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:03:53.953410Z",
+  "market_createdAt": "2024-12-08T05:03:53.95341Z",
+  "market_updatedAt": "2024-12-13T04:19:07.996001Z",
+  "market_startDate": "2024-12-08T05:07:11.520935Z",
+  "market_endDate": "2024-12-19T00:00:00Z",
+  "market_closedTime": "2024-12-12 04:38:15+00",
+  "conditionId": "0xbbd070428f1dfea8851b7a01363be7eb717ffc7d5674bcce65433b0511464266",
+  "slug": "nba-atl-nyk-2024-12-11",
+  "question": "Hawks vs. Knicks"
+}

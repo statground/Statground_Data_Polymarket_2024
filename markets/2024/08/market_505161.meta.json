@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:17:33.813494Z",
+  "market_createdAt": "2024-08-15T17:17:33.813494Z",
+  "market_updatedAt": "2024-08-17T21:12:57.624017Z",
+  "market_startDate": "2024-08-16T02:28:17.698Z",
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-16 21:04:20+00",
+  "conditionId": "0x072378e2038201d008b1b486e23eee3165a1e72fb166ad2fee7a8efc9ebe88e1",
+  "slug": "will-kamala-harris-say-price-controls-during-friday-speech",
+  "question": "Will Kamala Harris say \"Price control\" during Friday speech?"
+}

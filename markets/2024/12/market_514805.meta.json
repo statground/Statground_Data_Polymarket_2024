@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:21:08.617230Z",
+  "market_createdAt": "2024-12-04T21:21:08.61723Z",
+  "market_updatedAt": "2024-12-12T07:37:07.151326Z",
+  "market_startDate": "2024-12-04T21:24:33.564332Z",
+  "market_endDate": "2024-12-18T03:00:00Z",
+  "market_closedTime": "2024-12-11 07:47:32+00",
+  "conditionId": "0x53d3bad89df5bd46629a86226c617aa74b1c3ea2b9da8d4fd6772c1147903e3f",
+  "slug": "nhl-stl-van-2024-12-10",
+  "question": "Blues vs. Canucks"
+}

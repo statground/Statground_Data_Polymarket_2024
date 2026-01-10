@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T14:42:31.356560Z",
+  "market_createdAt": "2024-03-20T14:42:31.35656Z",
+  "market_updatedAt": "2024-05-20T16:24:07.54482Z",
+  "market_startDate": "2024-03-20T21:00:16.711Z",
+  "market_endDate": "2024-05-19T04:00:00Z",
+  "market_closedTime": "2024-05-19 20:09:52+00",
+  "conditionId": "0xf32d12a697cbb6fcfec5260a0c0205e266c03bd4d30a600a8f086d39c1870de6",
+  "slug": "will-aresnal-win-the-premier-league",
+  "question": "Will Aresnal win the Premier League?"
+}

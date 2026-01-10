@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:31:08.976840Z",
+  "market_createdAt": "2024-12-03T17:31:08.97684Z",
+  "market_updatedAt": "2025-01-19T00:17:01.649413Z",
+  "market_startDate": "2024-12-03T18:21:07.668696Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2025-01-18 02:35:55+00",
+  "conditionId": "0xd0f9dbd34dbcd3580f45bfa2621e306f3ba92085497a6e26b512bc242ffe6241",
+  "slug": "us-bank-failure-before-march",
+  "question": "US bank failure before March?"
+}

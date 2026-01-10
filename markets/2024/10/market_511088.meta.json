@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T15:08:46.107238Z",
+  "market_createdAt": "2024-10-28T15:08:46.107238Z",
+  "market_updatedAt": "2024-10-31T02:23:08.144426Z",
+  "market_startDate": "2024-10-28T15:36:52.587757Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 03:25:06+00",
+  "conditionId": "0x1f37b7d5b9158257f7545382fd430a93307596054f30f391155e5008f0aaf911",
+  "slug": "will-trump-say-nazi-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"Nazi\" during Pennsylvania rally on Oct 29?"
+}

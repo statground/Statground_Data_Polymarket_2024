@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:45:43.779832Z",
+  "market_createdAt": "2024-11-01T18:45:43.779832Z",
+  "market_updatedAt": "2024-11-04T23:57:02.099986Z",
+  "market_startDate": "2024-11-01T22:14:11.556931Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:43:59+00",
+  "conditionId": "0x0f25969b4bfa2bc0567cd84b24e4530c993c8a0eac3dc22ea365a649eb4835bd",
+  "slug": "will-the-bengals-beat-the-raiders-by-7-or-more-points",
+  "question": "Will the Bengals beat the Raiders by 7 or more points?"
+}

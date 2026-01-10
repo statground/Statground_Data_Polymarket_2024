@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:22:23.851308Z",
+  "market_createdAt": "2024-10-29T22:22:23.851308Z",
+  "market_updatedAt": "2024-11-05T03:07:08.147762Z",
+  "market_startDate": "2024-10-30T15:03:27.953859Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:52:10+00",
+  "conditionId": "0x683f40d5a900755748eec349227b816b116306ee807b7e99588a704973c7a36d",
+  "slug": "will-charles-leclerc-win-the-brazilian-grand-prix",
+  "question": "Will Charles Leclerc win the Brazilian Grand Prix?"
+}

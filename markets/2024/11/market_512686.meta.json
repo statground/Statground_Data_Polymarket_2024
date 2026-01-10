@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:04:45.610917Z",
+  "market_createdAt": "2024-11-11T18:04:45.610917Z",
+  "market_updatedAt": "2024-11-15T04:34:59.447917Z",
+  "market_startDate": "2024-11-11T18:07:17.08869Z",
+  "market_endDate": "2024-11-21T00:30:00Z",
+  "market_closedTime": "2024-11-14 05:01:52+00",
+  "conditionId": "0x5ab027327c0054884651dcef6eedb5a6b684712ced457426e65e8f5c554c16d8",
+  "slug": "nba-nop-okc-2024-11-13",
+  "question": "Pelicans vs. Thunder"
+}

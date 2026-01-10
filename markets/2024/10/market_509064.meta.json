@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T17:50:01.725712Z",
+  "market_createdAt": "2024-10-07T17:50:01.725712Z",
+  "market_updatedAt": "2024-10-12T14:22:56.166101Z",
+  "market_startDate": "2024-10-07T18:35:22.305119Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-11 16:41:19+00",
+  "conditionId": "0x50a96b10fe256ecda16ae0c8a4b4f6dabbd207a812ddf3945b7522c3ed6158fa",
+  "slug": "will-avulus-win-dota-2-pgl-wallachia-2024",
+  "question": "Will AVULUS win Dota 2: PGL Wallachia 2024?"
+}

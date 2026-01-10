@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:42:20.316118Z",
+  "market_createdAt": "2024-11-06T20:42:20.316118Z",
+  "market_updatedAt": "2024-11-27T20:43:43.040993Z",
+  "market_startDate": "2024-11-06T20:54:11.207663Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-26 20:43:44+00",
+  "conditionId": "0x60115dfb843bf196467091c583ff57020da58700c95d2e8f14fa80ac65829d77",
+  "slug": "hawk-tuah-token-dropped-by-thanksgiving",
+  "question": "Hawk Tuah token by Thanksgiving?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:09:50.780777Z",
+  "market_createdAt": "2024-12-22T05:09:50.780777Z",
+  "market_updatedAt": "2024-12-29T05:02:49.365782Z",
+  "market_startDate": "2024-12-22T05:12:57.433724Z",
+  "market_endDate": "2025-01-04T01:00:00Z",
+  "market_closedTime": "2024-12-28 05:34:06+00",
+  "conditionId": "0x4a740f5ca5d18ea26298cef319ffbe7c7b65c650dcfd63fdc3b593f1fb4a0891",
+  "slug": "nba-min-hou-2024-12-27",
+  "question": "Timberwolves vs. Rockets"
+}

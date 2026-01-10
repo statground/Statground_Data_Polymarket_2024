@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T17:01:22.375424Z",
+  "market_createdAt": "2024-04-25T17:01:22.375424Z",
+  "market_updatedAt": "2024-12-19T18:59:17.218142Z",
+  "market_startDate": "2024-04-25T17:58:08.273Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 21:29:38+00",
+  "conditionId": "0x4a5b5f52c6e7f2af6b06462c92d12ea7bd1662c87be11828da0722ff32373b36",
+  "slug": "fed-rate-hike-in-2024",
+  "question": "Fed rate hike in 2024?"
+}

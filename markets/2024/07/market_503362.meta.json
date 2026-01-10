@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:11:37.827172Z",
+  "market_createdAt": "2024-07-10T17:11:37.827172Z",
+  "market_updatedAt": "2024-07-18T01:44:44.67254Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-17 04:11:16+00",
+  "conditionId": "0x7e27c759308c4e0c28cfff7aac6d9a5651170ed4d88db6122c8bfb64c3d6d9a7",
+  "slug": "will-ron-desantis-speak-at-the-rnc",
+  "question": "Will Ron DeSantis speak at the RNC?"
+}

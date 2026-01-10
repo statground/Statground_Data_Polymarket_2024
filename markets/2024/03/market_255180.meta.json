@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:37:28.330000Z",
+  "market_createdAt": "2024-03-01T19:37:28.33Z",
+  "market_updatedAt": "2024-11-07T01:51:11.041313Z",
+  "market_startDate": "2024-03-28T20:05:54.811Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 14:40:47+00",
+  "conditionId": "0xfd5c9b03f12eecadb202a974172578039283f7b4105209a86ef3003d7e88835a",
+  "slug": "will-a-republican-win-utah-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Utah Presidential Election?"
+}

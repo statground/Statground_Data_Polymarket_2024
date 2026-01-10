@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:39:41.000919Z",
+  "market_createdAt": "2024-11-01T23:39:41.000919Z",
+  "market_updatedAt": "2024-11-04T23:37:17.164945Z",
+  "market_startDate": "2024-11-02T00:10:43.049Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:15:15+00",
+  "conditionId": "0x1d9e74134c729ab3f8b13663a72a015cc0ad17ee617395363dc250649c852c0f",
+  "slug": "will-trump-say-pocahontas-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"Pocahontas\" during North Carolina rally on Nov 3?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:34:31.568644Z",
+  "market_createdAt": "2024-11-01T17:34:31.568644Z",
+  "market_updatedAt": "2024-11-04T01:06:59.73956Z",
+  "market_startDate": "2024-11-01T22:54:00.149Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 02:44:06+00",
+  "conditionId": "0xa149b588ec12729b02e9cf8b9beeabfdc0dc02e74bd5adeec0dad86d86c77e9b",
+  "slug": "will-texas-tech-beat-iowa-state",
+  "question": "Will Texas Tech beat Iowa State?"
+}

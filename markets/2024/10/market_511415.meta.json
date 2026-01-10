@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T15:48:54.634261Z",
+  "market_createdAt": "2024-10-30T15:48:54.634261Z",
+  "market_updatedAt": "2024-11-11T03:28:44.395153Z",
+  "market_startDate": "2024-10-30T16:36:54.613629Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:30:14+00",
+  "conditionId": "0x71033a934cb3f03de6d9e606a251962fd85513f5dbfc3080bc1f768822f6a9dd",
+  "slug": "trump-sun-belt-swing-state-sweep",
+  "question": "Trump Sun Belt swing state sweep?"
+}

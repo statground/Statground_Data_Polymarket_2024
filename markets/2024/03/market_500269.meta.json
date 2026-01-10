@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T17:10:32.041768Z",
+  "market_createdAt": "2024-03-18T17:10:32.041768Z",
+  "market_updatedAt": "2024-05-07T23:09:15.412999Z",
+  "market_startDate": "2024-03-18T19:00:20.203Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-04-07 03:23:18+00",
+  "conditionId": "0xf9996fd098b46d5618b172873fc78415633c593db27d0e39d2d8822b9bc6f414",
+  "slug": "will-a-916-seed-win-the-ncaa-tournament",
+  "question": "Will a 9-16 seed win the NCAA tournament?"
+}

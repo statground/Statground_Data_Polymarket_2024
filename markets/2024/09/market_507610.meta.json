@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T17:08:38.732335Z",
+  "market_createdAt": "2024-09-20T17:08:38.732335Z",
+  "market_updatedAt": "2024-09-23T23:46:38.803233Z",
+  "market_startDate": "2024-09-20T19:02:51.952775Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 01:32:54+00",
+  "conditionId": "0x0a58e0785c2f4ef4870c8bd45136a27c65ddcb80ba3c36f94f3fce911a89c81b",
+  "slug": "will-there-be-41-or-more-combined-points-scored-lv-car",
+  "question": "Will there be 41 or more combined points scored?"
+}

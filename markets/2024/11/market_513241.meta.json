@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:53:14.153095Z",
+  "market_createdAt": "2024-11-15T21:53:14.153095Z",
+  "market_updatedAt": "2025-01-21T20:37:04.898668Z",
+  "market_startDate": "2024-11-15T22:37:39.505Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:54:42+00",
+  "conditionId": "0x3b0a8d6b638fb509c5c56db47a4fd0e027f10cf360a6a05d199a354eb951d172",
+  "slug": "will-trump-say-trans-during-his-inauguration-speech",
+  "question": "Will Trump say \"trans\" during his inauguration speech?"
+}

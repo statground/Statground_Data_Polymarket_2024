@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T18:46:59.847279Z",
+  "market_createdAt": "2024-09-26T18:46:59.847279Z",
+  "market_updatedAt": "2024-11-13T18:07:16.082699Z",
+  "market_startDate": "2024-09-26T20:49:53.728Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-11-12 18:18:31+00",
+  "conditionId": "0x9915fda4386b321d315a61bffd2cd7306549e21cbb969f14d5976e6540c245d0",
+  "slug": "will-fwog-be-the-first-pumpfun-coin-to-1b",
+  "question": "Will FWOG be the first Pump.fun coin to $1b?"
+}

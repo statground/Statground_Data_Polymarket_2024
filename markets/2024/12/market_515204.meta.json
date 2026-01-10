@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:19:21.600745Z",
+  "market_createdAt": "2024-12-09T22:19:21.600745Z",
+  "market_updatedAt": "2024-12-13T00:31:07.582982Z",
+  "market_startDate": "2024-12-10T21:51:50.683838Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:18:14+00",
+  "conditionId": "0xdfe01fb59a2a471871af7c87c4cf89beb314bddce45795b548101ab1cd461101",
+  "slug": "will-juventus-beat-manchester-city",
+  "question": "Will Juventus beat Manchester City?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501453",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T16:16:19.701160Z",
+  "market_createdAt": "2024-05-07T16:16:19.70116Z",
+  "market_updatedAt": "2024-05-28T04:29:04.916474Z",
+  "market_startDate": "2024-05-07T16:50:55.349Z",
+  "market_endDate": "2024-05-26T12:00:00Z",
+  "market_closedTime": "2024-05-27 06:11:05+00",
+  "conditionId": "0x6c405d9f77288b373f5783e1bdf491b57dc8023bac6fce295898aa78dc27ccc7",
+  "slug": "will-another-candidate-win-the-2024-lithuanian-presidential-election",
+  "question": "Will another candidate win the 2024 Lithuanian presidential election?"
+}

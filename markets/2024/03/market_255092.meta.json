@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:10:18.960000Z",
+  "market_createdAt": "2024-03-01T18:10:18.96Z",
+  "market_updatedAt": "2024-11-06T22:23:06.831752Z",
+  "market_startDate": "2024-03-28T20:19:39.19Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 17:14:48+00",
+  "conditionId": "0x59032c7e0f729755ce89214f3332f238fb14148e4a9f1c26f76cf0f2e3bbf400",
+  "slug": "will-a-candidate-from-another-party-win-hawaii-presidential-election",
+  "question": "Will a candidate from another party win Hawaii Presidential Election?"
+}

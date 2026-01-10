@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:34:08.926971Z",
+  "market_createdAt": "2024-06-12T22:34:08.926971Z",
+  "market_updatedAt": "2024-06-17T09:36:16.322656Z",
+  "market_startDate": "2024-06-12T23:41:19.351Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-16 22:07:29+00",
+  "conditionId": "0xa2743ac90c56706e9e878f4632ea633453f336dff0e3b8551fddbb9e3a024089",
+  "slug": "will-brooks-koepka-win-the-us-open",
+  "question": "Will Brooks Koepka win the U.S. Open? "
+}

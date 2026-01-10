@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:33:43.654728Z",
+  "market_createdAt": "2024-10-28T21:33:43.654728Z",
+  "market_updatedAt": "2024-11-03T05:03:04.977564Z",
+  "market_startDate": "2024-10-28T23:55:18.19164Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:55:59+00",
+  "conditionId": "0x06b50556351831010bc73d365b414d5dba8ca23abad18424a8a7307dff658936",
+  "slug": "will-trump-say-teamster-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"Teamster\" during Wisconsin rally on Nov 1?"
+}

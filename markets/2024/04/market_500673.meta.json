@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:39:20.091982Z",
+  "market_createdAt": "2024-04-04T15:39:20.091982Z",
+  "market_updatedAt": "2024-11-07T02:16:53.070176Z",
+  "market_startDate": "2024-04-12T19:55:11.713Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:13:38+00",
+  "conditionId": "0xf87d147517a1abee08599be65ccfbafb61d7643d61c1a42556c1ff60adea12b5",
+  "slug": "will-a-republican-win-wyoming-us-senate-election",
+  "question": "Will a Republican win Wyoming US Senate Election?"
+}

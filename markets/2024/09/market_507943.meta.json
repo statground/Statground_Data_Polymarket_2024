@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:58:31.171029Z",
+  "market_createdAt": "2024-09-24T17:58:31.171029Z",
+  "market_updatedAt": "2024-09-27T21:06:48.580033Z",
+  "market_startDate": "2024-09-25T16:08:22.944851Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-26 21:52:39+00",
+  "conditionId": "0xf838c64235f65c80a890acc9863227de512b6e8eb8a2013dd31689f92bee74cb",
+  "slug": "will-fenerbahce-beat-union-saint-gilloise",
+  "question": "Will Fenerbahce beat Union Saint-Gilloise?"
+}

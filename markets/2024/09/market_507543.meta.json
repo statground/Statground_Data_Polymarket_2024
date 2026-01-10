@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T23:56:23.050891Z",
+  "market_createdAt": "2024-09-19T23:56:23.050891Z",
+  "market_updatedAt": "2024-09-21T21:06:49.417199Z",
+  "market_startDate": "2024-09-20T02:12:19.59467Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 22:19:04+00",
+  "conditionId": "0xba331cde8cbd490e69dfd0569e01a1cfced4199ccc904d0a67edc0b08a4ee0f2",
+  "slug": "esl-counter-strike-quarterfinals-g2-vs-liquid",
+  "question": "ESL Counter-Strike Quarterfinals: G2 vs Liquid"
+}

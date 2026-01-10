@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T22:04:09.197775Z",
+  "market_createdAt": "2024-10-04T22:04:09.197775Z",
+  "market_updatedAt": "2024-10-07T00:56:40.895006Z",
+  "market_startDate": "2024-10-04T22:08:14.451109Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:22:23+00",
+  "conditionId": "0x4b1187f6e3c946013ad8f75a747f99810592ed11780c1fc7389789bc61086329",
+  "slug": "will-trump-say-tesla-during-pennsylvania-rally",
+  "question": "Will Trump say \"Tesla\" during Pennsylvania rally?"
+}

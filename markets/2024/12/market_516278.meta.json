@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:05:28.464781Z",
+  "market_createdAt": "2024-12-22T07:05:28.464781Z",
+  "market_updatedAt": "2024-12-29T03:32:57.620239Z",
+  "market_startDate": "2024-12-22T07:08:02.335033Z",
+  "market_endDate": "2025-01-04T00:00:00Z",
+  "market_closedTime": "2024-12-28 04:57:44+00",
+  "conditionId": "0x0f5a8fc6f836c33e09582d71a5698056bf1023edb061ad99d4db68950d0e2777",
+  "slug": "nhl-chi-buf-2024-12-27",
+  "question": "Blackhawks vs. Sabres"
+}

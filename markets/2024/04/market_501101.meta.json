@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-20T18:41:34.682084Z",
+  "market_createdAt": "2024-04-20T18:41:34.682084Z",
+  "market_updatedAt": "2024-05-07T23:09:09.862871Z",
+  "market_startDate": "2024-04-20T18:56:43.877Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 05:16:59+00",
+  "conditionId": "0x4bfd399910e6e80a3b456e7eea94899ebd876f91b8fef9196f22658f7f2677e4",
+  "slug": "thunder-vs-pelicans-series-winner",
+  "question": "Thunder vs. Pelicans Series Winner"
+}

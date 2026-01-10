@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:49:12.304167Z",
+  "market_createdAt": "2024-05-20T17:49:12.304167Z",
+  "market_updatedAt": "2024-06-20T10:11:09.179234Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 10:09:22+00",
+  "conditionId": "0x624894c23b387e4bf886f1db7947afafd2f8bd963e3cdb69b8366f206878392a",
+  "slug": "will-ali-akbar-salehi-be-the-next-president-of-iran",
+  "question": "Will Ali Akbar Salehi be the next President of Iran?"
+}

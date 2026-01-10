@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505558",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T16:19:20.892501Z",
+  "market_createdAt": "2024-08-21T16:19:20.892501Z",
+  "market_updatedAt": "2024-08-24T03:46:56.402786Z",
+  "market_startDate": "2024-08-21T17:26:30.824Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:57:22+00",
+  "conditionId": "0x5c35dee6dcf90ac376de439e3f90b542fc2d836bd8968d96c6c8cf7fa131c23d",
+  "slug": "will-kamala-harris-say-oakland-during-dnc-speech",
+  "question": "Will Kamala Harris say \"Oakland\" during DNC speech?"
+}

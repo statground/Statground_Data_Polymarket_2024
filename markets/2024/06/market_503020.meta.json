@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-30T06:04:21.561308Z",
+  "market_createdAt": "2024-06-30T06:04:21.561308Z",
+  "market_updatedAt": "2024-07-01T19:40:50.79826Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 00:09:21+00",
+  "conditionId": "0xf088daec5b2db223394b815d9e18b25d24580bf55c4bd13b074725e4f3a883be",
+  "slug": "will-the-match-be-a-draw-spain-georgia",
+  "question": "Will the match be a draw?"
+}

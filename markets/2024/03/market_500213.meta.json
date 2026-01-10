@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:14:48.581740Z",
+  "market_createdAt": "2024-03-17T20:14:48.58174Z",
+  "market_updatedAt": "2024-05-07T23:09:38.500623Z",
+  "market_startDate": "2024-03-17T20:21:40.414Z",
+  "market_endDate": "2024-03-28T07:00:00Z",
+  "market_closedTime": "2024-03-28 19:05:46+00",
+  "conditionId": "0xa63e9cbbcc7914290f00faab781400dde671be95e63a04800bef395b42298e02",
+  "slug": "sbf-sentence-between-40-and-50-years",
+  "question": "SBF sentence between 40 and 50 years?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:18:38.688109Z",
+  "market_createdAt": "2024-12-02T20:18:38.688109Z",
+  "market_updatedAt": "2024-12-08T15:01:43.051035Z",
+  "market_startDate": "2024-12-04T22:16:18.793539Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-07 14:58:29+00",
+  "conditionId": "0x35d1fae516f68d36f7cec110d353d6dd4315212bc9610e4e45ef63fd747cdd05",
+  "slug": "will-game-10-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 10 of the World Chess Championship end in a draw?"
+}

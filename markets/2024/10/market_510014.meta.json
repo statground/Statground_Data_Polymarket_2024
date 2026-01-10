@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:47:01.786508Z",
+  "market_createdAt": "2024-10-16T19:47:01.786508Z",
+  "market_updatedAt": "2024-10-20T02:36:45.177149Z",
+  "market_startDate": "2024-10-16T21:07:59.554Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 03:29:30+00",
+  "conditionId": "0x2e63a525c23da5c87866063d38996ce7c1b174e7498039b5064194c7acc14b7e",
+  "slug": "will-trump-say-kamala-30-or-more-times-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"Kamala\" 30 or more times during Michigan rally on October 18?"
+}

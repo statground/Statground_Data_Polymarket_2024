@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:49:04.465652Z",
+  "market_createdAt": "2024-09-24T04:49:04.465652Z",
+  "market_updatedAt": "2024-09-30T23:42:42.127671Z",
+  "market_startDate": "2024-09-24T04:51:21.07105Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:40:04+00",
+  "conditionId": "0xebff4b1708c508716258e6303b0a05ea43f4ed62a1dfe430831e83d5c2386dcd",
+  "slug": "nfl-tb-phi-2024-09-29",
+  "question": "Buccaneers vs. Eagles"
+}

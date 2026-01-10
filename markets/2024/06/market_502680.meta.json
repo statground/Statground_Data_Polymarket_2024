@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T15:06:03.258630Z",
+  "market_createdAt": "2024-06-20T15:06:03.25863Z",
+  "market_updatedAt": "2024-06-24T12:51:13.023264Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:41:43+00",
+  "conditionId": "0x2451b94a19a9558bfbe83cb8a3144e16f02a7774fe72cf914e6d8ea3d2ffd677",
+  "slug": "another-player-biggest-loser",
+  "question": "Another player biggest loser?"
+}

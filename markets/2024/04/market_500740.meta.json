@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:48:42.727640Z",
+  "market_createdAt": "2024-04-04T18:48:42.72764Z",
+  "market_updatedAt": "2024-11-08T00:43:07.953351Z",
+  "market_startDate": "2024-04-12T17:50:28.703Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:09:20+00",
+  "conditionId": "0x61810d94c38e0fa31c51bfe8f38a5daec47cc06cd0e49a14155ed9fecda46ab9",
+  "slug": "will-a-candidate-from-another-party-win-hawaii-us-senate-election",
+  "question": "Will a candidate from another party win Hawaii US Senate Election?"
+}

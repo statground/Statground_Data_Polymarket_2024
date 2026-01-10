@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T20:47:26.917567Z",
+  "market_createdAt": "2024-10-24T20:47:26.917567Z",
+  "market_updatedAt": "2024-11-10T09:52:48.149881Z",
+  "market_startDate": "2024-10-24T21:47:57.002881Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-09 11:07:58+00",
+  "conditionId": "0x1bf993133e4479b4fc7c3dd9469a80efcadcbd15c23901aaf5f291f308149bc0",
+  "slug": "will-arizona-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will Arizona be the last state to be called by the AP?"
+}

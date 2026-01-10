@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:56:37.599797Z",
+  "market_createdAt": "2024-08-19T16:56:37.599797Z",
+  "market_updatedAt": "2024-09-09T01:37:01.785017Z",
+  "market_startDate": "2024-08-19T16:56:37.599797Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:31:54+00",
+  "conditionId": "0x8242218182625d10d3a3eaf79c9ee76a6adf3fb1c8198e86e5bb2663532cfaba",
+  "slug": "will-jessica-pegula-win-the-us-open",
+  "question": "Will Jessica Pegula win the US Open?"
+}

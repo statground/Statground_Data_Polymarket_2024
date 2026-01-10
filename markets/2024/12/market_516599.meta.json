@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:03:41.176101Z",
+  "market_createdAt": "2024-12-29T05:03:41.176101Z",
+  "market_updatedAt": "2025-01-02T02:55:20.526062Z",
+  "market_startDate": "2024-12-29T05:06:06.034604Z",
+  "market_endDate": "2025-01-08T00:00:00Z",
+  "market_closedTime": "2025-01-01 04:37:17+00",
+  "conditionId": "0x8038e9f3f7df10f4403a99ebe2fa1ca634b69dd9efd2bd86aebbd0c95112cdba",
+  "slug": "nba-lac-sas-2024-12-31",
+  "question": "Clippers vs. Spurs"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:22:14.392728Z",
+  "market_createdAt": "2024-11-26T08:22:14.392728Z",
+  "market_updatedAt": "2024-11-29T19:35:32.061773Z",
+  "market_startDate": "2024-11-26T22:52:41.437372Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:11:21+00",
+  "conditionId": "0x0ef7c11337cf8d8754c8c7d6842420c7d2ebd411fb01454569d312f451e8233a",
+  "slug": "will-the-match-between-besiktas-and-maccabi-tlv-end-in-a-draw",
+  "question": "Will the match between Besiktas and Maccabi TLV end in a draw?"
+}

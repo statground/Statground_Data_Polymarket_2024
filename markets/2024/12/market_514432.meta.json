@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:08:40.389851Z",
+  "market_createdAt": "2024-12-02T19:08:40.389851Z",
+  "market_updatedAt": "2024-12-07T00:45:14.720448Z",
+  "market_startDate": "2024-12-02T19:12:18.007278Z",
+  "market_endDate": "2024-12-05T20:15:00Z",
+  "market_closedTime": "2024-12-06 01:19:36+00",
+  "conditionId": "0x2de47aa9fb9bdc85a558d1b796f7d1f69b8ebb7d25b9ac135762a4b17da616e5",
+  "slug": "epl-bou-tot-2024-12-05-draw",
+  "question": "Will Bournemouth vs. Tottenham end in a draw?"
+}

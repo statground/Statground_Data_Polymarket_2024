@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:24:36.389181Z",
+  "market_createdAt": "2024-09-12T21:24:36.389181Z",
+  "market_updatedAt": "2024-09-15T19:53:03.074417Z",
+  "market_startDate": "2024-09-12T22:18:49.412773Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 21:21:33+00",
+  "conditionId": "0x58ced00922ca7c23af82aff7d0dd4c97417947230c49af13a24e11625c57055f",
+  "slug": "will-there-be-50-or-more-combined-points-scored-ala-wis",
+  "question": "Will there be 50 or more combined points scored?"
+}

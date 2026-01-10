@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:03:51.846264Z",
+  "market_createdAt": "2024-11-14T21:03:51.846264Z",
+  "market_updatedAt": "2024-11-16T20:35:01.874798Z",
+  "market_startDate": "2024-11-14T22:20:00.218Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 22:05:41+00",
+  "conditionId": "0x7f53515a4ca30eecd045f4abe842faa0adcac33aad2a2f0854751ef86e5bcb64",
+  "slug": "will-lithuania-beat-cyprus",
+  "question": "Will Lithuania beat Cyprus?"
+}

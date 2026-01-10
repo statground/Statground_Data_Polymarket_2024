@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:33:48.706286Z",
+  "market_createdAt": "2024-11-26T08:33:48.706286Z",
+  "market_updatedAt": "2024-11-29T21:59:27.440412Z",
+  "market_startDate": "2024-11-26T23:01:31.320166Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:25:40+00",
+  "conditionId": "0x1d6c6b058b9ae8444e05be78ccb7e8de0c9292ce8afcfc4efb8986b3f9fd71c5",
+  "slug": "will-the-match-between-twente-and-union-st-gilloise-end-in-a-draw",
+  "question": "Will the match between Twente and Union St-Gilloise end in a draw?"
+}

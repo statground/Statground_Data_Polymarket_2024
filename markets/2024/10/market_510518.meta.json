@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:45:37.277038Z",
+  "market_createdAt": "2024-10-22T03:45:37.277038Z",
+  "market_updatedAt": "2024-10-25T20:37:02.705256Z",
+  "market_startDate": "2024-10-23T15:09:19.986254Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 22:04:43+00",
+  "conditionId": "0x606f3a996e0dfce24fabf75efc374465458ff66425f9aee0b6596bdd60a6a05f",
+  "slug": "will-the-match-between-paok-and-viktoria-plzen-end-in-a-draw",
+  "question": "Will the match between PAOK and Viktoria Plzen end in a draw?"
+}

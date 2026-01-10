@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T21:27:43.105774Z",
+  "market_createdAt": "2024-04-01T21:27:43.105774Z",
+  "market_updatedAt": "2024-05-19T20:18:59.269922Z",
+  "market_startDate": "2024-04-01T22:36:59.835Z",
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-19 20:15:17+00",
+  "conditionId": "0x1feecec28bebffea7e453dc87f4ec649b45fc9b8eb070724c4bb543ecc24870d",
+  "slug": "will-ollie-watkins-be-the-top-goalscorer-in-the-epl",
+  "question": "Will Ollie Watkins be the top goalscorer in the EPL?"
+}

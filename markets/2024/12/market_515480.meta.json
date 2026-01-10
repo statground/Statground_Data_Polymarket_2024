@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:47:11.036628Z",
+  "market_createdAt": "2024-12-11T23:47:11.036628Z",
+  "market_updatedAt": "2024-12-16T04:23:36.96829Z",
+  "market_startDate": "2024-12-13T23:10:41.442894Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 04:55:11+00",
+  "conditionId": "0xd576f9796c58b9a3548ac0da19827b22b5bc80e1203ccd77c454fa49a6389429",
+  "slug": "alvarez-vs-klose",
+  "question": "Alvarez vs. Klose"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-19T17:41:27.954000Z",
+  "market_createdAt": "2024-01-19T17:41:27.954Z",
+  "market_updatedAt": "2024-05-07T23:10:17.589443Z",
+  "market_startDate": "2024-01-26T18:56:34.221Z",
+  "market_endDate": "2024-04-30T00:00:00Z",
+  "market_closedTime": "2024-04-30 18:01:05+00",
+  "conditionId": "0x3ef44f3a40ee5d7a15b319c44e7702d094d0036acc86c9c5991ba90801adddb7",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-april-30-2024",
+  "question": "Will Donald Trump be President of the USA on April 30, 2024?"
+}

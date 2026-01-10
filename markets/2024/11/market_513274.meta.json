@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:03:54.614758Z",
+  "market_createdAt": "2024-11-17T05:03:54.614758Z",
+  "market_updatedAt": "2024-11-21T07:44:51.304174Z",
+  "market_startDate": "2024-11-17T05:06:20.682008Z",
+  "market_endDate": "2024-11-27T03:30:00Z",
+  "market_closedTime": "2024-11-20 08:01:09+00",
+  "conditionId": "0x24bc707846cc90c3c8cfb7cdb86a428789c20183f22728e6dab0f5a84fed789b",
+  "slug": "nba-uta-lal-2024-11-19",
+  "question": "Jazz vs. Lakers"
+}

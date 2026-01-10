@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T20:57:57.923480Z",
+  "market_createdAt": "2024-06-10T20:57:57.92348Z",
+  "market_updatedAt": "2024-06-19T02:41:12.777412Z",
+  "market_startDate": "2024-06-10T21:03:44.751Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-06-18 04:34:46+00",
+  "conditionId": "0x43c4d94632c7258042b69d79a4d59d5872f64493202e1ff02aad03a04deef128",
+  "slug": "btc-dips-below-65k-before-august",
+  "question": "$BTC dips below $65k before August?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T18:59:58.265467Z",
+  "market_createdAt": "2024-10-21T18:59:58.265467Z",
+  "market_updatedAt": "2024-10-28T21:07:13.329801Z",
+  "market_startDate": "2024-10-21T19:02:42.75831Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:36:06+00",
+  "conditionId": "0x9470f003aac554ecea57f31b433911c026f38898ffb645611bb012800c752981",
+  "slug": "nfl-bal-cle-2024-10-27",
+  "question": "Ravens vs. Browns"
+}

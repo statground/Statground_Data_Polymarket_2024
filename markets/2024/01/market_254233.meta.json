@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T16:36:18.976000Z",
+  "market_createdAt": "2024-01-31T16:36:18.976Z",
+  "market_updatedAt": "2025-01-01T17:43:20.801416Z",
+  "market_startDate": "2024-01-31T16:55:00Z",
+  "market_endDate": "2024-12-30T00:00:00Z",
+  "market_closedTime": "2025-01-01 09:38:40+00",
+  "conditionId": "0x02c8326d2a5e3b67d97b2f642f7d5c032a4f633c29f732856fa144d0d91fdb3b",
+  "slug": "ftx-doesnt-start-payouts-in-2024",
+  "question": "FTX doesn't start payouts in 2024?"
+}

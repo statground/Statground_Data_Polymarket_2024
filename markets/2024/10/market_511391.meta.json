@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:22:57.705887Z",
+  "market_createdAt": "2024-10-29T22:22:57.705887Z",
+  "market_updatedAt": "2024-11-05T03:07:08.093718Z",
+  "market_startDate": "2024-10-30T15:04:27.293834Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:22:30+00",
+  "conditionId": "0xb98b13e59e84b1110c9b737e7b7b798c2f0aec1c762b9f4dce75a602ba8b23ed",
+  "slug": "will-carlos-sainz-win-the-brazilian-grand-prix",
+  "question": "Will Carlos Sainz win the Brazilian Grand Prix?"
+}

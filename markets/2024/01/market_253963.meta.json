@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T19:08:46.796000Z",
+  "market_createdAt": "2024-01-17T19:08:46.796Z",
+  "market_updatedAt": "2024-03-12T03:02:02.416Z",
+  "market_startDate": "2024-01-17T23:41:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:02:01+00",
+  "conditionId": "0x9d2d960597db995bffbc7e1baf83a8b138104f53610299bfa45a316f5bd0c087",
+  "slug": "will-colman-domingo-win-the-oscar-for-best-actor",
+  "question": "Will Colman Domingo win the Oscar for Best Actor?"
+}

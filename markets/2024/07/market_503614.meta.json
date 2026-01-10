@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:29:36.687391Z",
+  "market_createdAt": "2024-07-17T17:29:36.687391Z",
+  "market_updatedAt": "2024-08-07T11:12:53.167312Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-06 13:57:24+00",
+  "conditionId": "0x5e8d74084707f9c600d02520d521a52f63ace9ebb5cfae227358ac269ad09582",
+  "slug": "will-greece-win-gold-in-mens-basketball",
+  "question": "Will Greece win Gold in Men's Basketball?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:59:43.411196Z",
+  "market_createdAt": "2024-10-10T19:59:43.411196Z",
+  "market_updatedAt": "2024-10-20T20:22:47.29679Z",
+  "market_startDate": "2024-10-10T20:01:07.180912Z",
+  "market_endDate": "2024-10-19T16:30:00Z",
+  "market_closedTime": "2024-10-19 21:50:07+00",
+  "conditionId": "0xda9d0570e804be048d4808054f18772fb16045081a87a2db867726cf588a3250",
+  "slug": "epl-bou-ars-2024-10-19-ars",
+  "question": "Will Arsenal win on 2024-10-19?"
+}

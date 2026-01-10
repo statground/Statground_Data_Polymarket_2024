@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:37:41.188616Z",
+  "market_createdAt": "2024-11-11T21:37:41.188616Z",
+  "market_updatedAt": "2024-11-24T19:43:55.199558Z",
+  "market_startDate": "2024-11-11T21:40:20.087727Z",
+  "market_endDate": "2024-11-23T15:00:00Z",
+  "market_closedTime": "2024-11-23 20:12:47+00",
+  "conditionId": "0xf7c3e7ac23024d5d2b889942391f051a773d844a2014643ae80542ad81e3c83e",
+  "slug": "epl-ars-not-2024-11-23-draw",
+  "question": "Will Arsenal vs. Nottingham Forest end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T23:20:21.724920Z",
+  "market_createdAt": "2024-06-17T23:20:21.72492Z",
+  "market_updatedAt": "2024-06-27T00:21:08.111392Z",
+  "market_startDate": "2024-06-17T23:39:33.169Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:25:23+00",
+  "conditionId": "0x58f67944066937674a50be515da512f99c6ac01f9820f72386a135ea98326e46",
+  "slug": "is-djt-real",
+  "question": "Is $DJT real?"
+}

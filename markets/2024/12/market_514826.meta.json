@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T05:00:31.412380Z",
+  "market_createdAt": "2024-12-05T05:00:31.41238Z",
+  "market_updatedAt": "2024-12-13T03:55:07.145796Z",
+  "market_startDate": "2024-12-05T05:03:52.514262Z",
+  "market_endDate": "2024-12-19T00:30:00Z",
+  "market_closedTime": "2024-12-12 05:28:51+00",
+  "conditionId": "0x50e212cc36ebe2be4c72acb65d8bdf2a6ad7c89e445c2702273485d1671cd274",
+  "slug": "nhl-ana-ott-2024-12-11",
+  "question": "Ducks vs. Senators"
+}

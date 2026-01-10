@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:02:19.445916Z",
+  "market_createdAt": "2024-11-08T22:02:19.445916Z",
+  "market_updatedAt": "2024-11-24T03:10:49.38772Z",
+  "market_startDate": "2024-11-14T01:43:16.425Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:10:39+00",
+  "conditionId": "0x593ba27e0b0493597a447beeda8d837ad607917ba978b82ca25a2cacbefcd388",
+  "slug": "will-trump-nominate-marc-rowan-for-treasury-secretary",
+  "question": "Will Trump nominate Marc Rowan for Treasury Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:20:56.269302Z",
+  "market_createdAt": "2024-11-01T18:20:56.269302Z",
+  "market_updatedAt": "2024-11-04T02:22:58.153874Z",
+  "market_startDate": "2024-11-01T23:14:03.044247Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 06:56:22+00",
+  "conditionId": "0x3ac24c11b1a469a2ca20df3f3ed5e32bd32a41d30b83c9148b2692f5f9c89396",
+  "slug": "will-baylor-beat-tcu-by-3-or-more-points",
+  "question": "Will Baylor beat TCU by 3 or more points?"
+}

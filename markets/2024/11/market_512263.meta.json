@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:38:01.827381Z",
+  "market_createdAt": "2024-11-07T17:38:01.827381Z",
+  "market_updatedAt": "2024-11-16T07:13:05.213107Z",
+  "market_startDate": "2024-11-07T18:15:09.27874Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:32:09+00",
+  "conditionId": "0x66b1619d9dfe37211c1091f9a09f751a506e83521e46b88a5c5a3a3616b6344b",
+  "slug": "will-trump-nominate-joe-grogan-for-hhs-secretary",
+  "question": "Will Trump nominate Joe Grogan for HHS Secretary?"
+}

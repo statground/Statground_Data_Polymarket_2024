@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-30T18:52:12.747000Z",
+  "market_createdAt": "2024-01-30T18:52:12.747Z",
+  "market_updatedAt": "2024-05-08T20:14:09.355862Z",
+  "market_startDate": "2024-01-30T23:42:00Z",
+  "market_endDate": "2024-05-30T00:00:00Z",
+  "market_closedTime": "2024-05-08 00:05:12+00",
+  "conditionId": "0x68d711d801b0b7e674a71bc2ad6805031c802bbee42fa12aa74b053f6c505c80",
+  "slug": "will-psg-win-the-2023-24-champions-league",
+  "question": "Will PSG win the 2023-24 Champions League?"
+}

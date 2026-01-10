@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T17:43:53.811013Z",
+  "market_createdAt": "2024-07-12T17:43:53.811013Z",
+  "market_updatedAt": "2025-01-02T00:25:16.241513Z",
+  "market_startDate": "2024-07-12T17:43:53.811013Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:52:40+00",
+  "conditionId": "0x3272855930be35f026b5de8024d0917b344fb5c8e69a8a8ac09c23167cc9e91b",
+  "slug": "us-government-bitcoin-reserves-in-2024",
+  "question": "US government Bitcoin reserves in 2024?"
+}

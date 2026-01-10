@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:46:28.142511Z",
+  "market_createdAt": "2024-08-28T19:46:28.142511Z",
+  "market_updatedAt": "2024-08-31T04:47:02.971501Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:10:47+00",
+  "conditionId": "0x9e0b4611548f62d00509e204a60b5da53b125b5ae32d0a3201e5203865821235",
+  "slug": "will-tim-walz-say-crypto-or-bitcoin-during-cnn-interview",
+  "question": "Will Tim Walz say \"crypto\" or \"Bitcoin\"  during CNN interview?"
+}

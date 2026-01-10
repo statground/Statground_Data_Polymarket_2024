@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:21:45.701885Z",
+  "market_createdAt": "2024-03-18T15:21:45.701885Z",
+  "market_updatedAt": "2024-05-07T23:09:59.393458Z",
+  "market_startDate": "2024-03-18T18:58:43.759Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-31 06:16:31+00",
+  "conditionId": "0x8dd6d9d53038ebcad524aed0dc13d461ca2870afa15292713412dfc654e3ae33",
+  "slug": "will-clemson-win-the-ncaa-tournament",
+  "question": "Will Clemson win the NCAA tournament?"
+}

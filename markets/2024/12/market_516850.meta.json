@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:42:56.487829Z",
+  "market_createdAt": "2024-12-30T17:42:56.487829Z",
+  "market_updatedAt": "2025-04-01T13:48:33.825662Z",
+  "market_startDate": "2024-12-30T20:25:35.676088Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 06:39:22+00",
+  "conditionId": "0x80193f17b426dd761473abf075cc8668c8e6a427769776e499cc90531618549c",
+  "slug": "pumpfun-airdrop-in-q1-2025",
+  "question": "Pump.fun airdrop in Q1 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T17:01:34.747128Z",
+  "market_createdAt": "2024-08-05T17:01:34.747128Z",
+  "market_updatedAt": "2024-10-02T01:22:52.489059Z",
+  "market_startDate": "2024-08-05T17:01:34.747128Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:22:08+00",
+  "conditionId": "0x3241b2a63ffca699a8578f2e96e873ea5705cc048d095e8cf5a7007e4fe7c94d",
+  "slug": "will-usdt-depeg-by-september",
+  "question": "Will $USDT depeg by September 30?"
+}

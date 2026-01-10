@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T19:39:40.453703Z",
+  "market_createdAt": "2024-09-04T19:39:40.453703Z",
+  "market_updatedAt": "2024-09-12T03:33:05.62032Z",
+  "market_startDate": "2024-09-04T19:45:48.811Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:23:20+00",
+  "conditionId": "0x1bb026101870907c1b86c9d8d2a241f25976f36c013aeaa178490a9c3c018fa5",
+  "slug": "will-trump-say-china-3-or-more-times-at-debate",
+  "question": "Will Trump say \"China\" 3 or more times at debate?"
+}

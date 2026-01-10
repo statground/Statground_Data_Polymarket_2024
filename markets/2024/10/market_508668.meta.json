@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T14:53:18.102911Z",
+  "market_createdAt": "2024-10-02T14:53:18.102911Z",
+  "market_updatedAt": "2024-10-04T03:32:41.523989Z",
+  "market_startDate": "2024-10-02T15:00:36.639063Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 04:32:30+00",
+  "conditionId": "0x9c913c68404f96c50c76e13f1e813a1d2b783da64d75d7244b79368c1d7c3c47",
+  "slug": "nl-wildcard-brewers-vs-mets-game-2",
+  "question": "NL Wildcard: Brewers vs. Mets Game 2"
+}

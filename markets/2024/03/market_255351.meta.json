@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T17:06:22.258000Z",
+  "market_createdAt": "2024-03-08T17:06:22.258Z",
+  "market_updatedAt": "2024-05-07T23:09:20.705231Z",
+  "market_startDate": "2024-03-11T22:44:00Z",
+  "market_endDate": "2024-04-03T00:00:00Z",
+  "market_closedTime": "2024-04-05 15:45:26+00",
+  "conditionId": "0x8157f1b7ceb1ac9e097e75c3e7762df35da8df0ab137bf1480dca2d34eb91f5d",
+  "slug": "will-us-gain-more-than-275k-jobs-in-march",
+  "question": "Will US gain more than 275k jobs in March?"
+}

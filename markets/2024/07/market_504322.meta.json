@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T17:37:04.294438Z",
+  "market_createdAt": "2024-07-30T17:37:04.294438Z",
+  "market_updatedAt": "2024-08-01T06:43:02.690918Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 06:49:59+00",
+  "conditionId": "0xd6435e58bceac595c79f385493e13259f7c23b3c4b2a51011497bcfa7d9a39a5",
+  "slug": "kari-lake-wins-arizona-senate-primary",
+  "question": "Kari Lake wins Arizona Senate Primary?"
+}

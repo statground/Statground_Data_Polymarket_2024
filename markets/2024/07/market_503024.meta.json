@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T04:10:09.478218Z",
+  "market_createdAt": "2024-07-01T04:10:09.478218Z",
+  "market_updatedAt": "2024-07-02T19:05:48.033425Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-01 21:04:54+00",
+  "conditionId": "0x633337ef48cd5d79c8f87bf3ee62072ed83519c692ee11c6a7dd910deb8571a5",
+  "slug": "will-belgium-win-july-1",
+  "question": "Will Belgium win? "
+}

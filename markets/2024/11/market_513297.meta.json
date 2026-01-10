@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:08:52.317134Z",
+  "market_createdAt": "2024-11-17T05:08:52.317134Z",
+  "market_updatedAt": "2024-11-25T04:07:45.388077Z",
+  "market_startDate": "2024-11-17T05:11:21.318306Z",
+  "market_endDate": "2024-12-01T01:00:00Z",
+  "market_closedTime": "2024-11-24 05:21:51+00",
+  "conditionId": "0xbc1085fb6b1a695638d252f566c1995adc565d7121fdb7d02895baef88aca50a",
+  "slug": "nba-mem-chi-2024-11-23",
+  "question": "Grizzlies vs. Bulls"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:56:06.437845Z",
+  "market_createdAt": "2024-10-10T19:56:06.437845Z",
+  "market_updatedAt": "2024-10-20T19:06:45.600366Z",
+  "market_startDate": "2024-10-10T19:57:41.562735Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:23:04+00",
+  "conditionId": "0x4e0d504c6c3eea31a4c7abf616aa773e709f5424db3b31a4523ac2beba745333",
+  "slug": "epl-ips-eve-2024-10-19-eve",
+  "question": "Will Everton win on 2024-10-19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:37:57.365459Z",
+  "market_createdAt": "2024-08-21T15:37:57.365459Z",
+  "market_updatedAt": "2024-08-23T05:01:09.789397Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:21:52+00",
+  "conditionId": "0x880e87f0347c74f9132799191677b4b3761d6028d58b52684fb4c96d69a1bbd8",
+  "slug": "will-pete-buttigieg-say-trans-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Trans\" in DNC speech?"
+}

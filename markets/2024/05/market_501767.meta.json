@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:26:03.733841Z",
+  "market_createdAt": "2024-05-22T16:26:03.733841Z",
+  "market_updatedAt": "2024-07-06T09:05:47.086274Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:17:30+00",
+  "conditionId": "0x78102af35049c87167cf4b257ed731e01852d13d5c95f05f1eaa97daaa0430fc",
+  "slug": "will-robert-jenrick-be-next-uk-prime-minister",
+  "question": "Will Robert Jenrick be next UK prime minister?"
+}

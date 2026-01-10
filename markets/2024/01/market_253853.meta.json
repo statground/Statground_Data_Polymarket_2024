@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:14:27.726000Z",
+  "market_createdAt": "2024-01-12T19:14:27.726Z",
+  "market_updatedAt": "2024-03-11T23:57:59.485Z",
+  "market_startDate": "2024-01-16T17:51:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:31:22+00",
+  "conditionId": "0x5e09f349c269651cf19352c815133fe11eea19e688d8c0ec01950276ddd64bb3",
+  "slug": "will-american-fiction-win-the-oscar-for-best-picture",
+  "question": "Will \"American Fiction\" win the Oscar for Best Picture?"
+}

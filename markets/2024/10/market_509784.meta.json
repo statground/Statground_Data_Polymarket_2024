@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T21:44:23.831746Z",
+  "market_createdAt": "2024-10-13T21:44:23.831746Z",
+  "market_updatedAt": "2024-10-16T00:06:46.1796Z",
+  "market_startDate": "2024-10-14T15:00:33.709372Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 02:08:27+00",
+  "conditionId": "0xa63b0631f01366596df7ccbc7c058da10ccd875489553fcd9a3d9511e7476992",
+  "slug": "will-there-be-at-least-1-run-scored-in-the-first-inning-alcs-game-1",
+  "question": "Will there be at least 1 run scored in the first inning?"
+}

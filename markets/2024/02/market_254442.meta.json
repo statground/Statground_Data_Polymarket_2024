@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-13T16:45:48.302000Z",
+  "market_createdAt": "2024-02-13T16:45:48.302Z",
+  "market_updatedAt": "2024-05-07T23:10:13.838012Z",
+  "market_startDate": "2024-02-13T17:32:23.297Z",
+  "market_endDate": "2024-03-15T00:00:00Z",
+  "market_closedTime": "2024-03-14 15:28:17+00",
+  "conditionId": "0x7fae760d66cbd79994750c820dc3e42fcf5523b916cdf4585afac444aca1c6c2",
+  "slug": "spacex-starship-launch-by-march-15",
+  "question": "SpaceX Starship launch by March 15?"
+}

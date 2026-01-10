@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T00:27:21.576110Z",
+  "market_createdAt": "2024-12-04T00:27:21.57611Z",
+  "market_updatedAt": "2024-12-08T06:49:25.660409Z",
+  "market_startDate": "2024-12-04T00:55:24.098776Z",
+  "market_endDate": "2024-12-04T12:00:00Z",
+  "market_closedTime": "2024-12-07 07:20:18+00",
+  "conditionId": "0x74929a4ed13004160db207b2d8475fe19daaf7b716b52b22c153ed8ff6e2cac6",
+  "slug": "will-hegseth-say-fake-news-during-the-interview",
+  "question": "Will Hegseth say \"Fake news\" during the interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:43:49.299542Z",
+  "market_createdAt": "2024-09-30T19:43:49.299542Z",
+  "market_updatedAt": "2024-10-02T22:26:45.960698Z",
+  "market_startDate": "2024-09-30T21:59:20.293711Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:09:18+00",
+  "conditionId": "0x3ec4ac3790c2f1c6ff9aac618354d0db33b570b5e3e4b9ff2a4f542645778c79",
+  "slug": "will-arsenal-beat-paris-saint-germain",
+  "question": "Will Arsenal beat Paris Saint-Germain?"
+}

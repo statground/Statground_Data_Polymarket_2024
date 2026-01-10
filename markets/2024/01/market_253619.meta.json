@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T02:35:26.198000Z",
+  "market_createdAt": "2024-01-06T02:35:26.198Z",
+  "market_updatedAt": "2024-04-22T22:21:59.850631Z",
+  "market_startDate": "2024-01-06T09:11:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:18:12+00",
+  "conditionId": "0x0fd9ad6db40be7a9739483aec9d54dc37b2c88f30eeea9ab5491bb0823d0f792",
+  "slug": "will-the-kansas-city-chiefs-win-super-bowl-lviii",
+  "question": "Will the Kansas City Chiefs win Super Bowl LVIII?"
+}

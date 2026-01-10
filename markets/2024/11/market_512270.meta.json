@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:05:50.392363Z",
+  "market_createdAt": "2024-11-07T18:05:50.392363Z",
+  "market_updatedAt": "2024-11-09T06:22:47.36293Z",
+  "market_startDate": "2024-11-07T18:18:56.084Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-08 06:48:58+00",
+  "conditionId": "0xdbe666fa16003b194e0087341f2dc4e22fa72db5ca87cbf52c20aaf74a2aae89",
+  "slug": "will-trump-nominate-kevin-mccarthy-for-chief-of-staff",
+  "question": "Will Trump appoint Kevin McCarthy for Chief of Staff?"
+}

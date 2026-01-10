@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:56:15.211383Z",
+  "market_createdAt": "2024-09-06T15:56:15.211383Z",
+  "market_updatedAt": "2024-09-08T15:57:09.027582Z",
+  "market_startDate": "2024-09-06T18:31:58.937715Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:11:34+00",
+  "conditionId": "0x1ca004d72decb74a00d0b6529bf8ece9ee893fb374c9a7383a9a4241c9cb76ee",
+  "slug": "will-kentucky-win-by-9-or-more-points",
+  "question": "Will Kentucky win by 9 or more points?"
+}

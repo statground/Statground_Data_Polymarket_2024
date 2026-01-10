@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T21:56:42.364000Z",
+  "market_createdAt": "2024-02-29T21:56:42.364Z",
+  "market_updatedAt": "2024-03-07T03:49:35.271Z",
+  "market_startDate": "2024-02-29T23:11:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 03:46:54+00",
+  "conditionId": "0x8a0bc6f8147bac03a50b966719cb3944602c4c1ca50e6bfde043471109214070",
+  "slug": "will-maine-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Maine be Trump's worst state on Super Tuesday?"
+}

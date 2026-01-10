@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:33:58.232050Z",
+  "market_createdAt": "2024-10-21T20:33:58.23205Z",
+  "market_updatedAt": "2024-10-28T04:10:54.222309Z",
+  "market_startDate": "2024-10-21T20:36:36.595241Z",
+  "market_endDate": "2024-10-27T00:30:00Z",
+  "market_closedTime": "2024-10-27 08:12:27+00",
+  "conditionId": "0xe3757d807778593b587fc8c10b81af6d7d9e5179f7e84f8088f352b5dfb0ded1",
+  "slug": "nba-hou-sa-2024-10-26",
+  "question": "Rockets vs. Spurs"
+}

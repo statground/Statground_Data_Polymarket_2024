@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T19:26:50.705077Z",
+  "market_createdAt": "2024-08-08T19:26:50.705077Z",
+  "market_updatedAt": "2024-11-07T08:39:21.896789Z",
+  "market_startDate": "2024-08-10T21:32:01.628Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 08:36:13+00",
+  "conditionId": "0x27a0e257214ae21c2c60c6ecf09e67002efe0304db17f7ea0e6ef5b424029322",
+  "slug": "will-new-yorks-abortion-protection-measure-pass",
+  "question": "Will New York's abortion protection measure pass?"
+}

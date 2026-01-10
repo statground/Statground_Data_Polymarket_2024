@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T20:25:05.358558Z",
+  "market_createdAt": "2024-08-28T20:25:05.358558Z",
+  "market_updatedAt": "2024-09-01T22:41:01.033341Z",
+  "market_startDate": "2024-08-28T20:25:05.358558Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 01:08:24+00",
+  "conditionId": "0x0a6808418119419ef30e545417db996d434d27d011f55e19f7a6dbe1111e19bd",
+  "slug": "will-miami-win-by-3-or-more-points",
+  "question": "Will Miami win by 3 or more points?"
+}

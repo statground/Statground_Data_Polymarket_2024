@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-03T19:15:47.406864Z",
+  "market_createdAt": "2024-04-03T19:15:47.406864Z",
+  "market_updatedAt": "2024-10-03T07:32:42.748623Z",
+  "market_startDate": "2024-04-04T22:47:46.132Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-10-02 08:24:58+00",
+  "conditionId": "0xb604e6da01db4d8b989aba1060998f03e0dfc828940d9c03c944e0221fa20b2e",
+  "slug": "eigenlayer-market-cap-fdv-10-15b-one-day-after-launch",
+  "question": "Eigenlayer market cap (FDV) between $10-15b one day after launch?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T14:56:07.650526Z",
+  "market_createdAt": "2024-06-04T14:56:07.650526Z",
+  "market_updatedAt": "2024-06-06T07:16:11.763433Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-05 07:17:10+00",
+  "conditionId": "0x664ecf037babfd3baf0ae077be92fc44b84c5a267444b4cd3ebe6ffe603ccfbf",
+  "slug": "will-roaring-kitty-tweet-today",
+  "question": "Will Roaring Kitty tweet today?"
+}

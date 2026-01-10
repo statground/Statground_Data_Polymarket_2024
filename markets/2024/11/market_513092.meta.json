@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:30:23.206908Z",
+  "market_createdAt": "2024-11-14T23:30:23.206908Z",
+  "market_updatedAt": "2025-01-26T02:35:03.383847Z",
+  "market_startDate": "2024-11-14T23:47:10.437019Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-25 07:27:07+00",
+  "conditionId": "0x961e15a92d8269a32ba50e64e96ecf03ece20aff46afd56a496cdc1bd96a7876",
+  "slug": "will-mike-waltz-be-trumps-defense-secretary",
+  "question": "Will Mike Waltz be Trump's Defense Secretary?"
+}

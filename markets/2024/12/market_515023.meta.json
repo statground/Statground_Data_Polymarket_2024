@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:59:18.731709Z",
+  "market_createdAt": "2024-12-06T22:59:18.731709Z",
+  "market_updatedAt": "2024-12-09T20:51:16.789401Z",
+  "market_startDate": "2024-12-06T23:24:36.670443Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 22:30:20+00",
+  "conditionId": "0x0589b2698778940a17b300b851bcda3954e4313a9ef13db1aa5a85c737f470b1",
+  "slug": "will-the-vikings-and-falcons-combine-for-46-or-more-points",
+  "question": "Will the Vikings and Falcons combine for 46 or more points?"
+}

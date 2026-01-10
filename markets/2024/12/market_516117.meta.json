@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:05:15.562860Z",
+  "market_createdAt": "2024-12-20T17:05:15.56286Z",
+  "market_updatedAt": "2024-12-28T19:10:55.907988Z",
+  "market_startDate": "2024-12-20T17:39:21.936137Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 19:06:43+00",
+  "conditionId": "0x979978268fd6693e4c7856ac93f1d6d6f23f8747109f6586160aa0022f85d480",
+  "slug": "bitcoin-above-97000-on-december-27",
+  "question": "Bitcoin above $97,000 on December 27?"
+}

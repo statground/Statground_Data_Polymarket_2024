@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T18:11:17.253316Z",
+  "market_createdAt": "2024-06-04T18:11:17.253316Z",
+  "market_updatedAt": "2024-11-20T09:15:04.655348Z",
+  "market_startDate": "2024-06-04T19:39:42.222Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-19 10:24:42+00",
+  "conditionId": "0x58d102be7f1046597d9f208b84a0d5f844960151bc771bca1ae138353c4caa50",
+  "slug": "will-trump-win-miami",
+  "question": "Will Trump win Miami?"
+}

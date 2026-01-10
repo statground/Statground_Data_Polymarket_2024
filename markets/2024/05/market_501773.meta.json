@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:39:37.963432Z",
+  "market_createdAt": "2024-05-22T16:39:37.963432Z",
+  "market_updatedAt": "2024-07-05T17:58:20.731603Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 17:56:38+00",
+  "conditionId": "0x7bd5fb93fd2e973a5d0e8c940fb1fb3c9a910fc321cf565d6fd3d219df62969c",
+  "slug": "will-jeremy-hunt-be-next-uk-prime-minister",
+  "question": "Will Jeremy Hunt be next UK prime minister?"
+}

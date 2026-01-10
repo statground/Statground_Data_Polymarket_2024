@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T15:52:06.578313Z",
+  "market_createdAt": "2024-11-20T15:52:06.578313Z",
+  "market_updatedAt": "2024-12-02T03:13:18.050844Z",
+  "market_startDate": "2024-11-20T16:57:07.797393Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:29:43+00",
+  "conditionId": "0x8528f37c2e0da4f55bd95fa2876f5ab537969bdedd4c22dfba2e094c9c936984",
+  "slug": "30m-bluesky-users-in-november",
+  "question": "30m Bluesky users in November?"
+}

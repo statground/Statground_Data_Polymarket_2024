@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T20:50:42.161756Z",
+  "market_createdAt": "2024-06-04T20:50:42.161756Z",
+  "market_updatedAt": "2024-06-08T16:46:18.90921Z",
+  "market_startDate": "2024-06-04T21:00:17.515Z",
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-07 18:42:32+00",
+  "conditionId": "0xb280e8aec315031f42d67a43af11aa2076c5de8b96edd0adb859a9cefc835179",
+  "slug": "roaring-kitty-livestream-by-june-14",
+  "question": "Roaring Kitty livestream by next Friday?"
+}

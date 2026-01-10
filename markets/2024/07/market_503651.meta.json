@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:07:33.127114Z",
+  "market_createdAt": "2024-07-17T19:07:33.127114Z",
+  "market_updatedAt": "2024-08-05T15:16:57.117557Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:04:35+00",
+  "conditionId": "0x4ddfecfbdf881c6328bae8b88f2043366bf8c0ecc81173efd135a7610690e40a",
+  "slug": "will-pawel-fajdek-win-gold-in-hammer-throw",
+  "question": "Will Paweł Fajdek win Gold in Hammer Throw?"
+}

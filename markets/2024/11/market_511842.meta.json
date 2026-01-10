@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:05:31.052068Z",
+  "market_createdAt": "2024-11-02T22:05:31.052068Z",
+  "market_updatedAt": "2024-11-05T03:37:08.856841Z",
+  "market_startDate": "2024-11-02T23:25:04.721Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:20:21+00",
+  "conditionId": "0x8b2fb0329163a5a6baddf3257326faf7b83784871a0e0e7064d6c70407d017ae",
+  "slug": "will-trump-say-iq-during-macon-ga-rally",
+  "question": "Will Trump say \"IQ\" during Macon, GA rally?"
+}

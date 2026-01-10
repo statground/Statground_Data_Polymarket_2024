@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:58:35.594328Z",
+  "market_createdAt": "2024-12-09T17:58:35.594328Z",
+  "market_updatedAt": "2024-12-11T22:03:20.776647Z",
+  "market_startDate": "2024-12-09T23:25:54.914809Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 22:53:38+00",
+  "conditionId": "0xaa01d45a838aed83043105310dd6b656ac0c86ce1a705feabe840057ea9c1886",
+  "slug": "will-the-match-between-girona-and-liverpool-end-in-a-draw",
+  "question": "Will the match between Girona and Liverpool end in a draw?"
+}

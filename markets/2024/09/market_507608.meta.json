@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T17:02:44.488060Z",
+  "market_createdAt": "2024-09-20T17:02:44.48806Z",
+  "market_updatedAt": "2024-09-23T10:50:45.056988Z",
+  "market_startDate": "2024-09-20T19:01:59.636693Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:12:06+00",
+  "conditionId": "0xd4bfc44f482981fbddefcf4f453bb8bc1275affe0149f2b6e0af20975b3d7fdc",
+  "slug": "will-there-be-42-or-more-combined-points-scored-tb-den",
+  "question": "Will there be 42 or more combined points scored?"
+}

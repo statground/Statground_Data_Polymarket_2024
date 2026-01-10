@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T17:11:59.725192Z",
+  "market_createdAt": "2024-10-30T17:11:59.725192Z",
+  "market_updatedAt": "2024-12-18T21:39:24.246527Z",
+  "market_startDate": "2024-10-30T18:53:34.725049Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:07:44+00",
+  "conditionId": "0x9fdc4c7b35db7e7299a9f41c2b76644dd9d2923852da5881035f0bbec2d5e1ad",
+  "slug": "will-jill-stein-get-the-most-votes-of-any-3rd-party-candidate",
+  "question": "Will Jill Stein get the most votes of any 3rd party candidate?"
+}

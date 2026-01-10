@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T16:03:55.797701Z",
+  "market_createdAt": "2024-10-28T16:03:55.797701Z",
+  "market_updatedAt": "2024-10-30T13:43:08.504241Z",
+  "market_startDate": "2024-10-28T19:53:37.643547Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 15:53:59+00",
+  "conditionId": "0x940fa9010f6350f05701db16d90616b31e811d5f87dd6564c1a921c304f66061",
+  "slug": "will-the-yankees-and-guardians-combine-for-9-or-more-runs-scored",
+  "question": "Will the Yankees and Guardians combine for 9 or more runs scored?"
+}

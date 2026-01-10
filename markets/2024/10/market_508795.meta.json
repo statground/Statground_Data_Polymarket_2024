@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:05:27.552617Z",
+  "market_createdAt": "2024-10-03T21:05:27.552617Z",
+  "market_updatedAt": "2024-10-10T04:56:43.486941Z",
+  "market_startDate": "2024-10-03T22:37:43.952Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:50:53+00",
+  "conditionId": "0xd9662074d7926b124f8e24d757ed50064a2f5f81d2ba4b6747ef352af33d87d7",
+  "slug": "will-the-hbo-documentary-identify-paul-le-roux-as-satoshi",
+  "question": "Will the HBO documentary identify Paul Le Roux as Satoshi?"
+}

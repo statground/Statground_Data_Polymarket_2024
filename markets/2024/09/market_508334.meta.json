@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:25:02.234722Z",
+  "market_createdAt": "2024-09-27T19:25:02.234722Z",
+  "market_updatedAt": "2024-09-30T21:46:34.397151Z",
+  "market_startDate": "2024-09-27T20:51:57.850154Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:30:00+00",
+  "conditionId": "0xfb4efe3dbc09a6f134c92855c1864d5eceedeb0ea1f4eeb2b204e7ee98aae56e",
+  "slug": "will-the-jets-beat-the-broncos-by-8-or-more-points",
+  "question": "Will the Jets beat the Broncos by 8 or more points?"
+}

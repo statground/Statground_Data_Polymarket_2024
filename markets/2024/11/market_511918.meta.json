@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511918",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:38:30.352783Z",
+  "market_createdAt": "2024-11-04T18:38:30.352783Z",
+  "market_updatedAt": "2024-11-10T04:48:51.788768Z",
+  "market_startDate": "2024-11-04T18:41:05.549755Z",
+  "market_endDate": "2024-11-09T00:30:00Z",
+  "market_closedTime": "2024-11-09 05:22:16+00",
+  "conditionId": "0xf23e293b88ecc10463d871503d27e52e65bfcf8c4c6d7e172ee2ec27f548fe0e",
+  "slug": "nba-phx-dal-2024-11-08",
+  "question": "Suns vs. Mavericks"
+}

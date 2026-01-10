@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T20:21:36.997040Z",
+  "market_createdAt": "2024-11-01T20:21:36.99704Z",
+  "market_updatedAt": "2024-11-07T09:43:01.870892Z",
+  "market_startDate": "2024-11-01T23:51:44.344106Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 09:39:25+00",
+  "conditionId": "0x655729602876f15045bbffab03fe342fb5ade2bbc37b6d53d77ac3af755b4085",
+  "slug": "bitcoin-all-time-high-day-after-election",
+  "question": "Bitcoin all time high day after election?"
+}

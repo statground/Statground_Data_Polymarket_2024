@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:55:00.024495Z",
+  "market_createdAt": "2024-08-29T19:55:00.024495Z",
+  "market_updatedAt": "2025-01-25T02:15:18.579902Z",
+  "market_startDate": "2024-08-29T19:55:00.024Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:00:40+00",
+  "conditionId": "0x47d6f932d95372380b2653461e1ab8b80b9f58d985d57c855a5ca09e0224da9d",
+  "slug": "will-trevor-lawrence-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Trevor Lawrence win NFL MVP for the 2024-25 season?"
+}

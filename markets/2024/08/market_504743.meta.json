@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:56:47.898271Z",
+  "market_createdAt": "2024-08-08T17:56:47.898271Z",
+  "market_updatedAt": "2024-12-30T20:18:19.368647Z",
+  "market_startDate": "2024-08-08T19:15:20.484Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-30 00:18:40+00",
+  "conditionId": "0xb5821cc3005774b8c90222357ce6fcd2bb75e36bdc598f6d4817198dd4f35eb6",
+  "slug": "will-the-philadelphia-eagles-win-the-nfc-east",
+  "question": "Will the Philadelphia Eagles win the NFC East?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T15:31:57.146612Z",
+  "market_createdAt": "2024-05-28T15:31:57.146612Z",
+  "market_updatedAt": "2024-07-02T07:55:49.740239Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:34:55+00",
+  "conditionId": "0x62448ffe33386d8b36a2f6f640eaf06a65af6e51d356828bb08d7596effef03b",
+  "slug": "will-trump-mention-maga-before-july",
+  "question": "Will Trump mention $MAGA before July?"
+}

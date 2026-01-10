@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T23:00:44.925347Z",
+  "market_createdAt": "2024-08-16T23:00:44.925347Z",
+  "market_updatedAt": "2024-08-24T05:36:59.383062Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:28:02+00",
+  "conditionId": "0x3ab063708b9af85d7cff3a112931605d936be22c614566fdf8b3f83f9a0a0f93",
+  "slug": "will-kamala-harris-say-mcdonalds-during-dnc-speech",
+  "question": "Will Kamala Harris say \"McDonald's\" during DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:41:49.429025Z",
+  "market_createdAt": "2024-06-21T15:41:49.429025Z",
+  "market_updatedAt": "2024-06-30T05:56:54.743944Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-30 05:55:08+00",
+  "conditionId": "0xe11f1b4069f897bdbe7b6b871562a0f4c072e218ba17ef169b51d8738d6fe798",
+  "slug": "ufc-303-who-will-win-anthony-smith-vs-carlos-ulberg",
+  "question": "UFC 303: Who will win - Anthony Smith vs. Carlos Ulberg?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T18:50:10.187402Z",
+  "market_createdAt": "2024-08-09T18:50:10.187402Z",
+  "market_updatedAt": "2024-08-11T19:56:54.219122Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 22:29:20+00",
+  "conditionId": "0x3d5183dc17a18dd9844bdf0dd19fcd66234af22871164a06638b7a9b3687a5e8",
+  "slug": "will-another-team-win-gold-in-the-womens-4x400m-relay",
+  "question": "Will another team win gold in the Women’s 4x400m Relay?"
+}

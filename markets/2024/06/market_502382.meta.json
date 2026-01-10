@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502382",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T17:12:55.936492Z",
+  "market_createdAt": "2024-06-12T17:12:55.936492Z",
+  "market_updatedAt": "2024-06-14T08:41:14.674842Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-13 10:35:49+00",
+  "conditionId": "0x538471c46bec3db181b4d6aff2a3665c8043c4b911250625a003f2bf29ef9557",
+  "slug": "will-mike-breen-say-bang-during-game-3-broadcast",
+  "question": "Will Mike Breen say \"Bang\" during Game 3 broadcast?"
+}

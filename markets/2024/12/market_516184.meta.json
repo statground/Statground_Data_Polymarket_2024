@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T22:05:24.903984Z",
+  "market_createdAt": "2024-12-20T22:05:24.903984Z",
+  "market_updatedAt": "2025-07-02T08:24:49.794149Z",
+  "market_startDate": "2024-12-30T19:07:05.346Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 07:44:19+00",
+  "conditionId": "0x12d7301c569d569d9a465d6edb5613d1f984019d8abb1d194312668687044500",
+  "slug": "will-the-us-acquire-greenland-before-july",
+  "question": "Will Trump acquire Greenland before July?"
+}

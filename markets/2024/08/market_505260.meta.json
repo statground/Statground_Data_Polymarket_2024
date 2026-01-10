@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T23:00:02.907211Z",
+  "market_createdAt": "2024-08-16T23:00:02.907211Z",
+  "market_updatedAt": "2024-08-24T03:16:54.569935Z",
+  "market_startDate": "2024-08-21T17:26:29.2Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:22:32+00",
+  "conditionId": "0x62bc13a42a7c13083447d0384ffddcd15bdb0b64fdfdddf5815a63dc8301689f",
+  "slug": "will-kamala-harris-say-obama-during-dnc-speech",
+  "question": "Will Kamala Harris say \"Obama\" during DNC speech?"
+}

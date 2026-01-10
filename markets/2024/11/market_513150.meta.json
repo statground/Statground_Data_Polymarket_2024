@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:58:02.781224Z",
+  "market_createdAt": "2024-11-15T18:58:02.781224Z",
+  "market_updatedAt": "2025-01-22T22:44:53.127469Z",
+  "market_startDate": "2024-11-15T20:31:09.451022Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-22 02:49:35+00",
+  "conditionId": "0x32647079f2d533253ba9c24d421f828d83bd0b61d5a791091cdafe71fe7abd2c",
+  "slug": "will-casey-desantis-be-appointed-as-the-next-florida-senator",
+  "question": "Will Casey DeSantis be appointed as the next Florida senator?"
+}

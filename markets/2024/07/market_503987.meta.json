@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503987",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T15:34:22.533481Z",
+  "market_createdAt": "2024-07-22T15:34:22.533481Z",
+  "market_updatedAt": "2024-07-28T03:15:00.860847Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-27 06:05:15+00",
+  "conditionId": "0x1a1dffc1085802f85416161d19100c900b1f1ec497b889e397416bc19917c3b2",
+  "slug": "will-kamala-say-unburdened-by-friday",
+  "question": "Will Kamala say \"unburdened\" by Friday?"
+}

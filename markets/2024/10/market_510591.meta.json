@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:54:41.608408Z",
+  "market_createdAt": "2024-10-22T16:54:41.608408Z",
+  "market_updatedAt": "2024-10-25T22:43:02.361002Z",
+  "market_startDate": "2024-10-22T21:21:37.875994Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:18:34+00",
+  "conditionId": "0xfb52444af86050042b18fe28c617734a94455690076a11e45565dfaceb2ee6c0",
+  "slug": "will-fcsb-beat-rangers",
+  "question": "Will FCSB beat Rangers?"
+}

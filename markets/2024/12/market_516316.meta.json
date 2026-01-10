@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T16:28:00.740943Z",
+  "market_createdAt": "2024-12-23T16:28:00.740943Z",
+  "market_updatedAt": "2024-12-25T01:05:33.744354Z",
+  "market_startDate": "2024-12-23T18:33:11.879846Z",
+  "market_endDate": "2024-12-23T12:00:00Z",
+  "market_closedTime": "2024-12-24 06:32:21+00",
+  "conditionId": "0x80cbebb1bc67064f242b7b36f02cbc14a694359c956f0e48e96fd3f4324806f9",
+  "slug": "will-the-packers-beat-the-saints-by-14-or-more-points",
+  "question": "Will the Packers beat the Saints by 14 or more points?"
+}

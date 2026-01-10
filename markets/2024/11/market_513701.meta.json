@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T23:18:53.779850Z",
+  "market_createdAt": "2024-11-21T23:18:53.77985Z",
+  "market_updatedAt": "2024-12-09T07:13:11.513125Z",
+  "market_startDate": "2024-11-22T15:48:12.435882Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 07:49:59+00",
+  "conditionId": "0xdfd472c97756692778cdf0dc0a10477b4eda8d6c7824c33c2ac11c41377a3771",
+  "slug": "rakhmonov-vs-garry",
+  "question": "Rakhmonov vs. Garry"
+}

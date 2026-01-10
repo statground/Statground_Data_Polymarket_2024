@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:27:25.797000Z",
+  "market_createdAt": "2024-03-01T18:27:25.797Z",
+  "market_updatedAt": "2024-11-07T14:29:05.365679Z",
+  "market_startDate": "2024-03-28T20:28:12.636Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 14:30:31+00",
+  "conditionId": "0x8e1b3055f4b1439636252c5b8a32387234b48403d95abe1ad23fe59c6181b067",
+  "slug": "will-a-democrat-win-iowa-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Iowa Presidential Election?"
+}

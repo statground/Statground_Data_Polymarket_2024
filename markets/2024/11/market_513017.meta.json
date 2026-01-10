@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T17:06:03.835837Z",
+  "market_createdAt": "2024-11-14T17:06:03.835837Z",
+  "market_updatedAt": "2024-12-12T16:29:17.208007Z",
+  "market_startDate": "2024-11-14T17:19:34.04513Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 16:47:34+00",
+  "conditionId": "0x8cdfb8a957b715ffa122cb119baa3676ac6332635a9eeb23ef944bf96a347e1e",
+  "slug": "will-inflation-increase-by-2pt5-or-less-in-november",
+  "question": "Will inflation increase by 2.5% or less in November?"
+}

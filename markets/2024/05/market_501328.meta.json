@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T20:56:24.985662Z",
+  "market_createdAt": "2024-05-01T20:56:24.985662Z",
+  "market_updatedAt": "2024-05-07T23:09:32.967585Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2024-05-06 17:49:24+00",
+  "conditionId": "0x1c880367f8025c68c73ac6324b018eb0ae1bd33749d2050b621bd1421a6e43f7",
+  "slug": "will-yale-be-the-next-university-to-cancel-commencement",
+  "question": "Will Yale be the next university to cancel commencement?"
+}

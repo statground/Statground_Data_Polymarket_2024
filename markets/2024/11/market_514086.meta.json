@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:05:03.672220Z",
+  "market_createdAt": "2024-11-26T08:05:03.67222Z",
+  "market_updatedAt": "2024-11-29T22:01:34.784466Z",
+  "market_startDate": "2024-11-26T22:37:00.479256Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:11:33+00",
+  "conditionId": "0xd20795d972e3acad6691945bcc99a7d44e82da14c03cedee11a04cc7cc97227b",
+  "slug": "will-the-match-between-anderlecht-and-fc-porto-end-in-a-draw",
+  "question": "Will the match between Anderlecht and FC Porto end in a draw?"
+}

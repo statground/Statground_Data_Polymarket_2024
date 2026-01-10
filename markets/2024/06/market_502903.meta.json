@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:11:34.838849Z",
+  "market_createdAt": "2024-06-25T19:11:34.838849Z",
+  "market_updatedAt": "2024-10-04T23:56:41.021442Z",
+  "market_startDate": "2024-06-26T18:44:23.242Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:29:30+00",
+  "conditionId": "0xbc4575615a6fb4f8b893c7301f554d19c5bf23b6d6ba8350997c48cf13a066c6",
+  "slug": "eigenlayer-airdrop-by-september-30",
+  "question": "Eigenlayer airdrop by September 30?"
+}

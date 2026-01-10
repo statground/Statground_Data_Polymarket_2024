@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:56:37.523575Z",
+  "market_createdAt": "2024-10-24T19:56:37.523575Z",
+  "market_updatedAt": "2024-10-27T04:17:05.456695Z",
+  "market_startDate": "2024-10-24T20:22:35.613332Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:51:39+00",
+  "conditionId": "0x9defc4bede5f2a0aeed5cbda3681f722facbf8009910191d37dbbc687d9fdc4b",
+  "slug": "will-trump-say-nafta-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"NAFTA\" during Michigan rally on October 25?"
+}

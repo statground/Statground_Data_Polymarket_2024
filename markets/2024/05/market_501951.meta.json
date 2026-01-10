@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501951",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T15:00:18.853561Z",
+  "market_createdAt": "2024-05-31T15:00:18.853561Z",
+  "market_updatedAt": "2024-06-18T07:06:42.578399Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:05:16+00",
+  "conditionId": "0x0674bea1ce9f769787e2710c1619bacec8e02093d60d0c12f0e7d09102a7ec81",
+  "slug": "derrick-jones-jr-2024-nba-finals-mvp",
+  "question": "Derrick Jones Jr. 2024 NBA Finals MVP?"
+}

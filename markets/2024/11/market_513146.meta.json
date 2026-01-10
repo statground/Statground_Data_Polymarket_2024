@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:54:01.899908Z",
+  "market_createdAt": "2024-11-15T18:54:01.899908Z",
+  "market_updatedAt": "2024-11-17T07:11:15.164954Z",
+  "market_startDate": "2024-11-15T22:08:16.813122Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:54:41+00",
+  "conditionId": "0xaf1637d0325aa54078de4a5940e67d778fdd818c601a792d264c4d556d4d9b93",
+  "slug": "will-washington-beat-ucla",
+  "question": "Will Washington beat UCLA?"
+}

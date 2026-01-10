@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:37:00.742808Z",
+  "market_createdAt": "2024-08-12T20:37:00.742808Z",
+  "market_updatedAt": "2024-08-15T07:17:03.147191Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 07:42:11+00",
+  "conditionId": "0xe3a6eae02f0d9b38ebe821bd5f965231dae704b279744ac8747014786fd6fc73",
+  "slug": "will-roger-roth-win-the-wi-8-republican-house-primary",
+  "question": "Will Roger Roth win the WI-8 Republican House Primary?"
+}

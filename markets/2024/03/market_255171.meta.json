@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:28:11.214000Z",
+  "market_createdAt": "2024-03-01T19:28:11.214Z",
+  "market_updatedAt": "2024-11-07T10:33:05.740263Z",
+  "market_startDate": "2024-03-28T19:58:34.937Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:10:42+00",
+  "conditionId": "0x02a86b9c8a85e3e148d8362059355f7d2fac8959e15661c68fccdd65fb901397",
+  "slug": "will-a-republican-win-tennessee-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Tennessee Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:27:11.316841Z",
+  "market_createdAt": "2024-09-30T19:27:11.316841Z",
+  "market_updatedAt": "2024-10-03T00:10:44.761277Z",
+  "market_startDate": "2024-09-30T21:33:10.017658Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:14:40+00",
+  "conditionId": "0x05f9e578b7aa9a18c16bc72acf8c590bc8caf5aab9e6cfc465d3cc7dc34815d3",
+  "slug": "will-the-match-between-borussia-dortmund-and-celtic-end-in-a-draw",
+  "question": "Will the match between Borussia Dortmund and Celtic end in a draw?"
+}

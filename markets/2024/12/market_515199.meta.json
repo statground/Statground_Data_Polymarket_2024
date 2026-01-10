@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:03:13.393218Z",
+  "market_createdAt": "2024-12-09T22:03:13.393218Z",
+  "market_updatedAt": "2024-12-12T21:51:13.871845Z",
+  "market_startDate": "2024-12-10T21:51:54.695156Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:18:06+00",
+  "conditionId": "0xca201a739c73b7d8ea37afc529284cd0f8e76408b95febc598d0d3b6433a6409",
+  "slug": "will-feyenoord-beat-sparta-praha",
+  "question": "Will Feyenoord beat Sparta Praha?"
+}

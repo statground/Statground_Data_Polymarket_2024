@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:07:21.840001Z",
+  "market_createdAt": "2024-11-07T18:07:21.840001Z",
+  "market_updatedAt": "2025-07-01T16:24:42.937566Z",
+  "market_startDate": "2024-11-07T18:13:49.12Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 07:39:03+00",
+  "conditionId": "0x4364972f0b5f33379092da7564811c02acd0069d45c7c3046cfb17f9f01cd236",
+  "slug": "will-trump-jail-hillary-clinton",
+  "question": "Will Trump jail Hillary Clinton?"
+}

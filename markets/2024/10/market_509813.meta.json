@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509813",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:15:05.495085Z",
+  "market_createdAt": "2024-10-14T18:15:05.495085Z",
+  "market_updatedAt": "2024-10-17T05:20:53.321366Z",
+  "market_startDate": "2024-10-14T23:50:19.041Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 05:15:44+00",
+  "conditionId": "0x5ac04b793f87db64afa4011d4730ee517bdd23fb94bca040a6876540da7632b1",
+  "slug": "will-trump-say-kamala-20-or-more-times-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say \"Kamala\" 20 or more times during Georgia speech on Oct 15?"
+}

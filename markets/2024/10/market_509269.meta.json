@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:10:39.382884Z",
+  "market_createdAt": "2024-10-08T19:10:39.382884Z",
+  "market_updatedAt": "2024-10-12T22:46:49.114787Z",
+  "market_startDate": "2024-10-09T15:32:16.159571Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:17:50+00",
+  "conditionId": "0xeb578562b4ba31562cd9ce4e290ba34e6cc4f2a99fe65b70636d7c495acc213b",
+  "slug": "will-trump-say-tax-30-or-more-times-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"tax\" 30 or more times during Colorado rally on October 11?"
+}

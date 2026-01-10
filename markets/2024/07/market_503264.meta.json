@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-07T16:54:14.646396Z",
+  "market_createdAt": "2024-07-07T16:54:14.646396Z",
+  "market_updatedAt": "2024-07-11T22:45:51.239656Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-10T12:00:00Z",
+  "market_closedTime": "2024-07-10 22:58:40+00",
+  "conditionId": "0x5a8560a63bcaeffe0d20123287cc44ee8132c0a4ab6da2fa94a001dcb25ac61e",
+  "slug": "netherlands-vs-england-who-will-advance",
+  "question": "Netherlands vs. England - Who will advance? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:06:57.006225Z",
+  "market_createdAt": "2024-11-05T04:06:57.006225Z",
+  "market_updatedAt": "2024-11-07T19:19:00.089096Z",
+  "market_startDate": "2024-11-05T20:12:28.970404Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:15:32+00",
+  "conditionId": "0x023a97df0dd0b13f5e9473745dd6a21934736a99d726c1ce161358d08c54818f",
+  "slug": "will-the-match-between-shakhtar-donetsk-and-young-boys-end-in-a-draw",
+  "question": "Will the match between Shakhtar Donetsk and Young Boys end in a draw?"
+}

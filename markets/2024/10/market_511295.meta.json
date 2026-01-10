@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T15:50:32.831021Z",
+  "market_createdAt": "2024-10-29T15:50:32.831021Z",
+  "market_updatedAt": "2024-11-01T19:23:12.217096Z",
+  "market_startDate": "2024-10-29T16:51:59.363372Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 20:03:10+00",
+  "conditionId": "0x3707877bbac150facb61c1caca07ceb0b39af72c3f93dd9f1aadf9c36b09a65e",
+  "slug": "will-jd-vance-say-weed-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"weed\" during the Joe Rogan podcast?"
+}

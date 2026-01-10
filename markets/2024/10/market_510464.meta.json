@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:28:13.953994Z",
+  "market_createdAt": "2024-10-22T00:28:13.953994Z",
+  "market_updatedAt": "2024-10-27T16:40:58.177947Z",
+  "market_startDate": "2024-10-22T00:30:51.565Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 19:15:52+00",
+  "conditionId": "0xd7d1ef22a1362358fe23659611c8b49e74efa4758b81334837e30b36f0b414c3",
+  "slug": "epl-mac-sou-2024-10-26-draw",
+  "question": "Will Man City vs. Southampton end in a draw?"
+}

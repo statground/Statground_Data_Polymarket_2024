@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:00:57.242706Z",
+  "market_createdAt": "2024-12-22T07:00:57.242706Z",
+  "market_updatedAt": "2024-12-24T02:33:39.533846Z",
+  "market_startDate": "2024-12-22T07:04:02.956309Z",
+  "market_endDate": "2024-12-29T22:00:00Z",
+  "market_closedTime": "2024-12-23 02:48:17+00",
+  "conditionId": "0xb2e1ab8ff6473b5761387663e533d16b3f9c97001f9563baa83bcc4fab319965",
+  "slug": "nhl-lak-wsh-2024-12-22",
+  "question": "Kings vs. Capitals"
+}

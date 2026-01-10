@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T01:57:07.055677Z",
+  "market_createdAt": "2024-11-12T01:57:07.055677Z",
+  "market_updatedAt": "2025-01-25T01:35:16.188107Z",
+  "market_startDate": "2024-11-12T16:29:43.46408Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2025-01-24 01:29:35+00",
+  "conditionId": "0x143061f44569917d4b52e2966925f6fa507737d09ec9c9c7d40db612c1c1a4fc",
+  "slug": "will-jack-chambers-be-the-next-prime-minister-of-ireland",
+  "question": "Will Jack Chambers be the next Prime Minister of Ireland?"
+}

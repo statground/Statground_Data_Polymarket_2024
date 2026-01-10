@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:41:23.643391Z",
+  "market_createdAt": "2024-11-02T19:41:23.643391Z",
+  "market_updatedAt": "2024-11-06T04:01:23.902853Z",
+  "market_startDate": "2024-11-02T20:51:39.866Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 03:57:26+00",
+  "conditionId": "0x6d9e8c186a898c5dc593fee9612fa0eeb302f8296084c28d5f6fe827f2d11e91",
+  "slug": "will-trump-say-think-of-it-5-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"think of it\" 5 or more times during Pittsburgh rally on Nov 4?"
+}

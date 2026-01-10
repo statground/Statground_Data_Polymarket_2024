@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T19:56:10.270409Z",
+  "market_createdAt": "2024-10-31T19:56:10.270409Z",
+  "market_updatedAt": "2024-12-01T23:33:16.830572Z",
+  "market_startDate": "2024-11-01T15:04:48.634Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:10:46+00",
+  "conditionId": "0xb17afaf0b055d9d8afc73336b751a61172e5bf32566b45f67f6914d1bf2de107",
+  "slug": "will-bitcoin-reach-60000-in-november",
+  "question": "Will Bitcoin reach $60,000 in November?"
+}

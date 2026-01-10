@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:42:42.954952Z",
+  "market_createdAt": "2024-12-09T17:42:42.954952Z",
+  "market_updatedAt": "2024-12-11T20:29:15.886665Z",
+  "market_startDate": "2024-12-09T23:25:21.682771Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 22:53:28+00",
+  "conditionId": "0x907f282b2f1a534afb7337f9d2bda4a2e08c1b7180ad5cf3c69945345716bc9f",
+  "slug": "will-celtic-beat-dinamo-zagreb",
+  "question": "Will Celtic beat Dinamo Zagreb?"
+}

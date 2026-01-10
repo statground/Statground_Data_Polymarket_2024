@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:30:51.533851Z",
+  "market_createdAt": "2024-10-22T03:30:51.533851Z",
+  "market_updatedAt": "2024-10-25T21:13:07.408413Z",
+  "market_startDate": "2024-10-23T15:00:54.333451Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 21:59:05+00",
+  "conditionId": "0x78ca8093418e7359be469ed351795ff821e9d9c9caccfb94873a21c328827f64",
+  "slug": "will-roma-beat-dynamo-kyiv",
+  "question": "Will Roma beat Dynamo Kyiv?"
+}

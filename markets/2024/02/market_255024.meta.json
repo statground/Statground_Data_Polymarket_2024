@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T21:57:22.083000Z",
+  "market_createdAt": "2024-02-29T21:57:22.083Z",
+  "market_updatedAt": "2024-04-22T22:37:56.169627Z",
+  "market_startDate": "2024-02-29T23:11:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 03:46:00+00",
+  "conditionId": "0x0bc44e3e0f5796fefb68b3866832f045503fc83bcc3b15089f0a83fa27cdb79a",
+  "slug": "will-massachusetts-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Massachusetts be Trump's worst state on Super Tuesday?"
+}

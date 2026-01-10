@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:15:03.339428Z",
+  "market_createdAt": "2024-08-26T20:15:03.339428Z",
+  "market_updatedAt": "2024-09-09T21:11:17.319268Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:35:02+00",
+  "conditionId": "0xc56a15f5807c6b385c4455ae939f0c4eaa188cb3864dc42431227d64520cea04",
+  "slug": "nfl-mia-jax-2024-09-08",
+  "question": "Dolphins vs. Jaguars"
+}

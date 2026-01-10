@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:28:47.703026Z",
+  "market_createdAt": "2024-11-26T08:28:47.703026Z",
+  "market_updatedAt": "2024-11-29T22:17:30.116318Z",
+  "market_startDate": "2024-11-26T22:52:31.638522Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:20:00+00",
+  "conditionId": "0x12527748b199c5baf302f02a75d4dcb5a05d320000031a561464468e0dfb033f",
+  "slug": "will-the-match-between-braga-and-hoffenheim-end-in-a-draw",
+  "question": "Will the match between Braga and Hoffenheim end in a draw?"
+}

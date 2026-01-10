@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:26:02.413912Z",
+  "market_createdAt": "2024-06-04T15:26:02.413912Z",
+  "market_updatedAt": "2024-06-18T06:21:27.366612Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:19:44+00",
+  "conditionId": "0x16894884f8f77912d11293bcdba72614d40a6a105428847e5c8a594f54b4afda",
+  "slug": "will-luka-doncic-make-the-most-3-pointers-in-the-2024-nba-finals-series",
+  "question": "Will Luka Doncic make the most 3-pointers in the 2024 NBA Finals series?"
+}

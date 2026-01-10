@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:08:16.981649Z",
+  "market_createdAt": "2024-09-13T20:08:16.981649Z",
+  "market_updatedAt": "2024-09-18T04:02:46.769042Z",
+  "market_startDate": "2024-09-13T20:55:49.386Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 04:26:51+00",
+  "conditionId": "0x02a870ce58fa403faf910a113be3cb2f5819325cab8250010e778524f1bfa4f3",
+  "slug": "will-trump-say-solana-during-the-x-space",
+  "question": "Will Trump say \"Solana\" during the X space?"
+}

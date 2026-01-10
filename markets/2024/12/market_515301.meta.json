@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:17:02.225068Z",
+  "market_createdAt": "2024-12-10T21:17:02.225068Z",
+  "market_updatedAt": "2024-12-13T21:03:19.64536Z",
+  "market_startDate": "2024-12-11T22:53:37.599367Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 22:58:17+00",
+  "conditionId": "0x594c798bc165c48980cf5c2716fb945cf654a9c3992a50d4e97cbcd8c0e22bbf",
+  "slug": "will-twente-beat-olympiacos",
+  "question": "Will Twente beat Olympiacos?"
+}

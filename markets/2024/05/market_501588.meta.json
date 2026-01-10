@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T16:05:06.417442Z",
+  "market_createdAt": "2024-05-14T16:05:06.417442Z",
+  "market_updatedAt": "2024-11-08T00:18:56.099699Z",
+  "market_startDate": "2024-05-15T16:58:11.826Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:33:34+00",
+  "conditionId": "0x136e99098f7d4087b4c5775d9f9a512de67e50bda37e88fa86b05a226c390182",
+  "slug": "will-a-republican-win-the-popular-vote-and-a-democrat-win-the-presidency",
+  "question": "Will a Republican win the popular vote and a Democrat win the Presidency?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:35:02.582586Z",
+  "market_createdAt": "2024-09-24T15:35:02.582586Z",
+  "market_updatedAt": "2025-05-24T06:35:20.979182Z",
+  "market_startDate": "2024-09-24T18:01:40.693Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-03-11 06:37:23+00",
+  "conditionId": "0x305df84a4e3cdedb1a70ddec73949c64311247dbf7f41c236ee6a795dcc3d347",
+  "slug": "will-the-utah-jazz-win-the-2025-nba-finals",
+  "question": "Will the Utah Jazz win the 2025 NBA Finals?"
+}

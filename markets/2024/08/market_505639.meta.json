@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T17:02:02.725253Z",
+  "market_createdAt": "2024-08-22T17:02:02.725253Z",
+  "market_updatedAt": "2024-08-23T21:51:08.510178Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 21:47:29+00",
+  "conditionId": "0x0b1f5551a140929c14b13eaea86885c8bc412c3cebadef67e7fba010b2f9a0c4",
+  "slug": "will-donald-trump-say-alien-3-or-more-times-in-border-speech",
+  "question": "Will Donald Trump say \"Alien\" 3 or more times in border speech?"
+}

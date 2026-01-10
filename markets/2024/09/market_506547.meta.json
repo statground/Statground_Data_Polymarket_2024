@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T17:37:20.140718Z",
+  "market_createdAt": "2024-09-06T17:37:20.140718Z",
+  "market_updatedAt": "2024-09-08T22:16:57.173731Z",
+  "market_startDate": "2024-09-06T18:00:03.392575Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 22:12:56+00",
+  "conditionId": "0x17425d337b8066c86365fce4bc3968526c3c8e626ea071fb0204bf68a373642b",
+  "slug": "will-trump-say-mosquito-at-wisconsin-rally",
+  "question": "Will Trump say \"mosquito\" at Wisconsin rally?"
+}

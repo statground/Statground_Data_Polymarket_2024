@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T04:45:12.824067Z",
+  "market_createdAt": "2024-10-30T04:45:12.824067Z",
+  "market_updatedAt": "2024-12-04T19:13:00.101129Z",
+  "market_startDate": "2024-10-30T15:17:22.477704Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-03 20:47:53+00",
+  "conditionId": "0xaf03198c06bb312e63cb4d62b061aed647178efacc6b58aa7e366c41b01a8700",
+  "slug": "will-trump-do-better-in-florida-or-ohio",
+  "question": "Will Trump do better in Florida or Ohio?"
+}

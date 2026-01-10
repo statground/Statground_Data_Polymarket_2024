@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:03:45.343466Z",
+  "market_createdAt": "2024-09-23T20:03:45.343466Z",
+  "market_updatedAt": "2024-09-29T16:26:46.411073Z",
+  "market_startDate": "2024-09-23T22:08:12.862Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 16:45:44+00",
+  "conditionId": "0x27dd4fbf973f8b5b3effddb08ed917bfd48487654b0108221807dd6336a35767",
+  "slug": "will-newcastle-beat-manchester-city",
+  "question": "Will Newcastle beat Manchester City?"
+}

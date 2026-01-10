@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T20:34:05.109616Z",
+  "market_createdAt": "2024-12-13T20:34:05.109616Z",
+  "market_updatedAt": "2024-12-15T09:23:39.353857Z",
+  "market_startDate": "2024-12-13T20:41:15.228424Z",
+  "market_endDate": "2024-12-13T12:00:00Z",
+  "market_closedTime": "2024-12-14 09:22:40+00",
+  "conditionId": "0xb9956afc856de340e85dbea6094e37457cf32e9067eb8a52eecfe7dc7fddd65f",
+  "slug": "will-elon-respond-to-openai-today",
+  "question": "Will Elon respond to OpenAI today?"
+}

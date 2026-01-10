@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:22:31.861919Z",
+  "market_createdAt": "2024-12-09T19:22:31.861919Z",
+  "market_updatedAt": "2024-12-12T00:53:13.275707Z",
+  "market_startDate": "2024-12-09T23:29:07.26322Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:21:16+00",
+  "conditionId": "0x43e5aecbff7959de7b676b1626b29f55aad8ee7e620b1da5b7fbe5c99f9b57f2",
+  "slug": "will-inter-milan-beat-bayer-leverkusen",
+  "question": "Will Inter Milan beat Bayer Leverkusen?"
+}

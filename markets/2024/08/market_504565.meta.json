@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T18:35:12.748857Z",
+  "market_createdAt": "2024-08-05T18:35:12.748857Z",
+  "market_updatedAt": "2024-08-07T10:52:49.814735Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-06 10:50:00+00",
+  "conditionId": "0xe47bbdd1a01af0014f72830f7bdee56ad5910a0c832691bfd1dbaba0c8445be9",
+  "slug": "iran-military-response-tonight",
+  "question": "Iran military response tonight?"
+}

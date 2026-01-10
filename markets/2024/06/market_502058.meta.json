@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T22:26:07.756383Z",
+  "market_createdAt": "2024-06-03T22:26:07.756383Z",
+  "market_updatedAt": "2024-06-19T06:36:14.090228Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:00:50+00",
+  "conditionId": "0x2204a3f05f5e4450f53c63180f28c20995341a0e6bb745e193d972ac3d55b05a",
+  "slug": "will-dereck-lively-be-the-top-rebounder-for-the-2024-nba-finals",
+  "question": "Will Dereck Lively be the top rebounder for the 2024 NBA Finals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T21:19:28.915935Z",
+  "market_createdAt": "2024-09-11T21:19:28.915935Z",
+  "market_updatedAt": "2024-09-16T19:56:48.51479Z",
+  "market_startDate": "2024-09-12T03:19:40.427234Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 20:04:32+00",
+  "conditionId": "0x33d1ae5aa50868844dd11b75d8998ea744138305c475a33f8f8b20c45c0da5fa",
+  "slug": "will-team-liquid-win-the-international-2024",
+  "question": "Will Team Liquid win The International 2024?"
+}

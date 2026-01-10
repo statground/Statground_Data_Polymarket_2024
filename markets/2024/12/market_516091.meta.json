@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T21:32:43.869798Z",
+  "market_createdAt": "2024-12-19T21:32:43.869798Z",
+  "market_updatedAt": "2025-05-27T00:26:27.977246Z",
+  "market_startDate": "2024-12-27T17:32:30.103842Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-25 21:23:12+00",
+  "conditionId": "0x466438234ec528c66a2e50bc2c39dc429a67e9808415c5b3351cadf7b5d2a183",
+  "slug": "will-nottingham-forest-finish-in-the-top-4-of-epl",
+  "question": "Will Nottingham Forest finish in the top 4 of EPL?"
+}

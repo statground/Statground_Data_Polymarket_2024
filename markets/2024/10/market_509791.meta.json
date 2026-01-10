@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T17:06:28.507693Z",
+  "market_createdAt": "2024-10-14T17:06:28.507693Z",
+  "market_updatedAt": "2024-10-16T15:00:57.571662Z",
+  "market_startDate": "2024-10-14T23:39:06.841517Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-15 15:13:16+00",
+  "conditionId": "0x7c66829fc968b6ce2a09fb40d2a859fb4a2641fa56d5aa36d6f136e2ad62cd56",
+  "slug": "will-ian-nepomniachtchi-win-the-2024-wr-chess-masters-cup",
+  "question": " Will Ian Nepomniachtchi win the 2024 WR Chess Masters Cup?"
+}

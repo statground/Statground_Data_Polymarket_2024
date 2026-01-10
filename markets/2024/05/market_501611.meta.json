@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:19:35.654897Z",
+  "market_createdAt": "2024-05-14T23:19:35.654897Z",
+  "market_updatedAt": "2024-06-02T00:56:18.042352Z",
+  "market_startDate": "2024-05-14T23:45:22.981Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:22:31+00",
+  "conditionId": "0x8bd8f09212e7c7964632cb506aaeeccc8ca11ebfe70c6ca8c26da28ec622b106",
+  "slug": "will-ilya-join-another-company",
+  "question": "Will Ilya join another company?"
+}

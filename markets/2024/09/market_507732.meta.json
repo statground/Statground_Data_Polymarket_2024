@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:07:21.276779Z",
+  "market_createdAt": "2024-09-23T18:07:21.276779Z",
+  "market_updatedAt": "2024-09-26T18:56:42.920366Z",
+  "market_startDate": "2024-09-23T22:15:33.129542Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 22:00:00+00",
+  "conditionId": "0x8165d964075039c61ecad6244532b9e0b5096c5eee1f559fe29c182322185b41",
+  "slug": "will-if-elfsborg-beat-az-alkmaar",
+  "question": "Will IF Elfsborg beat AZ Alkmaar?"
+}

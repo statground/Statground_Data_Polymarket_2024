@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:13:23.991016Z",
+  "market_createdAt": "2024-08-26T20:13:23.991016Z",
+  "market_updatedAt": "2024-09-09T21:37:13.274475Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:29:54+00",
+  "conditionId": "0xe9f3b8c276c31b82fafc0664892ec1418973a8a2b42804bd9533571288cff543",
+  "slug": "nfl-chi-ten-2024-09-08",
+  "question": "Bears vs. Titans"
+}

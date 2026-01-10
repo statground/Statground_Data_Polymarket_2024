@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:21:24.557469Z",
+  "market_createdAt": "2024-10-25T19:21:24.557469Z",
+  "market_updatedAt": "2024-10-28T03:46:42.586022Z",
+  "market_startDate": "2024-10-25T22:32:58.310247Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 06:03:37+00",
+  "conditionId": "0x13dc6a603ae755702505072b05f30e4709f75e9c98d4f546b52d33ed2842c8fb",
+  "slug": "will-kansas-state-beat-kansas",
+  "question": "Will Kansas State beat Kansas?"
+}

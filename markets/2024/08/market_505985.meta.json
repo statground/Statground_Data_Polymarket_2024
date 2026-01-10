@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:57:21.898627Z",
+  "market_createdAt": "2024-08-28T18:57:21.898627Z",
+  "market_updatedAt": "2024-09-02T18:21:06.564378Z",
+  "market_startDate": "2024-08-28T18:57:21.898627Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 20:55:47+00",
+  "conditionId": "0xf8e83c78f395da4baca6666063281a63b6b10a50a400a753116ea2b38d833426",
+  "slug": "will-max-verstappen-win-the-italian-grand-prix",
+  "question": "Will Max Verstappen win the Italian Grand Prix?"
+}

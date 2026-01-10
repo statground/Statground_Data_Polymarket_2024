@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:46:16.814046Z",
+  "market_createdAt": "2024-08-08T18:46:16.814046Z",
+  "market_updatedAt": "2025-01-05T23:43:20.036412Z",
+  "market_startDate": "2024-08-08T19:13:13.97Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2025-01-05 04:04:10+00",
+  "conditionId": "0x1a386ae60cbe64bf97271e354c6573f2d57180e255cb429d4ff3f4f53ebd56d3",
+  "slug": "will-the-baltimore-ravens-win-the-afc-north",
+  "question": "Will the Baltimore Ravens win the AFC North?"
+}

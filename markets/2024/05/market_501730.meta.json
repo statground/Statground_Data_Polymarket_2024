@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T19:08:48.120409Z",
+  "market_createdAt": "2024-05-21T19:08:48.120409Z",
+  "market_updatedAt": "2024-06-02T00:48:32.492989Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x9e0d2604fa6c61ba56f023a9ac4cadf97a62e37c97626418677ec47e57a5f4d1",
+  "slug": "djt-market-cap-7-8b-on-may-31",
+  "question": "$DJT market cap $7-8b on May 31?"
+}

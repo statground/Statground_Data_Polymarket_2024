@@ -1,0 +1,18 @@
+{
+  "entity": "event",
+  "event_id": "10934",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-06-05T16:47:41.816451Z",
+  "event_createdAt": "2024-06-05T16:47:41.816451Z",
+  "event_creationDate": "2024-06-05T17:21:18.05094Z",
+  "event_startDate": "2024-06-05T17:21:18.050943Z",
+  "event_endDate": "2024-12-31T12:00:00Z",
+  "event_updatedAt": "2024-06-07T16:26:16.574196Z",
+  "markets_len": 1,
+  "market_ids": [
+    "502127"
+  ],
+  "series_len": 0,
+  "series_ids": [],
+  "series_slug": null
+}

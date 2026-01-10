@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T21:15:48.570808Z",
+  "market_createdAt": "2024-08-26T21:15:48.570808Z",
+  "market_updatedAt": "2024-10-02T06:16:52.826836Z",
+  "market_startDate": "2024-08-26T21:15:48.570808Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:42:08+00",
+  "conditionId": "0x2e9430612e8a8e453d71dc25b403f5958bb58863f30a9ff85c20e131dd9f220f",
+  "slug": "iran-strike-on-us-military-before-october",
+  "question": "Iran strike on US military before October?"
+}

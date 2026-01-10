@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:45:21.042847Z",
+  "market_createdAt": "2024-08-28T19:45:21.042847Z",
+  "market_updatedAt": "2024-12-30T21:05:40.368529Z",
+  "market_startDate": "2024-08-28T19:45:21.042847Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-30 00:28:36+00",
+  "conditionId": "0x7f869993ad783e083661147cfcb54e6304a3d1d1cf4fef3c21d97114c258ffb1",
+  "slug": "will-the-colts-win-the-afc-championship",
+  "question": "Will the Colts win the AFC Championship?"
+}

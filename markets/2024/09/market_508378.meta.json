@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T21:00:28.189831Z",
+  "market_createdAt": "2024-09-27T21:00:28.189831Z",
+  "market_updatedAt": "2024-11-02T05:17:09.976062Z",
+  "market_startDate": "2024-09-30T18:02:40.060018Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:45:49+00",
+  "conditionId": "0x525454526aa00d473eaa95437352f59946a2524d74b6f9469540274cbfe4129c",
+  "slug": "will-israel-troops-enter-beirut-by-october-31",
+  "question": "Will Israeli troops enter Beirut by October 31? "
+}

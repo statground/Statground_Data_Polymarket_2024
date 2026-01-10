@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T22:10:14.208350Z",
+  "market_createdAt": "2024-05-31T22:10:14.20835Z",
+  "market_updatedAt": "2024-07-07T19:30:49.041967Z",
+  "market_startDate": "2024-06-03T17:01:10.453Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-06 21:53:55+00",
+  "conditionId": "0xa5e17d3216a81f845b7d9c93dfbda6221e73437b11cff2644e8ae8649823847f",
+  "slug": "will-switzerland-win-the-2024-euros",
+  "question": "Will Switzerland win the 2024 Euros?"
+}

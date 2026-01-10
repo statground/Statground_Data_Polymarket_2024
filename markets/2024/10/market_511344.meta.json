@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:37:00.572892Z",
+  "market_createdAt": "2024-10-29T19:37:00.572892Z",
+  "market_updatedAt": "2024-10-31T03:57:05.832307Z",
+  "market_startDate": "2024-10-29T20:28:24.996143Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:07:24+00",
+  "conditionId": "0x4c9d400303c9d6c6d21476bd62e9d4c3751e59eb04b122efcd5fc5dcff481171",
+  "slug": "will-kamala-say-fascist-or-fascism-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"fascist\" or \"fascism\" during DC rally on Oct 29?"
+}

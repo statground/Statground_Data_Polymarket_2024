@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T20:58:51.527989Z",
+  "market_createdAt": "2024-11-01T20:58:51.527989Z",
+  "market_updatedAt": "2025-01-22T00:25:03.578912Z",
+  "market_startDate": "2024-11-01T22:45:12.663Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 00:20:56+00",
+  "conditionId": "0xc5a29d7da91c765c5b8b45dc5f86147558ad0d16bb18e7ca14a74e3b5e3ebf9a",
+  "slug": "will-kamala-harris-be-inaugurated",
+  "question": "Will Kamala Harris be inaugurated?"
+}

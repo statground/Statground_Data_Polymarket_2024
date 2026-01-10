@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T20:58:39.469000Z",
+  "market_createdAt": "2024-03-04T20:58:39.469Z",
+  "market_updatedAt": "2024-03-07T07:42:05.836Z",
+  "market_startDate": "2024-03-04T21:12:08.846Z",
+  "market_endDate": "2024-03-05T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:48:06+00",
+  "conditionId": "0x24065ecfb01a08b8406326e191ca9309e8cd6359ae325db826cdbae38f41bfdd",
+  "slug": "will-nikki-haley-win-any-state-on-super-tuesday",
+  "question": "Will Nikki Haley win any state on Super Tuesday?"
+}

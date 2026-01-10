@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:04:24.813478Z",
+  "market_createdAt": "2024-08-26T19:04:24.813478Z",
+  "market_updatedAt": "2024-12-20T16:47:05.317349Z",
+  "market_startDate": "2024-08-26T19:04:24.813Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-19 16:45:52+00",
+  "conditionId": "0x319ef56440de5fcc32facb131d3466a3ff79ef56bbf9355feb5bb6901e3de501",
+  "slug": "will-germanys-afd-make-it-into-government",
+  "question": "Will AfD make it into Thuringia or Saxony government?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T23:53:28.760000Z",
+  "market_createdAt": "2024-02-14T23:53:28.76Z",
+  "market_updatedAt": "2024-05-26T18:04:41.780589Z",
+  "market_startDate": "2024-02-27T20:12:13.94Z",
+  "market_endDate": "2024-05-31T00:00:00Z",
+  "market_closedTime": "2024-05-25 18:07:47+00",
+  "conditionId": "0x208ada64c0b24091912cbd29f538f95806750949d4d6369593f2db7b3e959e0f",
+  "slug": "dutch-government-formed-before-june",
+  "question": "Dutch government formed before June?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:09:32.553471Z",
+  "market_createdAt": "2024-08-14T16:09:32.553471Z",
+  "market_updatedAt": "2024-08-17T00:11:01.157402Z",
+  "market_startDate": "2024-08-14T17:27:54.176Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 00:09:39+00",
+  "conditionId": "0xfa6da13d5ef938bfc29060772978ce14b24bfb6e8e8c66d0e95ef5e0b4f5c260",
+  "slug": "will-trump-say-bitcoin-at-his-press-conference",
+  "question": "Will Trump say \"Bitcoin\" at his press conference?"
+}

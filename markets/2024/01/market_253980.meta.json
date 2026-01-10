@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T00:24:28.206000Z",
+  "market_createdAt": "2024-01-18T00:24:28.206Z",
+  "market_updatedAt": "2024-05-07T23:09:32.398634Z",
+  "market_startDate": "2024-01-19T22:22:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2024-04-19 20:11:15+00",
+  "conditionId": "0xfd0dbeec183a42c6d98724ae80a988d55da680cb3f92d350b8c472fe039cb88c",
+  "slug": "will-the-median-gas-price-per-blob-be-between-0pt001-and-0pt01-eth-one-month-after-eip-4844",
+  "question": "Will the median gas price per blob be between 0.001 and 0.01 ETH one month after EIP-4844?"
+}

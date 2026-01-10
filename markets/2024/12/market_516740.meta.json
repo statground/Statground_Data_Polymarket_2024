@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:02:43.194221Z",
+  "market_createdAt": "2024-12-30T05:02:43.194221Z",
+  "market_updatedAt": "2025-01-05T17:43:25.8198Z",
+  "market_startDate": "2024-12-30T05:05:25.192695Z",
+  "market_endDate": "2025-01-04T12:30:00Z",
+  "market_closedTime": "2025-01-04 17:48:38+00",
+  "conditionId": "0xcef494589678983304cfac2034a7df02c9fcef0d560582b8e76c01748a8c32e2",
+  "slug": "epl-tot-new-2025-01-04-new",
+  "question": "Will Newcastle win on 2025-01-04?"
+}

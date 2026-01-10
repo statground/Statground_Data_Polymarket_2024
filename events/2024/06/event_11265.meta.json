@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_id": "11265",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-06-25T18:45:57.616069Z",
+  "event_createdAt": "2024-06-25T18:45:57.616069Z",
+  "event_creationDate": "2024-06-26T18:46:13.190215Z",
+  "event_startDate": "2024-06-26T18:46:13.19022Z",
+  "event_endDate": "2024-09-30T12:00:00Z",
+  "event_updatedAt": "2025-02-10T22:53:46.106059Z",
+  "markets_len": 19,
+  "market_ids": [
+    "506675",
+    "506676",
+    "506677",
+    "506678",
+    "502888",
+    "502889",
+    "502891",
+    "502893",
+    "502895",
+    "502896",
+    "502897",
+    "502898",
+    "502900",
+    "502901",
+    "502902",
+    "502903",
+    "502904",
+    "502905",
+    "503342"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10049"
+  ],
+  "series_slug": "airdrops"
+}

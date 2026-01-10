@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:11:28.042122Z",
+  "market_createdAt": "2024-08-26T20:11:28.042122Z",
+  "market_updatedAt": "2024-09-08T05:26:57.152985Z",
+  "market_startDate": "2024-09-06T12:00:00Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 05:56:28+00",
+  "conditionId": "0xabb102227925a54804e3bf05e074e8065251bd34d23ded396252118b891216aa",
+  "slug": "nfl-phi-gb-2024-09-06",
+  "question": "Eagles vs. Packers"
+}

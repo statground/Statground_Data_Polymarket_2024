@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T19:42:17.247230Z",
+  "market_createdAt": "2024-07-22T19:42:17.24723Z",
+  "market_updatedAt": "2024-07-26T00:14:42.799765Z",
+  "market_startDate": "2024-07-22T20:15:43.571Z",
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-25 06:58:12+00",
+  "conditionId": "0x53b1a914d24c65705d375d73476697351b0b740e021c70ff41959e6e5a4aaecf",
+  "slug": "will-biden-address-the-nation-on-saturday-or-later",
+  "question": "Will Biden address the nation on Saturday or later?"
+}

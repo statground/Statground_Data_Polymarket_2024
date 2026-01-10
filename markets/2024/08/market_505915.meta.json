@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:25:31.630028Z",
+  "market_createdAt": "2024-08-27T19:25:31.630028Z",
+  "market_updatedAt": "2024-08-29T20:07:13.142376Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:41:22+00",
+  "conditionId": "0x51bd8218c981702e8c5f67b34a30d27bbfa2b6467d203246a5a7e6aa694d4e30",
+  "slug": "will-jd-vance-say-nafta-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"NAFTA\" during Pennsylvania rally?"
+}

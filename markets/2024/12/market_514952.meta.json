@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T18:02:59.478806Z",
+  "market_createdAt": "2024-12-06T18:02:59.478806Z",
+  "market_updatedAt": "2025-01-02T04:23:13.7618Z",
+  "market_startDate": "2024-12-06T18:32:54.898652Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:22:02+00",
+  "conditionId": "0x2dfdcea26676118a7494660e2a8f122b7e2cad026c7a1785c86a9c3924e4358d",
+  "slug": "pumpfun-banned-in-the-us-before-2025",
+  "question": "Pump.fun banned in the US before 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T21:13:36.278020Z",
+  "market_createdAt": "2024-12-30T21:13:36.27802Z",
+  "market_updatedAt": "2026-01-04T22:41:46.141106Z",
+  "market_startDate": "2024-12-30T22:09:05.775Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-13 16:45:33+00",
+  "conditionId": "0xc8fa240c93cf58a165b94d9a6fa04ac04ff06008861e23f500d59cb59ee466bd",
+  "slug": "will-ethereum-dip-to-3000-by-december-31-277-157-883-847-373",
+  "question": "Will Ethereum dip to $3,000 by December 31?"
+}

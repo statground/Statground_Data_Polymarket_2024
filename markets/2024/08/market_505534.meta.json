@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505534",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:58:08.808270Z",
+  "market_createdAt": "2024-08-21T14:58:08.80827Z",
+  "market_updatedAt": "2024-08-23T02:11:06.768414Z",
+  "market_startDate": "2024-08-21T16:50:54.605Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:51:30+00",
+  "conditionId": "0x21bc013c0730baaa0a74ee98c67abeb4e2b80b3bc3a2f5bd3bb4007548d6cce5",
+  "slug": "will-bill-clinton-say-peace-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Peace\" at DNC speech?"
+}

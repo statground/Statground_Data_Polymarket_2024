@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T15:55:55.259596Z",
+  "market_createdAt": "2024-06-03T15:55:55.259596Z",
+  "market_updatedAt": "2025-01-01T07:50:52.771345Z",
+  "market_startDate": "2024-06-03T15:55:55.259596Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:47:58+00",
+  "conditionId": "0x801ecfd9a08b8acde04c7706aaae23ecf6c880214290cbdde99149416406dd8d",
+  "slug": "fauci-jail-in-2024",
+  "question": "Fauci jail in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:30:17.662696Z",
+  "market_createdAt": "2024-10-07T19:30:17.662696Z",
+  "market_updatedAt": "2025-05-23T23:01:21.710509Z",
+  "market_startDate": "2024-10-08T14:58:50.693905Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-10 07:01:32+00",
+  "conditionId": "0x1cdb1b16949129d7a2b9f044cc6cc6e2b13daa9a2a15e483f171fbe0f31db340",
+  "slug": "will-the-utah-hockey-club-win-the-2025-stanley-cup",
+  "question": "Will the Utah Hockey Club win the 2025 Stanley Cup?"
+}

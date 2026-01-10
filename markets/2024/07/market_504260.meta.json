@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T14:26:12.382024Z",
+  "market_createdAt": "2024-07-29T14:26:12.382024Z",
+  "market_updatedAt": "2024-09-02T05:07:05.299623Z",
+  "market_startDate": "2024-07-29T15:38:25.968Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:04:53+00",
+  "conditionId": "0x2810be48e5afc472906fe6cd4609eff3e95a091be7954ed481c4631db976f5d4",
+  "slug": "will-btc-reach-80k-before-september",
+  "question": "Will $BTC reach 80k before September?"
+}

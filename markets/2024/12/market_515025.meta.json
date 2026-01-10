@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T23:01:43.781147Z",
+  "market_createdAt": "2024-12-06T23:01:43.781147Z",
+  "market_updatedAt": "2024-12-10T00:55:13.489771Z",
+  "market_startDate": "2024-12-06T23:25:07.031601Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 02:18:30+00",
+  "conditionId": "0xb2139f7e26ff52a72203085be460112272e151c6e0f16b8d77b908131467565e",
+  "slug": "will-the-49ers-and-bears-combine-for-45-or-more-points",
+  "question": "Will the 49ers and Bears combine for 45 or more points?"
+}

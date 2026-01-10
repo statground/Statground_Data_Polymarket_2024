@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:31:26.880000Z",
+  "market_createdAt": "2024-03-05T05:31:26.88Z",
+  "market_updatedAt": "2024-04-26T02:55:01.008582Z",
+  "market_startDate": "2024-03-05T06:04:02.744Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:17:56+00",
+  "conditionId": "0x751659f2806566effdfd5239941250ba59f6c371b0d7e656bf3f1b7916652e1c",
+  "slug": "will-trump-win-texas-republican-primary",
+  "question": "Will Trump win Texas Republican Primary?"
+}

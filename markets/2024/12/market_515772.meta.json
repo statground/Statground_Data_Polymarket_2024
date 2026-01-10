@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:29:51.809452Z",
+  "market_createdAt": "2024-12-16T19:29:51.809452Z",
+  "market_updatedAt": "2025-02-06T21:47:04.169829Z",
+  "market_startDate": "2024-12-16T23:26:07.072205Z",
+  "market_endDate": "2025-03-16T12:00:00Z",
+  "market_closedTime": "2025-02-06 01:18:29+00",
+  "conditionId": "0x1e451f3108db3772b6828fc1644754b454847692202d019db19c1d89b26a2ae1",
+  "slug": "will-arsenal-win-the-2024-carabao-cup",
+  "question": "Will Arsenal win the 2024 Carabao Cup?"
+}

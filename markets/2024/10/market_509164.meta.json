@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:13:10.135374Z",
+  "market_createdAt": "2024-10-07T22:13:10.135374Z",
+  "market_updatedAt": "2024-10-09T19:16:54.366176Z",
+  "market_startDate": "2024-10-07T22:51:32.441624Z",
+  "market_endDate": "2024-10-08T12:00:00Z",
+  "market_closedTime": "2024-10-08 21:01:36+00",
+  "conditionId": "0x59efd88ac87e4ec161fdc090ff5784a0e5bfcfdaf5fcd32e77bb64659328ce4e",
+  "slug": "will-vance-say-helene-during-detroit-rally-on-october-8",
+  "question": "Will Vance say \"Helene\" during Detroit rally on October 8?"
+}

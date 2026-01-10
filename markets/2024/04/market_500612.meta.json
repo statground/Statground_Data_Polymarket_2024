@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T13:40:17.774165Z",
+  "market_createdAt": "2024-04-02T13:40:17.774165Z",
+  "market_updatedAt": "2024-05-07T23:09:10.407612Z",
+  "market_startDate": "2024-04-02T17:24:47.559Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 17:26:11+00",
+  "conditionId": "0xe1e17fe6349bfd6fbdbff1406308de46dd9f7f2c801fa109d6be170fdec9ddee",
+  "slug": "trump-violates-gag-order",
+  "question": "Trump violates gag order?"
+}

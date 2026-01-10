@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502160",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T14:42:14.653813Z",
+  "market_createdAt": "2024-06-06T14:42:14.653813Z",
+  "market_updatedAt": "2024-06-08T04:51:13.451145Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-06T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:24+00",
+  "conditionId": "0x93e7a3ccd4e324cd391ee1d81fb7f2705d8a8af2ea6805e7120a45ae29f0c9fc",
+  "slug": "nba-finals-game-1-celtics-6pt5",
+  "question": "NBA Finals Game 1: Celtics -6.5 "
+}

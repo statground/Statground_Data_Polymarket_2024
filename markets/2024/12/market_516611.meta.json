@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:05:47.131383Z",
+  "market_createdAt": "2024-12-29T05:05:47.131383Z",
+  "market_updatedAt": "2025-01-04T04:54:46.35461Z",
+  "market_startDate": "2024-12-29T05:08:21.214727Z",
+  "market_endDate": "2025-01-10T00:30:00Z",
+  "market_closedTime": "2025-01-03 05:23:53+00",
+  "conditionId": "0xdc39f8d1e29de957cc6939c06afc9f91f4cedf963c4aa8f6104a8ee269197575",
+  "slug": "nba-bos-min-2025-01-02",
+  "question": "Celtics vs. Timberwolves"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:19:00.938752Z",
+  "market_createdAt": "2024-11-08T23:19:00.938752Z",
+  "market_updatedAt": "2024-11-11T18:02:56.117511Z",
+  "market_startDate": "2024-11-09T02:56:32.946759Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:37:21+00",
+  "conditionId": "0x2097037897957e24c38a7bb2b1044f2a49513da648bd7923fa6ff158320694c8",
+  "slug": "will-the-commanders-beat-the-steelers-by-3-or-more-points",
+  "question": "Will the Commanders beat the Steelers by 3 or more points?"
+}

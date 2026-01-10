@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T18:00:01.548329Z",
+  "market_createdAt": "2024-09-19T18:00:01.548329Z",
+  "market_updatedAt": "2024-10-30T04:32:57.825989Z",
+  "market_startDate": "2024-09-20T14:21:55.347Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-29 09:13:42+00",
+  "conditionId": "0xb09bf034c632a9f96c1d259ba1c02a9cabb93e393720b88c4edee78091da22b1",
+  "slug": "will-the-greens-win-a-plurality-in-the-2024-british-columbia-general-election",
+  "question": "Will the Greens win the most seats in the 2024 British Columbia general election?"
+}

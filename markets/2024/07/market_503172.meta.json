@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T16:22:15.431462Z",
+  "market_createdAt": "2024-07-03T16:22:15.431462Z",
+  "market_updatedAt": "2024-07-07T05:45:47.963363Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 06:00:41+00",
+  "conditionId": "0x676a573fade0457d57f18774c5250b8696342c1ee8602b62a85b763f64302029",
+  "slug": "biden-drops-out-by-friday-July-5",
+  "question": "Biden drops out by Friday? "
+}

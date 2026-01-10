@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505891",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:20:47.272753Z",
+  "market_createdAt": "2024-08-27T15:20:47.272753Z",
+  "market_updatedAt": "2024-09-23T21:46:45.239031Z",
+  "market_startDate": "2024-08-27T15:20:47.272753Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-23 05:18:44+00",
+  "conditionId": "0x8d8ad082c1d87aaff5d45f678ef0e6b5acf8ffca4e1e32798eda56b35e914c78",
+  "slug": "will-the-chicago-cubs-win-the-world-series",
+  "question": "Will the Chicago Cubs win the World Series?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T20:48:42.306977Z",
+  "market_createdAt": "2024-08-07T20:48:42.306977Z",
+  "market_updatedAt": "2024-12-18T19:47:24.585019Z",
+  "market_startDate": "2024-08-08T17:59:18.862Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:02:28+00",
+  "conditionId": "0x32f8d40aaacb6b8b94395555d1e82ee75a84ba5e62e15ab2966b78b5e2f332a4",
+  "slug": "gop-wins-popular-vote-by-3-4",
+  "question": "GOP wins popular vote by 3-4%?"
+}

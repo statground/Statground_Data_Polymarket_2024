@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505453",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:47:24.225813Z",
+  "market_createdAt": "2024-08-20T19:47:24.225813Z",
+  "market_updatedAt": "2024-08-22T20:57:04.594062Z",
+  "market_startDate": "2024-08-20T20:37:36.011Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:12:31+00",
+  "conditionId": "0x37638c58527bc86e465aa9b60fc3dccb3c18f11bfaf2b2e497043b30c03fe783",
+  "slug": "will-trump-say-oil-during-wednesday-speech",
+  "question": "Will Trump say \"oil\" during Wednesday speech?"
+}

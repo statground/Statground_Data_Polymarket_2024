@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T04:51:48.923136Z",
+  "market_createdAt": "2024-10-30T04:51:48.923136Z",
+  "market_updatedAt": "2024-12-04T19:57:18.019866Z",
+  "market_startDate": "2024-10-30T15:17:43.357479Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-03 21:37:15+00",
+  "conditionId": "0x2bc20992871d34d722d7501bba8b3c3def3f8436a0e1d863cce7e7d3866ba4ce",
+  "slug": "will-trump-do-better-in-ohio-or-texas",
+  "question": "Will Trump do better in Ohio or Texas?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:40:21.407173Z",
+  "market_createdAt": "2024-11-26T08:40:21.407173Z",
+  "market_updatedAt": "2024-11-30T00:31:27.536587Z",
+  "market_startDate": "2024-11-26T23:06:26.688661Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:20:14+00",
+  "conditionId": "0xa8e44b59ad19361859f95ccf03b2c37e3f7fd10a0f03f82d9402d73797a4880d",
+  "slug": "will-rangers-beat-nice",
+  "question": "Will Rangers beat Nice?"
+}

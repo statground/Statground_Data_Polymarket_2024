@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:04:57.506201Z",
+  "market_createdAt": "2024-11-06T22:04:57.506201Z",
+  "market_updatedAt": "2025-01-21T20:27:09.688686Z",
+  "market_startDate": "2024-11-06T23:12:40.695Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:39:12+00",
+  "conditionId": "0x90b81ea9f838366419d5a207f2d64bb0076f5468e98d53964dd4ee02c31ac686",
+  "slug": "will-george-w-bush-attend-presidential-inauguration",
+  "question": "Will George W. Bush attend presidential inauguration?"
+}

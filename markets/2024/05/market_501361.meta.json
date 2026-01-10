@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:32:59.596478Z",
+  "market_createdAt": "2024-05-02T18:32:59.596478Z",
+  "market_updatedAt": "2024-08-09T01:42:54.528686Z",
+  "market_startDate": "2024-05-02T21:30:14.956Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-08 01:38:44+00",
+  "conditionId": "0x65e20e8a7129820960a86c87e956e710829804eb762ed2238e4af300ccd4fd31",
+  "slug": "will-royce-kinniebrew-win-the-mi-12-democratic-house-primary",
+  "question": "Will Royce Kinniebrew win the MI-12 Democratic House Primary?"
+}

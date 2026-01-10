@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T20:24:54.720943Z",
+  "market_createdAt": "2024-05-24T20:24:54.720943Z",
+  "market_updatedAt": "2024-05-31T19:06:18.943558Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-05-31 02:05:56+00",
+  "conditionId": "0xd3823f67052655d3fec819713ad8e1848688574727bc0657ebf5627826768863",
+  "slug": "will-founding-fathers-lan-be-canceled-or-end-in-a-draw",
+  "question": "Will Founding Fathers Lan be canceled or end in a draw?"
+}

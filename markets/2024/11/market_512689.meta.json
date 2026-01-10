@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:05:31.522885Z",
+  "market_createdAt": "2024-11-11T18:05:31.522885Z",
+  "market_updatedAt": "2024-11-15T04:57:00.549105Z",
+  "market_startDate": "2024-11-11T18:08:00.481647Z",
+  "market_endDate": "2024-11-21T01:00:00Z",
+  "market_closedTime": "2024-11-14 05:55:43+00",
+  "conditionId": "0x3d9ca7e756dd2babaaebbd1e684a7cfc3b61861af874f31cb42e448245182e74",
+  "slug": "nba-det-mil-2024-11-13",
+  "question": "Pistons vs. Bucks"
+}

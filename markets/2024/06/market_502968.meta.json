@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T16:09:32.615104Z",
+  "market_createdAt": "2024-06-28T16:09:32.615104Z",
+  "market_updatedAt": "2024-06-30T01:01:05.599277Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-29 06:02:43+00",
+  "conditionId": "0x80b9f90547b2276e5f04a9b32e0d5cb8406ed1e43ffb82357de69972cee56331",
+  "slug": "will-paraguay-win-jun-28",
+  "question": "Will Paraguay win?"
+}

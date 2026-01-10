@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T15:56:54.298652Z",
+  "market_createdAt": "2024-04-16T15:56:54.298652Z",
+  "market_updatedAt": "2024-05-07T23:09:14.867152Z",
+  "market_startDate": "2024-04-16T16:53:38.264Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 00:09:13+00",
+  "conditionId": "0x79e0b8e85c5af2d75c51ef4f17a2c7837e0f4ac717ecd161a1dd8e1b9fdfb85d",
+  "slug": "djt-market-cap-between-4b-and-5b-on-april-30",
+  "question": "$DJT market cap between $4b and $5b on April 30?"
+}

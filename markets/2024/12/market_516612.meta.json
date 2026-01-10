@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:05:57.293323Z",
+  "market_createdAt": "2024-12-29T05:05:57.293323Z",
+  "market_updatedAt": "2025-01-04T04:34:52.161137Z",
+  "market_startDate": "2024-12-29T05:08:25.29074Z",
+  "market_endDate": "2025-01-10T00:30:00Z",
+  "market_closedTime": "2025-01-03 05:33:25+00",
+  "conditionId": "0x6f54c2e455dfe89694c27dd73fc7546ccb086ee7c200651a7d37c5e4de2721a0",
+  "slug": "nba-ind-mia-2025-01-02",
+  "question": "Pacers vs. Heat"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513163",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:08:26.440642Z",
+  "market_createdAt": "2024-11-15T19:08:26.440642Z",
+  "market_updatedAt": "2024-11-17T21:15:26.15343Z",
+  "market_startDate": "2024-11-15T22:07:44.85385Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-11-16 23:05:52+00",
+  "conditionId": "0x8a21475ece365dca0dbde91b4413fb0c4090351cb5a01e771c7ba5ec0adb7442",
+  "slug": "will-clemson-beat-pitt",
+  "question": "Will Clemson beat Pitt?"
+}

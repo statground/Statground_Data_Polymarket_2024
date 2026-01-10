@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:15:49.724678Z",
+  "market_createdAt": "2024-12-04T21:15:49.724678Z",
+  "market_updatedAt": "2024-12-09T04:35:22.808126Z",
+  "market_startDate": "2024-12-04T21:19:07.813099Z",
+  "market_endDate": "2024-12-15T01:00:00Z",
+  "market_closedTime": "2024-12-08 05:40:27+00",
+  "conditionId": "0x929eb56aa8f6e910ca5de736d7ec1393455a5331c5e945e935965f2c9e02801f",
+  "slug": "nhl-min-lak-2024-12-07",
+  "question": "Wild vs. Kings"
+}

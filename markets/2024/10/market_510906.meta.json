@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T01:41:25.879841Z",
+  "market_createdAt": "2024-10-25T01:41:25.879841Z",
+  "market_updatedAt": "2025-01-01T15:45:13.82555Z",
+  "market_startDate": "2024-10-25T15:32:02.47133Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 04:45:53+00",
+  "conditionId": "0x4585d0aace66b55b7c8063c01eb58a471feaf99f0f390a33bcd2919faea4eac7",
+  "slug": "will-gold-close-at-3000-3100-at-the-end-of-2024",
+  "question": "Will Gold close at $3,000-3,100 at the end of 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:24:30.727378Z",
+  "market_createdAt": "2024-11-21T22:24:30.727378Z",
+  "market_updatedAt": "2024-12-16T02:13:28.743562Z",
+  "market_startDate": "2024-11-25T18:30:58.611271Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-15 03:31:23+00",
+  "conditionId": "0x499299bd92a72b4d8445b1c1faa084d51db1e237d64071bef1d679f0a13ab87f",
+  "slug": "will-the-atlanta-hawks-win-the-2024-nba-cup",
+  "question": "Will the Atlanta Hawks win the 2024 NBA Cup?"
+}

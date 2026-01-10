@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T19:59:18.496817Z",
+  "market_createdAt": "2024-08-05T19:59:18.496817Z",
+  "market_updatedAt": "2024-08-07T20:36:47.110018Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 20:48:23+00",
+  "conditionId": "0xdf04ec6d59c42fea03d2d3fbd37c7c2fdaa9621ca38d59aa99af316d6dfba03d",
+  "slug": "olympic-basketball-canada-vs-france",
+  "question": "Olympic Basketball: Canada vs. France"
+}

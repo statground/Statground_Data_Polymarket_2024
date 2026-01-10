@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:02:26.695087Z",
+  "market_createdAt": "2024-11-17T05:02:26.695087Z",
+  "market_updatedAt": "2024-11-20T07:31:07.628226Z",
+  "market_startDate": "2024-11-17T05:04:55.247466Z",
+  "market_endDate": "2024-11-26T03:00:00Z",
+  "market_closedTime": "2024-11-19 07:28:04+00",
+  "conditionId": "0x8188ac392a9b715fb0e26d96e459dd8770134765126abccca2dffb76ab764616",
+  "slug": "nba-atl-sac-2024-11-18",
+  "question": "Hawks vs. Kings"
+}

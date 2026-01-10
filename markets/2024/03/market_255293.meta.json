@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:31:26.880000Z",
+  "market_createdAt": "2024-03-05T05:31:26.88Z",
+  "market_updatedAt": "2024-04-22T22:33:56.506144Z",
+  "market_startDate": "2024-03-05T06:04:07.296Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 12:30:37+00",
+  "conditionId": "0x37d4d5593425b3cf048bff7cbe876970902cbee382a3d2c9a0b94d076a8921bd",
+  "slug": "will-trump-win-utah-republican-primary",
+  "question": "Will Trump win Utah Republican Primary?"
+}

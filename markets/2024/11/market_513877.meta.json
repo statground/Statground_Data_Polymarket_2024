@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:16:37.079192Z",
+  "market_createdAt": "2024-11-24T18:16:37.079192Z",
+  "market_updatedAt": "2024-12-02T16:23:15.725401Z",
+  "market_startDate": "2024-11-24T18:19:39.289106Z",
+  "market_endDate": "2024-12-01T13:30:00Z",
+  "market_closedTime": "2024-12-01 18:43:41+00",
+  "conditionId": "0x9a338c428ba1c38c4a070ec3d57d9ab8cbf04311885cb0e653baf43ffaf08f36",
+  "slug": "epl-tot-ful-2024-12-01-draw",
+  "question": "Will Tottenham vs. Fulham end in a draw?"
+}

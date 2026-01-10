@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:22:59.271148Z",
+  "market_createdAt": "2024-09-06T15:22:59.271148Z",
+  "market_updatedAt": "2024-09-08T16:03:12.079533Z",
+  "market_startDate": "2024-09-06T18:15:57.148026Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 21:42:48+00",
+  "conditionId": "0xc1f6ab5968ddabb661e7470478a35d0d13e32a20c9d137f75fafe143d751dd1f",
+  "slug": "will-texas-win-by-8-or-more-points",
+  "question": "Will Texas win by 8 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-07T11:09:19.792000Z",
+  "market_createdAt": "2024-01-07T11:09:19.792Z",
+  "market_updatedAt": "2024-04-26T02:56:39.012273Z",
+  "market_startDate": "2024-01-07T11:10:48.124Z",
+  "market_endDate": "2024-01-31T00:00:00Z",
+  "market_closedTime": "2024-02-01 07:15:43+00",
+  "conditionId": "0xfd8baf626898905d6c2b5666017232cb812d4c51a1cf71dcb9ab0a23af8db4ed",
+  "slug": "neri-oxmans-mit-degree-revoked",
+  "question": "Neri Oxman's MIT degree revoked?"
+}

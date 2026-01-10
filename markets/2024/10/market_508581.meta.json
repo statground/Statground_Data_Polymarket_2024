@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:39:10.591292Z",
+  "market_createdAt": "2024-10-01T18:39:10.591292Z",
+  "market_updatedAt": "2024-10-06T18:42:46.030766Z",
+  "market_startDate": "2024-10-02T15:20:44.831183Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 21:46:59+00",
+  "conditionId": "0xe2876acb20e34494ebd298a139a9089be9c7b6892c79bd39af38a465e8370f56",
+  "slug": "will-everton-beat-newcastle",
+  "question": "Will Everton beat Newcastle?"
+}

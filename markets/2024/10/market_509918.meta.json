@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509918",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:59:25.329966Z",
+  "market_createdAt": "2024-10-15T18:59:25.329966Z",
+  "market_updatedAt": "2025-05-25T08:24:43.150556Z",
+  "market_startDate": "2024-10-15T22:44:40.602623Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-24 01:46:17+00",
+  "conditionId": "0xf9fa144b00322251e55f4f93d52baeac98da7574bf4335581f93482959f068df",
+  "slug": "will-napoli-win-the-serie-a",
+  "question": "Will Napoli win the Serie A?"
+}

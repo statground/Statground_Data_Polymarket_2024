@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:43:52.718416Z",
+  "market_createdAt": "2024-10-18T20:43:52.718416Z",
+  "market_updatedAt": "2024-10-21T23:07:12.720445Z",
+  "market_startDate": "2024-10-18T23:16:02.519165Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:38:26+00",
+  "conditionId": "0xc47591e36108bf4952dced84f14ecb0041b4831cc3c60b235d296d2abdb221d1",
+  "slug": "will-trump-say-russia-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Russia\" during Pennsylvania town hall on October 20?"
+}

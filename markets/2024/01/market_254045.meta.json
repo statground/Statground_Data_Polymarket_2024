@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-22T16:48:13.192000Z",
+  "market_createdAt": "2024-01-22T16:48:13.192Z",
+  "market_updatedAt": "2024-01-24T18:07:54.335Z",
+  "market_startDate": "2024-01-22T17:04:00Z",
+  "market_endDate": "2024-01-21T00:00:00Z",
+  "market_closedTime": "2024-01-24 07:17:42+00",
+  "conditionId": "0x465fb00aa7b5fe2c6d6f594d6b56d06cfc3b9c0226ffea3ac041fbbe7d4a8dfd",
+  "slug": "will-another-candidate-win-the-new-hampshire-democratic-primary",
+  "question": "Will another candidate win the New Hampshire Democratic primary?"
+}

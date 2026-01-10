@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:13:22.569871Z",
+  "market_createdAt": "2024-10-15T19:13:22.569871Z",
+  "market_updatedAt": "2024-10-18T04:26:45.58953Z",
+  "market_startDate": "2024-10-15T20:43:00.901Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:22:07+00",
+  "conditionId": "0xf8ce7dad3091a15c5c63ad0aab0750e9b2584d5f10b70d68d78ae4c1c6eb9a52",
+  "slug": "will-trump-say-nafta-during-univision-town-hall",
+  "question": "Will Trump say \"NAFTA\" during Univision town hall?"
+}

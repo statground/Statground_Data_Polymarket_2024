@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:12:12.840936Z",
+  "market_createdAt": "2024-11-07T17:12:12.840936Z",
+  "market_updatedAt": "2024-11-24T05:43:23.47045Z",
+  "market_startDate": "2024-11-07T18:10:23.67971Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:50:21+00",
+  "conditionId": "0xed575f43c4a742990fb359be4ddbf1f23c577b3e4613876fa8154503241127af",
+  "slug": "will-trump-nominate-ben-carson-for-hud-secretary",
+  "question": "Will Trump nominate Ben Carson for HUD Secretary?"
+}

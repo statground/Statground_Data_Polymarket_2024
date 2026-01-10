@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:19:05.446328Z",
+  "market_createdAt": "2024-09-24T15:19:05.446328Z",
+  "market_updatedAt": "2025-05-24T06:31:06.219542Z",
+  "market_startDate": "2024-09-24T17:05:00.671Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-17 08:02:07+00",
+  "conditionId": "0xd1cfd61da9ac8931fc3aa48ad05eb9687e6f925a15502eb23a04e0174d2c9f30",
+  "slug": "will-the-boston-celtics-win-the-2025-nba-finals",
+  "question": "Will the Boston Celtics win the 2025 NBA Finals?"
+}

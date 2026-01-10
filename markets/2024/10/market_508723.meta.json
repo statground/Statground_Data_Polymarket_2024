@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:21:56.751874Z",
+  "market_createdAt": "2024-10-02T20:21:56.751874Z",
+  "market_updatedAt": "2024-10-10T19:10:46.340547Z",
+  "market_startDate": "2024-10-02T21:47:21.053051Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-09 19:36:56+00",
+  "conditionId": "0x3748dce1779322f2e973a7367a3cb67e72d1eecdc744f9e88323c28350d84d5e",
+  "slug": "will-astralis-win-iem-rio-2024",
+  "question": "Will Astralis win IEM Rio 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:21:26.781246Z",
+  "market_createdAt": "2024-10-29T19:21:26.781246Z",
+  "market_updatedAt": "2024-11-01T03:52:57.582219Z",
+  "market_startDate": "2024-10-29T20:07:05.582489Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-31 04:08:46+00",
+  "conditionId": "0x457fbe4668e41a4af3b6d61dff7b83effaafa3db842d3a28f567f99fd3add7f9",
+  "slug": "will-trump-say-kamala-8-or-more-times-during-hannity-interview",
+  "question": "Will Trump say \"Kamala\" 8 or more times during Hannity interview?"
+}

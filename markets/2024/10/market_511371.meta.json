@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T21:21:29.138812Z",
+  "market_createdAt": "2024-10-29T21:21:29.138812Z",
+  "market_updatedAt": "2024-11-06T07:31:13.740953Z",
+  "market_startDate": "2024-10-29T22:00:22.231722Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:33:07+00",
+  "conditionId": "0xa6f4dbecc4723d0a00155da852262064a5edd24158c6262c39fc413be223e3c4",
+  "slug": "bitcoin-hits-80k-before-election",
+  "question": "Bitcoin hits $80k before election?"
+}

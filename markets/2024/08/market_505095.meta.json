@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:03:39.030531Z",
+  "market_createdAt": "2024-08-14T16:03:39.030531Z",
+  "market_updatedAt": "2024-08-17T00:26:58.768601Z",
+  "market_startDate": "2024-08-14T17:27:54.714Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 00:23:57+00",
+  "conditionId": "0x689b430f361789cd5c61b5d131d5e16a77df2e52bb6545f0acfa7821dcc885b3",
+  "slug": "will-trump-say-fire-or-fired-at-his-press-conference",
+  "question": "Will Trump say \"Fire\" or \"Fired\" at his press conference?"
+}

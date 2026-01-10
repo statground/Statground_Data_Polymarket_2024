@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:11:18.290707Z",
+  "market_createdAt": "2024-12-02T19:11:18.290707Z",
+  "market_updatedAt": "2024-12-08T17:13:36.214346Z",
+  "market_startDate": "2024-12-02T19:14:33.484684Z",
+  "market_endDate": "2024-12-07T15:00:00Z",
+  "market_closedTime": "2024-12-07 20:08:05+00",
+  "conditionId": "0x1e712be8333ae2c4674d07867ade2d701c6588823e6eeaf509037cf0b24510f6",
+  "slug": "epl-ast-sou-2024-12-07-draw",
+  "question": "Will Aston Villa vs. Southampton end in a draw?"
+}

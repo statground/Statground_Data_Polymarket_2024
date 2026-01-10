@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:55:33.028864Z",
+  "market_createdAt": "2024-09-17T17:55:33.028864Z",
+  "market_updatedAt": "2024-09-24T08:56:43.43699Z",
+  "market_startDate": "2024-09-17T21:09:41.96872Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-23 10:35:11+00",
+  "conditionId": "0x1613f9bb6e7470062db5a1c948b7661263652b7cb6ecef88bea8a7f11817d041",
+  "slug": "will-bsw-win-the-most-votes-in-the-2024-brandenburg-election",
+  "question": "Will BSW win the most votes in the 2024 Brandenburg election?"
+}

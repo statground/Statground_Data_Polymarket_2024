@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T19:29:35.923659Z",
+  "market_createdAt": "2024-03-20T19:29:35.923659Z",
+  "market_updatedAt": "2024-05-07T23:10:07.851499Z",
+  "market_startDate": "2024-04-03T18:14:51.534Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 21:14:06+00",
+  "conditionId": "0x23a9be32693bd427cce236d5af3e9f86aa38776e3ff4823faa7f51443d1a5647",
+  "slug": "no-change-in-fed-raise-interest-rates-after-its-2024-aprilmay-meeting",
+  "question": "No change in Fed interest rates after 2024 May meeting?"
+}

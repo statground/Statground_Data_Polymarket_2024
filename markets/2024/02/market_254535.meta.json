@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:17:46.537000Z",
+  "market_createdAt": "2024-02-20T18:17:46.537Z",
+  "market_updatedAt": "2024-05-12T22:48:53.689423Z",
+  "market_startDate": "2024-02-21T00:31:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:10:31+00",
+  "conditionId": "0x726f39aac3995613989ebd81f6026b4e49faee8bafcc163217d3a8de9a788eee",
+  "slug": "will-ukraine-win-eurovision-2024",
+  "question": "Will Ukraine win Eurovision 2024?"
+}

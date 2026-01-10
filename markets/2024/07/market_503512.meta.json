@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:32:57.801154Z",
+  "market_createdAt": "2024-07-15T19:32:57.801154Z",
+  "market_updatedAt": "2024-12-18T06:13:15.401792Z",
+  "market_startDate": "2024-07-16T18:05:58.879Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:17:54+00",
+  "conditionId": "0x4b028b2eb6290dac3f4a2107552ef6c8ffcf20386b14e4774b2cd485e63c3583",
+  "slug": "will-wisconsin-be-the-tipping-point-state",
+  "question": "Will Wisconsin be the tipping point state?"
+}

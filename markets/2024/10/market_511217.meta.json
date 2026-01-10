@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511217",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:42:44.124708Z",
+  "market_createdAt": "2024-10-28T20:42:44.124708Z",
+  "market_updatedAt": "2024-11-01T03:36:56.23717Z",
+  "market_startDate": "2024-10-28T20:45:26.710979Z",
+  "market_endDate": "2024-10-30T23:00:00Z",
+  "market_closedTime": "2024-10-31 03:53:20+00",
+  "conditionId": "0x2c103a2a430fbce500bf82afdd20d600e657dc326c65ff6ea9cf33f32ed9aa3f",
+  "slug": "nba-tor-cha-2024-10-30",
+  "question": "Raptors vs. Hornets"
+}

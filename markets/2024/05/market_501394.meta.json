@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T18:08:26.911844Z",
+  "market_createdAt": "2024-05-03T18:08:26.911844Z",
+  "market_updatedAt": "2024-05-05T07:21:25.413442Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:20:00+00",
+  "conditionId": "0x83fca8e3fedc2fa55d7ae33d61a61c92afb69078afe8b9e6e3015158be1f0539",
+  "slug": "will-another-horse-win-the-2024-kentucky-derby-1",
+  "question": "Will another horse win the 2024 Kentucky Derby?"
+}

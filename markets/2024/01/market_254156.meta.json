@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-26T15:27:12.974000Z",
+  "market_createdAt": "2024-01-26T15:27:12.974Z",
+  "market_updatedAt": "2024-02-05T07:37:19.669Z",
+  "market_startDate": "2024-01-26T21:03:00Z",
+  "market_endDate": "2024-02-02T00:00:00Z",
+  "market_closedTime": "2024-02-05 07:32:41+00",
+  "conditionId": "0x798b55c7087c513b52041b735286d18e772f7c2ad0e7cde7d276f0e24091cd58",
+  "slug": "grammys-2024-will-fred-again-win-best-new-artist",
+  "question": "GRAMMYs 2024: Will Fred Again win Best New Artist?"
+}

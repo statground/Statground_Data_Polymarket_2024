@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T19:53:20.472186Z",
+  "market_createdAt": "2024-08-16T19:53:20.472186Z",
+  "market_updatedAt": "2024-11-02T02:11:15.36365Z",
+  "market_startDate": "2024-08-16T21:04:54.877Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 09:14:49+00",
+  "conditionId": "0xdf2cf66c49a15e646079c5c3823d97bfdaa607c6111bd4cc508f5db980809368",
+  "slug": "100-monkeypox-cases-in-us-by-october-31",
+  "question": "100+ monkeypox cases in US by October 31?"
+}

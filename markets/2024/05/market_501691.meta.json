@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T15:32:13.435237Z",
+  "market_createdAt": "2024-05-20T15:32:13.435237Z",
+  "market_updatedAt": "2024-06-01T02:41:09.919865Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-03T12:00:00Z",
+  "market_closedTime": "2024-05-31 05:06:00+00",
+  "conditionId": "0xbf3aa5f187e6fda6d97f435b3f8d55a7cae77eb1c2c34ee31aa4aceebd809740",
+  "slug": "western-conference-finals-timberwolves-vs-mavericks",
+  "question": "Western Conference Finals: Timberwolves vs. Mavericks"
+}

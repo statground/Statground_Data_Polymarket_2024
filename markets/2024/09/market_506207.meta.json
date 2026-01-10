@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-01T20:01:31.070055Z",
+  "market_createdAt": "2024-09-01T20:01:31.070055Z",
+  "market_updatedAt": "2024-09-04T04:23:08.732377Z",
+  "market_startDate": "2024-09-01T22:08:39.341049Z",
+  "market_endDate": "2024-09-02T12:00:00Z",
+  "market_closedTime": "2024-09-03 05:58:49+00",
+  "conditionId": "0x782abf611e0b61afc730d1eeb8396123c11bf743631d1d0a34ad062446e52d4f",
+  "slug": "us-open-sinner-vs-paul",
+  "question": "US Open: Sinner vs. Paul"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T22:07:26.522695Z",
+  "market_createdAt": "2024-08-07T22:07:26.522695Z",
+  "market_updatedAt": "2024-08-11T01:26:55.297759Z",
+  "market_startDate": "2024-08-09T12:00:00Z",
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-10 04:42:42+00",
+  "conditionId": "0xc350c67905c6c3b294f7d0296a27af3b221f2f53ace61817281ef9bd2f7ae059",
+  "slug": "nfl-mia-atl-2024-08-09",
+  "question": "Dolphins vs. Falcons"
+}

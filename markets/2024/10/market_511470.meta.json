@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T22:37:34.303229Z",
+  "market_createdAt": "2024-10-30T22:37:34.303229Z",
+  "market_updatedAt": "2024-11-03T00:37:08.096831Z",
+  "market_startDate": "2024-11-01T16:02:03.31141Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 00:57:20+00",
+  "conditionId": "0x1e3dffa82845b66d12cbae05c020e7a5f2c19b854f1e54300a7d17eb31c594a6",
+  "slug": "will-trump-say-god-5-or-more-during-warren-mi-rally",
+  "question": "Will Trump say \"god\" 5 or more during Warren, MI rally?"
+}

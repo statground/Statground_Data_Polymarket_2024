@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:10:39.773650Z",
+  "market_createdAt": "2024-11-11T18:10:39.77365Z",
+  "market_updatedAt": "2024-11-18T05:03:03.56487Z",
+  "market_startDate": "2024-11-11T18:13:17.020183Z",
+  "market_endDate": "2024-11-24T01:00:00Z",
+  "market_closedTime": "2024-11-17 05:41:39+00",
+  "conditionId": "0xc6b1a3888b1847b8bc3603cf443ae52a5b3a9c5a7fd46f38e1feb6a714daf6b6",
+  "slug": "nba-tor-bos-2024-11-16",
+  "question": "Raptors vs. Celtics"
+}

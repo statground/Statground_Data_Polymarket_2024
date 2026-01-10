@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T20:10:53.802094Z",
+  "market_createdAt": "2024-04-01T20:10:53.802094Z",
+  "market_updatedAt": "2024-05-07T23:10:10.068762Z",
+  "market_startDate": "2024-04-02T01:22:39.579Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-16 06:04:22+00",
+  "conditionId": "0xd8c01ed68ac0e8d318cbc1bd50464178a118ce4521b05ed2dbdff153cc1aa0c8",
+  "slug": "feds-raid-jennifer-lopez-by-april-15",
+  "question": "Feds raid Jennifer Lopez by April 15?"
+}

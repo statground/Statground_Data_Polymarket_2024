@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:11:09.294024Z",
+  "market_createdAt": "2024-07-22T17:11:09.294024Z",
+  "market_updatedAt": "2024-07-29T07:07:02.081614Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 07:14:04+00",
+  "conditionId": "0xd697ba588e0be2e4fbc6292b3f4b7d0df7db04de73edb53843602620a4cc4bc9",
+  "slug": "ufc-304-leon-edwards-vs-belal-muhammad",
+  "question": "UFC 304: Leon Edwards vs. Belal Muhammad"
+}

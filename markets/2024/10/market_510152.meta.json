@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:31:01.071920Z",
+  "market_createdAt": "2024-10-18T17:31:01.07192Z",
+  "market_updatedAt": "2024-10-20T01:40:28.236993Z",
+  "market_startDate": "2024-10-18T23:12:06.411791Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:37:27+00",
+  "conditionId": "0xda4aec1d3f46565faf0a9a114b2be693e8a3aca6629232e11d7e156c5d5f07f4",
+  "slug": "will-travis-hunter-score-a-td",
+  "question": "Will Travis Hunter score a TD?"
+}

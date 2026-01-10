@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T17:41:47.105000Z",
+  "market_createdAt": "2024-03-08T17:41:47.105Z",
+  "market_updatedAt": "2024-11-09T02:37:03.124395Z",
+  "market_startDate": "2024-03-08T17:41:47.105Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 03:38:50.376398+00",
+  "conditionId": "0x5c19337d009c03cd94633f9f0a83906d75ce8c93fcaa1868a5ce3e315aa9bf03",
+  "slug": "will-a-democrat-win-indiana-governor-election",
+  "question": "Will a Democrat win Indiana Governor Election?"
+}

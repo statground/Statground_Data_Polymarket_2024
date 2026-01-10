@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:05:09.159388Z",
+  "market_createdAt": "2024-07-25T16:05:09.159388Z",
+  "market_updatedAt": "2024-08-04T22:26:55.514162Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:41:36+00",
+  "conditionId": "0x0528a4f0502515d9c0557d4ee32319713fc1900fdca826283a81d4c2c9e8d477",
+  "slug": "will-kate-douglass-usa-win-gold-in-womens-200m-individual-medley",
+  "question": "Will Kate Douglass (USA) win Gold in Women's 200m Individual Medley?"
+}

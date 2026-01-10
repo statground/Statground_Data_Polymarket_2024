@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:00:17.619226Z",
+  "market_createdAt": "2024-09-03T20:00:17.619226Z",
+  "market_updatedAt": "2024-10-07T19:46:30.818987Z",
+  "market_startDate": "2024-09-03T23:50:38.192422Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-07 00:29:17+00",
+  "conditionId": "0x053802e15dc4f79216babe13199e617a8e2857de8547b82d780ab414d9a35389",
+  "slug": "will-the-las-vegas-aces-win-the-2024-wnba-finals",
+  "question": "Will the Las Vegas Aces win the 2024 WNBA Finals?"
+}

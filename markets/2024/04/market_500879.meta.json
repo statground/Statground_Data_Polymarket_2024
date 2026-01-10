@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:45:21.734872Z",
+  "market_createdAt": "2024-04-10T19:45:21.734872Z",
+  "market_updatedAt": "2024-05-10T19:23:22.557009Z",
+  "market_startDate": "2024-04-11T00:17:50.821Z",
+  "market_endDate": "2024-05-01T12:00:00Z",
+  "market_closedTime": "2024-05-10 19:20:08+00",
+  "conditionId": "0xfa361d1eb8dcd671baee6f5ce7aaf0a7b85cc65d380e606b484579901ac93c83",
+  "slug": "will-april-2024-show-an-increase-of-less-than-1pt14c",
+  "question": "Will April 2024 show an increase of less than 1.14C?"
+}

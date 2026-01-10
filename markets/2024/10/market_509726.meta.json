@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509726",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:24:54.415808Z",
+  "market_createdAt": "2024-10-11T21:24:54.415808Z",
+  "market_updatedAt": "2024-10-14T16:56:49.69545Z",
+  "market_startDate": "2024-10-11T22:23:37.629444Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 18:35:37+00",
+  "conditionId": "0xce4f6c0051a85f13516cd378b4e8e601e4bc46e052777443c66b4470fd049470",
+  "slug": "will-the-bears-beat-the-jaguars-by-2-or-more-points",
+  "question": "Will the Bears beat the Jaguars by 2 or more points?"
+}

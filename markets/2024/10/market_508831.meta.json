@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T02:19:51.227748Z",
+  "market_createdAt": "2024-10-04T02:19:51.227748Z",
+  "market_updatedAt": "2024-10-13T04:56:49.572474Z",
+  "market_startDate": "2024-10-04T15:27:40.545196Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 04:48:27+00",
+  "conditionId": "0x92514973e14ca06e0ad3532e89e5ccb8c8063a226e381f6186e4815d4f85a5ce",
+  "slug": "dodgers-vs-padres-series-winner",
+  "question": "Dodgers vs. Padres Series Winner"
+}

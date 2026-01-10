@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:48:31.804135Z",
+  "market_createdAt": "2024-05-31T14:48:31.804135Z",
+  "market_updatedAt": "2024-06-19T04:26:13.894895Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:50:20+00",
+  "conditionId": "0xb5cc05def9cf0fc7a40704561309b127025ab76fdcb36be250e1a66f8d5ce73f",
+  "slug": "jaylen-brown-2024-nba-finals-mvp",
+  "question": "Jaylen Brown 2024 NBA Finals MVP?"
+}

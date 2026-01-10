@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T19:19:43.858000Z",
+  "market_createdAt": "2024-01-31T19:19:43.858Z",
+  "market_updatedAt": "2025-01-02T05:27:11.166221Z",
+  "market_startDate": "2024-01-31T20:22:37.509Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:43:16+00",
+  "conditionId": "0xfad14932325af166b81190e1f3c0d7ed892357551e5a77f064813f2de5a1b40a",
+  "slug": "canada-federal-election-in-2024",
+  "question": "Canada federal election in 2024?"
+}

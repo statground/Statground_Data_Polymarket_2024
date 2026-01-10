@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:10:43.286751Z",
+  "market_createdAt": "2024-10-14T18:10:43.286751Z",
+  "market_updatedAt": "2024-10-17T04:46:38.066925Z",
+  "market_startDate": "2024-10-14T23:59:03.059399Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 05:11:08+00",
+  "conditionId": "0x840b0986741a7c96b46febc90165411fb31930d3a5f9c11a64fd9fe929a6580e",
+  "slug": "yankees-vs-guardians-game-2",
+  "question": "Yankees vs. Guardians - Game 2"
+}

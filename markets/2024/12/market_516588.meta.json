@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:01:49.788567Z",
+  "market_createdAt": "2024-12-29T05:01:49.788567Z",
+  "market_updatedAt": "2024-12-31T04:29:36.209731Z",
+  "market_startDate": "2024-12-29T05:04:20.156436Z",
+  "market_endDate": "2025-01-06T00:00:00Z",
+  "market_closedTime": "2024-12-30 04:31:53+00",
+  "conditionId": "0xc18e4070f82b532b0ef518836758ad09603ae0f58442b12459b49bcfd39ff8d2",
+  "slug": "nba-mia-hou-2024-12-29",
+  "question": "Heat vs. Rockets"
+}

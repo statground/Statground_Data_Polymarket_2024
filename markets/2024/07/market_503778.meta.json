@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503778",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:46:20.762493Z",
+  "market_createdAt": "2024-07-18T19:46:20.762493Z",
+  "market_updatedAt": "2024-08-04T16:33:01.467543Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:12:26+00",
+  "conditionId": "0xb892bdc1d97c6831ad05c15aa97f8ad5010aef8107cd8350b0780b65cc03646d",
+  "slug": "will-matthew-temple-aus-win-gold-in-mens-100m-butterfly",
+  "question": "Will Matthew Temple (AUS) win Gold in Men's 100m Butterfly?"
+}

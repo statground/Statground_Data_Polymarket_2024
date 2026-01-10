@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T16:18:08.120639Z",
+  "market_createdAt": "2024-06-05T16:18:08.120639Z",
+  "market_updatedAt": "2024-06-07T15:11:16.516965Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-06 18:58:55+00",
+  "conditionId": "0x8f50765a0130949cb17e68667f1ad0a551d091f74c05f4c4e593dd2b689674e2",
+  "slug": "spacex-4th-starship-launch-reaches-space",
+  "question": "SpaceX 4th Starship launch reaches space?"
+}

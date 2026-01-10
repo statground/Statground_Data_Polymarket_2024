@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:09:07.858540Z",
+  "market_createdAt": "2024-11-24T05:09:07.85854Z",
+  "market_updatedAt": "2024-12-02T00:11:22.369928Z",
+  "market_startDate": "2024-11-24T05:11:50.334487Z",
+  "market_endDate": "2024-12-07T19:00:00Z",
+  "market_closedTime": "2024-12-01 00:38:50+00",
+  "conditionId": "0x8a45e113e1e26d907dc20366d914c3752267bf32a1d0f8d383543c496a7b468d",
+  "slug": "cfb-ccar-gast-2024-11-30",
+  "question": "Coastal Carolina vs. Georgia State"
+}

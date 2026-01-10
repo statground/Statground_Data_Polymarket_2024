@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T15:35:56.820382Z",
+  "market_createdAt": "2024-07-25T15:35:56.820382Z",
+  "market_updatedAt": "2024-07-30T19:43:03.839932Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:07:54+00",
+  "conditionId": "0xac03474c4067bc2493b1a32109efa0e1fa239134a09fc4865a58247704b3d555",
+  "slug": "will-duncan-scott-gbr-win-gold-in-mens-200m-freestyle",
+  "question": "Will Duncan Scott (GBR) win Gold in Men's 200m Freestyle?"
+}

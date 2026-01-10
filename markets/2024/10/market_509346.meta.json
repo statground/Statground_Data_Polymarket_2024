@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:15:48.063481Z",
+  "market_createdAt": "2024-10-09T17:15:48.063481Z",
+  "market_updatedAt": "2025-04-14T04:11:22.917265Z",
+  "market_startDate": "2024-10-10T20:16:22.791234Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:08:34+00",
+  "conditionId": "0x521c6ad97ac962d185ff6e7612b92f52f973436bf19b3140caf217bb2ac5afa3",
+  "slug": "will-kawhi-leonard-lead-the-nba-in-scoring",
+  "question": "Will Kawhi Leonard lead the NBA in scoring?"
+}

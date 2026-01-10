@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-27T21:04:50.611257Z",
+  "market_createdAt": "2024-03-27T21:04:50.611257Z",
+  "market_updatedAt": "2024-05-07T23:09:20.171364Z",
+  "market_startDate": "2024-03-27T23:19:47.41Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-04-03 10:30:32+00",
+  "conditionId": "0xe7258a4b3fbcf5dad4cf8d7991a3fe0c9cd9a9333992152596752ac199f5db18",
+  "slug": "ethena-token-fdv-less-than-5-billion-one-day-after-airdrop",
+  "question": "Ethena token FDV less than 5 billion one day after launch?"
+}

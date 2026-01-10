@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:13:56.476000Z",
+  "market_createdAt": "2024-03-01T18:13:56.476Z",
+  "market_updatedAt": "2024-11-07T05:01:18.249107Z",
+  "market_startDate": "2024-03-28T20:20:01.245Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:39:08+00",
+  "conditionId": "0x9daebe3fedbc52bbfd311f11862a0f61ec923f9b52b5ea829b82eb04c2450a2b",
+  "slug": "will-a-democrat-win-idaho-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Idaho Presidential Election?"
+}

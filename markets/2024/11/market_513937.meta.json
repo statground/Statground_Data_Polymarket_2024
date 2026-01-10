@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:02:20.652738Z",
+  "market_createdAt": "2024-11-25T05:02:20.652738Z",
+  "market_updatedAt": "2024-12-02T23:09:23.566057Z",
+  "market_startDate": "2024-11-25T05:04:55.753854Z",
+  "market_endDate": "2024-12-08T18:00:00Z",
+  "market_closedTime": "2024-12-01 23:09:49+00",
+  "conditionId": "0xdbf84cb61acd00222a5b1192377b73785f8864f4066d9b2669e1f98b21af01d9",
+  "slug": "nfl-ind-ne-2024-12-01",
+  "question": "Colts vs. Patriots"
+}

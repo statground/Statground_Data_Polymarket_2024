@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:54:15.971051Z",
+  "market_createdAt": "2024-10-10T19:54:15.971051Z",
+  "market_updatedAt": "2024-10-20T18:16:42.165039Z",
+  "market_startDate": "2024-10-10T19:55:38.526992Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:07:50+00",
+  "conditionId": "0x0fcdf3ae983d0bd3933bfb7389879a4589d53c06694ae771aae9ec4e81e445c5",
+  "slug": "epl-new-bri-2024-10-19-new",
+  "question": "Will Newcastle win on 2024-10-19?"
+}

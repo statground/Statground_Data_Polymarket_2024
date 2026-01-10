@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:19:48.012528Z",
+  "market_createdAt": "2024-12-17T17:19:48.012528Z",
+  "market_updatedAt": "2025-05-08T00:22:22.830711Z",
+  "market_startDate": "2024-12-18T15:12:01.591Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:45:16+00",
+  "conditionId": "0xd5140324695c2491442b03c6e7a17910f988b6de5ca55e355f0334c8ec0ef789",
+  "slug": "will-the-greens-be-part-of-the-next-german-government",
+  "question": "Will the Greens be part of the next German government?"
+}

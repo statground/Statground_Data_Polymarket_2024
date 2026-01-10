@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T15:30:04.010204Z",
+  "market_createdAt": "2024-05-29T15:30:04.010204Z",
+  "market_updatedAt": "2024-06-01T03:01:12.831658Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-05-31 05:00:31+00",
+  "conditionId": "0x0efc31c32dcb9c20617577534edcccb28df6cc29f1ecfe7950f13f513f48bad3",
+  "slug": "nba-min-dal-2024-05-30",
+  "question": "Timberwolves vs. Mavericks: Game 5"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:26:08.957326Z",
+  "market_createdAt": "2024-11-25T22:26:08.957326Z",
+  "market_updatedAt": "2024-11-28T00:19:37.385443Z",
+  "market_startDate": "2024-11-26T17:04:35.226097Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:16:03+00",
+  "conditionId": "0x3c65791672c36c391965520567db43640176acb4edcfeafdec2fdcfbedc30c99",
+  "slug": "will-bayern-munich-beat-paris-saint-germain",
+  "question": "Will Bayern Munich beat Paris Saint-Germain?"
+}

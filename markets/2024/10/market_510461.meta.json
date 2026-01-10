@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:26:22.191076Z",
+  "market_createdAt": "2024-10-22T00:26:22.191076Z",
+  "market_updatedAt": "2024-10-26T21:46:58.275888Z",
+  "market_startDate": "2024-10-22T00:28:57.089Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 00:17:56+00",
+  "conditionId": "0x9f8151b6ec8b82d97220cd31afb0a90b6ff6459a985842ee26da7beb5d9a3df7",
+  "slug": "epl-lei-not-2024-10-25-draw",
+  "question": "Will Leicester vs. Nottingham Forest end in a draw?"
+}

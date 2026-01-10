@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:08:00.936863Z",
+  "market_createdAt": "2024-11-17T05:08:00.936863Z",
+  "market_updatedAt": "2024-11-24T07:47:23.420252Z",
+  "market_startDate": "2024-11-17T05:10:29.859169Z",
+  "market_endDate": "2024-11-30T03:00:00Z",
+  "market_closedTime": "2024-11-23 07:46:31+00",
+  "conditionId": "0x72c5244aa41398b3853819c5c11df60f24b9eea05c5baf936b5a4f7b5012cceb",
+  "slug": "nba-dal-den-2024-11-22",
+  "question": "Mavericks vs. Nuggets"
+}

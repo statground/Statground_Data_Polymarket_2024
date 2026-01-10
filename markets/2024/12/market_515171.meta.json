@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:26:40.655109Z",
+  "market_createdAt": "2024-12-09T20:26:40.655109Z",
+  "market_updatedAt": "2024-12-12T09:09:03.407043Z",
+  "market_startDate": "2024-12-09T21:02:23.521Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 09:49:33+00",
+  "conditionId": "0x1e7766d5736d1c35b693a7028b259bc93b7aac8b40b8b9f9b6013b18c9dae586",
+  "slug": "will-kaczynski-be-in-the-manifesto",
+  "question": "Will \"Kaczynski\" be in the manifesto?"
+}

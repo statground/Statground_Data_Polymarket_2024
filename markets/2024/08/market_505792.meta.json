@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:06:01.588080Z",
+  "market_createdAt": "2024-08-26T18:06:01.58808Z",
+  "market_updatedAt": "2024-08-31T04:33:07.256577Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:50:47+00",
+  "conditionId": "0x97ce3dc12ce4a0b302f074326248e0ff28ac6fe8bb6c85c77c3e4205de9c4101",
+  "slug": "will-donald-trump-say-alien-5-or-more-times-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"alien\" 5 or more times during Michigan town hall?"
+}

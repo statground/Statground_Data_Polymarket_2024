@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T17:36:44.823108Z",
+  "market_createdAt": "2024-08-26T17:36:44.823108Z",
+  "market_updatedAt": "2024-08-31T03:03:12.536014Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 02:55:23+00",
+  "conditionId": "0x608270e682c94d760641311d6892b2acc7da5f3fa2e5415f21e9950269901c91",
+  "slug": "will-donald-trump-say-tampon-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"tampon\" during Michigan town hall?"
+}

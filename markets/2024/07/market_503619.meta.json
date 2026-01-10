@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:48:04.142880Z",
+  "market_createdAt": "2024-07-17T17:48:04.14288Z",
+  "market_updatedAt": "2024-08-05T22:12:49.151884Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 00:09:15+00",
+  "conditionId": "0x77f8a0267dca64efe5df6d9d672203ab2e532da885fe0e9247511113ffab0793",
+  "slug": "will-china-win-gold-in-womens-basketball",
+  "question": "Will China win Gold in Women's Basketball?"
+}

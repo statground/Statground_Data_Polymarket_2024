@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:04:35.685465Z",
+  "market_createdAt": "2024-12-23T05:04:35.685465Z",
+  "market_updatedAt": "2024-12-30T02:10:14.733852Z",
+  "market_startDate": "2024-12-23T05:07:06.157305Z",
+  "market_endDate": "2025-01-04T21:30:00Z",
+  "market_closedTime": "2024-12-29 03:37:17+00",
+  "conditionId": "0x559239bf63152cb11cc46f9b13030077681ef6ddf45741b8f9f6cf7860b9488f",
+  "slug": "cfb-moh-csu-2024-12-28",
+  "question": "Miami (OH) vs. Colorado State"
+}

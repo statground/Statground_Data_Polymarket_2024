@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T16:07:39.344381Z",
+  "market_createdAt": "2024-05-28T16:07:39.344381Z",
+  "market_updatedAt": "2025-01-02T01:09:12.145204Z",
+  "market_startDate": "2024-05-29T19:39:45.387Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:26+00",
+  "conditionId": "0x8a05f4cc458c938152f6d2d9152cd3358a81f7dea570cbe4a46ad39603f5d34b",
+  "slug": "will-trump-say-mog-in-2024",
+  "question": "Will Trump say \"mog\" in 2024?"
+}

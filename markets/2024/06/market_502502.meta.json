@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T13:56:02.654945Z",
+  "market_createdAt": "2024-06-15T13:56:02.654945Z",
+  "market_updatedAt": "2024-06-19T04:26:14.508744Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-18 05:29:22+00",
+  "conditionId": "0x05e87b3b35e3fa5079587175b8d8ce7fdc8d777c952e7f4bee7b362bfd4b34ba",
+  "slug": "nba-bos-dal-2024-06-17",
+  "question": "NBA Finals Game 5: Celtics vs. Mavericks "
+}

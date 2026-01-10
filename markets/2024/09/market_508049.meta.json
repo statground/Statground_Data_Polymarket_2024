@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:22:14.686675Z",
+  "market_createdAt": "2024-09-24T21:22:14.686675Z",
+  "market_updatedAt": "2024-10-03T03:16:39.236284Z",
+  "market_startDate": "2024-09-24T23:35:56.387Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:59:21+00",
+  "conditionId": "0xfc134a447ed6f36ac8a96c5bf1067782dd59a140abdf8c98d232cb171fcc9b6a",
+  "slug": "will-tim-walz-say-teacher-during-the-debate",
+  "question": "Will Tim Walz say \"Teacher\" during the debate?"
+}

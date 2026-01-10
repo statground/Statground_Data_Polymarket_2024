@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:36:20.366958Z",
+  "market_createdAt": "2024-11-05T17:36:20.366958Z",
+  "market_updatedAt": "2024-11-16T16:51:01.485987Z",
+  "market_startDate": "2024-11-05T18:22:14.11355Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 17:23:23+00",
+  "conditionId": "0x12510cbb072babf2a9b59e9efd75a3626d89ef93ae3d44f039bbb4034db56a3f",
+  "slug": "will-trump-say-victory-three-or-more-times-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"Victory\" three or more times in his speech after the election is called?"
+}

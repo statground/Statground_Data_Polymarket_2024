@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T15:48:52.602667Z",
+  "market_createdAt": "2024-05-14T15:48:52.602667Z",
+  "market_updatedAt": "2024-05-21T09:54:00.971298Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 10:14:01+00",
+  "conditionId": "0x3f8f69ea8e22a4cc88b9b9e3275c5bc1a9e98755b9bdc885c1a332b90727266c",
+  "slug": "will-leonel-fernandez-win-the-2024-dominican-republic-presidential-election",
+  "question": "Will Leonel Fernandez win the 2024 Dominican Republic presidential election?"
+}

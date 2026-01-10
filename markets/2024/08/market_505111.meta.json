@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T17:13:28.223910Z",
+  "market_createdAt": "2024-08-14T17:13:28.22391Z",
+  "market_updatedAt": "2024-08-16T23:17:03.110364Z",
+  "market_startDate": "2024-08-14T17:27:49.897Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:17:51+00",
+  "conditionId": "0x763591c4fad3d5a87d7ce155e5c5701444d44630993305ad6e76011c5c79dcb2",
+  "slug": "will-trump-say-maga-or-make-america-great-again-at-his-press-conference",
+  "question": "Will Trump say \"MAGA\" or \"Make America Great Again\" at his press conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:49:49.375763Z",
+  "market_createdAt": "2024-08-21T20:49:49.375763Z",
+  "market_updatedAt": "2024-08-24T21:43:04.023951Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 21:54:23+00",
+  "conditionId": "0xbaa6b97e72dff1c2c9c83b8bdca319c35f7ca4bdc4b057e3d44eb2cbac62472c",
+  "slug": "will-rfk-jr-say-crypto-or-bitcoin-during-friday-address",
+  "question": "Will RFK Jr. say \"Crypto\" or \"Bitcoin\" during Friday address?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:59:34.857933Z",
+  "market_createdAt": "2024-08-28T18:59:34.857933Z",
+  "market_updatedAt": "2024-09-02T14:07:07.794804Z",
+  "market_startDate": "2024-08-28T18:59:34.857933Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:21+00",
+  "conditionId": "0x2476c900c3a7448586c4b4e1652852718aafbd92037748708acc60ad76b7de80",
+  "slug": "will-carlos-sainz-win-the-italian-grand-prix",
+  "question": "Will Carlos Sainz win the Italian Grand Prix?"
+}

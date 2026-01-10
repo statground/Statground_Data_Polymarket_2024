@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:34:53.421495Z",
+  "market_createdAt": "2024-08-07T23:34:53.421495Z",
+  "market_updatedAt": "2024-08-11T23:16:50.612383Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 01:56:59+00",
+  "conditionId": "0x0d8cbc863ef16e86b99663877df5b7c636a76168ee3eb042a9a66967c4de150f",
+  "slug": "nfl-min-las-2024-08-10",
+  "question": "Vikings vs. Raiders"
+}

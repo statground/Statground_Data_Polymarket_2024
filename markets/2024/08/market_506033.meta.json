@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:52:59.043156Z",
+  "market_createdAt": "2024-08-28T19:52:59.043156Z",
+  "market_updatedAt": "2025-01-15T05:59:10.560291Z",
+  "market_startDate": "2024-08-28T19:52:59.043156Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-14 07:37:25+00",
+  "conditionId": "0xbaaf437611455685071601176d7c6c40cf7cd96a922f6cc98b8cb269c03e58f3",
+  "slug": "will-the-vikings-win-the-nfc-championship",
+  "question": "Will the Vikings win the NFC Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:09:12.069733Z",
+  "market_createdAt": "2024-11-26T08:09:12.069733Z",
+  "market_updatedAt": "2024-11-29T22:25:29.802147Z",
+  "market_startDate": "2024-11-26T22:32:47.020017Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:06:37+00",
+  "conditionId": "0xcc1965544e5c50e6c69c3cd3128a9ed4cb9028aeee845d8e438b6c12fc73a559",
+  "slug": "will-galatasaray-beat-az-alkmaar",
+  "question": "Will Galatasaray beat AZ Alkmaar?"
+}

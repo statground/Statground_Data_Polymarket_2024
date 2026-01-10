@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T17:06:27.716000Z",
+  "market_createdAt": "2024-03-07T17:06:27.716Z",
+  "market_updatedAt": "2024-05-07T23:10:01.853673Z",
+  "market_startDate": "2024-03-07T18:19:00Z",
+  "market_endDate": "2024-03-29T00:00:00Z",
+  "market_closedTime": "2024-04-13 10:27:47+00",
+  "conditionId": "0x74b0e6b95f59d23f55f23ac35ae47cf9a42a2bd2275d02ee734b520b26909e9a",
+  "slug": "will-garvey-win-the-california-senate-primary-by-between-0-2-of-the-vote",
+  "question": "Will Garvey win the California Senate Primary by between 0-2% of the vote?"
+}

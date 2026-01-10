@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512865",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:46:23.128701Z",
+  "market_createdAt": "2024-11-12T18:46:23.128701Z",
+  "market_updatedAt": "2024-12-23T00:03:33.15709Z",
+  "market_startDate": "2024-11-12T21:19:09.274236Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-22 02:43:15+00",
+  "conditionId": "0x537e68f1deedf68877102bb1c5b0e9900c03b24e21b9bd4f00f52ac926c6f306",
+  "slug": "will-the-baltimore-ravens-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Baltimore Ravens make the 2024-25 NFL Playoffs?"
+}

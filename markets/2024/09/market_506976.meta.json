@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T16:14:02.032387Z",
+  "market_createdAt": "2024-09-13T16:14:02.032387Z",
+  "market_updatedAt": "2024-09-16T03:32:58.619508Z",
+  "market_startDate": "2024-09-13T16:18:45.797737Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 04:04:33+00",
+  "conditionId": "0x7330c5c656c4c81dbfed4fb40673a2933100e6eee7a174b4ca93dca434c937a6",
+  "slug": "will-there-be-65-or-more-combined-points-scored-miss-wake",
+  "question": "Will there be 65 or more combined points scored?"
+}

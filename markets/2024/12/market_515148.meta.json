@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:08:57.224266Z",
+  "market_createdAt": "2024-12-09T19:08:57.224266Z",
+  "market_updatedAt": "2024-12-12T00:33:05.602962Z",
+  "market_startDate": "2024-12-09T23:35:55.856764Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:16:51+00",
+  "conditionId": "0x1ae054f0eeab330d3686accce7349e98230b1ee2295eca236faa45be465e1da7",
+  "slug": "will-shakhtar-donetsk-beat-bayern-munich",
+  "question": "Will Shakhtar Donetsk beat Bayern Munich?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T18:28:16.192573Z",
+  "market_createdAt": "2024-07-23T18:28:16.192573Z",
+  "market_updatedAt": "2024-07-26T01:06:42.532868Z",
+  "market_startDate": "2024-07-23T20:35:22.31Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:23:57+00",
+  "conditionId": "0xdd9c7e44370f8b86f3aa6eba9e724c6e820959a274e0a469cb45a6108d40802d",
+  "slug": "will-biden-say-democracy-during-drop-out-speech",
+  "question": "Will Biden say \"Democracy\" during drop out speech?"
+}

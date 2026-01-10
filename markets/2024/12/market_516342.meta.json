@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T18:21:40.699593Z",
+  "market_createdAt": "2024-12-23T18:21:40.699593Z",
+  "market_updatedAt": "2025-01-01T01:29:43.022238Z",
+  "market_startDate": "2024-12-23T19:21:40.650236Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 04:55:40+00",
+  "conditionId": "0xfec5fdfd0ed0a592fdb7fef2d4dab448376bf1d354b4fe7971c9aaf13226ac45",
+  "slug": "will-levon-aronian-win-the-2024-world-blitz-championship",
+  "question": "Will Levon Aronian win the 2024 World Blitz Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:23:28.405007Z",
+  "market_createdAt": "2024-06-25T15:23:28.405007Z",
+  "market_updatedAt": "2024-06-27T23:56:05.179705Z",
+  "market_startDate": "2024-06-25T18:14:54.473Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 03:06:01+00",
+  "conditionId": "0x6a64db8b1a1ffe60b145cb6ba1a7e73032c3dc402cbeb1c949286dc54cc3575a",
+  "slug": "will-jamaica-win-jun-26",
+  "question": "Will Jamaica win?"
+}

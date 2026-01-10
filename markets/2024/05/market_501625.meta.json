@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:55:30.476813Z",
+  "market_createdAt": "2024-05-15T14:55:30.476813Z",
+  "market_updatedAt": "2024-06-10T16:56:14.099184Z",
+  "market_startDate": "2024-05-15T17:01:23.182Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-09 20:46:44+00",
+  "conditionId": "0x9a2c377a7c350c3701afdc3a5a00c0b8fb586d67aae67850f8ead64271ce8508",
+  "slug": "will-another-player-win-the-2024-french-open-mens-singles",
+  "question": "Will another player win the 2024 French Open Men's Singles?"
+}

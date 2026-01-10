@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T20:01:58.750037Z",
+  "market_createdAt": "2024-07-12T20:01:58.750037Z",
+  "market_updatedAt": "2024-07-15T20:54:50.043389Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:07:08+00",
+  "conditionId": "0xb0f80a91ce912150ca21db922bf586ae63d34687472b69694503205f177f41c3",
+  "slug": "will-spain-win-on-penalties",
+  "question": "Will Spain win on penalties?"
+}

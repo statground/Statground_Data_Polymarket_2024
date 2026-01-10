@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T17:26:34.042114Z",
+  "market_createdAt": "2024-09-12T17:26:34.042114Z",
+  "market_updatedAt": "2024-10-18T14:26:43.090632Z",
+  "market_startDate": "2024-09-12T21:04:21.41Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-17 14:30:45+00",
+  "conditionId": "0x884ac623906f4e8e7b8cbee417f8e42c1ffeda43225d5248838f59c3fe3dba5b",
+  "slug": "european-central-bank-cuts-rates-in-oct-meeting",
+  "question": "European Central Bank cuts rates in Oct meeting?"
+}

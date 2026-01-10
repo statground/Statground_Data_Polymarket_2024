@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T22:02:06.804965Z",
+  "market_createdAt": "2024-04-30T22:02:06.804965Z",
+  "market_updatedAt": "2024-09-28T23:16:43.988731Z",
+  "market_startDate": "2024-04-30T22:15:51.091Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-09-27 23:14:22+00",
+  "conditionId": "0x57b32dde420063cf5dc9f67e43b8381d1bba03687f8e8c20df46d40550fdb635",
+  "slug": "eigen-transferable-before-cz-gets-out-of-prison",
+  "question": "$EIGEN transferable before CZ gets out of prison?"
+}

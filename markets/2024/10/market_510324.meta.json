@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T18:58:48.307110Z",
+  "market_createdAt": "2024-10-21T18:58:48.30711Z",
+  "market_updatedAt": "2024-10-28T22:23:09.805884Z",
+  "market_startDate": "2024-10-21T19:01:27.348591Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:14:48+00",
+  "conditionId": "0x2d23ff7e66d5be5c5182a0fc00283919b270c8ae4261e63edabfe0a76034c737",
+  "slug": "nfl-atl-tb-2024-10-27",
+  "question": "Falcons vs. Buccaneers"
+}

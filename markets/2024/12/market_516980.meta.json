@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:36:12.797974Z",
+  "market_createdAt": "2024-12-31T20:36:12.797974Z",
+  "market_updatedAt": "2025-07-02T00:26:26.149576Z",
+  "market_startDate": "2024-12-31T20:48:51.742Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:20:18+00",
+  "conditionId": "0x4becea47e17b95639cbbdbe31cd968d129823be89249c2b09b911c7333772b57",
+  "slug": "will-xai-have-the-top-ai-model-on-june-30",
+  "question": "Will xAI have the top AI model on June 30?"
+}

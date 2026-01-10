@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-31T17:48:56.514586Z",
+  "market_createdAt": "2024-03-31T17:48:56.514586Z",
+  "market_updatedAt": "2024-05-07T23:10:01.767548Z",
+  "market_startDate": "2024-03-31T18:01:59.767Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-04-27 01:19:48+00",
+  "conditionId": "0x42c36feb2b1a5da60613c7439e42c990dab1aec79486307f4176186b533f379b",
+  "slug": "will-the-port-of-baltimore-not-reopen-by-july",
+  "question": "Will the Port of Baltimore reopen in August or later?"
+}

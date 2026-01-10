@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:11:11.596312Z",
+  "market_createdAt": "2024-11-01T19:11:11.596312Z",
+  "market_updatedAt": "2024-11-06T19:27:11.848179Z",
+  "market_startDate": "2024-11-01T19:41:21.433Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-06 00:06:12+00",
+  "conditionId": "0x64491574bb603c1bcda36090a23d8401db5116cf7c48b4499e4ec44386d194d9",
+  "slug": "will-trump-tweet-60-69-times-nov-1-8",
+  "question": "Will Trump tweet 60-69 times Nov 1-8?"
+}

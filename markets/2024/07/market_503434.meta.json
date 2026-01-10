@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:33:09.146208Z",
+  "market_createdAt": "2024-07-12T19:33:09.146208Z",
+  "market_updatedAt": "2024-07-15T17:08:48.185663Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:07:02+00",
+  "conditionId": "0x85264f5b3c37eae2677944081ae5e322d2b4009cce7fdbbdcc3d887fb45a8aab",
+  "slug": "will-phil-foden-score-the-first-goal",
+  "question": "Will Phil Foden score the first goal?"
+}

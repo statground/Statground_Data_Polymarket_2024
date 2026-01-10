@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T15:20:14.447956Z",
+  "market_createdAt": "2024-12-20T15:20:14.447956Z",
+  "market_updatedAt": "2024-12-21T20:24:43.674147Z",
+  "market_startDate": "2024-12-20T16:33:31.756Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 21:15:42+00",
+  "conditionId": "0xfd9f6074c523b9dfe40ccbefb5afc4db6da39abbfc00a8bb3ccbfdfd8e4cb211",
+  "slug": "cct-semis-firouzja-vs-nepomniachtchi",
+  "question": "CCT Semis: Firouzja vs. Nepomniachtchi"
+}

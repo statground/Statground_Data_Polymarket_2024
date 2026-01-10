@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:49:33.635070Z",
+  "market_createdAt": "2024-10-30T16:49:33.63507Z",
+  "market_updatedAt": "2024-11-01T22:03:10.095265Z",
+  "market_startDate": "2024-10-30T18:03:57.761826Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 22:01:31+00",
+  "conditionId": "0xc3a68ee63549cdd04faa75f18e3b8582de2754823a13f1d62169bd06426f3993",
+  "slug": "will-trump-say-vote-20-or-more-times-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"Vote\" 20 or more times during New Mexico rally on October 31?"
+}

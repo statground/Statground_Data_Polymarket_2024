@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:16:52.680072Z",
+  "market_createdAt": "2024-11-04T23:16:52.680072Z",
+  "market_updatedAt": "2024-11-06T23:07:09.17621Z",
+  "market_startDate": "2024-11-05T00:39:04.087067Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:04:17+00",
+  "conditionId": "0x41f218c113d5802aa5e998702265a96698257c9d3a63d25b8280e8597f33abdc",
+  "slug": "will-rb-leipzig-beat-celtic",
+  "question": "Will RB Leipzig beat Celtic?"
+}

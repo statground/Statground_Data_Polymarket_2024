@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:04:59.628688Z",
+  "market_createdAt": "2024-12-23T05:04:59.628688Z",
+  "market_updatedAt": "2024-12-30T05:45:41.332675Z",
+  "market_startDate": "2024-12-23T05:07:31.697593Z",
+  "market_endDate": "2025-01-05T00:30:00Z",
+  "market_closedTime": "2024-12-29 06:18:04+00",
+  "conditionId": "0xb4f03b1d56e66cb16d4abc336fa43af52a502b9b81519cc9cce45ecc959cb0eb",
+  "slug": "cfb-byu-col-2024-12-28",
+  "question": "BYU vs. Colorado"
+}

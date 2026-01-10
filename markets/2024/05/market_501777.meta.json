@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T18:39:12.951574Z",
+  "market_createdAt": "2024-05-22T18:39:12.951574Z",
+  "market_updatedAt": "2024-07-06T15:35:44.838139Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 19:28:05+00",
+  "conditionId": "0xd2dac8690c581a0783d9961812306e302f362c7a4cb595671a1723cfd0275f09",
+  "slug": "labour-wins-50-of-votes",
+  "question": "Labour wins >50% of votes?"
+}

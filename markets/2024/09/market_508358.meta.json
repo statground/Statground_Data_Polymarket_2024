@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:03:55.712490Z",
+  "market_createdAt": "2024-09-27T20:03:55.71249Z",
+  "market_updatedAt": "2025-01-02T01:17:10.480745Z",
+  "market_startDate": "2024-09-27T21:11:39.64865Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:52:44+00",
+  "conditionId": "0x49f71d1ed2b275d7ed158693abaff18508b39f19224cff5c57eac46ce7287b19",
+  "slug": "base-airdrop-in-2024",
+  "question": "Base airdrop in 2024?"
+}

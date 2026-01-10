@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:21:08.130680Z",
+  "market_createdAt": "2024-11-15T19:21:08.13068Z",
+  "market_updatedAt": "2024-11-18T01:53:14.838156Z",
+  "market_startDate": "2024-11-15T22:12:59.909341Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 02:14:35+00",
+  "conditionId": "0x42ad6d2b387976968fbbd61a7558b3a1b8d24faf6296b92e7075a718fa1f8289",
+  "slug": "will-lsu-beat-florida-by-4-or-more-points",
+  "question": "Will LSU beat Florida by 4 or more points?"
+}

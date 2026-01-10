@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:00:41.428119Z",
+  "market_createdAt": "2024-11-15T19:00:41.428119Z",
+  "market_updatedAt": "2024-11-16T08:38:22.750626Z",
+  "market_startDate": "2024-11-15T22:09:09.931029Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 08:35:28+00",
+  "conditionId": "0xd9b0499788ca31ec72063fed44f64e22a4bbf9e2995eda82e89ff0d10d924423",
+  "slug": "will-arizona-and-houston-combine-for-47-or-more-points",
+  "question": "Will Arizona and Houston combine for 47 or more points?"
+}

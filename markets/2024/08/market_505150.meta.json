@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:49:08.226690Z",
+  "market_createdAt": "2024-08-15T00:49:08.22669Z",
+  "market_updatedAt": "2024-08-19T03:36:52.79495Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 04:36:14+00",
+  "conditionId": "0x420d18450744b600691ef67a7751271823b4251d6b1d02b607d7079a74e1dac7",
+  "slug": "li-vs-prates",
+  "question": "Jingliang vs. Prates"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T19:41:34.333322Z",
+  "market_createdAt": "2024-06-28T19:41:34.333322Z",
+  "market_updatedAt": "2024-07-02T01:10:54.076144Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 05:02:40+00",
+  "conditionId": "0x1a0f317cce65f797fa632d21ea2914d43810300baac869d2236565fa95bcc124",
+  "slug": "will-venezuela-win-jun-30",
+  "question": "Will Venezuela win?"
+}

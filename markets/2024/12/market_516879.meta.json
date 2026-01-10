@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T21:11:44.084671Z",
+  "market_createdAt": "2024-12-30T21:11:44.084671Z",
+  "market_updatedAt": "2026-01-04T22:41:46.046609Z",
+  "market_startDate": "2024-12-30T22:08:17.112Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-08-08 15:55:39+00",
+  "conditionId": "0x8d56032a70551b17890cf2b31d3ecbfae25e40a6ca48d60165bd0869b67ca74d",
+  "slug": "will-ethereum-hit-4000-by-december-31-731-987-617",
+  "question": "Will Ethereum hit $4,000 by December 31?"
+}

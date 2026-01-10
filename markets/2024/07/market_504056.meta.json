@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T21:35:44.651293Z",
+  "market_createdAt": "2024-07-23T21:35:44.651293Z",
+  "market_updatedAt": "2024-07-29T03:39:02.296018Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 03:44:07+00",
+  "conditionId": "0x4dffda5b14b30800890c418d8980dff290f65b8841393e411444e6d050a84cc1",
+  "slug": "will-kamala-give-a-speech-at-bitcoin-conference",
+  "question": "Will Kamala speak at Bitcoin conference?"
+}

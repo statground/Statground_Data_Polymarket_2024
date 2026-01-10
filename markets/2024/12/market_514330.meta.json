@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:01:38.159685Z",
+  "market_createdAt": "2024-12-01T06:01:38.159685Z",
+  "market_updatedAt": "2024-12-10T02:41:20.85479Z",
+  "market_startDate": "2024-12-01T06:05:06.031743Z",
+  "market_endDate": "2024-12-15T21:25:00Z",
+  "market_closedTime": "2024-12-09 02:38:47+00",
+  "conditionId": "0x298412f28ed641a772a9b920ad3f6095f3baf5a67b3d0b4e30776aeb00eb6478",
+  "slug": "nfl-chi-sf-2024-12-08",
+  "question": "Bears vs. 49ers"
+}

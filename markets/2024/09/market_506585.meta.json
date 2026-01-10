@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T21:00:47.189348Z",
+  "market_createdAt": "2024-09-06T21:00:47.189348Z",
+  "market_updatedAt": "2024-09-09T00:07:06.490045Z",
+  "market_startDate": "2024-09-06T21:05:34.512084Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 00:11:06+00",
+  "conditionId": "0x9dbc52b72e4518a44c687f2b4a244738f47149250f4865acd0ce5291271ab517",
+  "slug": "us-open-final-sabalenka-vs-pegula",
+  "question": "US Open Final: Sabalenka vs. Pegula"
+}

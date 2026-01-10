@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T16:08:43.246538Z",
+  "market_createdAt": "2024-12-31T16:08:43.246538Z",
+  "market_updatedAt": "2026-01-01T11:19:00.894823Z",
+  "market_startDate": "2024-12-31T19:39:51.701266Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 11:18:39+00",
+  "conditionId": "0x12993004a50c8a25454afbc8ccea7a52f9e6f5ddfaa218feea52a4e95cd874bb",
+  "slug": "will-gold-close-at-2700-2800-at-the-end-of-2025",
+  "question": "Will Gold close at $2,700-2,800 at the end of 2025?"
+}

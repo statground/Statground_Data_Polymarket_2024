@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-09T02:41:16.278125Z",
+  "market_createdAt": "2024-11-09T02:41:16.278125Z",
+  "market_updatedAt": "2024-11-14T03:19:09.955271Z",
+  "market_startDate": "2024-11-09T02:54:22.037328Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-13 05:36:22+00",
+  "conditionId": "0x565b93f16cdeb61ba3d477320e708dc8524b05993cbdc86a3a02914b1ff935ef",
+  "slug": "co-8-election-caraveo-d-vs-evans-r",
+  "question": "CO-8 election: Caraveo (D) vs. Evans (R)"
+}

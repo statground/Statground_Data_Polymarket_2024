@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-11T16:07:56.978000Z",
+  "market_createdAt": "2024-03-11T16:07:56.978Z",
+  "market_updatedAt": "2024-05-07T23:09:12.136678Z",
+  "market_startDate": "2024-03-11T16:16:55.116Z",
+  "market_endDate": "2024-03-12T00:00:00Z",
+  "market_closedTime": "2024-03-13 03:35:28+00",
+  "conditionId": "0x15c7ba01983b9f42870c25e1aa4d69e71a8d72297d20e201688ff7b8ce7cc2c7",
+  "slug": "will-biden-win-georgia-democratic-primary",
+  "question": "Will Biden win Georgia Democratic Primary?"
+}

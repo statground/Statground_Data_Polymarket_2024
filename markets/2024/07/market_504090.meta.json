@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T15:47:57.651962Z",
+  "market_createdAt": "2024-07-25T15:47:57.651962Z",
+  "market_updatedAt": "2024-07-30T19:55:09.604893Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:26:46+00",
+  "conditionId": "0xc60cc64b3e7ac81f56eea6bdeb4688a4fc50837481b224f91278f8c9c0cffbcb",
+  "slug": "will-another-athlete-win-gold-in-womens-200m-freestyle",
+  "question": "Will another athlete win Gold in Women's 200m Freestyle?"
+}

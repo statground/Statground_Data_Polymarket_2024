@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:25:53.083761Z",
+  "market_createdAt": "2024-12-10T22:25:53.083761Z",
+  "market_updatedAt": "2024-12-13T22:05:13.164304Z",
+  "market_startDate": "2024-12-11T23:10:38.951145Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:28:16+00",
+  "conditionId": "0x5f5b31834d2798d686a7820d52cbe137f6364dd87d420caf9b9aeef750f01470",
+  "slug": "will-the-match-between-maccabi-tlv-and-rfs-end-in-a-draw",
+  "question": "Will the match between Maccabi TLV and RFS end in a draw?"
+}

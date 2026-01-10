@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T21:14:53.090032Z",
+  "market_createdAt": "2024-08-16T21:14:53.090032Z",
+  "market_updatedAt": "2024-08-19T00:36:54.263681Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 00:29:49+00",
+  "conditionId": "0x5bbf8832226e5c750f618fdf9b4ef286fb98747042c310cfd2aebe8672d9ab99",
+  "slug": "will-trump-say-maga-or-make-america-great-again-5-or-more-times-at-his-rally",
+  "question": "Will Trump say \"MAGA\" or \"Make America Great Again\" 5 or more times at his rally?"
+}

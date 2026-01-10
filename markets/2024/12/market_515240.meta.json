@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:00:33.141496Z",
+  "market_createdAt": "2024-12-10T16:00:33.141496Z",
+  "market_updatedAt": "2024-12-11T22:29:07.273947Z",
+  "market_startDate": "2024-12-10T16:26:02.195909Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 22:33:16+00",
+  "conditionId": "0x754907fd96d8a2716bb7d2f271ca58cf3b1d7c7297b464c8c8c1b424370819e2",
+  "slug": "will-kjp-say-president-30-or-more-times-during-press-briefing",
+  "question": "Will KJP say \"president\" 30 or more times during press briefing?"
+}

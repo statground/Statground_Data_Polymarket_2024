@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:54:57.296914Z",
+  "market_createdAt": "2024-06-21T15:54:57.296914Z",
+  "market_updatedAt": "2024-08-02T17:13:04.514936Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:19:14+00",
+  "conditionId": "0xcde5f55b9283ae9da7acc7db53f8bdbeac6bdd578d39e3afeb310e85c45e4d4c",
+  "slug": "oakland-mayor-indicted-before-august",
+  "question": "Oakland mayor Sheng Thao indicted before August?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T15:15:54.819109Z",
+  "market_createdAt": "2024-10-16T15:15:54.819109Z",
+  "market_updatedAt": "2024-10-29T01:23:07.959717Z",
+  "market_startDate": "2024-10-16T18:58:45.068659Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:36:10+00",
+  "conditionId": "0x65a43d0a63b57427ee497da000c382ba0a33652901d1d59b022a604b0f5da5cb",
+  "slug": "will-another-candidate-win-the-2024-fortaleza-mayoral-election",
+  "question": "Will another candidate win the 2024 Fortaleza mayoral election?"
+}

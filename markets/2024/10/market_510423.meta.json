@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:02:31.412828Z",
+  "market_createdAt": "2024-10-21T22:02:31.412828Z",
+  "market_updatedAt": "2024-10-23T21:47:15.034368Z",
+  "market_startDate": "2024-10-22T00:54:42.270931Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:25:30+00",
+  "conditionId": "0x2507b30da95e82cd20a9d94f871ceb552126fb5dd4ac1d519c91d130d29e5613",
+  "slug": "will-the-match-between-aston-villa-and-bologna-end-in-a-draw",
+  "question": "Will the match between Aston Villa and Bologna end in a draw?"
+}

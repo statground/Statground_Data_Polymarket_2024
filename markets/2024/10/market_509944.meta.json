@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:29:32.798015Z",
+  "market_createdAt": "2024-10-15T19:29:32.798015Z",
+  "market_updatedAt": "2025-03-17T14:30:07.568131Z",
+  "market_startDate": "2024-10-15T22:20:39.623737Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-16 23:59:31+00",
+  "conditionId": "0xed0d61e40b7d25b1d78f7dd7fdb9de052302a72dd8b5b0a5e8d182853cf48c02",
+  "slug": "will-stuttgart-win-the-bundesliga",
+  "question": "Will Stuttgart win the Bundesliga?"
+}

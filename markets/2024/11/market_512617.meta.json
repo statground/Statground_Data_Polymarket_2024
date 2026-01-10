@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:43:18.718620Z",
+  "market_createdAt": "2024-11-08T23:43:18.71862Z",
+  "market_updatedAt": "2024-11-11T22:13:07.439316Z",
+  "market_startDate": "2024-11-09T02:54:53.222441Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:11:41+00",
+  "conditionId": "0x0def0924d6aa09be10ec8ba9e6880a4fc9d09694c35409b95d97910f043d5db8",
+  "slug": "will-the-bears-and-patriots-combine-for-39-or-more-points",
+  "question": "Will the Bears and Patriots combine for 39 or more points?"
+}

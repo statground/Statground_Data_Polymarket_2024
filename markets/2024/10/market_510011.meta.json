@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:41:26.897068Z",
+  "market_createdAt": "2024-10-16T19:41:26.897068Z",
+  "market_updatedAt": "2024-10-20T01:22:45.294964Z",
+  "market_startDate": "2024-10-16T21:05:38.647Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 02:49:29+00",
+  "conditionId": "0x91dbbe2f17a0396ac323f0b466fe8c842653729238e3bd8e14db648ff706002e",
+  "slug": "will-trump-say-tren-de-aragua-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"Tren de Aragua\" during Michigan rally on October 18?"
+}

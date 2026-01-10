@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T16:00:54.781448Z",
+  "market_createdAt": "2024-06-26T16:00:54.781448Z",
+  "market_updatedAt": "2024-08-02T17:13:05.863599Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:03:40+00",
+  "conditionId": "0xecc4d41a11feffbc8a0ac4a330f9fd1b3ebea64bbc1472a67959ce264345ce84",
+  "slug": "infowars-shut-down-before-august",
+  "question": "Infowars shut down before August?"
+}

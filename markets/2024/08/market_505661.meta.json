@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:15:34.098399Z",
+  "market_createdAt": "2024-08-22T18:15:34.098399Z",
+  "market_updatedAt": "2024-08-24T03:06:59.420028Z",
+  "market_startDate": "2024-08-22T22:44:56.05Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:37:56+00",
+  "conditionId": "0xad1de3cef1690a938ec3963a0da5c639b8a8dc9242505f6cfc5d2d3acb0e0bb7",
+  "slug": "will-trump-post-border-3-or-more-times-on-final-night-of-dnc",
+  "question": "Will Trump post \"Border\" 3 or more times on final night of DNC?"
+}

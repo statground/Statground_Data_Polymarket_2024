@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T16:45:19.898237Z",
+  "market_createdAt": "2024-05-13T16:45:19.898237Z",
+  "market_updatedAt": "2024-05-15T04:59:04.62885Z",
+  "market_startDate": "2024-05-13T16:51:04.735Z",
+  "market_endDate": "2024-05-13T12:00:00Z",
+  "market_closedTime": "2024-05-14 06:17:01+00",
+  "conditionId": "0x6002b0855808afada7ec0a4d9bb2d2b7617b7ab44e2554246a320c9e1b0f7efd",
+  "slug": "nba-dal-okc-2024-05-13",
+  "question": "Dallas Mavericks vs. Oklahoma City Thunder: Game 4"
+}

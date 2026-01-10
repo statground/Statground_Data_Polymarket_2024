@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T18:05:17.895018Z",
+  "market_createdAt": "2024-10-11T18:05:17.895018Z",
+  "market_updatedAt": "2024-12-02T22:47:14.63605Z",
+  "market_startDate": "2024-10-11T22:37:01.987265Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-12-02 03:51:58+00",
+  "conditionId": "0x4ec536d2f8a8658df89327cd0766b5a8b692914e9b7315e5dfac26bebb2e3792",
+  "slug": "will-andres-ojeda-win-the-2024-uruguay-presidential-election",
+  "question": "Will Andrés Ojeda win the 2024 Uruguay presidential election?"
+}

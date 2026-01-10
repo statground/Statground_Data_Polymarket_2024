@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:45:03.641000Z",
+  "market_createdAt": "2024-03-01T18:45:03.641Z",
+  "market_updatedAt": "2024-11-06T20:51:16.15749Z",
+  "market_startDate": "2024-03-28T20:42:13.154Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:49:46+00",
+  "conditionId": "0xfe495172d67c0bd95c8c62b9a9f9815b6e35d9653e5a1f4f8c1abb051e4f3638",
+  "slug": "will-a-candidate-from-another-party-win-massachusetts-presidential-election",
+  "question": "Will a candidate from another party win Massachusetts Presidential Election?"
+}

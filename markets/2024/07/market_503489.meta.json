@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:02:40.475718Z",
+  "market_createdAt": "2024-07-15T16:02:40.475718Z",
+  "market_updatedAt": "2024-07-19T03:18:38.291008Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-18 05:16:47+00",
+  "conditionId": "0x6aa0d1f19c5c37a797f6824e77447b6d58ff230b49738c6191f8a1385d96e676",
+  "slug": "will-jonathan-tamayo-win-the-wsop-main-event",
+  "question": "Will Jonathan Tamayo win the WSOP main event?"
+}

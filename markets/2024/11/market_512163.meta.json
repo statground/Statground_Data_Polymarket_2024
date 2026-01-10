@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512163",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T14:39:27.426376Z",
+  "market_createdAt": "2024-11-06T14:39:27.426376Z",
+  "market_updatedAt": "2025-01-21T07:04:59.811535Z",
+  "market_startDate": "2024-11-06T15:27:04.010763Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:02:42+00",
+  "conditionId": "0x231aa55682ef2bd15dc527915d9c683b38120f8c55be15ffd67201b4a98c9007",
+  "slug": "trump-in-jail-before-inauguration",
+  "question": "Trump in jail before inauguration? "
+}

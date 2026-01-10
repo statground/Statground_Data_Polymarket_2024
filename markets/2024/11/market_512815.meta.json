@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T01:16:45.472999Z",
+  "market_createdAt": "2024-11-12T01:16:45.472999Z",
+  "market_updatedAt": "2024-11-14T05:40:59.745758Z",
+  "market_startDate": "2024-11-12T02:19:34.066721Z",
+  "market_endDate": "2024-11-12T12:00:00Z",
+  "market_closedTime": "2024-11-13 07:21:23+00",
+  "conditionId": "0x5378f4fce0fd9c03960bc0b6289ab9179742bfc830f6688119fcb9a78962e075",
+  "slug": "benny-blanco-named-sexiest-man-alive",
+  "question": "Benny Blanco named sexiest man alive?"
+}

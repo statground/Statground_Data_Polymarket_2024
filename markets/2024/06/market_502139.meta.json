@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T18:22:30.033094Z",
+  "market_createdAt": "2024-06-05T18:22:30.033094Z",
+  "market_updatedAt": "2024-06-11T09:06:14.133052Z",
+  "market_startDate": "2024-06-05T21:11:03.039Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 10:45:54+00",
+  "conditionId": "0xc9d9d2d9760f0380478840cf118285c470a0a1d17ab1be5f642a439fd631e5b9",
+  "slug": "will-nl-receive-more-than-8-of-votes",
+  "question": "Will NL receive more than 8% of votes?"
+}

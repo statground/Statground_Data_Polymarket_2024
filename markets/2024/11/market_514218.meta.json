@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T17:00:53.760006Z",
+  "market_createdAt": "2024-11-27T17:00:53.760006Z",
+  "market_updatedAt": "2024-12-07T19:21:26.427311Z",
+  "market_startDate": "2024-11-29T18:44:10.33044Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 19:25:00+00",
+  "conditionId": "0xda32e6ffc1898ae8a75aac7b5c710b1c520237e5e2e70eb7fd768e187ca94674",
+  "slug": "dogecoin-above-0pt41-on-december-6",
+  "question": "Dogecoin above $0.41 on December 6?"
+}

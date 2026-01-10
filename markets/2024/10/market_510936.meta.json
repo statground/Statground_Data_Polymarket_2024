@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:51:30.608578Z",
+  "market_createdAt": "2024-10-25T17:51:30.608578Z",
+  "market_updatedAt": "2024-10-27T12:52:52.318012Z",
+  "market_startDate": "2024-10-25T22:12:27.508819Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 22:16:24+00",
+  "conditionId": "0x7a6b0dfb61f2605608cdb2468989e467dadfb39aad122dcce05638cb638780fb",
+  "slug": "will-there-be-50-or-more-combined-points-scored-Ole-Miss-Oklahoma",
+  "question": "Will there be 50 or more combined points scored?"
+}

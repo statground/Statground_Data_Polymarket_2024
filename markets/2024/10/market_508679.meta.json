@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:17:42.583603Z",
+  "market_createdAt": "2024-10-02T17:17:42.583603Z",
+  "market_updatedAt": "2024-10-04T05:16:37.657414Z",
+  "market_startDate": "2024-10-02T21:02:42.050221Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-03 06:40:08+00",
+  "conditionId": "0xfd70e8dea54536acffd68f4593886702bd7b8e6c60146ada016c8934d1666ae4",
+  "slug": "will-the-atlanta-braves-win-the-national-league",
+  "question": "Will the Atlanta Braves win the National League?"
+}

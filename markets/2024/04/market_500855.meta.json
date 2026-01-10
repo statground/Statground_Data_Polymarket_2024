@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T14:46:56.526355Z",
+  "market_createdAt": "2024-04-10T14:46:56.526355Z",
+  "market_updatedAt": "2024-08-14T02:43:03.673167Z",
+  "market_startDate": "2024-04-10T16:24:59.661Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-08-13 04:33:38+00",
+  "conditionId": "0x481840d73a5361b11187372c8e80266f146bc0b13ce0693ed5c3c8a107122b74",
+  "slug": "abortion-on-the-2024-ballot-in-arizona",
+  "question": "Abortion on the 2024 ballot in Arizona?"
+}

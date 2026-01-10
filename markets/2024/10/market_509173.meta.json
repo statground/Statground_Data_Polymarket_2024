@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:18:48.901996Z",
+  "market_createdAt": "2024-10-07T22:18:48.901996Z",
+  "market_updatedAt": "2024-10-14T20:56:56.318097Z",
+  "market_startDate": "2024-10-07T22:20:59.825722Z",
+  "market_endDate": "2024-10-13T17:00:00Z",
+  "market_closedTime": "2024-10-13 21:58:12+00",
+  "conditionId": "0xf9f96c6bce32326586e1f54ad59b177059e8a318c8d5150c2abb9756ef733b68",
+  "slug": "nfl-cle-phi-2024-10-13",
+  "question": "Browns vs. Eagles"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:43:43.565761Z",
+  "market_createdAt": "2024-10-08T19:43:43.565761Z",
+  "market_updatedAt": "2024-10-12T21:50:57.771585Z",
+  "market_startDate": "2024-10-09T15:40:01.243708Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:07:14+00",
+  "conditionId": "0xed07c59cf5013b99bb7d962b1cefb6676b2b03737f07cdc0905dc8139ad5ccb4",
+  "slug": "will-trump-say-fema-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"FEMA\" during Colorado rally on October 11?"
+}

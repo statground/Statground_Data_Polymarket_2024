@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:05:31.149585Z",
+  "market_createdAt": "2024-12-01T05:05:31.149585Z",
+  "market_updatedAt": "2024-12-05T04:45:30.841631Z",
+  "market_startDate": "2024-12-01T05:08:54.74276Z",
+  "market_endDate": "2024-12-11T00:30:00Z",
+  "market_closedTime": "2024-12-04 05:18:38+00",
+  "conditionId": "0x5064fd94a64e230052b4198edb82834834547c5c7082df0d7328af39a515902a",
+  "slug": "nba-orl-nyk-2024-12-03",
+  "question": "Magic vs. Knicks"
+}

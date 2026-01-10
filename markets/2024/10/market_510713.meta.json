@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:39:29.715111Z",
+  "market_createdAt": "2024-10-23T17:39:29.715111Z",
+  "market_updatedAt": "2024-10-29T03:07:04.395728Z",
+  "market_startDate": "2024-10-23T22:26:36.496915Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:15:07+00",
+  "conditionId": "0xe7042b559dbb7a3c394e6d51f3f6cd285b1e096fb618cff3e08d9b0a34c12fb5",
+  "slug": "will-oscar-piastri-win-the-mexico-city-grand-prix",
+  "question": "Will Oscar Piastri win the Mexico City Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:13:44.856387Z",
+  "market_createdAt": "2024-11-05T22:13:44.856387Z",
+  "market_updatedAt": "2024-11-08T21:47:07.288331Z",
+  "market_startDate": "2024-11-07T03:08:33.618522Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:16:47+00",
+  "conditionId": "0x5e3d647902c09f499167f6a3ce3c4982fe5be2da20aa23f5038a649e1942712a",
+  "slug": "will-rfs-beat-anderlecht",
+  "question": "Will RFS beat Anderlecht?"
+}

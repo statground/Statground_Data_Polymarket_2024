@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T21:24:20.154416Z",
+  "market_createdAt": "2024-05-14T21:24:20.154416Z",
+  "market_updatedAt": "2024-05-20T01:41:25.715118Z",
+  "market_startDate": "2024-05-14T22:10:55.276Z",
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 01:39:04+00",
+  "conditionId": "0x813f1632313b8e6b3cf0bd03eb316d1cb5e21fd9db654badaa38495de5cd2664",
+  "slug": "will-someone-else-win-the-2024-pga-championship",
+  "question": "Will someone else win the 2024 PGA Championship?"
+}

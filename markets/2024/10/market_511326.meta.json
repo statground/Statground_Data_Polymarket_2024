@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:12:00.363083Z",
+  "market_createdAt": "2024-10-29T19:12:00.363083Z",
+  "market_updatedAt": "2024-10-31T04:47:05.334176Z",
+  "market_startDate": "2024-10-29T20:11:39.359673Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:42:28+00",
+  "conditionId": "0x83305e66581794d118aa87df6e51667998eeb02c7fdb46583e0afe56c99363df",
+  "slug": "will-kamala-say-insurrection-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"insurrection\" during DC rally on Oct 29?"
+}

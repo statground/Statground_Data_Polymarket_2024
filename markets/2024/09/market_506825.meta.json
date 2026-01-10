@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:04:38.615743Z",
+  "market_createdAt": "2024-09-11T16:04:38.615743Z",
+  "market_updatedAt": "2024-09-14T00:07:02.574305Z",
+  "market_startDate": "2024-09-11T17:31:19.360187Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:41:31+00",
+  "conditionId": "0x3cac0a6272f4fa938a67231c1ec508a1fba6b739fd55ebac68f7da7da55c28b7",
+  "slug": "will-trump-say-abdul-during-his-arizona-rally",
+  "question": "Will Trump say \"Abdul\" during his Arizona rally?"
+}

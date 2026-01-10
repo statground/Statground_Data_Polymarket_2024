@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:06:56.542411Z",
+  "market_createdAt": "2024-12-10T21:06:56.542411Z",
+  "market_updatedAt": "2024-12-13T22:15:23.369556Z",
+  "market_startDate": "2024-12-11T22:48:27.005041Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:08:21+00",
+  "conditionId": "0x2ee554e3d84da5f38fff787a7ea1ce263916b5aa350925579304ddbc0db3a103",
+  "slug": "will-as-roma-beat-braga",
+  "question": "Will AS Roma beat Braga?"
+}

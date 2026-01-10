@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514027",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:32:02.400026Z",
+  "market_createdAt": "2024-11-25T22:32:02.400026Z",
+  "market_updatedAt": "2025-02-25T12:23:33.812908Z",
+  "market_startDate": "2024-12-16T18:23:03.656Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:30:48+00",
+  "conditionId": "0xf4c062740bed86e48b44177aae609c9c76e44cba5318aba240b94066939b672b",
+  "slug": "will-spd-win-the-most-seats-in-the-next-german-election",
+  "question": "Will SPD win the most seats in the next German election?"
+}

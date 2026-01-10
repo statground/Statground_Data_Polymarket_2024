@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T22:39:33.673494Z",
+  "market_createdAt": "2024-04-08T22:39:33.673494Z",
+  "market_updatedAt": "2024-05-07T23:09:20.707231Z",
+  "market_startDate": "2024-04-08T22:47:51.718Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-09 05:31:27+00",
+  "conditionId": "0x45a11bee27b86642d445d2ed3ac601ff22e4fcd565cffc3425c5704fec909376",
+  "slug": "uconn-v-purdue-overunder-144pt5-points",
+  "question": "UConn v. Purdue: Over/Under 144.5 points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T18:18:52.666428Z",
+  "market_createdAt": "2024-06-21T18:18:52.666428Z",
+  "market_updatedAt": "2024-06-23T15:51:11.474138Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-22 18:07:14+00",
+  "conditionId": "0x7f9b2accc2550776b5bfecca3b98454825e1c9a948464fa2245639e89ea904b0",
+  "slug": "will-the-match-be-a-draw-georgia-czechia",
+  "question": "Will the match be a draw?"
+}

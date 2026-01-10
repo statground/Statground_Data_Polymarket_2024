@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-29T18:01:01.811566Z",
+  "market_createdAt": "2024-03-29T18:01:01.811566Z",
+  "market_updatedAt": "2024-05-07T23:09:16.587172Z",
+  "market_startDate": "2024-03-29T18:03:04.612Z",
+  "market_endDate": "2024-04-05T12:00:00Z",
+  "market_closedTime": "2024-04-05 18:03:36+00",
+  "conditionId": "0x8e8e955c2335e3ed5c9c7986d1562a76fd4b747fafc057be95b4deff3c2d84ea",
+  "slug": "bitcoin-above-70000-on-april-5",
+  "question": "Bitcoin above $70,000 on April 5?"
+}

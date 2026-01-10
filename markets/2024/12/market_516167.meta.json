@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T20:26:43.759274Z",
+  "market_createdAt": "2024-12-20T20:26:43.759274Z",
+  "market_updatedAt": "2024-12-23T17:17:42.336451Z",
+  "market_startDate": "2024-12-20T21:32:22.393899Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-22 22:59:04+00",
+  "conditionId": "0x71f14c6aeddd8125cc24fc8a3767a055df824b400b1772ed3acb7a532c443c0a",
+  "slug": "will-the-bengals-and-browns-combine-for-47-or-more-points",
+  "question": "Will the Bengals and Browns combine for 47 or more points?"
+}

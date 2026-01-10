@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T23:38:42.180621Z",
+  "market_createdAt": "2024-10-09T23:38:42.180621Z",
+  "market_updatedAt": "2024-11-16T21:45:04.115438Z",
+  "market_startDate": "2024-10-30T18:34:03.832314Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-16 19:09:41+00",
+  "conditionId": "0x4cc3c3999a7e8ad18e490ba46601d0caec6c0044a1b2568ef77a190e50998b33",
+  "slug": "trump-wins-270-268-ga-nc-pa",
+  "question": "Trump wins 270-268 - GA, NC, PA"
+}

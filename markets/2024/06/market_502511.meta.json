@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T21:47:40.161619Z",
+  "market_createdAt": "2024-06-15T21:47:40.161619Z",
+  "market_updatedAt": "2024-06-17T18:21:14.07135Z",
+  "market_startDate": "2024-06-16T15:42:34.791Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-16 21:01:48+00",
+  "conditionId": "0xcebe1cb6e3f9f6daff62bbee384ed48b22fe006e65e43437aeec8b1043135d70",
+  "slug": "will-the-match-be-a-draw-slovenia-denmark",
+  "question": "Will the match be a draw?"
+}

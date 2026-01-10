@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:09:46.969165Z",
+  "market_createdAt": "2024-11-07T19:09:46.969165Z",
+  "market_updatedAt": "2024-11-24T00:38:50.106919Z",
+  "market_startDate": "2024-11-07T20:35:42.172225Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:25:23+00",
+  "conditionId": "0x6cccd68bbbaa6769d5fac2b2d1ac698651a29eff072367db6a05f45b6f4d1522",
+  "slug": "will-trump-nominate-patrick-pizzella-for-labor-secretary",
+  "question": "Will Trump nominate Patrick Pizzella for Labor Secretary?"
+}

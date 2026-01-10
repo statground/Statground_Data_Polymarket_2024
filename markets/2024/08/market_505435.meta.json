@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T15:22:51.062083Z",
+  "market_createdAt": "2024-08-20T15:22:51.062083Z",
+  "market_updatedAt": "2025-01-22T07:31:02.512344Z",
+  "market_startDate": "2024-08-22T19:11:26.717Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 07:38:27+00",
+  "conditionId": "0x5dc75ad04551b23845e0eaa8f495f5ebc14234a087e09eddbcd7bbcceba177d1",
+  "slug": "will-ohio-state-win-the-2025-college-football-playoff",
+  "question": "Will Ohio State win the 2025 College Football Playoff?"
+}

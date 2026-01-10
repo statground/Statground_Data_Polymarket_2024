@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:36:30.697624Z",
+  "market_createdAt": "2024-09-19T20:36:30.697624Z",
+  "market_updatedAt": "2024-12-16T05:43:34.241366Z",
+  "market_startDate": "2024-09-19T21:29:32.616191Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:41:39+00",
+  "conditionId": "0x65b454dd799082823861971ce70e7cec1913dd463dcb6f9b4a9353e729d0a51a",
+  "slug": "will-miller-moss-win-the-heisman-trophy",
+  "question": "Will Miller Moss win the Heisman Trophy?"
+}

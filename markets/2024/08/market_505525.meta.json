@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:48:51.764155Z",
+  "market_createdAt": "2024-08-21T14:48:51.764155Z",
+  "market_updatedAt": "2024-08-23T03:27:07.645921Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:21:06+00",
+  "conditionId": "0x35549eb5cadc636838b9980df257a781010e1be45bbeb26e3aa14c1718f17f20",
+  "slug": "will-pelosi-say-convicted-felon-at-dnc-speech",
+  "question": "Will Pelosi say \"Convicted felon\" at DNC speech?"
+}

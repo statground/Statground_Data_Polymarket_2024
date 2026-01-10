@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:22:12.808664Z",
+  "market_createdAt": "2024-07-08T22:22:12.808664Z",
+  "market_updatedAt": "2024-07-22T20:40:42.284797Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:35:58+00",
+  "conditionId": "0x75a9197a2d8562d9af4ed0416c31310be044977b50f39245999195ae56923c0a",
+  "slug": "will-tadej-pogacar-win-the-2024-tour-de-france",
+  "question": "Will Tadej Pogačar win the 2024 Tour de France?"
+}

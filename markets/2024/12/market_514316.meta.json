@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:15:55.808827Z",
+  "market_createdAt": "2024-12-01T05:15:55.808827Z",
+  "market_updatedAt": "2024-12-09T03:11:26.573563Z",
+  "market_startDate": "2024-12-01T05:19:21.801815Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 04:35:48+00",
+  "conditionId": "0xe49ff47d60b55bdfb87547a43bb98d2b0ea800c59d29d4776e7a5abb112407ee",
+  "slug": "nba-okc-nop-2024-12-07",
+  "question": "Thunder vs. Pelicans"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:46:42.500533Z",
+  "market_createdAt": "2024-07-25T18:46:42.500533Z",
+  "market_updatedAt": "2024-08-12T17:52:58.303568Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:54:50+00",
+  "conditionId": "0x3b61875fc84180b2cb4e72299443d3529afbcdba245c3211b6c5f8402991f7b6",
+  "slug": "will-france-win-the-3rd-most-gold-medals",
+  "question": "Will France win the 3rd most gold medals?"
+}

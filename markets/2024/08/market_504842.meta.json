@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T18:08:23.876681Z",
+  "market_createdAt": "2024-08-09T18:08:23.876681Z",
+  "market_updatedAt": "2024-08-11T05:56:55.962791Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 12:15:18+00",
+  "conditionId": "0x124ace6e9e7d468240bb2fb5863af637010bbabbb6268dd7adc14e3085ad0f17",
+  "slug": "will-deresa-geleta-eth-win-gold-in-the-mens-marathon",
+  "question": "Will Deresa Geleta (ETH) win gold in the Men’s Marathon?"
+}

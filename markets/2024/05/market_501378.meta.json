@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:41:00.961592Z",
+  "market_createdAt": "2024-05-03T14:41:00.961592Z",
+  "market_updatedAt": "2024-05-07T23:09:52.627177Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:29:34+00",
+  "conditionId": "0x05fda6a33bd1ab2d83579319d5c5606b991cc0201ed51d91d1d94b3e326ce082",
+  "slug": "will-catalytic-win-the-2024-kentucky-derby",
+  "question": "Will Catalytic win the 2024 Kentucky Derby?"
+}

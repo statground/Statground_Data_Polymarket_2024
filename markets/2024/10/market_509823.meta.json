@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:53:05.027304Z",
+  "market_createdAt": "2024-10-14T18:53:05.027304Z",
+  "market_updatedAt": "2024-10-16T22:56:54.491316Z",
+  "market_startDate": "2024-10-15T00:05:25.544878Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-15 23:50:55+00",
+  "conditionId": "0xe897167463555127064c68fa78c5d7eacc7ed5ffc3c6da50e3d6dac23a70fea4",
+  "slug": "will-switzerland-beat-denmark",
+  "question": "Will Switzerland beat Denmark?"
+}

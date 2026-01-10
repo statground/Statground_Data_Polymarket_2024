@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:47:18.718796Z",
+  "market_createdAt": "2024-10-02T20:47:18.718796Z",
+  "market_updatedAt": "2024-10-08T22:42:47.861758Z",
+  "market_startDate": "2024-10-02T21:51:48.354327Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-08 03:21:34+00",
+  "conditionId": "0x9daf059016a898eef0d36a30bec7ad14e92c51721e1c84ce79ed5bb1d68625f9",
+  "slug": "will-imperial-win-iem-rio-2024",
+  "question": "Will Imperial win IEM Rio 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T16:47:41.175424Z",
+  "market_createdAt": "2024-05-29T16:47:41.175424Z",
+  "market_updatedAt": "2024-10-27T02:32:55.016838Z",
+  "market_startDate": "2024-06-01T05:40:00.149Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-10-26 02:32:51+00",
+  "conditionId": "0x5c9490cd2121384ebb7a08b0aed1fa9a5239d98096d91b4bd6827c47c94951b2",
+  "slug": "israel-military-action-against-iran-by-end-of-2024",
+  "question": "Israel military action against Iran by end of 2024?"
+}

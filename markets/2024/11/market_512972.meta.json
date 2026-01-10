@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T18:41:49.638387Z",
+  "market_createdAt": "2024-11-13T18:41:49.638387Z",
+  "market_updatedAt": "2025-01-02T06:45:08.388755Z",
+  "market_startDate": "2024-11-13T18:51:34.266Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:17:16+00",
+  "conditionId": "0x79c2569620d75461154982a53bc77d9f77cb9ab6094a4f71b01eb25fef15540e",
+  "slug": "popcat-listed-on-binance-or-coinbase-in-2024",
+  "question": "$POPCAT listed on Binance or Coinbase in 2024?"
+}

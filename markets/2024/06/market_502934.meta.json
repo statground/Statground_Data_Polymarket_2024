@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T18:42:11.472023Z",
+  "market_createdAt": "2024-06-26T18:42:11.472023Z",
+  "market_updatedAt": "2024-06-29T05:51:03.392378Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:26:51+00",
+  "conditionId": "0xf7654f4575ac5dbee7d02906310b2e552f4dddc0439d4c600c3f25bb3e194bdf",
+  "slug": "will-trump-announce-vp-pick-during-the-debate",
+  "question": "Will Trump announce VP pick during the debate?"
+}

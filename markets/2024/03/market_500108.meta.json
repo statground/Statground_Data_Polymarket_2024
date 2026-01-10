@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T16:15:37.396177Z",
+  "market_createdAt": "2024-03-13T16:15:37.396177Z",
+  "market_updatedAt": "2024-11-23T03:06:52.166099Z",
+  "market_startDate": "2024-04-03T22:02:20.085Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:10:15+00",
+  "conditionId": "0x9df4efa8764eec4d1bd089e8598447d32408951ad502f483eecae2e0a19480bd",
+  "slug": "will-a-democrat-win-pennsylvania-us-senate-election",
+  "question": "Will a Democrat win Pennsylvania US Senate Election?"
+}

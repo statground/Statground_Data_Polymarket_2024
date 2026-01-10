@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:49:52.028735Z",
+  "market_createdAt": "2024-08-12T17:49:52.028735Z",
+  "market_updatedAt": "2024-08-16T03:17:06.729181Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-15 06:28:16+00",
+  "conditionId": "0x7eeb394f9dd77cb9cedc4126b1f7f960e04dd45ec214a651aed289888cd9550f",
+  "slug": "will-daniil-medvedev-win-the-2024-atp-cincinnati-mens-singles-tournament",
+  "question": "Will Daniil Medvedev win the 2024 ATP Cincinnati Men’s Singles tournament?"
+}

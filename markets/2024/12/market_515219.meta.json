@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T23:10:15.051570Z",
+  "market_createdAt": "2024-12-09T23:10:15.05157Z",
+  "market_updatedAt": "2024-12-16T08:17:31.465974Z",
+  "market_startDate": "2024-12-10T18:04:44.553452Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 08:23:30+00",
+  "conditionId": "0x64bb374adc3994ca6556877e1708156454bf115db1598932f3cc4a54e695f760",
+  "slug": "covington-vs-buckley",
+  "question": "Covington vs. Buckley"
+}

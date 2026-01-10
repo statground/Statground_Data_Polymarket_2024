@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:14:51.742574Z",
+  "market_createdAt": "2024-10-01T17:14:51.742574Z",
+  "market_updatedAt": "2024-10-04T20:36:42.22391Z",
+  "market_startDate": "2024-10-02T15:05:40.450139Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:09:34+00",
+  "conditionId": "0xa39e17d0c77d371700969fe4ee1e80602655b8964ce2337b4b4b07206d5301b0",
+  "slug": "will-twente-beat-fenerbahce",
+  "question": "Will Twente beat Fenerbahce?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:41:31.270692Z",
+  "market_createdAt": "2024-08-20T19:41:31.270692Z",
+  "market_updatedAt": "2024-08-22T21:13:01.816194Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:32:45+00",
+  "conditionId": "0x04659e7b647f5ddbd0f7a11d63cb9b3c7bd9a28b0ab920cbf030ff0c18342a5c",
+  "slug": "will-trump-say-israel-during-wednesday-speech",
+  "question": "Will Trump say \"Israel\" during Wednesday speech?"
+}

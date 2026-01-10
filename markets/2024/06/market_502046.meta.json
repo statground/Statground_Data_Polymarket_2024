@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T19:25:17.350974Z",
+  "market_createdAt": "2024-06-03T19:25:17.350974Z",
+  "market_updatedAt": "2024-11-08T08:12:55.445487Z",
+  "market_startDate": "2024-06-04T20:13:11.828Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 08:10:43+00",
+  "conditionId": "0x75e90d6830fcc4b274acdbf8869a8b0f464a67d0b86c97d3081a8696a3cd8134",
+  "slug": "trump-increase-share-of-black-voters",
+  "question": "Trump gets more black voters than in 2020?"
+}

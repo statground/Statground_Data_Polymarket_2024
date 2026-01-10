@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:25:57.656921Z",
+  "market_createdAt": "2024-11-21T22:25:57.656921Z",
+  "market_updatedAt": "2024-12-02T20:19:11.65161Z",
+  "market_startDate": "2024-11-21T22:57:23.165305Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 20:14:00+00",
+  "conditionId": "0x66c863e417eb08c8532fab32e948c9744570dc867293abc7f24fd5e6ecdec463",
+  "slug": "will-mrbeast-x-ronaldo-video-get-less-than-50m-views-on-day-1",
+  "question": "Will MrBeast x Ronaldo video get less than 50m views on day 1?"
+}

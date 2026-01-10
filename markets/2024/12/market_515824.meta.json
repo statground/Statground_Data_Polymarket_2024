@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T23:47:31.040511Z",
+  "market_createdAt": "2024-12-16T23:47:31.040511Z",
+  "market_updatedAt": "2024-12-19T17:09:20.154029Z",
+  "market_startDate": "2024-12-17T01:19:11.049591Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 17:37:40+00",
+  "conditionId": "0x6dab006adcf28d0f7ba4cbac4fbe95b8a139761453ec12cca698eecb8dd12ba1",
+  "slug": "pengu-market-cap-fdv-1b-one-day-after-launch",
+  "question": "$PENGU market cap (FDV) <$1b one day after launch?"
+}

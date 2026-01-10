@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:53:25.453614Z",
+  "market_createdAt": "2024-11-20T19:53:25.453614Z",
+  "market_updatedAt": "2025-04-21T04:38:48.846489Z",
+  "market_startDate": "2024-11-21T23:10:52.771Z",
+  "market_endDate": "2025-04-28T12:00:00Z",
+  "market_closedTime": "2025-04-21 04:35:47+00",
+  "conditionId": "0x841304aa72d9e013afff9ee55dd4d6052caeda615b31892c88e61b95942808f3",
+  "slug": "will-mike-brown-win-nba-coach-of-the-year",
+  "question": "Will Mike Brown win NBA Coach of the Year?"
+}

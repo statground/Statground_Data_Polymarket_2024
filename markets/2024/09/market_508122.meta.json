@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:15:09.975146Z",
+  "market_createdAt": "2024-09-25T18:15:09.975146Z",
+  "market_updatedAt": "2024-09-29T01:40:44.139232Z",
+  "market_startDate": "2024-09-25T19:05:58.888246Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-28 02:17:35+00",
+  "conditionId": "0xdd85a80c1a5aa365d990e6a1d2b2e45e0534a7c629dc0ee815aef0ff3ad56883",
+  "slug": "will-donald-trump-say-iran-during-his-michigan-town-hall",
+  "question": "Will Donald Trump say \"Iran\" during his Michigan town hall?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:54:31.066562Z",
+  "market_createdAt": "2024-10-03T20:54:31.066562Z",
+  "market_updatedAt": "2024-10-10T02:26:40.998247Z",
+  "market_startDate": "2024-10-03T22:35:27.845Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:46:11+00",
+  "conditionId": "0xb2d62fcadf72190f8bcb280be71dae88ea83c9c045b084aedcc99bcc9c1c3838",
+  "slug": "will-the-hbo-documentary-identify-gavin-andresen-as-satoshi",
+  "question": "Will the HBO documentary identify Gavin Andresen as Satoshi?"
+}

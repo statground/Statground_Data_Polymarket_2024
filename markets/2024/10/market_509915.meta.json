@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:53:47.372984Z",
+  "market_createdAt": "2024-10-15T18:53:47.372984Z",
+  "market_updatedAt": "2024-10-18T04:10:47.676545Z",
+  "market_startDate": "2024-10-15T20:39:03.861Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 04:27:42+00",
+  "conditionId": "0xc532dd73b9478bf6621b12cc9197de65a9d0053637ccf0de13f357396d0b943e",
+  "slug": "will-trump-say-hispanic-3-or-more-times-during-univision-town-hall",
+  "question": "Will Trump say \"hispanic\" 3 or more times during Univision town hall?"
+}

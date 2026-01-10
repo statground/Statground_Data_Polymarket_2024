@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T20:06:23.224500Z",
+  "market_createdAt": "2024-05-13T20:06:23.2245Z",
+  "market_updatedAt": "2024-05-21T22:54:11.41355Z",
+  "market_startDate": "2024-05-13T21:23:04.632Z",
+  "market_endDate": "2024-05-20T12:00:00Z",
+  "market_closedTime": "2024-05-21 01:52:34+00",
+  "conditionId": "0x606a23a989cacf667195942966a2f9e6fa569a18af42c6f6b06a4bb71e6ab0ee",
+  "slug": "will-if-gross-more-than-33m-opening-weekend",
+  "question": "Will 'If' gross more than $33m opening weekend?"
+}

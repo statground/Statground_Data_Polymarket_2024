@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:01:23.838993Z",
+  "market_createdAt": "2024-11-02T22:01:23.838993Z",
+  "market_updatedAt": "2024-11-05T05:07:10.75407Z",
+  "market_startDate": "2024-11-02T23:24:22.067Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:10:47+00",
+  "conditionId": "0x169d9a3193c2ea19b806ed8d7b500dd3264b8eb54d323df5afbd032e88c1de95",
+  "slug": "will-trump-say-unrealized-during-macon-ga-rally",
+  "question": "Will Trump say \"unrealized\" during Macon, GA rally?"
+}

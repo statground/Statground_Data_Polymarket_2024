@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500493",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-27T21:21:40.347067Z",
+  "market_createdAt": "2024-03-27T21:21:40.347067Z",
+  "market_updatedAt": "2024-05-07T23:09:10.998152Z",
+  "market_startDate": "2024-03-27T23:20:19.271Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-04-03 10:30:46+00",
+  "conditionId": "0x01aaf2d58201c4709756501b39ac1679669b490d25480e127c5290c9487be2a4",
+  "slug": "ethena-market-cap-fdv-more-than-15-billion-a-day-after-airdrop",
+  "question": "Ethena token (FDV) more than 15 billion a day after launch?"
+}

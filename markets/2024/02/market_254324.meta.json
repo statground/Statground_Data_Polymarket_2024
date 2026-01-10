@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-06T17:39:39.596000Z",
+  "market_createdAt": "2024-02-06T17:39:39.596Z",
+  "market_updatedAt": "2024-03-02T04:26:20.886Z",
+  "market_startDate": "2024-02-06T17:54:40.695Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:18:12+00",
+  "conditionId": "0x72568c01fd63f71827003d0c2af7de145607dfe49b224584199c9f8dc43e5c9f",
+  "slug": "will-solana-network-go-down-again-in-february",
+  "question": "Will Solana Network go down again in February?"
+}

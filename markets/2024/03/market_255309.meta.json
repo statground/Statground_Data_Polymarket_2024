@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T23:00:47.807000Z",
+  "market_createdAt": "2024-03-05T23:00:47.807Z",
+  "market_updatedAt": "2024-05-07T23:09:38.481768Z",
+  "market_startDate": "2024-03-05T23:08:58.827Z",
+  "market_endDate": "2024-04-18T12:00:00Z",
+  "market_closedTime": "2024-04-19 23:07:09+00",
+  "conditionId": "0x51fc4dfcc0a6084ca127fd795d0529a2776988ed9494ea5ed343842bd744488e",
+  "slug": "ansem-vs-barney",
+  "question": "Ansem vs. Barney"
+}

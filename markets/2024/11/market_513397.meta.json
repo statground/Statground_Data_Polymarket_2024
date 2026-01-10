@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T21:04:25.381369Z",
+  "market_createdAt": "2024-11-18T21:04:25.381369Z",
+  "market_updatedAt": "2025-01-01T23:43:11.12114Z",
+  "market_startDate": "2024-11-18T21:40:15.482841Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:53:28+00",
+  "conditionId": "0x9e6f8fd5ac30a99d24dbdb9f813e7b44859dcc977d596199bb33e1af27ed2656",
+  "slug": "will-neiro-be-listed-first-on-binance",
+  "question": "Will $NEIRO be listed first on Binance?"
+}

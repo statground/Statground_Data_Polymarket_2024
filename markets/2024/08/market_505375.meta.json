@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:34:56.777973Z",
+  "market_createdAt": "2024-08-19T19:34:56.777973Z",
+  "market_updatedAt": "2024-08-25T19:56:55.475443Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 22:04:20+00",
+  "conditionId": "0xd22e5e61d706d872b0227f7bf2c6f16a1b04a99cee1a645995e2d935d5d719c0",
+  "slug": "nfl-hou-lar-2024-08-24",
+  "question": "Texans vs. Rams"
+}

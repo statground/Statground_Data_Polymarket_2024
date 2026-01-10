@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:06:05.686098Z",
+  "market_createdAt": "2024-12-22T07:06:05.686098Z",
+  "market_updatedAt": "2024-12-29T05:43:17.595978Z",
+  "market_startDate": "2024-12-22T07:08:37.791486Z",
+  "market_endDate": "2025-01-04T01:00:00Z",
+  "market_closedTime": "2024-12-28 05:59:04+00",
+  "conditionId": "0x16ab954881eea60f1d39e1760cc0bbdd457d24c25b3f97cae3ea23bcb7e2ffc3",
+  "slug": "nhl-nsh-stl-2024-12-27",
+  "question": "Predators vs. Blues"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:22:50.937169Z",
+  "market_createdAt": "2024-11-18T20:22:50.937169Z",
+  "market_updatedAt": "2024-12-12T19:33:14.809093Z",
+  "market_startDate": "2024-11-18T20:43:10.121557Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-11 20:49:08+00",
+  "conditionId": "0x7e3a54031521a54cb8bbe38ac1267f2e3de49dbdcc23badb8f04b23a803780b8",
+  "slug": "will-npp-win-the-most-seats-in-the-ghanaian-parliamentary-election",
+  "question": "Will NPP win the most seats in the Ghanaian parliamentary election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T15:25:00.202530Z",
+  "market_createdAt": "2024-06-20T15:25:00.20253Z",
+  "market_updatedAt": "2024-07-05T21:30:49.970896Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 10:46:57+00",
+  "conditionId": "0x539ffc9cac0accda7be7c51b1e95563c45e67b798a965d14fe2d29d0c8a854c5",
+  "slug": "will-the-liberal-democrats-win-less-than-30-seats-in-the-next-uk-election",
+  "question": "Will the Liberal Democrats win less than 30 seats in the next UK Election?"
+}

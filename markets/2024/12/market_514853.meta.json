@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T18:37:15.738389Z",
+  "market_createdAt": "2024-12-05T18:37:15.738389Z",
+  "market_updatedAt": "2024-12-07T17:21:15.379381Z",
+  "market_startDate": "2024-12-05T18:45:32.728666Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-06 17:24:43+00",
+  "conditionId": "0xe2701c7e39b9e488966d3a81490b501d55b3f8932fea8ded9a8597b187d54c57",
+  "slug": "will-ethereum-hit-4000-by-sunday",
+  "question": "Will Ethereum hit $4,000 by Sunday?"
+}

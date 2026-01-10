@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:44:56.309722Z",
+  "market_createdAt": "2024-06-07T16:44:56.309722Z",
+  "market_updatedAt": "2024-06-15T15:26:13.846405Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-14 18:06:40+00",
+  "conditionId": "0x988f531a96c555dae00f6fb913a9d8bbf3e692719a1f4302098bb16a0c59432b",
+  "slug": "bitcoin-above-71000-on-june-14",
+  "question": "Bitcoin above $71,000 on June 14?"
+}

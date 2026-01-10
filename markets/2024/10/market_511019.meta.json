@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:18:11.074651Z",
+  "market_createdAt": "2024-10-25T21:18:11.074651Z",
+  "market_updatedAt": "2024-10-29T00:41:17.382783Z",
+  "market_startDate": "2024-10-25T22:03:30.643178Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:28:19+00",
+  "conditionId": "0x9f060c6c2163fb54c8fef7f1450fda594d82f9a421dac41b5e3b4207858f17f5",
+  "slug": "will-the-chargers-and-saints-combine-for-42-or-more-points",
+  "question": "Will the Chargers and Saints combine for 42 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:03:21.849000Z",
+  "market_createdAt": "2024-10-18T18:03:21.849Z",
+  "market_updatedAt": "2024-10-20T04:41:58.578013Z",
+  "market_startDate": "2024-10-18T23:07:03.774503Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 04:39:07+00",
+  "conditionId": "0xd3a6d0e3f5b4e1415bcf40498377f06ee1e120e824b9951b79a6cb439c4418f1",
+  "slug": "will-there-be-56-or-more-combined-points-scored-K-St-WV",
+  "question": "Will there be 56 or more combined points scored?"
+}

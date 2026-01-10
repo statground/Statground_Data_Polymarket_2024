@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T22:25:36.601312Z",
+  "market_createdAt": "2024-09-30T22:25:36.601312Z",
+  "market_updatedAt": "2024-10-06T04:06:41.462495Z",
+  "market_startDate": "2024-09-30T22:41:29.141469Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 06:09:07+00",
+  "conditionId": "0xe7eeb22b487c18ba241b3f3e610877c7ed9061b12e4d6f0fae8a4066ca5a7f39",
+  "slug": "will-biden-visit-asheville-by-friday",
+  "question": "Will Biden visit Asheville by Friday?"
+}

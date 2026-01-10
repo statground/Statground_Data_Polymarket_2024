@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:03:16.402800Z",
+  "market_createdAt": "2024-11-17T05:03:16.4028Z",
+  "market_updatedAt": "2024-11-21T05:17:03.089874Z",
+  "market_startDate": "2024-11-17T05:05:46.112241Z",
+  "market_endDate": "2024-11-27T01:00:00Z",
+  "market_closedTime": "2024-11-20 05:46:17+00",
+  "conditionId": "0xf0538d88e5c4bdd9bfaadc67d26f6cf54db40a29fdbfb0e5dbf9b0fbad5d7e12",
+  "slug": "nba-den-mem-2024-11-19",
+  "question": "Nuggets vs. Grizzlies"
+}

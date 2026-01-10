@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:12:21.873592Z",
+  "market_createdAt": "2024-08-26T20:12:21.873592Z",
+  "market_updatedAt": "2024-09-09T21:11:10.055712Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 21:59:40+00",
+  "conditionId": "0x9cbf74b70ecf4fa8b5012f32a51eaac13dff8375b953d28168cbf6d5f7147ea4",
+  "slug": "nfl-nyg-min-2024-09-08",
+  "question": "Giants vs. Vikings"
+}

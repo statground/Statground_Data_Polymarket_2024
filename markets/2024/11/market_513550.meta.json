@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:29:45.450567Z",
+  "market_createdAt": "2024-11-20T19:29:45.450567Z",
+  "market_updatedAt": "2025-02-04T04:54:27.29876Z",
+  "market_startDate": "2024-11-20T22:10:42.751Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:32:51+00",
+  "conditionId": "0x9b2fe04bdb10f05e665bdc84954c34edc1a26642a352651bd61b428b6e73eee4",
+  "slug": "will-short-n-sweet-win-album-of-the-year",
+  "question": "Will 'Short n' Sweet' win Album of the Year?"
+}

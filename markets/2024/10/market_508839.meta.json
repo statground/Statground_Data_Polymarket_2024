@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:38:18.971537Z",
+  "market_createdAt": "2024-10-04T15:38:18.971537Z",
+  "market_updatedAt": "2024-10-06T06:32:44.950317Z",
+  "market_startDate": "2024-10-04T18:23:57.05287Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 06:44:24+00",
+  "conditionId": "0x8db07506bd3667b80d80b0dac600e6c3cf3cae15c00dc8981604c8733038a5e1",
+  "slug": "will-unlv-beat-syracuse",
+  "question": "Will UNLV beat Syracuse?"
+}

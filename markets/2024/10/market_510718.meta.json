@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:09:42.432511Z",
+  "market_createdAt": "2024-10-23T18:09:42.432511Z",
+  "market_updatedAt": "2024-10-26T20:02:59.910129Z",
+  "market_startDate": "2024-10-23T20:13:26.458991Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-25 23:16:08+00",
+  "conditionId": "0x5ef146e1fb09079f4848c475ce1155c5c70b85783dc660279e049b10b296ea96",
+  "slug": "will-mibr-win-esl-challenger-katowice-2024",
+  "question": "Will MIBR win ESL Challenger Katowice 2024?"
+}

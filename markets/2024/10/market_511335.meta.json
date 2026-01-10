@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:24:10.390851Z",
+  "market_createdAt": "2024-10-29T19:24:10.390851Z",
+  "market_updatedAt": "2024-10-31T02:37:03.171616Z",
+  "market_startDate": "2024-10-29T20:07:57.896528Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:27:34+00",
+  "conditionId": "0x90033ce64bacdc3587297455638037c0f70823566f3714c945f99fac8f9660eb",
+  "slug": "will-trump-say-putin-during-hannity-interview",
+  "question": "Will Trump say \"Putin\" during Hannity interview?"
+}

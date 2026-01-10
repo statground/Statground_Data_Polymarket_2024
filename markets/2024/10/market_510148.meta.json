@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:23:09.226217Z",
+  "market_createdAt": "2024-10-18T17:23:09.226217Z",
+  "market_updatedAt": "2024-10-20T19:06:44.998707Z",
+  "market_startDate": "2024-10-18T23:26:44.799454Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:02:35+00",
+  "conditionId": "0x2bc133265606d0b3eee96e12ea7fdb31038d1f997466f535730b51e04f4c0ae9",
+  "slug": "will-there-be-45-or-more-combined-points-scored-Michigan-Illinois",
+  "question": "Will there be 45 or more combined points scored?"
+}

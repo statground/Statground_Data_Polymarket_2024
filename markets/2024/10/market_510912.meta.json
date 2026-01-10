@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:31:38.801373Z",
+  "market_createdAt": "2024-10-25T15:31:38.801373Z",
+  "market_updatedAt": "2024-10-27T03:06:52.409992Z",
+  "market_startDate": "2024-10-25T22:41:06.267618Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:11:15+00",
+  "conditionId": "0xee946cf2eb63056a898742df48cf489a3c908032a495e326bdaf8da016c2fda6",
+  "slug": "will-louisville-beat-boston-college-by-8-or-more-points",
+  "question": "Will Louisville beat Boston College by 8 or more points?"
+}

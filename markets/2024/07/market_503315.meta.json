@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:29:29.936472Z",
+  "market_createdAt": "2024-07-09T15:29:29.936472Z",
+  "market_updatedAt": "2025-01-13T04:13:20.394455Z",
+  "market_startDate": "2024-07-09T15:29:29.936472Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-12 04:09:11+00",
+  "conditionId": "0x446e2d8e2ffbe7db85cd2239892df5447e73325b3552d07d5d6901b2eff95a59",
+  "slug": "will-the-chargers-win-super-bowl-2025",
+  "question": "Will the Chargers win Super Bowl 2025?"
+}

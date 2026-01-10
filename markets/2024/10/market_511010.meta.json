@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:07:05.317780Z",
+  "market_createdAt": "2024-10-25T21:07:05.31778Z",
+  "market_updatedAt": "2024-10-28T19:42:56.668197Z",
+  "market_startDate": "2024-10-25T21:59:25.171067Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 21:40:18+00",
+  "conditionId": "0x7b7b38db2e6871c799f48692c7cde0d399ef775b5c0e45b395aab214df2f46ad",
+  "slug": "will-the-dolphins-and-cardinals-combine-for-47-or-more-points",
+  "question": "Will the Dolphins and Cardinals combine for 47 or more points?"
+}

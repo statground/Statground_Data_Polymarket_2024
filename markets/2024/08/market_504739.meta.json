@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:50:26.000753Z",
+  "market_createdAt": "2024-08-08T17:50:26.000753Z",
+  "market_updatedAt": "2024-12-23T20:39:36.623382Z",
+  "market_startDate": "2024-08-08T17:50:26.000753Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-23 00:09:55+00",
+  "conditionId": "0x7abcd5c6cd3ffeedf29a74ca504a248a861a7aa9df1bf57718258775615c9e52",
+  "slug": "will-the-san-francisco-49ers-win-the-nfc-west",
+  "question": "Will the San Francisco 49ers win the NFC West?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T20:13:04.196522Z",
+  "market_createdAt": "2024-10-29T20:13:04.196522Z",
+  "market_updatedAt": "2024-11-02T00:27:10.588732Z",
+  "market_startDate": "2024-10-29T20:16:45.961243Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-11-01 00:36:30+00",
+  "conditionId": "0x65f670cf6f0bbac44a2fa0fdb0df8a6841af0f5cc2a72ff11add4870d5319198",
+  "slug": "will-jd-vance-say-crypto-or-bitcoin-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"crypto\" or \"Bitcoin\" during the Joe Rogan podcast?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-07T06:49:58.618608Z",
+  "market_createdAt": "2024-09-07T06:49:58.618608Z",
+  "market_updatedAt": "2024-09-08T23:27:06.330506Z",
+  "market_startDate": "2024-09-07T06:53:18.546Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 00:01:20+00",
+  "conditionId": "0x805f6fe1dc96bdb9535f1443830f72b24bf02019ed419727512afe8095c25330",
+  "slug": "will-hikaru-or-hans-win-3rd-place-in-scc-2024",
+  "question": "Will Hikaru or Hans win 3rd place in SCC 2024?"
+}

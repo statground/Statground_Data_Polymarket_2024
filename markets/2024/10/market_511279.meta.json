@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T22:07:18.386035Z",
+  "market_createdAt": "2024-10-28T22:07:18.386035Z",
+  "market_updatedAt": "2024-11-04T00:36:57.008197Z",
+  "market_startDate": "2024-10-29T00:23:59.522Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 00:33:34+00",
+  "conditionId": "0xb950a8a451dff2add230cbadc8c630daab55cd80472cf6a819d26eba6153fe5b",
+  "slug": "will-trump-say-weave-during-virginia-rally-on-nov-2",
+  "question": "Will Trump say \"weave\" during Virginia rally on Nov 2?"
+}

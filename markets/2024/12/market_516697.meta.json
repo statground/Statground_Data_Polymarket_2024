@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:12:58.040911Z",
+  "market_createdAt": "2024-12-29T07:12:58.040911Z",
+  "market_updatedAt": "2025-01-06T04:15:09.616123Z",
+  "market_startDate": "2024-12-29T07:15:31.755186Z",
+  "market_endDate": "2025-01-12T00:00:00Z",
+  "market_closedTime": "2025-01-05 04:44:11+00",
+  "conditionId": "0x2ee6f6a4076df65b5a10858da0ccc7ac2bc7bd6ef7666f8fa6de7e2ff400f3e0",
+  "slug": "nhl-min-car-2025-01-04",
+  "question": "Wild vs. Hurricanes"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:23:57.559709Z",
+  "market_createdAt": "2024-11-07T19:23:57.559709Z",
+  "market_updatedAt": "2024-11-16T02:19:01.006655Z",
+  "market_startDate": "2024-11-07T22:03:48.993442Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:20:47+00",
+  "conditionId": "0x56bb360c035eb85474b5ade6ef251da5e98bd53e27cb05bff41e35ab39e4b85d",
+  "slug": "will-trump-nominate-tulsi-gabbard-for-secretary-of-veterans-affairs",
+  "question": "Will Trump nominate Tulsi Gabbard for Secretary of Veterans Affairs?"
+}

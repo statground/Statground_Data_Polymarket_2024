@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:11:40.963560Z",
+  "market_createdAt": "2024-12-01T05:11:40.96356Z",
+  "market_updatedAt": "2024-12-07T05:53:12.367474Z",
+  "market_startDate": "2024-12-01T05:15:15.673378Z",
+  "market_endDate": "2024-12-13T01:00:00Z",
+  "market_closedTime": "2024-12-06 05:55:05+00",
+  "conditionId": "0xfd590a1527716c03f14e450c7b99ddb40cbc78463b2bf1f2927728c99fdd661b",
+  "slug": "nba-chi-sas-2024-12-05",
+  "question": "Bulls vs. Spurs"
+}

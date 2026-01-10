@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T19:25:01.321644Z",
+  "market_createdAt": "2024-12-18T19:25:01.321644Z",
+  "market_updatedAt": "2024-12-21T01:01:02.177595Z",
+  "market_startDate": "2024-12-18T19:46:10.303914Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 04:18:15+00",
+  "conditionId": "0x2a0dfcba4bf202737819f15d1a938c875c0b45019a822c4ea146233a8a124b27",
+  "slug": "will-less-than-10-republicans-vote-in-favor-of-government-funding-bill",
+  "question": "Will less than 10 Republicans vote in favor of government funding bill?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T20:45:17.953669Z",
+  "market_createdAt": "2024-05-21T20:45:17.953669Z",
+  "market_updatedAt": "2024-06-16T03:06:12.66065Z",
+  "market_startDate": null,
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 06:28:39+00",
+  "conditionId": "0x0a01721233622eeb67c2a4ad3fe637adb30bf49091425d567b377cd7e4774d94",
+  "slug": "will-biden-nominate-bharat-ramamurti-for-fdic-chair",
+  "question": "Will Biden nominate Bharat Ramamurti for FDIC Chair?"
+}

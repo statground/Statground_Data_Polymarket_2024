@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:46:22.157808Z",
+  "market_createdAt": "2024-08-06T20:46:22.157808Z",
+  "market_updatedAt": "2024-08-14T03:37:01.26949Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-13 03:42:12+00",
+  "conditionId": "0x96d5fcb00e22e4ef2698b4cda361103c811f0426995a623e95cdaee76583e1b3",
+  "slug": "will-trump-say-maga-during-elon-interview",
+  "question": "Will Trump say \"MAGA\" during Elon interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-21T19:13:37.689069Z",
+  "market_createdAt": "2024-07-21T19:13:37.689069Z",
+  "market_updatedAt": "2024-08-07T05:46:56.452808Z",
+  "market_startDate": "2024-07-21T21:01:13.404Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-06 06:00:32+00",
+  "conditionId": "0xc16a9f97a486d690b733b64162b78db12440ff7dcb4d174951932028f90c1c69",
+  "slug": "kamala-nominated-before-democratic-convention",
+  "question": "Will Kamala be Nominee before Convention?"
+}

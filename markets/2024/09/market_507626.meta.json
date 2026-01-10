@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T19:53:01.852386Z",
+  "market_createdAt": "2024-09-20T19:53:01.852386Z",
+  "market_updatedAt": "2024-10-26T07:16:58.313268Z",
+  "market_startDate": "2024-09-24T16:56:33.498549Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-10-25 09:35:45+00",
+  "conditionId": "0x01b2b1c96aecd654af1bfa93db5149f95aa25073960bb6f759f011d143d4dc6d",
+  "slug": "will-another-candidate-win-the-mozambican-presidential-election",
+  "question": "Will another candidate win the Mozambican presidential election?"
+}

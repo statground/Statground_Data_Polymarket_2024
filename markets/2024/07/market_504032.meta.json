@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T16:20:15.791086Z",
+  "market_createdAt": "2024-07-23T16:20:15.791086Z",
+  "market_updatedAt": "2024-08-07T18:42:49.209298Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:55:14+00",
+  "conditionId": "0x6ed7cb74ef01654a3d2dc94e8175e0d68410228311aec7e4c991eb9fe9c2c4c1",
+  "slug": "will-william-mcraven-be-the-2024-democratic-vp-nominee",
+  "question": "Will William McRaven be the 2024 Democratic VP nominee?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T22:32:01.451655Z",
+  "market_createdAt": "2024-10-09T22:32:01.451655Z",
+  "market_updatedAt": "2024-10-12T22:40:57.550463Z",
+  "market_startDate": "2024-10-10T21:53:14.096298Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:53:01+00",
+  "conditionId": "0xe218d6ae9059631af5135e13d431155ceb05763541abe03061f9315b54626a26",
+  "slug": "will-wales-beat-iceland",
+  "question": "Will Wales beat Iceland?"
+}

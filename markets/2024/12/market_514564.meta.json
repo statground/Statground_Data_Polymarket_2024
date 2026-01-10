@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:09:19.805344Z",
+  "market_createdAt": "2024-12-03T17:09:19.805344Z",
+  "market_updatedAt": "2024-12-09T20:51:21.481604Z",
+  "market_startDate": "2024-12-03T19:36:03.623306Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:48:25+00",
+  "conditionId": "0xea5d3925e3d39ca3c31a5fe4d56c9f7b6a13261f54701181fd9eb3d1123b2a40",
+  "slug": "will-lando-norris-win-the-abu-dhabi-grand-prix",
+  "question": "Will Lando Norris win the Abu Dhabi Grand Prix?"
+}

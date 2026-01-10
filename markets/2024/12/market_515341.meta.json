@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:27:40.479685Z",
+  "market_createdAt": "2024-12-10T22:27:40.479685Z",
+  "market_updatedAt": "2024-12-13T23:59:10.603921Z",
+  "market_startDate": "2024-12-11T23:09:44.310282Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:18:59+00",
+  "conditionId": "0x6211db79e945c8f2674e44bd93abcc652a538784f65b66e723d8d288bf8e4932",
+  "slug": "will-tottenham-beat-rangers",
+  "question": "Will Tottenham beat Rangers?"
+}

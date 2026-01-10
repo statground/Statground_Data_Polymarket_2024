@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T18:19:39.680000Z",
+  "market_createdAt": "2024-01-08T18:19:39.68Z",
+  "market_updatedAt": "2024-01-10T05:09:11.731Z",
+  "market_startDate": "2024-01-08T19:14:50.404Z",
+  "market_endDate": "2024-01-08T00:00:00Z",
+  "market_closedTime": "2024-01-09 08:30:34+00",
+  "conditionId": "0xf845d1abe2360b66ad332956b1d8bdbff0729a0cf5a378fbdb28d6e4d569a41c",
+  "slug": "sec-approves-first-spot-bitcoin-etf-on-jan-8",
+  "question": "SEC approves first spot Bitcoin ETF on Jan 8?"
+}

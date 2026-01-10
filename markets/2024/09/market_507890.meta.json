@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:32:39.664675Z",
+  "market_createdAt": "2024-09-24T15:32:39.664675Z",
+  "market_updatedAt": "2025-06-03T16:30:26.95097Z",
+  "market_startDate": "2024-09-24T17:58:48.408Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-10 08:21:31+00",
+  "conditionId": "0xb2527b0abc0dde233f5478d1fa6f043cd9fbe6a79ee1e02711773a3e3a869d53",
+  "slug": "will-the-phoenix-suns-win-the-2025-nba-finals",
+  "question": " Will the Phoenix Suns win the 2025 NBA Finals?"
+}

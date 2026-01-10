@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T23:10:56.773232Z",
+  "market_createdAt": "2024-12-09T23:10:56.773232Z",
+  "market_updatedAt": "2024-12-16T06:35:39.588984Z",
+  "market_startDate": "2024-12-10T18:08:13.029568Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 07:24:15+00",
+  "conditionId": "0x6096f8edeb869e47c9558aa4fb51886e970a0e79ac1efc7e10c70879afe1ca6a",
+  "slug": "kape-vs-silva",
+  "question": "Kape vs. Silva"
+}

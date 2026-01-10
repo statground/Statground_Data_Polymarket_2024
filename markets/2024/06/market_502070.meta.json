@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:07:45.452793Z",
+  "market_createdAt": "2024-06-03T23:07:45.452793Z",
+  "market_updatedAt": "2024-06-18T06:31:07.469975Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:29:34+00",
+  "conditionId": "0x5eccd107136d9f68673cb3006841eb0d06ce70e0c29019d62049d62cdb589ff6",
+  "slug": "kristaps-porzingis-top-scorer-in-nba-finals",
+  "question": "Kristaps Porzingis top scorer in NBA Finals? "
+}

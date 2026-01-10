@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:30:06.900170Z",
+  "market_createdAt": "2024-08-27T19:30:06.90017Z",
+  "market_updatedAt": "2024-08-29T21:11:11.129122Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:31:44+00",
+  "conditionId": "0x25a4744dd2c865fc770d2a18f4c9cc3b170a25a5d2ca0795d41061193e271694",
+  "slug": "will-jd-vance-say-border-7-or-more-times-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"border\" 7 or more times during Pennsylvania rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T14:30:21.176400Z",
+  "market_createdAt": "2024-09-09T14:30:21.1764Z",
+  "market_updatedAt": "2024-09-17T04:26:48.726047Z",
+  "market_startDate": "2024-09-09T14:32:38.091941Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 05:55:43+00",
+  "conditionId": "0x83c0226137dd64d6bfc583aebd16950e4d16ddc6a6da785dcd5c3805dff2d0e6",
+  "slug": "nfl-hou-chi-2024-09-15",
+  "question": "Texans vs. Bears"
+}

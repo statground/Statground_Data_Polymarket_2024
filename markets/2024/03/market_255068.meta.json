@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:43:31.516000Z",
+  "market_createdAt": "2024-03-01T17:43:31.516Z",
+  "market_updatedAt": "2024-11-07T16:22:57.336598Z",
+  "market_startDate": "2024-03-19T18:16:07.375Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:18:37+00",
+  "conditionId": "0x9be6760eca88434624ecb3e9dbf3b1ff161c630559c52d80b2b23b8efbcd43bf",
+  "slug": "will-a-republican-win-new-hampshire-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win New Hampshire in the 2024 US Presidential Election?"
+}

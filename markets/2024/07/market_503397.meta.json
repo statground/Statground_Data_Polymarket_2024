@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T17:18:15.109046Z",
+  "market_createdAt": "2024-07-11T17:18:15.109046Z",
+  "market_updatedAt": "2024-07-13T02:52:48.969012Z",
+  "market_startDate": "2024-07-11T18:16:55.847Z",
+  "market_endDate": "2024-07-11T12:00:00Z",
+  "market_closedTime": "2024-07-12 04:03:23+00",
+  "conditionId": "0x42bd1f8a24d973723ca8db9de3385dc09cdd69cd5ad0f1721e3bd8709fc52f69",
+  "slug": "will-biden-say-old-during-july-11-press-conference",
+  "question": "Will Biden say \"Old\" during July 11 press conference?"
+}

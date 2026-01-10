@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501217",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T15:11:02.008993Z",
+  "market_createdAt": "2024-04-29T15:11:02.008993Z",
+  "market_updatedAt": "2024-05-07T23:09:41.273253Z",
+  "market_startDate": "2024-04-29T15:18:41.231Z",
+  "market_endDate": "2024-04-29T12:00:00Z",
+  "market_closedTime": "2024-04-30 06:28:18+00",
+  "conditionId": "0xf4be762ca999f39e83b2a8974df683b33bd6a2514fdca7498e71de858a5f8884",
+  "slug": "nba-den-lal-2024-04-29",
+  "question": "NBA: Denver Nuggets vs. Los Angeles Lakers 2024-04-29"
+}

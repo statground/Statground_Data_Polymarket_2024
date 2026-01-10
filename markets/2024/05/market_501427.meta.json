@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T16:18:37.806031Z",
+  "market_createdAt": "2024-05-06T16:18:37.806031Z",
+  "market_updatedAt": "2024-05-12T03:33:57.7111Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-09T12:00:00Z",
+  "market_closedTime": "2024-05-11 06:04:08+00",
+  "conditionId": "0x48c6ce882db38f63e31a081527da32ff575f4e303d030ebfb0059a0f92abd597",
+  "slug": "drake-arrested-by-friday",
+  "question": "Drake arrested by Friday? "
+}

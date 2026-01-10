@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:08:26.417519Z",
+  "market_createdAt": "2024-11-17T05:08:26.417519Z",
+  "market_updatedAt": "2024-11-25T02:11:43.871804Z",
+  "market_startDate": "2024-11-17T05:11:00.050047Z",
+  "market_endDate": "2024-11-30T22:00:00Z",
+  "market_closedTime": "2024-11-24 02:27:41+00",
+  "conditionId": "0xd3d99c94465d388fa007480c0d23b457ad7b0fb11542b2ae3e201dd28e204c5c",
+  "slug": "nba-nyk-uta-2024-11-23",
+  "question": "Knicks vs. Jazz"
+}

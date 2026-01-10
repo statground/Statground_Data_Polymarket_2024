@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T15:38:16.581694Z",
+  "market_createdAt": "2024-08-09T15:38:16.581694Z",
+  "market_updatedAt": "2024-08-18T02:37:02.882751Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-17 17:27:38+00",
+  "conditionId": "0x7b80dfcdc06babe58c07e5d2ddda0e0e0b2beeacd5b008698ebba81c069eec27",
+  "slug": "will-harris-lead-by-1pt6-1pt9-points-on-august-16",
+  "question": "Will Harris lead by 1.6-1.9 points on August 16?"
+}

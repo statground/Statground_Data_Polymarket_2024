@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T19:34:45.217699Z",
+  "market_createdAt": "2024-08-06T19:34:45.217699Z",
+  "market_updatedAt": "2024-08-08T21:02:54.483073Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:48:06+00",
+  "conditionId": "0x644351a29dc5bd94431fcfaeed97e0743a66fc8a07d73f5998ff957c59dfdd4a",
+  "slug": "will-quincy-hall-usa-win-gold-in-the-mens-400m",
+  "question": "Will Quincy Hall (USA) win gold in the Men’s 400m?"
+}

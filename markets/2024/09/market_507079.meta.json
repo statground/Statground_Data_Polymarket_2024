@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T06:18:51.348328Z",
+  "market_createdAt": "2024-09-15T06:18:51.348328Z",
+  "market_updatedAt": "2024-09-16T21:52:45.868631Z",
+  "market_startDate": "2024-09-15T06:24:56.368768Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:18:33+00",
+  "conditionId": "0xfad853a3d834d46697d69a3830b18cdb387ed0487471e32b544f59512194775d",
+  "slug": "polymarket-parlay-nfl-week-2-2024",
+  "question": "Polymarket Parlay: NFL Week 2"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:27:05.929855Z",
+  "market_createdAt": "2024-10-01T23:27:05.929855Z",
+  "market_updatedAt": "2024-10-07T22:12:35.201657Z",
+  "market_startDate": "2024-10-01T23:29:18.497053Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:26:36+00",
+  "conditionId": "0xeaef908665e72fae2032305f89a3e243a5dbccf61a83e759452a77a85d84e078",
+  "slug": "nfl-cle-wsh-2024-10-06",
+  "question": "Browns vs. Commanders"
+}

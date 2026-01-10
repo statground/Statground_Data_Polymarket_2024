@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T18:09:37.777766Z",
+  "market_createdAt": "2024-12-10T18:09:37.777766Z",
+  "market_updatedAt": "2024-12-24T19:53:31.240708Z",
+  "market_startDate": "2024-12-10T18:28:14.679137Z",
+  "market_endDate": "2024-12-23T12:00:00Z",
+  "market_closedTime": "2024-12-23 23:07:32+00",
+  "conditionId": "0x1674811cafd247b0884098f871117ee6a0d73ce4a39985c4968459c902041b44",
+  "slug": "will-sonic-3-gross-less-than-56m-on-3-day-opening-weekend",
+  "question": "Will 'Sonic 3' gross less than $56m on 3-day opening weekend?"
+}

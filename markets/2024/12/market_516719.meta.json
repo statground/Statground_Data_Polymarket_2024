@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:47:35.140745Z",
+  "market_createdAt": "2024-12-29T18:47:35.140745Z",
+  "market_updatedAt": "2026-01-02T08:33:28.010856Z",
+  "market_startDate": "2024-12-29T22:51:33.18Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:18:23+00",
+  "conditionId": "0x8ee2f1640386310eb5e7ffa596ba9335f2d324e303d21b0dfea6998874445791",
+  "slug": "russia-x-ukraine-ceasefire-in-2025",
+  "question": "Russia x Ukraine ceasefire in 2025?"
+}

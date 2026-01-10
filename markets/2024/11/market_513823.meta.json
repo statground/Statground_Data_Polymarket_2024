@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:12:29.485748Z",
+  "market_createdAt": "2024-11-24T05:12:29.485748Z",
+  "market_updatedAt": "2024-12-02T04:03:18.146456Z",
+  "market_startDate": "2024-11-24T05:15:20.352422Z",
+  "market_endDate": "2024-12-07T23:00:00Z",
+  "market_closedTime": "2024-12-01 04:46:44+00",
+  "conditionId": "0x68ac767adf5acdb86a322c441730b545690feb630c714fcfae0bd434d25403ec",
+  "slug": "cfb-app-gaso-2024-11-30",
+  "question": "Appalachian State vs. Georgia Southern"
+}

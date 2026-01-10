@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:18:51.083243Z",
+  "market_createdAt": "2024-11-18T23:18:51.083243Z",
+  "market_updatedAt": "2024-11-24T15:09:23.421132Z",
+  "market_startDate": "2024-11-19T20:50:36.702371Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 15:35:55+00",
+  "conditionId": "0x01e75dfecbdbeb659674d06a41b34276c6a0f3991d9283196750fee95d6e9816",
+  "slug": "yan-vs-ricci",
+  "question": "Yan vs. Ricci"
+}

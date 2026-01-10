@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:59:43.570477Z",
+  "market_createdAt": "2024-10-04T15:59:43.570477Z",
+  "market_updatedAt": "2024-10-07T00:10:42.113388Z",
+  "market_startDate": "2024-10-04T16:36:01.34Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 00:18:46+00",
+  "conditionId": "0xf4d876493601ec95f1f222167101b3598f86c3c95e864b4b9cc44b4aa007933f",
+  "slug": "will-trump-say-bullet-3-or-more-times-during-pennsylvania-rally",
+  "question": "Will Trump say \"bullet\" 3 or more times during Pennsylvania rally?"
+}

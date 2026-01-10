@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:00:38.412070Z",
+  "market_createdAt": "2024-12-08T07:00:38.41207Z",
+  "market_updatedAt": "2024-12-14T03:11:15.443461Z",
+  "market_startDate": "2024-12-08T07:04:06.024552Z",
+  "market_endDate": "2024-12-20T00:00:00Z",
+  "market_closedTime": "2024-12-13 04:59:23+00",
+  "conditionId": "0xade6939cf1f73c01b4afe168140bef291ef3020cd1190cd7ac3941fbb1a493f3",
+  "slug": "nhl-pit-mon-2024-12-12",
+  "question": "Penguins vs. Canadiens"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:21:25.277209Z",
+  "market_createdAt": "2024-07-16T16:21:25.277209Z",
+  "market_updatedAt": "2024-07-20T00:08:28.689949Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:05:36+00",
+  "conditionId": "0x448881003bab3249f1c4aa07932ad0f4a1e5c5145e616663d09ed29ea67ba61a",
+  "slug": "will-tiger-woods-win-the-british-open",
+  "question": "Will Tiger Woods win the British Open?"
+}

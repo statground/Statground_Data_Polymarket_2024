@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T20:55:53.764000Z",
+  "market_createdAt": "2024-03-08T20:55:53.764Z",
+  "market_updatedAt": "2024-05-07T23:09:53.157665Z",
+  "market_startDate": "2024-03-08T22:24:56.002Z",
+  "market_endDate": "2024-03-15T00:00:00Z",
+  "market_closedTime": "2024-03-15 18:02:38+00",
+  "conditionId": "0x46d4824b2b1eecc15ffebd61132cd27a0795f16c91d01e615190f860531feb7d",
+  "slug": "btc-above-70000-next-friday",
+  "question": "BTC above $70,000 next friday?"
+}

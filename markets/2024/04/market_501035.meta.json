@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T15:45:26.317387Z",
+  "market_createdAt": "2024-04-18T15:45:26.317387Z",
+  "market_updatedAt": "2024-05-07T23:09:32.391283Z",
+  "market_startDate": "2024-04-18T15:45:42.846Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-03 16:11:52+00",
+  "conditionId": "0x7f1f6de51dbf6b7c651a07d5e4642a8616d7f4abadba1cea0117ce6e93b422ba",
+  "slug": "knicks-vs-76ers-series-winner",
+  "question": "Knicks vs. 76ers Series Winner"
+}

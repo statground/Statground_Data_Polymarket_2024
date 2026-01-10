@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T15:01:39.034703Z",
+  "market_createdAt": "2024-10-10T15:01:39.034703Z",
+  "market_updatedAt": "2024-10-12T02:22:49.523821Z",
+  "market_startDate": "2024-10-10T15:21:53.15848Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 05:22:39+00",
+  "conditionId": "0x2778bedafb3ffc30c95ff093b14a30489d887407622c08266fd76b7f5c2469be",
+  "slug": "will-the-49ers-and-seahawks-combine-for-50-or-more-points",
+  "question": "Will the 49ers and Seahawks combine for 50 or more points?"
+}

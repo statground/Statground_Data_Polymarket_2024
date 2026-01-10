@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:51:00.007738Z",
+  "market_createdAt": "2024-12-09T21:51:00.007738Z",
+  "market_updatedAt": "2025-03-02T00:56:25.446003Z",
+  "market_startDate": "2024-12-11T20:45:20.290921Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2025-03-01 07:15:41+00",
+  "conditionId": "0x5420f53881ae678b7ff0eb32741508566667c09968c9d187e1f3b9fc9bb2dc66",
+  "slug": "sanchez-resigns-as-president-of-spain-before-march",
+  "question": "Sánchez resigns as PM of Spain before March?"
+}

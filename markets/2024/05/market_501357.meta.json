@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:20:12.071611Z",
+  "market_createdAt": "2024-05-02T18:20:12.071611Z",
+  "market_updatedAt": "2024-06-26T21:46:13.134788Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 06:38:13+00",
+  "conditionId": "0x2a5466afcb809f688a923504c4d6fe79452f04e69ed2d1dac5791c4986194231",
+  "slug": "will-marty-dolan-win-the-ny-14-democratic-house-primary",
+  "question": "Will Marty Dolan win the NY-14 Democratic House Primary?"
+}

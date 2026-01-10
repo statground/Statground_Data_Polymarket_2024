@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T21:47:47.389404Z",
+  "market_createdAt": "2024-05-09T21:47:47.389404Z",
+  "market_updatedAt": "2024-05-23T20:04:37.503243Z",
+  "market_startDate": "2024-05-09T21:57:13.972Z",
+  "market_endDate": "2024-05-25T12:00:00Z",
+  "market_closedTime": "2024-05-22 23:01:53+00",
+  "conditionId": "0x85870dfe636badd7fe382631f4f3ecebd7f5d6be60b0fd557493bbe16abfc879",
+  "slug": "will-bayer-leverkusen-go-undefeated",
+  "question": "Will Bayer Leverkusen go undefeated?"
+}

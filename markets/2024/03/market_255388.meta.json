@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T19:38:26.287000Z",
+  "market_createdAt": "2024-03-08T19:38:26.287Z",
+  "market_updatedAt": "2024-05-07T23:09:22.322636Z",
+  "market_startDate": "2024-03-08T20:03:19.246Z",
+  "market_endDate": "2024-04-30T00:00:00Z",
+  "market_closedTime": "2024-03-25 14:15:54+00",
+  "conditionId": "0x485aa105571fa82976e2ff8826b3685f898a6bf3f9740f44d85b2d2a022c92eb",
+  "slug": "dave-calhoun-out-as-boeing-ceo-before-may",
+  "question": "Dave Calhoun out as Boeing CEO before May?"
+}

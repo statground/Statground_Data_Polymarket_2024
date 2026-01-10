@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:32:42.641303Z",
+  "market_createdAt": "2024-08-27T15:32:42.641303Z",
+  "market_updatedAt": "2024-11-08T03:58:58.226573Z",
+  "market_startDate": "2024-08-27T15:32:42.641303Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 03:56:12+00",
+  "conditionId": "0x362dbc85c50dc05041b8f46f9e34c9d723bda4efaccc448342c23689e2a43993",
+  "slug": "pa-10-election-stelson-d-vs-perry-r",
+  "question": "PA-10 election: Stelson (D) vs. Perry (R)"
+}

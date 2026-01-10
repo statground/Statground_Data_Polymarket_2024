@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:04:39.552332Z",
+  "market_createdAt": "2024-06-25T19:04:39.552332Z",
+  "market_updatedAt": "2024-06-27T23:36:04.847427Z",
+  "market_startDate": "2024-06-25T19:28:21.423Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 00:16:47+00",
+  "conditionId": "0x7e2f4eb3e638e03345f90ce24285a7bd054921feb3a7dff62c13edc76d6af75c",
+  "slug": "will-portugal-win-june-26",
+  "question": "Will Portugal win?"
+}

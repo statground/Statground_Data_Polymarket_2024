@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T18:47:14.392301Z",
+  "market_createdAt": "2024-11-08T18:47:14.392301Z",
+  "market_updatedAt": "2024-11-16T19:06:59.576278Z",
+  "market_startDate": "2024-11-08T20:38:53.192002Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:11:05+00",
+  "conditionId": "0xdf5f68bff175d44e9f7d963c6368f6b002099884dbcf72ede996f129762971c4",
+  "slug": "ethereum-above-3000-on-november-15",
+  "question": "Ethereum above $3,000 on November 15?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T01:59:31.005651Z",
+  "market_createdAt": "2024-10-04T01:59:31.005651Z",
+  "market_updatedAt": "2025-04-07T04:28:45.135729Z",
+  "market_startDate": "2024-10-04T15:38:49.062612Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-07 04:26:01+00",
+  "conditionId": "0xe628283788635a710c9d342be36a5737de69a9aa829a67d43aac83169b3c5a7f",
+  "slug": "will-the-san-antonio-spurs-win-the-western-conference",
+  "question": "Will the San Antonio Spurs win the Western Conference?"
+}

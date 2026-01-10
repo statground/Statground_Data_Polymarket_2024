@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:13:05.436416Z",
+  "market_createdAt": "2024-10-28T20:13:05.436416Z",
+  "market_updatedAt": "2024-11-04T23:21:19.080909Z",
+  "market_startDate": "2024-10-28T20:15:43.250293Z",
+  "market_endDate": "2024-11-03T18:00:00Z",
+  "market_closedTime": "2024-11-03 23:45:06+00",
+  "conditionId": "0xbb0eca3e0381100707fea124fc9bfebdd32288361ee875e139347a225cc403f5",
+  "slug": "nfl-lac-cle-2024-11-03",
+  "question": "Chargers vs. Browns"
+}

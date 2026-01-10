@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:06:39.965135Z",
+  "market_createdAt": "2024-11-07T20:06:39.965135Z",
+  "market_updatedAt": "2024-11-16T02:53:01.724737Z",
+  "market_startDate": "2024-11-07T22:27:31.236Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:11:55+00",
+  "conditionId": "0x402bea3f1d51947a2c62cbc5ce466282a2ab316063d9093c6fc902b89bd980c0",
+  "slug": "will-trump-nominate-andrew-wheeler-for-administrator-of-the-us-environmental-protection-agency",
+  "question": "Will Trump nominate Andrew Wheeler for Administrator of the US Environmental Protection Agency?"
+}

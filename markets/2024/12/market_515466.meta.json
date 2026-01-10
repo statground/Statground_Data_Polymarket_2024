@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:07:28.225797Z",
+  "market_createdAt": "2024-12-11T23:07:28.225797Z",
+  "market_updatedAt": "2025-01-01T04:27:30.451916Z",
+  "market_startDate": "2024-12-23T19:13:13.904403Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 04:46:12+00",
+  "conditionId": "0x41fb6511efe1de18bd60be3f7a21b55776ebd8de5e502788e325d334ed3983af",
+  "slug": "will-hikaru-nakamura-win-the-2024-world-blitz-championship",
+  "question": "Will Hikaru Nakamura win the 2024 World Blitz Championship?"
+}

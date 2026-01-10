@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:31:09.660117Z",
+  "market_createdAt": "2024-08-21T01:31:09.660117Z",
+  "market_updatedAt": "2024-08-25T15:46:56.482324Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:17:28+00",
+  "conditionId": "0x4e3d0c7a0cb0f3795baf224e4c07b3f1be741fdf90d7bf6910ac7a7731cff30d",
+  "slug": "will-crystal-palace-vs-west-ham-end-in-a-draw",
+  "question": " Will Crystal Palace vs West Ham end in a draw?"
+}

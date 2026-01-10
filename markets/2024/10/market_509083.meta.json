@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T18:47:30.335993Z",
+  "market_createdAt": "2024-10-07T18:47:30.335993Z",
+  "market_updatedAt": "2025-05-23T23:01:21.624142Z",
+  "market_startDate": "2024-10-08T14:23:13.903487Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-04 07:58:15+00",
+  "conditionId": "0xa1cee304c35d3821b004b633d7ec69cb445600085549f0ec8d431083fdb784a3",
+  "slug": "will-the-anaheim-ducks-win-the-2025-stanley-cup",
+  "question": "Will the Anaheim Ducks win the 2025 Stanley Cup?"
+}

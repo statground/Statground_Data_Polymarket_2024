@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:46:02.839798Z",
+  "market_createdAt": "2024-10-18T20:46:02.839798Z",
+  "market_updatedAt": "2024-10-22T01:41:27.734045Z",
+  "market_startDate": "2024-10-18T23:27:52.586378Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 01:45:44+00",
+  "conditionId": "0x2e1bf2bb0544c49ebdb9d968b85ac141311ae9f55bfcdd3ba5b37cb1409e8624",
+  "slug": "will-the-49ers-beat-the-chiefs-by-2-or-more-points",
+  "question": "Will the 49ers beat the Chiefs by 2 or more points?"
+}

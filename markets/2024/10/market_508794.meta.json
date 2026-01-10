@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:03:53.664047Z",
+  "market_createdAt": "2024-10-03T21:03:53.664047Z",
+  "market_updatedAt": "2024-10-10T05:06:44.784766Z",
+  "market_startDate": "2024-10-03T22:37:11.676Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 05:01:09+00",
+  "conditionId": "0x14f3c691eb70657c6943de44fc45640e93baf393c40299fb1386693a0a77f3f8",
+  "slug": "will-the-hbo-documentary-identify-shinichi-mochizuki-as-satoshi",
+  "question": "Will the HBO documentary identify Shinichi Mochizuki as Satoshi?"
+}

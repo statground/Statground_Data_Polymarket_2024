@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:25:01.720803Z",
+  "market_createdAt": "2024-10-04T16:25:01.720803Z",
+  "market_updatedAt": "2024-10-07T01:06:44.034644Z",
+  "market_startDate": "2024-10-04T18:32:49.265796Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:07:34+00",
+  "conditionId": "0x89b56b7d1549d714c0c0c906628be45e4ea48bb2aa05ab84fb972f4d7e4230a1",
+  "slug": "will-indiana-beat-northwestern-by-14-or-more-points",
+  "question": "Will Indiana beat Northwestern by 14 or more points?"
+}

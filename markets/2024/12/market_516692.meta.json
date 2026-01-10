@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:11:17.944150Z",
+  "market_createdAt": "2024-12-29T07:11:17.94415Z",
+  "market_updatedAt": "2025-01-05T06:53:01.688925Z",
+  "market_startDate": "2024-12-29T07:14:21.397046Z",
+  "market_endDate": "2025-01-11T02:00:00Z",
+  "market_closedTime": "2025-01-04 06:52:32+00",
+  "conditionId": "0xc43e2e957cf1b202c2fbfb9227fbadd81d4fbe7b727ef9425a4e055a4c12a3af",
+  "slug": "nhl-ana-edm-2025-01-03",
+  "question": "Ducks vs. Oilers"
+}

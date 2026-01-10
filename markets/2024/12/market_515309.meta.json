@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:35:42.603753Z",
+  "market_createdAt": "2024-12-10T21:35:42.603753Z",
+  "market_updatedAt": "2025-01-02T08:47:03.022337Z",
+  "market_startDate": "2024-12-10T22:06:44.66Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:36:48+00",
+  "conditionId": "0x2d700d9818cad0e6ad595ecd1cb0f1cc398f098ab944527bb033c1817f31d2a7",
+  "slug": "assad-public-appearance-before-2025",
+  "question": "Assad public appearance before 2025?"
+}

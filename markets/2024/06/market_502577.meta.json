@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T15:02:45.716965Z",
+  "market_createdAt": "2024-06-18T15:02:45.716965Z",
+  "market_updatedAt": "2024-07-07T03:45:46.043682Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:20:03+00",
+  "conditionId": "0xca4141523ffc9b5ed9483566e1137bf4abbea791c85c88589815ea5bcfc9ad15",
+  "slug": "reform-wins-between-7-and-11-of-votes",
+  "question": "Reform wins between 7% and 11% of votes?"
+}

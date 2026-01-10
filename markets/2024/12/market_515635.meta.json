@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:41:21.159704Z",
+  "market_createdAt": "2024-12-13T22:41:21.159704Z",
+  "market_updatedAt": "2024-12-16T02:30:46.965373Z",
+  "market_startDate": "2024-12-13T23:37:01.785812Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:27:49+00",
+  "conditionId": "0x59ed1849585dd27919af28199d5d5be6d0098ff5c0a1cf8aecd72bae3bf4b641",
+  "slug": "will-the-chargers-beat-the-buccaneers-by-4-or-more-points",
+  "question": "Will the Chargers beat the Buccaneers by 4 or more points?"
+}

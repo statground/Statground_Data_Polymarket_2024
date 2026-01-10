@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:26:48.756965Z",
+  "market_createdAt": "2024-10-01T20:26:48.756965Z",
+  "market_updatedAt": "2025-04-06T19:30:35.055526Z",
+  "market_startDate": "2024-10-01T21:09:43.375241Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-06 17:33:44+00",
+  "conditionId": "0x31857453bb6440d23f1da2773e630cda769d6ecb6322c309a9f20f9f74966735",
+  "slug": "will-brentford-be-relegated",
+  "question": "Will Brentford be relegated?"
+}

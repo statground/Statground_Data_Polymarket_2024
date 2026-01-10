@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:32:02.272841Z",
+  "market_createdAt": "2024-12-05T21:32:02.272841Z",
+  "market_updatedAt": "2024-12-17T19:35:24.647166Z",
+  "market_startDate": "2024-12-10T21:02:38.801002Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:34:22+00",
+  "conditionId": "0x22b5c85484b2bdf3db7ec25e78b6c329eeaca30bf332726a1768c9a09c5aca49",
+  "slug": "will-coinbase-announce-brett-as-next-listing",
+  "question": "Will Coinbase announce Brett as next listing?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:58:48.624108Z",
+  "market_createdAt": "2024-11-21T17:58:48.624108Z",
+  "market_updatedAt": "2024-11-23T00:44:52.560195Z",
+  "market_startDate": "2024-11-21T18:47:20.621Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:15:11+00",
+  "conditionId": "0x9661449f63f122f25aac8ccad4655a0254adf6e8e44aae8928fb12c5114f8ab1",
+  "slug": "will-trump-pick-another-person-for-attorney-general",
+  "question": "Will Trump pick another person for Attorney General?"
+}

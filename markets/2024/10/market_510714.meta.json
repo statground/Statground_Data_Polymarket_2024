@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:39:47.649754Z",
+  "market_createdAt": "2024-10-23T17:39:47.649754Z",
+  "market_updatedAt": "2024-10-29T01:17:10.096391Z",
+  "market_startDate": "2024-10-23T22:27:03.467305Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:20:39+00",
+  "conditionId": "0x7e3b7a9f80204d0db2dfa6a9b328983c42b845074d1bf337aed95f5084ef8054",
+  "slug": "will-george-russell-win-the-mexico-city-grand-prix",
+  "question": "Will George Russell win the Mexico City Grand Prix?"
+}

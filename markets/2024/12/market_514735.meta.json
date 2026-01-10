@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:40:00.841447Z",
+  "market_createdAt": "2024-12-04T20:40:00.841447Z",
+  "market_updatedAt": "2024-12-07T02:05:15.304237Z",
+  "market_startDate": "2024-12-04T22:06:54.678Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 02:00:41+00",
+  "conditionId": "0x8e85daf66013e98ffe7edfb3684117e6184b3227fd9daf15baba756ecc3d8cee",
+  "slug": "will-tucker-say-nazi-during-lavrov-interview",
+  "question": "Will Tucker say \"Nazi\" during Lavrov interview?"
+}

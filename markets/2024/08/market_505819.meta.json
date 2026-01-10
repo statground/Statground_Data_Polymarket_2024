@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:56:28.516651Z",
+  "market_createdAt": "2024-08-26T19:56:28.516651Z",
+  "market_updatedAt": "2024-09-01T18:17:05.736651Z",
+  "market_startDate": "2024-08-26T19:56:28.516651Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:12:51+00",
+  "conditionId": "0x4984b47b4ab92e021759410534645c554ec79eb5475d8bcbdb5ddadd226c312f",
+  "slug": "will-aston-villa-beat-leicester-city",
+  "question": "Will Aston Villa beat Leicester City?"
+}

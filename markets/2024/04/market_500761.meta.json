@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:27:47.466011Z",
+  "market_createdAt": "2024-04-05T16:27:47.466011Z",
+  "market_updatedAt": "2024-08-15T06:17:01.842661Z",
+  "market_startDate": "2024-05-02T21:23:52.947Z",
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 06:13:05+00",
+  "conditionId": "0x217a88ae576acea36b63d791fbdfeb3707d326943015136d83739e3fbbe1dce6",
+  "slug": "will-don-samuels-win-the-mn-5-democratic-house-district",
+  "question": "Will Don Samuels win the MN-5 Democratic House District?"
+}

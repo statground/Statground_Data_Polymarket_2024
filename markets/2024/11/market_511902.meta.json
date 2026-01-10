@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:31:18.349881Z",
+  "market_createdAt": "2024-11-04T18:31:18.349881Z",
+  "market_updatedAt": "2024-11-08T04:53:04.562719Z",
+  "market_startDate": "2024-11-04T18:34:01.287603Z",
+  "market_endDate": "2024-11-07T01:30:00Z",
+  "market_closedTime": "2024-11-07 06:24:04+00",
+  "conditionId": "0xd213fa648c38060809b5c68276b0481d995b759ba61751b55932ff17ec26dc7f",
+  "slug": "nba-chi-dal-2024-11-06",
+  "question": "Bulls vs. Mavericks"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:47:57.686723Z",
+  "market_createdAt": "2024-10-18T16:47:57.686723Z",
+  "market_updatedAt": "2024-10-20T15:36:43.779713Z",
+  "market_startDate": "2024-10-18T23:32:00.362906Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:02:46+00",
+  "conditionId": "0xba9661086499db3b1d329251b8ad9dd2d11a355329ea6fd8102d3b0ef1c0c62b",
+  "slug": "will-there-be-50-or-more-combined-points-scored-Indiana-Nebraska",
+  "question": "Will there be 50 or more combined points scored?"
+}

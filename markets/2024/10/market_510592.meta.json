@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:54:59.681386Z",
+  "market_createdAt": "2024-10-22T16:54:59.681386Z",
+  "market_updatedAt": "2024-10-25T19:37:12.093049Z",
+  "market_startDate": "2024-10-22T21:22:00.342461Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:27:52+00",
+  "conditionId": "0xb81c0e5eaa38077f996fb4b90dac3017daa26e11c2403f35278630ecd0c27060",
+  "slug": "will-the-match-between-rangers-and-fcsb-end-in-a-draw",
+  "question": "Will the match between Rangers and FCSB end in a draw?"
+}

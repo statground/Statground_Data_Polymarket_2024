@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-23T14:26:12.918847Z",
+  "market_createdAt": "2024-04-23T14:26:12.918847Z",
+  "market_updatedAt": "2024-05-07T23:09:36.151274Z",
+  "market_startDate": "2024-04-23T15:21:31.784Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 18:49:42+00",
+  "conditionId": "0x959a30e6ef7d1ed836596b3377a837497c3be5d3405c55d72c19b309a3d1322a",
+  "slug": "kendrick-track-drops-in-april",
+  "question": "Kendrick track drops in April?"
+}

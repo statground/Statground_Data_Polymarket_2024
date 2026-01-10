@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:05:18.443895Z",
+  "market_createdAt": "2024-11-24T05:05:18.443895Z",
+  "market_updatedAt": "2024-12-02T04:09:14.352573Z",
+  "market_startDate": "2024-11-24T05:08:01.738305Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 04:31:48+00",
+  "conditionId": "0xbb7b4f653937e79f065cfd2cb9a9f38fd394f518ed15dac5878c87f4688cfde0",
+  "slug": "cfb-tcu-cin-2024-11-30",
+  "question": "TCU vs. Cincinnati"
+}

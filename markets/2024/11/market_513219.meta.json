@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:36:04.895937Z",
+  "market_createdAt": "2024-11-15T21:36:04.895937Z",
+  "market_updatedAt": "2024-11-17T21:29:15.320818Z",
+  "market_startDate": "2024-11-15T23:04:10.212905Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:05:03+00",
+  "conditionId": "0x01b0981956ec77fc52b4c6a8490b1b06a9beb98459e01a061be6324ce74de4b6",
+  "slug": "will-the-match-between-georgia-and-ukraine-end-in-a-draw",
+  "question": "Will the match between Georgia and Ukraine end in a draw?"
+}

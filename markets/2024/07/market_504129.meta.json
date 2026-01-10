@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:07:34.920656Z",
+  "market_createdAt": "2024-07-25T17:07:34.920656Z",
+  "market_updatedAt": "2024-07-28T22:05:55.271785Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-28 22:02:54+00",
+  "conditionId": "0x0b104a9f58ffeead67c1aed306d8f254f3ea35a8590a981ca083b6745e87f1b8",
+  "slug": "will-another-athlete-win-gold-in-mens-400m-individual-medley",
+  "question": "Will another athlete win Gold in Men's 400m Individual Medley?"
+}

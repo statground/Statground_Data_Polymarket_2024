@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:06:30.481306Z",
+  "market_createdAt": "2024-12-29T07:06:30.481306Z",
+  "market_updatedAt": "2025-01-03T03:17:03.078833Z",
+  "market_startDate": "2024-12-29T07:09:07.666313Z",
+  "market_endDate": "2025-01-08T23:00:00Z",
+  "market_closedTime": "2025-01-02 04:06:46+00",
+  "conditionId": "0xd4cac51e10a531358eb7ea7b856d092fdc4eb6fedf35fe17ce76cfcdd1dba18c",
+  "slug": "nhl-nj-lak-2025-01-01",
+  "question": "Devils vs. Kings"
+}

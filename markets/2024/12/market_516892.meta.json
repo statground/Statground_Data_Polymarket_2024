@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:03:37.282834Z",
+  "market_createdAt": "2024-12-30T22:03:37.282834Z",
+  "market_updatedAt": "2025-01-01T22:27:09.453128Z",
+  "market_startDate": "2024-12-30T22:59:31.486639Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 01:04:59+00",
+  "conditionId": "0x2c5868685df79cb4dcf11d600d6c1dea1136ace2adbfd614f33485675d6b23f6",
+  "slug": "will-louisville-win-the-sun-bowl",
+  "question": "Will Louisville win the Sun Bowl?"
+}

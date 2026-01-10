@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:36:08.764581Z",
+  "market_createdAt": "2024-06-14T15:36:08.764581Z",
+  "market_updatedAt": "2024-06-21T21:01:12.949249Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-21 00:13:21+00",
+  "conditionId": "0x9431936296af2f0f6e4c82f710363f56f7502993830532d2a745fc46e491de1f",
+  "slug": "will-serbia-win-group-c",
+  "question": "Will Serbia win Group C?"
+}

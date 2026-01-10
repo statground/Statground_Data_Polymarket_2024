@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506262",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:46:45.487258Z",
+  "market_createdAt": "2024-09-03T04:46:45.487258Z",
+  "market_updatedAt": "2024-09-04T18:33:08.643859Z",
+  "market_startDate": "2024-09-03T05:44:54.1835Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 18:57:35+00",
+  "conditionId": "0xfb31c5745f812675541e2ec3ec7ad1d2d023780eed23867cde77ee81b25b64d1",
+  "slug": "will-trump-say-ceasefire-during-lex-interview",
+  "question": "Will Trump say \"Ceasefire\" during Lex interview?"
+}

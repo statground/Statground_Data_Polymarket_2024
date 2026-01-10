@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T22:10:18.174007Z",
+  "market_createdAt": "2024-09-17T22:10:18.174007Z",
+  "market_updatedAt": "2024-09-23T16:40:39.581739Z",
+  "market_startDate": "2024-09-17T23:14:09.147575Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 18:15:52+00",
+  "conditionId": "0x3caf2ecde178b4e450c46e4ea2c8414722527c863baae1cf81aea64f7ce37211",
+  "slug": "will-nottingham-forest-beat-brighton",
+  "question": "Will Nottingham Forest beat Brighton?"
+}

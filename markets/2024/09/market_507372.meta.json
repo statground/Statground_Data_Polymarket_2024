@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T22:08:09.081256Z",
+  "market_createdAt": "2024-09-17T22:08:09.081256Z",
+  "market_updatedAt": "2024-09-22T23:16:40.16662Z",
+  "market_startDate": "2024-09-17T23:12:41.907253Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 23:53:30+00",
+  "conditionId": "0x9f37839b1086b3fd694f2d39bec5827ce4b1e8cbcc7ab3fd44c7e578081cc781",
+  "slug": "will-manchester-united-beat-crystal-palace",
+  "question": "Will Manchester United beat Crystal Palace?"
+}

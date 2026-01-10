@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T16:09:01.954031Z",
+  "market_createdAt": "2024-04-04T16:09:01.954031Z",
+  "market_updatedAt": "2024-11-07T21:29:09.913699Z",
+  "market_startDate": "2024-04-12T19:50:34.857Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:58:54+00",
+  "conditionId": "0x86bfeee44b714cf7567de4eb47d8ef963324abcf5f3e73402957a66dafe19985",
+  "slug": "will-a-candidate-from-another-party-win-north-dakota-us-senate-election",
+  "question": "Will a candidate from another party win North Dakota US Senate Election?"
+}

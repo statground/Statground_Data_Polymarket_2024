@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:18:00.168806Z",
+  "market_createdAt": "2024-08-14T16:18:00.168806Z",
+  "market_updatedAt": "2024-08-16T23:57:01.402959Z",
+  "market_startDate": "2024-08-14T17:27:53.629Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 00:14:19+00",
+  "conditionId": "0x3a33b64b57e6af25c26fc5773160a1629a723bfa874f95294ee40cd6d81d4c54",
+  "slug": "will-trump-say-lisp-at-his-press-conference",
+  "question": "Will Trump say \"Lisp\" at his press conference?"
+}

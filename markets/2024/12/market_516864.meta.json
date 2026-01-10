@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T20:44:03.025659Z",
+  "market_createdAt": "2024-12-30T20:44:03.025659Z",
+  "market_updatedAt": "2026-01-04T22:41:35.760634Z",
+  "market_startDate": "2024-12-30T22:01:36.925Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:20:27+00",
+  "conditionId": "0x9aa6086535a4b3145e9f7378dd58a7a8c30c4b15bd4fe17eb6990817f5cd3cd9",
+  "slug": "will-bitcoin-reach-150000-by-december-31-2025-188",
+  "question": "Will Bitcoin reach $150,000 by December 31, 2025?"
+}

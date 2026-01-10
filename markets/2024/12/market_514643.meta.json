@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T00:09:54.680660Z",
+  "market_createdAt": "2024-12-04T00:09:54.68066Z",
+  "market_updatedAt": "2024-12-08T06:55:17.692611Z",
+  "market_startDate": "2024-12-04T00:49:52.938744Z",
+  "market_endDate": "2024-12-04T12:00:00Z",
+  "market_closedTime": "2024-12-07 07:30:49+00",
+  "conditionId": "0x47368770565151558db747c3bfe55d61b259cf57e2e5c242c885200290476de5",
+  "slug": "will-hegseth-say-trump-5-or-more-times",
+  "question": "Will Hegseth say \"Trump\" 5 or more times?"
+}

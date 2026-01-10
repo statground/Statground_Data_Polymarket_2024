@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:14:57.761868Z",
+  "market_createdAt": "2024-08-13T20:14:57.761868Z",
+  "market_updatedAt": "2024-08-18T18:50:55.916031Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 21:39:20+00",
+  "conditionId": "0xce5044a49e453e2f5b94287b61b86a29dfadcc6f5ca0b44baba6b2dde6c0fc43",
+  "slug": "will-west-ham-united-vs-aston-villa-end-in-a-draw",
+  "question": "Will West Ham United vs. Aston Villa end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T14:47:54.031749Z",
+  "market_createdAt": "2024-05-01T14:47:54.031749Z",
+  "market_updatedAt": "2024-06-13T19:26:17.660036Z",
+  "market_startDate": "2024-05-01T15:56:28.26Z",
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-12 21:17:10+00",
+  "conditionId": "0x4c21fdaee92538da1af2d227e7688673fe8789decff537003cd3b67b0ecb1b8d",
+  "slug": "fed-increases-interest-rates-by-25-bps-after-june-2024-meeting",
+  "question": "Fed increases interest rates by 25+ bps after June 2024 meeting?"
+}

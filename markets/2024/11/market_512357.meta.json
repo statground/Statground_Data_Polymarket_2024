@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T16:28:21.584886Z",
+  "market_createdAt": "2024-11-08T16:28:21.584886Z",
+  "market_updatedAt": "2024-11-24T02:34:48.904501Z",
+  "market_startDate": "2024-11-08T17:05:10.294Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:40:41+00",
+  "conditionId": "0xdd95d7e22fd8c9ef5d61285b4ed31aa84e8fdf35192db24d8e7d8938ed4747dd",
+  "slug": "will-trump-nominate-howard-lutnick-for-treasury-secretary",
+  "question": "Will Trump nominate Howard Lutnick for Treasury Secretary?"
+}

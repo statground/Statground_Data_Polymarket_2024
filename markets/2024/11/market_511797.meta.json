@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:43:52.824126Z",
+  "market_createdAt": "2024-11-02T19:43:52.824126Z",
+  "market_updatedAt": "2024-11-06T05:03:10.537125Z",
+  "market_startDate": "2024-11-02T20:52:37.704Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 04:52:46+00",
+  "conditionId": "0xe875bb34b1c0bca501136947477597077742685aba80258f1377e72fee1bbcd5",
+  "slug": "will-trump-say-teleprompter-3-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"teleprompter\" 3 or more times during Pittsburgh rally on Nov 4?"
+}

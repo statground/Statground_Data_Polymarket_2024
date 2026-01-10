@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T20:13:58.429000Z",
+  "market_createdAt": "2024-01-31T20:13:58.429Z",
+  "market_updatedAt": "2024-05-07T23:09:53.161649Z",
+  "market_startDate": "2024-01-31T20:52:00Z",
+  "market_endDate": "2024-03-18T00:00:00Z",
+  "market_closedTime": "2024-03-21 03:03:25+00",
+  "conditionId": "0x70ee5e1d18a794f36d3c50b7215bd203e00f702d71fa0f0014466f98afe35a09",
+  "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-its-2024-march-meeting",
+  "question": "Will the Fed decrease interest rates by 25 bps after its 2024 March meeting?"
+}

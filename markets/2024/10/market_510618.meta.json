@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:07:26.299507Z",
+  "market_createdAt": "2024-10-22T19:07:26.299507Z",
+  "market_updatedAt": "2024-10-27T07:02:55.626345Z",
+  "market_startDate": "2024-10-23T17:44:58.168Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 07:10:24+00",
+  "conditionId": "0x51e5411ca599d26f4ab757eb569787a33f69b4b93f78413e5e7979dcf17b53db",
+  "slug": "will-trump-say-tax-10-or-more-times-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"tax\" 10 or more times on The Joe Rogan Experience?"
+}

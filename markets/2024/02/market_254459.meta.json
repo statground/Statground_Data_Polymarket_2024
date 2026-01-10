@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T17:23:53.325000Z",
+  "market_createdAt": "2024-02-14T17:23:53.325Z",
+  "market_updatedAt": "2024-05-07T23:09:40.757333Z",
+  "market_startDate": "2024-02-14T21:37:00Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-05-04 16:41:37+00",
+  "conditionId": "0x77947a083492123c1b8d56e5959c5feb0ea3c5a4ab490e3abca7e6765799d65e",
+  "slug": "friendtech-airdrop-by-june-30",
+  "question": "Friend.Tech airdrop by June 30?"
+}

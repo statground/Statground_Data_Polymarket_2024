@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T20:27:28.856733Z",
+  "market_createdAt": "2024-12-17T20:27:28.856733Z",
+  "market_updatedAt": "2025-07-03T00:26:45.598964Z",
+  "market_startDate": "2024-12-20T19:13:56.648Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-02 00:39:39+00",
+  "conditionId": "0xd3f0be74acc5c8e56ef533e686f6088df52a8cf0659709daf0e61c3334eee367",
+  "slug": "no-opensea-token-launch-by-july",
+  "question": "No Opensea token launch by July?"
+}

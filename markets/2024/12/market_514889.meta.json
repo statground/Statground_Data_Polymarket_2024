@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:39:39.909143Z",
+  "market_createdAt": "2024-12-05T21:39:39.909143Z",
+  "market_updatedAt": "2024-12-09T17:53:27.348094Z",
+  "market_startDate": "2024-12-05T22:57:08.828Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:43:31+00",
+  "conditionId": "0x4d33078eb782143163eb0a6d79095711d54da428f29e8ab3a19ca7c4ec42d907",
+  "slug": "will-trump-say-nuclear-during-nbc-interview",
+  "question": "Will Trump say \"nuclear\" during NBC interview?"
+}

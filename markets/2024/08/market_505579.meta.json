@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:17:03.938408Z",
+  "market_createdAt": "2024-08-21T20:17:03.938408Z",
+  "market_updatedAt": "2024-08-24T21:36:52.299454Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 22:09:41+00",
+  "conditionId": "0x664b3d2b60eafd2e3c70c6780751f884a3b14728d409f4d07e83a51f03ef9324",
+  "slug": "will-rfk-jr-say-endorse-during-friday-address",
+  "question": "Will RFK Jr. say \"Endorse\" during Friday address?"
+}

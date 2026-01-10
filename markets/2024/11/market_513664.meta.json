@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:25:26.490061Z",
+  "market_createdAt": "2024-11-21T22:25:26.490061Z",
+  "market_updatedAt": "2024-11-30T22:05:32.822685Z",
+  "market_startDate": "2024-11-25T18:31:59.718454Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-30 01:11:14+00",
+  "conditionId": "0xeba495929fcf97bb739d853736bfc129855b220c47d686c50b14b3124bdf9278",
+  "slug": "will-the-brooklyn-nets-win-the-2024-nba-cup",
+  "question": "Will the Brooklyn Nets win the 2024 NBA Cup?"
+}

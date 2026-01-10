@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T17:41:55.374440Z",
+  "market_createdAt": "2024-11-04T17:41:55.37444Z",
+  "market_updatedAt": "2024-11-07T17:28:59.299252Z",
+  "market_startDate": "2024-11-04T23:14:47.461Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:05:14+00",
+  "conditionId": "0xaab679068043537c70e677d7fc9edf1852c8748f5a518e04d748199f4d616d69",
+  "slug": "will-trump-lose-iowa-but-win-election",
+  "question": "Will Trump lose Iowa but win election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T14:30:00.039948Z",
+  "market_createdAt": "2024-09-09T14:30:00.039948Z",
+  "market_updatedAt": "2024-09-17T00:32:46.197206Z",
+  "market_startDate": "2024-09-09T14:32:18.296422Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 01:31:41+00",
+  "conditionId": "0x4ba4df57f1b400a5eeb1ac62f2e684bca2f3bc5843b9f2f07125334f4f7747dc",
+  "slug": "nfl-den-pit-2024-09-15",
+  "question": "Broncos vs. Steelers"
+}

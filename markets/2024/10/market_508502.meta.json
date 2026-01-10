@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T15:12:06.927518Z",
+  "market_createdAt": "2024-10-01T15:12:06.927518Z",
+  "market_updatedAt": "2024-10-02T23:20:43.906474Z",
+  "market_startDate": "2024-10-01T15:33:00.075Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 01:46:48+00",
+  "conditionId": "0xc26223a4fba66d63dc67e8e24d141c56479a33be8c99318c5ad9afa7896418b2",
+  "slug": "al-wildcard-astros-vs-tigers",
+  "question": "AL Wildcard: Royals vs. Orioles"
+}

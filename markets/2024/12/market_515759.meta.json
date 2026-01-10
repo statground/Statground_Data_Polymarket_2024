@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T17:33:14.743640Z",
+  "market_createdAt": "2024-12-16T17:33:14.74364Z",
+  "market_updatedAt": "2024-12-22T05:39:18.061666Z",
+  "market_startDate": "2024-12-16T17:48:52.705715Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:12:29+00",
+  "conditionId": "0x72d78a6ad542beb7a52bfe337f16254cb0b66228f9364fddf5fc7176ba109506",
+  "slug": "will-binance-delist-pnut-by-friday",
+  "question": "Will Binance delist Pnut by Friday?"
+}

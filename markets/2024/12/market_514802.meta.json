@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:20:30.666547Z",
+  "market_createdAt": "2024-12-04T21:20:30.666547Z",
+  "market_updatedAt": "2024-12-12T05:55:05.808183Z",
+  "market_startDate": "2024-12-04T21:23:57.598379Z",
+  "market_endDate": "2024-12-18T02:00:00Z",
+  "market_closedTime": "2024-12-11 06:51:47+00",
+  "conditionId": "0xda0486defda972ede67f5d41cc89a6c7576c8cc93915998734014749bf075e21",
+  "slug": "nhl-tb-edm-2024-12-10",
+  "question": "Lightning vs. Oilers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T16:12:02.135247Z",
+  "market_createdAt": "2024-06-28T16:12:02.135247Z",
+  "market_updatedAt": "2024-06-30T22:16:24.001422Z",
+  "market_startDate": "2024-06-28T16:30:01.81Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-30 22:14:57+00",
+  "conditionId": "0x2a07a8797c35df796d802ce6b45267177a07aa9fb2f71dc79741495f84e496e2",
+  "slug": "will-the-match-be-a-draw-paraguay-brazil",
+  "question": "Will the match be a draw?"
+}

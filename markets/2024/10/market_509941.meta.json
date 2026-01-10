@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:26:35.435136Z",
+  "market_createdAt": "2024-10-15T19:26:35.435136Z",
+  "market_updatedAt": "2024-10-23T05:41:21.870237Z",
+  "market_startDate": "2024-10-15T19:28:44.147Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 05:40:49+00",
+  "conditionId": "0x8fab7cbf5ddf29016fef1875f4ba90446ed6f8f4a7ac36ea3881b133da0c35dc",
+  "slug": "nfl-bal-tb-2024-10-21",
+  "question": "Ravens vs. Buccaneers"
+}

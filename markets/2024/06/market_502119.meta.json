@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T00:06:46.344790Z",
+  "market_createdAt": "2024-06-05T00:06:46.34479Z",
+  "market_updatedAt": "2024-06-09T06:06:11.859787Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:18:02+00",
+  "conditionId": "0x2bad3e0535e08c78a2c38d06e991e113a4c8ed646be1e50ad3313854ae64c21c",
+  "slug": "is-drakes-verse-in-wah-gwan-delilah-ai",
+  "question": "Is Drake’s verse in \"Wah Gwan Delilah\" AI?"
+}

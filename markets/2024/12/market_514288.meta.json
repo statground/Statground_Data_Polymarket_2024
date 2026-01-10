@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:06:13.201276Z",
+  "market_createdAt": "2024-12-01T05:06:13.201276Z",
+  "market_updatedAt": "2024-12-05T06:29:32.521011Z",
+  "market_startDate": "2024-12-01T05:10:00.951111Z",
+  "market_endDate": "2024-12-11T01:30:00Z",
+  "market_closedTime": "2024-12-04 06:28:18+00",
+  "conditionId": "0xec64de6e5581d7404d89deb2c85bbcbc6b17fda3054aacf43be5c4d07a5ec7ae",
+  "slug": "nba-mem-dal-2024-12-03",
+  "question": "Grizzlies vs. Mavericks"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:30:05.280439Z",
+  "market_createdAt": "2024-07-16T18:30:05.280439Z",
+  "market_updatedAt": "2024-07-20T05:00:45.302914Z",
+  "market_startDate": "2024-07-16T20:40:35.73Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 05:05:58+00",
+  "conditionId": "0xa1d46784945289916d8df677497e8ae63204422eae2a0c23b190613feb0b2297",
+  "slug": "will-trump-say-maga-during-rnc-speech",
+  "question": "Will Trump say \"MAGA\" during RNC speech?"
+}

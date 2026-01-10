@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-19T19:24:48.813826Z",
+  "market_createdAt": "2024-10-19T19:24:48.813826Z",
+  "market_updatedAt": "2024-10-21T00:42:40.694362Z",
+  "market_startDate": "2024-10-19T20:13:22.559743Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:21:55+00",
+  "conditionId": "0x78bfbc67c8ed1fb55c829963004b8148732d95c8dc753834e58e2b1b8b71d15d",
+  "slug": "francis-ngannou-renan-ferreira",
+  "question": "Ngannou vs. Ferreira"
+}

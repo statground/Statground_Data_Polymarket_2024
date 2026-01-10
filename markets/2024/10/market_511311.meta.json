@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:43:17.454431Z",
+  "market_createdAt": "2024-10-29T16:43:17.454431Z",
+  "market_updatedAt": "2024-11-01T19:51:16.820416Z",
+  "market_startDate": "2024-10-29T16:59:39.275443Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 20:12:35+00",
+  "conditionId": "0x99e611ac0b81c1e400c54ddfa4088eae3274d1d60d92c1c536e253536e1677b3",
+  "slug": "will-jd-vance-say-abortion-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"abortion\" during the Joe Rogan podcast?"
+}

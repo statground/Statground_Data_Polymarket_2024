@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T22:23:46.663614Z",
+  "market_createdAt": "2024-11-11T22:23:46.663614Z",
+  "market_updatedAt": "2024-11-15T23:57:09.361897Z",
+  "market_startDate": "2024-11-11T23:10:21.309Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:42:08+00",
+  "conditionId": "0x3356d98fa23b8be6e70e2b360f0d15407580dd034ed14f67500fc8c15346a44f",
+  "slug": "will-trump-nominate-vivek-ramaswamy-for-secretary-of-state",
+  "question": "Will Trump nominate Vivek Ramaswamy for Secretary of State?"
+}

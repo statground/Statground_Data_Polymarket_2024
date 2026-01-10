@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:01:40.439913Z",
+  "market_createdAt": "2024-10-03T22:01:40.439913Z",
+  "market_updatedAt": "2025-04-30T16:20:28.917544Z",
+  "market_startDate": "2024-10-04T15:23:18.864222Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-30 07:19:11+00",
+  "conditionId": "0xf86bd2161b4505c5e01b18445629d594c5b707500056821873840f4537436b60",
+  "slug": "will-the-orlando-magic-win-the-eastern-conference",
+  "question": "Will the Orlando Magic win the Eastern Conference?"
+}

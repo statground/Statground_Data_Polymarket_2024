@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T17:05:48.920285Z",
+  "market_createdAt": "2024-12-13T17:05:48.920285Z",
+  "market_updatedAt": "2025-03-03T20:46:35.034654Z",
+  "market_startDate": "2024-12-13T17:10:04.775Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-13 17:09:50+00",
+  "conditionId": "0xcd535d325aedb103869b25915473e8861c893c5f4fa1fbd514cde9173cc8ba87",
+  "slug": "will-ethereum-dip-to-3000pt00-by-march-31",
+  "question": "Will Ethereum dip to $3,000.00 by March 31?"
+}

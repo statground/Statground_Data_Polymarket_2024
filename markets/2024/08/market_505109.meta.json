@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T17:03:25.655599Z",
+  "market_createdAt": "2024-08-14T17:03:25.655599Z",
+  "market_updatedAt": "2024-08-16T22:33:02.02874Z",
+  "market_startDate": "2024-08-14T17:27:52.657Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:03:05+00",
+  "conditionId": "0x6ffb4115bb859b4aabcf44964eb1cfaeb3c3609b0847a6c03ef020e90fdf519c",
+  "slug": "will-trump-say-debate-at-his-press-conference",
+  "question": "Will Trump say \"Debate\" at his press conference?"
+}

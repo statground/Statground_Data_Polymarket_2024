@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:18:32.970558Z",
+  "market_createdAt": "2024-07-18T20:18:32.970558Z",
+  "market_updatedAt": "2024-08-06T15:52:55.660112Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-05 23:39:47+00",
+  "conditionId": "0x571c29a962e81ef4bad843c57d07b6a63348e5beb5d0fe34f74c8e4b82c46ee3",
+  "slug": "will-sam-kendricks-usa-win-gold-in-pole-vault",
+  "question": "Will Sam Kendricks (USA) win Gold in Pole Vault?"
+}

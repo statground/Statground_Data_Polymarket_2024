@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T15:14:54.132440Z",
+  "market_createdAt": "2024-04-16T15:14:54.13244Z",
+  "market_updatedAt": "2024-11-08T18:33:02.871026Z",
+  "market_startDate": "2024-04-18T21:23:19.099Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 18:31:36+00",
+  "conditionId": "0x158fcb0b8844c9cdecb95940a3a1a643799ab8d03f6234d449ff344e4bafad6c",
+  "slug": "us-presidential-election-democrats-win-a-solid-red-state",
+  "question": "Kamala Harris wins a solid red state?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T22:05:47.454000Z",
+  "market_createdAt": "2024-02-29T22:05:47.454Z",
+  "market_updatedAt": "2024-03-07T03:49:35.93Z",
+  "market_startDate": "2024-02-29T23:12:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 03:45:24+00",
+  "conditionId": "0x4fea9b48538758ff47c93af9950141d1b5b1afa501231e39842bcb8c38f72ab7",
+  "slug": "will-texas-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Texas be Trump's worst state on Super Tuesday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T17:45:41.604086Z",
+  "market_createdAt": "2024-12-31T17:45:41.604086Z",
+  "market_updatedAt": "2026-01-02T08:32:46.181223Z",
+  "market_startDate": "2024-12-31T17:55:49.765275Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 08:32:53+00",
+  "conditionId": "0x0f416235a6d63a19f2779906242ce173aec3e49bbdcdf60247b994f132ab79bb",
+  "slug": "bird-flu-vaccine-in-2025",
+  "question": "Bird flu vaccine in 2025?"
+}

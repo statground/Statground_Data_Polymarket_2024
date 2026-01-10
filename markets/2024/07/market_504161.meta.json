@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:44:47.742521Z",
+  "market_createdAt": "2024-07-25T18:44:47.742521Z",
+  "market_updatedAt": "2024-07-31T20:47:02.881498Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:35:27+00",
+  "conditionId": "0xe01856c6dd5c3bef2a740acf66ee6c2d958d03836997b285942d3f4039459a06",
+  "slug": "will-bobby-finke-usa-win-gold-in-mens-800m-freestyle",
+  "question": "Will Bobby Finke (USA) win Gold in Men's 800m Freestyle?"
+}

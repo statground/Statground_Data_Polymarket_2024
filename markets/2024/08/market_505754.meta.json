@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-25T14:04:42.701450Z",
+  "market_createdAt": "2024-08-25T14:04:42.70145Z",
+  "market_updatedAt": "2024-10-02T04:46:47.999703Z",
+  "market_startDate": "2024-08-25T14:35:36.45Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:17:54+00",
+  "conditionId": "0x694f9d7ce560ab5eebb1fc554382b5255c2bb1676b73c660212f0d63dc555be7",
+  "slug": "telegram-banned-by-eu-member-state-before-october",
+  "question": "Telegram banned by EU country before October?"
+}

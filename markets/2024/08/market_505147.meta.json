@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:47:00.506987Z",
+  "market_createdAt": "2024-08-15T00:47:00.506987Z",
+  "market_updatedAt": "2024-08-19T05:32:49.959628Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 06:12:14+00",
+  "conditionId": "0xf716565a832e4635c0acb6d0dbf8c9df1202962d2cedb770afb00028fe833f37",
+  "slug": "kara-france-vs-erceg",
+  "question": "Kara-France vs. Erceg"
+}

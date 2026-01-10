@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:36:36.612849Z",
+  "market_createdAt": "2024-11-26T07:36:36.612849Z",
+  "market_updatedAt": "2024-11-28T22:35:28.543544Z",
+  "market_startDate": "2024-11-26T22:25:47.716043Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:18:35+00",
+  "conditionId": "0x3c0f4ab7a0435bc4eedfc247149fc2138795c329c4e4c42a5e2319acf5923bc0",
+  "slug": "will-the-match-between-monaco-and-benfica-end-in-a-draw",
+  "question": "Will the match between Monaco and Benfica end in a draw?"
+}

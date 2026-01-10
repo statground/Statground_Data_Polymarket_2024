@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T21:43:29.898421Z",
+  "market_createdAt": "2024-11-20T21:43:29.898421Z",
+  "market_updatedAt": "2025-04-20T00:26:35.929469Z",
+  "market_startDate": "2024-11-20T22:33:47.358Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:28:59+00",
+  "conditionId": "0x05a2bacee6fc2fae6df409c00851c1177ca0f99a947be178e04b842385e50888",
+  "slug": "will-jake-paul-fight-logan-paul-next",
+  "question": "Will Jake Paul fight Logan Paul next?"
+}

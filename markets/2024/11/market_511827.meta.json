@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:53:05.611535Z",
+  "market_createdAt": "2024-11-02T21:53:05.611535Z",
+  "market_updatedAt": "2024-11-06T07:31:15.971877Z",
+  "market_startDate": "2024-11-02T23:01:19.579Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:16:59+00",
+  "conditionId": "0x9df0d5c8a8bc615c54f5cde4436f83297b8ae71c2c62aad5fb9abf33480dd0aa",
+  "slug": "will-trump-say-dark-maga-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"Dark MAGA\" during Michigan rally on Nov 4?"
+}

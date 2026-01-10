@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T20:19:04.176206Z",
+  "market_createdAt": "2024-06-14T20:19:04.176206Z",
+  "market_updatedAt": "2024-06-22T21:41:09.959212Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 23:17:57+00",
+  "conditionId": "0xdd770323095da81fa24f312d7fac076c3b4a5ef5236ce3f48088235577e9ad9f",
+  "slug": "microsoft-largest-company-on-june-21-ybd3",
+  "question": "Microsoft largest company on June 21?"
+}

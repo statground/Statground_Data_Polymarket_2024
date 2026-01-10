@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502539",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T16:30:26.397874Z",
+  "market_createdAt": "2024-06-17T16:30:26.397874Z",
+  "market_updatedAt": "2024-06-19T17:56:15.970957Z",
+  "market_startDate": "2024-06-17T17:04:00.249Z",
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-18 21:08:22+00",
+  "conditionId": "0x9ea5b47e59f4f0c2799c23b1b8f16bcaf0aba26dac003ec6abe1458023a462f8",
+  "slug": "will-the-match-be-a-draw-turkey-georgia",
+  "question": "Will the match be a draw?"
+}

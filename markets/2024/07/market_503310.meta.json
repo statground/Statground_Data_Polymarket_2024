@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:09:41.450874Z",
+  "market_createdAt": "2024-07-09T15:09:41.450874Z",
+  "market_updatedAt": "2025-01-20T03:40:43.509244Z",
+  "market_startDate": "2024-08-08T16:14:18.765Z",
+  "market_endDate": "2025-02-10T12:00:00Z",
+  "market_closedTime": "2025-01-19 03:42:27+00",
+  "conditionId": "0x436c765bcbdca98b4b773fc87be547dd1a3b7155eece9870bcb997e89b184950",
+  "slug": "will-the-texans-win-super-bowl-2025",
+  "question": "Will the Texans win Super Bowl 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:22:55.918559Z",
+  "market_createdAt": "2024-08-27T19:22:55.918559Z",
+  "market_updatedAt": "2024-08-29T19:41:16.89033Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:31:34+00",
+  "conditionId": "0xdef444dd7d348be5a2db7e3d22df5f55de97efbb81bd41a91d05561003dc07ea",
+  "slug": "will-jd-vance-say-stolen-valor-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"stolen valor\" during Pennsylvania rally?"
+}

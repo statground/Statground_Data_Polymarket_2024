@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T20:52:22.025121Z",
+  "market_createdAt": "2024-07-02T20:52:22.025121Z",
+  "market_updatedAt": "2024-07-07T01:25:46.9774Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:25:01+00",
+  "conditionId": "0xc8d3f6e7e6ea0ab7df43e0a7851abca17f45ef51dea362349eadba0100a1d271",
+  "slug": "will-biden-say-alley-cat-in-abc-interview",
+  "question": "Will Biden say \"Alley Cat\" in ABC interview?"
+}

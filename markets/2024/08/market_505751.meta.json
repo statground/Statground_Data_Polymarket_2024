@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T17:37:59.047783Z",
+  "market_createdAt": "2024-08-23T17:37:59.047783Z",
+  "market_updatedAt": "2024-08-26T22:17:07.994274Z",
+  "market_startDate": "2024-08-25T12:00:00Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 23:06:54+00",
+  "conditionId": "0xc206473e788a1d8f149e1f382284b9a15d8ad3c321598eb44a2d8f5c1b37cac6",
+  "slug": "nfl-no-ten-2024-08-25",
+  "question": "Saints vs. Titans"
+}

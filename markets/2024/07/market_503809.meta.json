@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:58:30.145351Z",
+  "market_createdAt": "2024-07-18T20:58:30.145351Z",
+  "market_updatedAt": "2024-08-02T17:13:01.858627Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-08-01 00:02:02+00",
+  "conditionId": "0xf09de19945a061b8a14515d8b0f35dd983b373478ba3a59508086d5df146d7b2",
+  "slug": "will-another-athlete-win-gold-in-mens-100m-freestyle",
+  "question": "Will another athlete win Gold in Men's 100m Freestyle?"
+}

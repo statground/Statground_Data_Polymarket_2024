@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:21:04.542531Z",
+  "market_createdAt": "2024-10-07T19:21:04.542531Z",
+  "market_updatedAt": "2025-05-23T23:01:21.725155Z",
+  "market_startDate": "2024-10-08T14:48:22.690065Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-12 23:22:00+00",
+  "conditionId": "0x8836e8247fac979e52677de7403de29889202ba4daa129ded99dfa170d690d84",
+  "slug": "will-the-new-york-islanders-win-the-2025-stanley-cup",
+  "question": "Will the New York Islanders win the 2025 Stanley Cup?"
+}

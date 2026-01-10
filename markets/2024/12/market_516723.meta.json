@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T19:49:27.907976Z",
+  "market_createdAt": "2024-12-29T19:49:27.907976Z",
+  "market_updatedAt": "2025-09-19T00:51:22.673698Z",
+  "market_startDate": "2024-12-29T22:44:16.86863Z",
+  "market_endDate": "2025-12-10T12:00:00Z",
+  "market_closedTime": "2025-09-17 21:39:36+00",
+  "conditionId": "0xebfda84c91d3dafde3f49bd132aadc9e762b88023021806e7345cd526fc7e1fa",
+  "slug": "will-no-fed-rate-cuts-happen-in-2025",
+  "question": "Will no Fed rate cuts happen in 2025?"
+}

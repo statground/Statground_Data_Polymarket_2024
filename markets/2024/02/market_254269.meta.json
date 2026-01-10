@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-01T23:28:48.007000Z",
+  "market_createdAt": "2024-02-01T23:28:48.007Z",
+  "market_updatedAt": "2024-02-13T05:25:40.355Z",
+  "market_startDate": "2024-02-02T00:10:00Z",
+  "market_endDate": "2024-02-09T00:00:00Z",
+  "market_closedTime": "2024-02-12 08:02:27+00",
+  "conditionId": "0x22830cfa60e23cd669f30fc8fb990c9d69fe0c33d12a41c7e91a89b8e4f4323d",
+  "slug": "will-the-gatorade-shower-at-2024-super-bowl-be-clearwater",
+  "question": "Will the Gatorade shower at 2024 Super Bowl be clear/water?"
+}

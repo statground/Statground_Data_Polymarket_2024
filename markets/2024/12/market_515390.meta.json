@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T17:59:12.688454Z",
+  "market_createdAt": "2024-12-11T17:59:12.688454Z",
+  "market_updatedAt": "2024-12-18T15:25:23.769605Z",
+  "market_startDate": "2024-12-11T19:41:49.922483Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-17 17:19:20+00",
+  "conditionId": "0x2508e9fa868caae2eb33b550c66dc2f76f94c6b6418cec8ff413b37966d9d2e5",
+  "slug": "canada-post-strike-ends-in-2024",
+  "question": "Canada Post strike ends in 2024?"
+}

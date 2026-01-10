@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:33:08.249000Z",
+  "market_createdAt": "2024-02-20T18:33:08.249Z",
+  "market_updatedAt": "2024-05-12T21:24:02.3634Z",
+  "market_startDate": "2024-02-21T00:33:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:14:41+00",
+  "conditionId": "0x1ce0f21feca84fcaf1db018cf6930db2d9a56f2effedc85db1bf2e6701449d05",
+  "slug": "will-georgia-win-eurovision-2024",
+  "question": "Will Georgia win Eurovision 2024?"
+}

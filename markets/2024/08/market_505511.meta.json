@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:35:42.203116Z",
+  "market_createdAt": "2024-08-21T14:35:42.203116Z",
+  "market_updatedAt": "2024-08-23T03:27:06.916968Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 03:55:36+00",
+  "conditionId": "0xff8db787c16a9bed9af17813eb785474008e7c171f090d3989857b4a3fb970fa",
+  "slug": "will-pelosi-say-january-6-at-dnc-speech",
+  "question": "Will Pelosi say \"January 6\" at DNC speech?"
+}

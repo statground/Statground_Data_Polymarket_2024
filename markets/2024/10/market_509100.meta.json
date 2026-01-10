@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:20:14.760959Z",
+  "market_createdAt": "2024-10-07T19:20:14.760959Z",
+  "market_updatedAt": "2025-05-23T23:01:21.71749Z",
+  "market_startDate": "2024-10-08T14:47:40.275037Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-03-28 06:48:04+00",
+  "conditionId": "0xa9c3453deb9e9af9388cbb0ca7a9897d76d642aad0c47306d4d20a29c50a7ee0",
+  "slug": "will-the-nashville-predators-win-the-2025-stanley-cup",
+  "question": "Will the Nashville Predators win the 2025 Stanley Cup?"
+}

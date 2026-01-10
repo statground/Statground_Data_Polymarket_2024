@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T15:21:04.025173Z",
+  "market_createdAt": "2024-10-16T15:21:04.025173Z",
+  "market_updatedAt": "2024-10-28T20:12:53.36522Z",
+  "market_startDate": "2024-10-16T19:01:06.289253Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:36:34+00",
+  "conditionId": "0xe337ca4772d34432b4903a1041205843a273b371138ce5eed4009d2344080a76",
+  "slug": "will-another-candidate-win-the-2024-belo-horizonte-mayoral-election",
+  "question": "Will another candidate win the 2024 Belo Horizonte mayoral election?"
+}

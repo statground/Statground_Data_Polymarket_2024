@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:43:56.321714Z",
+  "market_createdAt": "2024-07-17T20:43:56.321714Z",
+  "market_updatedAt": "2024-08-05T03:16:53.750842Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:14:35+00",
+  "conditionId": "0x1200942636f3f32a009ee2b438534eecf6de75db011a76b41c540ecfd65652f4",
+  "slug": "will-another-athlete-win-gold-in-100m",
+  "question": "Will another athlete win Gold in 100m?"
+}

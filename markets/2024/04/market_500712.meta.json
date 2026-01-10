@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:32:32.879032Z",
+  "market_createdAt": "2024-04-04T17:32:32.879032Z",
+  "market_updatedAt": "2024-11-07T21:03:07.425723Z",
+  "market_startDate": "2024-04-12T19:17:02.21Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:15:43+00",
+  "conditionId": "0x2e87579118981aecb1c27e8bf507473cca10d546f4fe5c35ea94550c8305118a",
+  "slug": "will-a-republican-win-delaware-us-senate-election",
+  "question": "Will a Republican win Delaware US Senate Election?"
+}

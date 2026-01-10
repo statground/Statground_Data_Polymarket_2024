@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T16:18:02.511722Z",
+  "market_createdAt": "2024-03-22T16:18:02.511722Z",
+  "market_updatedAt": "2024-05-31T23:01:14.686559Z",
+  "market_startDate": "2024-03-22T16:39:13.581Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-05-30 23:35:05+00",
+  "conditionId": "0x651ad058f0d3faed9d5b5447320530554a1a6a2dfba1769ef9234161980bfe69",
+  "slug": "trump-convicted-by-election",
+  "question": "Trump convicted of felony before Election?"
+}

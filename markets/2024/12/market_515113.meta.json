@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:27:46.605051Z",
+  "market_createdAt": "2024-12-09T17:27:46.605051Z",
+  "market_updatedAt": "2024-12-15T18:55:39.221299Z",
+  "market_startDate": "2024-12-09T17:30:59.527057Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:08:13+00",
+  "conditionId": "0xf9f15b727387041bd42e1faf32413fd98fbfa9280a646bc5380161d178b19c50",
+  "slug": "epl-wol-ips-2024-12-14-wol",
+  "question": "Will Wolves win on 2024-12-14?"
+}

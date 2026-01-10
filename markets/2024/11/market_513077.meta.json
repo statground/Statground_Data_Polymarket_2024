@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T22:56:56.877831Z",
+  "market_createdAt": "2024-11-14T22:56:56.877831Z",
+  "market_updatedAt": "2025-02-14T19:18:06.11028Z",
+  "market_startDate": "2024-11-14T23:21:31.449767Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-13 20:36:07+00",
+  "conditionId": "0x9a303e2020f2ddf40ed65e1168cc1d5ca9a76490bca5d958eda669dccb1253d4",
+  "slug": "will-bobby-jindal-be-trumps-hhs-secretary",
+  "question": "Will Bobby Jindal be Trump's HHS Secretary?"
+}

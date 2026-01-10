@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:16:05.959688Z",
+  "market_createdAt": "2024-11-07T21:16:05.959688Z",
+  "market_updatedAt": "2025-01-22T06:09:04.35655Z",
+  "market_startDate": "2024-11-07T21:32:05.797Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 06:10:47+00",
+  "conditionId": "0x8e89d91cff090ce6696df4658a0c573fca0b878dd9685349b7c7f50507623e1b",
+  "slug": "trump-deportation-executive-order-on-day-1",
+  "question": "Trump deportation executive order on Day 1?"
+}

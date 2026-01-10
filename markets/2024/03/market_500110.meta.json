@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T16:17:17.398211Z",
+  "market_createdAt": "2024-03-13T16:17:17.398211Z",
+  "market_updatedAt": "2024-11-22T07:02:58.455861Z",
+  "market_startDate": "2024-04-03T22:02:31.452Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 03:59:39+00",
+  "conditionId": "0x163854cc14ae2580e74e10bd1a5aecba0036c893a645f280c0f820dee470676c",
+  "slug": "will-a-candidate-from-another-party-win-pennsylvania-us-senate-election",
+  "question": "Will a candidate from another party win Pennsylvania US Senate Election?"
+}

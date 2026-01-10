@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T14:43:13.217277Z",
+  "market_createdAt": "2024-07-15T14:43:13.217277Z",
+  "market_updatedAt": "2024-07-17T03:14:49.013423Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:37:02+00",
+  "conditionId": "0x92e4789f2f8d1098ada280e5331df466d94d548d7ef455870a1b63c826b5df9c",
+  "slug": "will-biden-say-dictator-during-lester-holt-interview",
+  "question": "Will Biden say \"Dictator\" during Lester Holt interview?"
+}

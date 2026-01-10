@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:10:54.518315Z",
+  "market_createdAt": "2024-11-07T19:10:54.518315Z",
+  "market_updatedAt": "2024-11-24T01:58:48.646946Z",
+  "market_startDate": "2024-11-07T20:36:06.384869Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:15:11+00",
+  "conditionId": "0xd6a7884e996ceb13ab2b5e58a479698af203a5d6fbe4bc31663fc8880af7be5b",
+  "slug": "will-trump-nominate-bryan-slater-for-labor-secretary",
+  "question": "Will Trump nominate Bryan Slater for Labor Secretary?"
+}

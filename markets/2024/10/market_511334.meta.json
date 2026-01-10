@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:23:15.643283Z",
+  "market_createdAt": "2024-10-29T19:23:15.643283Z",
+  "market_updatedAt": "2024-10-31T01:43:12.046254Z",
+  "market_startDate": "2024-10-29T20:07:42.095263Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 03:56:38+00",
+  "conditionId": "0x0988f79a69de6c64fa87c2baf2aa0275f153379acfc80b9334a3f46d2a887c3d",
+  "slug": "will-trump-say-nazi-during-hannity-interview",
+  "question": "Will Trump say \"Nazi\" during Hannity interview?"
+}

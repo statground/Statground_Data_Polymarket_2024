@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:08:07.186347Z",
+  "market_createdAt": "2024-12-22T05:08:07.186347Z",
+  "market_updatedAt": "2024-12-28T07:30:57.755075Z",
+  "market_startDate": "2024-12-22T05:10:41.211107Z",
+  "market_endDate": "2025-01-03T03:00:00Z",
+  "market_closedTime": "2024-12-27 07:29:34+00",
+  "conditionId": "0x5b1dc2d26952e04beff7313757e82a50e806e472ac59981275a5d8f418b9f3fd",
+  "slug": "nba-uta-por-2024-12-26",
+  "question": "Jazz vs. Trail Blazers"
+}

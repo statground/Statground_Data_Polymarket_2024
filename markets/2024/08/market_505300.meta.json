@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:31:29.368021Z",
+  "market_createdAt": "2024-08-19T15:31:29.368021Z",
+  "market_updatedAt": "2024-08-21T04:27:01.501483Z",
+  "market_startDate": "2024-08-19T15:51:03.031Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 06:25:38+00",
+  "conditionId": "0xd6454b38a91a8a80e3a62b8441e030217fa57c130186e5a56f282e574e4b24b2",
+  "slug": "will-biden-say-pelosi-at-dnc-speech",
+  "question": "Will Biden say \"Pelosi\" at DNC speech?"
+}

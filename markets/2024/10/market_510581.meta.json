@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:45:49.042072Z",
+  "market_createdAt": "2024-10-22T16:45:49.042072Z",
+  "market_updatedAt": "2024-10-25T18:57:17.098054Z",
+  "market_startDate": "2024-10-22T21:14:52.59167Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:12:44+00",
+  "conditionId": "0x60194b20b5afcb5c9b474e85d7184623c81ca9e4d8d19330b93d050484b57183",
+  "slug": "will-malmo-beat-olympiacos",
+  "question": "Will Malmo beat Olympiacos?"
+}

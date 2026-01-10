@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T22:20:24.629962Z",
+  "market_createdAt": "2024-10-01T22:20:24.629962Z",
+  "market_updatedAt": "2024-10-04T21:22:42.392712Z",
+  "market_startDate": "2024-10-01T23:10:51.73523Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 21:32:52+00",
+  "conditionId": "0x71a3fc1181dc3d37f806b072f8d45e73543105880d76b8ba9a4c7256d5f2357b",
+  "slug": "will-trump-say-debate-during-michigan-rally",
+  "question": "Will Trump say \"debate\" during Michigan rally?"
+}

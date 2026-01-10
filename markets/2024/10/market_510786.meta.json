@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T15:46:44.821260Z",
+  "market_createdAt": "2024-10-24T15:46:44.82126Z",
+  "market_updatedAt": "2024-10-26T00:11:05.132671Z",
+  "market_startDate": "2024-10-24T20:12:47.654753Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:28:25+00",
+  "conditionId": "0xc8764ff66589ec6e173dcd5461cb5be98529986abe27ad567b85afddbeabbd68",
+  "slug": "will-the-vikings-win-by-3-or-more-points",
+  "question": "Will the Vikings win by 3 or more points?"
+}

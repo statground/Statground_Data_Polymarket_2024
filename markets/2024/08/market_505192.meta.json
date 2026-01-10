@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:35:02.697895Z",
+  "market_createdAt": "2024-08-16T00:35:02.697895Z",
+  "market_updatedAt": "2024-08-18T22:32:57.070418Z",
+  "market_startDate": "2024-08-16T03:06:51.613Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 23:19:55+00",
+  "conditionId": "0xc961c6deb0f713adb3d668849aa3c668bee9c1bb9415d65853836f44ed84aa57",
+  "slug": "will-trump-say-fire-or-fired-at-his-rally",
+  "question": "Will Trump say \"Fire\" or \"Fired\" at his rally?"
+}

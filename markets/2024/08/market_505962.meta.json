@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T23:18:31.487571Z",
+  "market_createdAt": "2024-08-27T23:18:31.487571Z",
+  "market_updatedAt": "2024-08-31T05:23:02.821555Z",
+  "market_startDate": "2024-08-28T04:37:44.769Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:36:40+00",
+  "conditionId": "0x8e8e69205e353f7e1fddd62f837e95443a50060da12e85d039ecda670e600a27",
+  "slug": "will-kamala-harris-say-wall-during-cnn-interview",
+  "question": "Will Kamala Harris say \"Wall\" during CNN interview?"
+}

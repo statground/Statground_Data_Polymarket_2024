@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T18:10:06.775062Z",
+  "market_createdAt": "2024-05-30T18:10:06.775062Z",
+  "market_updatedAt": "2024-06-10T04:26:11.958215Z",
+  "market_startDate": "2024-05-30T18:19:07.895Z",
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-09 04:50:56+00",
+  "conditionId": "0x6754ff5a8dd8ab9cbe0168f7ac073b76ba71380de8f4e09f2d12b1c57469149f",
+  "slug": "will-bill-ackman-back-trump",
+  "question": "Will Bill Ackman back Trump by next Friday?"
+}

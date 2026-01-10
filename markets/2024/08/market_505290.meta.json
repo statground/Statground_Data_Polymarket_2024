@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:11:27.651913Z",
+  "market_createdAt": "2024-08-19T15:11:27.651913Z",
+  "market_updatedAt": "2024-08-21T05:11:01.430438Z",
+  "market_startDate": "2024-08-19T16:29:57.42Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 06:25:44+00",
+  "conditionId": "0x7c13fb1b8495ab2be493f9ec4fc78cf8522357ae0d60c8d817007d1fd1785275",
+  "slug": "will-biden-say-donald-dump-at-dnc-speech",
+  "question": "Will Biden say \"Donald dump\" at DNC speech?"
+}

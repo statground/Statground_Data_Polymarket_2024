@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:01:09.377202Z",
+  "market_createdAt": "2024-12-22T05:01:09.377202Z",
+  "market_updatedAt": "2024-12-24T03:53:40.653123Z",
+  "market_startDate": "2024-12-22T05:04:21.047301Z",
+  "market_endDate": "2024-12-29T23:00:00Z",
+  "market_closedTime": "2024-12-23 03:48:39+00",
+  "conditionId": "0xfe7bc87933b19a799f614489959078ed6c905dcd79e30927ab01233b718181b5",
+  "slug": "nba-hou-tor-2024-12-22",
+  "question": "Rockets vs. Raptors"
+}

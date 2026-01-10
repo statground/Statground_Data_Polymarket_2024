@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T02:59:49.758514Z",
+  "market_createdAt": "2024-08-23T02:59:49.758514Z",
+  "market_updatedAt": "2024-08-26T14:52:54.566027Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:35:16+00",
+  "conditionId": "0x388041cb356ffd92be32ccad061ee764bd27274e78ca2005febea7093e4cada9",
+  "slug": "will-oscar-piastri-win-the-dutch-grand-prix",
+  "question": "Will Oscar Piastri win the Dutch Grand Prix?"
+}

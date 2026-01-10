@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T00:24:21.380000Z",
+  "market_createdAt": "2024-01-11T00:24:21.38Z",
+  "market_updatedAt": "2024-01-16T04:01:17.507Z",
+  "market_startDate": "2024-01-14T00:00:00Z",
+  "market_endDate": "2024-01-14T00:00:00Z",
+  "market_closedTime": "2024-01-15 06:16:15+00",
+  "conditionId": "0x9fef5ab1298374ae3b05291fb405606948d3a42651744cc8b450f3d9e9b7b4b9",
+  "slug": "nfl-det-lar-2024-01-14",
+  "question": "Lions vs. Rams"
+}

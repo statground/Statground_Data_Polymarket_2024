@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506638",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T05:11:42.370419Z",
+  "market_createdAt": "2024-09-09T05:11:42.370419Z",
+  "market_updatedAt": "2024-09-16T22:22:48.537148Z",
+  "market_startDate": "2024-09-09T05:13:57.679401Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:28:41+00",
+  "conditionId": "0xfec0062eb32622dd29fd82d3e6e90e4907021e166636b915880d3085c0a7751d",
+  "slug": "nfl-bal-las-2024-09-15",
+  "question": "Ravens vs. Raiders"
+}

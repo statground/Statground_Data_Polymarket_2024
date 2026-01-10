@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:34:01.179659Z",
+  "market_createdAt": "2024-10-18T20:34:01.179659Z",
+  "market_updatedAt": "2024-10-22T00:03:08.707755Z",
+  "market_startDate": "2024-10-18T23:14:34.10262Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:59:28+00",
+  "conditionId": "0x4718a2741808500b25db457c39e02636d26e78cdee3b5e028597119263d42865",
+  "slug": "will-trump-say-china-3-or-more-times-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"China\" 3 or more times during Pennsylvania town hall on October 20?"
+}

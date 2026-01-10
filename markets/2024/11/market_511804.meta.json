@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:52:54.514133Z",
+  "market_createdAt": "2024-11-02T19:52:54.514133Z",
+  "market_updatedAt": "2024-11-06T04:43:14.571187Z",
+  "market_startDate": "2024-11-02T20:54:07.199Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 04:47:22+00",
+  "conditionId": "0xe1285e2e2a93cb3d0e52e43851ec9bbefac5b6b16eb87874fcb22d65cdbc63d5",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Pittsburgh rally on Nov 4?"
+}

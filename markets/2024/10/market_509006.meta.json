@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:52:29.954243Z",
+  "market_createdAt": "2024-10-04T21:52:29.954243Z",
+  "market_updatedAt": "2024-10-07T21:36:30.297453Z",
+  "market_startDate": "2024-10-04T22:31:22.953341Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 21:41:12+00",
+  "conditionId": "0x9a4209ed584f0c1534ca2a5cd4cd7556a5c81003edb905edda1ae906e5a410c7",
+  "slug": "will-trump-say-elon-musk-or-elon-musk-during-wisconsin-rally",
+  "question": "Will Trump say \"Elon\", \"Musk\", or \"Elon Musk\" during Wisconsin rally?"
+}

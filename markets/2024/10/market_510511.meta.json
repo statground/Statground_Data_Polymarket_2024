@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:40:31.046349Z",
+  "market_createdAt": "2024-10-22T03:40:31.046349Z",
+  "market_updatedAt": "2024-10-25T20:23:07.622503Z",
+  "market_startDate": "2024-10-23T15:01:35.764455Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 21:59:01+00",
+  "conditionId": "0x055cf9e431db583b8839a0a68054c10b5a6810870e02e46ff25f6e97cb5f6b26",
+  "slug": "will-union-saint-gilloise-beat-midtjylland",
+  "question": "Will Union Saint-Gilloise beat Midtjylland?"
+}

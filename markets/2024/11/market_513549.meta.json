@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:28:14.985626Z",
+  "market_createdAt": "2024-11-20T19:28:14.985626Z",
+  "market_updatedAt": "2025-02-04T08:39:46.429158Z",
+  "market_startDate": "2024-11-20T22:09:32.115Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:32:39+00",
+  "conditionId": "0x4b4d70030f24d4eae335226191ac7fbfd93f1a45f0b1b57b639015b14625b54d",
+  "slug": "will-cowboy-carter-win-album-of-the-year",
+  "question": "Will 'Cowboy Carter' win Album of the Year?"
+}

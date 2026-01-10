@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T15:33:11.591000Z",
+  "market_createdAt": "2024-03-01T15:33:11.591Z",
+  "market_updatedAt": "2024-05-07T23:09:44.547177Z",
+  "market_startDate": "2024-03-01T15:37:57.819Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:31:42+00",
+  "conditionId": "0x82c13c5efb4a0ca96467f44d483267fc0dbdb8796bcdd52c708ec6d696790e9d",
+  "slug": "us-bank-failure-in-march",
+  "question": "US bank failure in March?"
+}

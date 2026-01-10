@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-12T21:09:25.211000Z",
+  "market_createdAt": "2024-02-12T21:09:25.211Z",
+  "market_updatedAt": "2024-03-06T17:34:19.629Z",
+  "market_startDate": "2024-02-12T22:31:30.51Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-03-05 17:33:55+00",
+  "conditionId": "0x31d620d7c7a0b3d2c4e6dd2d5b0bee0c15f93aac2bdf98a458cea250cbb25ba8",
+  "slug": "bitcoin-all-time-high-in-2024",
+  "question": "Bitcoin all time high in 2024?"
+}

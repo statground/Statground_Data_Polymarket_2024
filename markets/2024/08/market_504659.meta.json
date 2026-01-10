@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T16:43:58.248246Z",
+  "market_createdAt": "2024-08-07T16:43:58.248246Z",
+  "market_updatedAt": "2024-08-08T21:16:54.738284Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 23:11:40+00",
+  "conditionId": "0xd67c19f44fbe9de38a60cd09b9c06bb34cac4b00241a473c1fda523d6ecba002",
+  "slug": "olympic-basketball-usa-vs-nigeria",
+  "question": "Olympic Basketball: USA vs. Nigeria"
+}

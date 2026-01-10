@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T19:46:02.526717Z",
+  "market_createdAt": "2024-07-25T19:46:02.526717Z",
+  "market_updatedAt": "2024-08-06T00:42:48.786949Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 07:38:24+00",
+  "conditionId": "0xbbec8fb5d5650b9df21b49c998e94e315a18c3d916fc72dc06a14bf50b195dc4",
+  "slug": "katie-ledecky-wins-4-gold-medals",
+  "question": "Katie Ledecky wins 4+ gold medals?"
+}

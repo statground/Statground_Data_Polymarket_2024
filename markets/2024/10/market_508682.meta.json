@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:22:53.989367Z",
+  "market_createdAt": "2024-10-02T17:22:53.989367Z",
+  "market_updatedAt": "2024-10-03T21:42:40.207632Z",
+  "market_startDate": "2024-10-02T21:07:14.572533Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-10-03 00:38:28+00",
+  "conditionId": "0x8e5d9653c027c09c0141a8d8dd5899baeb76d2f9e987358e9c30f205c7f34466",
+  "slug": "will-the-houston-astros-win-the-american-league",
+  "question": "Will the Houston Astros win the American League?"
+}

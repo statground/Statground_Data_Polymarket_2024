@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:45:27.403086Z",
+  "market_createdAt": "2024-11-07T17:45:27.403086Z",
+  "market_updatedAt": "2024-11-09T04:37:03.518751Z",
+  "market_startDate": "2024-11-07T18:21:13.291731Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 06:13:28+00",
+  "conditionId": "0x7bf8d1507b0b5ad370dfcdde515537cbbdecece10c5acf07a26f6619e3fb979c",
+  "slug": "will-the-ravens-and-the-bengals-combine-for-53-or-more-points",
+  "question": "Will the Ravens and the Bengals combine for 53 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T22:04:28.733475Z",
+  "market_createdAt": "2024-11-15T22:04:28.733475Z",
+  "market_updatedAt": "2024-11-19T00:07:17.730564Z",
+  "market_startDate": "2024-11-15T23:21:41.718776Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-18 00:49:48+00",
+  "conditionId": "0x6dc8a1495fa1fa3128a9edb428173c1f0f97c65be2d1acfddca89738db2d777f",
+  "slug": "will-israel-beat-belgium-nov-17",
+  "question": "Will Israel beat Belgium?"
+}

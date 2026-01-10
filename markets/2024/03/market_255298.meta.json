@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T15:37:57.201000Z",
+  "market_createdAt": "2024-03-05T15:37:57.201Z",
+  "market_updatedAt": "2024-05-07T23:09:52.618319Z",
+  "market_startDate": "2024-03-05T23:02:08.684Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:31:36+00",
+  "conditionId": "0xacedb00f27db3bf78feed4de418ba5c2a1c1af1bcbb2def16d3db9df73c556bf",
+  "slug": "pepe-listed-on-coinbase-in-march",
+  "question": "$PEPE listed on Coinbase in March?"
+}

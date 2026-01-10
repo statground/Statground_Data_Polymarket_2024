@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-18T17:36:23.313173Z",
+  "market_createdAt": "2024-05-18T17:36:23.313173Z",
+  "market_updatedAt": "2024-05-20T21:39:22.709203Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 00:05:58+00",
+  "conditionId": "0x496bb2204b120f2446f48170be41af7961faf13db20b394c4329a087f9dfa6af",
+  "slug": "nba-nyk-ind-2024-05-19",
+  "question": "New York Knicks vs. Indiana Pacers: Game 7"
+}

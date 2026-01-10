@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:22:57.765515Z",
+  "market_createdAt": "2024-11-04T19:22:57.765515Z",
+  "market_updatedAt": "2024-11-25T11:05:55.151833Z",
+  "market_startDate": "2024-11-06T16:28:24.423432Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:09:22+00",
+  "conditionId": "0x8d3fc318619d9e7fc5dd0d1e70f6209624e56c619370e4b32ee3db547ee75659",
+  "slug": "will-lando-norris-win-the-las-vegas-grand-prix",
+  "question": " Will Lando Norris win the 2024 Las Vegas Grand Prix?"
+}

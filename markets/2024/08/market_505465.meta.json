@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505465",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T20:28:32.492564Z",
+  "market_createdAt": "2024-08-20T20:28:32.492564Z",
+  "market_updatedAt": "2024-08-22T06:56:58.273806Z",
+  "market_startDate": "2024-08-20T21:10:45.842Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 07:01:08+00",
+  "conditionId": "0x58ea293293c49c033edb390c434d6d7c3b02458d3b969a56b414b5879b1daa5f",
+  "slug": "trump-mentioned-200-or-more-times-at-the-dnc-today",
+  "question": "Trump mentioned 200 or more times at the DNC today?"
+}

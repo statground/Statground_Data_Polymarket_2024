@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T16:45:54.801516Z",
+  "market_createdAt": "2024-09-18T16:45:54.801516Z",
+  "market_updatedAt": "2024-09-19T20:56:44.410057Z",
+  "market_startDate": "2024-09-18T16:51:40.146Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 20:56:48+00",
+  "conditionId": "0x84270c148b5f64580128386bbc7ff4ab33d9f4ea031af58e366f60714e0ddd12",
+  "slug": "powell-says-unemployment-5-times-in-fomc-intro-statement",
+  "question": "Powell says \"unemployment\" 5+ times in FOMC statement?"
+}

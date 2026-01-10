@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T00:08:15.022842Z",
+  "market_createdAt": "2024-09-05T00:08:15.022842Z",
+  "market_updatedAt": "2024-09-11T03:23:03.577481Z",
+  "market_startDate": "2024-09-05T00:24:31.481114Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-10 05:24:34+00",
+  "conditionId": "0x335d7222f69fd435ad07b478b5f657d452b634fb1dc9084501460c019f9ede63",
+  "slug": "scorigami-in-nfl-week-1",
+  "question": "Scorigami in NFL Week 1?"
+}

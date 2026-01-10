@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T16:42:34.907819Z",
+  "market_createdAt": "2024-03-28T16:42:34.907819Z",
+  "market_updatedAt": "2024-11-07T16:03:12.583355Z",
+  "market_startDate": "2024-04-10T19:20:01.686Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:04:38+00",
+  "conditionId": "0xa0de93ceb5e777e92f1d0f2ce78fdf0ef14989f09b36d53736a01591a616c0ce",
+  "slug": "congressional-district-1st-nebraska-will-a-democrat-win",
+  "question": "Will a Democrat win Nebraska's 1st congressional district?"
+}

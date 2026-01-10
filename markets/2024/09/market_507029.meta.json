@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T19:59:06.973826Z",
+  "market_createdAt": "2024-09-13T19:59:06.973826Z",
+  "market_updatedAt": "2024-09-16T16:36:47.12132Z",
+  "market_startDate": "2024-09-13T20:52:36.191Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:23:37+00",
+  "conditionId": "0xdb7222d203a5f18c7b67d208c1d82b21a13d05351d0dcaa024278e0ff9b36d99",
+  "slug": "will-the-lions-beat-the-buccaneers-by-8-or-more-points",
+  "question": "Will the Lions beat the Buccaneers by 8 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:09:08.809166Z",
+  "market_createdAt": "2024-08-22T15:09:08.809166Z",
+  "market_updatedAt": "2024-08-24T02:11:00.609191Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:32:52+00",
+  "conditionId": "0xeaa3f4d5bb2191b5391160f675da008640bedaf5b2b09be61c033e80d8f98470",
+  "slug": "will-gretchen-whitmer-say-obamacare-or-affordable-care-act-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Obamacare\" or \"Affordable Care Act\" in DNC speech?"
+}

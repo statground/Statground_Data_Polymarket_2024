@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T01:33:25.009441Z",
+  "market_createdAt": "2024-08-13T01:33:25.009441Z",
+  "market_updatedAt": "2024-08-14T05:17:03.170505Z",
+  "market_startDate": "2024-08-13T01:57:20.954Z",
+  "market_endDate": "2024-08-12T12:00:00Z",
+  "market_closedTime": "2024-08-13 05:12:47+00",
+  "conditionId": "0x2df17f95413df31b1b173752024736fea6e89b0729773742205e261f48f2d380",
+  "slug": "trump-elon-conversation-over-2-hours-long",
+  "question": "Trump + Elon conversation over 2 hours long?"
+}

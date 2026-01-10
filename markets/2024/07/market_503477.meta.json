@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T14:47:31.926180Z",
+  "market_createdAt": "2024-07-15T14:47:31.92618Z",
+  "market_updatedAt": "2024-07-17T06:10:46.157375Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 06:11:00+00",
+  "conditionId": "0x1bd7477c0ecc0572f76b299e1abebae546d99a0372982696eb6838531cb5b121",
+  "slug": "will-biden-say-ballot-box-during-lester-holt-interview",
+  "question": "Will Biden say \"Ballot box\" during Lester Holt interview?"
+}

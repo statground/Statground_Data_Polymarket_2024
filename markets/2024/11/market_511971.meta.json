@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:17:36.619565Z",
+  "market_createdAt": "2024-11-04T23:17:36.619565Z",
+  "market_updatedAt": "2024-11-06T22:07:07.108804Z",
+  "market_startDate": "2024-11-05T00:39:30.193981Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:39:13+00",
+  "conditionId": "0xbc053c378e5994ec9a0d20b83695d63a0a3ba61a2eaead7b93024cffde987bea",
+  "slug": "will-the-match-between-celtic-and-rb-leipzig-end-in-a-draw",
+  "question": "Will the match between Celtic and RB Leipzig end in a draw?"
+}

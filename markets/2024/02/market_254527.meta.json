@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-18T20:22:01.117000Z",
+  "market_createdAt": "2024-02-18T20:22:01.117Z",
+  "market_updatedAt": "2024-05-07T23:10:11.679205Z",
+  "market_startDate": "2024-02-27T20:00:57.649Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-04-18 06:49:06+00",
+  "conditionId": "0xef4177523abd78683c37867cbb24f97474c6f6c184463c5f06828588ffc32f74",
+  "slug": "will-bayern-munich-win-the-bundesliga-2023-24",
+  "question": "Will Bayern Munich win the Bundesliga 2023-24?"
+}

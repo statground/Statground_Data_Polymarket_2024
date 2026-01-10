@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:15:09.484007Z",
+  "market_createdAt": "2024-12-04T21:15:09.484007Z",
+  "market_updatedAt": "2024-12-09T05:03:11.500831Z",
+  "market_startDate": "2024-12-04T21:18:33.612319Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 05:00:51+00",
+  "conditionId": "0x18f1f2975ca5267be03e29a65e93b92a208cfd7c97bdac7ba5655d98ec94cea7",
+  "slug": "nhl-nsh-ott-2024-12-07",
+  "question": "Predators vs. Senators"
+}

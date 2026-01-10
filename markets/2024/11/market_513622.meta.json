@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:50:47.865266Z",
+  "market_createdAt": "2024-11-21T17:50:47.865266Z",
+  "market_updatedAt": "2024-11-23T04:16:53.156343Z",
+  "market_startDate": "2024-11-21T18:28:55.454655Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:15:07+00",
+  "conditionId": "0x86c09053dcea153d2dc40b5087d6ece1f46318f7b5eda5df412e2ef4860d31d9",
+  "slug": "will-trump-pick-john-ratcliffe-for-attorney-general",
+  "question": "Will Trump pick John Ratcliffe for Attorney General?"
+}

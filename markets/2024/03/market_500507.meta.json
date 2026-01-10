@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T18:06:41.044518Z",
+  "market_createdAt": "2024-03-28T18:06:41.044518Z",
+  "market_updatedAt": "2024-11-07T03:37:05.934996Z",
+  "market_startDate": "2024-03-28T20:16:28.492Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:05:08+00",
+  "conditionId": "0x464970747ef4695bbf1d46757b122caa5b3fad410f8a79bcc773e6524b769835",
+  "slug": "will-a-candidate-from-another-party-win-delaware-presidential-election-2024",
+  "question": "Will a candidate from another party win Delaware Presidential Election?"
+}

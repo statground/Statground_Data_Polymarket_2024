@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T16:41:07.311476Z",
+  "market_createdAt": "2024-09-26T16:41:07.311476Z",
+  "market_updatedAt": "2025-01-02T13:27:06.516165Z",
+  "market_startDate": "2024-09-26T18:05:10.556443Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 14:18:12+00",
+  "conditionId": "0x43abdf5ebd092b73ba2b8642f89f4fbe94931b88b869901e23bd01570911abf4",
+  "slug": "will-sam-altman-take-equity-in-openai-in-2024",
+  "question": "Will Sam Altman take equity in OpenAI in 2024?"
+}

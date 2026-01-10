@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:32:28.205109Z",
+  "market_createdAt": "2024-10-21T16:32:28.205109Z",
+  "market_updatedAt": "2024-10-25T02:36:58.001156Z",
+  "market_startDate": "2024-10-21T21:31:46.285Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 02:35:52+00",
+  "conditionId": "0x1570fa712f7252bf047f70b12db9cec08abff5286edfa804e3b1cb8c91ef1f4a",
+  "slug": "will-trump-say-get-out-and-vote-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"get out and vote\" during Georgia rally on October 23?"
+}

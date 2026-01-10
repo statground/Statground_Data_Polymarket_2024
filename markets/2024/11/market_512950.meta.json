@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T23:28:31.139866Z",
+  "market_createdAt": "2024-11-12T23:28:31.139866Z",
+  "market_updatedAt": "2024-11-17T02:01:01.975914Z",
+  "market_startDate": "2024-11-14T20:52:47.838691Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 03:09:44+00",
+  "conditionId": "0xe16f94eb54ac3586441fdf4c53bf2178a1cfa379b69880206745d3b3c0f3f241",
+  "slug": "green-vs-watpool",
+  "question": "Green vs. Watpool"
+}

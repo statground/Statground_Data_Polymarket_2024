@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:36:09.018945Z",
+  "market_createdAt": "2024-12-25T06:36:09.018945Z",
+  "market_updatedAt": "2024-12-30T20:10:34.003601Z",
+  "market_startDate": "2024-12-25T06:38:43.739716Z",
+  "market_endDate": "2024-12-29T15:00:00Z",
+  "market_closedTime": "2024-12-29 20:26:36+00",
+  "conditionId": "0x1572cb62fb20b82ab035fd88d168b4d0dcffb9438031ab90eb4d60576b71f4c1",
+  "slug": "epl-cry-sou-2024-12-29-draw",
+  "question": "Will Crystal Palace vs. Southampton end in a draw?"
+}

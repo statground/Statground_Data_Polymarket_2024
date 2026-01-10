@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514780",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:14:54.219919Z",
+  "market_createdAt": "2024-12-04T21:14:54.219919Z",
+  "market_updatedAt": "2024-12-09T03:49:20.176873Z",
+  "market_startDate": "2024-12-04T21:18:18.430231Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 04:46:06+00",
+  "conditionId": "0xb46bf87d836703a985ccd4f070e0bb2a19a0b3a231fe8e2f443ae5edac82e491",
+  "slug": "nhl-wsh-mon-2024-12-07",
+  "question": "Capitals vs. Canadiens"
+}

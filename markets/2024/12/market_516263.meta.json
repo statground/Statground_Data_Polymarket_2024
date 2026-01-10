@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:01:43.309270Z",
+  "market_createdAt": "2024-12-22T07:01:43.30927Z",
+  "market_updatedAt": "2024-12-24T22:45:29.528139Z",
+  "market_startDate": "2024-12-22T07:04:43.626858Z",
+  "market_endDate": "2024-12-30T18:00:00Z",
+  "market_closedTime": "2024-12-23 22:51:46+00",
+  "conditionId": "0x36e0e52e80503d95f328713a64234abcea8a76b541a91cee23ab383d04d32a7f",
+  "slug": "nhl-nyr-nj-2024-12-23",
+  "question": "Rangers vs. Devils"
+}

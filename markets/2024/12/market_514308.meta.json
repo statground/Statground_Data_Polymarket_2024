@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:13:24.977831Z",
+  "market_createdAt": "2024-12-01T05:13:24.977831Z",
+  "market_updatedAt": "2024-12-08T05:33:26.371297Z",
+  "market_startDate": "2024-12-01T05:16:50.593573Z",
+  "market_endDate": "2024-12-14T00:30:00Z",
+  "market_closedTime": "2024-12-07 05:41:03+00",
+  "conditionId": "0x2dac3d0ff5a61fae96e8208c189bc48f7d39058e77aea852920ca789e072eb62",
+  "slug": "nba-lal-atl-2024-12-06",
+  "question": "Lakers vs. Hawks"
+}

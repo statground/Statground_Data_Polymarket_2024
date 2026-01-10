@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T23:18:59.348434Z",
+  "market_createdAt": "2024-10-07T23:18:59.348434Z",
+  "market_updatedAt": "2024-11-29T09:39:35.663411Z",
+  "market_startDate": "2024-10-08T16:26:20.476698Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 09:38:02+00",
+  "conditionId": "0x36ae039e3ffd0063981159d6ce48864e6afe50ef0344ba058758f981ff9b0835",
+  "slug": "will-the-republican-candidate-win-north-carolina-by-2pt0-3pt0",
+  "question": "Will the Republican candidate win North Carolina by 2.0%-3.0%?"
+}

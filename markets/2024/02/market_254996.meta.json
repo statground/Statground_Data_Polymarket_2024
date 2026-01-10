@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T17:51:08.061000Z",
+  "market_createdAt": "2024-02-29T17:51:08.061Z",
+  "market_updatedAt": "2024-03-09T07:22:04.973Z",
+  "market_startDate": "2024-02-29T19:27:18.477Z",
+  "market_endDate": "2024-03-07T00:00:00Z",
+  "market_closedTime": "2024-03-08 07:18:43+00",
+  "conditionId": "0x38d06944161d513e1b654f883c5d79a4893c933732bef37eb42799bd22c7d39b",
+  "slug": "any-blast-rug-1m-by-mar-7",
+  "question": "Any Blast rug >$1m by Mar 7?"
+}

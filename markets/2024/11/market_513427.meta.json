@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:06:57.988064Z",
+  "market_createdAt": "2024-11-18T23:06:57.988064Z",
+  "market_updatedAt": "2025-01-02T04:27:14.379788Z",
+  "market_startDate": "2024-11-19T21:19:42.364Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:31:02+00",
+  "conditionId": "0x7e240fd72255d515dd2be2a8a6bfb3d1db198c51c0d84fb764b4b83a9b83171c",
+  "slug": "10-monkeypox-cases-in-us-in-2024",
+  "question": "10+ monkeypox cases in US in 2024?"
+}

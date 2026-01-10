@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:27:41.734961Z",
+  "market_createdAt": "2024-11-01T17:27:41.734961Z",
+  "market_updatedAt": "2024-11-04T01:22:53.869468Z",
+  "market_startDate": "2024-11-01T22:54:06.110953Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 02:03:22+00",
+  "conditionId": "0x703606682aa7956f3622703b3b5dc9e7920758947eba37c1834f557b1d3e6645",
+  "slug": "will-oregon-and-michigan-combine-for-45-or-more-points",
+  "question": "Will Oregon and Michigan combine for 45 or more points?"
+}

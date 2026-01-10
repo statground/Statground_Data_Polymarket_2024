@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T18:57:25.143428Z",
+  "market_createdAt": "2024-08-14T18:57:25.143428Z",
+  "market_updatedAt": "2024-08-22T01:07:00.60317Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:16:30+00",
+  "conditionId": "0xe423a3e49f820f8bb92f357b97f4daa6dd163c200e4102e9cbf2b12ada5ccc00",
+  "slug": "will-liz-dahan-win-the-fl-13-democratic-primary",
+  "question": "Will Liz Dahan win the FL-13 Democratic primary?"
+}

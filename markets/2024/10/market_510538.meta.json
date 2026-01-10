@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:31:35.124641Z",
+  "market_createdAt": "2024-10-22T15:31:35.124641Z",
+  "market_updatedAt": "2024-10-26T05:01:16.336469Z",
+  "market_startDate": "2024-10-22T21:45:13.091Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:03:27+00",
+  "conditionId": "0x86ec0ccc08448d75c0d416d382a1615c62b442cf790fde9073dbe9f0a94c8440",
+  "slug": "will-trump-say-maga-3-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"MAGA\" 3 or more times during Las Vegas rally on October 24?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510382",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:34:55.836685Z",
+  "market_createdAt": "2024-10-21T20:34:55.836685Z",
+  "market_updatedAt": "2024-10-28T07:42:46.491036Z",
+  "market_startDate": "2024-10-21T20:37:33.37764Z",
+  "market_endDate": "2024-10-27T02:30:00Z",
+  "market_closedTime": "2024-10-27 08:12:21+00",
+  "conditionId": "0x5e0e0b93e4b527fa4f6b4e08c5b480955898406c50f33c63ebff083fdc068c9f",
+  "slug": "nba-sac-lal-2024-10-26",
+  "question": "Kings vs. Lakers"
+}

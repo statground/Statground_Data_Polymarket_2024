@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T14:44:27.456683Z",
+  "market_createdAt": "2024-10-23T14:44:27.456683Z",
+  "market_updatedAt": "2025-02-02T07:53:30.491875Z",
+  "market_startDate": "2024-10-23T15:06:50.548Z",
+  "market_endDate": "2025-01-15T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:08:15+00",
+  "conditionId": "0x6ce5169421293d1214a12b14e88760b1b67e40191a76625c8103bb815ddcd2ce",
+  "slug": "east-coast-port-strike-in-january",
+  "question": "East coast port strike in January?"
+}

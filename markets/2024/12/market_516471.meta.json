@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T18:54:31.974441Z",
+  "market_createdAt": "2024-12-26T18:54:31.974441Z",
+  "market_updatedAt": "2024-12-30T17:53:43.777956Z",
+  "market_startDate": "2024-12-26T18:57:00.334307Z",
+  "market_endDate": "2024-12-29T15:00:00Z",
+  "market_closedTime": "2024-12-29 20:36:21+00",
+  "conditionId": "0xce25d36e1cb4fd1ac2c422131a799feb9c33ace13d4fa896aec1c02c1f3a39f1",
+  "slug": "epl-tot-wol-2024-12-29-draw",
+  "question": "Will Tottenham vs. Wolves end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T17:04:39.882136Z",
+  "market_createdAt": "2024-09-16T17:04:39.882136Z",
+  "market_updatedAt": "2024-09-22T16:32:48.805956Z",
+  "market_startDate": "2024-09-17T22:12:06.709317Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 16:37:44+00",
+  "conditionId": "0x22e26b7ffdc356ade3de5ca9b65d007291dc315b28ca8e64ce271627bc6e585d",
+  "slug": "will-west-ham-beat-chelsea",
+  "question": "Will West Ham beat Chelsea?"
+}

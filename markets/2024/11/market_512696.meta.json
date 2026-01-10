@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:07:17.086364Z",
+  "market_createdAt": "2024-11-11T18:07:17.086364Z",
+  "market_updatedAt": "2024-11-17T04:34:52.980829Z",
+  "market_startDate": "2024-11-11T18:09:52.489973Z",
+  "market_endDate": "2024-11-23T00:00:00Z",
+  "market_closedTime": "2024-11-16 04:37:09+00",
+  "conditionId": "0xda79cb943802640fba8a3cf7a76e039e41abab310120e061332b4d937980e84c",
+  "slug": "nba-mia-ind-2024-11-15",
+  "question": "Heat vs. Pacers"
+}

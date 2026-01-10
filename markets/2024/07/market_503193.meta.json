@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T18:44:01.815094Z",
+  "market_createdAt": "2024-07-03T18:44:01.815094Z",
+  "market_updatedAt": "2024-07-08T19:25:46.463986Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-12T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:20:51+00",
+  "conditionId": "0xee19705e4f75a2212f1b4353422f19b271485ccd45660ca80ba7a3107195d203",
+  "slug": "biden-gives-speech-without-teleprompter-by-next-friday",
+  "question": "Biden gives speech without teleprompter by next Friday?"
+}

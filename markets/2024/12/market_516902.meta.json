@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:15:24.800963Z",
+  "market_createdAt": "2024-12-30T22:15:24.800963Z",
+  "market_updatedAt": "2025-01-02T00:37:05.068058Z",
+  "market_startDate": "2024-12-30T23:05:42.356205Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 06:41:49+00",
+  "conditionId": "0x86e747b05efc09e0d990b98491b163713c960f26e32ee761c9b4a4ca41ceee66",
+  "slug": "will-penn-state-beat-boise-state-by-12-or-more-points",
+  "question": "Will Penn State beat Boise State by 12 or more points?"
+}

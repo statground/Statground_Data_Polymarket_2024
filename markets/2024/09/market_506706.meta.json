@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:50:46.196289Z",
+  "market_createdAt": "2024-09-09T17:50:46.196289Z",
+  "market_updatedAt": "2024-09-10T19:13:11.158188Z",
+  "market_startDate": "2024-09-09T17:54:40.612016Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-09 20:52:15+00",
+  "conditionId": "0x4b12d374cfda6a1820462f67cad3a0aa92bb78d42a1035bcac496a1ed874d641",
+  "slug": "iphone-16-pro-under-1000",
+  "question": "iPhone 16 pro under $1000?"
+}

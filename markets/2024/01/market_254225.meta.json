@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-30T20:35:34.519000Z",
+  "market_createdAt": "2024-01-30T20:35:34.519Z",
+  "market_updatedAt": "2024-02-06T02:21:21.231Z",
+  "market_startDate": "2024-01-30T21:27:00Z",
+  "market_endDate": "2024-02-03T00:00:00Z",
+  "market_closedTime": "2024-02-06 02:17:10+00",
+  "conditionId": "0x97f23a498b93a557130a3eb815c6001e728797305f813824db84f1c369a871a0",
+  "slug": "will-argylle-gross-between-25m-and-30m-opening-weekend",
+  "question": "Will 'Argylle' gross between $25m and $30m opening weekend?"
+}

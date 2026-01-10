@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:08:08.217257Z",
+  "market_createdAt": "2024-08-26T18:08:08.217257Z",
+  "market_updatedAt": "2024-08-31T02:13:06.768413Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 02:35:17+00",
+  "conditionId": "0x98d34aba0b36e71df420a48afc888aed2f7a8e9c75eea9b99e209dc7cd8d4010",
+  "slug": "will-donald-trump-say-fake-news-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"fake news\" during Michigan town hall?"
+}

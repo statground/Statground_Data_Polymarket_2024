@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:40:07.310020Z",
+  "market_createdAt": "2024-11-11T21:40:07.31002Z",
+  "market_updatedAt": "2024-11-24T21:28:02.942479Z",
+  "market_startDate": "2024-11-11T21:42:52.176937Z",
+  "market_endDate": "2024-11-23T17:30:00Z",
+  "market_closedTime": "2024-11-23 22:38:17+00",
+  "conditionId": "0xc0c4600be9725f8390239443b4d4b8d03966862dd03de485d82d7d9da2d99d10",
+  "slug": "epl-mac-tot-2024-11-23-draw",
+  "question": "Will Man City vs. Spurs end in a draw?"
+}

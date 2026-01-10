@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T15:26:16.581682Z",
+  "market_createdAt": "2024-08-01T15:26:16.581682Z",
+  "market_updatedAt": "2024-08-01T23:28:14.042258Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-01 23:25:18+00",
+  "conditionId": "0xd039db28cd629d21c3adaceb687d1fd5cf37470d16954928eb88221d55264e08",
+  "slug": "will-canada-win-gold-in-the-womens-4x200m-freestyle-relay-at-the-2024-summer-olympics",
+  "question": "Will Canada win Gold in the Women’s 4x200m Freestyle Relay at the 2024 Summer Olympics?"
+}

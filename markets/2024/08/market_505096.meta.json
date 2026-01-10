@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:04:17.354900Z",
+  "market_createdAt": "2024-08-14T16:04:17.3549Z",
+  "market_updatedAt": "2024-12-05T21:23:28.195837Z",
+  "market_startDate": "2024-08-14T16:04:17.3549Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-04 21:43:54+00",
+  "conditionId": "0x56bc8312513baee7b4245ea79d528cd0099a05fe0b44b03628f95538d3488d44",
+  "slug": "will-republicans-have-fewer-than-200-seats-in-house-after-election",
+  "question": "Will Republicans have fewer than 200 seats in House after election?"
+}

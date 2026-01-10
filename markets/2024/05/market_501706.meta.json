@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:31:38.500478Z",
+  "market_createdAt": "2024-05-20T17:31:38.500478Z",
+  "market_updatedAt": "2024-07-09T01:45:50.220717Z",
+  "market_startDate": "2024-05-21T02:07:45.524Z",
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-07-08 02:15:45+00",
+  "conditionId": "0x4e4e752f13a3313eef2577a99f3aff16ac7b4f2543fd9edb0c61d8405993211e",
+  "slug": "will-another-person-be-the-next-president-of-iran-kmbd",
+  "question": "Will another person be the next President of Iran?"
+}

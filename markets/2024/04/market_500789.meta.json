@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T02:57:43.560557Z",
+  "market_createdAt": "2024-04-07T02:57:43.560557Z",
+  "market_updatedAt": "2024-07-22T02:58:37.22343Z",
+  "market_startDate": "2024-04-07T03:15:00.047Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 03:05:12+00",
+  "conditionId": "0x5270c9e70a5553f8bb6d468f51de7c400df05f9d3844e0a61be76da311fcead4",
+  "slug": "will-hobbes-reach-1b-first",
+  "question": "Will HOBBES reach $1b first?"
+}

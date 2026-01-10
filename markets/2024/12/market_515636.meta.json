@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:42:16.479777Z",
+  "market_createdAt": "2024-12-13T22:42:16.479777Z",
+  "market_updatedAt": "2024-12-16T13:41:34.905118Z",
+  "market_startDate": "2024-12-13T23:37:16.128112Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:27:57+00",
+  "conditionId": "0xf1e6314c6ca88447d7af6704fe169537228606cb0b4cb766b04e395b395569cf",
+  "slug": "will-the-cardinals-beat-the-patriots-by-7-or-more-points",
+  "question": "Will the Cardinals beat the Patriots by 7 or more points?"
+}

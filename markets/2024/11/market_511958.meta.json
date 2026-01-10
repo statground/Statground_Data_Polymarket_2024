@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T22:59:46.266647Z",
+  "market_createdAt": "2024-11-04T22:59:46.266647Z",
+  "market_updatedAt": "2024-11-06T21:07:08.797236Z",
+  "market_startDate": "2024-11-05T00:25:02.19727Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-05 22:57:54+00",
+  "conditionId": "0x8cb9936ca36acaf7af958323597a9fe4ecf6392fa8da593b8debe6af25d41adf",
+  "slug": "will-girona-beat-psv",
+  "question": "Will Girona beat PSV?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:16:28.263301Z",
+  "market_createdAt": "2024-07-22T17:16:28.263301Z",
+  "market_updatedAt": "2024-07-29T02:45:01.088038Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 02:47:44+00",
+  "conditionId": "0xddbb3de65c7dbe1603eb5b7784c9b884ce2a56791b7844b08b71d0bed13cf484",
+  "slug": "ufc-304-muhammad-mokaev-vs-manel-kape",
+  "question": "UFC 304: Muhammad Mokaev vs. Manel Kape"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T16:05:39.468122Z",
+  "market_createdAt": "2024-09-03T16:05:39.468122Z",
+  "market_updatedAt": "2024-09-08T03:03:13.459782Z",
+  "market_startDate": "2024-09-03T17:15:17.956438Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 06:01:36+00",
+  "conditionId": "0x73df71859c46be7f2b4d0bb1043165d7629a102ec57d12a6fa5f948d8674875a",
+  "slug": "iran-military-response-by-friday-sept-6",
+  "question": "Iran military response by Friday?"
+}

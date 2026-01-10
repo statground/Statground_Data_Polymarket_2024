@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:11:15.573514Z",
+  "market_createdAt": "2024-10-29T19:11:15.573514Z",
+  "market_updatedAt": "2024-10-31T03:57:07.578134Z",
+  "market_startDate": "2024-10-29T20:10:57.680431Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:07:10+00",
+  "conditionId": "0x70939e9afe4614c7899da15ebd291066ee831933e4c8101b86f80d0e4fb3ead7",
+  "slug": "will-kamala-say-coup-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"coup\" during DC rally on Oct 29?"
+}

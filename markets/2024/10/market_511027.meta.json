@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511027",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:18:52.496436Z",
+  "market_createdAt": "2024-10-25T22:18:52.496436Z",
+  "market_updatedAt": "2024-10-30T01:27:01.732187Z",
+  "market_startDate": "2024-10-25T22:47:24.631183Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 01:32:07+00",
+  "conditionId": "0x9409d4c2f197f27070405548ce85ac218b0f6e9d7136d41925ebc41bfb1479e6",
+  "slug": "will-trump-say-hitler-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"Hitler\" during Georgia rally on October 28?"
+}

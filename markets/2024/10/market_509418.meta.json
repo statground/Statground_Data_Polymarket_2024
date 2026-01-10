@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:37:07.604159Z",
+  "market_createdAt": "2024-10-09T18:37:07.604159Z",
+  "market_updatedAt": "2024-10-19T17:20:59.670177Z",
+  "market_startDate": "2024-10-09T21:13:57.303682Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-18 18:23:19+00",
+  "conditionId": "0x37ec2b709280c5bd4bade11fb85f835fb00e3610f1e3dbcce56cbc924bb4adff",
+  "slug": "will-jano-win-the-elisa-masters-espoo-2024",
+  "question": "Will JANO win the Elisa Masters Espoo 2024?"
+}

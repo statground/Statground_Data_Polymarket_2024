@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T23:55:09.263458Z",
+  "market_createdAt": "2024-09-18T23:55:09.263458Z",
+  "market_updatedAt": "2024-11-02T06:07:11.427469Z",
+  "market_startDate": "2024-09-19T00:14:16.168989Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:46:01+00",
+  "conditionId": "0xaa79ecf5bbf0f50b00360b835a3be25c1976701d9e8b61525ea6b16b867d561c",
+  "slug": "new-diddy-charges-before-november",
+  "question": "New Diddy charges before November?"
+}

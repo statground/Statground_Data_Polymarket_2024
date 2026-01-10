@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T14:09:14.630144Z",
+  "market_createdAt": "2024-09-05T14:09:14.630144Z",
+  "market_updatedAt": "2024-09-12T04:43:05.992115Z",
+  "market_startDate": "2024-09-05T14:12:40.417Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:13:58+00",
+  "conditionId": "0xb7dd34d4cfe5620d0656a8f171d759df7f06047fbfdf46a2b8987d7e699891eb",
+  "slug": "will-trump-say-mcdonalds-at-debate",
+  "question": "Will Trump say \"McDonald's\" at debate?"
+}

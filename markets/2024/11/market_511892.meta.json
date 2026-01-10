@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:25:24.126247Z",
+  "market_createdAt": "2024-11-04T18:25:24.126247Z",
+  "market_updatedAt": "2024-11-17T09:59:12.777562Z",
+  "market_startDate": "2024-11-04T19:17:34.546213Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-16 09:55:20+00",
+  "conditionId": "0xc757b13829b322b2dcbeb31519bfc527e000fb881af53ec4f0d640b5481f1ece",
+  "slug": "turcios-vs-sopaj",
+  "question": "Turcios vs. Sopaj"
+}

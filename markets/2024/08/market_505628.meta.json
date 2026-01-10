@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:24:19.982936Z",
+  "market_createdAt": "2024-08-22T15:24:19.982936Z",
+  "market_updatedAt": "2024-08-24T03:22:56.060788Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:22:58+00",
+  "conditionId": "0x32ea63a024cf335a378ec9e723e2472d0f00435ba8b854bf08023d7af12b27df",
+  "slug": "will-gretchen-whitmer-say-glass-ceiling-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Glass Ceiling\" in DNC speech?"
+}

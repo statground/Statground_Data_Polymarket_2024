@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:09:57.644147Z",
+  "market_createdAt": "2024-09-06T16:09:57.644147Z",
+  "market_updatedAt": "2024-09-09T03:16:58.271011Z",
+  "market_startDate": "2024-09-06T18:34:20.651705Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 05:19:16+00",
+  "conditionId": "0x18ee1b14ca8668f0fdc947499f7ebbfa6f9bb9bad10e2ec4b0b3955d62f6d935",
+  "slug": "will-tennessee-beat-nc-state",
+  "question": "Will Tennessee beat NC State?"
+}

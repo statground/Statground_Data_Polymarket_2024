@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:18:31.474162Z",
+  "market_createdAt": "2024-12-09T20:18:31.474162Z",
+  "market_updatedAt": "2024-12-12T10:23:13.473182Z",
+  "market_startDate": "2024-12-09T21:00:33.809Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:33:31+00",
+  "conditionId": "0xaedc52c29b76b9ccf1b9d96a480564aac7bb89245ff2691e62901437a4c10ab9",
+  "slug": "will-crypto-or-bitcoin-be-in-the-manifesto",
+  "question": "Will \"Crypto\" or \"Bitcoin\" be in the manifesto?"
+}

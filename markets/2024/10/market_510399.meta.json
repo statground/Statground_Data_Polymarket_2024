@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:42:58.604416Z",
+  "market_createdAt": "2024-10-21T20:42:58.604416Z",
+  "market_updatedAt": "2024-10-30T11:21:13.164726Z",
+  "market_startDate": "2024-10-21T20:45:34.085304Z",
+  "market_endDate": "2024-10-29T02:00:00Z",
+  "market_closedTime": "2024-10-29 11:23:19+00",
+  "conditionId": "0xa71ec119b8ea7cfbe445f52ab76d31d5675c606acd653a826bd858c4df61ec37",
+  "slug": "nba-lal-phx-2024-10-28",
+  "question": "Lakers vs. Suns"
+}

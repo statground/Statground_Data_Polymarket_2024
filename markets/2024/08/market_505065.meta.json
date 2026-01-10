@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:04:59.044554Z",
+  "market_createdAt": "2024-08-13T20:04:59.044554Z",
+  "market_updatedAt": "2024-08-18T15:52:59.79473Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:13:11+00",
+  "conditionId": "0x22299eb641294e4798235fc9ab96502e1f61eac23ed40684b90054efae06bddb",
+  "slug": "will-everton-vs-brighton-hove-albion-end-in-a-draw",
+  "question": "Will Everton vs. Brighton & Hove Albion end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T15:49:35.798683Z",
+  "market_createdAt": "2024-05-14T15:49:35.798683Z",
+  "market_updatedAt": "2024-05-20T10:20:21.565036Z",
+  "market_startDate": "2024-05-15T17:39:28.764Z",
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 10:18:49+00",
+  "conditionId": "0x9e200fed38eca47445b3190e753ffa1716e1489f1e4977a536d69b92e628afb9",
+  "slug": "will-another-candidate-win-the-2024-dominican-republic-presidential-election",
+  "question": "Will another candidate win the 2024 Dominican Republic presidential election?"
+}

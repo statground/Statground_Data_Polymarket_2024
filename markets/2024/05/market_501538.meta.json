@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T21:01:07.704221Z",
+  "market_createdAt": "2024-05-10T21:01:07.704221Z",
+  "market_updatedAt": "2024-05-13T02:03:54.592049Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-11T12:00:00Z",
+  "market_closedTime": "2024-05-12 04:52:04+00",
+  "conditionId": "0x56dad6a9ecb8f0581c829b7ed6a00170ebd17c7b623bdd34f2a335833cdc3d12",
+  "slug": "nba-cle-bos-2024-05-11",
+  "question": "Cleveland Cavaliers vs. Boston Celtics: Game 3"
+}

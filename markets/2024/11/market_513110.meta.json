@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T16:20:51.429210Z",
+  "market_createdAt": "2024-11-15T16:20:51.42921Z",
+  "market_updatedAt": "2024-11-17T07:25:16.238575Z",
+  "market_startDate": "2024-11-15T17:14:51.366Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:23:35+00",
+  "conditionId": "0x5ccc8522be468ae8b8203bb237eb1aa9cbbbec015c5ba3a91baa8c9f9fa5313b",
+  "slug": "tyson-vs-paul-knockout-in-first-10-seconds",
+  "question": "Tyson vs. Paul - knockout in first 10 seconds?"
+}

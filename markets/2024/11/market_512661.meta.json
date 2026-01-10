@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:07:10.959255Z",
+  "market_createdAt": "2024-11-11T17:07:10.959255Z",
+  "market_updatedAt": "2024-12-02T06:59:16.709603Z",
+  "market_startDate": "2024-11-11T17:28:01.616668Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:41+00",
+  "conditionId": "0x556db275974928c00835341966b7cfd773a9e542cb78c135106a2ca31bfffa16",
+  "slug": "will-ethereum-reach-4000-in-november",
+  "question": "Will Ethereum reach $4,000 in November?"
+}

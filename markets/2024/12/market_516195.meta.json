@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:01:33.623617Z",
+  "market_createdAt": "2024-12-22T05:01:33.623617Z",
+  "market_updatedAt": "2024-12-25T04:09:25.86475Z",
+  "market_startDate": "2024-12-22T05:04:41.485675Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:19:30+00",
+  "conditionId": "0xd5b8afe3696452cafc740478a7d77f4b359bc2869263cb57bedf8bb83ceabe35",
+  "slug": "nba-hou-cha-2024-12-23",
+  "question": "Rockets vs. Hornets"
+}

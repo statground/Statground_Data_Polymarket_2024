@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:17:15.809221Z",
+  "market_createdAt": "2024-12-04T21:17:15.809221Z",
+  "market_updatedAt": "2024-12-10T02:51:24.096799Z",
+  "market_startDate": "2024-12-04T21:20:38.787673Z",
+  "market_endDate": "2024-12-16T00:00:00Z",
+  "market_closedTime": "2024-12-09 04:49:57+00",
+  "conditionId": "0xd93d470c15e426637d0bde733289003f0879cefc8b63cd46a2f1ba2b1cef43dd",
+  "slug": "nhl-col-nj-2024-12-08",
+  "question": "Avalanche vs. Devils"
+}

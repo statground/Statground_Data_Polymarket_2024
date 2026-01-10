@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T11:34:21.613322Z",
+  "market_createdAt": "2024-09-15T11:34:21.613322Z",
+  "market_updatedAt": "2024-09-17T06:12:46.667044Z",
+  "market_startDate": "2024-09-15T11:44:36.020279Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 06:14:11+00",
+  "conditionId": "0x14517d5f10c0f160ca84d238b96586a1ce87101146f2aedd32f25e0b9988fdbf",
+  "slug": "will-ripley-win-the-emmy-for-outstanding-limited-series",
+  "question": "Will Ripley win the Emmy for Outstanding Limited Series?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:32:48.884442Z",
+  "market_createdAt": "2024-12-25T06:32:48.884442Z",
+  "market_updatedAt": "2024-12-29T01:11:02.898816Z",
+  "market_startDate": "2024-12-25T06:35:23.421619Z",
+  "market_endDate": "2024-12-27T20:15:00Z",
+  "market_closedTime": "2024-12-28 01:25:56+00",
+  "conditionId": "0xce3d52288b55c60c95da806a9b6e5c2c2dd054553546c8997af1dac67112d7f5",
+  "slug": "epl-ars-ips-2024-12-27-draw",
+  "question": "Will Arsenal vs. Ipswich end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T18:59:27.445826Z",
+  "market_createdAt": "2024-10-21T18:59:27.445826Z",
+  "market_updatedAt": "2024-10-28T22:13:07.778496Z",
+  "market_startDate": "2024-10-21T19:02:10.54725Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:05:08+00",
+  "conditionId": "0x332d385232969673d98e30d95a20b1c5dc2c7fd3bbca1dd918ed9799c24e42fe",
+  "slug": "nfl-phi-cin-2024-10-27",
+  "question": "Eagles vs. Bengals"
+}

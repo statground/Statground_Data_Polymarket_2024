@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:52:36.365476Z",
+  "market_createdAt": "2024-05-15T14:52:36.365476Z",
+  "market_updatedAt": "2024-06-03T19:16:18.652227Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-02 22:32:52+00",
+  "conditionId": "0xac8425f9c2e56f0e2d53a30f87cdd0bc2d280fe889f60f7d85520ec0b11a51f6",
+  "slug": "will-hubert-hurkacz-win-the-2024-french-open-mens-singles",
+  "question": "Will Hubert Hurkacz win the 2024 French Open Men's Singles?"
+}

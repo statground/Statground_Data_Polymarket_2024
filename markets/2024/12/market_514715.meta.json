@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:16:50.573419Z",
+  "market_createdAt": "2024-12-04T20:16:50.573419Z",
+  "market_updatedAt": "2024-12-17T20:11:26.347641Z",
+  "market_startDate": "2024-12-10T21:00:49.952925Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:39:37+00",
+  "conditionId": "0xa3f72e04ab46b3a5b87eaf371a7cbe6c9c01dc640203cf23dee589dd198f8121",
+  "slug": "will-coinbase-announce-popcat-as-next-listing",
+  "question": "Will Coinbase announce Popcat as next listing?"
+}

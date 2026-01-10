@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:53:17.649388Z",
+  "market_createdAt": "2024-07-01T15:53:17.649388Z",
+  "market_updatedAt": "2024-07-06T18:45:45.247976Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 21:09:01+00",
+  "conditionId": "0x819a3a3eb4c2be24fc9fea9f24c1d3d54262980c6009a1e459b4ebf8b295dfa0",
+  "slug": "will-spain-win-july-5",
+  "question": "Will Spain win?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:53:55.905428Z",
+  "market_createdAt": "2024-07-01T15:53:55.905428Z",
+  "market_updatedAt": "2024-07-06T18:50:47.155572Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 21:08:55+00",
+  "conditionId": "0x3261f4d5504e11cb7da7e0491faf9f9c03b7d0e19e9bc0fafd66eceee903151c",
+  "slug": "will-germany-win-july-5",
+  "question": "Will Germany win?"
+}

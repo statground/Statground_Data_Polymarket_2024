@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:36:14.898184Z",
+  "market_createdAt": "2024-06-12T22:36:14.898184Z",
+  "market_updatedAt": "2024-06-15T17:36:14.766562Z",
+  "market_startDate": "2024-06-12T23:41:19.878Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-15 03:40:25+00",
+  "conditionId": "0x82f4399da64929f805d5e5c9c7697303b155aceb8a808dd39fe8f6d2ba10a0ea",
+  "slug": "will-tiger-woods-win-the-us-open",
+  "question": "Will Tiger Woods win the U.S. Open? "
+}

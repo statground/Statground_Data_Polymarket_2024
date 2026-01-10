@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:10:37.288287Z",
+  "market_createdAt": "2024-08-29T16:10:37.288287Z",
+  "market_updatedAt": "2024-09-02T18:47:02.246015Z",
+  "market_startDate": "2024-08-29T16:10:37.288287Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-02 00:03:58+00",
+  "conditionId": "0x96823f92e3be0a6a49a279b0923ee789a578bf1e46cadc2dd89481e4ce261a35",
+  "slug": "will-xander-schauffele-win-the-tour-championship",
+  "question": "Will Xander Schauffele win the Tour Championship?"
+}

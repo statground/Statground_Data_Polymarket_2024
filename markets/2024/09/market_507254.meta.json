@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:41:09.122021Z",
+  "market_createdAt": "2024-09-16T20:41:09.122021Z",
+  "market_updatedAt": "2024-09-20T00:06:42.668754Z",
+  "market_startDate": "2024-09-16T21:49:27.982568Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-19 00:10:32+00",
+  "conditionId": "0xf40f6387fe89f4d83f87280a8bf8b58a0288c79e629a48ce8cb2039c71c20f38",
+  "slug": "will-borussia-dortmund-beat-club-brugge",
+  "question": "Will Borussia Dortmund beat Club Brugge?"
+}

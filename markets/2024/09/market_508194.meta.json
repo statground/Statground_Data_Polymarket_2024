@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T15:21:07.082510Z",
+  "market_createdAt": "2024-09-26T15:21:07.08251Z",
+  "market_updatedAt": "2024-09-27T22:46:43.969134Z",
+  "market_startDate": "2024-09-26T15:53:18.576694Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-27 00:01:47+00",
+  "conditionId": "0x3bff1e2160e6a15de20371d8c5712418e51caeb7203e58ba7cb5768e58279f5b",
+  "slug": "will-ajax-beat-besiktas",
+  "question": "Will Ajax beat Besiktas?"
+}

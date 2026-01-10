@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T20:44:17.391598Z",
+  "market_createdAt": "2024-12-18T20:44:17.391598Z",
+  "market_updatedAt": "2025-01-02T05:15:06.23518Z",
+  "market_startDate": "2024-12-18T21:00:34.246763Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:57:42+00",
+  "conditionId": "0x9ec39642a79881c70e660318dfa1e5b1d004fd53c32126e8c45db5f6f1a67cc7",
+  "slug": "mystery-drones-shot-down-in-2024",
+  "question": "Mystery drones shot down in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:46:20.211456Z",
+  "market_createdAt": "2024-11-27T19:46:20.211456Z",
+  "market_updatedAt": "2024-11-30T02:01:18.837032Z",
+  "market_startDate": "2024-11-27T21:04:32.559084Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-11-29 02:39:00+00",
+  "conditionId": "0x9a4e7cae9a0f9eb2a10bf048ee254aa06a2515b90a12bfb18c80ff5d8c9071b5",
+  "slug": "will-the-cowboys-and-giants-combine-for-38-or-more-points",
+  "question": "Will the Cowboys and Giants combine for 38 or more points?"
+}

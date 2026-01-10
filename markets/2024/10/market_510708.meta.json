@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:10:56.537404Z",
+  "market_createdAt": "2024-10-23T17:10:56.537404Z",
+  "market_updatedAt": "2024-10-27T05:50:55.730529Z",
+  "market_startDate": "2024-10-23T17:43:11.494Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:45:42+00",
+  "conditionId": "0x61d6a24e47c74af0898f2588a75db60266481ae026a4c878d043b62d5b756304",
+  "slug": "will-trump-say-elon-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"Elon\" on The Joe Rogan Experience?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:44:51.628037Z",
+  "market_createdAt": "2024-05-31T14:44:51.628037Z",
+  "market_updatedAt": "2024-06-19T02:46:12.906423Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:01:00+00",
+  "conditionId": "0x397c3a813cfc9b62115caf86ca2066d5cdcecb49a6695622a5d173c6f7814a0b",
+  "slug": "luka-doncic-2024-nba-finals-mvp",
+  "question": "Luka Doncic 2024 NBA Finals MVP?"
+}

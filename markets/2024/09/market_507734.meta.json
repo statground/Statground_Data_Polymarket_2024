@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:09:11.390764Z",
+  "market_createdAt": "2024-09-23T18:09:11.390764Z",
+  "market_updatedAt": "2024-09-26T22:06:53.143143Z",
+  "market_startDate": "2024-09-23T22:16:45.339465Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 00:31:07+00",
+  "conditionId": "0x8d89502df8e34bd4b6487dc09659e14e048a505509d74f9bc951605b2fb1a8f1",
+  "slug": "will-manchester-united-beat-twente",
+  "question": "Will Manchester United beat Twente?"
+}

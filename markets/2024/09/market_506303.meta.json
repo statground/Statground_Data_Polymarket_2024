@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T18:36:49.083623Z",
+  "market_createdAt": "2024-09-03T18:36:49.083623Z",
+  "market_updatedAt": "2024-09-07T03:37:06.55669Z",
+  "market_startDate": "2024-09-03T19:52:09.371Z",
+  "market_endDate": "2024-09-04T12:00:00Z",
+  "market_closedTime": "2024-09-06 03:44:08+00",
+  "conditionId": "0x3b1531e46e2ac0e8d85e46a002411df336fb4ae6f5960acf6583fd2ecac90679",
+  "slug": "will-trump-say-border-15-or-more-times-during-hannity-town-hall",
+  "question": "Will Trump say \"Border\" 15 or more times during Hannity town hall?"
+}

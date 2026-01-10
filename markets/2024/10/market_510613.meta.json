@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T18:29:06.346893Z",
+  "market_createdAt": "2024-10-22T18:29:06.346893Z",
+  "market_updatedAt": "2024-10-27T20:17:06.181542Z",
+  "market_startDate": "2024-10-22T21:25:42.125326Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 20:42:57+00",
+  "conditionId": "0x8fe128ee861ab172296408e11d4c0a7c6046b533bdc51b6690398ca8370e5d77",
+  "slug": "magomedov-vs-petrosyan",
+  "question": "Magomedov vs. Petrosyan"
+}

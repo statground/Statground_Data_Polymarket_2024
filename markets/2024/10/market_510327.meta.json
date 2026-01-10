@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510327",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:00:29.498101Z",
+  "market_createdAt": "2024-10-21T19:00:29.498101Z",
+  "market_updatedAt": "2024-10-28T21:23:13.603784Z",
+  "market_startDate": "2024-10-21T19:03:04.179878Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:25:22+00",
+  "conditionId": "0x8c265812e2962833b6e0c4d9b10d57fe78ac744f9cabd7bbc0ef823dbb8282b3",
+  "slug": "nfl-nyj-ne-2024-10-27",
+  "question": "Jets vs. Patriots"
+}

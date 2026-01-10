@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:36:06.099052Z",
+  "market_createdAt": "2024-10-28T20:36:06.099052Z",
+  "market_updatedAt": "2024-11-02T02:23:11.56701Z",
+  "market_startDate": "2024-10-28T23:38:50.905583Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:09:24+00",
+  "conditionId": "0x8254477f64e8467aeca861714d58acf4abf9df9c2deb9e8b09af701927c248fc",
+  "slug": "will-trump-say-teleprompter-3-or-more-times-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"teleprompter\" 3 or more times during Nevada rally on Oct 31?"
+}

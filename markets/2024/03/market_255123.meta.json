@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:34:25.328000Z",
+  "market_createdAt": "2024-03-01T18:34:25.328Z",
+  "market_updatedAt": "2024-11-07T08:42:59.18131Z",
+  "market_startDate": "2024-03-28T20:31:55.662Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 10:48:33+00",
+  "conditionId": "0x046d3459a28aa3f95d36138e2209c32b0e8a6aee96023ccbfc82f44735d0644d",
+  "slug": "will-a-republican-win-kentucky-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Kentucky Presidential Election?"
+}

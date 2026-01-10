@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T17:06:27.735000Z",
+  "market_createdAt": "2024-03-07T17:06:27.735Z",
+  "market_updatedAt": "2024-05-07T23:09:30.153406Z",
+  "market_startDate": "2024-03-07T18:19:00Z",
+  "market_endDate": "2024-03-29T00:00:00Z",
+  "market_closedTime": "2024-04-13 10:37:52+00",
+  "conditionId": "0xfca4df6ab43272d0f355550faeecd926b4a39f7b7307dde14217197b26d655e9",
+  "slug": "will-schiff-win-the-california-senate-primary",
+  "question": "Will Schiff win the California Senate Primary?"
+}

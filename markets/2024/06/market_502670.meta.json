@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T14:51:21.000281Z",
+  "market_createdAt": "2024-06-20T14:51:21.000281Z",
+  "market_updatedAt": "2024-06-24T13:51:12.734606Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:36:25+00",
+  "conditionId": "0xd2754475ff7890c4f53baabdb23f436eed53e4ee403fa9460d324c9ef614b112",
+  "slug": "neymar-jrbiggest-loser",
+  "question": "Neymar Jr. biggest loser?"
+}

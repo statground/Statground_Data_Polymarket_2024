@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:24:33.613876Z",
+  "market_createdAt": "2024-08-19T16:24:33.613876Z",
+  "market_updatedAt": "2024-08-28T20:37:01.028029Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-27 23:40:48+00",
+  "conditionId": "0x844743345f10c4d8c49821a40b6723f6b983c4fc48203548d821d42d057b0090",
+  "slug": "will-ding-liren-win-the-2024-sinquefield-cup",
+  "question": "Will Ding Liren win the 2024 Sinquefield Cup?"
+}

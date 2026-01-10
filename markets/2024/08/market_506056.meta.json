@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:25:55.285393Z",
+  "market_createdAt": "2024-08-29T15:25:55.285393Z",
+  "market_updatedAt": "2024-08-31T23:03:12.406717Z",
+  "market_startDate": "2024-08-29T18:29:14.16Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 23:00:22+00",
+  "conditionId": "0xf928a3b633630e3350f4876de5534b51c0f3a2ba496418249935a512f2c03446",
+  "slug": "will-donald-trump-say-colorado-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"Colorado\" during Pennsylvania rally?"
+}

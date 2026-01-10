@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-05T01:01:25.954000Z",
+  "market_createdAt": "2024-02-05T01:01:25.954Z",
+  "market_updatedAt": "2024-04-26T02:57:57.802968Z",
+  "market_startDate": "2024-02-05T01:04:44.357Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-07 19:46:46+00",
+  "conditionId": "0x4919cf18a2ca73ec0e1714ad8385e169bad84d9e2651529dac07761ac9eceae7",
+  "slug": "will-tucker-carlson-interview-putin-in-february",
+  "question": "Will Tucker Carlson interview Putin in February?"
+}

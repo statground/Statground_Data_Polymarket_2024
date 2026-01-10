@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:10:23.839637Z",
+  "market_createdAt": "2024-07-17T19:10:23.839637Z",
+  "market_updatedAt": "2024-08-05T17:36:56.601219Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:14:51+00",
+  "conditionId": "0x3c6d2cb908cff0ed13e7aba43f0b6f6818d291c4f31a307345ed193176e90519",
+  "slug": "will-mykhaylo-kokhan-win-gold-in-hammer-throw",
+  "question": "Will Mykhaylo Kokhan win Gold in Hammer Throw?"
+}

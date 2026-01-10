@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504262",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T14:28:58.078401Z",
+  "market_createdAt": "2024-07-29T14:28:58.078401Z",
+  "market_updatedAt": "2024-08-04T21:16:56.521116Z",
+  "market_startDate": "2024-07-29T15:37:33.273Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:02:12+00",
+  "conditionId": "0x956f67756508c92c3287462e4d37b26036216de36e60e080f23ecb2cff45ce68",
+  "slug": "btc-dips-below-60k-before-september",
+  "question": "$BTC dips below $60k before September?"
+}

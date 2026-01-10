@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:03:09.722541Z",
+  "market_createdAt": "2024-11-24T05:03:09.722541Z",
+  "market_updatedAt": "2024-12-01T06:47:41.137012Z",
+  "market_startDate": "2024-11-24T05:06:11.250451Z",
+  "market_endDate": "2024-12-07T01:00:00Z",
+  "market_closedTime": "2024-11-30 06:46:05+00",
+  "conditionId": "0x088d6cb0c3e708da214589e76a19fce8d7df94de18a6f14d01ae0c79ca67ebfc",
+  "slug": "cfb-utah-ucf-2024-11-29",
+  "question": "Utah vs. UCF"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T16:57:38.664479Z",
+  "market_createdAt": "2024-08-08T16:57:38.664479Z",
+  "market_updatedAt": "2024-12-23T20:47:42.214735Z",
+  "market_startDate": "2024-08-08T16:57:38.664479Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-23 01:00:14+00",
+  "conditionId": "0xe7a4bf1b1b095ca88d0844e8f3eeff9a7d35e4ea12691845c4ce9ffa5044a775",
+  "slug": "will-the-saints-win-the-nfc-south",
+  "question": "Will the Saints win the NFC South?"
+}

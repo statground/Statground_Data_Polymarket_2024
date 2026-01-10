@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:11:11.889335Z",
+  "market_createdAt": "2024-12-09T19:11:11.889335Z",
+  "market_updatedAt": "2024-12-11T22:41:11.274768Z",
+  "market_startDate": "2024-12-09T23:28:31.425476Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:36:14+00",
+  "conditionId": "0x3a6941b4556780807f62ece151dc327f24b0a7d536de868a2b08aa839bf2f6f2",
+  "slug": "will-club-brugge-beat-sporting-cp",
+  "question": "Will Club Brugge beat Sporting CP?"
+}

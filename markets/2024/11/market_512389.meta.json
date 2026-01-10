@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T17:58:19.494703Z",
+  "market_createdAt": "2024-11-08T17:58:19.494703Z",
+  "market_updatedAt": "2024-11-24T00:45:13.196772Z",
+  "market_startDate": "2024-11-20T20:34:10.181Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:42:23+00",
+  "conditionId": "0x0fe689706e34604dd3ed058733e54a1de0daec1672c50da710fa185c93a292d8",
+  "slug": "will-trump-nominate-ray-starling-for-agriculture-secretary",
+  "question": "Will Trump nominate Ray Starling for Agriculture Secretary?"
+}

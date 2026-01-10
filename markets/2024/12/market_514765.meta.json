@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:11:17.578137Z",
+  "market_createdAt": "2024-12-04T21:11:17.578137Z",
+  "market_updatedAt": "2024-12-07T04:41:17.127411Z",
+  "market_startDate": "2024-12-04T21:14:37.85213Z",
+  "market_endDate": "2024-12-13T00:30:00Z",
+  "market_closedTime": "2024-12-06 05:10:29+00",
+  "conditionId": "0xd42a4782a4a0676cedb1da738274328e5c724714fb23128f33cf5fd2956ba6d4",
+  "slug": "nhl-sea-nyi-2024-12-05",
+  "question": "Kraken vs. Islanders"
+}

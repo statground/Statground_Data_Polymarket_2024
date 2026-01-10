@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:12:32.521189Z",
+  "market_createdAt": "2024-07-10T17:12:32.521189Z",
+  "market_updatedAt": "2024-07-20T04:10:41.526725Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 07:14:24+00",
+  "conditionId": "0x29daae4594b4b3232e184bc924c342327fbbb399f2bcfaf902cf81567eb513dc",
+  "slug": "will-kanye-speak-at-the-rnc",
+  "question": "Will Kanye speak at the RNC?"
+}

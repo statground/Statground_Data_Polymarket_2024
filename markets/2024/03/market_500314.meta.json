@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T15:53:07.006753Z",
+  "market_createdAt": "2024-03-19T15:53:07.006753Z",
+  "market_updatedAt": "2025-01-02T05:03:06.749368Z",
+  "market_startDate": "2024-03-19T18:56:58.467Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 10:03:16+00",
+  "conditionId": "0x278914894a4377e6c9aebe8372ce8e797d1c4f0f594d66667d25cfc9ae225a63",
+  "slug": "another-actor-announced-as-next-james-bond-actor",
+  "question": "Another actor announced as next James Bond actor?"
+}

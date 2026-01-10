@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508663",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T14:38:01.923937Z",
+  "market_createdAt": "2024-10-02T14:38:01.923937Z",
+  "market_updatedAt": "2024-11-10T03:52:50.56024Z",
+  "market_startDate": "2024-10-02T15:36:37.164Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 07:27:10+00",
+  "conditionId": "0x2e258503742cad27791a295ec67902ee873dafe9ae1450883fc7bb6fc16c53a7",
+  "slug": "jd-vance-positive-favorability-before-the-election",
+  "question": "JD Vance positive favorability before the election?"
+}

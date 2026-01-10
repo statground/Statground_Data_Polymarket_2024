@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T16:59:24.999428Z",
+  "market_createdAt": "2024-08-12T16:59:24.999428Z",
+  "market_updatedAt": "2024-08-18T20:00:56.759376Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 20:56:16+00",
+  "conditionId": "0x5f1043f4ce5bf0fe03ad5e4735850301126fb2d1216ad7b7573195a290b62865",
+  "slug": "nfl-bal-atl-2024-08-17",
+  "question": "Ravens vs. Falcons"
+}

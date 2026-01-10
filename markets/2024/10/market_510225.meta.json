@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:20:05.345101Z",
+  "market_createdAt": "2024-10-18T21:20:05.345101Z",
+  "market_updatedAt": "2024-10-21T16:26:36.856414Z",
+  "market_startDate": "2024-10-18T23:24:26.207415Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:05:38+00",
+  "conditionId": "0xbc6128c9f30cafaaeba776f4bd8e90b9c89badd6d4335f366d7fc4081e4fa1f1",
+  "slug": "will-the-falcons-and-seahawks-combine-for-51-or-more-points",
+  "question": "Will the Falcons and Seahawks combine for 51 or more points?"
+}

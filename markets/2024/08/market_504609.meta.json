@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T19:40:35.231749Z",
+  "market_createdAt": "2024-08-06T19:40:35.231749Z",
+  "market_updatedAt": "2024-08-08T18:22:54.753289Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 20:34:22+00",
+  "conditionId": "0xc8e3b1a2028ca442e6a93a467ca78a4136dd2301880bf02a163d5d951a655ef3",
+  "slug": "will-charles-dobson-gbr-win-gold-in-the-mens-400m",
+  "question": "Will Charles Dobson (GBR) win gold in the Men’s 400m?"
+}

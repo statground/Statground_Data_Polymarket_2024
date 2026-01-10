@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T22:27:47.491302Z",
+  "market_createdAt": "2024-08-16T22:27:47.491302Z",
+  "market_updatedAt": "2024-08-24T05:26:58.11375Z",
+  "market_startDate": "2024-08-21T15:38:12.192Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:22:26+00",
+  "conditionId": "0x5b6387e2281693a19785e12e8859d992533c257bcc34aa33ac8856f71b0d8769",
+  "slug": "will-kamala-harris-say-abortion-during-dnc-speech",
+  "question": "Will Kamala Harris say \"abortion\" during DNC speech?"
+}

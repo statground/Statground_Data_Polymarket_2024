@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-02T22:10:49.471568Z",
+  "market_createdAt": "2024-09-02T22:10:49.471568Z",
+  "market_updatedAt": "2024-09-09T00:45:12.760669Z",
+  "market_startDate": "2024-09-03T15:47:53.012291Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 00:42:21+00",
+  "conditionId": "0x7d6d7684a0243d66f34bb7a542eea8be49b5f35fd1cb9859c6df00d513f15bd6",
+  "slug": "will-france-win-the-third-most-gold-medals-in-the-2024-paralympics",
+  "question": "Will France win the third most medals in the 2024 Paralympics?"
+}

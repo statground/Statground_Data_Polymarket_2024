@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:35:33.180489Z",
+  "market_createdAt": "2024-08-22T18:35:33.180489Z",
+  "market_updatedAt": "2024-08-24T08:21:02.849157Z",
+  "market_startDate": "2024-08-22T20:10:47.252Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:21:25+00",
+  "conditionId": "0xd66b9451c9d0293b3c18a7b16ee2e93658fbab6b0d598975b296161c55014bc5",
+  "slug": "will-trump-post-black-on-final-night-of-dnc",
+  "question": "Will Trump post \"Black\" on final night of DNC?"
+}

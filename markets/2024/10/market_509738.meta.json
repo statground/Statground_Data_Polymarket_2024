@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:40:22.117932Z",
+  "market_createdAt": "2024-10-11T21:40:22.117932Z",
+  "market_updatedAt": "2024-10-15T05:42:49.210556Z",
+  "market_startDate": "2024-10-11T22:27:32.818043Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 05:40:07+00",
+  "conditionId": "0xb40b62c8218b4a5c69aa919fcad41768a6ffb779ecdd3fbe012686c682e6eaa7",
+  "slug": "will-the-bengals-beat-the-giants-by-4-or-more-points",
+  "question": "Will the Bengals beat the Giants by 4 or more points?"
+}

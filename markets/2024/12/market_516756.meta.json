@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:08:02.999876Z",
+  "market_createdAt": "2024-12-30T05:08:02.999876Z",
+  "market_updatedAt": "2025-01-05T21:33:21.469603Z",
+  "market_startDate": "2024-12-30T05:10:34.96816Z",
+  "market_endDate": "2025-01-04T17:30:00Z",
+  "market_closedTime": "2025-01-04 22:44:48+00",
+  "conditionId": "0x5817e148183be3af45455699ed92fbf2ba4846525f94e6710ac454bc9dc9d002",
+  "slug": "epl-bri-ars-2025-01-04-bri",
+  "question": "Will Brighton win on 2025-01-04?"
+}

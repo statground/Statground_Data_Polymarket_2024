@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T15:48:03.076846Z",
+  "market_createdAt": "2024-06-17T15:48:03.076846Z",
+  "market_updatedAt": "2024-06-19T20:56:15.655247Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-19 00:01:28+00",
+  "conditionId": "0xf482a4a7c1e689458315f4c0c03dba2200f30cee58aa379ea4bee17a6bad4d31",
+  "slug": "will-the-match-be-a-draw-portugal-czechia",
+  "question": "Will the match be a draw?"
+}

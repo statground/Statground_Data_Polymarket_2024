@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T16:00:58.960704Z",
+  "market_createdAt": "2024-05-06T16:00:58.960704Z",
+  "market_updatedAt": "2024-05-09T17:54:18.406197Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-08T12:00:00Z",
+  "market_closedTime": "2024-05-09 00:10:25+00",
+  "conditionId": "0x25e2f5e6f7092f46d94d4ee02e843e4a05148e8d32b74b690765fe95bef5b902",
+  "slug": "will-bayern-munich-win-against-real-madrid",
+  "question": "Will Bayern Munich win against Real Madrid?"
+}

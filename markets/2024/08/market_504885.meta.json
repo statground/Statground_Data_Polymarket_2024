@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:37:47.479213Z",
+  "market_createdAt": "2024-08-09T20:37:47.479213Z",
+  "market_updatedAt": "2024-08-11T20:40:56.460326Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 22:29:24+00",
+  "conditionId": "0xc897587061e5d7f753f47771408da74e2f6deb0a4baabf03280f815e5706c3d1",
+  "slug": "will-the-usa-win-gold-in-the-mens-4x400m-relay",
+  "question": "Will the USA win gold in the Men’s 4x400m Relay?"
+}

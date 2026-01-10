@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T19:07:58.593702Z",
+  "market_createdAt": "2024-04-19T19:07:58.593702Z",
+  "market_updatedAt": "2024-05-07T23:09:17.733853Z",
+  "market_startDate": "2024-04-19T19:33:26.147Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-04-23 21:36:45+00",
+  "conditionId": "0x2b0d66e6e9f6a0cdb4125f8746a18cc7c6a4b95e934827d7c44685ed5361e1df",
+  "slug": "will-fantano-rate-new-tswift-album-above-5",
+  "question": "Will Fantano rate new Tswift album above 5?"
+}

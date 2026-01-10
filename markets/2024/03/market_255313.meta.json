@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T16:26:38.907000Z",
+  "market_createdAt": "2024-03-06T16:26:38.907Z",
+  "market_updatedAt": "2024-05-07T23:09:35.078106Z",
+  "market_startDate": "2024-03-06T16:34:40.668Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:32:04+00",
+  "conditionId": "0x81043619adce0abcfafbfddaae1d14fa0df80bcb8ac711b725437f48ed62b3c5",
+  "slug": "openai-renamed-to-closedai-in-march",
+  "question": "OpenAI renamed to ClosedAI in March?"
+}

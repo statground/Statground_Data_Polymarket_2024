@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:33:32.250500Z",
+  "market_createdAt": "2024-11-01T19:33:32.2505Z",
+  "market_updatedAt": "2024-11-05T01:17:04.31355Z",
+  "market_startDate": "2024-11-02T21:35:36.100559Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 06:45:36+00",
+  "conditionId": "0x19226095a329c00880e8d739ec3e37ac207dcfea9f84fac9ca8836e4fc0e22d8",
+  "slug": "will-the-vikings-and-colts-combine-for-47-or-more-points",
+  "question": "Will the Vikings and Colts combine for 47 or more points?"
+}

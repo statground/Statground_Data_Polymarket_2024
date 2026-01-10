@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:03:54.552336Z",
+  "market_createdAt": "2024-09-03T20:03:54.552336Z",
+  "market_updatedAt": "2024-09-21T01:26:46.769979Z",
+  "market_startDate": "2024-09-04T00:07:11.45056Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 04:33:31+00",
+  "conditionId": "0x65fe3fd89499cd7966e370ac56357e06da8ab43bfe08829da42d06b4941fd2bb",
+  "slug": "will-the-washington-mystics-win-the-2024-wnba-finals",
+  "question": "Will the Washington Mystics win the 2024 WNBA Finals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:08:32.562485Z",
+  "market_createdAt": "2024-11-01T18:08:32.562485Z",
+  "market_updatedAt": "2024-11-03T23:31:03.089622Z",
+  "market_startDate": "2024-11-01T23:02:50.410662Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:20:46+00",
+  "conditionId": "0x2719ababf757442f2d13b0629bee5204fdd3d4d62bd22292c2f4dec6c59bae1b",
+  "slug": "will-usc-beat-washington-by-3-or-more-points",
+  "question": "Will USC beat Washington by 3 or more points?"
+}

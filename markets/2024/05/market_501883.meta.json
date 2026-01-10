@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:25:59.569395Z",
+  "market_createdAt": "2024-05-29T18:25:59.569395Z",
+  "market_updatedAt": "2024-06-03T13:11:11.3997Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:07:24+00",
+  "conditionId": "0x3e7d04e3aced7de317146a7849a76e980b241f72de545e0f66d3e59536899a3f",
+  "slug": "will-arnar-r-jnsson-win-the-iceland-presidential-election",
+  "question": "Will Arnar Þór Jónsson win the Iceland Presidential Election?"
+}

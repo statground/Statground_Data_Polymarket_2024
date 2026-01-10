@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:29:50.960042Z",
+  "market_createdAt": "2024-09-17T17:29:50.960042Z",
+  "market_updatedAt": "2025-02-20T01:04:44.405806Z",
+  "market_startDate": "2024-09-17T18:25:38.334925Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-02-19 02:45:22+00",
+  "conditionId": "0xeda024367dd24ff6425696d2020d4938a6143d8c58829c09e3030556d788d68a",
+  "slug": "will-monaco-win-the-uefa-champions-league",
+  "question": "Will Monaco win the UEFA Champions League?"
+}

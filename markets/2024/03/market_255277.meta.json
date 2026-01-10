@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T02:01:03.729000Z",
+  "market_createdAt": "2024-03-05T02:01:03.729Z",
+  "market_updatedAt": "2024-04-26T02:53:09.834818Z",
+  "market_startDate": "2024-03-06T19:22:32.284Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 06:48:27+00",
+  "conditionId": "0x8ba41647cfdb13528b1995072e170cc4ccd6d50dc2bc80a636f4bec19ce925e1",
+  "slug": "will-biden-say-moon-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"Moon\" during his State of the Union address?"
+}

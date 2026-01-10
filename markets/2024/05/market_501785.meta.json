@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T22:24:13.953534Z",
+  "market_createdAt": "2024-05-22T22:24:13.953534Z",
+  "market_updatedAt": "2024-06-21T00:56:11.414429Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-20 02:40:07+00",
+  "conditionId": "0x62650a68c95df7ae5dd67c52c2099c81accf92b0be8f3c4e3019720785b8b900",
+  "slug": "will-uk-election-on-july-4-be-cancelled",
+  "question": "Will UK Election on July 4 be cancelled?"
+}

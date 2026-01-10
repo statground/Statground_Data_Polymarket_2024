@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:59:37.955404Z",
+  "market_createdAt": "2024-11-18T20:59:37.955404Z",
+  "market_updatedAt": "2025-01-01T20:39:24.339289Z",
+  "market_startDate": "2024-11-18T21:38:20.01131Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:08:14+00",
+  "conditionId": "0xb4de5ab3d7d35d95513734e42b95620138245283ba50ccfc04b37caf4cec8f46",
+  "slug": "will-mog-be-listed-first-on-binance",
+  "question": "Will $Mog be listed first on Binance?"
+}

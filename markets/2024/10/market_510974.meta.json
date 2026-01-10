@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:56:56.017038Z",
+  "market_createdAt": "2024-10-25T18:56:56.017038Z",
+  "market_updatedAt": "2024-10-28T03:36:49.429645Z",
+  "market_startDate": "2024-10-25T22:29:13.209682Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 05:16:37+00",
+  "conditionId": "0x9d797d34fd33d3a9996199807940a66d28caef3bc5cc2408bc4ed3397ffdfd31",
+  "slug": "will-penn-state-beat-wisconsin",
+  "question": "Will Penn State beat Wisconsin?"
+}

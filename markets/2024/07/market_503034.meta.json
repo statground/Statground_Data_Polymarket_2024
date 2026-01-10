@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:08:15.620804Z",
+  "market_createdAt": "2024-07-01T15:08:15.620804Z",
+  "market_updatedAt": "2024-07-03T17:45:48.271121Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-02T12:00:00Z",
+  "market_closedTime": "2024-07-02 21:12:51+00",
+  "conditionId": "0x8e8cae51fd12958d6b4753eecd0868b23d63f35f79fbfc9b7aa0755b4e86d0cc",
+  "slug": "will-the-match-be-a-draw-romania-netherlands",
+  "question": "Will the match be a draw?"
+}

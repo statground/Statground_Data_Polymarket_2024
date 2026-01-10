@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253663",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T19:14:04.802000Z",
+  "market_createdAt": "2024-01-08T19:14:04.802Z",
+  "market_updatedAt": "2024-01-17T01:33:14.041Z",
+  "market_startDate": "2024-01-08T20:39:31.553Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-16 12:16:40+00",
+  "conditionId": "0xdbec3f23bf64bc5fa02459705e581389a375530d27b8856651a6a73dce3c5982",
+  "slug": "will-someone-else-place-2nd-in-the-2024-iowa-caucus",
+  "question": "Will someone else place 2nd in the 2024 Iowa Caucus?"
+}

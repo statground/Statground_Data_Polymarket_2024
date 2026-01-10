@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:14:35.105150Z",
+  "market_createdAt": "2024-09-24T21:14:35.10515Z",
+  "market_updatedAt": "2024-10-03T02:32:37.036204Z",
+  "market_startDate": "2024-09-24T23:29:53.913Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:04:39+00",
+  "conditionId": "0x3b26c31235a45623b6c3061b04c9039789f9cc2436361ce47ba213818d34b167",
+  "slug": "will-tim-walz-say-kamala-harris-15-or-more-times-during-the-debate",
+  "question": "Will Tim Walz say \"Kamala Harris\" 15 or more times during the debate?"
+}

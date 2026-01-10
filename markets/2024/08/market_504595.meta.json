@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T17:55:40.495553Z",
+  "market_createdAt": "2024-08-06T17:55:40.495553Z",
+  "market_updatedAt": "2024-08-10T17:56:59.002431Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-09 21:21:49+00",
+  "conditionId": "0x2923317435d66ebeb9647378734dd4f5c74633992309eefa19cbf3a6bff5b647",
+  "slug": "will-italy-win-gold-in-the-mens-4x100m-relay",
+  "question": "Will Italy win gold in the Men’s 4x100m Relay?"
+}

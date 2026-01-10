@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:13:41.416839Z",
+  "market_createdAt": "2024-09-25T18:13:41.416839Z",
+  "market_updatedAt": "2024-09-28T02:12:45.179166Z",
+  "market_startDate": "2024-09-25T18:33:08.378Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-09-27 06:33:10+00",
+  "conditionId": "0x6f58285ccb345d90778644179f3d9e51445ea4bb4633851f83d72cd082610ba1",
+  "slug": "will-helene-make-landfall-at-category-1-or-weaker",
+  "question": "Will Helene make landfall at category 1 or weaker?"
+}

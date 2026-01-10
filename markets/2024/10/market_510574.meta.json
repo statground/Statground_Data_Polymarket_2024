@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:38:09.018072Z",
+  "market_createdAt": "2024-10-22T16:38:09.018072Z",
+  "market_updatedAt": "2024-10-25T20:47:07.677964Z",
+  "market_startDate": "2024-10-22T21:07:14.384265Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:13:06+00",
+  "conditionId": "0x72b38feed5749fdd9aaf783be837fe489404f7386e0981cd3175c55f9fa5fb6a",
+  "slug": "will-the-match-between-lyon-and-besiktas-end-in-a-draw",
+  "question": "Will the match between Lyon and Besiktas end in a draw?"
+}

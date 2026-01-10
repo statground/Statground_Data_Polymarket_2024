@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:02:55.227337Z",
+  "market_createdAt": "2024-12-01T05:02:55.227337Z",
+  "market_updatedAt": "2024-12-04T04:47:12.52224Z",
+  "market_startDate": "2024-12-01T05:06:25.747776Z",
+  "market_endDate": "2024-12-10T00:30:00Z",
+  "market_closedTime": "2024-12-03 04:49:15+00",
+  "conditionId": "0x7d3536a4d1ace71ce10a9301c954e2a6fe3f85fad3b1adca20a91807c93b3c99",
+  "slug": "nba-mia-bos-2024-12-02",
+  "question": "Heat vs. Celtics"
+}

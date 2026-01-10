@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:02:48.609485Z",
+  "market_createdAt": "2024-12-31T20:02:48.609485Z",
+  "market_updatedAt": "2026-01-01T16:29:25.343965Z",
+  "market_startDate": "2024-12-31T20:23:56.635Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:27:51+00",
+  "conditionId": "0x4928bece364d2def95c920459ab1fa54f449f99f33b0dbc93d6a84f80d9c9669",
+  "slug": "will-moonshot-have-the-top-ai-model-on-december-31",
+  "question": "Will Moonshot have the top AI model on December 31?"
+}

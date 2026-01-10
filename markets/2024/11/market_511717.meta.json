@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:26:51.811778Z",
+  "market_createdAt": "2024-11-01T19:26:51.811778Z",
+  "market_updatedAt": "2024-11-09T17:42:57.588601Z",
+  "market_startDate": "2024-11-01T19:43:32.373Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-08 20:12:30+00",
+  "conditionId": "0xb96ef5b0b0175ed86de4df291a3ddb6a739f47d191eb3125f7e52352a6b35fd0",
+  "slug": "will-trump-tweet-100-109-times-nov-1-8",
+  "question": "Will Trump tweet 100-109 times Nov 1-8?"
+}

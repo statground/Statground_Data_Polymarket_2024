@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T18:36:35.079153Z",
+  "market_createdAt": "2024-07-01T18:36:35.079153Z",
+  "market_updatedAt": "2024-07-07T13:35:45.151329Z",
+  "market_startDate": null,
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-07-06 14:11:21+00",
+  "conditionId": "0x4823496637f3d0ac140328d8f72d0014b8a7061166abc2bbddd939516daca3dc",
+  "slug": "lebron-james-re-signs-with-lakers",
+  "question": "Lebron James re-signs with Lakers?"
+}

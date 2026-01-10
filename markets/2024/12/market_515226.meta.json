@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:30:07.059749Z",
+  "market_createdAt": "2024-12-10T02:30:07.059749Z",
+  "market_updatedAt": "2024-12-16T23:21:29.770013Z",
+  "market_startDate": "2024-12-10T02:33:21.690065Z",
+  "market_endDate": "2024-12-22T18:00:00Z",
+  "market_closedTime": "2024-12-15 23:26:44+00",
+  "conditionId": "0x8e49c8fef05cbbe9252d9be561ace534e9b4e7254e9e1f2cf7ee5a909c201ea8",
+  "slug": "nfl-mia-hou-2024-12-15",
+  "question": "Dolphins vs. Texans"
+}

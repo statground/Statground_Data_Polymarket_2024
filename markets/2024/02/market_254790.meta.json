@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T17:07:42.088000Z",
+  "market_createdAt": "2024-02-27T17:07:42.088Z",
+  "market_updatedAt": "2024-03-11T23:02:06.434Z",
+  "market_startDate": "2024-02-27T20:00:35.023Z",
+  "market_endDate": "2024-03-10T00:00:00Z",
+  "market_closedTime": "2024-03-11 02:48:31+00",
+  "conditionId": "0x5d37f107523d75e9ef9a084fdb1b651fb6b44d9e9f20ff7514fa8c509f3cc7fd",
+  "slug": "will-nimona-win-the-oscar-for-best-animated-feature-film",
+  "question": "Will Nimona win the Oscar for Best Animated Feature Film?"
+}

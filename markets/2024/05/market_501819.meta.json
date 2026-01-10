@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T16:38:07.966029Z",
+  "market_createdAt": "2024-05-24T16:38:07.966029Z",
+  "market_updatedAt": "2024-06-01T15:16:12.14029Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-31 19:10:04+00",
+  "conditionId": "0xc54975c870abb68dbc14dc7e24775b79f7d6636ae4ccbf1d3b45d5603541620f",
+  "slug": "will-elon-tweet-between-55-and-64-times",
+  "question": "Will Elon tweet between 55 and 64 times?"
+}

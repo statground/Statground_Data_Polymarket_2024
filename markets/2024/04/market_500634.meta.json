@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T21:38:21.271770Z",
+  "market_createdAt": "2024-04-02T21:38:21.27177Z",
+  "market_updatedAt": "2025-01-02T05:07:13.615744Z",
+  "market_startDate": "2024-04-03T15:42:35.984Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:37:58+00",
+  "conditionId": "0x08a5663d450331222bc832c59646bff249671319340cbde738c13f71b9e51c21",
+  "slug": "ethena-usde-flips-usdc-market-cap-in-2024",
+  "question": "Ethena USDe flips USDC market cap in 2024?"
+}

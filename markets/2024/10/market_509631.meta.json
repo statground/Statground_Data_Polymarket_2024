@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:38:17.119111Z",
+  "market_createdAt": "2024-10-11T15:38:17.119111Z",
+  "market_updatedAt": "2024-10-14T00:20:48.023851Z",
+  "market_startDate": "2024-10-11T19:06:12.495045Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:47:06+00",
+  "conditionId": "0x8a78dfdc51ade21dda550e0f3569460ea752d17deb526017b56afebd43445dcb",
+  "slug": "will-byu-beat-arizona",
+  "question": "Will BYU beat Arizona?"
+}

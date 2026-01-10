@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T17:28:28.753732Z",
+  "market_createdAt": "2024-12-11T17:28:28.753732Z",
+  "market_updatedAt": "2025-01-16T16:25:04.45285Z",
+  "market_startDate": "2024-12-11T18:06:59.494Z",
+  "market_endDate": "2025-01-15T12:00:00Z",
+  "market_closedTime": "2025-01-15 16:47:22+00",
+  "conditionId": "0xc4c852b4a02e839890e9d1457f76711b4d4c886a7b77606de1454193be7dbbd9",
+  "slug": "will-us-annual-inflation-be-2pt8-in-december",
+  "question": "Will US annual inflation be 2.8% in December?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:23:47.197063Z",
+  "market_createdAt": "2024-09-24T15:23:47.197063Z",
+  "market_updatedAt": "2025-05-24T06:33:02.330374Z",
+  "market_startDate": "2024-09-24T17:34:01.17Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-04 07:06:33+00",
+  "conditionId": "0x4e2dd28f54a645ac62743a49116dfae0b6fd22ef4187ee2a340d1346ca612bcf",
+  "slug": "will-the-la-clippers-win-the-2025-nba-finals",
+  "question": "Will the LA Clippers win the 2025 NBA Finals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:56:12.283716Z",
+  "market_createdAt": "2024-11-15T18:56:12.283716Z",
+  "market_updatedAt": "2024-11-17T01:23:00.495234Z",
+  "market_startDate": "2024-11-15T22:09:05.009767Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:44:13+00",
+  "conditionId": "0x827b5224bfd6dfa31ca8df887ff21299232305429039076da6e5b3863439d557",
+  "slug": "will-washington-and-ucla-combine-for-47-or-more-points",
+  "question": "Will Washington and UCLA combine for 47 or more points?"
+}

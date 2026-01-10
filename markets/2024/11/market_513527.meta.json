@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T23:46:30.264545Z",
+  "market_createdAt": "2024-11-19T23:46:30.264545Z",
+  "market_updatedAt": "2024-11-21T02:06:53.755263Z",
+  "market_startDate": "2024-11-20T00:14:08.11Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 04:10:44+00",
+  "conditionId": "0x29a834c89d558ac66ec2fe13139b61ac5c63b5c5eba03c26e85236084e06dc16",
+  "slug": "will-willem-de-koonings-untitled-sell-for-10m-or-greater",
+  "question": "Will Willem De Kooning's \"Untitled\" sell for $10m or greater?"
+}

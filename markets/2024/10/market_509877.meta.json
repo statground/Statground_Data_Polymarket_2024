@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T16:07:08.546971Z",
+  "market_createdAt": "2024-10-15T16:07:08.546971Z",
+  "market_updatedAt": "2024-10-17T04:06:51.954749Z",
+  "market_startDate": "2024-10-15T17:24:56.849433Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-16 07:34:24+00",
+  "conditionId": "0x2bb639e509c9805a00ca59d405df9d72cdad898e02eeeb513a603c9572db2867",
+  "slug": "will-the-match-between-mexico-and-usa-end-in-a-draw",
+  "question": "Will the match between Mexico and USA end in a draw?"
+}

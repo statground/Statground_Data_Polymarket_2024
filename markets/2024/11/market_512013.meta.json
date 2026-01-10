@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:51:07.609896Z",
+  "market_createdAt": "2024-11-05T04:51:07.609896Z",
+  "market_updatedAt": "2024-11-07T21:52:59.612056Z",
+  "market_startDate": "2024-11-05T20:23:56.097734Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:14:42+00",
+  "conditionId": "0xa6a2532c812d091671c0be47b3a77b93c5dd146be5319313f34b83980d471d0a",
+  "slug": "will-the-match-between-vfb-stuttgart-and-atalanta-end-in-a-draw",
+  "question": "Will the match between VfB Stuttgart and Atalanta end in a draw?"
+}

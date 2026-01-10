@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T21:20:30.088962Z",
+  "market_createdAt": "2024-12-13T21:20:30.088962Z",
+  "market_updatedAt": "2024-12-20T08:35:07.931276Z",
+  "market_startDate": "2024-12-13T22:39:55.869647Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-19 09:32:38+00",
+  "conditionId": "0x36c5a771b82b68f910262aa80013ac6a05834addc449a5ad12d1ec73f81e892c",
+  "slug": "will-fartcoin-hit-1b-fdv-in-2024",
+  "question": "Will $Fartcoin hit $1b FDV in 2024?"
+}

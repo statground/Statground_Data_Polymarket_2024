@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:03:17.068191Z",
+  "market_createdAt": "2024-12-29T05:03:17.068191Z",
+  "market_updatedAt": "2025-01-01T06:57:29.807223Z",
+  "market_startDate": "2024-12-29T05:05:46.360747Z",
+  "market_endDate": "2025-01-07T03:00:00Z",
+  "market_closedTime": "2024-12-31 07:54:02+00",
+  "conditionId": "0x5de8a48516c1724a4819433470dea5f44d722c49a847da67679f768091a97473",
+  "slug": "nba-dal-sac-2024-12-30",
+  "question": "Mavericks vs. Kings"
+}

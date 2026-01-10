@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:40:50.683742Z",
+  "market_createdAt": "2024-11-06T20:40:50.683742Z",
+  "market_updatedAt": "2025-01-04T23:20:44.251957Z",
+  "market_startDate": "2024-11-06T21:01:35.656Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:37:55+00",
+  "conditionId": "0xc9245f04f26a1cbe765e5b80868f113c0da34319895075f6de57db3cde097609",
+  "slug": "will-john-thune-be-the-next-seante-majority-leader",
+  "question": "Will John Thune be the next Senate Majority Leader?"
+}

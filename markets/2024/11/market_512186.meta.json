@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:10:03.746864Z",
+  "market_createdAt": "2024-11-06T18:10:03.746864Z",
+  "market_updatedAt": "2024-11-24T03:50:48.0199Z",
+  "market_startDate": "2024-11-06T18:30:27.832339Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:15:15+00",
+  "conditionId": "0x24c5b2343fe9bbf9c2e68ead9f71ee1930e483aae812805471add00347a86cb1",
+  "slug": "will-trump-nominate-jay-clayton-for-treasury-secretary",
+  "question": "Will Trump nominate Jay Clayton for Treasury Secretary?"
+}

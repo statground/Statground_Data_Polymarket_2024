@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:04:38.728946Z",
+  "market_createdAt": "2024-12-30T05:04:38.728946Z",
+  "market_updatedAt": "2025-01-05T19:13:17.960828Z",
+  "market_startDate": "2024-12-30T05:07:39.777385Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:03:15+00",
+  "conditionId": "0xed8162dcbabc3653ddcf5cfc32129461c157a48c023e92b09c112aaf3029a9db",
+  "slug": "epl-ast-lei-2025-01-04-lei",
+  "question": "Will Leicester win on 2025-01-04?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513460",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T18:59:11.376168Z",
+  "market_createdAt": "2024-11-19T18:59:11.376168Z",
+  "market_updatedAt": "2025-01-04T19:32:42.318131Z",
+  "market_startDate": "2024-11-19T23:50:54.245Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:12:09+00",
+  "conditionId": "0x39ea2c78a19e57d5c1de6e5180c039038a6a1a9c483f10e370f242b3da207b4e",
+  "slug": "will-byron-donalds-be-the-first-elected-speaker-of-the-house-for-the-119th-congress",
+  "question": "Will Byron Donalds be the first elected Speaker of the House for the 119th congress?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:11:33.085172Z",
+  "market_createdAt": "2024-09-24T17:11:33.085172Z",
+  "market_updatedAt": "2025-04-22T07:11:46.693357Z",
+  "market_startDate": "2024-11-21T23:08:37.817Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 03:44:47+00",
+  "conditionId": "0x27e3084fa5d09c44aeeffb9c15eb9e403b462486745ac0ce1453f2ae924c092a",
+  "slug": "will-anthony-davis-win-the-2024-25-nba-mvp",
+  "question": "Will Anthony Davis win the 2024-25 NBA MVP?"
+}

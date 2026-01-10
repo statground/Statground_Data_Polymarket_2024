@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T20:42:25.589000Z",
+  "market_createdAt": "2024-01-05T20:42:25.589Z",
+  "market_updatedAt": "2024-04-26T03:11:37.755728Z",
+  "market_startDate": "2024-01-06T00:46:44.373Z",
+  "market_endDate": "2024-01-23T00:00:00Z",
+  "market_closedTime": "2024-01-24 11:03:24+00",
+  "conditionId": "0x9f48a05fb3f34c80866fc41729ec0b085dba86c944df2b0400b925c31e56e233",
+  "slug": "will-donald-trump-win-the-new-hampshire-republican-primary",
+  "question": "Will Donald Trump win the New Hampshire Republican Primary?"
+}

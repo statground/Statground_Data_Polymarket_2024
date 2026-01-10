@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T18:34:27.593981Z",
+  "market_createdAt": "2024-07-17T18:34:27.593981Z",
+  "market_updatedAt": "2024-08-07T19:16:44.068217Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-06 21:49:14+00",
+  "conditionId": "0xd046f3a64bd87f3b743e638ad00680af2a34dc193f164677c8c92de39e6fe9d7",
+  "slug": "will-germany-win-gold-in-womens-football-soccer",
+  "question": "Will Germany win Gold in Women's Football (Soccer)?"
+}

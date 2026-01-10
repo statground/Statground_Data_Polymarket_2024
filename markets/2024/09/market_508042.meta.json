@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:11:40.824085Z",
+  "market_createdAt": "2024-09-24T21:11:40.824085Z",
+  "market_updatedAt": "2024-10-03T02:56:43.277453Z",
+  "market_startDate": "2024-09-24T23:28:10.944563Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:49:55+00",
+  "conditionId": "0x4047b55b910e7e0f39bb5e4e00abca9cee820d5cc0e88f7262310785154e5de0",
+  "slug": "will-tim-walz-say-abortion-during-the-debate",
+  "question": "Will Tim Walz say \"abortion\" during the debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:47:58.901133Z",
+  "market_createdAt": "2024-11-01T23:47:58.901133Z",
+  "market_updatedAt": "2024-11-05T00:33:07.317513Z",
+  "market_startDate": "2024-11-02T00:08:29.615Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:33:49+00",
+  "conditionId": "0xc2021c631f1fe44cdb04d01c49e39891fc81e22d0bb25f043226f9de7a0410c0",
+  "slug": "will-trump-say-million-5-or-more-times-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"Million\" 5 or more times during North Carolina rally on Nov 3?"
+}

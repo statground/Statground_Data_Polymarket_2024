@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:03:50.072605Z",
+  "market_createdAt": "2024-12-22T07:03:50.072605Z",
+  "market_updatedAt": "2024-12-25T04:23:25.58934Z",
+  "market_startDate": "2024-12-22T07:06:16.524227Z",
+  "market_endDate": "2024-12-31T01:00:00Z",
+  "market_closedTime": "2024-12-24 05:38:51+00",
+  "conditionId": "0xa4852351b96e15e3ebe888cd6c626a31ba4bd7c986de7d668601be9958e5398b",
+  "slug": "nhl-car-nsh-2024-12-23",
+  "question": "Hurricanes vs. Predators"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:04:59.794442Z",
+  "market_createdAt": "2024-11-24T05:04:59.794442Z",
+  "market_updatedAt": "2024-12-02T01:25:23.741072Z",
+  "market_startDate": "2024-11-24T05:07:51.018994Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 02:03:50+00",
+  "conditionId": "0x050f76121298f7aaa858ee8a86e7003bcc1f2848604aaa37e4466c08ecb05bb5",
+  "slug": "cfb-cmu-niu-2024-11-30",
+  "question": "Central Michigan vs. Northern Illinois"
+}

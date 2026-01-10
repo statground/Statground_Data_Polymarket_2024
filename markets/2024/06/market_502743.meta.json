@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:55:12.459492Z",
+  "market_createdAt": "2024-06-21T16:55:12.459492Z",
+  "market_updatedAt": "2024-06-29T16:26:04.948109Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-28 18:02:45+00",
+  "conditionId": "0x58d6a973aa8cf2413bf36923ddf51c0fd35393a79874a81a26115fd0ccceac20",
+  "slug": "bitcoin-above-65000-on-june-28",
+  "question": "Bitcoin above $65,000 on June 28?"
+}

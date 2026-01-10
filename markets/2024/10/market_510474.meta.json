@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:34:51.859907Z",
+  "market_createdAt": "2024-10-22T00:34:51.859907Z",
+  "market_updatedAt": "2024-10-27T17:22:54.13797Z",
+  "market_startDate": "2024-10-22T00:37:30.001Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 19:30:21+00",
+  "conditionId": "0x653d79ff8bc6ab093a2c64be3da6d4ed8d2742052d0d6df9c93e78192040232c",
+  "slug": "epl-bre-ips-2024-10-26-draw",
+  "question": "Will Brentford vs. Ipswich end in a draw?"
+}

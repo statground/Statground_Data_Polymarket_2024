@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T16:39:59.592230Z",
+  "market_createdAt": "2024-04-01T16:39:59.59223Z",
+  "market_updatedAt": "2024-08-02T17:13:04.597242Z",
+  "market_startDate": "2024-04-01T17:37:27.694Z",
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-08-01 08:51:44+00",
+  "conditionId": "0x8b0fb7f65e2c1aef47a24f496004a262002a1d6794d3faeab37d10bd8df05cef",
+  "slug": "will-david-hoffman-defeat-nic-carter",
+  "question": "Will David Hoffman defeat Nic Carter?"
+}

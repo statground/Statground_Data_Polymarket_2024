@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T18:19:39.742000Z",
+  "market_createdAt": "2024-01-08T18:19:39.742Z",
+  "market_updatedAt": "2024-01-12T01:09:16.32Z",
+  "market_startDate": "2024-01-08T19:16:15.161Z",
+  "market_endDate": "2024-01-10T00:00:00Z",
+  "market_closedTime": "2024-01-11 01:01:43+00",
+  "conditionId": "0x197e52016126cccca59fd9f30ec9bbaf4e74627b2c6ff9e442898396bd19fca1",
+  "slug": "sec-to-not-approve-spot-bitcoin-etf-by-jan-10",
+  "question": "SEC to NOT approve spot Bitcoin ETF by Jan 10?"
+}

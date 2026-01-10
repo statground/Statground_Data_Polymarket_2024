@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T00:32:15.099669Z",
+  "market_createdAt": "2024-10-17T00:32:15.099669Z",
+  "market_updatedAt": "2024-11-12T19:33:16.079963Z",
+  "market_startDate": "2024-10-17T22:44:15.172Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:39:46+00",
+  "conditionId": "0x9472968d9154ce84db3b4946c07e2059f6f5332ad39699ea1e7c2c8bf2cbe3c9",
+  "slug": "will-trump-win-55-or-more-of-voters-without-a-college-degree",
+  "question": "Will Trump win 55% of voters without a college degree?"
+}

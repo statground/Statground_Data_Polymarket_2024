@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T17:14:36.830252Z",
+  "market_createdAt": "2024-07-26T17:14:36.830252Z",
+  "market_updatedAt": "2024-08-11T06:49:40.042355Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 06:46:41+00",
+  "conditionId": "0x5536fe3334a1d0acd40a51bc23e9009a9252f21418b537f4df594c4e63703e56",
+  "slug": "will-noah-lyles-win-the-most-gold-medals",
+  "question": "Will Noah Lyles win the most gold medals?"
+}

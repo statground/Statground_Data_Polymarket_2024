@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T19:08:12.871478Z",
+  "market_createdAt": "2024-10-18T19:08:12.871478Z",
+  "market_updatedAt": "2024-10-21T23:53:14.649312Z",
+  "market_startDate": "2024-10-18T23:13:52.144988Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:10:02+00",
+  "conditionId": "0xced4bf3d8b8941a2dabb249b4bea7e07d6b7cb4bf151acb80353eeec488b5a54",
+  "slug": "will-trump-say-border-20-or-more-times-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"border\" 20 or more times during Pennsylvania town hall on October 20?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:18:52.208113Z",
+  "market_createdAt": "2024-05-22T16:18:52.208113Z",
+  "market_updatedAt": "2024-07-06T15:20:47.186577Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:18:57+00",
+  "conditionId": "0x2a50cf762e53ddd52a0ad58815444feca5e22f5e24285c112d1e6dc2bb488ea7",
+  "slug": "will-keir-starmer-be-next-uk-prime-minister",
+  "question": "Will Keir Starmer be next UK prime minister?"
+}

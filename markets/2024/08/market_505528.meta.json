@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:52:36.578125Z",
+  "market_createdAt": "2024-08-21T14:52:36.578125Z",
+  "market_updatedAt": "2024-08-23T02:37:04.636575Z",
+  "market_startDate": "2024-08-21T16:50:55.096Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:26:18+00",
+  "conditionId": "0x261f8f94dac503c5f51973c2c47a446f0084ba099761264c9edda9336bdae9cb",
+  "slug": "will-bill-clinton-say-oval-office-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Oval Office\" at DNC speech?"
+}

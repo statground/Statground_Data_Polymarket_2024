@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502054",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T21:38:00.504586Z",
+  "market_createdAt": "2024-06-03T21:38:00.504586Z",
+  "market_updatedAt": "2024-07-02T10:16:26.017345Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 11:04:17+00",
+  "conditionId": "0xea15f8518abc7ab86781984c991e44012967f466bd0a23d0d62fbda3278eaba8",
+  "slug": "france-sends-military-trainers-to-ukraine-before-july",
+  "question": "France sends military trainers to Ukraine before July?"
+}

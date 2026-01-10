@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:54:35.020879Z",
+  "market_createdAt": "2024-08-28T18:54:35.020879Z",
+  "market_updatedAt": "2024-08-31T04:01:13.222302Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:21:15+00",
+  "conditionId": "0xf392179c34ce4b0e408d09b209cea52d963b87c904500a3559859842e7cd0b4e",
+  "slug": "will-tim-walz-say-abortion-during-cnn-interview",
+  "question": "Will Tim Walz say \"Abortion\" during CNN interview?"
+}

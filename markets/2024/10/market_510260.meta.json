@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T15:03:27.623275Z",
+  "market_createdAt": "2024-10-21T15:03:27.623275Z",
+  "market_updatedAt": "2024-10-23T03:53:16.568853Z",
+  "market_startDate": "2024-10-21T16:43:02.592068Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 05:30:01+00",
+  "conditionId": "0x146fd659a4c91e6164950d49841097fc31ef8552f9fc1d79d2539f6845f172a9",
+  "slug": "will-the-ravens-and-buccaneers-combine-for-50-or-more-points",
+  "question": "Will the Ravens and Buccaneers combine for 50 or more points?"
+}

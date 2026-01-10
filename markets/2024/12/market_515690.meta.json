@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:01:10.158757Z",
+  "market_createdAt": "2024-12-15T07:01:10.158757Z",
+  "market_updatedAt": "2024-12-18T07:57:16.398611Z",
+  "market_startDate": "2024-12-15T07:03:55.628797Z",
+  "market_endDate": "2024-12-24T03:30:00Z",
+  "market_closedTime": "2024-12-17 08:13:51+00",
+  "conditionId": "0x02f2683295174a9fa7c44df7e39956c6c57e90537c0d07f4402f98d929fc54f8",
+  "slug": "nhl-col-van-2024-12-16",
+  "question": "Avalanche vs. Canucks"
+}

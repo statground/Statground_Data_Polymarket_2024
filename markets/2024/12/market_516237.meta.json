@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:12:31.348377Z",
+  "market_createdAt": "2024-12-22T05:12:31.348377Z",
+  "market_updatedAt": "2024-12-30T07:07:54.545384Z",
+  "market_startDate": "2024-12-22T05:15:01.984578Z",
+  "market_endDate": "2025-01-05T02:30:00Z",
+  "market_closedTime": "2024-12-29 07:33:26+00",
+  "conditionId": "0xc48738784d0d607ffef3741ce4de173a00c03c1785ceec37569bd5397a051ee3",
+  "slug": "nba-phi-uta-2024-12-28",
+  "question": "76ers vs. Jazz"
+}

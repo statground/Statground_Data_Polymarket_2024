@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T17:47:09.830681Z",
+  "market_createdAt": "2024-11-15T17:47:09.830681Z",
+  "market_updatedAt": "2024-11-17T06:49:16.394507Z",
+  "market_startDate": "2024-11-15T17:56:22.914119Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:13:27+00",
+  "conditionId": "0x8042a285f397015b9e4adc10063821dc477aafd5c1990cedfa8a8037bc3cb948",
+  "slug": "hyperliquid-airdrop-today",
+  "question": "Hyperliquid airdrop today?"
+}

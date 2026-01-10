@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:28:06.942911Z",
+  "market_createdAt": "2024-10-07T19:28:06.942911Z",
+  "market_updatedAt": "2025-05-23T23:01:21.69537Z",
+  "market_startDate": "2024-10-08T14:57:57.994925Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-18 09:15:46+00",
+  "conditionId": "0x2f4d4813b59746d5ced985170530331befb399a25acc8540061e0ac8224c9aa2",
+  "slug": "will-the-winnipeg-jets-win-the-2025-stanley-cup",
+  "question": "Will the Winnipeg Jets win the 2025 Stanley Cup?"
+}

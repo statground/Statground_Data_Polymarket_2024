@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:13:24.352305Z",
+  "market_createdAt": "2024-08-23T16:13:24.352305Z",
+  "market_updatedAt": "2024-08-25T02:22:54.264407Z",
+  "market_startDate": "2024-08-23T16:51:08.143Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 03:05:01+00",
+  "conditionId": "0xdd764636ff408daafc0782cfab5492d8e43849c79a3a9112d801437509ecc4b7",
+  "slug": "will-trump-say-drill-baby-drill-at-his-arizona-speech",
+  "question": "Will Trump say \"drill baby drill\" at his Arizona speech?"
+}

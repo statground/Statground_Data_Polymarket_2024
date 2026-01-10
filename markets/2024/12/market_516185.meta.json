@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T22:12:09.755095Z",
+  "market_createdAt": "2024-12-20T22:12:09.755095Z",
+  "market_updatedAt": "2024-12-24T06:59:39.725519Z",
+  "market_startDate": "2024-12-20T22:18:07.717Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-23 07:03:07+00",
+  "conditionId": "0x1d9a6336944cd6499d460540535d0d1d529003340403dbf7dfa565e95b05ffbd",
+  "slug": "will-bitcoin-hit-100k-by-sunday-dec-22",
+  "question": "Will Bitcoin hit $100k by Sunday?"
+}

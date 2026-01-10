@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T23:30:19.275373Z",
+  "market_createdAt": "2024-11-25T23:30:19.275373Z",
+  "market_updatedAt": "2024-11-30T13:23:29.41389Z",
+  "market_startDate": "2024-11-25T23:47:33.916Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-29 14:28:56+00",
+  "conditionId": "0x1c81c01ac54ec4c02a4d881317e995f1cfea0be3e9c3f4649978f9855e4f0dd2",
+  "slug": "world-chess-championship-game-4",
+  "question": "World Chess Championship - Game 4"
+}

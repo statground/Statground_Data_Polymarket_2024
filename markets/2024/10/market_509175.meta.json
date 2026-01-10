@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:19:49.980354Z",
+  "market_createdAt": "2024-10-07T22:19:49.980354Z",
+  "market_updatedAt": "2024-10-14T21:56:52.934381Z",
+  "market_startDate": "2024-10-07T22:21:57.519236Z",
+  "market_endDate": "2024-10-13T17:00:00Z",
+  "market_closedTime": "2024-10-13 22:13:34+00",
+  "conditionId": "0x6e19b38352a70f0cf9d0d920fbc46d42d7cb572e096c7170045c271062dbe1e9",
+  "slug": "nfl-wsh-bal-2024-10-13",
+  "question": "Commanders vs. Ravens"
+}

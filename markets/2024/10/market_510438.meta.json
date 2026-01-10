@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:30:14.781093Z",
+  "market_createdAt": "2024-10-21T22:30:14.781093Z",
+  "market_updatedAt": "2024-10-24T21:17:09.137035Z",
+  "market_startDate": "2024-10-22T00:57:57.505791Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:19:58+00",
+  "conditionId": "0xb68216ee425ab7e9b1a676884cb7f64ec67b9b5d733a48b540a4c04f3d50a81e",
+  "slug": "will-the-match-between-barcelona-and-bayern-munich-end-in-a-draw",
+  "question": "Will the match between Barcelona and Bayern Munich end in a draw?"
+}

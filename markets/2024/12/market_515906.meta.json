@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:07:41.489535Z",
+  "market_createdAt": "2024-12-17T21:07:41.489535Z",
+  "market_updatedAt": "2025-03-14T15:30:42.540626Z",
+  "market_startDate": "2024-12-17T22:19:11.453Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-03-14 15:27:35+00",
+  "conditionId": "0xe757b6797d77a6fcf69a2f749fd6601bd0456135aaff422af9a2a8b3cd3f1af9",
+  "slug": "will-the-spd-win-20-25-of-the-vote-in-the-german-election",
+  "question": "Will the SPD win 20-25% of the vote in the German election?"
+}

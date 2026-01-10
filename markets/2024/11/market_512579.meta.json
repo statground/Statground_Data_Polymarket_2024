@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:36:33.160730Z",
+  "market_createdAt": "2024-11-08T22:36:33.16073Z",
+  "market_updatedAt": "2024-11-17T23:37:14.35688Z",
+  "market_startDate": "2024-11-14T01:57:10.34Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-17 00:56:38+00",
+  "conditionId": "0x762d7b91072f166d81887c70bf5670f633ef8fbc026b6316515729783d3349c5",
+  "slug": "will-trump-nominate-another-person-for-energy-secretary",
+  "question": "Will Trump nominate another person for Energy Secretary?"
+}

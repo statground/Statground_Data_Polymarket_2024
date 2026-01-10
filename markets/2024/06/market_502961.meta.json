@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T15:26:36.939229Z",
+  "market_createdAt": "2024-06-28T15:26:36.939229Z",
+  "market_updatedAt": "2024-07-06T15:35:46.230517Z",
+  "market_startDate": "2024-06-28T16:10:56.913Z",
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:04:00+00",
+  "conditionId": "0x6e019ff7eecf303821312f03875faea2c40cfe7e4ba90e6de45139a36f5a039d",
+  "slug": "ethereum-above-3500-on-july-5",
+  "question": "Ethereum above $3,500 on July 5?"
+}

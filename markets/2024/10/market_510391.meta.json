@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:39:26.240894Z",
+  "market_createdAt": "2024-10-21T20:39:26.240894Z",
+  "market_updatedAt": "2024-10-30T02:47:01.252612Z",
+  "market_startDate": "2024-10-21T20:41:59.61326Z",
+  "market_endDate": "2024-10-28T23:30:00Z",
+  "market_closedTime": "2024-10-29 04:27:49+00",
+  "conditionId": "0xc0ec3263e977c824fa661720a3ef34c49c24ed0749c3bdbc9c0d9a220e707f73",
+  "slug": "nba-det-mia-2024-10-28",
+  "question": "Pistons vs. Heat"
+}

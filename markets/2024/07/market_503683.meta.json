@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:53:54.686908Z",
+  "market_createdAt": "2024-07-17T20:53:54.686908Z",
+  "market_updatedAt": "2024-08-09T04:22:53.74845Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-08 23:03:35+00",
+  "conditionId": "0x9f94abc110a37f4bf9db165d486dadd1300bec1178e40af88144a4295e4776af",
+  "slug": "will-another-athlete-win-gold-in-110m-hurdles",
+  "question": "Will another athlete win Gold in 110m Hurdles?"
+}

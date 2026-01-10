@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:15:49.672003Z",
+  "market_createdAt": "2024-12-20T19:15:49.672003Z",
+  "market_updatedAt": "2024-12-22T17:13:40.412354Z",
+  "market_startDate": "2024-12-20T21:44:38.873778Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-21 22:42:46+00",
+  "conditionId": "0x274b9ed7177007cb3f20397c7158fec67f854adc70e4f5213fecfbd6d24db6d9",
+  "slug": "will-penn-state-and-smu-combine-for-54-or-more-points",
+  "question": "Will Penn State and SMU combine for 54 or more points?"
+}

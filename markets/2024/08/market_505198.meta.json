@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T02:41:46.248854Z",
+  "market_createdAt": "2024-08-16T02:41:46.248854Z",
+  "market_updatedAt": "2024-08-24T23:33:00.329791Z",
+  "market_startDate": "2024-08-20T16:25:39.387Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-08-23 23:25:01+00",
+  "conditionId": "0x1249bf2b8b3998b041cd99f113d807658ba69ae42c8658974bd021df4464b27e",
+  "slug": "will-rfk-drop-out-before-november",
+  "question": "Will RFK drop out before November?"
+}

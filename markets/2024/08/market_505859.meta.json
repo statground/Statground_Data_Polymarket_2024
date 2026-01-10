@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505859",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:47:54.856582Z",
+  "market_createdAt": "2024-08-26T20:47:54.856582Z",
+  "market_updatedAt": "2024-11-22T21:44:55.585448Z",
+  "market_startDate": "2024-08-26T20:47:54.856582Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 02:56:58+00",
+  "conditionId": "0x9104cdfa6d7d211a871e10644f43a6408557255be2db927e1bec5beadec8c397",
+  "slug": "will-californias-living-wage-act-pass",
+  "question": "Will California's Living Wage Act pass?"
+}

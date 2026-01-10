@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T15:23:12.467077Z",
+  "market_createdAt": "2024-08-26T15:23:12.467077Z",
+  "market_updatedAt": "2024-09-14T23:53:04.132399Z",
+  "market_startDate": "2024-08-26T16:12:30.07Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-14 00:20:48+00",
+  "conditionId": "0xa64f77038d7e1f73929b1ec9bb9aac05852793d537e0c47b16b5740e5fcf2f87",
+  "slug": "microphones-muted-during-abc-debate",
+  "question": "Microphones muted during ABC debate?"
+}

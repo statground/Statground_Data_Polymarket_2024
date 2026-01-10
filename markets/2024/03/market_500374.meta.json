@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-21T16:25:15.449865Z",
+  "market_createdAt": "2024-03-21T16:25:15.449865Z",
+  "market_updatedAt": "2024-05-07T23:09:52.037468Z",
+  "market_startDate": "2024-03-22T18:58:15.428Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-06 06:41:43+00",
+  "conditionId": "0x5b700dbc936e565f8dcef48845f9448064fa77ba57c2cb059dde91103d0ad990",
+  "slug": "will-uconn-win-the-ncaa-tournament-women",
+  "question": "Will Uconn win the Women's NCAA tournament?"
+}

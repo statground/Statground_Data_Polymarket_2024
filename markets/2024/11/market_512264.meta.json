@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:38:39.997208Z",
+  "market_createdAt": "2024-11-07T17:38:39.997208Z",
+  "market_updatedAt": "2024-11-16T04:44:56.733463Z",
+  "market_startDate": "2024-11-07T18:16:55.752987Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:30:55+00",
+  "conditionId": "0x396d7be702dc88e1110b52b76b91056a87abf81b8e4a961b3e4702cc308ba574",
+  "slug": "will-trump-nominate-rfk-jr-for-hhs-secretary",
+  "question": "Will Trump nominate RFK Jr. for HHS Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T19:12:17.444275Z",
+  "market_createdAt": "2024-12-06T19:12:17.444275Z",
+  "market_updatedAt": "2025-01-04T23:14:45.361198Z",
+  "market_startDate": "2024-12-13T23:19:06.20815Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-04 01:28:10+00",
+  "conditionId": "0x2babde4f966c3cf054a60ee16ff207b97b05dd03846970df4ff4cd8d09d1fffc",
+  "slug": "will-michael-van-gerwen-win-the-2024-25-pdc-world-championship",
+  "question": "Will Michael Van Gerwen win the 2024-25 PDC World Championship?"
+}

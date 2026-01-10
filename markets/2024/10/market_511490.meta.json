@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:48:34.144141Z",
+  "market_createdAt": "2024-10-31T15:48:34.144141Z",
+  "market_updatedAt": "2024-11-02T03:47:11.165843Z",
+  "market_startDate": "2024-10-31T23:34:09.066712Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 16:43:52+00",
+  "conditionId": "0xce592286d64d9b509a6bd1454ff0263b32d58c6ab24ff4976b6b2e3aff623664",
+  "slug": "will-the-jets-and-texans-combine-for-43-or-more-points",
+  "question": "Will the Jets and Texans combine for 43 or more points?"
+}

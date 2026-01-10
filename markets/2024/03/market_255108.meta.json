@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:24:03.265000Z",
+  "market_createdAt": "2024-03-01T18:24:03.265Z",
+  "market_updatedAt": "2024-11-07T15:03:01.856131Z",
+  "market_startDate": "2024-03-28T21:55:24.122Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 17:19:28+00",
+  "conditionId": "0x64421b34635bdf97a3a10ff214069c087aa2728cbc44451cfad88517e1f942a3",
+  "slug": "will-a-candidate-from-another-party-win-indiana-presidential-election",
+  "question": "Will a candidate from another party win Indiana Presidential Election?"
+}

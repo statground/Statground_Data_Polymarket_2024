@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "14414",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-11-14T16:55:01.851718Z",
+  "event_createdAt": "2024-11-14T16:55:01.851718Z",
+  "event_creationDate": "2024-11-14T17:23:08.320804Z",
+  "event_startDate": "2024-11-14T17:23:08.320807Z",
+  "event_endDate": "2024-12-11T12:00:00Z",
+  "event_updatedAt": "2025-01-31T01:13:24.145098Z",
+  "markets_len": 4,
+  "market_ids": [
+    "513017",
+    "513018",
+    "513019",
+    "513020"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10008"
+  ],
+  "series_slug": "us-monthly-inflation"
+}

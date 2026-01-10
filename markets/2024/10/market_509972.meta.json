@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T15:03:09.190973Z",
+  "market_createdAt": "2024-10-16T15:03:09.190973Z",
+  "market_updatedAt": "2024-10-28T20:12:54.561334Z",
+  "market_startDate": "2024-10-16T18:50:41.293574Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:45:54+00",
+  "conditionId": "0x457a6133557b924bc6ffc9d7d3831334072ee526b209963629496fd1b82ad500",
+  "slug": "will-another-candidate-win-the-2024-curitiba-mayoral-election",
+  "question": "Will another candidate win the 2024 Curitiba mayoral election?"
+}

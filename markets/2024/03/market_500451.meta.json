@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T17:11:06.643292Z",
+  "market_createdAt": "2024-03-26T17:11:06.643292Z",
+  "market_updatedAt": "2024-05-07T23:10:01.78469Z",
+  "market_startDate": "2024-03-26T19:06:03.271Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-05-01 14:27:14+00",
+  "conditionId": "0x5e3c5c8da8b1b3e8b316fc7387fb1ac3e19a01ebed00272be9e4577e19ab750a",
+  "slug": "will-the-safe-market-cap-be-between-2-3b-one-week-after-launch",
+  "question": "Will the $SAFE market cap be between $2-3b one week after launch?"
+}

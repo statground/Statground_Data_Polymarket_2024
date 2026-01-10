@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:39:28.641886Z",
+  "market_createdAt": "2024-11-04T18:39:28.641886Z",
+  "market_updatedAt": "2024-11-10T05:18:43.670871Z",
+  "market_startDate": "2024-11-04T18:42:14.916493Z",
+  "market_endDate": "2024-11-09T01:00:00Z",
+  "market_closedTime": "2024-11-09 05:52:39+00",
+  "conditionId": "0x8c1c71b8c23a23fc0cf5ed07332354e5122904e673e2497b897ad56c1d354745",
+  "slug": "nba-was-mem-2024-11-08",
+  "question": "Wizards vs. Grizzlies"
+}

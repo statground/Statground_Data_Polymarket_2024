@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T16:25:54.958851Z",
+  "market_createdAt": "2024-07-24T16:25:54.958851Z",
+  "market_updatedAt": "2024-07-26T01:38:41.776254Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:29:15+00",
+  "conditionId": "0xe865c2d20869d9bdc419d586de606328ce7422676dc9b287ee85eba2883e6c9e",
+  "slug": "will-biden-stumble-during-his-withdrawal-speech",
+  "question": "Will Biden stumble during his dropout speech?"
+}

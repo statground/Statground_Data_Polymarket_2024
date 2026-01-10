@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T23:01:05.199929Z",
+  "market_createdAt": "2024-12-06T23:01:05.199929Z",
+  "market_updatedAt": "2024-12-09T17:17:22.446802Z",
+  "market_startDate": "2024-12-06T23:24:57.175569Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 01:27:45+00",
+  "conditionId": "0x6914bcfdfb2f90e4c12da49c852f1d844fc1505955492982599c901f8e0ed71b",
+  "slug": "will-the-cardinals-and-seahawks-combine-for-45-or-more-points",
+  "question": "Will the Cardinals and Seahawks combine for 45 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:20:55.806605Z",
+  "market_createdAt": "2024-10-21T20:20:55.806605Z",
+  "market_updatedAt": "2024-10-25T04:07:16.366484Z",
+  "market_startDate": "2024-10-21T20:23:32.587818Z",
+  "market_endDate": "2024-10-24T00:00:00Z",
+  "market_closedTime": "2024-10-24 06:16:34+00",
+  "conditionId": "0x2ca27fd32200fe121e3560367b56faacaa29c5e75bf35ac18eee051fbd3b6ade",
+  "slug": "nba-chi-no-2024-10-23",
+  "question": "Bulls vs. Pelicans"
+}

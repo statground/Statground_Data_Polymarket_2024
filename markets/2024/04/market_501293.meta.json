@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T22:11:02.595330Z",
+  "market_createdAt": "2024-04-30T22:11:02.59533Z",
+  "market_updatedAt": "2024-05-07T23:09:35.096317Z",
+  "market_startDate": "2024-04-30T23:09:36.66Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-04 06:09:01+00",
+  "conditionId": "0x50bc3c8a8a175dc6bfb703d258a5f467c778593833451538ac1f2878ad7668f2",
+  "slug": "drake-track-drops-in-may",
+  "question": "Drake drop music in May?"
+}

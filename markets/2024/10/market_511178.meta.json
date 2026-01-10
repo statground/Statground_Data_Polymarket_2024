@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:11:40.790362Z",
+  "market_createdAt": "2024-10-28T20:11:40.790362Z",
+  "market_updatedAt": "2024-11-04T23:11:23.233517Z",
+  "market_startDate": "2024-10-28T20:14:18.370533Z",
+  "market_endDate": "2024-11-03T18:00:00Z",
+  "market_closedTime": "2024-11-04 00:00:22+00",
+  "conditionId": "0x98e59eebc6b4cd0f0af69b5b133543c261e25ba6512ad5470c92e5e1abc667e6",
+  "slug": "nfl-no-car-2024-11-03",
+  "question": "Saints vs. Panthers"
+}

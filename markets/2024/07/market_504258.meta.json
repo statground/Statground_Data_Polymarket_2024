@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T14:25:10.269032Z",
+  "market_createdAt": "2024-07-29T14:25:10.269032Z",
+  "market_updatedAt": "2024-09-02T05:07:06.722817Z",
+  "market_startDate": "2024-07-29T15:38:24.903Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:20:31+00",
+  "conditionId": "0xcd6a46ff2a22147d0d252d3d9ccc0d0a1a74d566c7ebb04b7de61027eaa5945c",
+  "slug": "will-btc-reach-70k-before-september",
+  "question": "Will $BTC reach 70k before September?"
+}

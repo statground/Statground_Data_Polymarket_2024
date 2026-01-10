@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T17:18:43.402156Z",
+  "market_createdAt": "2024-11-12T17:18:43.402156Z",
+  "market_updatedAt": "2024-12-05T02:13:29.972196Z",
+  "market_startDate": "2024-11-12T17:40:35.097Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:19:58+00",
+  "conditionId": "0xead601f91addd1755226f3848e74bf243d184076d23cbf1941072a27f0421020",
+  "slug": "will-aur-win-the-most-seats-in-the-romanian-parliamentary-election",
+  "question": "Will AUR win the most seats in the Romanian parliamentary election?"
+}

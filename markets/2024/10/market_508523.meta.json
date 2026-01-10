@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T16:54:39.306231Z",
+  "market_createdAt": "2024-10-01T16:54:39.306231Z",
+  "market_updatedAt": "2024-10-04T17:12:42.821553Z",
+  "market_startDate": "2024-10-02T14:36:17.77161Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:24:52+00",
+  "conditionId": "0x6876a18e20305174d7561869fd63ec2702942a36f01a337e2103b3777f036c3b",
+  "slug": "will-the-match-between-qarabag-and-malmo-end-in-a-draw",
+  "question": "Will the match between Qarabag and Malmo end in a Draw?"
+}

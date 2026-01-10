@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:24:28.722000Z",
+  "market_createdAt": "2024-03-05T05:24:28.722Z",
+  "market_updatedAt": "2024-04-26T02:56:03.720254Z",
+  "market_startDate": "2024-03-05T06:03:13.411Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 10:17:47+00",
+  "conditionId": "0x1a7248e2cdd92e1c77bfb974e09119943e2eac824c797abbdf3eee7f70aa687f",
+  "slug": "will-trump-win-alaska-republican-primary",
+  "question": "Will Trump win Alaska Republican Primary?"
+}

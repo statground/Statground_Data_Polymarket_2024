@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T15:18:55.697981Z",
+  "market_createdAt": "2024-06-15T15:18:55.697981Z",
+  "market_updatedAt": "2024-06-16T17:46:14.218698Z",
+  "market_startDate": "2024-06-15T15:33:51.691Z",
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-15 21:04:34+00",
+  "conditionId": "0x829005223d44eb163dbd62493f3ecadd943f21d2c9620263cf11d87f129c5a7c",
+  "slug": "will-the-match-be-a-draw",
+  "question": "Will the match be a Draw?"
+}

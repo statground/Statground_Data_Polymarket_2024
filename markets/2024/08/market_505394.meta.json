@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:04:42.097267Z",
+  "market_createdAt": "2024-08-20T00:04:42.097267Z",
+  "market_updatedAt": "2024-08-23T05:43:08.271898Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:42:42+00",
+  "conditionId": "0x31a267cba939e2c598452c77d3afb109d9f80fa6fc1998b04bd03a6c58fb6d9f",
+  "slug": "will-walz-say-abortion-at-dnc-speech",
+  "question": "Will Walz say \"Abortion\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T21:06:13.064000Z",
+  "market_createdAt": "2024-01-23T21:06:13.064Z",
+  "market_updatedAt": "2024-03-12T03:18:05.941Z",
+  "market_startDate": "2024-01-24T19:49:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:34:10+00",
+  "conditionId": "0xb27d37bdb9e9cfd4b92269fe34a9a3dc5175138c47be13c47696c8df3eaf8e80",
+  "slug": "will-jonathan-glazer-win-the-oscar-for-best-director",
+  "question": "Will Jonathan Glazer win the Oscar for Best Director?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:05:16.794969Z",
+  "market_createdAt": "2024-07-09T15:05:16.794969Z",
+  "market_updatedAt": "2025-01-13T22:57:24.779875Z",
+  "market_startDate": "2024-07-09T15:05:16.794969Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-13 00:36:15+00",
+  "conditionId": "0x0f812245214ee9e3b8e7c5057df1474a1f427e633e895b8f698da7e1d56be643",
+  "slug": "will-the-broncos-win-super-bowl-2025",
+  "question": "Will the Broncos win Super Bowl 2025?"
+}

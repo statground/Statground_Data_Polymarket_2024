@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T00:22:17.162934Z",
+  "market_createdAt": "2024-09-26T00:22:17.162934Z",
+  "market_updatedAt": "2025-05-02T00:22:34.539494Z",
+  "market_startDate": "2024-09-26T16:02:52.23Z",
+  "market_endDate": "2025-04-30T12:00:00Z",
+  "market_closedTime": "2025-05-01 08:35:15+00",
+  "conditionId": "0x669cfac096cbeeb6e07a8b7d6371552120ee6ba5bae1c4c209654068d35169d7",
+  "slug": "us-recession-announced-by-nber-before-june-2025",
+  "question": "U.S. recession before May 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T15:59:19.596402Z",
+  "market_createdAt": "2024-09-12T15:59:19.596402Z",
+  "market_updatedAt": "2024-09-16T21:56:40.617194Z",
+  "market_startDate": "2024-09-12T16:38:49.27707Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-15 23:18:25+00",
+  "conditionId": "0x42e10e19c55bc94ca2f503eb4e8074c80d81cab664db45b3102dcfa7303fc94f",
+  "slug": "will-buccaneers-vs-lions-be-the-highest-scoring-game",
+  "question": "Will Buccaneers vs. Lions be the highest scoring game Week 2?"
+}

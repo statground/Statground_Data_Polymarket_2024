@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:39:38.731342Z",
+  "market_createdAt": "2024-08-21T01:39:38.731342Z",
+  "market_updatedAt": "2024-08-25T18:22:48.375431Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:22:51+00",
+  "conditionId": "0xaaff9f64d2ae592f819349438e675257aaa5cbda2c7ddf8c04623ee4d5a9f1fe",
+  "slug": "will-manchester-city-vs-ipswich-town-end-in-a-draw",
+  "question": "Will Manchester City vs. Ipswich Town end in a draw?"
+}

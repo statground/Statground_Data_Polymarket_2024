@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:49:46.178033Z",
+  "market_createdAt": "2024-12-29T18:49:46.178033Z",
+  "market_updatedAt": "2026-01-02T08:32:08.213242Z",
+  "market_startDate": "2024-12-29T22:51:03.038Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:36:35+00",
+  "conditionId": "0x641c8b680947405e097da700c54f344556bb59e2093acdf1576c1c68e795bddf",
+  "slug": "netanyahu-out-in-2025-492",
+  "question": "Netanyahu out by 2025?"
+}

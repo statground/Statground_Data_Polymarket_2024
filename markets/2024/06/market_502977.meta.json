@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T16:30:58.354725Z",
+  "market_createdAt": "2024-06-28T16:30:58.354725Z",
+  "market_updatedAt": "2024-06-30T22:31:03.737181Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-30 00:40:35+00",
+  "conditionId": "0x9a669aec62871adb541da86ebf319ceef2b77951587ba289aabc84c6223938df",
+  "slug": "will-germany-win-june-29",
+  "question": "Will Germany Win?"
+}

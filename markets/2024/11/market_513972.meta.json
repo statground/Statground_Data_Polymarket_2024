@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T18:25:19.458119Z",
+  "market_createdAt": "2024-11-25T18:25:19.458119Z",
+  "market_updatedAt": "2024-12-21T01:55:09.770729Z",
+  "market_startDate": "2024-11-25T22:11:06.304Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 02:32:03+00",
+  "conditionId": "0x25fb5cff767eb77b44b537461eaccd51db3aac58be6e60e1ce8721d6a13707a7",
+  "slug": "will-bonk-be-listed-first-on-robinhood",
+  "question": "Will $BONK be listed first on Robinhood?"
+}

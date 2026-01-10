@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:17:18.768907Z",
+  "market_createdAt": "2024-11-01T16:17:18.768907Z",
+  "market_updatedAt": "2024-11-06T10:53:10.989817Z",
+  "market_startDate": "2024-11-01T16:19:59.048988Z",
+  "market_endDate": "2024-11-05T01:45:00Z",
+  "market_closedTime": "2024-11-05 11:01:42+00",
+  "conditionId": "0xa63b995890e04156321e29cd4a9ca4973bc766bad3e2dbab447ce07ea5f21197",
+  "slug": "nba-nyk-hou-2024-11-04",
+  "question": "Knicks vs. Rockets"
+}

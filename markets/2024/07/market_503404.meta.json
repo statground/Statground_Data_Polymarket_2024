@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T20:41:19.431166Z",
+  "market_createdAt": "2024-07-11T20:41:19.431166Z",
+  "market_updatedAt": "2024-07-21T05:50:42.371711Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-20 06:03:06+00",
+  "conditionId": "0x172c6b99e6388888f89496ec042546b408614ed3b907990c6f7ee67ec7cad6b3",
+  "slug": "biden-drops-out-by-july-19",
+  "question": "Biden drops out by July 19?"
+}

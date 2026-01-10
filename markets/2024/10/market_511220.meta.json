@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:43:10.654084Z",
+  "market_createdAt": "2024-10-28T20:43:10.654084Z",
+  "market_updatedAt": "2024-11-01T03:52:54.650455Z",
+  "market_startDate": "2024-10-28T20:45:46.862854Z",
+  "market_endDate": "2024-10-30T23:00:00Z",
+  "market_closedTime": "2024-10-31 03:48:38+00",
+  "conditionId": "0x45df63f0a847ae39b23bd1b61ca741b0714b00019bf5e5f165b4a7e655b2f92c",
+  "slug": "nba-det-phi-2024-10-30",
+  "question": "Pistons vs. 76ers"
+}

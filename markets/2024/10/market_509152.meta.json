@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:02:10.629298Z",
+  "market_createdAt": "2024-10-07T22:02:10.629298Z",
+  "market_updatedAt": "2024-11-23T12:44:51.417652Z",
+  "market_startDate": "2024-10-08T16:46:14.157928Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-23 06:00:29+00",
+  "conditionId": "0xc9d34f2e630e8ae06290c17fe8cf49ae5ae49f81e2d2583ea0a13db5083e1341",
+  "slug": "will-the-democratic-candidate-win-georgia-by-1pt0-2pt0",
+  "question": "Will the Democratic candidate win Georgia by 1.0%-2.0%?"
+}

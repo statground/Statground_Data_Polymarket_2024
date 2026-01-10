@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:02:06.051305Z",
+  "market_createdAt": "2024-10-03T22:02:06.051305Z",
+  "market_updatedAt": "2025-03-31T03:30:57.37066Z",
+  "market_startDate": "2024-10-04T15:23:24.878657Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-03-30 05:23:23+00",
+  "conditionId": "0xaebedc5421642081456c8290263ac6542f2e5bf2dbf4604deec9f20d5f6e84e5",
+  "slug": "will-the-philadelphia-76ers-win-the-eastern-conference",
+  "question": "Will the Philadelphia 76ers win the Eastern Conference?"
+}

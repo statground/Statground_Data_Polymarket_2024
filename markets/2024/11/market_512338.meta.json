@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T23:43:41.308270Z",
+  "market_createdAt": "2024-11-07T23:43:41.30827Z",
+  "market_updatedAt": "2025-05-01T16:20:33.655428Z",
+  "market_startDate": "2024-11-08T00:12:45.177Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2025-05-01 09:03:43+00",
+  "conditionId": "0xa2f0eb0b70c25a2f4c5c0493b593a36c35d3fe964e51f306ec0ad1f76be2da85",
+  "slug": "will-marcel-ciolacu-win-the-2024-romanian-presidential-election",
+  "question": "Will Marcel Ciolacu win the 2024 Romanian Presidential election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T02:00:40.902034Z",
+  "market_createdAt": "2024-10-10T02:00:40.902034Z",
+  "market_updatedAt": "2025-01-24T22:49:13.280582Z",
+  "market_startDate": "2024-10-24T21:28:50.56686Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:45:12+00",
+  "conditionId": "0x77db05e9d5850b4cad32ae9a7d071364211050011938690d6752459482e1b9a6",
+  "slug": "will-fred-warner-win-nfl-defensive-player-of-the-year",
+  "question": "Will Fred Warner win NFL Defensive Player of the Year?"
+}

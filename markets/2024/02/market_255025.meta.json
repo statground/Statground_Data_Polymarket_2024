@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T22:00:19.572000Z",
+  "market_createdAt": "2024-02-29T22:00:19.572Z",
+  "market_updatedAt": "2024-04-26T03:01:58.69551Z",
+  "market_startDate": "2024-02-29T23:11:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 03:46:26+00",
+  "conditionId": "0x827b341aaeb98dffae029e1393b553d3a12a8622bc69665285e1cc2cc27d144c",
+  "slug": "will-minnesota-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Minnesota be Trump's worst state on Super Tuesday?"
+}

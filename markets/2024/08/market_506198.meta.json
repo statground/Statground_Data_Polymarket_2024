@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T20:47:33.874715Z",
+  "market_createdAt": "2024-08-30T20:47:33.874715Z",
+  "market_updatedAt": "2024-10-02T06:06:48.632528Z",
+  "market_startDate": "2024-08-30T20:52:46.567Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:12:40+00",
+  "conditionId": "0xf763da232a56ed3ae55d6986b445db0ba4c6f7a53e9f91891dde750e18ae45b9",
+  "slug": "will-brazil-unban-x-before-october",
+  "question": "Will Brazil unban X before October?"
+}

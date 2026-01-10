@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:37:55.221687Z",
+  "market_createdAt": "2024-09-27T20:37:55.221687Z",
+  "market_updatedAt": "2024-09-30T16:42:40.289114Z",
+  "market_startDate": "2024-09-27T22:01:53.65915Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 21:55:40+00",
+  "conditionId": "0x6fcad835ce72e91e77b33bdaca1bd2e3e61135bfc9aab91046ed397b940ec561",
+  "slug": "ind-vs-pit-will-there-be-41-or-more-combined-points-scored",
+  "question": "IND vs. PIT: Will there be 41 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:28:34.950209Z",
+  "market_createdAt": "2024-11-05T19:28:34.950209Z",
+  "market_updatedAt": "2024-11-11T01:08:49.800996Z",
+  "market_startDate": "2024-11-05T19:31:15.73058Z",
+  "market_endDate": "2024-11-09T20:00:00Z",
+  "market_closedTime": "2024-11-10 01:12:23+00",
+  "conditionId": "0x8b1baec1787f889e74b058aaba2db12e7f4b7d530bf6eae8bf8f7121fa3e16a7",
+  "slug": "epl-liv-ast-2024-11-09-draw",
+  "question": "Will Liverpool vs. Villa end in a draw?"
+}

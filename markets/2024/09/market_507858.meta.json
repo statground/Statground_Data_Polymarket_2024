@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:19:25.773874Z",
+  "market_createdAt": "2024-09-24T15:19:25.773874Z",
+  "market_updatedAt": "2025-05-24T06:31:06.414104Z",
+  "market_startDate": "2024-09-24T17:05:36.949Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-03-28 05:52:38+00",
+  "conditionId": "0x2ee656b8bc037e24df53a6b1e33bd9ad12c913c065f564d965ebbfc79b5a4a8b",
+  "slug": "will-the-brooklyn-nets-win-the-2025-nba-finals",
+  "question": "Will the Brooklyn Nets win the 2025 NBA Finals?"
+}

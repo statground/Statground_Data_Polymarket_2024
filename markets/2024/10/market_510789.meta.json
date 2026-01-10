@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T16:22:57.022132Z",
+  "market_createdAt": "2024-10-24T16:22:57.022132Z",
+  "market_updatedAt": "2024-10-29T01:17:10.068823Z",
+  "market_startDate": "2024-10-24T17:01:24.478571Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:37:57+00",
+  "conditionId": "0x8f1f372083aa181ce37d6c38bff8db30bd85f2bac03e8ded120efd300f01ec2c",
+  "slug": "will-the-liberal-democratic-party-win-the-most-seats-in-the-2024-japanese-general-election",
+  "question": "Will the Liberal Democratic Party win the most seats in the 2024 Japanese general election?"
+}

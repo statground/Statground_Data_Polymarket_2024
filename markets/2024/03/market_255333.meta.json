@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T17:29:32.817000Z",
+  "market_createdAt": "2024-03-07T17:29:32.817Z",
+  "market_updatedAt": "2024-05-07T23:09:57.130233Z",
+  "market_startDate": "2024-03-07T17:52:56.815Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:47:29+00",
+  "conditionId": "0x0fae1cd8cf19f2e0480edea0fb4b67ea1496baec066ca2c125b93015120f4da5",
+  "slug": "will-x-remove-likes-reposts-counter-in-march",
+  "question": "Will X remove likes + reposts counter in March?"
+}

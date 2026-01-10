@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:01:46.555804Z",
+  "market_createdAt": "2024-12-31T19:01:46.555804Z",
+  "market_updatedAt": "2025-01-21T18:03:51.768029Z",
+  "market_startDate": "2024-12-31T19:05:29.73Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 00:38:22+00",
+  "conditionId": "0x223433f5748810af91f2548aa48407a904e249cc2f8bf9622f802fd5760ab0bb",
+  "slug": "will-chris-christie-attend-presidential-inauguration",
+  "question": "Will Chris Christie attend presidential inauguration?"
+}

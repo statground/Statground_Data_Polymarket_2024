@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:38:22.768000Z",
+  "market_createdAt": "2024-03-01T18:38:22.768Z",
+  "market_updatedAt": "2024-11-07T02:03:07.803869Z",
+  "market_startDate": "2024-03-28T21:53:44.193Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 14:55:32+00",
+  "conditionId": "0x1b82732ec6cfdd41beb8dbbe434a5e94c852bae6ecbf13118187bac4db7863cf",
+  "slug": "will-a-candidate-from-another-party-win-ohio-presidential-election",
+  "question": "Will a candidate from another party win Ohio Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:45:29.528880Z",
+  "market_createdAt": "2024-07-26T23:45:29.52888Z",
+  "market_updatedAt": "2024-08-05T17:46:55.19444Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 18:20:47+00",
+  "conditionId": "0x998c5449dec2c85221a766ca25d27244d7ebe1850997060846dec34971b6faa5",
+  "slug": "will-novak-djokovic-srb-win-gold-in-mens-tennis",
+  "question": "Will Novak Djokovic (SRB) win Gold in Men's Tennis?"
+}

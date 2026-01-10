@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-31T06:48:44.984014Z",
+  "market_createdAt": "2024-03-31T06:48:44.984014Z",
+  "market_updatedAt": "2024-05-07T23:09:54.96273Z",
+  "market_startDate": "2024-03-31T06:55:08.801Z",
+  "market_endDate": "2024-03-31T12:00:00Z",
+  "market_closedTime": "2024-04-01 01:36:26+00",
+  "conditionId": "0xe9624e5bbc4e5345a7aacb58b1168cb9f924a48d36d6322818381927c1376029",
+  "slug": "march-madness-duke-vs-nc-state",
+  "question": "March Madness: Duke vs. NC State"
+}

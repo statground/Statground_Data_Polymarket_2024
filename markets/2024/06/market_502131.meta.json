@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T17:49:59.678401Z",
+  "market_createdAt": "2024-06-05T17:49:59.678401Z",
+  "market_updatedAt": "2024-06-16T22:06:14.668913Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 04:04:26+00",
+  "conditionId": "0xd55864981128f377a61e0ad69eeb4ca52eb78239b047f94d478ff229379ceab8",
+  "slug": "will-pd-receive-more-than-20-of-votes",
+  "question": "Will PD receive more than 20% of votes?"
+}

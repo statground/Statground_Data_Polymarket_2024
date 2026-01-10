@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T18:12:32.047347Z",
+  "market_createdAt": "2024-09-30T18:12:32.047347Z",
+  "market_updatedAt": "2024-10-03T03:12:43.121826Z",
+  "market_startDate": "2024-09-30T18:18:08.114174Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:30:18+00",
+  "conditionId": "0x6f10ff7390ad54eda94c4d259f99f53456ab0c02c16f54ac7d5e6c20183083c7",
+  "slug": "will-tim-walz-say-israel-during-the-debate",
+  "question": "Will Tim Walz say \"Israel\" during the debate?"
+}

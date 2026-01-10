@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T18:13:15.595856Z",
+  "market_createdAt": "2024-12-23T18:13:15.595856Z",
+  "market_updatedAt": "2025-01-01T01:16:40.642737Z",
+  "market_startDate": "2024-12-23T19:20:19.43Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 05:30:08+00",
+  "conditionId": "0x7d79193e03fe576adf2f7ea3d4c82198aae3cbcfd4699930da23d9ffe6776ec8",
+  "slug": "will-olexandr-bortnyk-win-the-2024-world-blitz-championship-open",
+  "question": "Will Olexandr Bortnyk win the 2024 World Blitz Championship?"
+}

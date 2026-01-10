@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:23:30.999853Z",
+  "market_createdAt": "2024-09-17T17:23:30.999853Z",
+  "market_updatedAt": "2025-04-18T00:30:42.69428Z",
+  "market_startDate": "2024-09-17T18:11:16.744171Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-17 01:00:31+00",
+  "conditionId": "0x336b836bc093abf16cfedb2388de47cad0b0eab32f46ebbce67fd37053a9aa4b",
+  "slug": "will-bayern-munich-win-the-uefa-champions-league",
+  "question": "Will Bayern Munich win the UEFA Champions League?"
+}

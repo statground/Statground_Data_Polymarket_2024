@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:43:31.138157Z",
+  "market_createdAt": "2024-08-28T19:43:31.138157Z",
+  "market_updatedAt": "2025-01-28T02:53:31.336714Z",
+  "market_startDate": "2024-08-28T19:43:31.138157Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-27 06:44:01+00",
+  "conditionId": "0xf4228d1c1dc61231e3fac31b0c20884ba64f93fdfbe08704990720b04408d337",
+  "slug": "will-the-bills-win-the-afc-championship",
+  "question": "Will the Bills win the AFC Championship?"
+}

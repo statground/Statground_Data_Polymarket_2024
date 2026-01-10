@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:50:35.874666Z",
+  "market_createdAt": "2024-07-25T16:50:35.874666Z",
+  "market_updatedAt": "2024-07-28T17:43:03.648705Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:32:03+00",
+  "conditionId": "0xf5565d75dfdc446eacd9ad2d5a66919ddb9c00933fe62ee17688890efd06681b",
+  "slug": "will-felix-auboeck-aut-win-gold-in-mens-400m-freestyle",
+  "question": "Will Felix Auboeck (AUT) win Gold in Men's 400m Freestyle?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:25:07.130073Z",
+  "market_createdAt": "2024-10-22T15:25:07.130073Z",
+  "market_updatedAt": "2024-10-26T06:16:55.563644Z",
+  "market_startDate": "2024-10-22T21:45:01.068Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:17:53+00",
+  "conditionId": "0x59f5668e66dd12d11be233b9b524bd7116262e3942e483e4cded8f99afc86927",
+  "slug": "will-trump-say-american-dream-3-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"American dream\" 3 or more times during Las Vegas rally on October 24?"
+}

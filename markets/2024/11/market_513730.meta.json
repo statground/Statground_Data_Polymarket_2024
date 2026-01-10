@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T17:15:42.824359Z",
+  "market_createdAt": "2024-11-22T17:15:42.824359Z",
+  "market_updatedAt": "2024-11-30T20:19:16.649331Z",
+  "market_startDate": "2024-11-22T17:36:55.337141Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-29 20:19:30+00",
+  "conditionId": "0xa271f5a1f5e4a9df4a379da126a72bc91fe860202ed560afd75f33ed4e98b28e",
+  "slug": "will-trump-tweet-less-than-5-times-nov-22-29",
+  "question": "Will Trump tweet less than 5 times Nov 22-29?"
+}

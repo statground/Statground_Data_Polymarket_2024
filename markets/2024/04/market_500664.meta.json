@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:14:16.091991Z",
+  "market_createdAt": "2024-04-04T15:14:16.091991Z",
+  "market_updatedAt": "2024-11-07T19:39:02.222034Z",
+  "market_startDate": "2024-04-12T20:03:17.538Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:32:12+00",
+  "conditionId": "0xa18cb4ddd1d312ec2fb6bfcfd1bfac967bfbd1aa542f750b9589632962fa3564",
+  "slug": "will-a-republican-win-washington-us-senate-election",
+  "question": "Will a Republican win Washington US Senate Election?"
+}

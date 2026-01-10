@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T19:42:04.169000Z",
+  "market_createdAt": "2024-03-05T19:42:04.169Z",
+  "market_updatedAt": "2024-04-26T03:00:46.225094Z",
+  "market_startDate": "2024-03-06T19:21:37.795Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 06:32:07+00",
+  "conditionId": "0x2a2f3746c1b81eb0f704a5739436080f6d4bc9402e6c4160286c233435645529",
+  "slug": "will-biden-say-bitcoin-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"Bitcoin\" during his State of the Union address?"
+}

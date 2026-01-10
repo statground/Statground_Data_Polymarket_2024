@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T18:14:15.541716Z",
+  "market_createdAt": "2024-06-19T18:14:15.541716Z",
+  "market_updatedAt": "2024-06-25T08:06:12.679242Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-24 09:03:44+00",
+  "conditionId": "0xca11f01e49ff6da1f65360f7f49a6418d3df2b2a1c9d4d1e4cd2ef289f8ffa83",
+  "slug": "will-the-united-states-win-the-icc-t20-cricket-world-cup",
+  "question": "Will the United States win the ICC T20 Cricket World Cup?"
+}

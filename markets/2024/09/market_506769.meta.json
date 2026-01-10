@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T18:07:16.369707Z",
+  "market_createdAt": "2024-09-10T18:07:16.369707Z",
+  "market_updatedAt": "2024-09-16T18:46:44.446281Z",
+  "market_startDate": "2024-09-10T18:41:49.352857Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 19:39:50+00",
+  "conditionId": "0x29bdf54d14e9ec1b2777ef02b4ff0180edf9a27b303a2099adf5f47890a45111",
+  "slug": "will-lando-norris-win-the-azerbaijan-grand-prix",
+  "question": "Will Lando Norris win the Azerbaijan Grand Prix?"
+}

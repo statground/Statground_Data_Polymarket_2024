@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T19:47:07.190684Z",
+  "market_createdAt": "2024-03-19T19:47:07.190684Z",
+  "market_updatedAt": "2024-05-07T23:09:35.084369Z",
+  "market_startDate": "2024-03-19T19:49:40.236Z",
+  "market_endDate": "2024-03-31T07:00:00Z",
+  "market_closedTime": "2024-04-01 06:11:22+00",
+  "conditionId": "0x916f793951e5ec44d26f38322be2f4edb522ea25b910e8e9cb58dcd3aa8faa5d",
+  "slug": "kate-middleton-video-fake",
+  "question": "Kate Middleton video fake?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:16:25.167577Z",
+  "market_createdAt": "2024-12-01T05:16:25.167577Z",
+  "market_updatedAt": "2024-12-09T05:03:19.683555Z",
+  "market_startDate": "2024-12-01T05:19:56.371356Z",
+  "market_endDate": "2024-12-15T01:00:00Z",
+  "market_closedTime": "2024-12-08 05:40:33+00",
+  "conditionId": "0x9af6c7fe8ce57447c4cc64d754f7facd716d2d2185d50cc267c700b4f5f27013",
+  "slug": "nba-mem-bos-2024-12-07",
+  "question": "Grizzlies vs. Celtics"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T02:35:26.197000Z",
+  "market_createdAt": "2024-01-06T02:35:26.197Z",
+  "market_updatedAt": "2024-04-26T02:58:45.484472Z",
+  "market_startDate": "2024-01-06T09:11:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-01-22 06:01:08+00",
+  "conditionId": "0xccaa44c7d3be9bde239962b41d8e67adb707098e8bef0766b113f3adbb9b293f",
+  "slug": "will-the-buffalo-bills-win-super-bowl-lviii",
+  "question": "Will the Buffalo Bills win Super Bowl LVIII?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:14:52.748555Z",
+  "market_createdAt": "2024-12-30T22:14:52.748555Z",
+  "market_updatedAt": "2025-01-01T21:27:28.265069Z",
+  "market_startDate": "2024-12-30T23:05:15.778549Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:18:16+00",
+  "conditionId": "0xce2c205acd67936e7c6451f9f7984643bd63fdf9414aa6b2505ae22cf0f9e15f",
+  "slug": "will-penn-state-win-the-fiesta-bowl",
+  "question": "Will Penn State win the Fiesta Bowl?"
+}

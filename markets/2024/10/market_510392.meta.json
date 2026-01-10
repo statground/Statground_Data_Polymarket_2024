@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:39:57.085570Z",
+  "market_createdAt": "2024-10-21T20:39:57.08557Z",
+  "market_updatedAt": "2024-10-30T03:11:12.438253Z",
+  "market_startDate": "2024-10-21T20:42:32.184245Z",
+  "market_endDate": "2024-10-28T23:30:00Z",
+  "market_closedTime": "2024-10-29 04:43:07+00",
+  "conditionId": "0x090a97d3a45ed7c182cb4250384db88a980a9b9c13ccde52f0276f566a7dbe2c",
+  "slug": "nba-den-tor-2024-10-28",
+  "question": "Nuggets vs. Raptors"
+}

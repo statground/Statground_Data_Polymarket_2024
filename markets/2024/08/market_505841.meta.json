@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:11:51.492765Z",
+  "market_createdAt": "2024-08-26T20:11:51.492765Z",
+  "market_updatedAt": "2024-09-02T17:43:04.158601Z",
+  "market_startDate": "2024-08-26T20:11:51.492765Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 20:11:24+00",
+  "conditionId": "0x0f69c362da4dddd255e8bb6496a45190a2617037066dc401696e9e40a75a41f2",
+  "slug": "will-manchester-united-beat-liverpool",
+  "question": "Will Manchester United beat Liverpool?"
+}

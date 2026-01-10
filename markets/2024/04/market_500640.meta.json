@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T22:28:25.603084Z",
+  "market_createdAt": "2024-04-02T22:28:25.603084Z",
+  "market_updatedAt": "2024-11-15T06:28:57.458111Z",
+  "market_startDate": "2024-04-24T19:25:04.621Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 06:59:54+00",
+  "conditionId": "0x4302790173d1f5b438ac937d1fd64360f8a134589f3d490626f7c1f67b2b3611",
+  "slug": "2024-balance-of-power-other",
+  "question": "2024 Balance of Power: Other"
+}

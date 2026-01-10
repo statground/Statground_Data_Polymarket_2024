@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:32:15.637200Z",
+  "market_createdAt": "2024-12-27T16:32:15.6372Z",
+  "market_updatedAt": "2025-01-04T18:40:40.374113Z",
+  "market_startDate": "2024-12-27T17:19:55.360753Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-03 19:07:30+00",
+  "conditionId": "0x97480fb1ea30619d6682bedb183289eccf60da180311c8ba45985dcba13a05d6",
+  "slug": "solana-above-185-on-january-3",
+  "question": "Solana above $185 on January 3?"
+}

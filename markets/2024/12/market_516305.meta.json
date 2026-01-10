@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:03:18.720433Z",
+  "market_createdAt": "2024-12-23T05:03:18.720433Z",
+  "market_updatedAt": "2024-12-29T09:20:09.851767Z",
+  "market_startDate": "2024-12-23T05:05:51.587034Z",
+  "market_endDate": "2025-01-04T03:30:00Z",
+  "market_closedTime": "2024-12-28 09:18:22+00",
+  "conditionId": "0x258f54c21f8930e185222e6a2145bb6a57cc5104fde3ff4a8f4d25e97c6529bc",
+  "slug": "cfb-txam-usc-2024-12-27",
+  "question": "Texas A&M vs. USC"
+}

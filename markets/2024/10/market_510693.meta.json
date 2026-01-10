@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:15:56.100384Z",
+  "market_createdAt": "2024-10-23T15:15:56.100384Z",
+  "market_updatedAt": "2024-11-06T07:27:11.496837Z",
+  "market_startDate": "2024-10-23T17:16:10.367Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:22:33+00",
+  "conditionId": "0x68632aaac0bd7cf6f6a7b633895cfa8cba1e3f2cd158f10aff7cd25be88da7a8",
+  "slug": "will-rogan-announce-hes-voting-trump",
+  "question": "Will Joe Rogan announce he is voting for Trump?"
+}

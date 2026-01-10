@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T15:20:29.867621Z",
+  "market_createdAt": "2024-08-20T15:20:29.867621Z",
+  "market_updatedAt": "2024-08-22T03:56:56.634181Z",
+  "market_startDate": "2024-08-20T18:58:39.034Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:05:56+00",
+  "conditionId": "0xa82c49b311b3bb5ff0020c6005f7c3972c4fd179fb448a148e047ee3cff5cf9e",
+  "slug": "will-obama-say-thank-you-7-or-more-times-at-dnc-speech",
+  "question": "Will Obama say \"Thank you\" 7 or more times at DNC speech?"
+}

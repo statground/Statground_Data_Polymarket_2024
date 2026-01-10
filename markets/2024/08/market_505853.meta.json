@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:15:48.770891Z",
+  "market_createdAt": "2024-08-26T20:15:48.770891Z",
+  "market_updatedAt": "2024-09-10T00:31:09.494594Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:24:13+00",
+  "conditionId": "0x8a01543e2814dce9a9ea5a01af633656db4c799058c5c61e3b66fb6a51749e2c",
+  "slug": "nfl-sea-den-2024-09-08",
+  "question": "Seahawks vs. Broncos"
+}

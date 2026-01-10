@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T21:05:18.611619Z",
+  "market_createdAt": "2024-09-17T21:05:18.611619Z",
+  "market_updatedAt": "2024-09-30T23:12:44.501903Z",
+  "market_startDate": "2024-09-17T23:22:01.147864Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 00:35:28+00",
+  "conditionId": "0x88b4d696d697bec49eb3a59c1e1649b65740b7b23ec833335252421a014a919e",
+  "slug": "will-another-party-win-the-most-seats-in-the-2024-austrian-legislative-election",
+  "question": "Will another party win the most seats in the 2024 Austrian legislative election?"
+}

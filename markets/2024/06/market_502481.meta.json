@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T21:40:44.244914Z",
+  "market_createdAt": "2024-06-14T21:40:44.244914Z",
+  "market_updatedAt": "2024-07-02T06:00:50.555996Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 08:43:44+00",
+  "conditionId": "0xa1d3936d8ee4280c48dd80488ab8ac6fc812a522725e1a5e5018d67b3d0c9d1c",
+  "slug": "will-eth-dip-below-3000-in-june",
+  "question": "Will ETH dip below $3,000 in June?"
+}

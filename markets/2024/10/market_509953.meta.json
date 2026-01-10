@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:27:41.523783Z",
+  "market_createdAt": "2024-10-15T20:27:41.523783Z",
+  "market_updatedAt": "2024-10-22T02:47:15.436191Z",
+  "market_startDate": "2024-10-16T17:13:03.072807Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:18:32+00",
+  "conditionId": "0x2011c4bdfac0b76d843af3caf903af8253a5be36322d32259db6c17ddeda42b2",
+  "slug": "will-oscar-piastri-win-the-united-states-grand-prix",
+  "question": "Will Oscar Piastri win the United States Grand Prix?"
+}

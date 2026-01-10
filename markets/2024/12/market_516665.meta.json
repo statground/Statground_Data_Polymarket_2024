@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:03:58.662201Z",
+  "market_createdAt": "2024-12-29T07:03:58.662201Z",
+  "market_updatedAt": "2025-01-01T22:49:16.394531Z",
+  "market_startDate": "2024-12-29T07:06:31.760024Z",
+  "market_endDate": "2025-01-07T20:00:00Z",
+  "market_closedTime": "2025-01-01 00:49:45+00",
+  "conditionId": "0x8b44bf7309217cef92cdce2abb9429743f7b4e8a312a71a3607949398eb9bebb",
+  "slug": "nhl-mon-las-2024-12-31",
+  "question": "Canadiens vs. Golden Knights"
+}

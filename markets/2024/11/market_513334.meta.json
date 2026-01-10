@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:19:55.295371Z",
+  "market_createdAt": "2024-11-18T15:19:55.295371Z",
+  "market_updatedAt": "2024-12-09T16:07:14.385525Z",
+  "market_startDate": "2024-11-18T16:23:06.074Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-08 16:02:50+00",
+  "conditionId": "0x9ce4ce441b98560634b67589135dac0034a45edaacf13455c9add1ddbb6b7dec",
+  "slug": "will-assad-remain-president-of-syria-through-2024",
+  "question": "Will Assad remain President of Syria through 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:31:34.252726Z",
+  "market_createdAt": "2024-10-21T16:31:34.252726Z",
+  "market_updatedAt": "2024-10-25T03:01:07.757158Z",
+  "market_startDate": "2024-10-21T21:31:04.783Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:02:02+00",
+  "conditionId": "0xb8a880cda91a139682a5ea2753ba89f32c598d633f6136743e38767d4fbf8723",
+  "slug": "will-trump-say-frack-or-fracking-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"frack\" or \"fracking\" during Georgia rally on October 23?"
+}

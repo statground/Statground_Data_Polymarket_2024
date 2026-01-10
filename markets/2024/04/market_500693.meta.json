@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T16:33:02.745176Z",
+  "market_createdAt": "2024-04-04T16:33:02.745176Z",
+  "market_updatedAt": "2024-11-08T01:03:06.327313Z",
+  "market_startDate": "2024-04-12T19:41:04.772Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:44:02+00",
+  "conditionId": "0xfae4fdaf7036a338e7ec27b790ed39e7d11b64dc0bd26cdd5e8ccb01ffc433b9",
+  "slug": "will-a-republican-win-missouri-us-senate-election",
+  "question": "Will a Republican win Missouri US Senate Election?"
+}

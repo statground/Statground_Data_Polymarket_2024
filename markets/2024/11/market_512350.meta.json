@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T15:43:46.874601Z",
+  "market_createdAt": "2024-11-08T15:43:46.874601Z",
+  "market_updatedAt": "2024-12-18T21:33:26.193795Z",
+  "market_startDate": "2024-11-08T15:56:03.71742Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:57:24+00",
+  "conditionId": "0x0dfc286abc4e61acf80284882330e7f6a20ff8e5f4fff757912349c5f7d298ac",
+  "slug": "gop-wins-popular-vote-by-less-than-1pt5",
+  "question": "GOP wins popular vote by less than 1.5%?"
+}

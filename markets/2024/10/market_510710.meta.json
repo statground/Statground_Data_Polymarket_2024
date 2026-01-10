@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:37:22.906450Z",
+  "market_createdAt": "2024-10-23T17:37:22.90645Z",
+  "market_updatedAt": "2024-10-28T22:07:14.210322Z",
+  "market_startDate": "2024-10-23T22:25:28.959163Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:15:09+00",
+  "conditionId": "0x9656266701609c4bd4ce21e4fde24ebeffb263eb8ce3180688766d58e99cafcd",
+  "slug": "will-charles-leclerc-win-the-mexico-city-grand-prix",
+  "question": "Will Charles Leclerc win the Mexico City Grand Prix?"
+}

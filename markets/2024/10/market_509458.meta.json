@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:30:55.960343Z",
+  "market_createdAt": "2024-10-09T21:30:55.960343Z",
+  "market_updatedAt": "2024-10-11T21:36:46.467681Z",
+  "market_startDate": "2024-10-09T22:45:13.662899Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 23:54:56+00",
+  "conditionId": "0x4f0487f76e2691fcb843c70194fc7dca9736b41eff8b9fa77683c9c1e2278359",
+  "slug": "will-the-match-between-israel-and-france-end-in-a-draw",
+  "question": "Will the match between Israel and France end in a draw?"
+}

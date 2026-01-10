@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T22:41:08.013244Z",
+  "market_createdAt": "2024-05-31T22:41:08.013244Z",
+  "market_updatedAt": "2024-08-07T15:32:51.768945Z",
+  "market_startDate": "2024-06-01T00:46:37.716Z",
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-08-06 16:29:49+00",
+  "conditionId": "0x6b695afb2a8a7365da46d41863107d09f6756f0e99a7da1da49a558dd0dff586",
+  "slug": "will-another-candidate-win-the-2024-venezuela-presidential-election-ites",
+  "question": "Will another candidate Win the 2024 Venezuela presidential election?"
+}

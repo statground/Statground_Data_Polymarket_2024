@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T17:28:04.126688Z",
+  "market_createdAt": "2024-10-14T17:28:04.126688Z",
+  "market_updatedAt": "2024-10-18T22:22:54.590103Z",
+  "market_startDate": "2024-10-14T23:42:40.26737Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-17 23:48:52+00",
+  "conditionId": "0x5c17308054d44b402b7b2893d17a1519b9a392c23b476e2eeed627e00f2b99a0",
+  "slug": "will-another-player-win-the-2024-wr-chess-masters-cup",
+  "question": "Will another player win the 2024 WR Chess Masters Cup?"
+}

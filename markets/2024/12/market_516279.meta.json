@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:05:40.416408Z",
+  "market_createdAt": "2024-12-22T07:05:40.416408Z",
+  "market_updatedAt": "2024-12-29T04:34:55.827557Z",
+  "market_startDate": "2024-12-22T07:08:12.572411Z",
+  "market_endDate": "2025-01-04T00:00:00Z",
+  "market_closedTime": "2024-12-28 04:38:18+00",
+  "conditionId": "0x6c060841f27b3f425573945deaaf90abfea577721f95490df2c359e7b19338f3",
+  "slug": "nhl-bos-cbj-2024-12-27",
+  "question": "Bruins vs. Blue Jackets"
+}

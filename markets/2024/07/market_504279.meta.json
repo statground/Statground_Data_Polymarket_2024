@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T17:36:13.636191Z",
+  "market_createdAt": "2024-07-29T17:36:13.636191Z",
+  "market_updatedAt": "2024-11-06T06:31:17.092033Z",
+  "market_startDate": "2024-07-29T17:36:13.636191Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:53:57+00",
+  "conditionId": "0xa00c7de8603d117632567b9a7e73d788626ea8fbb4ae7309bf9c070aa0319975",
+  "slug": "will-us-sell-silk-road-btc-before-election",
+  "question": "Will US sell Silk Road BTC before election?"
+}

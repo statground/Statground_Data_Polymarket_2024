@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:34:07.474063Z",
+  "market_createdAt": "2024-12-10T19:34:07.474063Z",
+  "market_updatedAt": "2025-01-24T16:18:41.549974Z",
+  "market_startDate": "2024-12-11T19:14:30.425Z",
+  "market_endDate": "2025-01-23T12:00:00Z",
+  "market_closedTime": "2025-01-23 16:36:44+00",
+  "conditionId": "0x96494576d09c156fe67eb087b72dd6372f3a13199e79c6c729aeb2c353822b16",
+  "slug": "will-the-seed-of-the-sacred-fig-be-nominated-for-oscar-for-best-picture",
+  "question": "Will 'The Seed of the Sacred Fig' be nominated for Oscar for Best Picture?"
+}

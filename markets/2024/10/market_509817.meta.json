@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:48:15.373466Z",
+  "market_createdAt": "2024-10-14T18:48:15.373466Z",
+  "market_updatedAt": "2024-10-16T21:16:50.237569Z",
+  "market_startDate": "2024-10-15T00:02:22.559508Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-15 23:50:51+00",
+  "conditionId": "0x29a558bd65f2fae3785358c79b98ce051c3dc49bab4d18e46973c118893da82f",
+  "slug": "will-the-match-between-poland-and-croatia-end-in-a-draw",
+  "question": "Will the match between Poland and Croatia end in a draw?"
+}

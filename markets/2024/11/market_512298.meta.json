@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:30:50.331706Z",
+  "market_createdAt": "2024-11-07T19:30:50.331706Z",
+  "market_updatedAt": "2024-11-16T00:41:01.053269Z",
+  "market_startDate": "2024-11-07T22:24:21.752Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:20:51+00",
+  "conditionId": "0x5627aa99258f21907f2b80f5747b9e529c03eee1430d6d6b6e24ca3bfa643adb",
+  "slug": "will-trump-nominate-robert-lighthizer-for-homeland-security-secretary",
+  "question": "Will Trump nominate Chad Wolf for Homeland Security Secretary?"
+}

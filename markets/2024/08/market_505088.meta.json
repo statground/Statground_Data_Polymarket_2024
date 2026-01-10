@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T00:21:14.693101Z",
+  "market_createdAt": "2024-08-14T00:21:14.693101Z",
+  "market_updatedAt": "2024-11-08T15:47:56.627918Z",
+  "market_startDate": "2024-08-14T00:21:14.693101Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 15:44:50+00",
+  "conditionId": "0x33441580a2efee743de8842051efae1f432be8be21722a3848784ff733c0712d",
+  "slug": "ny-19-election-jones-d-vs-molinaro-r",
+  "question": "NY-19 election: Riley (D) vs. Molinaro (R)"
+}

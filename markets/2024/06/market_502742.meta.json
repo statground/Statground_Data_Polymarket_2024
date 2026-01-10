@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:33:51.913913Z",
+  "market_createdAt": "2024-06-21T16:33:51.913913Z",
+  "market_updatedAt": "2024-11-10T22:32:50.042434Z",
+  "market_startDate": "2024-06-21T16:33:51.913Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 23:33:58+00",
+  "conditionId": "0x7910186d2c4e764dd3966f40e34eb0eace201850ad5c7bfba0f30e70bcda98ed",
+  "slug": "will-another-candidate-win-the-san-francisco-mayoral-election",
+  "question": "Will another candidate win the San Francisco Mayoral Election?"
+}

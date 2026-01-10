@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T20:52:53.997059Z",
+  "market_createdAt": "2024-11-02T20:52:53.997059Z",
+  "market_updatedAt": "2024-11-04T02:42:58.239272Z",
+  "market_startDate": "2024-11-02T21:04:08.814198Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 04:40:40+00",
+  "conditionId": "0x0bb50a47b9cc1dce2e4b8c72146b3670129db7c6de2699de49be6e1e989643aa",
+  "slug": "will-trump-say-peanut-or-squirrel-during-greensboro-nc-rally",
+  "question": "Will Trump say \"Peanut\" or \"Squirrel\" during Greensboro, NC rally?"
+}

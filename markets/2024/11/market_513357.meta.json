@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:29:37.954550Z",
+  "market_createdAt": "2024-11-18T18:29:37.95455Z",
+  "market_updatedAt": "2024-12-07T06:25:07.924621Z",
+  "market_startDate": "2024-11-18T20:01:47.756Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:19:56+00",
+  "conditionId": "0x182f424525602ceada932459d7ffb752fe36be3dc06d715786b48675a2ef3b24",
+  "slug": "will-trump-say-elon-in-his-next-speech",
+  "question": "Will Trump say \"Elon\" in his next speech?"
+}

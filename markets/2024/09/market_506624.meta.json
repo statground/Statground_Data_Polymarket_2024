@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T16:00:04.216480Z",
+  "market_createdAt": "2024-09-08T16:00:04.21648Z",
+  "market_updatedAt": "2024-09-08T22:38:09.43705Z",
+  "market_startDate": "2024-09-08T16:26:55.790479Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:35:18+00",
+  "conditionId": "0x10af2325bd166932284c50b84c4538eb9852194a18534876fb68db8447d6f429",
+  "slug": "will-there-be-50-or-more-combined-points-scored-mia-jax",
+  "question": "Will there be 50 or more combined points scored?"
+}

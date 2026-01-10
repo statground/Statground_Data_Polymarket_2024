@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:07:08.727034Z",
+  "market_createdAt": "2024-12-15T07:07:08.727034Z",
+  "market_updatedAt": "2024-12-22T04:32:53.499327Z",
+  "market_startDate": "2024-12-15T07:09:55.809313Z",
+  "market_endDate": "2024-12-28T00:00:00Z",
+  "market_closedTime": "2024-12-21 05:03:44+00",
+  "conditionId": "0x24e37c708fbc5c1425cb9b3e20751a3864c5cbb43e4d30c36b2e71913d1ea972",
+  "slug": "nhl-car-wsh-2024-12-20",
+  "question": "Hurricanes vs. Capitals"
+}

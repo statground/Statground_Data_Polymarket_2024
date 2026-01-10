@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T22:10:34.479712Z",
+  "market_createdAt": "2024-06-19T22:10:34.479712Z",
+  "market_updatedAt": "2024-06-29T06:26:04.011665Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:47:21+00",
+  "conditionId": "0x8932d02698d814b6a96da3e4c15058e6a1863f30ba260db737d01467bafcba7d",
+  "slug": "will-biden-say-shut-up-during-the-debate",
+  "question": "Will Biden say \"Shut up\" during the debate?"
+}

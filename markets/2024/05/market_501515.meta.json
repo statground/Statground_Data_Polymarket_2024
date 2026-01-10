@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T00:59:09.063460Z",
+  "market_createdAt": "2024-05-10T00:59:09.06346Z",
+  "market_updatedAt": "2024-05-15T08:14:15.97349Z",
+  "market_startDate": "2024-05-10T01:00:30.282Z",
+  "market_endDate": "2024-05-13T12:00:00Z",
+  "market_closedTime": "2024-05-14 09:02:58+00",
+  "conditionId": "0x23db5a655f6cde10814b65288cf432296dffff8d2641123f49ebde03659d8f28",
+  "slug": "will-openai-announce-search-product-on-monday",
+  "question": "OpenAI announces search competitor on Monday?"
+}

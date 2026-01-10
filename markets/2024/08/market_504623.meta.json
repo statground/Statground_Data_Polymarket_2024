@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:13:03.237166Z",
+  "market_createdAt": "2024-08-06T20:13:03.237166Z",
+  "market_updatedAt": "2024-08-10T17:52:56.306443Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-09 20:56:33+00",
+  "conditionId": "0x1c35f8097d396e2e49c067b2e53d3f9534bbfb1bfe7202ce9686e9057d4abee0",
+  "slug": "will-jamaica-win-gold-in-the-womens-4x100m-relay",
+  "question": "Will Jamaica win gold in the Women’s 4x100m Relay?"
+}

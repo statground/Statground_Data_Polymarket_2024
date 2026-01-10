@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T19:51:02.506258Z",
+  "market_createdAt": "2024-12-03T19:51:02.506258Z",
+  "market_updatedAt": "2025-04-25T05:00:30.46048Z",
+  "market_startDate": "2024-12-03T21:23:25.056Z",
+  "market_endDate": "2025-04-24T12:00:00Z",
+  "market_closedTime": "2025-04-25 04:57:33+00",
+  "conditionId": "0xec8af7ef067c52378ba9f4873e2f2e2fc069efd17cd4cda465b67f0dd84899a8",
+  "slug": "will-another-player-be-the-first-pick-of-the-2025-nfl-draft",
+  "question": "Will another player be the first pick of the 2025 NFL Draft?"
+}

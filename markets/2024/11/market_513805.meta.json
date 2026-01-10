@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:08:29.985846Z",
+  "market_createdAt": "2024-11-24T05:08:29.985846Z",
+  "market_updatedAt": "2024-12-01T22:19:36.770862Z",
+  "market_startDate": "2024-11-24T05:11:06.63696Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:41:01+00",
+  "conditionId": "0xf5d8649fdb0b2f474ad87fe55b94b2159bc75ff83fc33794284a4310807a46c2",
+  "slug": "cfb-scar-clem-2024-11-30",
+  "question": "South Carolina vs. Clemson"
+}

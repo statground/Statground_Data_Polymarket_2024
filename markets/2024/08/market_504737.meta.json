@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:49:11.247373Z",
+  "market_createdAt": "2024-08-08T17:49:11.247373Z",
+  "market_updatedAt": "2024-12-31T04:47:36.649431Z",
+  "market_startDate": "2024-08-08T17:49:11.247373Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-30 07:50:39+00",
+  "conditionId": "0x12726dbedae716d14d83cb124cdaee8e0598e0e750b195bf308782f940268aad",
+  "slug": "will-the-los-angeles-rams-win-the-nfc-west",
+  "question": "Will the Los Angeles Rams win the NFC West?"
+}

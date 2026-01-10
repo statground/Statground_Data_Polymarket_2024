@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:51:34.116726Z",
+  "market_createdAt": "2024-11-26T07:51:34.116726Z",
+  "market_updatedAt": "2024-11-28T23:01:30.536323Z",
+  "market_startDate": "2024-11-26T22:29:47.291169Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:13:25+00",
+  "conditionId": "0x3b0da82f2116c92b654c6c653519774a584643bf120f4923ae1f223496d49ac5",
+  "slug": "will-the-match-between-liverpool-and-real-madrid-end-in-a-draw",
+  "question": "Will the match between Liverpool and Real Madrid end in a draw?"
+}

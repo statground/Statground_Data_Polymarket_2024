@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:20:54.868264Z",
+  "market_createdAt": "2024-11-01T16:20:54.868264Z",
+  "market_updatedAt": "2024-11-06T09:51:18.008404Z",
+  "market_startDate": "2024-11-01T16:23:30.88944Z",
+  "market_endDate": "2024-11-05T03:30:00Z",
+  "market_closedTime": "2024-11-05 11:06:46+00",
+  "conditionId": "0xdf1245c4aa9b996b21ef6e7f91016ab6e7235ed4d6ced39596ee02eda150923f",
+  "slug": "nba-sas-lac-2024-11-04",
+  "question": "Spurs vs. Clippers"
+}

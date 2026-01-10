@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:57:02.033800Z",
+  "market_createdAt": "2024-07-18T20:57:02.0338Z",
+  "market_updatedAt": "2024-08-02T17:13:04.507007Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-08-01 00:06:50+00",
+  "conditionId": "0xdacadbe6ec28d46e78f734af8c27a6d328022147bc3b9b0e0241892845ecf123",
+  "slug": "will-nandor-nemeth-hun-win-gold-in-mens-100m-freestyle",
+  "question": "Will Nandor Nemeth (HUN) win Gold in Men's 100m Freestyle?"
+}

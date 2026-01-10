@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:27:58.820089Z",
+  "market_createdAt": "2024-11-07T19:27:58.820089Z",
+  "market_updatedAt": "2024-11-21T03:57:06.661158Z",
+  "market_startDate": "2024-11-07T22:20:50.578Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:59:53+00",
+  "conditionId": "0x00b093c6892d3a48c14fa0b90ce85b4d3aa1bc6d776f8c26e961aa95c6099f39",
+  "slug": "will-trump-nominate-ryan-walters-for-education-secretary",
+  "question": "Will Trump nominate Ryan Walters for Education Secretary?"
+}

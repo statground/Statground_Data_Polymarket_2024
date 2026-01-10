@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:12:48.480410Z",
+  "market_createdAt": "2024-09-20T16:12:48.48041Z",
+  "market_updatedAt": "2024-09-22T23:42:42.326191Z",
+  "market_startDate": "2024-09-20T16:19:49.170702Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 01:44:37+00",
+  "conditionId": "0xcb010288f86969d84d518e66a8cbfb6558c7482c6d1c0c1ac625d417a1fe9f09",
+  "slug": "will-oklahoma-state-beat-utah",
+  "question": "Will Oklahoma State beat Utah?"
+}

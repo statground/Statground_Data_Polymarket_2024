@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T21:39:23.618413Z",
+  "market_createdAt": "2024-10-13T21:39:23.618413Z",
+  "market_updatedAt": "2024-10-16T08:06:52.456257Z",
+  "market_startDate": "2024-10-14T15:00:11.940049Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 08:35:15+00",
+  "conditionId": "0xe15f7decb06a8fadb9e9bae3eca7dda531fb679d67c4f60324298a532a6eb8b3",
+  "slug": "will-the-yankees-and-guardians-combine-for-8-or-more-runs",
+  "question": "Will the Yankees and Guardians combine for 8 or more runs?"
+}

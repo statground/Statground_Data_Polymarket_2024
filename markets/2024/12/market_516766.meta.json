@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T06:00:14.306299Z",
+  "market_createdAt": "2024-12-30T06:00:14.306299Z",
+  "market_updatedAt": "2025-01-06T06:33:24.198984Z",
+  "market_startDate": "2024-12-30T06:03:01.071564Z",
+  "market_endDate": "2025-01-12T01:00:00Z",
+  "market_closedTime": "2025-01-05 06:37:47+00",
+  "conditionId": "0xa3ff09b5ebab7398acc7686bc967141b980d6aeb61f15995268002e67be07c33",
+  "slug": "nfl-cin-pit-2025-01-04",
+  "question": "Bengals vs. Steelers"
+}

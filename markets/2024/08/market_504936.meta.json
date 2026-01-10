@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:49:26.147479Z",
+  "market_createdAt": "2024-08-12T17:49:26.147479Z",
+  "market_updatedAt": "2024-08-21T01:26:59.387541Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 03:02:40+00",
+  "conditionId": "0x7a2621e1e035a347e05fb22121a3c98147816f9f1c58da9abf534b2c62be5e1f",
+  "slug": "will-jannik-sinner-win-the-2024-atp-cincinnati-mens-singles-tournament",
+  "question": " Will Jannik Sinner win the 2024 ATP Cincinnati Men’s Singles tournament?"
+}

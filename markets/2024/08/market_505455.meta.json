@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:53:46.726191Z",
+  "market_createdAt": "2024-08-20T19:53:46.726191Z",
+  "market_updatedAt": "2024-08-22T21:21:08.167561Z",
+  "market_startDate": "2024-08-20T20:37:36.819Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:32:29+00",
+  "conditionId": "0xe69c1d551aeb23f71d5b4b09091e51214008b3d1e56f2d27363b1d92ffb3765e",
+  "slug": "will-trump-say-nuclear-during-wednesday-speech",
+  "question": "Will Trump say \"nuclear\" during Wednesday speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T13:41:39.901274Z",
+  "market_createdAt": "2024-08-28T13:41:39.901274Z",
+  "market_updatedAt": "2024-12-03T00:05:14.843796Z",
+  "market_startDate": "2024-08-28T16:53:22.906Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-02 00:02:18+00",
+  "conditionId": "0xee2e38c3d30a1696197ffa7f75b0add15d69844df51c55cd36136416d1d1f6bb",
+  "slug": "will-red-bull-win-the-2024-f1-constructors-cup",
+  "question": "Will Red Bull win the 2024 F1 Constructor’s Championship?"
+}

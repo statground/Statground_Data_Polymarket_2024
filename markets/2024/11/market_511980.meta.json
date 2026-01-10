@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:42:53.014773Z",
+  "market_createdAt": "2024-11-04T23:42:53.014773Z",
+  "market_updatedAt": "2024-11-06T22:03:09.201001Z",
+  "market_startDate": "2024-11-05T00:47:17.276959Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:38:57+00",
+  "conditionId": "0xf296005a815b48b220a62bcf006d17f3f4e26ec710478949265b13a9dd4dba30",
+  "slug": "will-juventus-beat-losc-lille",
+  "question": "Will Juventus beat LOSC Lille?"
+}

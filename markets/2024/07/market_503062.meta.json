@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T18:50:17.834961Z",
+  "market_createdAt": "2024-07-01T18:50:17.834961Z",
+  "market_updatedAt": "2024-08-02T17:13:03.720267Z",
+  "market_startDate": "2024-07-01T19:44:24.495Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:19:34+00",
+  "conditionId": "0x576cc9856227715875241dac6f6af3955bb8cf433f25e184d114a465f058879a",
+  "slug": "will-eth-reach-3pt9k-in-july",
+  "question": "Will $ETH reach 3.9k in July?"
+}

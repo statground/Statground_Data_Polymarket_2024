@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:00:38.592571Z",
+  "market_createdAt": "2024-12-15T07:00:38.592571Z",
+  "market_updatedAt": "2024-12-17T03:27:21.269143Z",
+  "market_startDate": "2024-12-15T07:03:08.901562Z",
+  "market_endDate": "2024-12-22T23:00:00Z",
+  "market_closedTime": "2024-12-16 03:53:37+00",
+  "conditionId": "0x4b9b18ab4d67208e7d386c06f9d57a1fb8ef3ea0ef1523713da9b6dcd453af7c",
+  "slug": "nhl-nyr-stl-2024-12-15",
+  "question": "Rangers vs. Blues"
+}

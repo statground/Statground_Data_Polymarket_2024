@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T22:31:23.602927Z",
+  "market_createdAt": "2024-11-12T22:31:23.602927Z",
+  "market_updatedAt": "2024-11-20T06:35:05.895007Z",
+  "market_startDate": "2024-11-12T22:33:54.315572Z",
+  "market_endDate": "2024-11-26T01:15:00Z",
+  "market_closedTime": "2024-11-19 06:37:40+00",
+  "conditionId": "0x6f307cf8972d1e394215940fb2d676624af4de33a1b654a71f28451e3044967c",
+  "slug": "nfl-hou-dal-2024-11-18",
+  "question": "Texans vs. Cowboys"
+}

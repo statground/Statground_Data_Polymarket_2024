@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:41:41.491317Z",
+  "market_createdAt": "2024-05-03T14:41:41.491317Z",
+  "market_updatedAt": "2024-05-07T23:09:39.092108Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:24:54+00",
+  "conditionId": "0x6550b9e83a24d641455fd6838e28fb5ce516d8ac3facb71d4eb297ca1d6abdfb",
+  "slug": "will-endlessly-win-the-2024-kentucky-derby",
+  "question": "Will Endlessly win the 2024 Kentucky Derby?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:42:00.260085Z",
+  "market_createdAt": "2024-11-05T04:42:00.260085Z",
+  "market_updatedAt": "2024-11-07T21:23:08.221797Z",
+  "market_startDate": "2024-11-05T20:23:46.007369Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:23:58+00",
+  "conditionId": "0x2e7c2bd29859b0fb41ff2dfeca9c38f5dc03661fffa27d994c9e812f369a666e",
+  "slug": "will-the-match-between-red-star-belgrade-and-barcelona-end-in-a-draw",
+  "question": "Will the match between Red Star Belgrade and Barcelona end in a draw?"
+}

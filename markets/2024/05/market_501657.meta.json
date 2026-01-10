@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-17T17:04:23.214293Z",
+  "market_createdAt": "2024-05-17T17:04:23.214293Z",
+  "market_updatedAt": "2024-05-25T17:54:16.132662Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-24T12:00:00Z",
+  "market_closedTime": "2024-05-24 18:08:55+00",
+  "conditionId": "0xa2654cd9cb2c68f9fbe58c53bd6617afbc9eb9c1858dad20657d33bea761f249",
+  "slug": "bitcoin-above-65000-on-may-24",
+  "question": "Bitcoin above $65,000 on May 24?"
+}

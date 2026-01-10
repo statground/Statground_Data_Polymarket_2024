@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:57:11.821575Z",
+  "market_createdAt": "2024-09-17T17:57:11.821575Z",
+  "market_updatedAt": "2024-09-24T09:02:49.079528Z",
+  "market_startDate": "2024-09-17T21:10:24.111555Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-23 10:35:07+00",
+  "conditionId": "0x890c433eb4c9b8146a6d4248db680be0014770dbb5d31d5a375c1360891f0d5a",
+  "slug": "will-another-party-win-the-most-votes-in-the-2024-brandenburg-election",
+  "question": "Will another party win the most votes in the 2024 Brandenburg election?"
+}

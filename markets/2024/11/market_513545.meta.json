@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T17:55:00.002783Z",
+  "market_createdAt": "2024-11-20T17:55:00.002783Z",
+  "market_updatedAt": "2025-03-16T19:49:11.310023Z",
+  "market_startDate": "2024-11-20T18:02:18.228296Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-15 19:44:41+00",
+  "conditionId": "0xf2198807be87f46c5da64a615463f9d12b1650474cea5e362bc23b605dcb9fe2",
+  "slug": "will-manchester-city-be-relegated",
+  "question": "Will Manchester City be relegated?"
+}

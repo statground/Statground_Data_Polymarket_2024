@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T18:13:50.539228Z",
+  "market_createdAt": "2024-09-30T18:13:50.539228Z",
+  "market_updatedAt": "2024-10-03T03:20:44.096262Z",
+  "market_startDate": "2024-09-30T18:18:39.718034Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:10:25+00",
+  "conditionId": "0x3611cac50f557f296628e4463486c32f16f0196f7df09d2ffe257b61906fb6ef",
+  "slug": "will-tim-walz-say-helene-during-the-debate",
+  "question": "Will Tim Walz say \"Helene\" during the debate?"
+}

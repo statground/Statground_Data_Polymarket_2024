@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T18:30:33.647384Z",
+  "market_createdAt": "2024-07-01T18:30:33.647384Z",
+  "market_updatedAt": "2024-07-07T02:05:45.722359Z",
+  "market_startDate": "2024-07-01T18:31:33.829Z",
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 03:39:14+00",
+  "conditionId": "0x315e9832bd41d953f1a53ae5f7f12cf49feae896044cbe6e3d3c8491d85955e0",
+  "slug": "biden-interview-by-friday",
+  "question": "Biden interview by Friday?"
+}

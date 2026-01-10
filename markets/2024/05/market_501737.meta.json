@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T20:14:24.380262Z",
+  "market_createdAt": "2024-05-21T20:14:24.380262Z",
+  "market_updatedAt": "2024-06-16T03:06:12.648688Z",
+  "market_startDate": null,
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 06:33:09+00",
+  "conditionId": "0xe69a5665ccf0f05da825fbcd7b3b308f2b927de2a8fbf0fd8251ebf549d07192",
+  "slug": "will-biden-nominate-sandra-thompson-for-fdic-chair",
+  "question": "Will Biden nominate Sandra Thompson for FDIC Chair?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:05:38.273420Z",
+  "market_createdAt": "2024-06-25T19:05:38.27342Z",
+  "market_updatedAt": "2024-10-02T05:22:47.617735Z",
+  "market_startDate": "2024-06-26T18:44:20.356Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:47:52+00",
+  "conditionId": "0x72c9ca6c6cc0f36322128946c5a936b140ba0f992e4bfdf629792a8540c354f2",
+  "slug": "aleo-airdrop-by-september-30",
+  "question": "Aleo airdrop by September 30?"
+}

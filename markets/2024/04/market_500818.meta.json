@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T21:51:08.117722Z",
+  "market_createdAt": "2024-04-08T21:51:08.117722Z",
+  "market_updatedAt": "2024-05-07T23:09:15.992156Z",
+  "market_startDate": "2024-04-08T21:57:14.625Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 10:35:53+00",
+  "conditionId": "0x5fda2d7e2f79f948842906f6f6ef80018dc9e4efd7a04a4ab09f4514f78f35ca",
+  "slug": "wif-listed-on-binance-spot-in-march",
+  "question": "$WIF listed on Bybit spot in April?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T19:56:47.724570Z",
+  "market_createdAt": "2024-05-14T19:56:47.72457Z",
+  "market_updatedAt": "2024-05-16T14:59:23.720428Z",
+  "market_startDate": "2024-05-14T19:59:25.688Z",
+  "market_endDate": "2024-05-15T12:00:00Z",
+  "market_closedTime": "2024-05-15 15:49:02+00",
+  "conditionId": "0x5498a3c406b898aa4c0eb8b2e5fbc291980593e43e4fb4ec1595a3629b8284f3",
+  "slug": "gme-halted-on-wednesday",
+  "question": "$GME halted on Wednesday?"
+}

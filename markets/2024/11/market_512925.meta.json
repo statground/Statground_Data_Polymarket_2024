@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:03:52.421819Z",
+  "market_createdAt": "2024-11-12T20:03:52.421819Z",
+  "market_updatedAt": "2024-12-01T20:35:29.650612Z",
+  "market_startDate": "2024-11-12T20:13:49.783408Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:10:10+00",
+  "conditionId": "0x8661908fb0e5913d016f82ef529dc3ef331a24e37ef88cdddf1d0d4b3bb98fa5",
+  "slug": "will-dogecoin-reach-1-before-december",
+  "question": "Will Dogecoin reach $1 before December?"
+}

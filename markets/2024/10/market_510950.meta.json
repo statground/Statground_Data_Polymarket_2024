@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:07:31.698696Z",
+  "market_createdAt": "2024-10-25T18:07:31.698696Z",
+  "market_updatedAt": "2024-10-28T01:32:47.182777Z",
+  "market_startDate": "2024-10-25T22:17:37.825387Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:35:24+00",
+  "conditionId": "0xcff608b1fd27cde1607d2bb2815a71e68cfd6dbe1a83b5b12f75fcc3a24632c2",
+  "slug": "will-alabama-beat-missouri-by-17-or-more-points",
+  "question": "Will Alabama beat Missouri by 17 or more points?"
+}

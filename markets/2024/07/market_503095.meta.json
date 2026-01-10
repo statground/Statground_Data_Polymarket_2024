@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:15:17.620724Z",
+  "market_createdAt": "2024-07-01T21:15:17.620724Z",
+  "market_updatedAt": "2024-07-03T15:05:48.806168Z",
+  "market_startDate": "2024-07-02T14:32:58.536Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-02 20:58:09+00",
+  "conditionId": "0x2902eaaa8eee029af87444681d50642434fecd195d0410dee1f2c303f78e0e69",
+  "slug": "will-aryna-sabalenka-win-wimbledon-womens",
+  "question": "Will Aryna Sabalenka win Wimbledon Women's?"
+}

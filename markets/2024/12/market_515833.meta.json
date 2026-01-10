@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T15:08:07.282390Z",
+  "market_createdAt": "2024-12-17T15:08:07.28239Z",
+  "market_updatedAt": "2025-01-01T20:49:17.375232Z",
+  "market_startDate": "2024-12-17T18:34:43.245395Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:31:26+00",
+  "conditionId": "0x1e11820cafc332ec78b258434c568b2ef0be0a91eb0f2d31516ab0d9e69a66ca",
+  "slug": "canada-election-called-before-2025",
+  "question": "Canada election called before 2025?"
+}

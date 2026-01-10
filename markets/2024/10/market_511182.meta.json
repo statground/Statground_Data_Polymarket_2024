@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:13:11.972002Z",
+  "market_createdAt": "2024-10-28T20:13:11.972002Z",
+  "market_updatedAt": "2024-11-02T02:27:07.8108Z",
+  "market_startDate": "2024-10-28T23:28:40.488826Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:13:56+00",
+  "conditionId": "0x9f996c00acc3c35eb8629e4b4bd92649b272d02e9ef102c55afd87f18664972e",
+  "slug": "will-trump-say-border-20-or-more-times-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"border\" 20 or more times during Nevada rally on Oct 31?"
+}

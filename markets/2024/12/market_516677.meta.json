@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:06:44.594779Z",
+  "market_createdAt": "2024-12-29T07:06:44.594779Z",
+  "market_updatedAt": "2025-01-04T04:36:46.19666Z",
+  "market_startDate": "2024-12-29T07:09:26.921784Z",
+  "market_endDate": "2025-01-10T00:00:00Z",
+  "market_closedTime": "2025-01-03 04:52:27+00",
+  "conditionId": "0x747a6e1f6623a81ac9bc265d398f1cdf5de76875ecac9f6a4d86c2bdf60841fc",
+  "slug": "nhl-min-wsh-2025-01-02",
+  "question": "Wild vs. Capitals"
+}

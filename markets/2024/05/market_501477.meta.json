@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T20:05:36.935953Z",
+  "market_createdAt": "2024-05-07T20:05:36.935953Z",
+  "market_updatedAt": "2024-06-11T14:36:15.319249Z",
+  "market_startDate": "2024-05-07T21:56:41.849Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 07:07:18+00",
+  "conditionId": "0x487706f84e5d36d12fd7929f0796e69d659bf1373e9c878eccf2cf46741a353e",
+  "slug": "will-ptb-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will PTB win the most seats in the Belgian federal elections?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:07:50.450169Z",
+  "market_createdAt": "2024-12-22T07:07:50.450169Z",
+  "market_updatedAt": "2024-12-30T03:14:07.838383Z",
+  "market_startDate": "2024-12-22T07:10:21.292615Z",
+  "market_endDate": "2025-01-05T00:00:00Z",
+  "market_closedTime": "2024-12-29 04:47:20+00",
+  "conditionId": "0x6489497e66913d3ef18382e58d68f48b8fad474ac3417a6ff74a22bc499b1935",
+  "slug": "nhl-nj-car-2024-12-28",
+  "question": "Devils vs. Hurricanes"
+}

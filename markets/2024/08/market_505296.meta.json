@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:25:21.914243Z",
+  "market_createdAt": "2024-08-19T15:25:21.914243Z",
+  "market_updatedAt": "2024-08-24T05:50:54.426785Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:59:04+00",
+  "conditionId": "0x72825275d200137e46c33733ebaefeb7cd0f4ee09c916e50eaee13f5f14c1d45",
+  "slug": "drag-queen-at-dnc",
+  "question": "Drag queen at DNC?"
+}

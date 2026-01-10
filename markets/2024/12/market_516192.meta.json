@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:00:59.016241Z",
+  "market_createdAt": "2024-12-22T05:00:59.016241Z",
+  "market_updatedAt": "2024-12-24T03:23:41.268997Z",
+  "market_startDate": "2024-12-22T05:03:57.14701Z",
+  "market_endDate": "2024-12-29T23:00:00Z",
+  "market_closedTime": "2024-12-23 03:17:41+00",
+  "conditionId": "0x0c771280383da50a54226450e5366b8459cd3c134f78d05bdaba6f9bd72a9ff2",
+  "slug": "nba-ind-sac-2024-12-22",
+  "question": "Pacers vs. Kings"
+}

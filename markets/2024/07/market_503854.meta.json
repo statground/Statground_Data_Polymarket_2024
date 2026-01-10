@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T08:10:33.709316Z",
+  "market_createdAt": "2024-07-19T08:10:33.709316Z",
+  "market_updatedAt": "2024-07-20T19:42:39.267384Z",
+  "market_startDate": "2024-07-19T08:52:27.555Z",
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-19 20:29:34+00",
+  "conditionId": "0x1f4982110ff957efebc6e7f062364c0713f36071d72f33da7d7e6ef58b4b0ee9",
+  "slug": "crowdstrike-outage-fixed-by-noon-friday",
+  "question": "CrowdStrike outage fixed by Noon?"
+}

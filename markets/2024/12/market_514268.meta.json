@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:00:02.702506Z",
+  "market_createdAt": "2024-12-01T05:00:02.702506Z",
+  "market_updatedAt": "2024-12-03T01:11:17.784152Z",
+  "market_startDate": "2024-12-01T05:03:21.199885Z",
+  "market_endDate": "2024-12-08T20:30:00Z",
+  "market_closedTime": "2024-12-02 01:05:53+00",
+  "conditionId": "0x9453efbf1434f9f953afb93ba736d3b53938ce5375f9ea2e7fcc3b1403f41d75",
+  "slug": "nba-ind-mem-2024-12-01",
+  "question": "Pacers vs. Grizzlies"
+}

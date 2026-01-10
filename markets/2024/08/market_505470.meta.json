@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T23:54:55.470764Z",
+  "market_createdAt": "2024-08-20T23:54:55.470764Z",
+  "market_updatedAt": "2024-11-06T08:17:12.617099Z",
+  "market_startDate": "2024-08-21T15:39:41.933Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:18:43+00",
+  "conditionId": "0xdd5494d6d8932839536caed7aeb21e5bb2fb500910b1d0ce43d2a5fec9f546aa",
+  "slug": "will-kamala-publicly-support-tax-on-unrealized-gains",
+  "question": "Will Harris publicly support tax on unrealized gains?"
+}

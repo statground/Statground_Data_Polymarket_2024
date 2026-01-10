@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:16:05.809184Z",
+  "market_createdAt": "2024-10-03T22:16:05.809184Z",
+  "market_updatedAt": "2025-05-16T08:20:30.527837Z",
+  "market_startDate": "2024-10-04T15:27:58.434955Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-05-15 09:23:55+00",
+  "conditionId": "0x929d9d9c734006cfa0cd46c836fcd7c78b483bbc83eeade72bbbf5c7340b248e",
+  "slug": "will-the-golden-state-warriors-win-the-western-conference",
+  "question": "Will the Golden State Warriors win the Western Conference?"
+}

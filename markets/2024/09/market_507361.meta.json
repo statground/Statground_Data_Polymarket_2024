@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T21:58:55.113450Z",
+  "market_createdAt": "2024-09-17T21:58:55.11345Z",
+  "market_updatedAt": "2024-09-22T18:50:47.162345Z",
+  "market_startDate": "2024-09-17T22:55:47.839392Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 19:11:42+00",
+  "conditionId": "0x2bccec1b9a266f43af1d8c785725a44100c73a2d632daa9c31b59f0d86109f55",
+  "slug": "will-tottenham-beat-brentford",
+  "question": "Will Tottenham beat Brentford?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:11:02.827022Z",
+  "market_createdAt": "2024-12-22T05:11:02.827022Z",
+  "market_updatedAt": "2024-12-30T03:27:49.276679Z",
+  "market_startDate": "2024-12-22T05:14:02.256005Z",
+  "market_endDate": "2025-01-04T23:00:00Z",
+  "market_closedTime": "2024-12-29 03:22:41+00",
+  "conditionId": "0x1d30e18679afbede74322067495d38bf3f8446395dd9fc721b5ba019db9df825",
+  "slug": "nba-okc-cha-2024-12-28",
+  "question": "Thunder vs. Hornets"
+}

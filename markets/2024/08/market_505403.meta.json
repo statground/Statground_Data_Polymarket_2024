@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:25:33.294035Z",
+  "market_createdAt": "2024-08-20T00:25:33.294035Z",
+  "market_updatedAt": "2024-08-23T04:17:07.920736Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:37:38+00",
+  "conditionId": "0xe07fc65c57d2799a68a9a8cd932cb4a931894c309f77109075743df900dde78b",
+  "slug": "will-walz-say-teacher-at-dnc-speech",
+  "question": "Will Walz say \"Teacher\" at DNC speech?"
+}

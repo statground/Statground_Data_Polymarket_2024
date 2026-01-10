@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:28:25.135894Z",
+  "market_createdAt": "2024-12-25T06:28:25.135894Z",
+  "market_updatedAt": "2024-12-27T17:47:07.085013Z",
+  "market_startDate": "2024-12-25T06:30:48.259631Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:20:52+00",
+  "conditionId": "0x2624b41a9a18e14d06383c4265cfec268525af4b50d0f556a3f21352002be635",
+  "slug": "epl-new-ast-2024-12-26-draw",
+  "question": "Will Newcastle vs. Aston Villa end in a draw?"
+}

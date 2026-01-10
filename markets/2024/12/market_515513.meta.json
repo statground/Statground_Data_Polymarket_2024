@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T21:00:46.496559Z",
+  "market_createdAt": "2024-12-12T21:00:46.496559Z",
+  "market_updatedAt": "2025-01-21T23:51:01.496812Z",
+  "market_startDate": "2024-12-12T21:04:52.321Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 23:55:48+00",
+  "conditionId": "0x43efad46190af66027a398689b43ff5d91f55349ed2bc25a39f5cee06b628a41",
+  "slug": "will-volodymyr-zelensky-attend-presidential-inauguration",
+  "question": "Will Volodymyr Zelensky attend presidential inauguration?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:21:00.152587Z",
+  "market_createdAt": "2024-11-05T04:21:00.152587Z",
+  "market_updatedAt": "2024-11-08T01:29:03.981364Z",
+  "market_startDate": "2024-11-05T20:16:32.352031Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:24:06+00",
+  "conditionId": "0x9cd6985916fb5b3a34afa1b89b24812514b65e18e85ef644a70b410a13762917",
+  "slug": "will-rb-salzburg-beat-feyenoord-rotterdam",
+  "question": "Will RB Salzburg beat Feyenoord?"
+}

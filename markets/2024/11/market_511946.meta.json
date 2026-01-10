@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:24:27.315522Z",
+  "market_createdAt": "2024-11-04T19:24:27.315522Z",
+  "market_updatedAt": "2024-11-25T13:16:01.926412Z",
+  "market_startDate": "2024-11-06T16:31:18.719394Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:23:50+00",
+  "conditionId": "0x1b53e0201f25416434bb6e3791f571aeb86e2ed70c5c9d6b5d6919bc957cff51",
+  "slug": "will-oscar-piastri-win-the-las-vegas-grand-prix",
+  "question": "Will Oscar Piastri win the 2024 Las Vegas Grand Prix?"
+}

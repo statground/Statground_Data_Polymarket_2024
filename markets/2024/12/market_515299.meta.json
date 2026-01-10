@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:15:30.130491Z",
+  "market_createdAt": "2024-12-10T21:15:30.130491Z",
+  "market_updatedAt": "2024-12-13T22:11:16.995518Z",
+  "market_startDate": "2024-12-11T22:49:23.400205Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 22:58:03+00",
+  "conditionId": "0x33b8068660bc6aa662c297d0300ca1f13ad4928a8ecdd57ab6b1da7dccca43e9",
+  "slug": "will-the-match-between-malmo-ff-and-galatasaray-end-in-a-draw",
+  "question": "Will the match between Malmo FF and Galatasaray end in a draw?"
+}

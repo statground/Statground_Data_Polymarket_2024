@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:36:21.125734Z",
+  "market_createdAt": "2024-08-26T18:36:21.125734Z",
+  "market_updatedAt": "2024-08-30T18:31:15.464415Z",
+  "market_startDate": "2024-08-27T16:12:22.671Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:20:56+00",
+  "conditionId": "0xf0725a8313b349a7fe5f222cb17c607cda1f86cac4d430f98e5331c527f4bbf9",
+  "slug": "cfb-murray-state-vs-missouri",
+  "question": "CFB: Murray State vs. Missouri"
+}

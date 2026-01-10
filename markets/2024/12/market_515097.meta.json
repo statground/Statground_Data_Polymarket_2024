@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T15:54:33.609631Z",
+  "market_createdAt": "2024-12-09T15:54:33.609631Z",
+  "market_updatedAt": "2025-02-01T18:12:50.093985Z",
+  "market_startDate": "2024-12-10T21:00:35.909856Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 09:06:45+00",
+  "conditionId": "0x128d8360cd32742310771cd1856023098ab4cbe1fb559ca52b4233252200c518",
+  "slug": "will-syria-hold-national-elections-by-january-31",
+  "question": "Will Syria hold national elections by January 31?"
+}

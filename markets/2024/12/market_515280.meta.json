@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:31:35.336680Z",
+  "market_createdAt": "2024-12-10T19:31:35.33668Z",
+  "market_updatedAt": "2025-01-24T16:30:45.161689Z",
+  "market_startDate": "2024-12-11T19:12:24.963Z",
+  "market_endDate": "2025-01-23T12:00:00Z",
+  "market_closedTime": "2025-01-23 16:32:20+00",
+  "conditionId": "0xe37991d898fd51036ce793a336cb13db1721926bfd359950d76c80c4a1a417ba",
+  "slug": "will-the-piano-lesson-be-nominated-for-oscar-for-best-picture",
+  "question": "Will 'The Piano Lesson' be nominated for Oscar for Best Picture?"
+}

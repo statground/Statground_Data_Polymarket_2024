@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:28:21.749119Z",
+  "market_createdAt": "2024-11-01T19:28:21.749119Z",
+  "market_updatedAt": "2024-11-04T17:01:07.798529Z",
+  "market_startDate": "2024-11-02T21:32:31.37545Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:49:11+00",
+  "conditionId": "0x6ccf1cf01690c909525ccff5180b7c4deb2b1f36758f4b121e5b07a218cbc53d",
+  "slug": "will-the-titans-and-patriots-combine-for-39-or-more-points",
+  "question": "Will the Titans and Patriots combine for 39 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-17T15:25:04.267551Z",
+  "market_createdAt": "2024-04-17T15:25:04.267551Z",
+  "market_updatedAt": "2024-11-07T15:29:08.496806Z",
+  "market_startDate": "2024-04-17T15:52:46.529Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:28:58+00",
+  "conditionId": "0x90259f0ec1fa576ce8f8bd15cbb1bf525721d0ee9d8f4993dadc02e9d61eee66",
+  "slug": "will-a-democrat-win-washington-dc-presidential-election",
+  "question": "Will a Democrat win Washington DC Presidential Election?"
+}

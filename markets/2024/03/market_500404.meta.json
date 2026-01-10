@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T17:51:38.328036Z",
+  "market_createdAt": "2024-03-22T17:51:38.328036Z",
+  "market_updatedAt": "2024-05-07T23:10:05.642307Z",
+  "market_startDate": "2024-03-22T17:53:55.173Z",
+  "market_endDate": "2024-03-29T12:00:00Z",
+  "market_closedTime": "2024-03-29 18:05:12+00",
+  "conditionId": "0x86915c10c0e6286b7399e44a5d8571829bda59fe1e851c0ca12f389c7e88c850",
+  "slug": "eth-above-3500-on-mar-29",
+  "question": "ETH above $3,500 on Mar 29?"
+}

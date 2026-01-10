@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T14:04:38.740046Z",
+  "market_createdAt": "2024-10-16T14:04:38.740046Z",
+  "market_updatedAt": "2024-10-23T01:57:14.316971Z",
+  "market_startDate": "2024-10-16T18:08:36.072532Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 02:29:44+00",
+  "conditionId": "0x4e3ae81453ae3d744121944eaf0a627ed001e906e095418c6737a537aa1166a4",
+  "slug": "will-smile-2-gross-24-27m-opening-weekend",
+  "question": "Will 'Smile 2' gross $24-27m opening weekend?"
+}

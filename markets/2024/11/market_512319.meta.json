@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:01:31.519234Z",
+  "market_createdAt": "2024-11-07T21:01:31.519234Z",
+  "market_updatedAt": "2025-01-22T14:44:53.739536Z",
+  "market_startDate": "2024-11-07T22:37:22.665Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-22 06:33:50+00",
+  "conditionId": "0x09be9c5d6960c76c374cb1106b9f890a4b60d21f875bc718787a655e2f58bfb1",
+  "slug": "will-warren-davidson-be-appointed-as-the-next-ohio-senator",
+  "question": "Will Warren Davidson be appointed as the next Ohio senator?"
+}

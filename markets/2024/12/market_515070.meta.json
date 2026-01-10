@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:02:23.652981Z",
+  "market_createdAt": "2024-12-08T07:02:23.652981Z",
+  "market_updatedAt": "2024-12-14T04:37:08.432787Z",
+  "market_startDate": "2024-12-08T07:05:50.361629Z",
+  "market_endDate": "2024-12-20T01:30:00Z",
+  "market_closedTime": "2024-12-13 06:11:04+00",
+  "conditionId": "0x02a3cea5534543b152d3129cc58f26781e1cc9aed4de6f9d219b91663708b6db",
+  "slug": "nhl-edm-min-2024-12-12",
+  "question": "Oilers vs. Wild"
+}

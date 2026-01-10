@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-13T17:30:49.433000Z",
+  "market_createdAt": "2024-02-13T17:30:49.433Z",
+  "market_updatedAt": "2024-08-02T17:13:06.42846Z",
+  "market_startDate": "2024-02-13T18:55:54.075Z",
+  "market_endDate": "2024-07-31T00:00:00Z",
+  "market_closedTime": "2024-08-01 06:13:34+00",
+  "conditionId": "0x19120414e0b7b170bb81ab518317f6926c2bb633167e4b11981ef7c078cea739",
+  "slug": "fed-rate-cut-by-july-31",
+  "question": "Fed rate cut by July 31?"
+}

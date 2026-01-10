@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:27:56.727518Z",
+  "market_createdAt": "2024-10-24T17:27:56.727518Z",
+  "market_updatedAt": "2024-12-06T06:47:18.752989Z",
+  "market_startDate": "2024-10-24T18:37:51.001342Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-05 07:13:04+00",
+  "conditionId": "0x191c872821ec86fb89ff23dbf6b117dee1b43dede06d7bc1556e8bfbf60cb78c",
+  "slug": "will-trump-win-mississippi-by-20-points",
+  "question": "Will Trump win Mississippi by 20+ points?"
+}

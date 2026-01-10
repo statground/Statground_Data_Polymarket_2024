@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T19:28:57.452091Z",
+  "market_createdAt": "2024-05-07T19:28:57.452091Z",
+  "market_updatedAt": "2024-06-11T14:36:15.321174Z",
+  "market_startDate": "2024-05-08T04:56:31.243Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 07:02:40+00",
+  "conditionId": "0x753c4461de8c8abf41ee1b102d52718245bca63ef70c9455d6f7d0ee11053162",
+  "slug": "will-ps-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will PS win the most seats in the Belgian federal elections?"
+}

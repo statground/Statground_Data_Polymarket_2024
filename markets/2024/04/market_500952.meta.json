@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T17:28:56.406215Z",
+  "market_createdAt": "2024-04-15T17:28:56.406215Z",
+  "market_updatedAt": "2024-05-07T23:10:01.847144Z",
+  "market_startDate": "2024-04-15T18:18:32.77Z",
+  "market_endDate": "2024-04-17T12:00:00Z",
+  "market_closedTime": "2024-04-18 03:50:56+00",
+  "conditionId": "0x4b19bf2d01c6739d45948c6e9559aa4fa48b0db12c56c7c9364affbce5daad87",
+  "slug": "nba-play-in-heat-vs-76ers",
+  "question": "NBA Play-In: Heat vs 76ers"
+}

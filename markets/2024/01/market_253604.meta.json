@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T17:34:03.315000Z",
+  "market_createdAt": "2024-01-05T17:34:03.315Z",
+  "market_updatedAt": "2024-04-26T03:11:01.004829Z",
+  "market_startDate": "2024-01-06T09:10:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-01-15 04:18:05+00",
+  "conditionId": "0xd4a3286b68583757d243480efa89aa9eb42412eef8464c6fb573606dd3565a44",
+  "slug": "will-the-dallas-cowboys-win-super-bowl-lviii",
+  "question": "Will the Dallas Cowboys win Super Bowl LVIII?"
+}

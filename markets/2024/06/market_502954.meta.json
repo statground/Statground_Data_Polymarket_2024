@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T19:56:10.790480Z",
+  "market_createdAt": "2024-06-27T19:56:10.79048Z",
+  "market_updatedAt": "2024-06-29T07:11:04.145613Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:42:41+00",
+  "conditionId": "0xf9dc6ba2f751349ab962174f2e8e7fcb37ac9d074abf47249ac79cf967504b54",
+  "slug": "will-either-candidate-leave-the-debate-early",
+  "question": "Will either candidate leave the debate early? "
+}

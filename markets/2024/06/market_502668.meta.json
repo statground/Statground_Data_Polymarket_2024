@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T14:47:00.402887Z",
+  "market_createdAt": "2024-06-20T14:47:00.402887Z",
+  "market_updatedAt": "2024-06-22T18:06:10.530985Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 21:09:28+00",
+  "conditionId": "0x47eaff3c05dbeaae155512d0aaab4ff4b606ebf99bf523f8a6ead3e667bb5822",
+  "slug": "will-the-match-be-a-draw-poland-austria",
+  "question": "Will the match be a draw? "
+}

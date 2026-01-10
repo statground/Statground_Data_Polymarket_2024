@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:15:05.095014Z",
+  "market_createdAt": "2024-10-28T20:15:05.095014Z",
+  "market_updatedAt": "2024-11-04T23:47:10.592648Z",
+  "market_startDate": "2024-10-28T20:17:38.61866Z",
+  "market_endDate": "2024-11-03T18:00:00Z",
+  "market_closedTime": "2024-11-04 00:05:43+00",
+  "conditionId": "0x7e045d6b980f9dd616ee5683685fc323cdfb20f24899628075e40e332951f504",
+  "slug": "nfl-lv-cin-2024-11-03",
+  "question": "Raiders vs. Bengals"
+}

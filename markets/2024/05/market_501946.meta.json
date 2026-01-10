@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:53:32.033833Z",
+  "market_createdAt": "2024-05-31T14:53:32.033833Z",
+  "market_updatedAt": "2024-06-19T02:41:12.756622Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:00:32+00",
+  "conditionId": "0xbc03e81b0c76df38808a9e8b4c2ac51768bd3272a04c2ce43ede6fca9ed1a757",
+  "slug": "derrick-white-2024-nba-finals-mvp",
+  "question": "Derrick White 2024 NBA Finals MVP?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T22:35:54.036295Z",
+  "market_createdAt": "2024-05-06T22:35:54.036295Z",
+  "market_updatedAt": "2024-07-17T03:02:43.75302Z",
+  "market_startDate": "2024-05-06T23:10:35.02Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 02:57:59+00",
+  "conditionId": "0x10f8cf7270b1c0ffa724d3a4da8bed6c19927f886b455e58f97f57b74b3cc79d",
+  "slug": "will-michael-waltz-win-the-2024-republican-vp-nomination",
+  "question": "Will Michael Waltz win the 2024 Republican VP nomination?"
+}

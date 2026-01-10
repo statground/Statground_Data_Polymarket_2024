@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T19:47:42.165393Z",
+  "market_createdAt": "2024-05-28T19:47:42.165393Z",
+  "market_updatedAt": "2024-07-01T06:37:08.661842Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:35:28+00",
+  "conditionId": "0x66011f247de9d39d0343481d90d7a87f2c8415747930d38e2538c43849e0f986",
+  "slug": "sam-trabucco-criminal-charges-before-july",
+  "question": "Sam Trabucco criminal charges before July?"
+}

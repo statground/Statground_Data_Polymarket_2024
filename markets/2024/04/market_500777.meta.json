@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T18:54:09.493163Z",
+  "market_createdAt": "2024-04-05T18:54:09.493163Z",
+  "market_updatedAt": "2024-05-07T23:09:10.409144Z",
+  "market_startDate": "2024-04-09T16:06:10.454Z",
+  "market_endDate": "2024-04-13T12:00:00Z",
+  "market_closedTime": "2024-04-14 04:39:12+00",
+  "conditionId": "0xdd3a4bebf896aea89d6b1b637ac7a240f7a7d09ca0fbec27392c618c8df3cf9e",
+  "slug": "ufc-300-bo-nickal-vs-cody-brundage",
+  "question": "UFC 300: Bo Nickal vs Cody Brundage"
+}

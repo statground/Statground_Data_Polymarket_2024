@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:00:08.182884Z",
+  "market_createdAt": "2024-11-07T18:00:08.182884Z",
+  "market_updatedAt": "2024-11-11T11:02:48.056076Z",
+  "market_startDate": "2024-11-07T18:09:56.560265Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 11:17:34+00",
+  "conditionId": "0x0d6aa5d128418ad6a28dc842788c2dddeef2e800bd0fa41345f70f4379f98993",
+  "slug": "will-cult-launch-a-coin-on-saturday",
+  "question": "Will $CULT launch on 11/9?"
+}

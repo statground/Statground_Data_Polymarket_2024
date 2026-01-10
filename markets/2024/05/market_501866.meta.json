@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T16:22:40.566413Z",
+  "market_createdAt": "2024-05-29T16:22:40.566413Z",
+  "market_updatedAt": "2024-05-31T02:01:14.219845Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-29T12:00:00Z",
+  "market_closedTime": "2024-05-30 07:58:11+00",
+  "conditionId": "0xa1026cf5a658fa31f4a27056fe5464847f92e1ed880cb26ba0f7f83eadb3c806",
+  "slug": "will-trump-trial-jury-deliberations-end-on-wednesday",
+  "question": "Will Trump trial jury deliberations end on Wednesday?"
+}

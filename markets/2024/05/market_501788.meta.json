@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T14:38:56.767833Z",
+  "market_createdAt": "2024-05-23T14:38:56.767833Z",
+  "market_updatedAt": "2024-07-02T00:10:55.482109Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:11:10+00",
+  "conditionId": "0x2e73a6da8b197523acb6adb389f9ee14eead6cc6edcf7995c6113b3131afbbff",
+  "slug": "microsoft-buys-steam-before-july",
+  "question": "Microsoft buys Steam before July?"
+}

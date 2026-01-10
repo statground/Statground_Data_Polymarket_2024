@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T16:52:00.452616Z",
+  "market_createdAt": "2024-11-19T16:52:00.452616Z",
+  "market_updatedAt": "2025-01-01T14:59:11.612035Z",
+  "market_startDate": "2024-11-19T20:47:50.937333Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:12:44+00",
+  "conditionId": "0x3e2ecf07bf051d63ea9b9e851eadf79d7da21265bf967c406c70ec10eaf1b0ec",
+  "slug": "will-russia-use-a-nuclear-weapon-in-2024",
+  "question": "Will Russia use a nuclear weapon in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T22:47:19.841066Z",
+  "market_createdAt": "2024-07-05T22:47:19.841066Z",
+  "market_updatedAt": "2024-07-08T15:50:45.72243Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:24:19+00",
+  "conditionId": "0x64ba71fed84c22a185a8ab741179afadb54c3d37c3df23f235c91e54b1aed8e6",
+  "slug": "will-max-verstappen-win-the-british-grand-prix",
+  "question": "Will Max Verstappen win the British Grand Prix"
+}

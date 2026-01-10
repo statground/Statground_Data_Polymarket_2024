@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:46:41.789673Z",
+  "market_createdAt": "2024-07-25T18:46:41.789673Z",
+  "market_updatedAt": "2024-07-31T20:47:03.426266Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:30:23+00",
+  "conditionId": "0x8f9646d57d09c7779bb786c7a04295e4269e79a49ff1b10f59a8c450f5ac32ab",
+  "slug": "will-sven-schwarz-ger-win-gold-in-mens-800m-freestyle",
+  "question": "Will Sven Schwarz (GER) win Gold in Men's 800m Freestyle?"
+}

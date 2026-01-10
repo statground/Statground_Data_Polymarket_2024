@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T14:52:39.562265Z",
+  "market_createdAt": "2024-09-30T14:52:39.562265Z",
+  "market_updatedAt": "2024-10-12T17:06:55.666419Z",
+  "market_startDate": "2024-09-30T15:20:49.866856Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 19:20:35+00",
+  "conditionId": "0x56a64d561cad7e26a4f39cee89535d1f298c454529c29fdc720e3a86020f9b0a",
+  "slug": "will-trump-lead-in-rcp-on-oct-11",
+  "question": "Will Trump lead in RCP on Oct 11?"
+}

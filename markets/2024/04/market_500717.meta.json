@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:49:44.625227Z",
+  "market_createdAt": "2024-04-04T17:49:44.625227Z",
+  "market_updatedAt": "2024-11-07T15:49:01.744889Z",
+  "market_startDate": "2024-04-12T19:13:14.523Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:31:03+00",
+  "conditionId": "0xf8965140c41f13be11ee4c7d10f2ca021ed4e5e0ea68274e88eff7e2d7f13c74",
+  "slug": "will-a-candidate-from-another-party-win-new-jersey-us-senate-election",
+  "question": "Will a candidate from another party win New Jersey US Senate Election?"
+}

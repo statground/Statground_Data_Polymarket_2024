@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:31:23.781242Z",
+  "market_createdAt": "2024-12-13T22:31:23.781242Z",
+  "market_updatedAt": "2024-12-16T17:21:59.290644Z",
+  "market_startDate": "2024-12-13T23:33:07.733698Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-15 23:16:52+00",
+  "conditionId": "0x30579b11701ecbe00140709e50ec9cc00a236e595dc0cfcd140433629f7de390",
+  "slug": "will-the-panthers-beat-the-cowboys-by-3-or-more-points",
+  "question": "Will the Panthers beat the Cowboys by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:06:30.309693Z",
+  "market_createdAt": "2024-11-05T04:06:30.309693Z",
+  "market_updatedAt": "2024-11-07T20:03:07.754207Z",
+  "market_startDate": "2024-11-05T20:11:52.214681Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:25:03+00",
+  "conditionId": "0x624fbea839095911e2c9ab76253382fc8b71f48b9f3fa723f2155253367eec5a",
+  "slug": "will-young-boys-beat-shakhtar-donetsk",
+  "question": "Will Young Boys beat Shakhtar Donetsk?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:57:09.439457Z",
+  "market_createdAt": "2024-09-20T21:57:09.439457Z",
+  "market_updatedAt": "2024-09-25T02:36:43.630367Z",
+  "market_startDate": "2024-09-20T23:02:25.008739Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 03:16:43+00",
+  "conditionId": "0xa14452bdaf48a8c06f7d032f59f6fdf9ed30af0ae9e4c3f296670e191d1f145c",
+  "slug": "will-donald-trump-say-mcdonalds-during-his-pennsylvania-rally",
+  "question": "Will Donald Trump say \"McDonald's\" during his Pennsylvania rally?"
+}

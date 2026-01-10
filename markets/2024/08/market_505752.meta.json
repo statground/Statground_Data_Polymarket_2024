@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T17:38:16.067782Z",
+  "market_createdAt": "2024-08-23T17:38:16.067782Z",
+  "market_updatedAt": "2024-08-27T00:56:59.825649Z",
+  "market_startDate": "2024-08-25T12:00:00Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-26 01:37:34+00",
+  "conditionId": "0x638f8aed0408872de787a6a43ceba228077f0f7e30293e851698f7c41513799c",
+  "slug": "nfl-den-ari-2024-08-25",
+  "question": "Broncos vs. Cardinals"
+}

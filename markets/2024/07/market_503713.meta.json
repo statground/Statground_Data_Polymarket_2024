@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:44:17.013643Z",
+  "market_createdAt": "2024-07-18T17:44:17.013643Z",
+  "market_updatedAt": "2024-08-08T18:00:55.834682Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-07 21:46:22+00",
+  "conditionId": "0xb9dfbeb32ba8c280dba4072e3bc35b2c58d965eef2d2c055d2efa77129a2f05b",
+  "slug": "will-zharnel-hughes-gbr-win-gold-in-200m",
+  "question": "Will Zharnel Hughes (GBR) win Gold in 200m?"
+}

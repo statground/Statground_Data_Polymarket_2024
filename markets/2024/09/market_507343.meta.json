@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:18:17.374781Z",
+  "market_createdAt": "2024-09-17T19:18:17.374781Z",
+  "market_updatedAt": "2024-09-20T22:56:49.341883Z",
+  "market_startDate": "2024-09-17T21:54:32.707903Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:18:20+00",
+  "conditionId": "0x94e0d145ebb2c1f3dda9f9bc14201cad7477bc2f988e76c1208593a5d82b883e",
+  "slug": "will-monaco-beat-barcelona",
+  "question": "Will Monaco beat Barcelona?"
+}

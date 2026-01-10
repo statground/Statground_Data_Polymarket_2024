@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:01:37.710691Z",
+  "market_createdAt": "2024-11-18T05:01:37.710691Z",
+  "market_updatedAt": "2024-11-23T06:30:49.372408Z",
+  "market_startDate": "2024-11-18T05:04:10.417361Z",
+  "market_endDate": "2024-11-29T01:15:00Z",
+  "market_closedTime": "2024-11-22 06:28:00+00",
+  "conditionId": "0x6703ac3d097bd4cb15111822de5fa6eef39b1781333c749c466802d8d61aee48",
+  "slug": "nfl-pit-cle-2024-11-21",
+  "question": "Steelers vs. Browns"
+}

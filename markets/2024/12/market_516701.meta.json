@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:13:54.074654Z",
+  "market_createdAt": "2024-12-29T07:13:54.074654Z",
+  "market_updatedAt": "2025-01-06T05:07:17.087148Z",
+  "market_startDate": "2024-12-29T07:16:25.703562Z",
+  "market_endDate": "2025-01-12T01:00:00Z",
+  "market_closedTime": "2025-01-05 05:37:59+00",
+  "conditionId": "0xba96cff7912c2e8195a018d5b6c8a010c0451150655aa89c886e732f082d3673",
+  "slug": "nhl-utah-dal-2025-01-04",
+  "question": "Utah vs. Stars"
+}

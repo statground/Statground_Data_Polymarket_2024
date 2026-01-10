@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T21:45:41.280990Z",
+  "market_createdAt": "2024-10-30T21:45:41.28099Z",
+  "market_updatedAt": "2024-12-13T15:59:07.675781Z",
+  "market_startDate": "2024-10-30T21:51:24.128113Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 16:38:29+00",
+  "conditionId": "0x49df40debf3655c8f0892f5b144da6d513a1998380f5218146f7dbc51014f9db",
+  "slug": "increase-in-ecb-interest-rates-after-2024-december-meeting",
+  "question": "Increase in ECB interest rates after 2024 December meeting?"
+}

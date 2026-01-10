@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:00:15.526651Z",
+  "market_createdAt": "2024-11-24T05:00:15.526651Z",
+  "market_updatedAt": "2024-11-28T04:05:42.479423Z",
+  "market_startDate": "2024-11-24T05:02:46.081415Z",
+  "market_endDate": "2024-12-04T00:00:00Z",
+  "market_closedTime": "2024-11-27 05:52:24+00",
+  "conditionId": "0x03f13d962c00d130aa7e12cbc896136ee0c0baad40ba56cd6fc542b6c35ac13c",
+  "slug": "cfb-tol-akrn-2024-11-26",
+  "question": "Toledo vs. Akron"
+}

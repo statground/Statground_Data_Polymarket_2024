@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:40:53.659531Z",
+  "market_createdAt": "2024-07-17T20:40:53.659531Z",
+  "market_updatedAt": "2024-08-05T19:42:57.892866Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:15:07+00",
+  "conditionId": "0x58c38a5276de2a10fc03508383774b19d0f4bf527fbe19bdcfd98d0dc5530ebf",
+  "slug": "will-kenny-bednarek-usa-win-gold-in-100m",
+  "question": "Will Kenny Bednarek (USA) win Gold in 100m?"
+}

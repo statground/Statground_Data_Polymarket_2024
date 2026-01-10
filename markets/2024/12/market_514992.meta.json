@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T21:38:29.921617Z",
+  "market_createdAt": "2024-12-06T21:38:29.921617Z",
+  "market_updatedAt": "2024-12-14T00:35:17.888585Z",
+  "market_startDate": "2024-12-06T22:13:11.565131Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:21:45+00",
+  "conditionId": "0xc4502bfced0566b1366dd23dc250dca62b40660ca7f01a46310e68ee6e52ea6b",
+  "slug": "180-mps-vote-to-impeach-yoon",
+  "question": "<180 MPs vote to impeach Yoon?"
+}

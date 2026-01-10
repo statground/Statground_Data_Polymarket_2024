@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-01T20:00:24.150961Z",
+  "market_createdAt": "2024-09-01T20:00:24.150961Z",
+  "market_updatedAt": "2024-09-03T22:03:06.718289Z",
+  "market_startDate": "2024-09-01T22:09:16.519435Z",
+  "market_endDate": "2024-09-02T12:00:00Z",
+  "market_closedTime": "2024-09-02 22:00:33+00",
+  "conditionId": "0x3a7606c68849e6459d0b34bb074c81563386d99d773c8c56ad92a13cb45897bb",
+  "slug": "us-open-medvedev-vs-borges",
+  "question": "US Open: Medvedev vs. Borges"
+}

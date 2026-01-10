@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T23:27:37.007020Z",
+  "market_createdAt": "2024-11-12T23:27:37.00702Z",
+  "market_updatedAt": "2024-11-17T04:44:57.895685Z",
+  "market_startDate": "2024-11-14T20:51:47.867657Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 05:11:46+00",
+  "conditionId": "0xa37c4fffc2a298c0654f1b1be751300b0bdbb9459ddd49d0f0996ada6a653603",
+  "slug": "barrios-vs-ramos",
+  "question": "Barrios vs. Ramos"
+}

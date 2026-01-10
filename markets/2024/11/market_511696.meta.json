@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:44:57.957851Z",
+  "market_createdAt": "2024-11-01T18:44:57.957851Z",
+  "market_updatedAt": "2024-11-04T20:41:28.250993Z",
+  "market_startDate": "2024-11-01T22:13:13.58615Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:35:16+00",
+  "conditionId": "0x573398f00944496c3181c9b0a64f2c0ff35e3f38a99d19e88cd261a627c4cac1",
+  "slug": "will-the-ravens-beat-the-broncos-by-10-or-more-points",
+  "question": "Will the Ravens beat the Broncos by 10 or more points?"
+}

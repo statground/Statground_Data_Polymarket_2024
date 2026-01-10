@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-23T18:14:44.143169Z",
+  "market_createdAt": "2024-04-23T18:14:44.143169Z",
+  "market_updatedAt": "2024-06-02T03:56:11.636365Z",
+  "market_startDate": "2024-04-23T18:47:19.477Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:35:45+00",
+  "conditionId": "0x31b380f2c7173c5095ba2bafd50d4ebfe996ddbaad4070b7f0f12af0429fa422",
+  "slug": "will-bome-hit-5-billion-fdv-before-june",
+  "question": "Will $BOME hit $5 Billion FDV before June?"
+}

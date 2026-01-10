@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:53:00.614854Z",
+  "market_createdAt": "2024-04-04T17:53:00.614854Z",
+  "market_updatedAt": "2024-11-08T01:03:06.900213Z",
+  "market_startDate": "2024-04-12T19:11:12.552Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:43:52+00",
+  "conditionId": "0x1a98a4c6a8e9af6340bdb4e076ee0f07eb7363fb752fe028aa9d9b337e189767",
+  "slug": "will-a-republican-win-new-york-us-senate-election",
+  "question": "Will a Republican win New York US Senate Election?"
+}

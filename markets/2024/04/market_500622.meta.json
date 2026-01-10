@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T17:22:14.342041Z",
+  "market_createdAt": "2024-04-02T17:22:14.342041Z",
+  "market_updatedAt": "2024-11-08T02:43:04.196855Z",
+  "market_startDate": "2024-04-03T21:34:56.244Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 16:28:38+00",
+  "conditionId": "0x3ceadb2db8926fcc1e9f5b28d765ee20721f2aa9537bdb5d17f0fa2ab7cbd5cc",
+  "slug": "will-a-republican-win-maryland-us-senate-election",
+  "question": "Will a Republican win Maryland US Senate Election?"
+}

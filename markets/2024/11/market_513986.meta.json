@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:56:47.881685Z",
+  "market_createdAt": "2024-11-25T19:56:47.881685Z",
+  "market_updatedAt": "2024-12-21T02:59:05.104013Z",
+  "market_startDate": "2024-11-25T22:15:05.524Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:02:59+00",
+  "conditionId": "0xdf2050d2911dcbb73f4c9c48ebfa9711f86064460aca0793d074fe5d857eea48",
+  "slug": "will-mew-be-listed-first-on-robinhood",
+  "question": "Will $MEW be listed first on Robinhood?"
+}

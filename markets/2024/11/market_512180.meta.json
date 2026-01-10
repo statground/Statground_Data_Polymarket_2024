@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T17:48:13.938520Z",
+  "market_createdAt": "2024-11-06T17:48:13.93852Z",
+  "market_updatedAt": "2024-11-23T23:42:44.915669Z",
+  "market_startDate": "2024-11-06T18:27:08.155Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:40:23+00",
+  "conditionId": "0x0b1fb15cb93e0d3db85cb283460ed8236078250c7d07f7f8f0cda968691fc5e4",
+  "slug": "will-trump-nominate-jamie",
+  "question": "Will Trump nominate Jamie Dimon for Treasury Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T17:28:54.299554Z",
+  "market_createdAt": "2024-04-25T17:28:54.299554Z",
+  "market_updatedAt": "2024-05-07T23:09:18.265256Z",
+  "market_startDate": "2024-04-25T17:53:55.198Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 04:36:40+00",
+  "conditionId": "0x1861ee9496301e7269e5e9868193ec307fded0410298207afb0be63566ef1caf",
+  "slug": "will-the-patriots-draft-jj-mccarthy",
+  "question": "Will the Patriots draft J.J. McCarthy?"
+}

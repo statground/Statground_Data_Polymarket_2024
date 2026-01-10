@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T19:08:29.491722Z",
+  "market_createdAt": "2024-08-14T19:08:29.491722Z",
+  "market_updatedAt": "2024-08-22T00:43:01.619258Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:12:02+00",
+  "conditionId": "0xbd510572330368c80dee581fe9f90d3eb9e5a35976b042ac5304c8174d1f9b40",
+  "slug": "will-john-william-liccione-win-the-fl-13-democratic-primary",
+  "question": "Will John William Liccione win the FL-13 Democratic primary?"
+}

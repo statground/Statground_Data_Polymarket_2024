@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T18:20:38.382502Z",
+  "market_createdAt": "2024-03-28T18:20:38.382502Z",
+  "market_updatedAt": "2024-07-04T18:35:49.734443Z",
+  "market_startDate": "2024-03-28T18:22:16.902Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-04 18:01:44+00",
+  "conditionId": "0x73531e600541608053a7fb2fc3261821485fb0d26450dea661af6961c65bf440",
+  "slug": "will-donald-trump-be-president-of-the-usa-on-july-4-2024",
+  "question": "Will Donald Trump be President of the USA on July 4, 2024?"
+}

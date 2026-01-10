@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:17:36.093982Z",
+  "market_createdAt": "2024-10-15T18:17:36.093982Z",
+  "market_updatedAt": "2024-10-18T05:12:46.259163Z",
+  "market_startDate": "2024-10-15T20:38:12.669Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:21:59+00",
+  "conditionId": "0xb2adf2e805fbb810d9ebdfe898b817a5c77baefb80d97cc33696d826e215bc2c",
+  "slug": "will-trump-say-border-25-or-more-times-during-univision-town-hall",
+  "question": "Will Trump say \"Border\" 25 or more times during Univision town hall?"
+}

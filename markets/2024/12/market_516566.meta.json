@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:37:33.504753Z",
+  "market_createdAt": "2024-12-27T21:37:33.504753Z",
+  "market_updatedAt": "2024-12-30T20:30:00.172205Z",
+  "market_startDate": "2024-12-27T22:15:33.138353Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:25:43+00",
+  "conditionId": "0x0ad90804511fe1ed3ec0ce90201b36d73b378d5cc0d6dacfbee349f903501d56",
+  "slug": "will-the-raiders-and-saints-combine-for-38-or-more-points",
+  "question": "Will the Raiders and Saints combine for 38 or more points?"
+}

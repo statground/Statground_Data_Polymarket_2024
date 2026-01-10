@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T19:25:38.059339Z",
+  "market_createdAt": "2024-11-19T19:25:38.059339Z",
+  "market_updatedAt": "2024-11-24T00:54:49.507521Z",
+  "market_startDate": "2024-11-20T18:05:05.509339Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:10:27+00",
+  "conditionId": "0x4b6a1e557768d6c3bde603108b91fed63984ec1e089789fa2cfc948a3bf4c84b",
+  "slug": "will-trump-nominate-casey-means-for-cdc-director",
+  "question": "Will Trump nominate Casey Means for CDC Director?"
+}

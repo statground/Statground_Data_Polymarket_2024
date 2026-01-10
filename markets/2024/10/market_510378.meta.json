@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:33:27.421603Z",
+  "market_createdAt": "2024-10-21T20:33:27.421603Z",
+  "market_updatedAt": "2024-10-28T07:36:48.144852Z",
+  "market_startDate": "2024-10-21T20:36:04.108098Z",
+  "market_endDate": "2024-10-27T00:00:00Z",
+  "market_closedTime": "2024-10-27 08:12:31+00",
+  "conditionId": "0xa7bb38f62bdfde57843dd52901d24a4197871189cc55e47aa7fa0373a9b8f0b6",
+  "slug": "nba-orl-mem-2024-10-26",
+  "question": "Magic vs. Grizzlies"
+}

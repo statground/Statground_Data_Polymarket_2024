@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:25:22.174749Z",
+  "market_createdAt": "2024-12-17T21:25:22.174749Z",
+  "market_updatedAt": "2024-12-23T15:57:35.346573Z",
+  "market_startDate": "2024-12-19T23:24:33.420069Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-22 17:56:50+00",
+  "conditionId": "0x7823c6b230bc57323562af8c3e1b62642ff22e834ef4754045e60e0ca3b326ca",
+  "slug": "will-everton-and-chelsea-combine-for-3-or-more-goals",
+  "question": "Will Everton and Chelsea combine for 3 or more goals?"
+}

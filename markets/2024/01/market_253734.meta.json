@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T18:52:02.100000Z",
+  "market_createdAt": "2024-01-09T18:52:02.1Z",
+  "market_updatedAt": "2024-11-13T08:03:05.88586Z",
+  "market_startDate": "2024-01-09T23:50:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-12 08:28:09+00",
+  "conditionId": "0x21dacbae08cd922e9fe1e5f3a4b2ea09820d36f2ed368d6b53683b0fc1f16fe1",
+  "slug": "will-aoc-win-the-popular-vote-in-the-2024-presidential-election",
+  "question": "Will AOC win the popular vote in the 2024 Presidential Election?"
+}

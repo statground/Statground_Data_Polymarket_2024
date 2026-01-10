@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503463",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-14T01:09:29.919806Z",
+  "market_createdAt": "2024-07-14T01:09:29.919806Z",
+  "market_updatedAt": "2024-08-02T17:13:04.550908Z",
+  "market_startDate": "2024-07-17T20:15:52.711Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 18:20:59+00",
+  "conditionId": "0xc791970f7c8e4ec55c197752d083807dfd20806574dcb4d668f601fdba3fcd93",
+  "slug": "fact-check-was-trump-wearing-a-bulletproof-vest",
+  "question": "Fact Check: Was Trump wearing a bulletproof vest?"
+}

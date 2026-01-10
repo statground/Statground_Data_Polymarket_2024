@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T19:54:17.193901Z",
+  "market_createdAt": "2024-09-26T19:54:17.193901Z",
+  "market_updatedAt": "2024-09-30T03:30:37.917317Z",
+  "market_startDate": "2024-09-27T16:21:03.864489Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 04:57:33+00",
+  "conditionId": "0x774bf22354d1ef297a77f717c75a0db20863f90258eb925cd2c822ea6710ce09",
+  "slug": "will-penn-st-beat-illinois-by-18-or-more-points",
+  "question": "Will Penn St. beat Illinois by 18 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T18:45:04.583796Z",
+  "market_createdAt": "2024-06-25T18:45:04.583796Z",
+  "market_updatedAt": "2024-06-27T19:51:05.809427Z",
+  "market_startDate": "2024-06-25T18:55:04.988Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 21:05:17+00",
+  "conditionId": "0xc03040ea457fe12680374114bbf09cd3eaa8510120f2ce5de5bb1960eda83dbb",
+  "slug": "will-the-match-be-a-draw-slo-rom",
+  "question": "Will the match be a draw?"
+}

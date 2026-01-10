@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:13:23.070376Z",
+  "market_createdAt": "2024-07-10T17:13:23.070376Z",
+  "market_updatedAt": "2024-07-19T21:18:40.899329Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 07:09:46+00",
+  "conditionId": "0xb21a84e03ab129f1b91924102a097b9fe1ef5268a3448ba9393712e83d084b61",
+  "slug": "will-jake-paul-speak-at-the-rnc",
+  "question": "Will Jake Paul speak at the RNC?"
+}

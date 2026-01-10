@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:37:55.952646Z",
+  "market_createdAt": "2024-06-03T23:37:55.952646Z",
+  "market_updatedAt": "2024-06-08T02:31:16.269159Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:56+00",
+  "conditionId": "0xac70c789ea003fa7f69b4c884fccaef7811339d7ec5fdb8943e658ae6f309b47",
+  "slug": "jayson-tatum-25-points-in-every-game-of-nba-finals",
+  "question": "Jayson Tatum 25+ points in every game of NBA Finals?"
+}

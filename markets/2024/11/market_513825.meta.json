@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:12:58.189512Z",
+  "market_createdAt": "2024-11-24T05:12:58.189512Z",
+  "market_updatedAt": "2024-12-02T04:11:14.350914Z",
+  "market_startDate": "2024-11-24T05:15:57.10997Z",
+  "market_endDate": "2024-12-08T00:00:00Z",
+  "market_closedTime": "2024-12-01 05:42:21+00",
+  "conditionId": "0x8affaff49564a95116786f20e3de5d4381282eb0cfa2985f6eac9c458eb608cd",
+  "slug": "cfb-okla-lsu-2024-11-30",
+  "question": "Oklahoma vs. LSU"
+}

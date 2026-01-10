@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:58:41.055923Z",
+  "market_createdAt": "2024-08-21T14:58:41.055923Z",
+  "market_updatedAt": "2024-08-23T02:07:06.436056Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:21:20+00",
+  "conditionId": "0x42dc0b0163818ee257421945bc37797c32546955a67179206a23cfa8d7f6c06b",
+  "slug": "will-pelosi-say-crypto-or-bitcoin-at-dnc-speech",
+  "question": "Will Pelosi say \"Crypto\" or \"Bitcoin\" at DNC speech?"
+}

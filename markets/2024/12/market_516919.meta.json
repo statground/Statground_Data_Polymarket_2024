@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:03:51.870282Z",
+  "market_createdAt": "2024-12-31T05:03:51.870282Z",
+  "market_updatedAt": "2025-01-04T06:46:44.019678Z",
+  "market_startDate": "2024-12-31T05:06:24.438446Z",
+  "market_endDate": "2025-01-10T00:30:00Z",
+  "market_closedTime": "2025-01-03 06:43:57+00",
+  "conditionId": "0x2cc1c78d8236d6760eca4285474a01d0824c5b08bebaaec6b60997ca494c0a5f",
+  "slug": "cfb-duke-miss-2025-01-02",
+  "question": "Duke vs. Ole Miss"
+}

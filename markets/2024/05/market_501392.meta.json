@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T16:53:42.665455Z",
+  "market_createdAt": "2024-05-03T16:53:42.665455Z",
+  "market_updatedAt": "2024-05-07T23:09:52.033566Z",
+  "market_startDate": "2024-05-03T17:02:57.551Z",
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-04 12:52:15+00",
+  "conditionId": "0xa8c308dd797723e006621006efd41ab97199cdc5c9908e4de64ebbb12cb5535d",
+  "slug": "friendtech-3-new-posts-by-midnight",
+  "question": "@friendtech 3+ new posts by midnight?"
+}

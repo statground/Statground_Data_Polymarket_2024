@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T16:31:45.329493Z",
+  "market_createdAt": "2024-07-22T16:31:45.329493Z",
+  "market_updatedAt": "2024-10-03T00:06:41.200198Z",
+  "market_startDate": "2024-08-06T15:30:32.923Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:25:49+00",
+  "conditionId": "0x75b11a483569e10a365536325111eaad75ccc9b02cfa7f26dd4695772943f5f8",
+  "slug": "vp-debate-before-election",
+  "question": "VP debate before election?"
+}

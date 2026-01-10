@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:24:36.356191Z",
+  "market_createdAt": "2024-10-04T16:24:36.356191Z",
+  "market_updatedAt": "2024-10-06T22:35:18.859603Z",
+  "market_startDate": "2024-10-04T18:32:22.648276Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:02:38+00",
+  "conditionId": "0xb78f7ccc3cc33d919e96182410d3448cc3cc39320ee3e0f94d8714381646d038",
+  "slug": "will-indiana-beat-northwestern",
+  "question": "Will Indiana beat Northwestern?"
+}

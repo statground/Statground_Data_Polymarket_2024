@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:22:30.733985Z",
+  "market_createdAt": "2024-09-17T17:22:30.733985Z",
+  "market_updatedAt": "2025-05-08T08:20:24.065166Z",
+  "market_startDate": "2024-09-17T18:10:08.504943Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-05-07 02:09:32+00",
+  "conditionId": "0x2225d3fd97fb2b164d60984af11e887fb3e6e9652e608832a3597368a00add22",
+  "slug": "will-barcelona-win-the-uefa-champions-league",
+  "question": "Will Barcelona win the UEFA Champions League?"
+}

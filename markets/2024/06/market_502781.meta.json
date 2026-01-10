@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T04:43:20.349731Z",
+  "market_createdAt": "2024-06-24T04:43:20.349731Z",
+  "market_updatedAt": "2024-06-25T20:56:10.247401Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 00:20:58+00",
+  "conditionId": "0xe8f39eac877cb32bcf92a5b26c918de0be01a2a3d88fd7d5e7690b7ef06984ae",
+  "slug": "will-the-match-be-a-draw-spain-albania",
+  "question": "Will the match be a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T17:23:05.025734Z",
+  "market_createdAt": "2024-07-11T17:23:05.025734Z",
+  "market_updatedAt": "2024-07-13T00:40:48.151336Z",
+  "market_startDate": "2024-07-11T18:16:52.955Z",
+  "market_endDate": "2024-07-11T12:00:00Z",
+  "market_closedTime": "2024-07-12 01:57:04+00",
+  "conditionId": "0xb3a897686c0c54f94b69a9d1ec6bf903e396f8b0199605d4730000bc588009d0",
+  "slug": "will-biden-say-golf-during-july-11-press-conference",
+  "question": "Will Biden say \"Golf\" during July 11 press conference?"
+}

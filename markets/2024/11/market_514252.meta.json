@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T20:45:16.488514Z",
+  "market_createdAt": "2024-11-27T20:45:16.488514Z",
+  "market_updatedAt": "2024-11-29T23:53:25.36121Z",
+  "market_startDate": "2024-11-27T21:04:52.152222Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 03:17:59+00",
+  "conditionId": "0x5240140662e0f0f1c877c87923fa5504a81fc1d9c7fd8ef93c0655be66d9f363",
+  "slug": "will-either-team-kick-a-55-yard-field-goal",
+  "question": "Will either team kick a 55+ yard Field Goal?"
+}

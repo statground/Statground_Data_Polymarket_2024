@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:17:35.633225Z",
+  "market_createdAt": "2024-03-18T15:17:35.633225Z",
+  "market_updatedAt": "2024-05-07T23:09:55.517874Z",
+  "market_startDate": "2024-03-18T18:58:14.912Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-23 08:36:36+00",
+  "conditionId": "0x4764222ddea2fc8a175a95a3ae838ea5a1b41c22ae31b4b591ecc0a443d574b0",
+  "slug": "will-saint-marys-win-the-ncaa-tournament",
+  "question": "Will Saint Mary's win the NCAA tournament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:06:35.575093Z",
+  "market_createdAt": "2024-11-24T05:06:35.575093Z",
+  "market_updatedAt": "2024-12-02T04:27:13.114454Z",
+  "market_startDate": "2024-11-24T05:09:12.613597Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 06:26:22+00",
+  "conditionId": "0xce0889c969f38a5da49b11cd204132105ed42d6b352ac91b5562df32c1a8857d",
+  "slug": "cfb-wash-oreg-2024-11-30",
+  "question": "Washington vs. Oregon"
+}

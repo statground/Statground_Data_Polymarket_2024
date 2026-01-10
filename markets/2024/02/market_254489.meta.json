@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T23:30:18.568000Z",
+  "market_createdAt": "2024-02-14T23:30:18.568Z",
+  "market_updatedAt": "2024-05-17T15:24:12.387095Z",
+  "market_startDate": "2024-02-15T17:18:41.223Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-05-16 20:27:38+00",
+  "conditionId": "0x4d754e7a11e10983076618f64986997f68c41e60300ced92e553a05665d667b0",
+  "slug": "drift-airdrop-by-june-30",
+  "question": "Drift airdrop by June 30?"
+}

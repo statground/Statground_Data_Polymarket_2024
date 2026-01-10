@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T18:29:54.773000Z",
+  "market_createdAt": "2024-01-31T18:29:54.773Z",
+  "market_updatedAt": "2024-02-10T15:25:52.277Z",
+  "market_startDate": "2024-01-31T19:43:09.923Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-09 15:16:34+00",
+  "conditionId": "0x6edf60fdbd6d80e91ddc8f10dea7c1baa1132f307ef30f087b35324032ebe222",
+  "slug": "will-eth-hit-2500-in-february",
+  "question": "Will ETH hit $2,500 in February?"
+}

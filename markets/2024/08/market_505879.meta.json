@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:28:08.705341Z",
+  "market_createdAt": "2024-08-27T13:28:08.705341Z",
+  "market_updatedAt": "2024-10-12T03:16:42.193371Z",
+  "market_startDate": "2024-08-27T13:28:08.705341Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-11 05:58:41+00",
+  "conditionId": "0x7370441e90434d98cbae31d86f8966dd16a00b2b91c85424ad8d5a1dfd1b14d2",
+  "slug": "will-the-kansas-city-royals-win-the-world-series",
+  "question": "Will the Kansas City Royals win the World Series?"
+}

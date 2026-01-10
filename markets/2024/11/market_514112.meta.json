@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:31:18.781804Z",
+  "market_createdAt": "2024-11-26T08:31:18.781804Z",
+  "market_updatedAt": "2024-11-29T22:49:25.456797Z",
+  "market_startDate": "2024-11-26T23:00:41.460034Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:15:21+00",
+  "conditionId": "0x6d4441333d5d76f492b7ea40d0039113fc48ffbabc52007411c3b0f95cdb3736",
+  "slug": "will-frankfurt-beat-fc-midtjylland",
+  "question": "Will Frankfurt beat FC Midtjylland?"
+}

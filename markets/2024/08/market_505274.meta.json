@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T13:13:00.482638Z",
+  "market_createdAt": "2024-08-19T13:13:00.482638Z",
+  "market_updatedAt": "2024-08-24T06:11:05.625828Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 06:24:14+00",
+  "conditionId": "0xfcebd42e5d8a18bc4ac058ae6581384ef459e2459161b7b9c8c5140aa7743108",
+  "slug": "kamala-harris-dnc-speech-under-30-minutes",
+  "question": "Kamala Harris DNC speech under 30 minutes?"
+}

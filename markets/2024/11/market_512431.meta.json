@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T20:03:25.293711Z",
+  "market_createdAt": "2024-11-08T20:03:25.293711Z",
+  "market_updatedAt": "2024-11-11T04:32:46.214662Z",
+  "market_startDate": "2024-11-08T22:19:39.07375Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:21:53+00",
+  "conditionId": "0x40dc2f8a26a9f9722fc616e5c565f21452da6fd3d89721b8370e79d963436255",
+  "slug": "cfb-notre-dame-vs-florida-state",
+  "question": "CFB: Notre Dame vs. Florida State"
+}

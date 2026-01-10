@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T19:12:29.302139Z",
+  "market_createdAt": "2024-06-24T19:12:29.302139Z",
+  "market_updatedAt": "2024-07-09T06:05:45.65082Z",
+  "market_startDate": "2024-06-24T22:42:06.444Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-08 07:22:50+00",
+  "conditionId": "0x2303e7d877d176ee0641ebbd6b1be54f2c312ef5f53243e370c8e89cdcdc926a",
+  "slug": "will-national-rally-win-175-199-seats",
+  "question": "Will National Rally win 175-199 seats?"
+}

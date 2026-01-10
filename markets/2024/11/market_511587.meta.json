@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:03:23.685564Z",
+  "market_createdAt": "2024-11-01T16:03:23.685564Z",
+  "market_updatedAt": "2024-11-03T04:07:07.78717Z",
+  "market_startDate": "2024-11-01T16:06:00.824959Z",
+  "market_endDate": "2024-11-01T23:00:00Z",
+  "market_closedTime": "2024-11-02 07:05:16+00",
+  "conditionId": "0x07e4dc6dbb3e1609873c29de523e2299eb3125f9f39b4ef0c544227bb98ab50d",
+  "slug": "nba-nyk-det-2024-11-01",
+  "question": "Knicks vs. Pistons"
+}

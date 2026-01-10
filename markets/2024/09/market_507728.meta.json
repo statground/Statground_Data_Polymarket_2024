@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507728",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T17:54:45.603088Z",
+  "market_createdAt": "2024-09-23T17:54:45.603088Z",
+  "market_updatedAt": "2024-09-26T22:00:46.266909Z",
+  "market_startDate": "2024-09-23T22:11:21.636861Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 22:04:26+00",
+  "conditionId": "0xe9297af868a517eebd652813dbfda4b83277c3ff962264c9e198548034f6422c",
+  "slug": "will-porto-beat-bodo-glimt",
+  "question": "Will Porto beat Bodo Glimt?"
+}

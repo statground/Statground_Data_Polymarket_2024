@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:10:35.186719Z",
+  "market_createdAt": "2024-12-01T05:10:35.186719Z",
+  "market_updatedAt": "2024-12-07T04:35:18.650825Z",
+  "market_startDate": "2024-12-01T05:13:56.494827Z",
+  "market_endDate": "2024-12-13T00:00:00Z",
+  "market_closedTime": "2024-12-06 04:35:44+00",
+  "conditionId": "0xfa5a8c5f14b215ea98de0df77d091ff4bb291f7f410965400c64a50ad2deeaf5",
+  "slug": "nba-den-cle-2024-12-05",
+  "question": "Nuggets vs. Cavaliers"
+}

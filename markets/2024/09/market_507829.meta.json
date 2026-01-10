@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:48:25.380898Z",
+  "market_createdAt": "2024-09-24T04:48:25.380898Z",
+  "market_updatedAt": "2024-09-30T21:52:41.176221Z",
+  "market_startDate": "2024-09-24T04:50:44.654804Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:25:12+00",
+  "conditionId": "0xfa7290587067f8d1ceb9ceae72efeb6fb6f4c10d93d73f4634f2e74310b3628e",
+  "slug": "nfl-hou-jax-2024-09-29",
+  "question": "Texans vs. Jaguars"
+}

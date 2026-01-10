@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:48:51.588731Z",
+  "market_createdAt": "2024-07-17T17:48:51.588731Z",
+  "market_updatedAt": "2024-08-12T18:52:53.882077Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:54:58+00",
+  "conditionId": "0xb82873dcd25879dda82196711e0a3aed998605b88e701c5f6b95cd894e9836bc",
+  "slug": "will-france-win-gold-in-womens-basketball",
+  "question": "Will France win Gold in Women's Basketball?"
+}

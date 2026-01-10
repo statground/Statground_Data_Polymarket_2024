@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:38:52.773918Z",
+  "market_createdAt": "2024-10-11T15:38:52.773918Z",
+  "market_updatedAt": "2024-10-14T00:30:46.135004Z",
+  "market_startDate": "2024-10-11T19:07:09.864131Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:47:00+00",
+  "conditionId": "0x46b55d16bd6cc4cb706f9f526f2b6509f8ee29343accd302e59ee1f3d3d6a3b1",
+  "slug": "will-byu-beat-arizona-by-4-or-more-points",
+  "question": "Will BYU beat Arizona by 4 or more points?"
+}

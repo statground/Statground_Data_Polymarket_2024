@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:14:27.732000Z",
+  "market_createdAt": "2024-01-12T19:14:27.732Z",
+  "market_updatedAt": "2024-03-11T23:57:59.429Z",
+  "market_startDate": "2024-01-16T17:52:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:45:06+00",
+  "conditionId": "0x986570eaebff38d248bd002709458c526259744345214bb403e189d1c614f8e8",
+  "slug": "will-the-zone-of-interest-win-the-oscar-for-best-picture",
+  "question": "Will \"The Zone of Interest\" win the Oscar for Best Picture?"
+}

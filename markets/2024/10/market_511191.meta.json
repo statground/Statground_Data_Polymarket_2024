@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:17:04.591786Z",
+  "market_createdAt": "2024-10-28T20:17:04.591786Z",
+  "market_updatedAt": "2024-11-05T02:53:09.901196Z",
+  "market_startDate": "2024-10-28T20:19:41.094997Z",
+  "market_endDate": "2024-11-03T21:25:00Z",
+  "market_closedTime": "2024-11-04 03:01:32+00",
+  "conditionId": "0x09705a1441948a996cc2a053033f39ff13a921f2080b2c10a213748fff54e8be",
+  "slug": "nfl-det-gb-2024-11-03",
+  "question": "Lions vs. Packers"
+}

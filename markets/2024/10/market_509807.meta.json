@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:06:33.291524Z",
+  "market_createdAt": "2024-10-14T18:06:33.291524Z",
+  "market_updatedAt": "2024-10-17T03:26:49.603877Z",
+  "market_startDate": "2024-10-14T23:55:48.787Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 03:30:04+00",
+  "conditionId": "0xd1c3e56dbc849f056e97defdf5099e1c95ffac2526e5893e3516ac50289cb242",
+  "slug": "will-trump-say-dark-maga-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say \"Dark MAGA\" during Georgia speech on Oct 15?"
+}

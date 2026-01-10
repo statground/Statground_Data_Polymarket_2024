@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-05T23:19:13.275504Z",
+  "market_createdAt": "2024-10-05T23:19:13.275504Z",
+  "market_updatedAt": "2024-10-08T04:40:50.757654Z",
+  "market_startDate": "2024-10-06T01:45:08.641705Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-07 05:22:50+00",
+  "conditionId": "0x60c3b138ef4d34d1b1dc5e17d15f9792c6f22c42e4df700917e14b5e7af0881f",
+  "slug": "nlds-dodgers-vs-padres-game-2",
+  "question": "NLDS: Dodgers vs. Padres Game 2"
+}

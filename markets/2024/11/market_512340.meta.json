@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T23:53:29.207545Z",
+  "market_createdAt": "2024-11-07T23:53:29.207545Z",
+  "market_updatedAt": "2025-05-02T16:20:32.990988Z",
+  "market_startDate": "2024-11-08T00:19:54.627273Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2025-05-01 09:18:53+00",
+  "conditionId": "0x9872fe47fbf6284e5399c0f41d6d2c8fb310d2f4d2d50635ab3b36f6a0a7f5b0",
+  "slug": "will-nicolae-ciuca-win-the-2024-romanian-presidential-election",
+  "question": "Will Nicolae Ciucă win the 2024 Romanian Presidential election?"
+}

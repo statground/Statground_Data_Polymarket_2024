@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:35:06.597942Z",
+  "market_createdAt": "2024-09-20T16:35:06.597942Z",
+  "market_updatedAt": "2024-09-23T22:02:48.267358Z",
+  "market_startDate": "2024-09-20T18:29:38.017704Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:07:32+00",
+  "conditionId": "0x1672427229ca2c3608d2bad6ee07737dd569c3a685f33597ef96950cee8925a0",
+  "slug": "will-the-chargers-beat-the-steelers-by-2-or-more-points",
+  "question": "Will the Chargers beat the Steelers by 2 or more points?"
+}

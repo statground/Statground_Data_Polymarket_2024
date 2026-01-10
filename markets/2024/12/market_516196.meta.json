@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516196",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:01:45.795309Z",
+  "market_createdAt": "2024-12-22T05:01:45.795309Z",
+  "market_updatedAt": "2024-12-25T04:39:28.992757Z",
+  "market_startDate": "2024-12-22T05:04:56.880763Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:39:25+00",
+  "conditionId": "0xc09fa2f3e282b51f180fb8de064c49f3d709580c4de93ee144b1ab166d915786",
+  "slug": "nba-sas-phi-2024-12-23",
+  "question": "Spurs vs. 76ers"
+}

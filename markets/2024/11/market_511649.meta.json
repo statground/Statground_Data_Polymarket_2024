@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:18:57.719047Z",
+  "market_createdAt": "2024-11-01T17:18:57.719047Z",
+  "market_updatedAt": "2024-11-02T21:43:27.423465Z",
+  "market_startDate": "2024-11-01T22:50:00.403332Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 21:40:38+00",
+  "conditionId": "0xc2ca2cb5d482215b425f98d5bbe90a2fdebe197a841957969f6a6bdd6c71cdd4",
+  "slug": "will-minnesota-and-illinois-combine-for-46-or-more-points",
+  "question": "Will Minnesota and Illinois combine for 46 or more points?"
+}

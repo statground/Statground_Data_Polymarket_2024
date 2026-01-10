@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:41:19.066846Z",
+  "market_createdAt": "2024-06-25T19:41:19.066846Z",
+  "market_updatedAt": "2024-07-09T06:05:44.828973Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 07:07:16+00",
+  "conditionId": "0x5239ffe58da5c167236eec86e6bd1edbb3b7e7a04a57b5c94c61d9ef6561027e",
+  "slug": "will-new-popular-front-win-between-130-and-159-seats",
+  "question": "Will New Popular Front win between 130 and 159 seats?"
+}

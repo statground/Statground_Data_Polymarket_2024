@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:34:12.289808Z",
+  "market_createdAt": "2024-12-30T17:34:12.289808Z",
+  "market_updatedAt": "2026-01-02T08:32:23.47486Z",
+  "market_startDate": "2024-12-30T18:14:28.561Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 09:07:41+00",
+  "conditionId": "0x2573b652eb48365d20cd4396072e0e71b5401ed8ae2866a02b80dbc690fe9063",
+  "slug": "sam-altman-out-as-openai-ceo-in-2025",
+  "question": "Sam Altman out as OpenAI CEO in 2025?"
+}

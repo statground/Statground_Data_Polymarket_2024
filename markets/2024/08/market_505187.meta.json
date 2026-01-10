@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:26:39.711459Z",
+  "market_createdAt": "2024-08-16T00:26:39.711459Z",
+  "market_updatedAt": "2024-08-18T22:40:54.580361Z",
+  "market_startDate": "2024-08-16T03:18:32.116Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 22:45:18+00",
+  "conditionId": "0xd2c0cb03a6cd2765d736ae1a7513e53d9082ea3db716032642ee07ba583d511d",
+  "slug": "will-trump-say-drill-baby-drill-at-his-rally",
+  "question": "Will Trump say \"Drill baby drill\" at his rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:34:16.026190Z",
+  "market_createdAt": "2024-08-07T23:34:16.02619Z",
+  "market_updatedAt": "2024-08-11T15:10:53.119078Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 02:01:57+00",
+  "conditionId": "0xd46869ee4d90141f2fab3a40738a0edb33fe94e2d355d08aa4de978247f5aab4",
+  "slug": "nfl-nyj-wsh-2024-08-10",
+  "question": "Jets vs. Commanders"
+}

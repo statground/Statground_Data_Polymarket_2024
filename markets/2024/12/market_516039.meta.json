@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T16:09:00.888049Z",
+  "market_createdAt": "2024-12-19T16:09:00.888049Z",
+  "market_updatedAt": "2025-01-30T22:31:04.284574Z",
+  "market_startDate": "2024-12-19T19:57:07.791Z",
+  "market_endDate": "2025-01-29T12:00:00Z",
+  "market_closedTime": "2025-01-29 23:43:44+00",
+  "conditionId": "0x3dc7da0c46467e1617c5c5cb24a8f020937935064d414dbb9683c7a747190def",
+  "slug": "will-powell-say-tariff-5-or-more-times-during-january-press-conference",
+  "question": "Will Powell say \"tariff\" 5 or more times during January press conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T21:33:36.198387Z",
+  "market_createdAt": "2024-12-19T21:33:36.198387Z",
+  "market_updatedAt": "2025-05-03T08:20:29.752703Z",
+  "market_startDate": "2024-12-27T17:32:49.414592Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-03 01:16:50+00",
+  "conditionId": "0x1550c4d1f797a426d64660891c775a3664bc41c0b71cc5b0afe5586af1ee359d",
+  "slug": "will-bournemouth-finish-in-the-top-4-of-epl",
+  "question": "Will Bournemouth finish in the top 4 of EPL?"
+}

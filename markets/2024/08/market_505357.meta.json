@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T18:04:42.268964Z",
+  "market_createdAt": "2024-08-19T18:04:42.268964Z",
+  "market_updatedAt": "2024-08-21T03:53:03.209135Z",
+  "market_startDate": "2024-08-19T18:35:39.064Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 04:19:04+00",
+  "conditionId": "0x02ed4b469eeb6e693b636bc8e7c54636de45f499bcc8f7853436d908d8fcabfc",
+  "slug": "will-hillary-clinton-say-woman-president-at-dnc-speech",
+  "question": "Will Hillary Clinton say \"Woman president\" at DNC speech?"
+}

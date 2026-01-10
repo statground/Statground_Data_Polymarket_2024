@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T20:21:23.616872Z",
+  "market_createdAt": "2024-09-04T20:21:23.616872Z",
+  "market_updatedAt": "2024-09-06T05:07:51.454241Z",
+  "market_startDate": "2024-09-04T20:55:37.781Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-09-06 05:04:51+00",
+  "conditionId": "0x633662ce37007dec1eb753f74727cfd062a375158123489f502f849afdbec350",
+  "slug": "will-ravens-dst-score-the-first-td",
+  "question": "Will Ravens D/ST score the first TD?"
+}

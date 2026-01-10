@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:11:25.820942Z",
+  "market_createdAt": "2024-11-18T15:11:25.820942Z",
+  "market_updatedAt": "2024-11-20T23:12:59.778069Z",
+  "market_startDate": "2024-11-18T15:18:44.766107Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 00:25:23+00",
+  "conditionId": "0xa8dff721f77d0acbe41dd8111ff85a98ee759bd5341d5e280e9e41506c73457d",
+  "slug": "spacex-6th-starship-launch-reaches-space",
+  "question": "SpaceX 6th Starship launch reaches space?"
+}

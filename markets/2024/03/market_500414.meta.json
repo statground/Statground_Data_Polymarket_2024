@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T20:21:47.932435Z",
+  "market_createdAt": "2024-03-22T20:21:47.932435Z",
+  "market_updatedAt": "2024-05-07T23:10:02.446538Z",
+  "market_startDate": "2024-03-22T21:09:58.519Z",
+  "market_endDate": "2024-03-31T12:00:00Z",
+  "market_closedTime": "2024-04-01 06:26:38+00",
+  "conditionId": "0x6bf8a16a0d31d4a2431ccad2ffa7341415ebdb3a63d7dcb7765c0a5d8ca92655",
+  "slug": "ukraine-responsible-for-russia-attack",
+  "question": "Ukraine responsible for Moscow attack? "
+}

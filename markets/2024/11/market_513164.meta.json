@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:08:53.547501Z",
+  "market_createdAt": "2024-11-15T19:08:53.547501Z",
+  "market_updatedAt": "2024-11-17T21:09:20.604312Z",
+  "market_startDate": "2024-11-15T22:08:14.955797Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 23:15:52+00",
+  "conditionId": "0xbb37b4fceba000528a6ba4e2608e6c2bc93794cda0a92558cbd8487838e4b6aa",
+  "slug": "will-clemson-beat-pitt-by-12-or-more-points",
+  "question": "Will Clemson beat Pitt by 12 or more points?"
+}

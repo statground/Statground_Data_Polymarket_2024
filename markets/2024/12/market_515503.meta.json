@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T20:18:43.534487Z",
+  "market_createdAt": "2024-12-12T20:18:43.534487Z",
+  "market_updatedAt": "2025-04-02T07:48:31.324856Z",
+  "market_startDate": "2024-12-12T23:08:53.279366Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:51:30+00",
+  "conditionId": "0x9d2399f73bcf8a21d50a4f148cb821958aaf3b66104cd51b472f9c7fcef16a66",
+  "slug": "will-bitcoin-reach-150000-by-march-31",
+  "question": "Will Bitcoin reach $150,000 by March 31?"
+}

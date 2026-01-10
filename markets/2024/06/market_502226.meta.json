@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T19:52:20.119957Z",
+  "market_createdAt": "2024-06-07T19:52:20.119957Z",
+  "market_updatedAt": "2024-06-19T23:26:13.600958Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-19 04:18:06+00",
+  "conditionId": "0x59ca2103a0659686248d4ce7719f586f4fdb38a25c409a0334233839f4cd205a",
+  "slug": "will-eddie-garcia-win-the-2024-virginia-senate-republican-primary",
+  "question": "Will Eddie Garcia win the 2024 Virginia Senate Republican Primary?"
+}

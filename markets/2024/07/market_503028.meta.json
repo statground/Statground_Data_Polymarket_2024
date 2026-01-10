@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T04:37:56.441773Z",
+  "market_createdAt": "2024-07-01T04:37:56.441773Z",
+  "market_updatedAt": "2024-07-02T23:45:46.789728Z",
+  "market_startDate": "2024-07-01T04:47:25.031Z",
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 00:02:43+00",
+  "conditionId": "0x6b945e23797043f997b2da0db05d63f16a7bbd18f741c72fb844a76fbf492305",
+  "slug": "will-the-match-be-a-draw-por-slo",
+  "question": "Will the match be a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T18:39:28.087312Z",
+  "market_createdAt": "2024-06-20T18:39:28.087312Z",
+  "market_updatedAt": "2024-12-19T04:25:52.513936Z",
+  "market_startDate": "2024-06-20T18:39:28.087312Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 06:28:24+00",
+  "conditionId": "0x9c8a446375ba3cbb33c23d93720ef460d80d739b0c17f2d0905d045420a3ed27",
+  "slug": "faithless-elector-in-us-election",
+  "question": "Faithless elector in US election?"
+}

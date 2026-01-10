@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-12T23:33:41.200000Z",
+  "market_createdAt": "2024-02-12T23:33:41.2Z",
+  "market_updatedAt": "2024-04-22T22:23:33.324532Z",
+  "market_startDate": "2024-02-13T00:40:00Z",
+  "market_endDate": "2024-02-11T00:00:00Z",
+  "market_closedTime": "2024-02-14 10:30:53+00",
+  "conditionId": "0xe501aa68855ef444a0966a01efe38d4c1755fd115440cf6ffc324a1d21af536c",
+  "slug": "will-nyc-have-between-6pt5-and-7pt5-inches-of-snowfall-on-tuesday",
+  "question": "Will NYC have between 6.5 and 7.5 inches of snowfall on Tuesday?"
+}

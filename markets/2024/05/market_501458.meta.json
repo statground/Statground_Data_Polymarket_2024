@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T16:42:32.173887Z",
+  "market_createdAt": "2024-05-07T16:42:32.173887Z",
+  "market_updatedAt": "2024-05-14T20:59:16.182676Z",
+  "market_startDate": "2024-05-07T18:07:59.376Z",
+  "market_endDate": "2024-05-13T12:00:00Z",
+  "market_closedTime": "2024-05-14 02:40:56+00",
+  "conditionId": "0x23f85fdd2cbe9dc30645c666502bc732b52d1f8f3b59bc567add3f01fe97bb2b",
+  "slug": "will-kingdom-of-the-planet-of-the-apes-gross-less-than-46m-on-its-opening-weekend",
+  "question": "Will 'Kingdom of the Planet of the Apes' gross less than $46m on its opening weekend?"
+}

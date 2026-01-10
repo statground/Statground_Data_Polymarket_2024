@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T17:14:46.606534Z",
+  "market_createdAt": "2024-05-29T17:14:46.606534Z",
+  "market_updatedAt": "2024-06-03T06:21:09.791415Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 07:13:29+00",
+  "conditionId": "0xf34fcf553af63a7efe717e004c2b0e537e4c4e230d704530ebefcd6c13fe012d",
+  "slug": "ufc-302-islam-makhachev-vs-dustin-poirier",
+  "question": "UFC 302: Islam Makhachev vs. Dustin Poirier"
+}

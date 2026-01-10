@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:27:25.857000Z",
+  "market_createdAt": "2024-03-01T18:27:25.857Z",
+  "market_updatedAt": "2024-11-07T13:33:05.034815Z",
+  "market_startDate": "2024-03-28T20:28:17.758Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 13:26:45+00",
+  "conditionId": "0xf15c3b1459441d68519b4a698e8b971ffc9001d8a0438010e8acc2d0fc083c75",
+  "slug": "will-a-republican-win-iowa-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Iowa Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:02:02.594426Z",
+  "market_createdAt": "2024-11-12T20:02:02.594426Z",
+  "market_updatedAt": "2024-12-01T20:37:29.040067Z",
+  "market_startDate": "2024-11-12T20:15:27.697635Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:05+00",
+  "conditionId": "0x90badb4afa977f0a64efebc7eec945d596d0a3a7c4b0b361907df2d39d93859f",
+  "slug": "will-dogecoin-reach-0pt80-before-december-1",
+  "question": "Will Dogecoin reach $0.80 before December?"
+}

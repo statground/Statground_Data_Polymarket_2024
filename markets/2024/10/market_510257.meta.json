@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T14:45:23.360622Z",
+  "market_createdAt": "2024-10-21T14:45:23.360622Z",
+  "market_updatedAt": "2024-10-23T05:01:22.708076Z",
+  "market_startDate": "2024-10-21T16:44:21.142298Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 06:00:24+00",
+  "conditionId": "0x114c74ee8dafaa4d08f84b13ac50d91444ad5067c376101ee15e80797013368f",
+  "slug": "will-the-chargers-win-by-2-or-more-points",
+  "question": "Will the Chargers win by 2 or more points?"
+}

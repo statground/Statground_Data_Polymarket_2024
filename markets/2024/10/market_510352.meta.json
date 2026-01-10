@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:22:24.677207Z",
+  "market_createdAt": "2024-10-21T20:22:24.677207Z",
+  "market_updatedAt": "2024-10-25T06:41:18.268973Z",
+  "market_startDate": "2024-10-21T20:24:57.477555Z",
+  "market_endDate": "2024-10-24T02:00:00Z",
+  "market_closedTime": "2024-10-24 06:45:26+00",
+  "conditionId": "0x357616dd661c2d5049d3980cde0244b8408db0831d17c6e2a4dc2891da6d56f7",
+  "slug": "nba-gs-por-2024-10-23",
+  "question": "Warriors vs. Trail Blazers"
+}

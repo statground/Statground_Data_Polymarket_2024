@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:29:13.004033Z",
+  "market_createdAt": "2024-12-05T21:29:13.004033Z",
+  "market_updatedAt": "2024-12-09T19:35:17.067405Z",
+  "market_startDate": "2024-12-05T22:55:55.142Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:13:34+00",
+  "conditionId": "0xb7a2dc41d99bb400279281958c8ae65e4c16c418cdfd398aa13683bc44207bc6",
+  "slug": "will-trump-say-pardon-during-nbc-interview",
+  "question": "Will Trump say \"pardon\" during NBC interview?"
+}

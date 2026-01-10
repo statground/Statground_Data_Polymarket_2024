@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:24:28.674000Z",
+  "market_createdAt": "2024-03-05T05:24:28.674Z",
+  "market_updatedAt": "2024-04-22T22:36:57.071723Z",
+  "market_startDate": "2024-03-05T06:03:19.425Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 06:17:38+00",
+  "conditionId": "0x7f085f47aea1c313d7b05717202d73e8f44e3675f17c5e7e02274e1b85b06849",
+  "slug": "will-trump-win-arkansas-republican-primary",
+  "question": "Will Trump win Arkansas Republican Primary?"
+}

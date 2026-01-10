@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512103",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:04:22.655874Z",
+  "market_createdAt": "2024-11-05T21:04:22.655874Z",
+  "market_updatedAt": "2024-11-08T19:53:03.210727Z",
+  "market_startDate": "2024-11-07T02:54:51.521456Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:05:04+00",
+  "conditionId": "0x2c400cf9cc65749b1114fcd1677b864c214e015ceddeab5e3d653add0e2b4fd1",
+  "slug": "will-the-match-between-frankfurt-and-slavia-praha-end-in-a-draw",
+  "question": "Will the match between Frankfurt and Slavia Praha end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T18:49:24.792963Z",
+  "market_createdAt": "2024-06-10T18:49:24.792963Z",
+  "market_updatedAt": "2024-07-06T16:10:48.340172Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:28:17+00",
+  "conditionId": "0x2c6e44d7e9a6a873955eb1cc9805cdc765cd7ca4230c3f1a12e7ec2aa6ef0fdb",
+  "slug": "reform-wins-the-second-most-seats-in-next-uk-election",
+  "question": "Reform wins the second most seats in next UK election? "
+}

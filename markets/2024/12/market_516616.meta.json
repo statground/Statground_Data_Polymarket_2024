@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:06:45.100309Z",
+  "market_createdAt": "2024-12-29T05:06:45.100309Z",
+  "market_updatedAt": "2025-01-04T08:08:48.642364Z",
+  "market_startDate": "2024-12-29T05:09:15.388956Z",
+  "market_endDate": "2025-01-10T03:30:00Z",
+  "market_closedTime": "2025-01-03 08:03:35+00",
+  "conditionId": "0x13044f50c2db7f4b70525119241096da76daaf3e8aef2436449cb8b0fd376cf5",
+  "slug": "nba-por-lal-2025-01-02",
+  "question": "Trail Blazers vs. Lakers"
+}

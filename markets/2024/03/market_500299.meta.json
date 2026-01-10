@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:18:30.869167Z",
+  "market_createdAt": "2024-03-18T23:18:30.869167Z",
+  "market_updatedAt": "2024-05-07T23:09:10.994537Z",
+  "market_startDate": "2024-03-19T00:01:08.261Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-21 10:36:12+00",
+  "conditionId": "0xf6ba6380b31896a6ea124b1ee4d5f513c9d5037d64efa148871379d95637ab68",
+  "slug": "will-ben-dewell-win-ca20-special-election",
+  "question": "Will Ben Dewell win CA-20 Special Election?"
+}

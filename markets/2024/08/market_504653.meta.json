@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T16:16:52.663796Z",
+  "market_createdAt": "2024-08-07T16:16:52.663796Z",
+  "market_updatedAt": "2024-08-24T05:42:58.641875Z",
+  "market_startDate": "2024-08-08T16:38:18.386Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:48:18+00",
+  "conditionId": "0x4aa64e62f39f54545369c372da7de8bfc6b2e178b5c0f121a0177a225eca9eeb",
+  "slug": "kamala-swap-at-dnc",
+  "question": "Kamala Harris replaced as nominee at DNC?"
+}

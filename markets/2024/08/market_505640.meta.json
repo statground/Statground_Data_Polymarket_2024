@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T17:03:19.140530Z",
+  "market_createdAt": "2024-08-22T17:03:19.14053Z",
+  "market_updatedAt": "2024-08-23T21:51:05.436478Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 22:33:05+00",
+  "conditionId": "0xdaeda61d063fa840993d225e27b5516a7b9efaaf629e23f0acada489016007e3",
+  "slug": "will-donald-trump-say-fracking-in-border-speech",
+  "question": "Will Donald Trump say \"Fracking\" in border speech?"
+}

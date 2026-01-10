@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:49:00.520574Z",
+  "market_createdAt": "2024-07-17T20:49:00.520574Z",
+  "market_updatedAt": "2024-08-08T23:06:12.871889Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-08 23:03:27+00",
+  "conditionId": "0x222bbf524f3dc375fab6b0ddd32911e3780228c10e7adc5d7acec658bf7ba4bc",
+  "slug": "will-daniel-roberts-usa-win-gold-in-110m-hurdles",
+  "question": "Will Daniel Roberts (USA) win Gold in 110m Hurdles?"
+}

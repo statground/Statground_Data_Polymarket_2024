@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:28:02.410256Z",
+  "market_createdAt": "2024-07-16T18:28:02.410256Z",
+  "market_updatedAt": "2024-07-20T04:14:43.872824Z",
+  "market_startDate": "2024-07-16T21:12:43.527Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:19:52+00",
+  "conditionId": "0x30bc3574a88c5912b03a81f02a7f3900758b07e41b7721fd93ef8739f6829351",
+  "slug": "will-trump-say-felon-during-rnc-speech",
+  "question": "Will Trump say \"felon\" during RNC speech?"
+}

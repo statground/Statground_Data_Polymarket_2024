@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T16:15:24.449019Z",
+  "market_createdAt": "2024-08-22T16:15:24.449019Z",
+  "market_updatedAt": "2024-08-24T02:11:03.648465Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:28:16+00",
+  "conditionId": "0x183ed502b61d15c1667e7c859ddb8868e7641ec6388e79ec1e20e23071bfeec9",
+  "slug": "will-gretchen-whitmer-say-muslim-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Muslim\" in DNC speech?"
+}

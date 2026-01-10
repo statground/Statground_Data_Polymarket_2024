@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T21:03:01.669872Z",
+  "market_createdAt": "2024-05-06T21:03:01.669872Z",
+  "market_updatedAt": "2024-07-17T03:02:43.751039Z",
+  "market_startDate": "2024-05-06T23:10:32.176Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:02:27+00",
+  "conditionId": "0x874113a400a67fae988f00d1b78d3157b6bb8a6c1dc9fcb70f140de7166bea6c",
+  "slug": "will-devin-nunes-win-the-2024-republican-vp-nomination",
+  "question": "Will Devin Nunes win the 2024 Republican VP nomination?"
+}

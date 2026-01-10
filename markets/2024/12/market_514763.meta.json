@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:10:49.511154Z",
+  "market_createdAt": "2024-12-04T21:10:49.511154Z",
+  "market_updatedAt": "2024-12-07T04:59:11.518378Z",
+  "market_startDate": "2024-12-04T21:14:14.431539Z",
+  "market_endDate": "2024-12-13T00:00:00Z",
+  "market_closedTime": "2024-12-06 05:10:19+00",
+  "conditionId": "0x0a4ff9e1ab0160815dc914c34950284b1c2da793e04bd0e5f0339fc22de99cd5",
+  "slug": "nhl-wpg-buf-2024-12-05",
+  "question": "Jets vs. Sabres"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T01:07:07.403048Z",
+  "market_createdAt": "2024-10-30T01:07:07.403048Z",
+  "market_updatedAt": "2024-12-03T20:43:10.250317Z",
+  "market_startDate": "2024-10-30T01:26:17.50195Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-02 22:51:10+00",
+  "conditionId": "0xe27badc50c0237913a349c0325c5a6d7dbfaaea17fa7c1c00113ed9de2ac17e5",
+  "slug": "will-fischer-win-nebraska-senate-election-by-7-points",
+  "question": "Will Fischer win Nebraska senate election by 7+ points?"
+}

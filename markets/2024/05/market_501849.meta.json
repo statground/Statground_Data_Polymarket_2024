@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501849",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T18:29:41.098693Z",
+  "market_createdAt": "2024-05-28T18:29:41.098693Z",
+  "market_updatedAt": "2024-07-05T05:50:48.750916Z",
+  "market_startDate": "2024-05-29T23:30:38.258Z",
+  "market_endDate": "2024-07-03T12:00:00Z",
+  "market_closedTime": "2024-07-04 07:04:35+00",
+  "conditionId": "0x09e89f5a5d4b66668c89d2323af10fa48816ea13dc991272ec9896d5e6ffd84d",
+  "slug": "ethereum-etf-begins-trading-by-july-4",
+  "question": "Ethereum ETF begins trading by July 4?"
+}

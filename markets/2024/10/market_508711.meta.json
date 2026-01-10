@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T19:42:01.311262Z",
+  "market_createdAt": "2024-10-02T19:42:01.311262Z",
+  "market_updatedAt": "2024-10-08T00:26:41.61038Z",
+  "market_startDate": "2024-10-02T21:36:05.409028Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-07 03:37:20+00",
+  "conditionId": "0xab59ce1aece7e97c13006171b486ac02aa32af9167a758b77eada7c493cd6aa4",
+  "slug": "will-flyquest-win-esl-challenger-atlanta-2024",
+  "question": "Will FlyQuest win ESL Challenger Atlanta 2024?"
+}

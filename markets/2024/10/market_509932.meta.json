@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:16:18.862824Z",
+  "market_createdAt": "2024-10-15T19:16:18.862824Z",
+  "market_updatedAt": "2024-10-18T04:36:46.037336Z",
+  "market_startDate": "2024-10-15T20:44:25.603Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:22:13+00",
+  "conditionId": "0x9a7c4e782111d40e0dfd38ef3919d48bb6a52e979922e590d1dbfc736e70f133",
+  "slug": "will-trump-say-aurora-during-univision-town-hall",
+  "question": "Will Trump say \"Aurora\" during Univision town hall?"
+}

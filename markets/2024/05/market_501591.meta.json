@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T19:30:41.562400Z",
+  "market_createdAt": "2024-05-14T19:30:41.5624Z",
+  "market_updatedAt": "2024-05-17T02:19:12.811813Z",
+  "market_startDate": "2024-05-14T19:39:29.275Z",
+  "market_endDate": "2024-05-15T12:00:00Z",
+  "market_closedTime": "2024-05-16 03:24:59+00",
+  "conditionId": "0xcabc58e2ed774f6b775938aa3088cc0054df39f1f582f126bf10b55010436667",
+  "slug": "nba-bos-cle-2024-05-15",
+  "question": "Boston Celtics vs Cleveland Cavaliers: Game 5"
+}

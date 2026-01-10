@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:32:34.002474Z",
+  "market_createdAt": "2024-11-15T19:32:34.002474Z",
+  "market_updatedAt": "2024-11-18T05:29:12.806759Z",
+  "market_startDate": "2024-11-15T22:13:54.159031Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 09:08:04+00",
+  "conditionId": "0x7bf4857a7307f1c3cb70cc1f3114b5d69821c0f1ed18e42f4609032b97262bfb",
+  "slug": "will-unlv-beat-san-diego-state",
+  "question": "Will UNLV beat San Diego State?"
+}

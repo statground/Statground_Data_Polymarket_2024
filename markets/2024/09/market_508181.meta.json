@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T00:49:21.510653Z",
+  "market_createdAt": "2024-09-26T00:49:21.510653Z",
+  "market_updatedAt": "2024-09-27T16:16:50.447995Z",
+  "market_startDate": "2024-09-26T14:28:11.1498Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-26 23:23:23+00",
+  "conditionId": "0x005255cf11cd73c97fb660d6db692a37e011ca99d466864fd738588f6208bd85",
+  "slug": "will-the-seattle-mariners-make-the-playoffs",
+  "question": "Will the Seattle Mariners make the Playoffs?"
+}

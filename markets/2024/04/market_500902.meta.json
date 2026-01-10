@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T18:25:50.016543Z",
+  "market_createdAt": "2024-04-11T18:25:50.016543Z",
+  "market_updatedAt": "2024-05-07T23:09:38.490595Z",
+  "market_startDate": "2024-04-11T18:36:43.495Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:25:59+00",
+  "conditionId": "0x063b6a2635f84edc86ddf5ad160629f780b7bac9495ac01e157b850225962a57",
+  "slug": "degen-all-time-high-before-may",
+  "question": "$DEGEN all time high in April?"
+}

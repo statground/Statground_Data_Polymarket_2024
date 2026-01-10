@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:47:52.191316Z",
+  "market_createdAt": "2024-11-15T21:47:52.191316Z",
+  "market_updatedAt": "2024-11-17T22:01:18.279687Z",
+  "market_startDate": "2024-11-15T23:17:06.671411Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 00:56:42+00",
+  "conditionId": "0xeb2660cd02c01874b0ce0eeca9a620435f4cbbc26685c9d9140d8f685d801307",
+  "slug": "will-sweden-beat-slovakia-nov-16",
+  "question": "Will Sweden beat Slovakia?"
+}

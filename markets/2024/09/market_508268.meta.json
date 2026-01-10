@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T19:16:18.648100Z",
+  "market_createdAt": "2024-09-26T19:16:18.6481Z",
+  "market_updatedAt": "2024-09-30T01:16:36.21282Z",
+  "market_startDate": "2024-09-27T16:06:21.704243Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 01:49:48+00",
+  "conditionId": "0x778bc976d0841a8f7d9ffe35482ac4361009b993a206b7649f784b14d7d5c342",
+  "slug": "will-ucf-beat-colorado-by-15-or-more-points",
+  "question": "Will UCF beat Colorado by 15 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:54:39.242272Z",
+  "market_createdAt": "2024-10-18T18:54:39.242272Z",
+  "market_updatedAt": "2024-10-20T07:34:21.538863Z",
+  "market_startDate": "2024-10-18T23:04:56.496105Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 07:31:13+00",
+  "conditionId": "0x6e6729257bc6212604a242e0fe12d622de895a81f25cf5a23e703ceff374902a",
+  "slug": "will-there-be-57-or-more-combined-points-scored-UNLV-OSU",
+  "question": "Will there be 57 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T18:40:57.365952Z",
+  "market_createdAt": "2024-06-20T18:40:57.365952Z",
+  "market_updatedAt": "2024-06-29T06:01:06.458069Z",
+  "market_startDate": "2024-06-24T22:47:07.042Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 05:56:53+00",
+  "conditionId": "0x597a05a8da2fd0125b5e333087f1907383c52a72ac4829b2b4bcfe8c9f9aed27",
+  "slug": "will-trump-say-sleepy-joe-during-the-debate",
+  "question": "Will Trump say \"Sleepy Joe\" during the debate?"
+}

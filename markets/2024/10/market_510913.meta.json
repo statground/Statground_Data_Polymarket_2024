@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:32:44.389643Z",
+  "market_createdAt": "2024-10-25T15:32:44.389643Z",
+  "market_updatedAt": "2024-10-26T05:19:51.605106Z",
+  "market_startDate": "2024-10-25T22:42:39.856985Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:16:37+00",
+  "conditionId": "0x4a8183e8fb41749a6db204b2b79ebb6ddd147770d8b2fa3eaa51be6593c72136",
+  "slug": "will-there-be-54-or-more-combined-points-scored-Louisville-Boston-College",
+  "question": "Will there be 54 or more combined points scored?"
+}

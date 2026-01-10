@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T16:38:55.427681Z",
+  "market_createdAt": "2024-05-15T16:38:55.427681Z",
+  "market_updatedAt": "2024-05-19T06:29:01.077367Z",
+  "market_startDate": "2024-05-16T17:41:01.593Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-18 06:25:28+00",
+  "conditionId": "0x7c24ca28e94e9b86c9412738b76a5ad03512f814d95a8ede9f59bb3c9650132a",
+  "slug": "nyc-dublin-livestream-portal-reactivated-by-friday",
+  "question": "NYC-Dublin portal back online by Friday?"
+}

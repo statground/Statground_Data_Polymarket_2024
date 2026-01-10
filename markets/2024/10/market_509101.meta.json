@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:20:36.713187Z",
+  "market_createdAt": "2024-10-07T19:20:36.713187Z",
+  "market_updatedAt": "2025-05-23T23:01:21.676664Z",
+  "market_startDate": "2024-10-08T14:47:56.472227Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-30 07:34:05+00",
+  "conditionId": "0x604e0a2c994985f63ca96608b76018319b55c784dc483c25c6092b3503500d4f",
+  "slug": "will-the-new-jersey-devils-win-the-2025-stanley-cup",
+  "question": "Will the New Jersey Devils win the 2025 Stanley Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T20:00:54.820295Z",
+  "market_createdAt": "2024-05-31T20:00:54.820295Z",
+  "market_updatedAt": "2024-07-02T06:05:50.392812Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:11:04+00",
+  "conditionId": "0xe3f024903e9547df7f16242b00cef6a9b0c5507b2f129cced11199d304dfd6d2",
+  "slug": "ethereum-all-time-high-in-june",
+  "question": "Ethereum all time high in June?"
+}

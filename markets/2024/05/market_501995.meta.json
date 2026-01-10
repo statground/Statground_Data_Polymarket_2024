@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T22:04:42.475856Z",
+  "market_createdAt": "2024-05-31T22:04:42.475856Z",
+  "market_updatedAt": "2024-06-26T20:16:15.130891Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:15:23+00",
+  "conditionId": "0xaeb07fa81cc53dee2ad8f700445e8a9d4758d3b8b1bc813adf0a475f0dc76d6b",
+  "slug": "will-croatia-win-the-2024-euros",
+  "question": "Will Croatia win the 2024 Euros?"
+}

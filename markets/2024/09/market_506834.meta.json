@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:32:52.911849Z",
+  "market_createdAt": "2024-09-11T16:32:52.911849Z",
+  "market_updatedAt": "2024-09-15T04:57:01.766759Z",
+  "market_startDate": "2024-09-12T22:42:19.097808Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 04:56:57+00",
+  "conditionId": "0xdee8ea334816aa573edfe2d6c5655578245e8a3dea836f15848712cff3707eae",
+  "slug": "will-trump-say-springfield-during-his-nevada-rally",
+  "question": "Will Trump say \"Springfield\" during his Nevada rally?"
+}

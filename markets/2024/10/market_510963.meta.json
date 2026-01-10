@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:30:19.024891Z",
+  "market_createdAt": "2024-10-25T18:30:19.024891Z",
+  "market_updatedAt": "2024-10-27T19:26:47.311623Z",
+  "market_startDate": "2024-10-25T22:21:09.03759Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-10-27 01:00:34+00",
+  "conditionId": "0x545efed8be75de6aa0427cb48fa7e9ed1ec943dd92ebf40e9ec56b096bb44045",
+  "slug": "will-there-be-67-or-more-combined-points-scored",
+  "question": "Will there be 67 or more combined points scored?"
+}

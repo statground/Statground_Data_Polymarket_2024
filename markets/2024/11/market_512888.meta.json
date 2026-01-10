@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:05:52.086487Z",
+  "market_createdAt": "2024-11-12T19:05:52.086487Z",
+  "market_updatedAt": "2024-11-24T06:11:23.709678Z",
+  "market_startDate": "2024-11-12T20:21:08.482153Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 06:20:19+00",
+  "conditionId": "0xbaa6873b9c13e90c587d7e9f1cc3239f9b11993fdb0ea941dca0e24d6d141891",
+  "slug": "will-dogecoin-reach-0pt45-before-december",
+  "question": "Will Dogecoin reach $0.45 before December?"
+}

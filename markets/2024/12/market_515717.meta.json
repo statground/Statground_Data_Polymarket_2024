@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:07:57.165126Z",
+  "market_createdAt": "2024-12-15T07:07:57.165126Z",
+  "market_updatedAt": "2024-12-22T04:34:49.408312Z",
+  "market_startDate": "2024-12-15T07:10:35.656365Z",
+  "market_endDate": "2024-12-28T00:00:00Z",
+  "market_closedTime": "2024-12-21 04:53:29+00",
+  "conditionId": "0xb6e9ca38a5314d45155c804fb333e8a6a494e0bfd577b822de356150f080efce",
+  "slug": "nhl-mon-det-2024-12-20",
+  "question": "Canadiens vs. Red Wings"
+}

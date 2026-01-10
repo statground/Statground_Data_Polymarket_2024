@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:01:59.887510Z",
+  "market_createdAt": "2024-12-30T05:01:59.88751Z",
+  "market_updatedAt": "2025-01-02T22:25:01.867313Z",
+  "market_startDate": "2024-12-30T05:04:30.370107Z",
+  "market_endDate": "2025-01-01T17:30:00Z",
+  "market_closedTime": "2025-01-01 22:43:31+00",
+  "conditionId": "0xa776a7c2556d6af1e1cb825ed27e4db012b12964778c0aec99215aaaff7480e1",
+  "slug": "epl-bre-ars-2025-01-01-ars",
+  "question": "Will Arsenal win on 2025-01-01?"
+}

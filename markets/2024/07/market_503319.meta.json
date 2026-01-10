@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:33:38.199595Z",
+  "market_createdAt": "2024-07-09T15:33:38.199595Z",
+  "market_updatedAt": "2024-12-24T00:17:41.06248Z",
+  "market_startDate": "2024-07-09T15:33:38.199595Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-23 01:00:10+00",
+  "conditionId": "0x95effab3f01f856708b93dd1e9cc92c8774eba9e387c49128007d6a19f6b035c",
+  "slug": "will-the-saints-win-super-bowl-2025",
+  "question": "Will the Saints win Super Bowl 2025?"
+}

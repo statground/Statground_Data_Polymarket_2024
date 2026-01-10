@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T19:33:16.457982Z",
+  "market_createdAt": "2024-06-14T19:33:16.457982Z",
+  "market_updatedAt": "2025-01-02T11:22:57.568964Z",
+  "market_startDate": "2024-06-14T20:42:17.292Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 12:20:59+00",
+  "conditionId": "0x579683d557562f7ddb1a258f506a5d0c9616a9e02725ea48fc03febe041ba313",
+  "slug": "will-another-trump-coin-be-first-to-reach-1b",
+  "question": "Will another Trump coin be first to reach $1b?"
+}

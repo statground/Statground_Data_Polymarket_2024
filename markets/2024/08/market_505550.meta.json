@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:40:34.773707Z",
+  "market_createdAt": "2024-08-21T15:40:34.773707Z",
+  "market_updatedAt": "2024-08-23T05:01:09.726206Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:21:48+00",
+  "conditionId": "0xe087c6072811ba380d97b2e1840c561228815d6873911f70ef0e31b4b549ddb4",
+  "slug": "will-pete-buttigieg-say-marriage-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Marriage\" in DNC speech?"
+}

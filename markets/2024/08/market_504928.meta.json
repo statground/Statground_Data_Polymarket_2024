@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:03:32.622807Z",
+  "market_createdAt": "2024-08-12T17:03:32.622807Z",
+  "market_updatedAt": "2024-08-19T03:46:52.833731Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 04:06:09+00",
+  "conditionId": "0xec6411ce19f9d29c5b4a7465a848b22a1fd638a8a8fe496f30ff10b6d0811248",
+  "slug": "nfl-lac-lar-2024-08-17",
+  "question": "Chargers vs. Rams"
+}

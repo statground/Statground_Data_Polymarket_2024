@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T20:47:54.810377Z",
+  "market_createdAt": "2024-11-21T20:47:54.810377Z",
+  "market_updatedAt": "2025-01-02T07:59:02.041835Z",
+  "market_startDate": "2024-11-21T21:52:14.169361Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:57:04+00",
+  "conditionId": "0x4a8178ea565b60d73b25f28d73dcf4bfb6d2e449656512d745e5997329f8ac7b",
+  "slug": "another-monkeypox-case-in-us-in-2024",
+  "question": "Another monkeypox case in US in 2024?"
+}

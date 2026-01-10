@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:44:21.880767Z",
+  "market_createdAt": "2024-11-26T08:44:21.880767Z",
+  "market_updatedAt": "2024-11-30T00:29:27.549208Z",
+  "market_startDate": "2024-11-26T23:12:10.747077Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:25:46+00",
+  "conditionId": "0x395e02474b4e803562c9b023b881ce7559572f18a8575e908fb99b883ad3f054",
+  "slug": "will-fenerbahce-beat-slavia-praha",
+  "question": "Will Fenerbahce beat Slavia Praha?"
+}

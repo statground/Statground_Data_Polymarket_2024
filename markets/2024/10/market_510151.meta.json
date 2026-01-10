@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:26:29.726117Z",
+  "market_createdAt": "2024-10-18T17:26:29.726117Z",
+  "market_updatedAt": "2024-10-20T16:00:48.070562Z",
+  "market_startDate": "2024-10-18T23:12:29.26723Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:42:57+00",
+  "conditionId": "0x40881e65232094591530a590af4d305cbff2a1a5eea68c51e09c1fe0aee75aa0",
+  "slug": "will-there-be-59-or-more-combined-points-scored-Arizona-Colorado",
+  "question": "Will there be 59 or more combined points scored?"
+}

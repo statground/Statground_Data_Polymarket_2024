@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T18:44:00.339136Z",
+  "market_createdAt": "2024-06-10T18:44:00.339136Z",
+  "market_updatedAt": "2024-07-06T16:50:47.20742Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:52:40+00",
+  "conditionId": "0xbdf50fc90cd5155830c0b25fc8285d83bb74be3e3cc906fe5b0ddac2c91eeecf",
+  "slug": "conservatives-win-the-second-most-seats-in-next-uk-election",
+  "question": "Conservatives win the second most seats in next UK election? "
+}

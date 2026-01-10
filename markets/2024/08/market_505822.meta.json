@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:58:29.148335Z",
+  "market_createdAt": "2024-08-26T19:58:29.148335Z",
+  "market_updatedAt": "2024-09-01T15:51:11.51759Z",
+  "market_startDate": "2024-08-26T19:58:29.148335Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:12:51+00",
+  "conditionId": "0xd98fc4735f43200bb0b65695853e3d976b640198ea138e1fe7084e4b8218b1f4",
+  "slug": "will-fulham-beat-ipswich-town",
+  "question": "Will Fulham beat Ipswich Town?"
+}

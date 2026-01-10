@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:24:38.646945Z",
+  "market_createdAt": "2024-07-15T19:24:38.646945Z",
+  "market_updatedAt": "2024-12-18T22:51:27.556502Z",
+  "market_startDate": "2024-07-16T18:05:54.694Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:22:40+00",
+  "conditionId": "0x58798f2c10ec863168c5fe947323744562c404280427c7a47d196a875cf0e0c1",
+  "slug": "will-pennsylvania-be-the-tipping-point-state",
+  "question": "Will Pennsylvania be the tipping point state?"
+}

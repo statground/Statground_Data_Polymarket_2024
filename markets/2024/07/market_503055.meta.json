@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T18:10:31.832315Z",
+  "market_createdAt": "2024-07-01T18:10:31.832315Z",
+  "market_updatedAt": "2024-08-07T10:06:50.71362Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 11:00:20+00",
+  "conditionId": "0xab4662ab715a51ea62a592aef6a69325655f3e14d51f2f9fcbc9df19fec9ea54",
+  "slug": "jamie-dimon-democratic-presidential-nominee",
+  "question": "Jamie Dimon Democratic Presidential Nominee?"
+}

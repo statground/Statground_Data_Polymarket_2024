@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:18:51.101786Z",
+  "market_createdAt": "2024-11-05T22:18:51.101786Z",
+  "market_updatedAt": "2024-11-08T21:58:53.490788Z",
+  "market_startDate": "2024-11-07T03:10:56.873061Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:16:37+00",
+  "conditionId": "0x54881cdad3f4d8e38299451b1c5bc835ff635ce391ecad2b52454d57aa892c8b",
+  "slug": "will-hoffenheim-beat-lyon",
+  "question": "Will Hoffenheim beat Lyon?"
+}

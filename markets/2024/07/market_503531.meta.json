@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T00:57:38.518247Z",
+  "market_createdAt": "2024-07-16T00:57:38.518247Z",
+  "market_updatedAt": "2024-07-20T15:38:41.824213Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:36+00",
+  "conditionId": "0x9c30d4d1aac86a6a25f9a1a898c85b13763b3e5dec5025e7a4d090f59d79af92",
+  "slug": "will-bryson-dechambeau-win-the-british-open",
+  "question": "Will Bryson DeChambeau win the British Open?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:31:38.294052Z",
+  "market_createdAt": "2024-06-04T15:31:38.294052Z",
+  "market_updatedAt": "2024-06-18T06:36:11.166104Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:34:40+00",
+  "conditionId": "0x1659d53ffbb560e0428be292489cacad75e8f51691d2d9a98300dedf7459ebe7",
+  "slug": "will-another-player-make-the-most-3-pointers-in-the-2024-nba-finals-series",
+  "question": "Will another player make the most 3-pointers in the 2024 NBA Finals series?"
+}

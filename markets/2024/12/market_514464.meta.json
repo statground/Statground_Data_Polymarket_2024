@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:35:03.320317Z",
+  "market_createdAt": "2024-12-02T19:35:03.320317Z",
+  "market_updatedAt": "2024-12-05T17:23:33.961902Z",
+  "market_startDate": "2024-12-02T20:02:22.723Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-04 17:23:39+00",
+  "conditionId": "0x1d0d16c9133f39c9717b8b7d7403d1bc7f8c2c20a3a476191933171658879294",
+  "slug": "will-ethreum-hit-3800-by-friday",
+  "question": "Will Ethereum hit $3,800 by Friday?"
+}

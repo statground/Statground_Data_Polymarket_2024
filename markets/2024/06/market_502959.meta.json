@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T04:19:33.186262Z",
+  "market_createdAt": "2024-06-28T04:19:33.186262Z",
+  "market_updatedAt": "2024-08-07T06:26:50.56758Z",
+  "market_startDate": "2024-06-28T04:35:09.934Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-06 06:30:52+00",
+  "conditionId": "0x0a65e72e6816aefbf3c55f076759d9aa8871b71c4db04d47b1f6c9d63e3ffc38",
+  "slug": "dnc-open-convention",
+  "question": "DNC open convention?"
+}

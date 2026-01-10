@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-17T22:22:53.989757Z",
+  "market_createdAt": "2024-08-17T22:22:53.989757Z",
+  "market_updatedAt": "2024-08-24T15:07:00.157148Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:27:51+00",
+  "conditionId": "0xaa024f28735abb0a09565830d395c2e28202dc349895136371325c0552761b35",
+  "slug": "trump-posts-50-99-times-on-x",
+  "question": "Trump posts 50-99 times on X?"
+}

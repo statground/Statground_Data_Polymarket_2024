@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T20:28:58.875925Z",
+  "market_createdAt": "2024-09-11T20:28:58.875925Z",
+  "market_updatedAt": "2024-11-06T08:17:12.610271Z",
+  "market_startDate": "2024-09-11T20:33:25.376755Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:27:07+00",
+  "conditionId": "0xc0fac3c06b9b1f37da72414868ff8875bfd06c4fdae2cb16a2e6a680bb9fe429",
+  "slug": "will-joe-biden-endorse-donald-trump",
+  "question": "Will Joe Biden endorse Donald Trump?"
+}

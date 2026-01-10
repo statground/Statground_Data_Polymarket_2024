@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511153",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:57:41.089554Z",
+  "market_createdAt": "2024-10-28T19:57:41.089554Z",
+  "market_updatedAt": "2024-11-01T02:27:01.062285Z",
+  "market_startDate": "2024-10-28T20:56:22.216Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 02:53:26+00",
+  "conditionId": "0xa6dfa90537a95cb532ca35df9cf421912fe8431e6c50588274ded99bb5d52d29",
+  "slug": "will-trump-say-packers-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"packers\" during Wisconsin rally on Oct 30?"
+}

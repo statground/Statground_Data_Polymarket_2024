@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:35:19.645715Z",
+  "market_createdAt": "2024-10-21T22:35:19.645715Z",
+  "market_updatedAt": "2024-10-24T20:57:21.180882Z",
+  "market_startDate": "2024-10-22T01:01:22.820154Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:29:44+00",
+  "conditionId": "0x0e1be5fac86046ce62b9480e5ef6f46671f18acee5de7a8d9d47d7eedb58cf9d",
+  "slug": "will-benfica-beat-feyenoord",
+  "question": "Will Benfica beat Feyenoord?"
+}

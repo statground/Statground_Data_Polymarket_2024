@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T20:53:56.942760Z",
+  "market_createdAt": "2024-06-05T20:53:56.94276Z",
+  "market_updatedAt": "2024-06-13T02:36:15.251216Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-11T12:00:00Z",
+  "market_closedTime": "2024-06-12 06:49:03+00",
+  "conditionId": "0x1d3311e3d250d9040883dfdd76c7da3d0c099ebfc3c7822f0ed00be812341026",
+  "slug": "will-another-candidate-win-the-2024-nevada-senate-democratic-primary",
+  "question": "Will another candidate win the 2024 Nevada Senate Democratic Primary?"
+}

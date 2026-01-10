@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:06:41.360619Z",
+  "market_createdAt": "2024-11-11T17:06:41.360619Z",
+  "market_updatedAt": "2024-12-02T07:19:22.832138Z",
+  "market_startDate": "2024-11-11T17:28:23.484312Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:20:27+00",
+  "conditionId": "0x393f8148b0b67bcf945fdd07988c771aacb363d589d9a1be7fd58f5261ce2f8a",
+  "slug": "will-ethereum-reach-3750-in-november",
+  "question": "Will Ethereum reach $3,750 in November?"
+}

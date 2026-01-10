@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:29:02.796453Z",
+  "market_createdAt": "2024-10-21T20:29:02.796453Z",
+  "market_updatedAt": "2024-10-27T05:56:52.81931Z",
+  "market_startDate": "2024-10-21T20:31:38.116835Z",
+  "market_endDate": "2024-10-26T01:30:00Z",
+  "market_closedTime": "2024-10-26 07:05:46+00",
+  "conditionId": "0xf22ef4fd4e93f22e563c79c60e8aa4f7c61c7d5d592b69bc6a9c29ba3f927812",
+  "slug": "nba-gs-utah-2024-10-25",
+  "question": "Warriors vs. Jazz"
+}

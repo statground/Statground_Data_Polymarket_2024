@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:26:19.555887Z",
+  "market_createdAt": "2024-11-05T04:26:19.555887Z",
+  "market_updatedAt": "2024-11-08T00:18:53.351247Z",
+  "market_startDate": "2024-11-05T20:16:38.229855Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:33:28+00",
+  "conditionId": "0xc69b6210574196331398f9511268333bba0615864837b076c6e58c7672decf1a",
+  "slug": "will-the-match-between-inter-milan-and-arsenal-end-in-a-draw",
+  "question": "Will the match between Inter Milan and Arsenal end in a draw?"
+}

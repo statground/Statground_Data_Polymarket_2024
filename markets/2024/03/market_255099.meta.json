@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:15:51.157000Z",
+  "market_createdAt": "2024-03-01T18:15:51.157Z",
+  "market_updatedAt": "2024-11-07T07:37:16.055128Z",
+  "market_startDate": "2024-03-08T19:45:00Z",
+  "market_endDate": "2024-11-03T00:00:00Z",
+  "market_closedTime": "2024-11-06 10:14:58+00",
+  "conditionId": "0x868de74d879cb10116576295577b377122fdbf45d400c723ee739d17ffa4a68c",
+  "slug": "will-a-candidate-from-another-party-win-north-carolina-presidential-election",
+  "question": "Will a candidate from another party win North Carolina Presidential Election?"
+}

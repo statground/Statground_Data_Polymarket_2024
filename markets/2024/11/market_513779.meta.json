@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:02:47.656898Z",
+  "market_createdAt": "2024-11-24T05:02:47.656898Z",
+  "market_updatedAt": "2024-12-01T06:51:24.418101Z",
+  "market_startDate": "2024-11-24T05:05:57.484021Z",
+  "market_endDate": "2024-12-07T00:30:00Z",
+  "market_closedTime": "2024-11-30 07:16:18+00",
+  "conditionId": "0xf625f480b655fb67ac2a210057fade0ecd53e0247dd6cc193739ab776db4e1b5",
+  "slug": "cfb-gt-uga-2024-11-29",
+  "question": "Georgia Tech vs. Georgia"
+}

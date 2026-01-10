@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:07:10.759931Z",
+  "market_createdAt": "2024-12-22T05:07:10.759931Z",
+  "market_updatedAt": "2024-12-28T05:01:33.752829Z",
+  "market_startDate": "2024-12-22T05:09:40.92371Z",
+  "market_endDate": "2025-01-03T01:00:00Z",
+  "market_closedTime": "2024-12-27 05:14:18+00",
+  "conditionId": "0xcd145afc48319cc8f242c5da91eeac798e6fa300cc4d908bc019af955404cd76",
+  "slug": "nba-hou-nop-2024-12-26",
+  "question": "Rockets vs. Pelicans"
+}

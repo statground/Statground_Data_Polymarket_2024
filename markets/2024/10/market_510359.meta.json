@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:25:21.875616Z",
+  "market_createdAt": "2024-10-21T20:25:21.875616Z",
+  "market_updatedAt": "2024-10-27T08:01:06.574154Z",
+  "market_startDate": "2024-10-21T20:28:02.926151Z",
+  "market_endDate": "2024-10-25T23:00:00Z",
+  "market_closedTime": "2024-10-26 08:00:18+00",
+  "conditionId": "0xafcb7970a9f99a591d6631fa63141f27d4a8f595571da5225b5a8a9f86a51587",
+  "slug": "nba-bkn-orl-2024-10-25",
+  "question": "Nets vs. Magic"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:48:07.113125Z",
+  "market_createdAt": "2024-12-06T22:48:07.113125Z",
+  "market_updatedAt": "2024-12-09T21:33:10.330222Z",
+  "market_startDate": "2024-12-06T23:29:51.432259Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 02:55:01+00",
+  "conditionId": "0xc0f2b980be44d5e6db354585c180e43eee2523bc3da025d47d5d85de4dd2247d",
+  "slug": "will-the-bills-beat-the-rams-by-4-or-more-points",
+  "question": "Will the Bills beat the Rams by 4 or more points?"
+}

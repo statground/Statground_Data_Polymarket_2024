@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:04:16.026494Z",
+  "market_createdAt": "2024-09-23T20:04:16.026494Z",
+  "market_updatedAt": "2025-02-02T07:03:06.768525Z",
+  "market_startDate": "2024-09-24T01:34:53.654458Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2025-02-01 07:57:29+00",
+  "conditionId": "0x15784db9f6e39c72f4a5f7bd2734a36b0de4a22b82b2ce1456df2a9ed6bdd1e5",
+  "slug": "og-shoots-vs-easy",
+  "question": "OG Shoots vs. Easy"
+}

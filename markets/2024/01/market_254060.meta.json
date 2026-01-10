@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T17:12:05.373000Z",
+  "market_createdAt": "2024-01-23T17:12:05.373Z",
+  "market_updatedAt": "2024-02-02T06:09:39.496Z",
+  "market_startDate": "2024-01-23T17:35:46.754Z",
+  "market_endDate": "2024-01-31T00:00:00Z",
+  "market_closedTime": "2024-02-01 07:03:05+00",
+  "conditionId": "0x2dcd2518ab9f270d5d44ac16bdbe890d559cdf817a78c0b483e9a2f19a450268",
+  "slug": "will-eth-dip-below-2000-by-end-of-jan",
+  "question": "Will ETH dip below $2,000 by end of Jan?"
+}

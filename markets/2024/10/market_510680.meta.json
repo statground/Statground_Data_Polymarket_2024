@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T23:49:14.798226Z",
+  "market_createdAt": "2024-10-22T23:49:14.798226Z",
+  "market_updatedAt": "2024-10-25T02:36:58.000098Z",
+  "market_startDate": "2024-10-22T23:52:09.270071Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:48:14+00",
+  "conditionId": "0x3c7be0fd411331abea3de05df9dd46ae4e804f46602439ef92ae1516aecef20f",
+  "slug": "will-trump-say-rogan-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"Rogan\" during Georgia rally on October 23?"
+}

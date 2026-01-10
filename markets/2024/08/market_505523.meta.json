@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:47:20.573696Z",
+  "market_createdAt": "2024-08-21T14:47:20.573696Z",
+  "market_updatedAt": "2024-08-23T02:17:04.426035Z",
+  "market_startDate": "2024-08-21T16:50:58.982Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:10:06+00",
+  "conditionId": "0x0502205359a3597607baa2d06100217be010039060b3baf4ddde4896b57951f6",
+  "slug": "will-bill-clinton-say-epstein-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Epstein\" at DNC speech?"
+}

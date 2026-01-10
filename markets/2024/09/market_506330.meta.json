@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:08:12.360383Z",
+  "market_createdAt": "2024-09-03T19:08:12.360383Z",
+  "market_updatedAt": "2024-09-06T03:01:08.465691Z",
+  "market_startDate": "2024-09-03T19:53:54.274Z",
+  "market_endDate": "2024-09-04T12:00:00Z",
+  "market_closedTime": "2024-09-05 04:02:49+00",
+  "conditionId": "0x962e58a130741c8c664e4282fd2af74b062530d3555e0680f2fe2588be87f2d6",
+  "slug": "will-trump-say-union-during-hannity-town-hall",
+  "question": "Will Trump say \"union\" during Hannity town hall?"
+}

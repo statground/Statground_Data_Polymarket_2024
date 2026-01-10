@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:37:11.593044Z",
+  "market_createdAt": "2024-11-02T19:37:11.593044Z",
+  "market_updatedAt": "2024-11-06T03:23:16.328582Z",
+  "market_startDate": "2024-11-02T20:50:30.234Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 03:27:28+00",
+  "conditionId": "0x75bc283cd6f70fe17fd5ab0848a9096f32537fdf7a2a07e4f69a4726500f0ed9",
+  "slug": "will-trump-say-china-7-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"China\" 7 or more times during Pittsburgh rally on Nov 4?"
+}

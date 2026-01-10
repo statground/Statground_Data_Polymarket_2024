@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T19:09:38.699585Z",
+  "market_createdAt": "2024-10-30T19:09:38.699585Z",
+  "market_updatedAt": "2024-11-04T16:42:59.445287Z",
+  "market_startDate": "2024-11-01T22:10:24.415Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 18:13:08+00",
+  "conditionId": "0x89fa4fbcaefc303d2ceddc8bcc49ad30fa5842bff80a94354029b4b0e4a54c8c",
+  "slug": "barriault-vs-stoltzfus",
+  "question": "Barriault vs. Stoltzfus"
+}

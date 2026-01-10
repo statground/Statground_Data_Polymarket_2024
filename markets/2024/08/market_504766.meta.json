@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T19:22:26.973207Z",
+  "market_createdAt": "2024-08-08T19:22:26.973207Z",
+  "market_updatedAt": "2024-11-07T17:19:06.623019Z",
+  "market_startDate": "2024-08-10T21:31:29.17Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 08:36:23+00",
+  "conditionId": "0x560b4afb67d3fe8b2743ce15540355c39ec19bc9535c9b320a5e6e86794fd9cf",
+  "slug": "will-marylands-abortion-protection-measure-pass",
+  "question": "Will Maryland's abortion protection measure pass?"
+}

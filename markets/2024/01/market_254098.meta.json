@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254098",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T16:59:24.653000Z",
+  "market_createdAt": "2024-01-25T16:59:24.653Z",
+  "market_updatedAt": "2024-02-26T05:09:54.932Z",
+  "market_startDate": "2024-01-25T17:14:00Z",
+  "market_endDate": "2024-02-20T00:00:00Z",
+  "market_closedTime": "2024-02-25 11:02:02+00",
+  "conditionId": "0x9d8a92fee4fd3998176f1d5f90c072d614345c2082a40169d61abf05cb7a9b34",
+  "slug": "will-trump-win-the-south-carolina-primary-by-less-than-10-of-the-vote",
+  "question": "Will Trump win the South Carolina Primary by less than 10% of the vote?"
+}

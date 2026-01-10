@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:13:56.902855Z",
+  "market_createdAt": "2024-08-26T20:13:56.902855Z",
+  "market_updatedAt": "2024-09-09T22:21:17.663394Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:40:38+00",
+  "conditionId": "0x216c3740661ac7f68a60c329fb7ee648553b995b04efa865d7e1c1388c46acb8",
+  "slug": "nfl-ind-hou-2024-09-08",
+  "question": "Colts vs. Texans"
+}

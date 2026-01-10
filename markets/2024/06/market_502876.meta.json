@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T17:20:14.048779Z",
+  "market_createdAt": "2024-06-25T17:20:14.048779Z",
+  "market_updatedAt": "2024-06-29T03:11:02.962137Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 04:18:55+00",
+  "conditionId": "0x117dd03aa625295946df37194aa6094b941ecd040a7c2d2e97dbc1c27373f917",
+  "slug": "will-biden-say-inflation-during-the-debate",
+  "question": "Will Biden say \"Inflation\" during the debate?"
+}

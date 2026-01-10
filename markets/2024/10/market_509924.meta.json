@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:03:08.476863Z",
+  "market_createdAt": "2024-10-15T19:03:08.476863Z",
+  "market_updatedAt": "2025-05-12T01:40:18.944005Z",
+  "market_startDate": "2024-10-15T22:45:50.20889Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-12 01:38:50+00",
+  "conditionId": "0x5fab6cc447bb2df9b4b8988de0090986b7afa68dc56bff8ef194f6323aec14ca",
+  "slug": "will-atalanta-win-the-serie-a",
+  "question": "Will Atalanta win the Serie A?"
+}

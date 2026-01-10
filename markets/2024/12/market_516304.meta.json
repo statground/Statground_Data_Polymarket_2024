@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:03:05.098076Z",
+  "market_createdAt": "2024-12-23T05:03:05.098076Z",
+  "market_updatedAt": "2024-12-29T06:51:28.767585Z",
+  "market_startDate": "2024-12-23T05:05:31.883407Z",
+  "market_endDate": "2025-01-04T01:00:00Z",
+  "market_closedTime": "2024-12-28 06:59:42+00",
+  "conditionId": "0xd936aa1aac00c81186851806d68ec99325b37c6c20a20302404c1016ae403043",
+  "slug": "cfb-syr-wsu-2024-12-27",
+  "question": "Syracuse vs. Washington State"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T15:45:43.332422Z",
+  "market_createdAt": "2024-06-06T15:45:43.332422Z",
+  "market_updatedAt": "2024-06-07T23:06:17.16947Z",
+  "market_startDate": "2024-06-06T16:08:18.274Z",
+  "market_endDate": "2024-06-06T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:36+00",
+  "conditionId": "0x8ef34332af53f510c0eab1ce6ae8bc73c4a00c5d0df9cbc1507e16ac4b0928e2",
+  "slug": "nba-finals-game-1-overunder-23pt5-points-for-kyrie-irving",
+  "question": "NBA Finals Game 1: Over/Under 23.5 Points for Kyrie Irving"
+}

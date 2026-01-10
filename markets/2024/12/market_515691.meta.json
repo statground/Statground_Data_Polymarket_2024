@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:01:22.598391Z",
+  "market_createdAt": "2024-12-15T07:01:22.598391Z",
+  "market_updatedAt": "2024-12-19T04:43:25.753087Z",
+  "market_startDate": "2024-12-15T07:03:55.623429Z",
+  "market_endDate": "2024-12-25T00:00:00Z",
+  "market_closedTime": "2024-12-18 04:43:16+00",
+  "conditionId": "0x7cbe1c9c8eef6d834dc273635b1bcf2a024631fe58e291493470ee2077b00ec1",
+  "slug": "nhl-buf-mon-2024-12-17",
+  "question": "Sabres vs. Canadiens"
+}

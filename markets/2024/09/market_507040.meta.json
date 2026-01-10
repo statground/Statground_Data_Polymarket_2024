@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:10:15.370440Z",
+  "market_createdAt": "2024-09-13T20:10:15.37044Z",
+  "market_updatedAt": "2024-09-16T16:56:39.153724Z",
+  "market_startDate": "2024-09-13T20:55:23.418Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:28:37+00",
+  "conditionId": "0x82843cd5b9c30bb792297a8e874c7e3a6f02620ec65c85b2bfa4be0729a377bb",
+  "slug": "will-the-commanders-beat-the-giants-by-2-or-more-points",
+  "question": "Will the Commanders beat the Giants by 2 or more points?"
+}

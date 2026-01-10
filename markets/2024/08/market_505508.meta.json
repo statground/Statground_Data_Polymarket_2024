@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T04:19:50.319884Z",
+  "market_createdAt": "2024-08-21T04:19:50.319884Z",
+  "market_updatedAt": "2024-08-23T05:31:08.31767Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:32:30+00",
+  "conditionId": "0xba56c5ce82843aee1f2e584a73eee90a94b0708bec9fc3ec2ad4dc57d7ace17b",
+  "slug": "will-pete-buttigieg-say-inflation-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Inflation\" in DNC speech?"
+}

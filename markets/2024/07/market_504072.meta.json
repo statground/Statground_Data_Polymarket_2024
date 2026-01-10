@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T14:50:10.874134Z",
+  "market_createdAt": "2024-07-25T14:50:10.874134Z",
+  "market_updatedAt": "2024-09-19T21:06:44.375089Z",
+  "market_startDate": "2024-08-02T20:44:18.626Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 21:25:00+00",
+  "conditionId": "0x0a533c938200a10df86423dfbe621a2f36bfd4abc457615cf4992ed721c566bf",
+  "slug": "fed-increases-interest-rates-by-25-bps-after-september-2024-meeting",
+  "question": "Fed increases interest rates by 25+ bps after September 2024 meeting?"
+}

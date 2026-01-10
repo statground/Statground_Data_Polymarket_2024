@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T17:21:24.741432Z",
+  "market_createdAt": "2024-08-09T17:21:24.741432Z",
+  "market_updatedAt": "2024-08-11T19:26:51.854814Z",
+  "market_startDate": null,
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-08-10 19:22:47+00",
+  "conditionId": "0x1b1de3108152ac0cc4eacbb6d3aa2a2efef4079772d02f3e4070ff266cd46dc0",
+  "slug": "will-ian-nepomniachtchi-win-the-speed-chess-championship",
+  "question": "Will Ian Nepomniachtchi win the Speed Chess Championship?"
+}

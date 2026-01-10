@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514891",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:40:41.601549Z",
+  "market_createdAt": "2024-12-05T21:40:41.601549Z",
+  "market_updatedAt": "2024-12-09T19:01:26.3974Z",
+  "market_startDate": "2024-12-05T22:57:20.942Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:43:41+00",
+  "conditionId": "0x182146449789b9f198c7d52290a699248c1098a12c547c341cf9ada264e1a08d",
+  "slug": "will-trump-say-tesla-during-nbc-interview",
+  "question": "Will Trump say \"Tesla\" during NBC interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T13:59:36.789887Z",
+  "market_createdAt": "2024-08-28T13:59:36.789887Z",
+  "market_updatedAt": "2024-12-09T18:37:11.436233Z",
+  "market_startDate": "2024-08-28T13:59:36.789887Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:53:23+00",
+  "conditionId": "0x357b7ca82e9d8b75557b32b207288377ba99897c3f6d12222824a78260f2c50f",
+  "slug": "will-another-team-win-the-2024-f1-constructors-cup",
+  "question": "Will another team win the 2024 F1 Constructors Championship?"
+}

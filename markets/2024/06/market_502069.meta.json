@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:07:15.325881Z",
+  "market_createdAt": "2024-06-03T23:07:15.325881Z",
+  "market_updatedAt": "2024-06-18T06:57:04.90304Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:55:26+00",
+  "conditionId": "0x21a9d9496a93672b792e1e9e8f3072f1147551038245916dd4f0993f885fbb88",
+  "slug": "jaylen-brown-top-scorer-in-nba-finals",
+  "question": "Jaylen Brown top scorer in NBA Finals? "
+}

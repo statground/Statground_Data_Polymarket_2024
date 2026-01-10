@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-27T21:07:38.339768Z",
+  "market_createdAt": "2024-03-27T21:07:38.339768Z",
+  "market_updatedAt": "2024-05-07T23:10:10.071589Z",
+  "market_startDate": "2024-03-27T23:20:05.039Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-04-03 10:30:50+00",
+  "conditionId": "0x6ec724e393e9fae9452ed15114e03acdb562874bb6d40172b26f9efd5bc343e7",
+  "slug": "ethena-token-fdv-between-7pt5b-and-10b-one-day-after-launch",
+  "question": "Ethena token FDV between 7.5b and 10b one day after launch?"
+}

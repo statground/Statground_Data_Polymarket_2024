@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T18:44:50.937423Z",
+  "market_createdAt": "2024-05-07T18:44:50.937423Z",
+  "market_updatedAt": "2024-07-06T04:25:45.793064Z",
+  "market_startDate": null,
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:32:44+00",
+  "conditionId": "0x18112be65a6d29d7d51a1e3af1e41d2884c4936ae25a5151ec625741d5f8420c",
+  "slug": "will-labour-win-375-399-seats-in-the-next-uk-election",
+  "question": "Will Labour win 375-399 seats in the next UK Election?"
+}

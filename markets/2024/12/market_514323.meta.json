@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:00:22.255703Z",
+  "market_createdAt": "2024-12-01T06:00:22.255703Z",
+  "market_updatedAt": "2024-12-09T22:43:21.681872Z",
+  "market_startDate": "2024-12-01T06:03:40.466005Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:16:05+00",
+  "conditionId": "0x8f23054af6638c20f0ec5a2fe58e2103de5dcb4aa9098b866e92bdfd54a07e84",
+  "slug": "nfl-lv-tb-2024-12-08",
+  "question": "Raiders vs. Buccaneers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T20:23:07.046791Z",
+  "market_createdAt": "2024-04-09T20:23:07.046791Z",
+  "market_updatedAt": "2024-05-07T23:09:58.266094Z",
+  "market_startDate": "2024-04-17T22:04:04.271Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 04:51:17+00",
+  "conditionId": "0x758b81957ad08ce0de694bb09c9e37c58b67ae5089ff073cbb6c9b455f454ef5",
+  "slug": "6-qbs-drafted-in-1st-round",
+  "question": "6+ QBs drafted in 1st round?"
+}

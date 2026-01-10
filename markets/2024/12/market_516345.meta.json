@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T18:22:48.831912Z",
+  "market_createdAt": "2024-12-23T18:22:48.831912Z",
+  "market_updatedAt": "2025-01-01T01:33:43.773448Z",
+  "market_startDate": "2024-12-23T19:23:10.3Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 04:46:08+00",
+  "conditionId": "0x7ca8641a1c0ee3a578d98081e53fb8a0d40e4acf730e4d8c97884ce6708d2de0",
+  "slug": "will-alexander-grischuk-win-the-2024-world-blitz-championship",
+  "question": "Will Alexander Grischuk win the 2024 World Blitz Championship?"
+}

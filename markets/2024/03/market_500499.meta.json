@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-27T22:09:01.091325Z",
+  "market_createdAt": "2024-03-27T22:09:01.091325Z",
+  "market_updatedAt": "2024-05-07T23:09:34.027503Z",
+  "market_startDate": "2024-03-27T22:42:43.077Z",
+  "market_endDate": "2024-04-05T12:00:00Z",
+  "market_closedTime": "2024-04-06 21:47:40+00",
+  "conditionId": "0x5ecbda1e61c5de8a4984dcb1d08267567dad301b0383f116b64060eebb517ed3",
+  "slug": "djt-market-cap-over-12b-on-april-5",
+  "question": "$DJT market cap over $12b on April 5?"
+}

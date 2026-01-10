@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:02:19.073187Z",
+  "market_createdAt": "2024-11-18T05:02:19.073187Z",
+  "market_updatedAt": "2024-11-25T23:51:46.846845Z",
+  "market_startDate": "2024-11-18T05:04:51.42645Z",
+  "market_endDate": "2024-12-01T18:00:00Z",
+  "market_closedTime": "2024-11-24 23:46:48+00",
+  "conditionId": "0xa72afb51b2d8bc99b7462b5dca3598ea5e9c7d7f425548590331c7c165c997f9",
+  "slug": "nfl-min-chi-2024-11-24",
+  "question": "Vikings vs. Bears"
+}

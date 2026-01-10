@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:00:48.318618Z",
+  "market_createdAt": "2024-07-15T16:00:48.318618Z",
+  "market_updatedAt": "2024-07-19T01:22:37.60975Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-18 01:45:15+00",
+  "conditionId": "0x9c2e902df0284513bdddc8e15ef350f1946c8e84f63ccae4169761ffb918f267",
+  "slug": "will-niklas-astedt-win-the-wsop-main-event",
+  "question": "Will Niklas Astedt win the WSOP main event?"
+}

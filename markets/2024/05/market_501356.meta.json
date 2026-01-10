@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:18:40.704592Z",
+  "market_createdAt": "2024-05-02T18:18:40.704592Z",
+  "market_updatedAt": "2024-06-27T00:56:07.585656Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 06:38:09+00",
+  "conditionId": "0x9a908da8bad60c32c8aad3cef0d65cd3770519160468ab1502032439fe3aa0ff",
+  "slug": "will-alexandria-ocasio-cortez-win-the-ny-14-democratic-house-primary",
+  "question": "Will Alexandria Ocasio-Cortez win the NY-14 Democratic House Primary?"
+}

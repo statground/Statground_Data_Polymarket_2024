@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:04:53.444671Z",
+  "market_createdAt": "2024-12-22T06:04:53.444671Z",
+  "market_updatedAt": "2024-12-31T06:31:46.235977Z",
+  "market_startDate": "2024-12-22T06:07:31.879952Z",
+  "market_endDate": "2025-01-06T01:20:00Z",
+  "market_closedTime": "2024-12-30 06:58:35+00",
+  "conditionId": "0xe4c4ecd60c6383a04e7319c2539af61492667c745d1e1108416b1b961c5d2e1b",
+  "slug": "nfl-atl-was-2024-12-29",
+  "question": "Falcons vs. Commanders"
+}

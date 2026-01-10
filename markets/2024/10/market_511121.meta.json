@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:43:25.470156Z",
+  "market_createdAt": "2024-10-28T19:43:25.470156Z",
+  "market_updatedAt": "2024-11-01T01:32:56.753273Z",
+  "market_startDate": "2024-10-28T20:59:36.892Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 03:07:58+00",
+  "conditionId": "0x13fac3e53c9fca2d6d3433eaa20913281aa70ba1e0125ef95a9dd1d44f1af796",
+  "slug": "will-trump-say-god-4-or-more-times-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"god\" 4 or more times during Wisconsin rally on Oct 30?"
+}

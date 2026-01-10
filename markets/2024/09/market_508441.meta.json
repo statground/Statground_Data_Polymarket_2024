@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:26:34.693744Z",
+  "market_createdAt": "2024-09-30T19:26:34.693744Z",
+  "market_updatedAt": "2024-10-02T23:56:37.916553Z",
+  "market_startDate": "2024-09-30T21:32:49.904603Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:15:04+00",
+  "conditionId": "0x67d6c8bc4e8ddd279a12de468da910824c7bbb05e779a6959165575b64f4ac75",
+  "slug": "will-celtic-beat-borussia-dortmund",
+  "question": "Will Celtic beat Borussia Dortmund?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-30T06:15:05.924258Z",
+  "market_createdAt": "2024-06-30T06:15:05.924258Z",
+  "market_updatedAt": "2024-07-01T21:15:51.967637Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-30 22:59:01+00",
+  "conditionId": "0x193773d1a17d11ef8d5cfa2c1200b98cf8ca2f0ad930b9048e62ecde8060c8f0",
+  "slug": "spain-vs-georgia-who-will-advance",
+  "question": "Spain vs. Georgia - who will advance? "
+}

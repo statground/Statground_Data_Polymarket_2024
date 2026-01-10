@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:04:58.546354Z",
+  "market_createdAt": "2024-08-13T20:04:58.546354Z",
+  "market_updatedAt": "2024-08-18T15:52:59.782888Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:13:17+00",
+  "conditionId": "0x22e2409d9d5dc9619583e4afd34f208f71180e12423b52b7e3d17670ebd79789",
+  "slug": "will-brighton-hove-albion-beat-everton",
+  "question": "Will Brighton & Hove Albion beat Everton?"
+}

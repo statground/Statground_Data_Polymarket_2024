@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T16:55:14.926010Z",
+  "market_createdAt": "2024-07-24T16:55:14.92601Z",
+  "market_updatedAt": "2024-07-26T02:22:37.227152Z",
+  "market_startDate": "2024-07-24T17:33:01.678Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:18:45+00",
+  "conditionId": "0xc51e4b6c7fae4f4170d5f53fe718112318245751bc0f3fe2a36ad687acbebfb9",
+  "slug": "will-joe-biden-be-sitting-down-during-withdrawal-speech",
+  "question": "Will Joe Biden be sitting during dropout speech?"
+}

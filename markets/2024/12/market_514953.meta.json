@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T18:12:13.492566Z",
+  "market_createdAt": "2024-12-06T18:12:13.492566Z",
+  "market_updatedAt": "2025-05-20T08:20:23.712974Z",
+  "market_startDate": "2024-12-10T17:44:18.345998Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2025-05-19 09:05:11+00",
+  "conditionId": "0x6a54300b453fe71af46779214da06ad42af6be4e0de6ba4ac0b691b10aac138d",
+  "slug": "will-another-individual-win-the-romanian-presidential-election",
+  "question": "Will another individual win the Romanian Presidential election?"
+}

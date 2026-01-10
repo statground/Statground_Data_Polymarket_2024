@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T19:10:02.650825Z",
+  "market_createdAt": "2024-10-30T19:10:02.650825Z",
+  "market_updatedAt": "2024-11-04T01:11:00.760115Z",
+  "market_startDate": "2024-11-01T22:11:29.47182Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 03:09:57+00",
+  "conditionId": "0xd88b9198052f23bca09b56a5843724d87cb8ab11dd7e426bdef069988097e6b9",
+  "slug": "malott-vs-giles",
+  "question": "Malott vs. Giles"
+}

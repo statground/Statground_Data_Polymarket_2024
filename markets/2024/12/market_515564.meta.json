@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T18:24:42.129008Z",
+  "market_createdAt": "2024-12-13T18:24:42.129008Z",
+  "market_updatedAt": "2024-12-15T20:01:48.931856Z",
+  "market_startDate": "2024-12-13T21:00:26.550425Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 01:40:05+00",
+  "conditionId": "0xbff788ecbe9ff32e3ec478205825b2f52506abca8220f22d322459b2c9897e56",
+  "slug": "will-army-beat-navy-by-7-or-more-points",
+  "question": "Will Army beat Navy by 7 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:35:23.168594Z",
+  "market_createdAt": "2024-09-19T20:35:23.168594Z",
+  "market_updatedAt": "2024-12-16T04:51:29.038832Z",
+  "market_startDate": "2024-09-19T21:26:05.801766Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:41:35+00",
+  "conditionId": "0x961ff0d8595703c112ff38a2cea5a4d5632c8f8017ce912544aa5f15247edc2a",
+  "slug": "will-arch-manning-win-the-heisman-trophy",
+  "question": "Will Arch Manning win the Heisman Trophy?"
+}

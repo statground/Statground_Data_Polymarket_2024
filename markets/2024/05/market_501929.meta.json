@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T21:51:16.552800Z",
+  "market_createdAt": "2024-05-30T21:51:16.5528Z",
+  "market_updatedAt": "2024-11-06T08:27:13.425831Z",
+  "market_startDate": "2024-05-30T22:28:22.963Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-05 10:31:27+00",
+  "conditionId": "0xdbded28bb7b5ef0ae091e60894c4c8aa1556de87d2e8edac6104be50b69cc6a8",
+  "slug": "trump-sentenced-to-prison",
+  "question": "Trump sentenced to prison in NY case before election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:17:03.109677Z",
+  "market_createdAt": "2024-09-17T17:17:03.109677Z",
+  "market_updatedAt": "2024-11-08T19:03:05.077575Z",
+  "market_startDate": "2024-09-17T19:01:51.216817Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 21:32:39+00",
+  "conditionId": "0x29ab6fca20472122ea8e22b7395763d03e6caf1c07aa7aed5f1d5d66489842a7",
+  "slug": "us-presidential-election-ends-in-electoral-college-tie",
+  "question": "Will there be a 269-269 tie in Electoral College?"
+}

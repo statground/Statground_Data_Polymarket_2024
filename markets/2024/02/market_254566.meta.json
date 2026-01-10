@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T16:20:17.923000Z",
+  "market_createdAt": "2024-02-21T16:20:17.923Z",
+  "market_updatedAt": "2024-05-07T23:10:17.053134Z",
+  "market_startDate": "2024-02-21T17:11:32.457Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-04-02 10:25:15+00",
+  "conditionId": "0x9c4c664d240f14df349b4fe7f8572cc6654ac62f28fd9d22d9d69548cf31284f",
+  "slug": "ethena-airdrop-by-june-30",
+  "question": "Ethena airdrop by June 30?"
+}

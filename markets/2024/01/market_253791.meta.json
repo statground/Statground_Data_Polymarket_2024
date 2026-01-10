@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T00:23:53.227000Z",
+  "market_createdAt": "2024-01-11T00:23:53.227Z",
+  "market_updatedAt": "2024-01-17T02:33:16.362Z",
+  "market_startDate": "2024-01-14T00:00:00Z",
+  "market_endDate": "2024-01-14T00:00:00Z",
+  "market_closedTime": "2024-01-16 02:51:03+00",
+  "conditionId": "0xaa9e652afa1be67d10478ac3c35e9a36b03cbcfcd1341824653c032b13c5e1c3",
+  "slug": "nfl-buf-pit-2024-01-14",
+  "question": "Bills vs. Steelers"
+}

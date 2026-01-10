@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T18:20:31.201358Z",
+  "market_createdAt": "2024-12-09T18:20:31.201358Z",
+  "market_updatedAt": "2024-12-12T07:37:07.152563Z",
+  "market_startDate": "2024-12-09T18:30:42.247Z",
+  "market_endDate": "2024-12-13T12:00:00Z",
+  "market_closedTime": "2024-12-11 07:36:48+00",
+  "conditionId": "0xfb36bbf817f52bd4b4d9b529494e4a41d43fd00235075b7391eb475e0f19b88e",
+  "slug": "brian-thompson-perps-manifesto-released-by-friday",
+  "question": "Luigi Mangione manifesto released by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T19:11:14.082221Z",
+  "market_createdAt": "2024-03-26T19:11:14.082221Z",
+  "market_updatedAt": "2024-05-07T23:09:43.998451Z",
+  "market_startDate": "2024-03-26T21:08:45.485Z",
+  "market_endDate": "2024-04-23T12:00:00Z",
+  "market_closedTime": "2024-04-22 03:38:08+00",
+  "conditionId": "0xb4d1bda7f53b5b0755a113a4c81578e918dbc4d63463636653ccfbdb38403f9a",
+  "slug": "will-ian-nepomniachtchi-win-fide-candidates-2024",
+  "question": "Will Ian Nepomniachtchi win FIDE Candidates 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-12T21:10:10.206859Z",
+  "market_createdAt": "2024-10-12T21:10:10.206859Z",
+  "market_updatedAt": "2024-10-15T05:52:45.004612Z",
+  "market_startDate": "2024-10-13T18:13:05.219562Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 08:26:34+00",
+  "conditionId": "0x9a850073948fa98f1e4450d769abb6ddb426d750b9a0914ccc3600e59be7a59f",
+  "slug": "dodgers-vs-mets-game-1",
+  "question": "Dodgers vs. Mets - Game 1"
+}

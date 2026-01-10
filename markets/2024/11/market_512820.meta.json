@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T01:56:11.511001Z",
+  "market_createdAt": "2024-11-12T01:56:11.511001Z",
+  "market_updatedAt": "2025-01-24T17:36:41.658891Z",
+  "market_startDate": "2024-11-12T16:29:28.629413Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2025-01-24 01:24:45+00",
+  "conditionId": "0x52a0257f184535f7a4d47e90fce0e968aaca9699fa7aeb1e3bb3a46e6f85bd73",
+  "slug": "will-mary-lou-mcdonald-be-the-next-prime-minister-of-ireland",
+  "question": "Will Mary Lou McDonald be the next Prime Minister of Ireland?"
+}

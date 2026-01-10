@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:47:43.711481Z",
+  "market_createdAt": "2024-11-18T15:47:43.711481Z",
+  "market_updatedAt": "2024-11-19T21:47:08.767703Z",
+  "market_startDate": "2024-11-18T16:28:37.874074Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 01:05:26+00",
+  "conditionId": "0x5ca6d3ded08f95317a9ebf738b04103993271b076c1a2b24e4b2dbc7bb33d311",
+  "slug": "will-the-match-between-serbia-and-denmark-end-in-a-draw",
+  "question": "Will the match between Serbia and Denmark end in a draw?"
+}

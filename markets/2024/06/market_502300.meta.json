@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T22:18:38.381750Z",
+  "market_createdAt": "2024-06-10T22:18:38.38175Z",
+  "market_updatedAt": "2024-07-09T09:35:47.290349Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 09:33:15+00",
+  "conditionId": "0xdae8f519f4718a924a68dc9d222255b616557b40cb9bcb9488fd86b91c9db373",
+  "slug": "will-another-party-win-the-most-seats-in-the-national-assembly",
+  "question": "Will another party win the most seats in the National Assembly?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T09:37:02.190354Z",
+  "market_createdAt": "2024-12-30T09:37:02.190354Z",
+  "market_updatedAt": "2025-06-26T08:24:49.713517Z",
+  "market_startDate": "2024-12-30T15:44:29.558987Z",
+  "market_endDate": "2025-06-24T12:00:00Z",
+  "market_closedTime": "2025-06-25 12:33:05+00",
+  "conditionId": "0x750276bd94568087d1f856131d47b1ef7449c9a1c6afe218d86c8890a8846fb0",
+  "slug": "will-aoc-win-the-democratic-primary-for-mayor-of-new-york-city",
+  "question": "Will AOC win the Democratic Primary for Mayor of New York City?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T17:01:14.718724Z",
+  "market_createdAt": "2024-09-11T17:01:14.718724Z",
+  "market_updatedAt": "2024-09-14T00:43:02.256481Z",
+  "market_startDate": "2024-09-11T17:35:55.965692Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:47:13+00",
+  "conditionId": "0xf2c57e3297f2503c931c53d733312f383ce60dd631c80cc5431138f65796e74f",
+  "slug": "will-trump-say-veto-during-his-arizona-rally",
+  "question": "Will Trump say \"veto\" during his Arizona rally?"
+}

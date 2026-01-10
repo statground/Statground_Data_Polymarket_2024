@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T13:58:15.159717Z",
+  "market_createdAt": "2024-07-23T13:58:15.159717Z",
+  "market_updatedAt": "2024-07-24T19:24:38.704494Z",
+  "market_startDate": "2024-07-23T14:00:49.471Z",
+  "market_endDate": "2024-07-23T12:00:00Z",
+  "market_closedTime": "2024-07-23 19:52:23+00",
+  "conditionId": "0xb4c676bb14f9b79c7528d6588f4c703b9ed167093609940f0bb67336474dece3",
+  "slug": "biden-seen-in-public-today",
+  "question": "Biden seen in public today? "
+}

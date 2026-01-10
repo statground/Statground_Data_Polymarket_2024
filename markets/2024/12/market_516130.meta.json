@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:12:47.889893Z",
+  "market_createdAt": "2024-12-20T17:12:47.889893Z",
+  "market_updatedAt": "2024-12-28T19:10:56.996407Z",
+  "market_startDate": "2024-12-20T17:38:46.17384Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 19:11:55+00",
+  "conditionId": "0x829aaebcfc364e80d3616d260f2936816f8b184793f419fdb17e414e5b53c830",
+  "slug": "dogecoin-above-0pt30-on-december-27",
+  "question": "Dogecoin above $0.30 on December 27?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T20:22:28.980060Z",
+  "market_createdAt": "2024-08-20T20:22:28.98006Z",
+  "market_updatedAt": "2024-08-26T00:30:58.575023Z",
+  "market_startDate": "2024-08-20T21:10:42.821Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-25 01:29:05+00",
+  "conditionId": "0x14805764b8b1eeecff3d3ca0e02d49be9bd5fe818332750ec267c7988efd2a58",
+  "slug": "trump-mentioned-fewer-than-50-times-at-the-dnc-today",
+  "question": "Trump mentioned fewer than 50 times at the DNC today?"
+}

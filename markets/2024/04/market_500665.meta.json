@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:14:17.144816Z",
+  "market_createdAt": "2024-04-04T15:14:17.144816Z",
+  "market_updatedAt": "2024-08-08T03:12:58.52301Z",
+  "market_startDate": "2024-04-04T16:52:57.042Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-08-07 06:45:09+00",
+  "conditionId": "0x15ca4d15329d13eb8826eaf71277bbe0c24d4ee36eadc0236da2c75be4cab4f9",
+  "slug": "will-one-member-of-the-squad-lose-their-primary",
+  "question": "Will one member of The Squad lose their primary?"
+}

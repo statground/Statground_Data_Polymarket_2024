@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:20:21.830763Z",
+  "market_createdAt": "2024-10-21T16:20:21.830763Z",
+  "market_updatedAt": "2024-10-25T03:01:07.735904Z",
+  "market_startDate": "2024-10-21T21:19:49.244Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:27:54+00",
+  "conditionId": "0x6aec5ac736ae42f33d0e5ca65790d049e0c8e064516c26c6b9c7008ae45a3f85",
+  "slug": "will-trump-say-capone-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"Capone\" during Georgia rally on October 23?"
+}

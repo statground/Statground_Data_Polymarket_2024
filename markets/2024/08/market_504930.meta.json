@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:03:53.580029Z",
+  "market_createdAt": "2024-08-12T17:03:53.580029Z",
+  "market_updatedAt": "2024-08-19T03:02:53.362302Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 04:41:12+00",
+  "conditionId": "0xbf2ecb2b64da976757a8a3bf62475fb1d912f7b3a097b3ec3c92694d5710e60e",
+  "slug": "nfl-jax-tb-2024-08-17",
+  "question": "Jaguars vs. Buccaneers"
+}

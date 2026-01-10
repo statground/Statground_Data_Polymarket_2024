@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:09:43.437701Z",
+  "market_createdAt": "2024-11-24T05:09:43.437701Z",
+  "market_updatedAt": "2024-12-02T00:41:20.342558Z",
+  "market_startDate": "2024-11-24T05:12:31.019618Z",
+  "market_endDate": "2024-12-07T20:00:00Z",
+  "market_closedTime": "2024-12-01 01:29:51+00",
+  "conditionId": "0x6928f177769c9c61c8bc75fe2a37897835841355f70e21395b281f0b159ec924",
+  "slug": "cfb-odu-arst-2024-11-30",
+  "question": "Old Dominion vs. Arkansas State"
+}

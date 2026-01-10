@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T18:33:20.189746Z",
+  "market_createdAt": "2024-11-21T18:33:20.189746Z",
+  "market_updatedAt": "2024-11-23T05:08:51.534025Z",
+  "market_startDate": "2024-11-21T18:58:08.538697Z",
+  "market_endDate": "2024-11-21T12:00:00Z",
+  "market_closedTime": "2024-11-22 06:22:28+00",
+  "conditionId": "0x64458e1716f348a9c5065c02a012bff3e88ce089e41d59d8dd69c29adbcb4a7f",
+  "slug": "will-georgia-tech-beat-nc-state-by-10-or-more-points",
+  "question": "Will Georgia Tech beat NC State by 10 or more points?"
+}

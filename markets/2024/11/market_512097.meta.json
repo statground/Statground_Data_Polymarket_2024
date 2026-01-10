@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T20:45:38.864929Z",
+  "market_createdAt": "2024-11-05T20:45:38.864929Z",
+  "market_updatedAt": "2025-05-01T08:20:33.045619Z",
+  "market_startDate": "2024-11-06T17:22:27.46Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:17:23+00",
+  "conditionId": "0x805d5d29303a29387e9b541f5c7405bcea69f8ef56137ce174356cb0e548d3ee",
+  "slug": "trump-ends-taxes-on-tips-in-first-100-days",
+  "question": "Trump ends taxes on tips in first 100 days?"
+}

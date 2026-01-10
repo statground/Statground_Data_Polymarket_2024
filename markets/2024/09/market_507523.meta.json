@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:38:38.526329Z",
+  "market_createdAt": "2024-09-19T20:38:38.526329Z",
+  "market_updatedAt": "2024-12-16T00:49:27.903729Z",
+  "market_startDate": "2024-09-19T21:33:02.331047Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:31:21+00",
+  "conditionId": "0x137669a9a7be937f4685ace6edbdaa4f25f8ed367d8b3417d42768f84a88b30c",
+  "slug": "will-jackson-arnold-win-the-heisman-trophy",
+  "question": "Will Jackson Arnold win the Heisman Trophy?"
+}

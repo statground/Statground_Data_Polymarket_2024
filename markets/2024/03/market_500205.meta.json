@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T19:46:07.548175Z",
+  "market_createdAt": "2024-03-17T19:46:07.548175Z",
+  "market_updatedAt": "2024-05-07T23:09:13.235464Z",
+  "market_startDate": "2024-03-17T19:53:00.098Z",
+  "market_endDate": "2024-04-08T07:00:00Z",
+  "market_closedTime": "2024-04-07 06:19:02+00",
+  "conditionId": "0x248c42b0f946ea2bdf5e7cf5126eb5ae5db0466389fa3d4e1362a9309f1fb767",
+  "slug": "team-from-west-wins-march-madness-2024",
+  "question": "Team from West wins March Madness 2024?"
+}

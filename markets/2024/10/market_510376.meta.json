@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510376",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:32:25.841026Z",
+  "market_createdAt": "2024-10-21T20:32:25.841026Z",
+  "market_updatedAt": "2024-10-28T06:40:50.97247Z",
+  "market_startDate": "2024-10-21T20:35:05.535664Z",
+  "market_endDate": "2024-10-27T00:00:00Z",
+  "market_closedTime": "2024-10-27 08:07:25+00",
+  "conditionId": "0x7c44c250eaa852ae208fc52066e9759efaa8350ab98313449a5393b41c1e3dc0",
+  "slug": "nba-okc-chi-2024-10-26",
+  "question": "Thunder vs. Bulls"
+}

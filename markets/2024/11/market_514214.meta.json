@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T16:34:56.916156Z",
+  "market_createdAt": "2024-11-27T16:34:56.916156Z",
+  "market_updatedAt": "2024-12-02T05:09:23.162488Z",
+  "market_startDate": "2024-11-27T19:25:22.038882Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:04:49+00",
+  "conditionId": "0x4c4108ebe701de6084996b27311977d30c67705e001ca7e663825c5f9c5200ea",
+  "slug": "russian-ruble-120-to-1-usd-in-november",
+  "question": "Russian Ruble ₽120 to $1 USD in November?"
+}

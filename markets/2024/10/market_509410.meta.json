@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:35:11.977549Z",
+  "market_createdAt": "2024-10-09T18:35:11.977549Z",
+  "market_updatedAt": "2024-10-20T18:12:55.210458Z",
+  "market_startDate": "2024-10-09T21:12:26.551577Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-19 19:57:50+00",
+  "conditionId": "0x687e5e46f227ea8ea27489e73561fa2dd2cf17d4955f80c921f4d476addef469",
+  "slug": "will-the-mongolz-win-the-elisa-masters-espoo-2024",
+  "question": "Will The MongolZ win the Elisa Masters Espoo 2024?"
+}

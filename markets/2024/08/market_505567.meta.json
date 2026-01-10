@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T17:16:45.190439Z",
+  "market_createdAt": "2024-08-21T17:16:45.190439Z",
+  "market_updatedAt": "2024-08-28T00:37:07.618201Z",
+  "market_startDate": "2024-08-23T21:12:56.995Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-27 00:28:24+00",
+  "conditionId": "0xf43e04b0ede60be1bd19d17e2cd9a7e52709b667e9f0bebbef34e3e8c53a6ff3",
+  "slug": "will-rfk-jr-drop-out-by-aug-23",
+  "question": "Will RFK Jr. drop out by Friday?"
+}

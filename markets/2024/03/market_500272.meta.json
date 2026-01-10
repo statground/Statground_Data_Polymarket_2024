@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T18:17:36.163133Z",
+  "market_createdAt": "2024-03-18T18:17:36.163133Z",
+  "market_updatedAt": "2024-05-07T23:09:25.614177Z",
+  "market_startDate": "2024-03-18T18:45:51.197Z",
+  "market_endDate": "2024-03-22T07:00:00Z",
+  "market_closedTime": "2024-03-20 19:05:39+00",
+  "conditionId": "0xfe8219d6c76bcaa92565b74f4bd334ef482ab3b428086051a7a670ca54842f4a",
+  "slug": "another-boeing-emergency-landing-by-friday",
+  "question": "Another Boeing emergency landing by Friday?"
+}

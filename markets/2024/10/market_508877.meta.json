@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:17:38.868111Z",
+  "market_createdAt": "2024-10-04T16:17:38.868111Z",
+  "market_updatedAt": "2024-10-06T22:56:37.226993Z",
+  "market_startDate": "2024-10-04T18:30:00.679357Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 00:48:07+00",
+  "conditionId": "0x70fa6b0bf725cc20a3bcf76281fcc59e7175fdb405d9c2d2c5ec36ec2ae610dc",
+  "slug": "will-ohio-state-beat-iowa-by-19-or-more-points",
+  "question": "Will Ohio State beat Iowa by 19 or more points?"
+}

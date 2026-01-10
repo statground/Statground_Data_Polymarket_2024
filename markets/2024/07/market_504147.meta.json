@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:09:05.454440Z",
+  "market_createdAt": "2024-07-25T18:09:05.45444Z",
+  "market_updatedAt": "2024-07-28T21:37:05.528855Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:26:19+00",
+  "conditionId": "0xb7b0debf2f24967bd6bc3585b2aa5e296eced9aba2155dad2fe03dfef21badf9",
+  "slug": "will-great-britain-win-gold-in-mens-4x100m-freestyle-relay",
+  "question": "Will Great Britain win Gold in Men's 4x100m Freestyle Relay?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:26:53.167933Z",
+  "market_createdAt": "2024-08-21T15:26:53.167933Z",
+  "market_updatedAt": "2024-08-23T05:37:06.402157Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:32:22+00",
+  "conditionId": "0x7928cedd596c42635ba0874386fbbce4d5e3df3a5485b5578cb001735f65b4a4",
+  "slug": "will-pete-buttigieg-say-weird-or-weirdo-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Weird\" or \"Weirdo in DNC speech?"
+}

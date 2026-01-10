@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:01:39.178619Z",
+  "market_createdAt": "2024-11-05T19:01:39.178619Z",
+  "market_updatedAt": "2024-11-09T06:22:47.925003Z",
+  "market_startDate": "2024-11-05T19:04:23.157647Z",
+  "market_endDate": "2024-11-08T01:15:00Z",
+  "market_closedTime": "2024-11-08 06:42:46+00",
+  "conditionId": "0x23de4d05e7fc57c732947965cf57b8557d3bf54de7b5b1cecff75a6c174f6b26",
+  "slug": "nfl-cin-bal-2024-11-07",
+  "question": "Bengals vs. Ravens"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:42:37.461368Z",
+  "market_createdAt": "2024-12-10T21:42:37.461368Z",
+  "market_updatedAt": "2024-12-13T06:03:06.682653Z",
+  "market_startDate": "2024-12-11T22:58:02.323289Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:08:15+00",
+  "conditionId": "0x758c5d9285083646b480b297ef1e5541630c7ebb2378273e12f989ca69ab4cde",
+  "slug": "will-nice-beat-union-st-gilloise",
+  "question": "Will Nice beat Union St-Gilloise?"
+}

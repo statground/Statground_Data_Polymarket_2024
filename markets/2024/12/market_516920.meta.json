@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:04:07.559043Z",
+  "market_createdAt": "2024-12-31T05:04:07.559043Z",
+  "market_updatedAt": "2025-01-05T02:58:40.126523Z",
+  "market_startDate": "2024-12-31T05:06:49.101818Z",
+  "market_endDate": "2025-01-10T21:00:00Z",
+  "market_closedTime": "2025-01-04 02:56:27+00",
+  "conditionId": "0x20e3c647cc2e79d34090cb12f29fb1238fbfe44e46962b3392f5e42699b1e316",
+  "slug": "cfb-unt-txst-2025-01-03",
+  "question": "North Texas vs. Texas State"
+}

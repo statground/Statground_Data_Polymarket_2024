@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:34:14.739933Z",
+  "market_createdAt": "2024-03-18T14:34:14.739933Z",
+  "market_updatedAt": "2024-05-07T23:09:55.508522Z",
+  "market_startDate": "2024-03-18T18:53:50.195Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-29 07:48:29+00",
+  "conditionId": "0xda2ecaf1169c6b2507322848b916a5441a75e5de509e56112c0fd0cce17fd174",
+  "slug": "will-the-iowa-state-university-win-the-ncaa-tournament",
+  "question": "Will the Iowa State University win the NCAA tournament?"
+}

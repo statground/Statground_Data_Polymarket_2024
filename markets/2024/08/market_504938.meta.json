@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:50:46.829085Z",
+  "market_createdAt": "2024-08-12T17:50:46.829085Z",
+  "market_updatedAt": "2024-08-20T04:02:59.181392Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-19 04:01:06+00",
+  "conditionId": "0x226b096e79950f36b0daebfac0637cfa6cc241d927c2bb7f19ddc5013c7437e7",
+  "slug": "will-alexander-zverev-win-the-2024-atp-cincinnati-mens-singles-tournament",
+  "question": "Will Alexander Zverev win the 2024 ATP Cincinnati Men’s Singles tournament?"
+}

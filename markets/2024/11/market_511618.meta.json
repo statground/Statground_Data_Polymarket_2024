@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:19:22.128635Z",
+  "market_createdAt": "2024-11-01T16:19:22.128635Z",
+  "market_updatedAt": "2024-11-06T05:17:08.885108Z",
+  "market_startDate": "2024-11-01T16:21:56.567045Z",
+  "market_endDate": "2024-11-05T02:45:00Z",
+  "market_closedTime": "2024-11-05 07:48:19+00",
+  "conditionId": "0x9fd9a4d8ea29ddb84071c718d696ace117f1a4965382cd54a3dd714ce6670c68",
+  "slug": "nba-ind-dal-2024-11-04",
+  "question": "Pacers vs. Mavericks"
+}

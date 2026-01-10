@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:41:20.773133Z",
+  "market_createdAt": "2024-11-01T16:41:20.773133Z",
+  "market_updatedAt": "2024-11-02T23:57:04.431839Z",
+  "market_startDate": "2024-11-01T22:51:55.422895Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:24:41+00",
+  "conditionId": "0xf5e88f347a6afea6dbf5cac0379b1c88b6cc53b13256b1d9592087e54fffb708",
+  "slug": "will-boise-state-beat-san-diego-state-by-24-or-more-points",
+  "question": "Will Boise State beat San Diego State by 24 or more points?"
+}

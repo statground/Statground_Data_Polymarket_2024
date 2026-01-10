@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:45:10.012410Z",
+  "market_createdAt": "2024-11-26T07:45:10.01241Z",
+  "market_updatedAt": "2024-11-29T00:29:31.400487Z",
+  "market_startDate": "2024-11-26T22:27:07.546114Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:03:33+00",
+  "conditionId": "0xdec23f2b219215836964df13c321019d34c063cec1e1166537dc186733076321",
+  "slug": "will-celtic-beat-club-brugge",
+  "question": "Will Celtic beat Club Brugge?"
+}

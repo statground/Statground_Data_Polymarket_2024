@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:04:30.722413Z",
+  "market_createdAt": "2024-11-17T05:04:30.722413Z",
+  "market_updatedAt": "2024-11-22T05:32:49.221669Z",
+  "market_startDate": "2024-11-17T05:07:32.036745Z",
+  "market_endDate": "2024-11-28T01:00:00Z",
+  "market_closedTime": "2024-11-21 05:30:57+00",
+  "conditionId": "0xea153983d76c791a63e07cebfd67d699248fa9a2546460680eb87d5adf75d1ba",
+  "slug": "nba-ind-hou-2024-11-20",
+  "question": "Pacers vs. Rockets"
+}

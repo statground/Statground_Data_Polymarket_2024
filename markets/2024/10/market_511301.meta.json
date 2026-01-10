@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:02:07.812179Z",
+  "market_createdAt": "2024-10-29T16:02:07.812179Z",
+  "market_updatedAt": "2024-11-02T01:47:13.383146Z",
+  "market_startDate": "2024-10-29T16:58:26.265433Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:34:04+00",
+  "conditionId": "0x043ce61aabe982efc89f153d7bce521f4825d7304f461ace2930a9a3e5aeaa2e",
+  "slug": "will-jd-vance-say-fake-news-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"fake news\" during the Joe Rogan podcast?"
+}

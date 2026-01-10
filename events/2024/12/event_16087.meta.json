@@ -1,0 +1,37 @@
+{
+  "entity": "event",
+  "event_id": "16087",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-29T17:43:11.905875Z",
+  "event_createdAt": "2024-12-29T17:43:11.905875Z",
+  "event_creationDate": "2024-12-30T18:12:03.686951Z",
+  "event_startDate": "2024-12-30T18:12:03.686955Z",
+  "event_endDate": "2025-12-31T12:00:00Z",
+  "event_updatedAt": "2026-01-02T08:34:12.624527Z",
+  "markets_len": 18,
+  "market_ids": [
+    "516818",
+    "516829",
+    "516830",
+    "516820",
+    "516836",
+    "516821",
+    "516822",
+    "516825",
+    "516824",
+    "516826",
+    "516827",
+    "516828",
+    "516831",
+    "516832",
+    "516833",
+    "516835",
+    "516845",
+    "516846"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10029"
+  ],
+  "series_slug": "largest-company"
+}

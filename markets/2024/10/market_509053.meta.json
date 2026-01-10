@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T17:33:24.066643Z",
+  "market_createdAt": "2024-10-07T17:33:24.066643Z",
+  "market_updatedAt": "2024-10-10T18:56:46.408656Z",
+  "market_startDate": "2024-10-07T18:29:50.388303Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-09 19:00:18+00",
+  "conditionId": "0x43dffc28def7f8d269031cd35ddc337a65b4ee9cacf67e8785a7d6175af1b2e2",
+  "slug": "will-alliance-win-dota-2-pgl-wallachia-2024",
+  "question": "Will Alliance win Dota 2: PGL Wallachia 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-17T21:48:28.466147Z",
+  "market_createdAt": "2024-05-17T21:48:28.466147Z",
+  "market_updatedAt": "2024-10-02T09:26:52.755704Z",
+  "market_startDate": "2024-05-17T21:48:28.466Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 10:07:44+00",
+  "conditionId": "0x0a011ae478add880492d6d8e5aa98213405b7cec1e1cb34b84bf4c1bad055b2c",
+  "slug": "will-russia-capture-chasiv-yar-before-october",
+  "question": "Will Russia capture Chasiv Yar before October?"
+}

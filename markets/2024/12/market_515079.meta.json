@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:05:04.396026Z",
+  "market_createdAt": "2024-12-08T07:05:04.396026Z",
+  "market_updatedAt": "2024-12-16T01:11:40.398661Z",
+  "market_startDate": "2024-12-08T07:08:20.424357Z",
+  "market_endDate": "2024-12-21T21:00:00Z",
+  "market_closedTime": "2024-12-15 01:54:31+00",
+  "conditionId": "0xeaa72fa500f4f753a6ff6d887021753658a09d4b9eb2a2dacb3e55c705089afc",
+  "slug": "nhl-las-edm-2024-12-14",
+  "question": "Golden Knights vs. Oilers"
+}

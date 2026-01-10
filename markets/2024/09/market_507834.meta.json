@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:50:08.086297Z",
+  "market_createdAt": "2024-09-24T04:50:08.086297Z",
+  "market_updatedAt": "2024-09-30T20:36:42.363366Z",
+  "market_startDate": "2024-09-24T04:52:29.393925Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:29:56+00",
+  "conditionId": "0x5b2339d72e8f02392b5a74693e02934150353feb901c5196e921a40d0a4367dc",
+  "slug": "nfl-nyj-den-2024-09-29",
+  "question": "Jets vs. Broncos"
+}

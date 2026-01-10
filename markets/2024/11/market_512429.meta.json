@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:53:24.963385Z",
+  "market_createdAt": "2024-11-08T19:53:24.963385Z",
+  "market_updatedAt": "2024-11-11T00:32:46.6794Z",
+  "market_startDate": "2024-11-08T22:18:35.080947Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:48:46+00",
+  "conditionId": "0xb3b0591c94562b3731de31f6b8a892ff2a907e0ae097f88b533717db6479a7e4",
+  "slug": "cfb-south-carolina-vs-vanderbilt",
+  "question": "CFB: South Carolina vs. Vanderbilt"
+}

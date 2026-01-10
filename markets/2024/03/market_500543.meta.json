@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:45:56.083011Z",
+  "market_createdAt": "2024-03-28T22:45:56.083011Z",
+  "market_updatedAt": "2024-11-06T21:33:29.045133Z",
+  "market_startDate": "2024-04-10T19:22:56.577Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:30:34+00",
+  "conditionId": "0x70533a0b0b3dc473e897553ab369ec00aab1742a5c183561de6790db5cd4de6b",
+  "slug": "congressional-district-2nd-nebraska-will-a-candidate-from-another-party-win",
+  "question": "Will a candidate from another party win Nebraska's 2nd congressional district?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:17:06.658377Z",
+  "market_createdAt": "2024-09-19T21:17:06.658377Z",
+  "market_updatedAt": "2024-10-30T20:23:11.825217Z",
+  "market_startDate": "2024-09-20T14:25:47.012Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 20:43:46+00",
+  "conditionId": "0x1f36124fa3a418307f36848b056ab6c4e6186ed92d755c9dc6653a1f43b5213a",
+  "slug": "will-sk-win-a-plurality-in-the-2024-saskatchewan-general-election",
+  "question": "Will SK win the most seats in the 2024 Saskatchewan general election?"
+}

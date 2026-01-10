@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:26:25.702970Z",
+  "market_createdAt": "2024-09-08T00:26:25.70297Z",
+  "market_updatedAt": "2024-09-09T13:27:07.971006Z",
+  "market_startDate": "2024-09-08T02:03:12.817897Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:29:03+00",
+  "conditionId": "0x68dcd6d07d9b805e92cc9520d9562531ab52087d3b6a0746cf92288f3570b8b7",
+  "slug": "will-the-buccaneers-win-by-4-or-more-points",
+  "question": "Will the Buccaneers win by 4 or more points?"
+}

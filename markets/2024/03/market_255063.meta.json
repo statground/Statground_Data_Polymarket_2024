@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:36:14.742000Z",
+  "market_createdAt": "2024-03-01T17:36:14.742Z",
+  "market_updatedAt": "2024-11-10T18:42:51.130159Z",
+  "market_startDate": "2024-03-07T23:25:00Z",
+  "market_endDate": "2024-11-02T00:00:00Z",
+  "market_closedTime": "2024-11-09 20:11:46+00",
+  "conditionId": "0xac5fc54e2b52e942afd4e10a0239df729e4bd9c3c60361f7f7eaae9bbf81fc0a",
+  "slug": "will-a-candidate-from-another-party-win-nevada-presidential-election",
+  "question": "Will a candidate from another party win Nevada Presidential Election?"
+}

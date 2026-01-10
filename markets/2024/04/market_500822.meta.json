@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T14:53:04.515093Z",
+  "market_createdAt": "2024-04-09T14:53:04.515093Z",
+  "market_updatedAt": "2024-05-07T23:09:11.584732Z",
+  "market_startDate": "2024-04-10T15:05:57.761Z",
+  "market_endDate": "2024-04-14T12:00:00Z",
+  "market_closedTime": "2024-04-13 03:23:36+00",
+  "conditionId": "0xbcdc7b5da184c02ebabb9b25785b788106c794e5fd548210b28ef427e6a38248",
+  "slug": "will-viktor-hovland-win-the-2024-masters-tournament",
+  "question": "Will Viktor Hovland win the 2024 Masters Tournament?"
+}

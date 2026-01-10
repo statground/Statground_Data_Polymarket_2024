@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T23:26:25.495299Z",
+  "market_createdAt": "2024-11-05T23:26:25.495299Z",
+  "market_updatedAt": "2024-11-07T19:29:08.681036Z",
+  "market_startDate": "2024-11-05T23:41:56.549739Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:26:30+00",
+  "conditionId": "0x8a8c07c9a64745862cc517316ff161ef8f2812b2a1be13da4917787f15e3951c",
+  "slug": "trump-x-elon-space-tonight",
+  "question": "Trump x Elon space tonight?"
+}

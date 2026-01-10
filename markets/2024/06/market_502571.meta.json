@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T23:34:44.236874Z",
+  "market_createdAt": "2024-06-17T23:34:44.236874Z",
+  "market_updatedAt": "2024-10-19T00:30:42.488367Z",
+  "market_startDate": "2024-06-18T19:41:14.579Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-10-18 00:22:28+00",
+  "conditionId": "0x70de1b06646805d289744df352ed58b5612fafb3d0322e483243c32cb110f8a7",
+  "slug": "will-trump-launch-a-coin-before-the-election",
+  "question": "Will Trump launch a coin before the election?"
+}

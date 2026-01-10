@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:34:11.603619Z",
+  "market_createdAt": "2024-10-22T16:34:11.603619Z",
+  "market_updatedAt": "2024-10-25T23:13:00.448131Z",
+  "market_startDate": "2024-10-22T20:58:57.26615Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:13:02+00",
+  "conditionId": "0x3bd29e6d922a4169818cad6f4bc758abc27a7a4f3e301166ce732e60f797f946",
+  "slug": "will-the-match-between-fenerbahce-and-manchester-united-end-in-a-draw",
+  "question": "Will the match between Fenerbahce and Manchester United end in a draw?"
+}

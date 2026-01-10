@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T23:14:45.147000Z",
+  "market_createdAt": "2024-01-09T23:14:45.147Z",
+  "market_updatedAt": "2024-01-12T08:49:12.632Z",
+  "market_startDate": "2024-01-09T23:23:03.173Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-11 12:15:18+00",
+  "conditionId": "0x8204779ca8584f1349ddaaed68b63b8509fb3d1deab321180288e48b2961232a",
+  "slug": "bitcoin-etf-doesnt-get-approval-by-jan-15",
+  "question": "Bitcoin ETF doesn't get approval by Jan 15?"
+}

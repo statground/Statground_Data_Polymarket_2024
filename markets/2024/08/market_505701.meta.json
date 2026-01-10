@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T03:02:04.620927Z",
+  "market_createdAt": "2024-08-23T03:02:04.620927Z",
+  "market_updatedAt": "2024-08-26T13:20:53.999944Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2024-08-25 18:35:30+00",
+  "conditionId": "0x2f9fc4e9ba76e9e2501df62383cfb3b8378b2fd9c9e50ea0a9c1ecd3ca590db1",
+  "slug": "will-george-russell-win-the-dutch-grand-prix",
+  "question": "Will George Russell win the Dutch Grand Prix?"
+}

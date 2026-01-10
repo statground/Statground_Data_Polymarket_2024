@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:03:38.053304Z",
+  "market_createdAt": "2024-08-07T21:03:38.053304Z",
+  "market_updatedAt": "2024-08-22T03:47:01.557237Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:10:30+00",
+  "conditionId": "0x85ca9fff2a68e27d182870202f10c018c974d05545a5fd4479f25bfa70568a64",
+  "slug": "will-barack-obama-speak-at-the-dnc",
+  "question": "Will Barack Obama speak at the DNC?"
+}

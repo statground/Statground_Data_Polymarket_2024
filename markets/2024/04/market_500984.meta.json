@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T00:42:46.565764Z",
+  "market_createdAt": "2024-04-16T00:42:46.565764Z",
+  "market_updatedAt": "2024-05-07T23:09:10.421416Z",
+  "market_startDate": "2024-04-16T00:56:40.983Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-03 03:03:16+00",
+  "conditionId": "0x0d5234285ac5bf7ccc77f746c134e5cda3304067f854b1b184bc9b18f3807e19",
+  "slug": "bucks-vs-pacers-series-winner",
+  "question": "Bucks vs. Pacers Series Winner"
+}

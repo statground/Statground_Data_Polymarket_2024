@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T04:08:18.314275Z",
+  "market_createdAt": "2024-03-18T04:08:18.314275Z",
+  "market_updatedAt": "2024-05-07T23:10:15.978969Z",
+  "market_startDate": "2024-03-18T18:53:11.457Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-29 07:13:59+00",
+  "conditionId": "0xbbfac7cf8146a224fd55f4d992908b29aef30275c54195833a4b45e72b170525",
+  "slug": "will-north-carolina-win-the-ncaa-tournament",
+  "question": "Will North Carolina win the NCAA tournament?"
+}

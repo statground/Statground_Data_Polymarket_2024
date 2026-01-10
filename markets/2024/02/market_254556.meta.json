@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:57:11.288000Z",
+  "market_createdAt": "2024-02-20T18:57:11.288Z",
+  "market_updatedAt": "2024-05-12T22:53:53.062174Z",
+  "market_startDate": "2024-02-21T00:33:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:04:53+00",
+  "conditionId": "0x9e1fc7f640aee0025d1af104f397f2a845a0245afe37a433671aa788c42d3e15",
+  "slug": "will-another-country-win-eurovision-2024",
+  "question": "Will another country win Eurovision 2024?"
+}

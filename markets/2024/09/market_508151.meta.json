@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T22:30:22.870979Z",
+  "market_createdAt": "2024-09-25T22:30:22.870979Z",
+  "market_updatedAt": "2024-10-04T01:06:39.012268Z",
+  "market_startDate": "2024-09-25T23:03:18.283Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-03 03:29:44+00",
+  "conditionId": "0x4697e157a3da87bdfe3af5d4d852fd2c46f08593f2c0cb52b3d667baf2dc7d29",
+  "slug": "will-the-vp-debate-have-45-50m-viewers",
+  "question": "Will the VP debate have 45-50m viewers?"
+}

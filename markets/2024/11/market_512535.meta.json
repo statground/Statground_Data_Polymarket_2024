@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:19:02.109678Z",
+  "market_createdAt": "2024-11-08T22:19:02.109678Z",
+  "market_updatedAt": "2025-01-12T02:16:42.262916Z",
+  "market_startDate": "2024-11-08T23:20:08.050618Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-11 03:29:41+00",
+  "conditionId": "0x4a2e8418031b448cfbe7e5f8e9d4d91709a1e73cb457746a0d937f3cf488af14",
+  "slug": "will-trumps-hush-money-conviction-be-overturned",
+  "question": "Will Trump's hush money conviction be overturned?"
+}

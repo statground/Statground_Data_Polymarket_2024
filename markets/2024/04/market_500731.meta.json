@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:29:45.539466Z",
+  "market_createdAt": "2024-04-04T18:29:45.539466Z",
+  "market_updatedAt": "2024-11-07T20:13:08.404293Z",
+  "market_startDate": "2024-04-12T19:00:37.082Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:55:46+00",
+  "conditionId": "0x40d5674266c2be7539131b33af6bde6df0079d8ac9cbdd3b8cba29b2fb33d73b",
+  "slug": "will-a-democrat-win-vermont-us-senate-election",
+  "question": "Will a Democrat win Vermont US Senate Election?"
+}

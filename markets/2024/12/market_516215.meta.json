@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:06:30.668257Z",
+  "market_createdAt": "2024-12-22T05:06:30.668257Z",
+  "market_updatedAt": "2024-12-28T04:21:11.006559Z",
+  "market_startDate": "2024-12-22T05:09:10.175064Z",
+  "market_endDate": "2025-01-03T00:00:00Z",
+  "market_closedTime": "2024-12-27 04:40:15+00",
+  "conditionId": "0x784276e8a38ea6451865a57c6892acb11a4ce4c6c96ab04d8d8755dc3af202ee",
+  "slug": "nba-mia-orl-2024-12-26",
+  "question": "Heat vs. Magic"
+}

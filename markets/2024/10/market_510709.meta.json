@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:17:26.445418Z",
+  "market_createdAt": "2024-10-23T17:17:26.445418Z",
+  "market_updatedAt": "2024-10-29T03:01:20.734427Z",
+  "market_startDate": "2024-10-23T22:24:51.96239Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:20:29+00",
+  "conditionId": "0xed16f9f62a2cfed12df0ea37dcb1c84df677b9ef79d0750028cfded27ed515eb",
+  "slug": "will-lando-norris-win-the-mexico-city-grand-prix",
+  "question": "Will Lando Norris win the Mexico City Grand Prix?"
+}

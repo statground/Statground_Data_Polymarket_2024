@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:03:34.085528Z",
+  "market_createdAt": "2024-11-05T21:03:34.085528Z",
+  "market_updatedAt": "2024-11-08T23:08:55.31601Z",
+  "market_startDate": "2024-11-07T02:54:04.780356Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:05:08+00",
+  "conditionId": "0x2625511fbb00c0f95efe176552960e60cb36211dc205dec952d38b072c2dc323",
+  "slug": "will-frankfurt-beat-slavia-praha",
+  "question": "Will Frankfurt beat Slavia Praha?"
+}

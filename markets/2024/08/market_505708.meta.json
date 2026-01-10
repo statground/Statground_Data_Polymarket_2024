@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T03:25:04.243845Z",
+  "market_createdAt": "2024-08-23T03:25:04.243845Z",
+  "market_updatedAt": "2024-08-26T02:52:53.789102Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-25 04:51:22+00",
+  "conditionId": "0x5f5a1bf4bad07f4a10936f3924041226705bb02358dcf55737db125b4bbd35a8",
+  "slug": "magny-vs-morales",
+  "question": "Magny vs. Morales"
+}

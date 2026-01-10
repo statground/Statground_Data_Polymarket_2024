@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T15:51:34.112618Z",
+  "market_createdAt": "2024-11-22T15:51:34.112618Z",
+  "market_updatedAt": "2024-11-30T19:23:26.442628Z",
+  "market_startDate": "2024-11-22T17:16:26.231383Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-29 19:18:49+00",
+  "conditionId": "0xba54f4ceb28ea56c4fd03f520a365923739bb7addd7b89c2f2dab638d359415f",
+  "slug": "bitcoin-above-100000-on-november-29",
+  "question": "Bitcoin above $100,000 on November 29?"
+}

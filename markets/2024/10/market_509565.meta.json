@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T20:23:33.853968Z",
+  "market_createdAt": "2024-10-10T20:23:33.853968Z",
+  "market_updatedAt": "2024-10-12T22:40:57.541299Z",
+  "market_startDate": "2024-10-10T22:01:48.593379Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 00:07:27+00",
+  "conditionId": "0x1483bb6df77ccbda0df209c2b53378229b71e3dbad8719ad9d4f3588c67900c9",
+  "slug": "will-germany-beat-bosnia-and-herzegovina-oct-11",
+  "question": "Will Germany beat Bosnia and Herzegovina?"
+}

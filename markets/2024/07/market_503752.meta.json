@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:55:31.215601Z",
+  "market_createdAt": "2024-07-18T18:55:31.215601Z",
+  "market_updatedAt": "2024-07-29T18:49:05.854437Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-28 23:18:29+00",
+  "conditionId": "0xfc2a977a2caa7d56603c02a23ba1965d8fea639106bafa60502acd450e8203d3",
+  "slug": "will-nicolo-martinenghi-ita-win-gold-in-mens-100m-breaststroke",
+  "question": "Will Nicolo Martinenghi (ITA) win Gold in Men's 100m Breaststroke?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T16:01:16.485722Z",
+  "market_createdAt": "2024-03-13T16:01:16.485722Z",
+  "market_updatedAt": "2024-11-10T09:22:52.043339Z",
+  "market_startDate": "2024-04-03T22:06:03.887Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 09:45:38+00",
+  "conditionId": "0x99cae1b83694726803dd03dea2465fee332ba788b8a9d24e42e9ddd5391c6b9b",
+  "slug": "will-a-republican-win-nevada-us-senate-election",
+  "question": "Will a Republican win Nevada US Senate Election?"
+}

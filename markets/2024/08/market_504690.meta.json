@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:04:28.107314Z",
+  "market_createdAt": "2024-08-07T21:04:28.107314Z",
+  "market_updatedAt": "2024-08-10T22:40:57.203314Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 23:27:21+00",
+  "conditionId": "0x8314b1a939d1e9c088bd8155ebddede9c61add10850ef81d49d771163b689e77",
+  "slug": "66kg-w-boxing-final-will-khelif-alg-win-by-kotko",
+  "question": "Will Imane Khelif win Gold by KO/TKO?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:26:18.722190Z",
+  "market_createdAt": "2024-06-04T15:26:18.72219Z",
+  "market_updatedAt": "2024-06-07T20:21:17.765894Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-06 22:36:16+00",
+  "conditionId": "0x7f73d75cef9c17295a5c362a6f88ec6bdfce7fd030a396f4c7f28a87bef14494",
+  "slug": "gme-halted-again-by-friday",
+  "question": "$GME halted again by Friday?"
+}

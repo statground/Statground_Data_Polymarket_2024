@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:31:38.323000Z",
+  "market_createdAt": "2024-03-01T19:31:38.323Z",
+  "market_updatedAt": "2024-11-07T11:33:10.983284Z",
+  "market_startDate": "2024-03-19T15:52:37.831Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:10:32+00",
+  "conditionId": "0x896ed831aef8b7210f9d100c9ea42e41eae0575c9b6ad0f1fef26620f48d22f7",
+  "slug": "will-a-democrat-win-texas-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Texas in the 2024 US Presidential Election?"
+}

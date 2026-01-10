@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-14T14:09:45.905603Z",
+  "market_createdAt": "2024-07-14T14:09:45.905603Z",
+  "market_updatedAt": "2024-07-17T04:18:49.57044Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 04:33:12+00",
+  "conditionId": "0x4ace3069bbf3ef4a280ef6b75c7f283c6617b4cdbde4067700afd5b06a16bc66",
+  "slug": "donald-trumps-ear-bandaged-during-rnc-convention",
+  "question": "Trump's ear bandaged during RNC convention?"
+}

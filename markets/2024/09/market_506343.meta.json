@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:59:49.336797Z",
+  "market_createdAt": "2024-09-03T19:59:49.336797Z",
+  "market_updatedAt": "2024-10-22T05:11:14.645342Z",
+  "market_startDate": "2024-09-03T23:46:38.055647Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 05:47:30+00",
+  "conditionId": "0x9e0f945b8203fcffb4391c08437d29f33bfb95401a462de1f0890bb023f1dfc1",
+  "slug": "will-the-new-york-liberty-win-the-2024-wnba-finals",
+  "question": "Will the New York Liberty win the 2024 WNBA Finals?"
+}

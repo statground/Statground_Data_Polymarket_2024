@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:42:59.797395Z",
+  "market_createdAt": "2024-06-04T15:42:59.797395Z",
+  "market_updatedAt": "2024-06-10T00:31:14.006697Z",
+  "market_startDate": "2024-06-04T15:50:55.372Z",
+  "market_endDate": "2024-06-08T12:00:00Z",
+  "market_closedTime": "2024-06-09 05:00:40+00",
+  "conditionId": "0xb040d33d5fd80e4071b8794c2e5045ddf2b3bb067ab2a3d4adb267d6b3ff6774",
+  "slug": "stanley-cup-finals-game-1-panthers-vs-oilers-2024",
+  "question": "Stanley Cup Finals: Game 1"
+}

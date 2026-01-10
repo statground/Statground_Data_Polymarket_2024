@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:04:34.172205Z",
+  "market_createdAt": "2024-08-08T17:04:34.172205Z",
+  "market_updatedAt": "2024-12-23T23:15:44.452361Z",
+  "market_startDate": "2024-08-08T17:04:34.172205Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-23 00:24:19+00",
+  "conditionId": "0x30182a7c0455cbbd331bff51cd30c598cac372962d6908f8c7d1fd02cc0ce0a0",
+  "slug": "will-the-packers-win-the-nfc-north",
+  "question": "Will the Packers win the NFC North?"
+}

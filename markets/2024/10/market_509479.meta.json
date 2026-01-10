@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T23:03:50.208017Z",
+  "market_createdAt": "2024-10-09T23:03:50.208017Z",
+  "market_updatedAt": "2024-11-07T17:49:04.509363Z",
+  "market_startDate": "2024-10-30T18:35:44.059262Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:25:22+00",
+  "conditionId": "0x39dba88845cb216544c06c87abc2124db02dc435e76befc1b0fc0dafd27732f0",
+  "slug": "trump-wins-283-255-az-ga-mi-nv-nc",
+  "question": "Trump wins 283-255 - AZ, GA, MI, NV, NC"
+}

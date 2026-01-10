@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:02:03.453716Z",
+  "market_createdAt": "2024-11-17T05:02:03.453716Z",
+  "market_updatedAt": "2024-11-20T05:05:07.358089Z",
+  "market_startDate": "2024-11-17T05:04:31.089117Z",
+  "market_endDate": "2024-11-26T01:00:00Z",
+  "market_closedTime": "2024-11-19 05:35:58+00",
+  "conditionId": "0x71c1371ff70e6a33c6dda4452b36c43209ef60551d62203d0c9a56f00200d290",
+  "slug": "nba-hou-mil-2024-11-18",
+  "question": "Rockets vs. Bucks"
+}

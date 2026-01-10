@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512196",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:14:28.622352Z",
+  "market_createdAt": "2024-11-06T19:14:28.622352Z",
+  "market_updatedAt": "2024-11-15T22:47:11.820499Z",
+  "market_startDate": "2024-11-06T19:46:09.56Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:16:43+00",
+  "conditionId": "0xe36d167b8b9f6fee2a2a4eef324bf7701a603f34d8e088f00bfdbc03ee132ded",
+  "slug": "will-trump-nominate-eric-schmitt-for-attorney-general",
+  "question": "Will Trump nominate Eric Schmitt for Attorney General?"
+}

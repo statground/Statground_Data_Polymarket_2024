@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T20:46:26.445474Z",
+  "market_createdAt": "2024-11-25T20:46:26.445474Z",
+  "market_updatedAt": "2025-01-02T05:25:06.27884Z",
+  "market_startDate": "2024-11-25T20:53:48.161177Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 10:26:54+00",
+  "conditionId": "0xfc9ee22afc3b4b05222faa613e5a8f3b4499bb3d252b6a417a68b850a52abf10",
+  "slug": "will-kendrick-lamar-release-another-album-in-2024",
+  "question": "Will Kendrick Lamar release another album in 2024?"
+}

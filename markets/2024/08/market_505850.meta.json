@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:14:38.325502Z",
+  "market_createdAt": "2024-08-26T20:14:38.325502Z",
+  "market_updatedAt": "2024-09-09T20:57:13.250976Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:04:08+00",
+  "conditionId": "0xbf9e9ec65dde46de974233c8521c11900ed79c5d5a7efa7f5e057a799e6ac075",
+  "slug": "nfl-atl-pit-2024-09-08",
+  "question": "Falcons vs. Steelers"
+}

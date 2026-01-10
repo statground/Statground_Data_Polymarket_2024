@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:19:29.143726Z",
+  "market_createdAt": "2024-12-09T20:19:29.143726Z",
+  "market_updatedAt": "2024-12-12T09:15:05.823269Z",
+  "market_startDate": "2024-12-09T21:00:49.806Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:43:37+00",
+  "conditionId": "0xbc42c868e9aa469f51412f133a82824cd962a55383e7987e2ce19aa947c78784",
+  "slug": "will-trump-be-in-the-manifesto",
+  "question": "Will \"Trump\" be in the manifesto?"
+}

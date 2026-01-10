@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-15T18:07:53.050000Z",
+  "market_createdAt": "2024-01-15T18:07:53.05Z",
+  "market_updatedAt": "2024-04-26T02:57:37.870734Z",
+  "market_startDate": "2024-01-15T18:18:00Z",
+  "market_endDate": "2024-01-16T00:00:00Z",
+  "market_closedTime": "2024-01-16 10:01:48+00",
+  "conditionId": "0x0b7fb54aeecf49b6e2cf5cc04984f40096af15e4f2e957a3cd599bd24a35ce23",
+  "slug": "will-ted-lasso-win-outstanding-comedy-series-at-the-75th-emmys",
+  "question": "Will Ted Lasso win Outstanding Comedy Series at the 75th Emmys?"
+}

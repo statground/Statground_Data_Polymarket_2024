@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-17T21:05:27.788138Z",
+  "market_createdAt": "2024-05-17T21:05:27.788138Z",
+  "market_updatedAt": "2024-06-02T01:21:15.499488Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:09:39+00",
+  "conditionId": "0x25078e84b111eba2d9ff88fdd9120d1e0e30227c05b1076bd245770c4c7ca653",
+  "slug": "aoc-and-mtg-debate-in-may",
+  "question": "AOC and MTG debate in May?"
+}

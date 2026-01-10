@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:24:23.526388Z",
+  "market_createdAt": "2024-11-04T18:24:23.526388Z",
+  "market_updatedAt": "2024-11-16T23:22:53.668005Z",
+  "market_startDate": "2024-11-04T19:16:46.445669Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-11-16 09:50:22+00",
+  "conditionId": "0x3aca4120223693a125302bde5a2d28cdb8a8bb16e01a366463130be92ef91403",
+  "slug": "garbrandt-vs-johns",
+  "question": "Garbrandt vs. Johns"
+}

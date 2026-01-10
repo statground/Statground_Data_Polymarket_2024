@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:17:24.332755Z",
+  "market_createdAt": "2024-10-02T17:17:24.332755Z",
+  "market_updatedAt": "2024-10-22T08:27:23.708545Z",
+  "market_startDate": "2024-10-02T21:02:19.284023Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 10:12:43+00",
+  "conditionId": "0x89d3924a688d2378aad57b98cb613b9e1878d35d272a594474834472f592ffd0",
+  "slug": "will-the-new-york-mets-win-the-national-league",
+  "question": "Will the New York Mets win the National League?"
+}

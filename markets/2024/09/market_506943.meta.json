@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:39:27.598894Z",
+  "market_createdAt": "2024-09-12T21:39:27.598894Z",
+  "market_updatedAt": "2024-09-15T22:42:55.192172Z",
+  "market_startDate": "2024-09-12T22:27:59.958Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 01:54:37+00",
+  "conditionId": "0x98efb5f40be7314936d4e25399855b0888339a824f4322b709d804e386b7fba1",
+  "slug": "will-oklahoma-state-beat-tulsa",
+  "question": "Will Oklahoma State beat Tulsa?"
+}

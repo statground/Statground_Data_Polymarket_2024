@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:10:16.745857Z",
+  "market_createdAt": "2024-07-09T15:10:16.745857Z",
+  "market_updatedAt": "2024-12-30T23:27:42.479509Z",
+  "market_startDate": "2024-07-09T15:10:16.745857Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-30 00:23:46+00",
+  "conditionId": "0xcbbff50d5b91df1c098990afb653c799660e7bb2a818501b00f03bdfadb351c0",
+  "slug": "will-the-colts-win-super-bowl-2025",
+  "question": "Will the Colts win Super Bowl 2025?"
+}

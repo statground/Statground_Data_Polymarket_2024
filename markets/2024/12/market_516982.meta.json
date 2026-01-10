@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:36:56.008743Z",
+  "market_createdAt": "2024-12-31T20:36:56.008743Z",
+  "market_updatedAt": "2025-07-01T00:25:00.360452Z",
+  "market_startDate": "2024-12-31T20:49:51.442Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:20:22+00",
+  "conditionId": "0x0f8b644e78bbe65c2ab9ff2aa3a9a0df135d76a46438b5584b3fe448d358bd47",
+  "slug": "will-meta-have-the-top-ai-model-on-june-30",
+  "question": "Will Meta have the top AI model on June 30?"
+}

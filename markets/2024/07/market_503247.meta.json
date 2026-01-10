@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T20:03:03.727626Z",
+  "market_createdAt": "2024-07-05T20:03:03.727626Z",
+  "market_updatedAt": "2024-11-03T14:01:12.414846Z",
+  "market_startDate": "2024-07-05T20:03:03.727626Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:40:18+00",
+  "conditionId": "0xca00534dbf265f529c599ab7b6f6ab47846be698cb505659cf86e041feaeef84",
+  "slug": "david-cameron-next-conservative-party-leader",
+  "question": "David Cameron next Conservative party leader?"
+}

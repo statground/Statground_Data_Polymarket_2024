@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:19:45.450906Z",
+  "market_createdAt": "2024-10-04T16:19:45.450906Z",
+  "market_updatedAt": "2024-10-06T22:26:39.624351Z",
+  "market_startDate": "2024-10-04T18:29:28.029667Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:27:07+00",
+  "conditionId": "0xce8baa6fab571b4af8b7cac1d87d76e4483844b5e1aae3e7ca9b5b37a143e6bc",
+  "slug": "will-georgia-beat-auburn",
+  "question": "Will Georgia beat Auburn?"
+}

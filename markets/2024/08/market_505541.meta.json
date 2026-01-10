@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505541",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:12:32.921269Z",
+  "market_createdAt": "2024-08-21T15:12:32.921269Z",
+  "market_updatedAt": "2024-08-23T05:17:04.14583Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:26:56+00",
+  "conditionId": "0x6c4b4f524f14e0368b491a3ba7a77bbc56ff2aa9d1803fb74100b5e14ad2341a",
+  "slug": "will-pete-buttigieg-say-delta-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Delta\" in DNC speech?"
+}

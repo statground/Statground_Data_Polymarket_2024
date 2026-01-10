@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:22:15.324540Z",
+  "market_createdAt": "2024-07-10T16:22:15.32454Z",
+  "market_updatedAt": "2024-08-12T12:02:49.852843Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:15:08+00",
+  "conditionId": "0xf9f7c8d36dce5511b4343a2d006c70e61d51cdabe4330bfbaecc09ea2422eaab",
+  "slug": "another-country-wins-the-most-medals-in-2024-paris-olympics",
+  "question": "Another country wins the most medals in 2024 Paris Olympics?"
+}

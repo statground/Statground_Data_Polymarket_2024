@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:14:37.905094Z",
+  "market_createdAt": "2024-12-04T21:14:37.905094Z",
+  "market_updatedAt": "2024-12-09T03:25:32.083621Z",
+  "market_startDate": "2024-12-04T21:18:08.480273Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 04:55:57+00",
+  "conditionId": "0x142ab0f78320efdada71ebbefd2cf0352f414aa5029c6c7f136ac7315cb3ee49",
+  "slug": "nhl-tor-pit-2024-12-07",
+  "question": "Maple Leafs vs. Penguins"
+}

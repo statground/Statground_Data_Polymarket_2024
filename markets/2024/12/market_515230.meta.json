@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:31:02.457775Z",
+  "market_createdAt": "2024-12-10T02:31:02.457775Z",
+  "market_updatedAt": "2024-12-17T02:49:28.671559Z",
+  "market_startDate": "2024-12-10T02:34:30.506032Z",
+  "market_endDate": "2024-12-22T21:25:00Z",
+  "market_closedTime": "2024-12-16 02:47:47+00",
+  "conditionId": "0x3d06d7f914dc48f3d95953bd37190638e2db523e7cf1383bef69431dda710c92",
+  "slug": "nfl-ind-den-2024-12-15",
+  "question": "Colts vs. Broncos"
+}

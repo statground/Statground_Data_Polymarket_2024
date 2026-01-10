@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T06:28:24.699887Z",
+  "market_createdAt": "2024-10-08T06:28:24.699887Z",
+  "market_updatedAt": "2024-11-30T08:27:17.176615Z",
+  "market_startDate": "2024-10-08T21:36:48.116Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 09:10:53+00",
+  "conditionId": "0x9a8337f8f916283c359fd01452ed5d5e1e5e64f5287191b4f134f25fdc8e849a",
+  "slug": "will-nevada-be-the-closest-state",
+  "question": "Will Nevada be the closest state?"
+}

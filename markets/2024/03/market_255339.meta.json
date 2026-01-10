@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T20:31:10.365000Z",
+  "market_createdAt": "2024-03-07T20:31:10.365Z",
+  "market_updatedAt": "2024-04-26T02:59:40.494592Z",
+  "market_startDate": "2024-03-07T22:15:00Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-09 03:49:33+00",
+  "conditionId": "0x0c4add08ba30096cfd7226b7e05255efc3e78c595e80b9e6e183525b4d6667fc",
+  "slug": "will-anthony-joshua-win-his-boxing-match-against-francis-ngannou",
+  "question": "Will Anthony Joshua win his boxing match against Francis Ngannou?"
+}

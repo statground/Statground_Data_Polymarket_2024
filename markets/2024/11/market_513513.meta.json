@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T20:24:57.827158Z",
+  "market_createdAt": "2024-11-19T20:24:57.827158Z",
+  "market_updatedAt": "2025-02-02T11:31:26.15378Z",
+  "market_startDate": "2024-11-19T23:43:59.179Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 12:05:20+00",
+  "conditionId": "0x5ebd7530e7ae05d362aafff51c840890f271e387a77ca4dc653e6e9e9a7c4734",
+  "slug": "ten-or-more-trump-cabinet-confirmations-in-january",
+  "question": "Ten or more Trump Cabinet confirmations in January? "
+}

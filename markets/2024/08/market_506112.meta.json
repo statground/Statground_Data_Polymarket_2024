@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T20:04:23.980531Z",
+  "market_createdAt": "2024-08-29T20:04:23.980531Z",
+  "market_updatedAt": "2024-09-12T03:07:05.284479Z",
+  "market_startDate": "2024-09-03T20:41:35.702Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:13:24+00",
+  "conditionId": "0x6685f0ad387a4a62760e9986c7b76944332a035e8b84a608f22263c1533d5d05",
+  "slug": "who-will-be-asked-the-first-debate-question",
+  "question": "Who is asked the first debate question?"
+}

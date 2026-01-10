@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513865",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:13:25.392788Z",
+  "market_createdAt": "2024-11-24T18:13:25.392788Z",
+  "market_updatedAt": "2024-12-01T20:01:45.667891Z",
+  "market_startDate": "2024-11-24T18:15:59.607236Z",
+  "market_endDate": "2024-11-30T15:00:00Z",
+  "market_closedTime": "2024-11-30 20:19:50+00",
+  "conditionId": "0x1aff82d1bb2ee07a5f2a09e3ec8da3f53ed6d46ea2b3228cb5cf5b3a563ca371",
+  "slug": "epl-bre-lei-2024-11-30-draw",
+  "question": "Will Brentford vs. Leicester end in a draw?"
+}

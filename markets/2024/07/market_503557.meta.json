@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:17:40.847225Z",
+  "market_createdAt": "2024-07-16T16:17:40.847225Z",
+  "market_updatedAt": "2024-07-20T03:30:42.027158Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:44+00",
+  "conditionId": "0x2d1c48c336bdaa004ad9fcee7f4f4e42ea55e92ec8e9f83ab8776472ef92883a",
+  "slug": "will-tyrell-hatton-win-the-british-open",
+  "question": "Will Tyrell Hatton win the British Open?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T02:35:52.416054Z",
+  "market_createdAt": "2024-09-17T02:35:52.416054Z",
+  "market_updatedAt": "2024-09-22T05:06:46.347486Z",
+  "market_startDate": "2024-09-17T02:41:55.678761Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-21 06:03:49+00",
+  "conditionId": "0xcee3cdfaa0fa654ecc567a3f650d67f3e81110ff62b5f3fda5d4ea9dfce97cc3",
+  "slug": "diddy-released-from-custody-by-friday",
+  "question": "Diddy released from custody by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:31:50.588738Z",
+  "market_createdAt": "2024-09-17T17:31:50.588738Z",
+  "market_updatedAt": "2025-01-24T03:56:49.034035Z",
+  "market_startDate": "2024-09-17T18:29:46.199469Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-01-23 06:56:01+00",
+  "conditionId": "0x921e34141afd24816bd0ab761487ece71b8aa15157f1500e272aed6a90ee1c3e",
+  "slug": "will-red-bull-salzburg-win-the-uefa-champions-league",
+  "question": "Will Red Bull Salzburg win the UEFA Champions League?"
+}

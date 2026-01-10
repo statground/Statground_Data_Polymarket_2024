@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T23:19:27.297368Z",
+  "market_createdAt": "2024-11-21T23:19:27.297368Z",
+  "market_updatedAt": "2024-12-09T05:53:11.906543Z",
+  "market_startDate": "2024-11-22T15:50:17.133578Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 06:50:04+00",
+  "conditionId": "0xb492d6f35f567d328484a7c88b3fd61cd076a6fe0490669b0cb6804ec2e35779",
+  "slug": "gane-vs-volkov",
+  "question": "Gane vs. Volkov"
+}

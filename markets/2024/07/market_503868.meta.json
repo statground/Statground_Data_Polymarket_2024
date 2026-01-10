@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:03:52.757767Z",
+  "market_createdAt": "2024-07-19T16:03:52.757767Z",
+  "market_updatedAt": "2024-08-02T17:13:04.542911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 22:11:13+00",
+  "conditionId": "0x13df698eae3ddad03d5f0ef90fb49d7e73eab8b4a2f7ae726ce88dd779aa4ba3",
+  "slug": "will-hugo-gonzalez-esp-win-gold-in-mens-200m-backstroke",
+  "question": "Will Hugo Gonzalez (ESP) win Gold in Men's 200m Backstroke?"
+}

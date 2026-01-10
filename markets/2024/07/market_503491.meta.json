@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503491",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:04:08.722742Z",
+  "market_createdAt": "2024-07-15T16:04:08.722742Z",
+  "market_updatedAt": "2024-07-18T01:36:44.011485Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-17 08:35:34+00",
+  "conditionId": "0x087f41922f3185245ff7cc23875554d9fd79a5bc66240e460bffbf204ac8319f",
+  "slug": "will-andres-gonzalez-win-the-wsop-main-event",
+  "question": "Will Andres Gonzalez win the WSOP main event?"
+}

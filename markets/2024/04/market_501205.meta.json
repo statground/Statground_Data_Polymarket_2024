@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-26T17:13:07.963598Z",
+  "market_createdAt": "2024-04-26T17:13:07.963598Z",
+  "market_updatedAt": "2024-05-07T23:09:31.830837Z",
+  "market_startDate": "2024-04-26T17:42:59.66Z",
+  "market_endDate": "2024-04-27T12:00:00Z",
+  "market_closedTime": "2024-04-27 23:52:44+00",
+  "conditionId": "0xe6e5ca7cd84983cf1d0d4842d4bd5c5cec84fa70817e86a861f4972b51ba1b60",
+  "slug": "nba-no-okc-2024-04-27",
+  "question": "NBA: New Orleans Pelicans vs. Oklahoma City Thunder 2024-04-27"
+}

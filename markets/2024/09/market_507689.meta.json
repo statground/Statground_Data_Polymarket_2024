@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T23:27:25.132685Z",
+  "market_createdAt": "2024-09-20T23:27:25.132685Z",
+  "market_updatedAt": "2024-09-25T01:42:42.861349Z",
+  "market_startDate": "2024-09-20T23:33:01.751796Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 03:16:53+00",
+  "conditionId": "0x019dba93960e72b0055a110e4c60791bbdf6eb73924ee6431721f11439c7cc21",
+  "slug": "polymarket-parlay-nfl-week-3",
+  "question": "Polymarket Parlay: NFL Week 3"
+}

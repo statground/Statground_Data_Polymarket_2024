@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T22:56:30.135220Z",
+  "market_createdAt": "2024-05-20T22:56:30.13522Z",
+  "market_updatedAt": "2024-05-25T22:14:12.853051Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-24T12:00:00Z",
+  "market_closedTime": "2024-05-25 00:24:55+00",
+  "conditionId": "0x0d46c4a1bf96c4fcc589cfec6b27c497a7ecc2ee0c8be9842f5e8e67f0851b73",
+  "slug": "will-sam-altman-apologize-to-scarlett-johansson-by-friday",
+  "question": "OpenAI apologizes to Scarlett Johansson by Friday?"
+}

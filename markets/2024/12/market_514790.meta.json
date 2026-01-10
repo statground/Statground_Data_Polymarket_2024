@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:17:28.205465Z",
+  "market_createdAt": "2024-12-04T21:17:28.205465Z",
+  "market_updatedAt": "2024-12-10T04:35:22.269566Z",
+  "market_startDate": "2024-12-04T21:20:48.683632Z",
+  "market_endDate": "2024-12-16T00:30:00Z",
+  "market_closedTime": "2024-12-09 05:31:12+00",
+  "conditionId": "0x17f33842f01e7f631e3b31a250d5fbfbaee9ac768dd95ee5a09efb76fefcc790",
+  "slug": "nhl-utah-phi-2024-12-08",
+  "question": "Utah vs. Flyers"
+}

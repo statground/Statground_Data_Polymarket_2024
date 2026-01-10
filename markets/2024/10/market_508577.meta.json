@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:34:52.479720Z",
+  "market_createdAt": "2024-10-01T18:34:52.47972Z",
+  "market_updatedAt": "2024-10-06T15:32:44.090364Z",
+  "market_startDate": "2024-10-02T15:22:35.734412Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:17:03+00",
+  "conditionId": "0x3161c821b5150249987f5f7b9655387edecbf901e15cdb1fcc120880b3dde20f",
+  "slug": "will-the-match-between-west-ham-and-ipswich-town-end-in-a-draw",
+  "question": "Will the match between West Ham and Ipswich Town end in a draw?"
+}

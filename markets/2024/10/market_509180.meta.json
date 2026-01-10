@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:22:22.190627Z",
+  "market_createdAt": "2024-10-07T22:22:22.190627Z",
+  "market_updatedAt": "2024-10-14T23:50:56.396211Z",
+  "market_startDate": "2024-10-07T22:24:30.158792Z",
+  "market_endDate": "2024-10-13T20:05:00Z",
+  "market_closedTime": "2024-10-14 01:14:22+00",
+  "conditionId": "0x174737c2e4303c514ce6da0af0f3bc666145994280ce3f7d60e9b4ed9288a53a",
+  "slug": "nfl-lac-den-2024-10-13",
+  "question": "Chargers vs. Broncos"
+}

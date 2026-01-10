@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:20:13.952409Z",
+  "market_createdAt": "2024-10-04T16:20:13.952409Z",
+  "market_updatedAt": "2024-10-06T23:16:44.376806Z",
+  "market_startDate": "2024-10-04T18:29:54.504075Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:31:59+00",
+  "conditionId": "0xacbc1898998caa55c80675c8f9d3ac7ab244b40a47b30abfe82a000e4466b47f",
+  "slug": "will-georgia-beat-auburn-by-23-or-more-points",
+  "question": "Will Georgia beat Auburn by 23 or more points?"
+}

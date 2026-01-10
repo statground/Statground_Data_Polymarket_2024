@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:43:54.417549Z",
+  "market_createdAt": "2024-09-25T18:43:54.417549Z",
+  "market_updatedAt": "2025-05-27T00:26:27.971299Z",
+  "market_startDate": "2024-09-25T21:00:48.812943Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-25 21:23:14+00",
+  "conditionId": "0x12147f7562bb27ad290476c459a5fc77705dbdf91df17127eb050c3f21947f09",
+  "slug": "will-newcastle-united-finish-in-the-top-4-of-epl",
+  "question": "Will Newcastle United finish in the top 4 of EPL?"
+}

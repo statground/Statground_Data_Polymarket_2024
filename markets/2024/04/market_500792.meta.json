@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T03:03:36.650559Z",
+  "market_createdAt": "2024-04-07T03:03:36.650559Z",
+  "market_updatedAt": "2024-07-21T23:08:34.80091Z",
+  "market_startDate": "2024-04-07T03:15:09.581Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 01:14:22+00",
+  "conditionId": "0x47e90eb1522f574d13be532a40b9abc3a5cb62ffc076a9df2cbcd29378675b9f",
+  "slug": "will-shark-cat-reach-1b-first",
+  "question": "Will Shark Cat reach $1b first?"
+}

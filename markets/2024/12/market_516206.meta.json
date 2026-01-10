@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:04:29.115071Z",
+  "market_createdAt": "2024-12-22T05:04:29.115071Z",
+  "market_updatedAt": "2024-12-25T07:21:25.727281Z",
+  "market_startDate": "2024-12-22T05:07:01.847061Z",
+  "market_endDate": "2024-12-31T03:00:00Z",
+  "market_closedTime": "2024-12-24 07:22:03+00",
+  "conditionId": "0xd9a8a64da9377d7d3f7144f0f2c1539760e0435866a9ad4da3b707b2e10152b1",
+  "slug": "nba-phx-den-2024-12-23",
+  "question": "Suns vs. Nuggets"
+}

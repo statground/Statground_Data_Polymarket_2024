@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T17:35:15.779839Z",
+  "market_createdAt": "2024-10-17T17:35:15.779839Z",
+  "market_updatedAt": "2024-10-21T01:36:46.335523Z",
+  "market_startDate": "2024-10-17T20:49:45.347421Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:58:53+00",
+  "conditionId": "0xd4fdd616eafd8fd0f5329c72c41426d20b70d0f97cc8dd5e27e69f84c4f0637e",
+  "slug": "will-trump-say-china-10-or-more-times-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"China\" 10 or more times during Pennsylvania rally on October 19?"
+}

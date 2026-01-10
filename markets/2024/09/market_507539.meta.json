@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507539",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:38:54.080393Z",
+  "market_createdAt": "2024-09-19T21:38:54.080393Z",
+  "market_updatedAt": "2024-09-22T03:32:49.962336Z",
+  "market_startDate": "2024-09-20T00:05:23.95697Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-21 08:16:38+00",
+  "conditionId": "0x26f10676e7a769298b963ad545cc1fdf63925a243fe246af842f246e3f2f14a1",
+  "slug": "will-team-liquid-win-esl-counter-strike-champion-2024",
+  "question": "Will Team Liquid win ESL Counter-Strike Champion 2024?"
+}

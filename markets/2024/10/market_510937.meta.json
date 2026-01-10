@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:54:45.282287Z",
+  "market_createdAt": "2024-10-25T17:54:45.282287Z",
+  "market_updatedAt": "2024-10-27T20:10:49.084936Z",
+  "market_startDate": "2024-10-25T22:14:49.542443Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 21:22:59+00",
+  "conditionId": "0x28a00b10bac496b7e82bb9336cf86f5f8414f6d724535f4b985536d97ac62e62",
+  "slug": "will-notre-dame-beat-navy",
+  "question": "Will Notre Dame beat Navy?"
+}

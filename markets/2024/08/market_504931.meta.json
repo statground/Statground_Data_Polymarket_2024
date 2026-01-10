@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:04:10.776236Z",
+  "market_createdAt": "2024-08-12T17:04:10.776236Z",
+  "market_updatedAt": "2024-08-19T07:22:52.401413Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 07:13:13+00",
+  "conditionId": "0x970d0ca607116afdcca224523c90ce658702d8e2e49239503845e1e6099cda95",
+  "slug": "nfl-las-dal-2024-08-17",
+  "question": "Raiders vs. Cowboys"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:46:19.226000Z",
+  "market_createdAt": "2024-03-01T17:46:19.226Z",
+  "market_updatedAt": "2024-11-07T02:11:13.541386Z",
+  "market_startDate": "2024-03-28T20:15:47.422Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:44:02+00",
+  "conditionId": "0x0fb3071db6a07c5e7ec2e94db77ac94d580788aec6f223f618662cb7f3e95cde",
+  "slug": "will-a-republican-win-connecticut-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Connecticut Presidential Election?"
+}

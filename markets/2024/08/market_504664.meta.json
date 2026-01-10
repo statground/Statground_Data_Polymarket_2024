@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T18:09:58.186475Z",
+  "market_createdAt": "2024-08-07T18:09:58.186475Z",
+  "market_updatedAt": "2024-10-07T00:16:42.680274Z",
+  "market_startDate": "2024-08-07T18:09:58.186Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-06 00:28:04+00",
+  "conditionId": "0x37a570f13c5e78f85eef34de2430736e15691dca8f5820946388bc15b9d956e7",
+  "slug": "will-israel-enter-lebanon-before-November",
+  "question": "Will Israel invade Lebanon before November?"
+}

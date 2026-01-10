@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:55:15.760000Z",
+  "market_createdAt": "2024-01-12T19:55:15.76Z",
+  "market_updatedAt": "2024-02-01T19:01:42.862Z",
+  "market_startDate": "2024-01-12T19:59:11.474Z",
+  "market_endDate": "2024-01-31T00:00:00Z",
+  "market_closedTime": "2024-02-01 07:04:37+00",
+  "conditionId": "0x2ba4852fa925a419142e5e2a8fe0aab3e36ee6460dac6064e4f10cd42d530eb6",
+  "slug": "will-eth-hit-3000-in-january",
+  "question": "Will ETH hit $3,000 in January?"
+}

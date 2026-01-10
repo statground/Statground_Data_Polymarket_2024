@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T18:20:33.931000Z",
+  "market_createdAt": "2024-01-10T18:20:33.931Z",
+  "market_updatedAt": "2024-01-17T14:13:18.437Z",
+  "market_startDate": "2024-01-11T18:55:10.46Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-16 22:31:45+00",
+  "conditionId": "0xa8f7ccc1a0299583b1bd8b8fa5a559964a1b9ab1a3ff75b60bcc69c722e3111c",
+  "slug": "trump-margin-of-victory-in-iowa-caucus-40",
+  "question": "Trump margin of victory in Iowa Caucus >40%"
+}

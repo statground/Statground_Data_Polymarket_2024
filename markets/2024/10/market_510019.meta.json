@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:56:43.040216Z",
+  "market_createdAt": "2024-10-16T19:56:43.040216Z",
+  "market_updatedAt": "2024-10-20T01:32:37.624447Z",
+  "market_startDate": "2024-10-16T21:11:00.246239Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 02:39:05+00",
+  "conditionId": "0x1bd1cf8765cd5355dc6e8f0a3b87347d0891d4775050012bb2f6f4e9bc73b377",
+  "slug": "will-trump-say-north-carolina-2-or-more-times-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"North Carolina\" 2 or more times during Michigan rally on October 18?"
+}

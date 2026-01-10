@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T16:51:31.442870Z",
+  "market_createdAt": "2024-11-27T16:51:31.44287Z",
+  "market_updatedAt": "2024-12-07T19:21:27.285052Z",
+  "market_startDate": "2024-11-29T18:40:36.935922Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 19:24:58+00",
+  "conditionId": "0x95474ea98c1e6a6bc501b952fad567a4228735fdda5f21aba306b7bd1ce3e089",
+  "slug": "bitcoin-above-98000-on-december-6",
+  "question": "Bitcoin above $98,000 on December 6?"
+}

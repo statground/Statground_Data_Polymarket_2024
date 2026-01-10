@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:18:29.151703Z",
+  "market_createdAt": "2024-10-18T21:18:29.151703Z",
+  "market_updatedAt": "2024-10-21T17:30:48.162852Z",
+  "market_startDate": "2024-10-18T23:23:44.833053Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 18:23:20+00",
+  "conditionId": "0x9694e4b135bc6a2d89f5705daffcca93301eaacf5f1c0cf8e4ddcbd3b83a8cd7",
+  "slug": "will-the-jaguars-and-patriots-combine-for-42-or-more-points",
+  "question": "Will the Jaguars and Patriots combine for 42 or more points?"
+}

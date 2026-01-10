@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:32:47.551564Z",
+  "market_createdAt": "2024-11-02T19:32:47.551564Z",
+  "market_updatedAt": "2024-11-06T05:37:13.038615Z",
+  "market_startDate": "2024-11-02T20:49:48.058Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 05:28:13+00",
+  "conditionId": "0x46a9751b96cc5140d79ff18e4e59a7b550b9704ba9f4dbea208d3e2d67da445d",
+  "slug": "will-trump-say-pennsylvania-20-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"Pennsylvania\" 20 or more times during Pittsburgh rally on Nov 4?"
+}

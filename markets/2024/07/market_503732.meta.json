@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:12:03.846897Z",
+  "market_createdAt": "2024-07-18T18:12:03.846897Z",
+  "market_updatedAt": "2024-07-31T20:47:03.800872Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:35:37+00",
+  "conditionId": "0x6b4f079d65bc9283366bfda7e4d48a4f36f461ad57290803856e85ee7593360f",
+  "slug": "will-kaylee-mckeowan-aus-win-gold-in-100m-womens-backstroke",
+  "question": "Will Kaylee McKeowan (AUS) win Gold in 100m Women's Backstroke?"
+}

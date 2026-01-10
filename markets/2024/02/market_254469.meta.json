@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T21:15:12.468000Z",
+  "market_createdAt": "2024-02-14T21:15:12.468Z",
+  "market_updatedAt": "2024-06-18T09:36:14.545236Z",
+  "market_startDate": "2024-02-14T21:38:00Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-17 09:31:18+00",
+  "conditionId": "0xb94b3f423602fc4c7914fff5c14f4f0f7ea61f997535d00d8d03f7213b2c6113",
+  "slug": "zksync-airdrop-by-june-30",
+  "question": "zkSync airdrop by June 30?"
+}

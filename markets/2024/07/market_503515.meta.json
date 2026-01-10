@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:37:25.332292Z",
+  "market_createdAt": "2024-07-15T19:37:25.332292Z",
+  "market_updatedAt": "2024-12-18T02:25:36.044131Z",
+  "market_startDate": "2024-07-16T18:06:00.257Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:22:44+00",
+  "conditionId": "0x3bf616ac5ec8252bb7755bc5f686b5c3d22b6413e2f128a57a9dfddf5f024544",
+  "slug": "will-virginia-be-the-tipping-point-state",
+  "question": "Will Virginia be the tipping point state?"
+}

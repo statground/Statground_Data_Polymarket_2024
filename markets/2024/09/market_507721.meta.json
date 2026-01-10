@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:47:13.407403Z",
+  "market_createdAt": "2024-09-23T16:47:13.407403Z",
+  "market_updatedAt": "2024-09-25T18:42:44.874749Z",
+  "market_startDate": "2024-09-23T17:45:30.074Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 19:35:48+00",
+  "conditionId": "0xf94d5fe50d1ca2831673edec09ce1060db6e903731be4b636f15793ab32da1bb",
+  "slug": "will-donald-trump-say-china-5-or-more-times-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"China\" 5 or more times during his Georgia speech?"
+}

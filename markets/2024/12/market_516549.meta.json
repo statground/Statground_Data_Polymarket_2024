@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T20:37:20.794917Z",
+  "market_createdAt": "2024-12-27T20:37:20.794917Z",
+  "market_updatedAt": "2024-12-29T20:00:24.182321Z",
+  "market_startDate": "2024-12-27T21:39:12.211682Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-28 23:10:43+00",
+  "conditionId": "0x6898b33990f6800211e79969f617cf2e27b937de2e830751ac58c5e22b76d00b",
+  "slug": "will-the-chargers-beat-the-patriots-by-5-or-more-points",
+  "question": "Will the Chargers beat the Patriots by 5 or more points?"
+}

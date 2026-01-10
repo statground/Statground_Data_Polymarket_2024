@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:46:16.163597Z",
+  "market_createdAt": "2024-11-06T22:46:16.163597Z",
+  "market_updatedAt": "2025-01-04T21:10:59.106237Z",
+  "market_startDate": "2024-11-06T23:03:59.845621Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:17:21+00",
+  "conditionId": "0x0e07d28fc57cf979bb6b09fa7ca9e7530c86fa5ac16bf0171a53d58cfd420e6b",
+  "slug": "will-jack-bergman-be-the-first-elected-speaker-of-the-house-for-the-119th-congress",
+  "question": "Will Jack Bergman be the first elected Speaker of the House for the 119th congress?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T22:41:20.101309Z",
+  "market_createdAt": "2024-06-03T22:41:20.101309Z",
+  "market_updatedAt": "2024-06-19T00:51:12.705963Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:00:36+00",
+  "conditionId": "0x0c9da719b70fd2cfb5877d17d267d36bb17cc012053a86d17b9e846488eec21e",
+  "slug": "will-one-game-in-the-2024-nba-finals-series-reach-overtime",
+  "question": "Will one game in the 2024 NBA Finals series reach overtime?"
+}

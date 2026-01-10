@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:37:25.879958Z",
+  "market_createdAt": "2024-11-15T18:37:25.879958Z",
+  "market_updatedAt": "2024-11-23T17:06:46.102009Z",
+  "market_startDate": "2024-11-15T18:42:31.584Z",
+  "market_endDate": "2024-11-22T12:00:00Z",
+  "market_closedTime": "2024-11-22 19:08:36+00",
+  "conditionId": "0xf632051d8da1f1bc85704c0b5245b8fc45871fda1ced49050d637ced5f1a8c2a",
+  "slug": "ripple-above-0pt87-on-november-22",
+  "question": "Ripple above $0.87 on November 22?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:14:06.950784Z",
+  "market_createdAt": "2024-10-29T16:14:06.950784Z",
+  "market_updatedAt": "2024-11-01T19:51:16.194823Z",
+  "market_startDate": "2024-10-29T17:00:42.931Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 19:58:14+00",
+  "conditionId": "0x87e2adf36eef925dad06c857289106981499b179dfe3dcfdcdc5b2215bb24bf9",
+  "slug": "will-jd-vance-say-russia-5-or-more-times-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"Russia\" 5 or more times during the Joe Rogan podcast?"
+}

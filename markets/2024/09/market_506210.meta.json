@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-01T20:10:55.303919Z",
+  "market_createdAt": "2024-09-01T20:10:55.303919Z",
+  "market_updatedAt": "2025-01-02T08:01:20.260618Z",
+  "market_startDate": "2024-09-02T20:14:46.163464Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:42:50+00",
+  "conditionId": "0xa78e0dd2e74d544fe407c3ec0f7ba15ff6a16727065acd58436a1d682f76e7a6",
+  "slug": "alexandre-de-moraes-jail-in-2024",
+  "question": "Alexandre de Moraes jail in 2024?"
+}

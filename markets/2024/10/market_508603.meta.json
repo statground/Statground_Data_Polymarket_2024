@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:37:13.454066Z",
+  "market_createdAt": "2024-10-01T19:37:13.454066Z",
+  "market_updatedAt": "2024-10-07T05:02:43.182742Z",
+  "market_startDate": "2024-10-01T20:56:52.851422Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:03:44+00",
+  "conditionId": "0xd21acae18e9303114d5f77708bf5b0a5e9144c9d495fe75d64a2a2607fd00dd3",
+  "slug": "holland-vs-dolidze",
+  "question": "Holland vs. Dolidze"
+}

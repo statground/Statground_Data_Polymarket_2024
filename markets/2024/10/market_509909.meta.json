@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:37:42.376998Z",
+  "market_createdAt": "2024-10-15T18:37:42.376998Z",
+  "market_updatedAt": "2025-03-31T06:00:30.759666Z",
+  "market_startDate": "2024-10-15T22:18:28.128951Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-30 06:18:59+00",
+  "conditionId": "0x8756dd75156c26e0d045efd6881616553aecad9e547c4f18c0ad5f0fba5cce9e",
+  "slug": "will-rb-leipzig-win-the-bundesliga",
+  "question": "Will RB Leipzig win the Bundesliga?"
+}

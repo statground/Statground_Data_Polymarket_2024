@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T23:12:01.260904Z",
+  "market_createdAt": "2024-07-03T23:12:01.260904Z",
+  "market_updatedAt": "2024-07-05T17:15:48.078256Z",
+  "market_startDate": "2024-07-03T23:32:44.14Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-04 20:40:20+00",
+  "conditionId": "0x911e4934f2fe95c358185e7acaf0c5c19c6206e0292f3bf726845809d64305e8",
+  "slug": "will-patrick-bertoletti-eat-the-most-hot-dogs",
+  "question": "Will Patrick Bertoletti eat the most hot dogs?"
+}

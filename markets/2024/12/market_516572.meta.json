@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:43:59.696119Z",
+  "market_createdAt": "2024-12-27T21:43:59.696119Z",
+  "market_updatedAt": "2024-12-30T19:47:47.7007Z",
+  "market_startDate": "2024-12-27T22:17:12.916436Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-30 02:27:11+00",
+  "conditionId": "0x23b569fbee5c636b9e81ee7bb2e30e3774860010216cf4f7dcafafcf77dfa9c6",
+  "slug": "will-the-vikings-and-packers-combine-for-49-or-more-points",
+  "question": "Will the Vikings and Packers combine for 49 or more points?"
+}

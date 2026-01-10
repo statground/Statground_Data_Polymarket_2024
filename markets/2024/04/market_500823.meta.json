@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T14:59:30.276659Z",
+  "market_createdAt": "2024-04-09T14:59:30.276659Z",
+  "market_updatedAt": "2024-05-07T23:09:38.491895Z",
+  "market_startDate": "2024-04-10T15:06:03.569Z",
+  "market_endDate": "2024-04-14T12:00:00Z",
+  "market_closedTime": "2024-04-15 02:17:29+00",
+  "conditionId": "0x35b9d9fc395d31829b44805af5b2d861978b6f2384e64e4d4386bf1555e5bffc",
+  "slug": "will-patrick-cantlay-win-the-2024-masters-tournament",
+  "question": "Will Patrick Cantlay win the 2024 Masters Tournament?"
+}

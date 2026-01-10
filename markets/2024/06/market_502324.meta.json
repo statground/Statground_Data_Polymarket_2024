@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:48:47.191412Z",
+  "market_createdAt": "2024-06-11T18:48:47.191412Z",
+  "market_updatedAt": "2024-07-16T04:44:43.385073Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 07:21:29+00",
+  "conditionId": "0x41f7d9b798b81f93046fa3f4248dbe1c28dbc65b30f115477ea194f49d7c66a7",
+  "slug": "colombia-wins-copa-america-2024",
+  "question": "Colombia wins Copa America 2024?"
+}

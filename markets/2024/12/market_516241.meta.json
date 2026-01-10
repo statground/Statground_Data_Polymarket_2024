@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:00:24.184104Z",
+  "market_createdAt": "2024-12-22T06:00:24.184104Z",
+  "market_updatedAt": "2024-12-25T06:05:49.597708Z",
+  "market_startDate": "2024-12-22T06:03:31.983833Z",
+  "market_endDate": "2024-12-31T01:15:00Z",
+  "market_closedTime": "2024-12-24 06:08:45+00",
+  "conditionId": "0x646f58e9fb7a05559146d5f76c79ebd106acb5ea1320ff379f2715f601b695cc",
+  "slug": "nfl-no-gb-2024-12-23",
+  "question": "Saints vs. Packers"
+}

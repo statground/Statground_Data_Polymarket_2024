@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:19:02.156684Z",
+  "market_createdAt": "2024-10-25T21:19:02.156684Z",
+  "market_updatedAt": "2024-10-29T00:37:09.858984Z",
+  "market_startDate": "2024-10-25T22:04:15.046558Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:37:40+00",
+  "conditionId": "0x0d7aa838a6d3ffa4c3ae59b2b96cac51d853308de6745afe2d977e140f150ae3",
+  "slug": "will-the-broncos-and-panthers-combine-for-41-or-more-points",
+  "question": "Will the Broncos and Panthers combine for 41 or more points?"
+}

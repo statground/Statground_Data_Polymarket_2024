@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:33:50.288314Z",
+  "market_createdAt": "2024-12-16T16:33:50.288314Z",
+  "market_updatedAt": "2024-12-18T00:59:21.965871Z",
+  "market_startDate": "2024-12-16T23:33:29.721148Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 05:09:00+00",
+  "conditionId": "0x1adaa920424d8633189eec7dd4170d09c77c11988221d6d2731e6c9978b9b94b",
+  "slug": "will-kirk-cousins-throw-an-interception",
+  "question": "Will Kirk Cousins throw an interception?"
+}

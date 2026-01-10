@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:09:09.515038Z",
+  "market_createdAt": "2024-10-15T18:09:09.515038Z",
+  "market_updatedAt": "2024-10-17T22:00:52.397528Z",
+  "market_startDate": "2024-10-15T19:33:00.472231Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-16 22:43:29+00",
+  "conditionId": "0xbe3d528cab671994bd7ad58f3507d3474cd006e19bbcf051d6f71df5fcac69ec",
+  "slug": "will-holger-rune-win-the-six-kings-slam",
+  "question": "Will Holger Rune win the Six Kings Slam?"
+}

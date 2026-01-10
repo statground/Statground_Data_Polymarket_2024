@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:00:17.170294Z",
+  "market_createdAt": "2024-12-01T05:00:17.170294Z",
+  "market_updatedAt": "2024-12-03T01:33:22.117997Z",
+  "market_startDate": "2024-12-01T05:03:41.109595Z",
+  "market_endDate": "2024-12-08T20:30:00Z",
+  "market_closedTime": "2024-12-02 01:30:13+00",
+  "conditionId": "0xc53265a8fa3115889b09f4a2b6ea16e7c5b09ab803f4301b992ba7c1d017ba33",
+  "slug": "nba-orl-bkn-2024-12-01",
+  "question": "Magic vs. Nets"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T17:04:37.965648Z",
+  "market_createdAt": "2024-08-14T17:04:37.965648Z",
+  "market_updatedAt": "2024-11-06T06:11:15.112605Z",
+  "market_startDate": "2024-08-15T13:52:12.926Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:37:53+00",
+  "conditionId": "0xf65b67971ba4332ef0472a13f263e19fd5babd0be19ecc0aad6312d0dd19000b",
+  "slug": "trump-fires-campaign-manager-before-election",
+  "question": "Trump fires campaign manager? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:10:13.099812Z",
+  "market_createdAt": "2024-12-20T17:10:13.099812Z",
+  "market_updatedAt": "2024-12-28T19:57:05.174369Z",
+  "market_startDate": "2024-12-20T17:45:11.504966Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 20:11:08+00",
+  "conditionId": "0xdc7d3eba0d5c91f58cc90626065c95243fc2d9b47ce9dfe1ab4341e230b6dc84",
+  "slug": "will-elon-tweet-325-349-times-dec-20-27",
+  "question": "Will Elon tweet 325-349 times Dec 20-27?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:52:38.592809Z",
+  "market_createdAt": "2024-08-22T18:52:38.592809Z",
+  "market_updatedAt": "2024-08-24T08:21:05.237096Z",
+  "market_startDate": "2024-08-22T20:10:49.13Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:16:10+00",
+  "conditionId": "0x6e025e17b0a57c40f16682a4a681d0170e9ffc2fe17defb05e5f8bcd6b885dec",
+  "slug": "will-trump-post-sleepy-joe-on-final-night-of-dnc-b-pa",
+  "question": "Will Trump post \"Sleepy Joe\" on final night of DNC?"
+}

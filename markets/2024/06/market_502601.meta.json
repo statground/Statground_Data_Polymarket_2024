@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T19:39:24.163254Z",
+  "market_createdAt": "2024-06-18T19:39:24.163254Z",
+  "market_updatedAt": "2024-06-29T05:00:59.931614Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:06:39+00",
+  "conditionId": "0x2dac40fe636db1c2e11408f04cccb666b265c3082329734e54b6b8594daea6c8",
+  "slug": "will-trump-show-up-for-debate",
+  "question": "Will Trump show up for debate?"
+}

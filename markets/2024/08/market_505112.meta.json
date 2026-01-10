@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T17:15:36.699942Z",
+  "market_createdAt": "2024-08-14T17:15:36.699942Z",
+  "market_updatedAt": "2024-08-16T23:03:02.497618Z",
+  "market_startDate": "2024-08-14T17:27:51.037Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:08:03+00",
+  "conditionId": "0xb84704ddd92f9749248a534d8d9a7e7cfabe47ddbe3f66780648e7f8f06241c3",
+  "slug": "will-trump-say-illegal-immigration-at-his-press-conference",
+  "question": "Will Trump say \"Illegal Immigration\" at his press conference?"
+}

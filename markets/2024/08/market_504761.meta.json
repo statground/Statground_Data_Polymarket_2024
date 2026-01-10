@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:50:11.243907Z",
+  "market_createdAt": "2024-08-08T18:50:11.243907Z",
+  "market_updatedAt": "2024-11-06T04:53:09.153692Z",
+  "market_startDate": "2024-08-08T18:50:11.243907Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:37:15+00",
+  "conditionId": "0x848a2388c956a70178e0f87e21cbee5c01b68789398a52fedc4fbf998c8b85d5",
+  "slug": "4-trump-vs-harris-debates-before-election",
+  "question": "4+ Trump vs. Harris debates before election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508536",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:08:00.407143Z",
+  "market_createdAt": "2024-10-01T17:08:00.407143Z",
+  "market_updatedAt": "2024-10-04T22:02:39.243881Z",
+  "market_startDate": "2024-10-02T14:42:55.998356Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:15:22+00",
+  "conditionId": "0x4916ad589d1f0b00f1b5a5523938917e8f06a3b674c6c4d4164da11467c359bd",
+  "slug": "will-tottenham-beat-ferencvaros",
+  "question": "Will Tottenham beat Ferencvaros?"
+}

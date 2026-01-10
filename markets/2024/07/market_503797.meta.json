@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:13:27.946172Z",
+  "market_createdAt": "2024-07-18T20:13:27.946172Z",
+  "market_updatedAt": "2024-08-06T19:46:50.182223Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-05 23:39:51+00",
+  "conditionId": "0x64c72244096963ce0839d418f754f612fb0a76f2924727d2a2b028cfe8420ccf",
+  "slug": "will-armand-duplantis-swe-win-gold-in-pole-vault",
+  "question": "Will Armand Duplantis (SWE) win Gold in Pole Vault?"
+}

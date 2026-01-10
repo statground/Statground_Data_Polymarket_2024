@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T19:01:29.954403Z",
+  "market_createdAt": "2024-09-10T19:01:29.954403Z",
+  "market_updatedAt": "2024-09-12T03:41:04.974455Z",
+  "market_startDate": "2024-09-10T19:05:19.033102Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:12:58+00",
+  "conditionId": "0xf4ae502b1cf619239a58c2da30e87d0cd5c9311d90fbfe2bc10ac1a44fc277aa",
+  "slug": "will-kamala-say-ceasefire-at-debate",
+  "question": "Will Kamala say \"ceasefire\" at debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:05:15.793243Z",
+  "market_createdAt": "2024-12-10T21:05:15.793243Z",
+  "market_updatedAt": "2025-01-02T03:41:02.628455Z",
+  "market_startDate": "2024-12-11T20:37:06.537Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:52:24+00",
+  "conditionId": "0x2737588923400531b1f690c71c018472998c2502be42b065b33422845074293e",
+  "slug": "us-recognizes-syrian-government-in-2024",
+  "question": "US recognizes Syrian government in 2024?"
+}

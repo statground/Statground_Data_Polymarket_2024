@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:01:51.150638Z",
+  "market_createdAt": "2024-11-17T05:01:51.150638Z",
+  "market_updatedAt": "2024-11-20T04:11:07.517938Z",
+  "market_startDate": "2024-11-17T05:04:25.985041Z",
+  "market_endDate": "2024-11-26T00:30:00Z",
+  "market_closedTime": "2024-11-19 04:57:06+00",
+  "conditionId": "0x75b66493e2de484ca8de13e5d3750cd7c135d1501621dc4837588c0b32245866",
+  "slug": "nba-phi-mia-2024-11-18",
+  "question": "76ers vs. Heat"
+}

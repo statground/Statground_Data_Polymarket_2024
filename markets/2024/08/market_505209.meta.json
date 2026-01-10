@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T16:19:27.303202Z",
+  "market_createdAt": "2024-08-16T16:19:27.303202Z",
+  "market_updatedAt": "2024-08-24T19:11:08.07133Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:32:45+00",
+  "conditionId": "0x83ee65b6039611d3818bb5a5835b6eb9da2c5b6072c58f6695e78dc8bc77e81f",
+  "slug": "will-kamala-lead-by-by-0pt5-0pt9-august-23",
+  "question": "Will Kamala lead by by 0.5-0.9 August 23?"
+}

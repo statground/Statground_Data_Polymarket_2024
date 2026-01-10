@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T17:42:28.764037Z",
+  "market_createdAt": "2024-06-13T17:42:28.764037Z",
+  "market_updatedAt": "2024-06-17T01:21:12.086584Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:49:43+00",
+  "conditionId": "0xc992f2170b44cd08142322a07540189d841e17dee20b4ae8eecb5f49edc92031",
+  "slug": "australia-vs-scotland-cricket-t20-world-cup",
+  "question": "Australia vs. Scotland - Cricket T20 World Cup"
+}

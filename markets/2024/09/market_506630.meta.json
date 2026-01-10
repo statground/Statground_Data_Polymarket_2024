@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T16:08:36.086445Z",
+  "market_createdAt": "2024-09-08T16:08:36.086445Z",
+  "market_updatedAt": "2024-09-08T22:43:28.367755Z",
+  "market_startDate": "2024-09-08T16:32:38.841528Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:40:24+00",
+  "conditionId": "0x9c5152a5b6d575e94983b2c74eaebc1e324f66ba0ec0de6035d5dd76342cdf4b",
+  "slug": "will-there-be-49-or-more-combined-points-scored-hou-ind",
+  "question": "Will there be 49 or more combined points scored?"
+}

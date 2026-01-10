@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T17:58:41.989083Z",
+  "market_createdAt": "2024-05-13T17:58:41.989083Z",
+  "market_updatedAt": "2024-05-18T17:29:27.844Z",
+  "market_startDate": "2024-05-13T18:28:37.541Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-17 23:12:26+00",
+  "conditionId": "0xe384b2246221fa3e4e74e176cafa7d17434f28e603e893f0bda652a9dbbf3d7f",
+  "slug": "gme-market-cap-14-16b-on-may-17",
+  "question": "GME market cap $14-16b on May 17?"
+}

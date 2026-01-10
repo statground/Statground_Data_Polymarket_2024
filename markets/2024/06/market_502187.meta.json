@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T21:33:22.567653Z",
+  "market_createdAt": "2024-06-06T21:33:22.567653Z",
+  "market_updatedAt": "2024-06-08T17:26:15.238799Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 19:21:42+00",
+  "conditionId": "0xc23ef1a712aa665699e5ffa9ae802f2365364a67482b50359858ad7ef1101be4",
+  "slug": "will-roaring-kitty-exercise-gme-options-on-livestream",
+  "question": "Will Roaring Kitty exercise GME options on livestream?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:52:08.140605Z",
+  "market_createdAt": "2024-07-12T19:52:08.140605Z",
+  "market_updatedAt": "2024-07-15T19:48:46.535796Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 22:57:02+00",
+  "conditionId": "0x6c31b4b0838813641fd4dd5abba38d88f7f1199d3095cce6c3b11bb8746f3792",
+  "slug": "will-bukayo-saka-score",
+  "question": "Will Bukayo Saka score?"
+}

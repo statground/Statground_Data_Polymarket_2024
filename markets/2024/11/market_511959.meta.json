@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:01:53.900084Z",
+  "market_createdAt": "2024-11-04T23:01:53.900084Z",
+  "market_updatedAt": "2024-11-06T19:21:19.649933Z",
+  "market_startDate": "2024-11-05T00:25:18.185941Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-05 22:53:04+00",
+  "conditionId": "0xf14d0cd298f369cfd6097028876f552ac89b5c53642254536d7295f27127d6cd",
+  "slug": "will-the-match-between-psv-and-girona-end-in-a-draw",
+  "question": "Will the match between PSV and Girona end in a draw?"
+}

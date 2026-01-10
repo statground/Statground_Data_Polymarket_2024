@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:42:42.453130Z",
+  "market_createdAt": "2024-09-16T20:42:42.45313Z",
+  "market_updatedAt": "2024-09-19T23:26:43.213531Z",
+  "market_startDate": "2024-09-16T21:50:37.139308Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-19 00:10:42+00",
+  "conditionId": "0x29acbd30e1a2478c02e75f23796e55f8ce182f358a57ca7f4ca3d3310ea0aeb5",
+  "slug": "will-celtic-beat-slovan-bratislava",
+  "question": "Will Celtic beat Slovan Bratislava?"
+}

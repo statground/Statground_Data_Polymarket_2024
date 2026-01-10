@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:12:56.424000Z",
+  "market_createdAt": "2024-03-01T20:12:56.424Z",
+  "market_updatedAt": "2024-11-07T21:33:10.502555Z",
+  "market_startDate": "2024-03-08T00:06:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:59:06+00",
+  "conditionId": "0x34b5567e4f9a1b9561fba0f39c60b4da1f33052c8918dedc954401494d947cee",
+  "slug": "will-a-democrat-win-wisconsin-presidential-election",
+  "question": "Will a Democrat win Wisconsin Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T21:05:10.387060Z",
+  "market_createdAt": "2024-06-05T21:05:10.38706Z",
+  "market_updatedAt": "2024-06-13T02:41:13.527177Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-11T12:00:00Z",
+  "market_closedTime": "2024-06-12 06:33:51+00",
+  "conditionId": "0x18884f3e2198438315e730ac62841aab56c77349a5ab45ac5148fed0dcc50077",
+  "slug": "will-tony-grady-win-the-2024-nevada-senate-republican-primary",
+  "question": "Will Tony Grady win the 2024 Nevada Senate Republican Primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:27:16.327357Z",
+  "market_createdAt": "2024-11-07T21:27:16.327357Z",
+  "market_updatedAt": "2024-11-10T05:46:58.091796Z",
+  "market_startDate": "2024-11-07T22:59:50.441492Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-09 09:16:51+00",
+  "conditionId": "0x6a10c2c0c4b1f3e5c3ef3c8593e940a4f5769387f350e0b470895e2b20a2bd6e",
+  "slug": "will-san-diego-state-and-new-mexico-combine-for-67-or-more-points",
+  "question": "Will San Diego State and New Mexico combine for 67 or more points?"
+}

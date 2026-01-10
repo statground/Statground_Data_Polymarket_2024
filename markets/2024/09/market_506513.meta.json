@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:44:31.569672Z",
+  "market_createdAt": "2024-09-06T15:44:31.569672Z",
+  "market_updatedAt": "2024-09-08T23:16:56.861965Z",
+  "market_startDate": "2024-09-06T18:18:45.775903Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:16:46+00",
+  "conditionId": "0x64bc26283b89e6131aa6492e412566b158722a6c5dad24e83fac43bf023568c6",
+  "slug": "will-iowa-beat-iowa-state",
+  "question": "Will Iowa beat Iowa State?"
+}

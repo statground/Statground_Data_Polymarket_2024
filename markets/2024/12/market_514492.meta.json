@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514492",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:33:20.530953Z",
+  "market_createdAt": "2024-12-02T20:33:20.530953Z",
+  "market_updatedAt": "2024-12-12T16:41:18.043494Z",
+  "market_startDate": "2024-12-09T17:07:02.544405Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 17:27:55+00",
+  "conditionId": "0x1ca9d58d35f1f635c2ef7570841b1065e79e4e99ee4d146988bf46faea41871b",
+  "slug": "will-game-13-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 13 of the World Chess Championship end in a draw?"
+}

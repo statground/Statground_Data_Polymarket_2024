@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T16:04:20.533414Z",
+  "market_createdAt": "2024-05-07T16:04:20.533414Z",
+  "market_updatedAt": "2024-05-24T23:14:15.441142Z",
+  "market_startDate": "2024-05-07T16:23:37.429Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-05-23 23:39:51+00",
+  "conditionId": "0x0ad01a122038561605ed02523ff26c98d26f301164298be3a1835724f8d49326",
+  "slug": "ethereum-etf-approved-in-2024",
+  "question": "Ethereum ETF approved in 2024?"
+}

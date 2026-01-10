@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:19:22.211838Z",
+  "market_createdAt": "2024-05-31T14:19:22.211838Z",
+  "market_updatedAt": "2024-06-19T03:56:13.731919Z",
+  "market_startDate": "2024-05-31T21:21:20.097Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 05:29:32+00",
+  "conditionId": "0x166ef8a14442f6c1dd88c5fda30f3b2a4294f7fead2220351cdb67d909af43a2",
+  "slug": "nba-finals-winner-boston-celtics-vs-dallas-mavericks-2024",
+  "question": "NBA Finals Winner: Celtics vs. Mavericks"
+}

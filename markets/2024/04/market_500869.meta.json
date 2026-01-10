@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:03:28.875076Z",
+  "market_createdAt": "2024-04-10T19:03:28.875076Z",
+  "market_updatedAt": "2024-07-02T00:30:55.055546Z",
+  "market_startDate": "2024-04-10T20:14:47.743Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 07:59:29+00",
+  "conditionId": "0xf48be63101ee0cd489056ad0a060db62cfac7b7c7195de68da583e5bc31b2b8d",
+  "slug": "zora-airdrop-by-june-30",
+  "question": "Zora airdrop by June 30?"
+}

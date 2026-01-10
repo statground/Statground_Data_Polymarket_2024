@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T00:58:30.578542Z",
+  "market_createdAt": "2024-10-30T00:58:30.578542Z",
+  "market_updatedAt": "2024-11-15T02:40:57.840979Z",
+  "market_startDate": "2024-10-30T01:40:59.916608Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 03:57:29+00",
+  "conditionId": "0xc1966096198677da77fcc1d2deecd429ea1e04fd834c9181a0f4fad8525f2c08",
+  "slug": "ca-47-election-min-d-vs-baugh-r",
+  "question": "CA-47 election: Min (D) vs. Baugh (R)"
+}

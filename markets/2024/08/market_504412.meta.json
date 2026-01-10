@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T15:23:27.942913Z",
+  "market_createdAt": "2024-08-01T15:23:27.942913Z",
+  "market_updatedAt": "2024-08-01T23:33:21.582474Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-01 23:30:18+00",
+  "conditionId": "0x6ba0bddfcf085eab87dfb323c4225b0d9708169c5da64d047371c490873d47bf",
+  "slug": "will-usa-win-gold-in-the-womens-4x200m-freestyle-relay-at-the-2024-summer-olympics",
+  "question": "Will USA win Gold in the Women’s 4x200m Freestyle Relay at the 2024 Summer Olympics?"
+}

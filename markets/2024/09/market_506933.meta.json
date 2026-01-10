@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:13:19.906736Z",
+  "market_createdAt": "2024-09-12T21:13:19.906736Z",
+  "market_updatedAt": "2025-01-01T23:15:22.800697Z",
+  "market_startDate": "2024-09-12T21:24:15.599126Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:21:46+00",
+  "conditionId": "0xbf91a5368a23104f8434558aeceacf9bcfaa8606a308a0685e919c98c874fcb5",
+  "slug": "will-pumpfun-launch-a-token-in-2024",
+  "question": "Will Pump.fun launch a token in 2024?"
+}

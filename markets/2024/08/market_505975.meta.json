@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T17:35:48.154704Z",
+  "market_createdAt": "2024-08-28T17:35:48.154704Z",
+  "market_updatedAt": "2024-09-07T14:07:15.907333Z",
+  "market_startDate": "2024-08-28T17:35:48.154704Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 19:08:11+00",
+  "conditionId": "0xf7337e8e597d016a97575a4e88b4306a38ae30b1edcda80d92e5811f7936b470",
+  "slug": "will-trump-lead-in-rcp-on-sept-6",
+  "question": "Will Trump lead in RCP on Sept 6?"
+}

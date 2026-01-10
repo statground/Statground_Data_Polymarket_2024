@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:07:29.225974Z",
+  "market_createdAt": "2024-08-29T16:07:29.225974Z",
+  "market_updatedAt": "2024-09-02T19:31:02.626249Z",
+  "market_startDate": "2024-08-29T16:07:29.225974Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-02 00:08:59+00",
+  "conditionId": "0x211405bf94b4d21acf47732be3a264a45244cf497b447a73b8f18d47d3ab5150",
+  "slug": "will-scottie-scheffler-win-the-tour-championship",
+  "question": "Will Scottie Scheffler win the Tour Championship?"
+}

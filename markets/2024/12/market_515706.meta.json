@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:04:34.128683Z",
+  "market_createdAt": "2024-12-15T07:04:34.128683Z",
+  "market_updatedAt": "2024-12-21T03:16:55.950723Z",
+  "market_startDate": "2024-12-15T07:07:10.525392Z",
+  "market_endDate": "2024-12-27T00:00:00Z",
+  "market_closedTime": "2024-12-20 05:00:29+00",
+  "conditionId": "0xb6b0965674ec1a3138722f3cf51139d615adeb5bb626570566c5c4e136209f07",
+  "slug": "nhl-nj-cbj-2024-12-19",
+  "question": "Devils vs. Blue Jackets"
+}

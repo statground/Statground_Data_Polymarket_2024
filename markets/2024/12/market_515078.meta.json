@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:04:47.635429Z",
+  "market_createdAt": "2024-12-08T07:04:47.635429Z",
+  "market_updatedAt": "2024-12-15T22:03:35.988862Z",
+  "market_startDate": "2024-12-08T07:08:12.59111Z",
+  "market_endDate": "2024-12-21T19:00:00Z",
+  "market_closedTime": "2024-12-14 23:38:33+00",
+  "conditionId": "0x7f607969477960098bcc650123e03807e26b3f0492e44e146410afe909b83791",
+  "slug": "nhl-phi-min-2024-12-14",
+  "question": "Flyers vs. Wild"
+}

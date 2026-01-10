@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T16:27:36.966137Z",
+  "market_createdAt": "2024-07-11T16:27:36.966137Z",
+  "market_updatedAt": "2024-07-13T03:50:49.989572Z",
+  "market_startDate": "2024-07-11T18:16:54.183Z",
+  "market_endDate": "2024-07-11T12:00:00Z",
+  "market_closedTime": "2024-07-12 03:53:43+00",
+  "conditionId": "0x9a2b3ba3d3ca8c92c405e7b53e5e7d2204b82cfeb465348d7ca6b5259dfa2448",
+  "slug": "will-biden-say-jill-during-july-11-press-conference",
+  "question": "Will Biden say \"Jill\" during July 11 press conference?"
+}

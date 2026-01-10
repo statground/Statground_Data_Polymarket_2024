@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:19:19.871578Z",
+  "market_createdAt": "2024-11-18T23:19:19.871578Z",
+  "market_updatedAt": "2024-11-24T13:07:25.153576Z",
+  "market_startDate": "2024-11-19T20:52:20.43452Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 14:37:42+00",
+  "conditionId": "0xe789c7596714af524fcedd8fd53d542ec56d98874f4fd41c0fae00e587506205",
+  "slug": "cong-vs-fernandes",
+  "question": "Cong vs. Fernandes"
+}

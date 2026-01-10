@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T18:09:41.726838Z",
+  "market_createdAt": "2024-05-23T18:09:41.726838Z",
+  "market_updatedAt": "2024-06-02T02:26:07.472939Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:20:37+00",
+  "conditionId": "0x2c4c0d9900d6a5b659a4bc0b90a89f4d9c3796963859bfb2847d12b7bd812a44",
+  "slug": "will-china-invade-taiwan-in-may",
+  "question": "Will China invade Taiwan in May?"
+}

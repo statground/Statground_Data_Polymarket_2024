@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:22:33.107400Z",
+  "market_createdAt": "2024-05-22T16:22:33.1074Z",
+  "market_updatedAt": "2024-07-06T09:35:47.249711Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:07:32+00",
+  "conditionId": "0x4cb0e4f9b6d2d2a11abde7cf3746cf413e263c22f9e07b65a9f9d09850f04581",
+  "slug": "will-grant-shapps-be-next-uk-prime-minister",
+  "question": "Will Grant Shapps be next UK prime minister?"
+}

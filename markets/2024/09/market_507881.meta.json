@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:28:09.987304Z",
+  "market_createdAt": "2024-09-24T15:28:09.987304Z",
+  "market_updatedAt": "2024-09-26T20:36:53.317085Z",
+  "market_startDate": "2024-09-24T16:17:46.817425Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 20:31:36+00",
+  "conditionId": "0x86fb5e95098eb2180882ea4ed230d6d20c04336138009d1c30f4873de314ab40",
+  "slug": "will-donald-trump-say-maga-4-or-more-times-during-his-north-carolina-speech",
+  "question": "Will Donald Trump say \"MAGA\" 4 or more times during his North Carolina speech?"
+}

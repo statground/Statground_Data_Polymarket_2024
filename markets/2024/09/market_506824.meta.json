@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:00:41.221432Z",
+  "market_createdAt": "2024-09-11T16:00:41.221432Z",
+  "market_updatedAt": "2024-09-13T22:47:07.35316Z",
+  "market_startDate": "2024-09-11T17:30:47.64824Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-12 23:56:20+00",
+  "conditionId": "0xad3cf7097f56e4ca3281d6929a3536a4bf7417eaa5066eaeb286c2ef9d2009c6",
+  "slug": "will-trump-say-border-15-or-more-times-during-his-arizona-rally",
+  "question": "Will Trump say \"border\" 15 or more times during his Arizona rally?"
+}

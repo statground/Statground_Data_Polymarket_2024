@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T22:56:07.496000Z",
+  "market_createdAt": "2024-02-27T22:56:07.496Z",
+  "market_updatedAt": "2024-03-05T17:38:22.445Z",
+  "market_startDate": "2024-02-28T15:39:42.949Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-03-04 10:47:33+00",
+  "conditionId": "0xf4d6bb94b2a5a1e395878203d7f348496bc7913efeecdf5d9c5e4274168f0ecd",
+  "slug": "will-btc-hit-65000-in-march",
+  "question": "Will BTC hit $65,000 in March?"
+}

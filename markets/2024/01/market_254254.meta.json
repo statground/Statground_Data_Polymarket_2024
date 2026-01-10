@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T22:13:18.395000Z",
+  "market_createdAt": "2024-01-31T22:13:18.395Z",
+  "market_updatedAt": "2025-01-04T14:56:48.16152Z",
+  "market_startDate": "2024-01-31T23:47:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2025-01-03 15:28:55+00",
+  "conditionId": "0xaa69f9c948b8a162eb305285bf31a581868c23a289573889b27361726c213b64",
+  "slug": "will-another-movie-gross-most-in-2024",
+  "question": "Will another movie gross most in 2024?"
+}

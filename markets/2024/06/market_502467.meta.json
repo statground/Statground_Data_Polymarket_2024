@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T17:51:33.008792Z",
+  "market_createdAt": "2024-06-14T17:51:33.008792Z",
+  "market_updatedAt": "2024-06-22T17:26:11.974709Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 19:19:21+00",
+  "conditionId": "0x907ad801875ee753d6091446874590e6ceec738b9c38fbf1c5ed0f3e59bc0b12",
+  "slug": "will-elon-post-70-79-times-june-21",
+  "question": "Will Elon post 70-79 times?"
+}

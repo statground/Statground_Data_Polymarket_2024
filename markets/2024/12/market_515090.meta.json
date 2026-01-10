@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:07:39.901855Z",
+  "market_createdAt": "2024-12-08T07:07:39.901855Z",
+  "market_updatedAt": "2024-12-16T07:29:31.285544Z",
+  "market_startDate": "2024-12-08T07:11:17.484683Z",
+  "market_endDate": "2024-12-22T03:00:00Z",
+  "market_closedTime": "2024-12-15 07:44:01+00",
+  "conditionId": "0x8e421964cd5adeab89f9a6ba4c30bbbdc829af80e61101b0b4cbb57b9bfcb333",
+  "slug": "nhl-tb-sea-2024-12-14",
+  "question": "Lightning vs. Kraken"
+}

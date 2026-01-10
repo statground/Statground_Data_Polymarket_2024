@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-06T22:03:46.002000Z",
+  "market_createdAt": "2024-02-06T22:03:46.002Z",
+  "market_updatedAt": "2025-01-01T08:30:19.692266Z",
+  "market_startDate": "2024-02-06T22:06:22.11Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:27:28+00",
+  "conditionId": "0x5cddfde06547a52d31e757ccfbcba105ec1be87642e73e474f4c27fa168965a1",
+  "slug": "will-adam-neumann-buy-back-wework-in-2024",
+  "question": "Will Adam Neumann buy back WeWork in 2024?"
+}

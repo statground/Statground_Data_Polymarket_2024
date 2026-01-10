@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T15:33:29.082036Z",
+  "market_createdAt": "2024-04-05T15:33:29.082036Z",
+  "market_updatedAt": "2024-06-26T22:36:07.612947Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 07:26:43+00",
+  "conditionId": "0xe03ffe4c860b81ca26b297cb4067bf7676f242c1338c6da171d6b85a37add94e",
+  "slug": "will-another-candidate-win-the-ny-16-democratic-house-primary",
+  "question": "Will another candidate win the NY-16 Democratic House Primary?"
+}

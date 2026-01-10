@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T16:07:19.449574Z",
+  "market_createdAt": "2024-11-14T16:07:19.449574Z",
+  "market_updatedAt": "2024-11-16T03:54:58.062148Z",
+  "market_startDate": "2024-11-14T20:36:16.366188Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 06:24:11+00",
+  "conditionId": "0x6214f8910de87a666b2ca93d98e5f245838bbadad86bbd8f83bd6a9a1253e163",
+  "slug": "will-the-eagles-beat-the-commanders-by-5-or-more-points",
+  "question": "Will the Eagles beat the Commanders by 5 or more points?"
+}

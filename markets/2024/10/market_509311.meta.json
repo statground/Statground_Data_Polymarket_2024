@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T20:42:06.508322Z",
+  "market_createdAt": "2024-10-08T20:42:06.508322Z",
+  "market_updatedAt": "2024-11-30T04:01:24.404472Z",
+  "market_startDate": "2024-10-08T21:42:40.726Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 03:56:16+00",
+  "conditionId": "0x2e317c0dceb7b4ab2abe7c43f302b0253321f92a941709f871975799fd5a168b",
+  "slug": "will-florida-be-the-closest-state",
+  "question": "Will Florida be the closest state?"
+}

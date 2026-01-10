@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-02T19:43:19.553000Z",
+  "market_createdAt": "2024-02-02T19:43:19.553Z",
+  "market_updatedAt": "2024-02-23T11:37:24.788Z",
+  "market_startDate": "2024-02-02T20:30:00Z",
+  "market_endDate": "2024-02-07T00:00:00Z",
+  "market_closedTime": "2024-02-23 11:32:39+00",
+  "conditionId": "0x0d80e2169ef3281b1ce5ea4c6d294023a31174f96677494ccde9a4acef1f6b54",
+  "slug": "will-farcasters-growth-not-peak-by-thursday",
+  "question": "Will Farcaster's growth not peak by Thursday?"
+}

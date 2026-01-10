@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:56:58.492289Z",
+  "market_createdAt": "2024-10-14T18:56:58.492289Z",
+  "market_updatedAt": "2024-10-16T21:16:50.187625Z",
+  "market_startDate": "2024-10-15T00:05:56.953826Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-15 23:51:05+00",
+  "conditionId": "0x20bc3bad235af7d33aa0007846bfb643b802e6d2f66245e82a38280c7bc29d8e",
+  "slug": "will-portugal-beat-scotland",
+  "question": "Will Portugal beat Scotland?"
+}

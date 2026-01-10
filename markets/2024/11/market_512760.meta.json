@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:28:12.343151Z",
+  "market_createdAt": "2024-11-11T21:28:12.343151Z",
+  "market_updatedAt": "2024-11-24T17:03:24.655816Z",
+  "market_startDate": "2024-11-11T21:31:01.073839Z",
+  "market_endDate": "2024-11-23T12:30:00Z",
+  "market_closedTime": "2024-11-23 17:42:38+00",
+  "conditionId": "0xaff32b8266cc00af33d3df7515fd56d485a95c40aafb9ef76279ba7302082404",
+  "slug": "epl-lei-che-2024-11-23-draw",
+  "question": "Will Leicester vs. Chelsea end in a draw?"
+}

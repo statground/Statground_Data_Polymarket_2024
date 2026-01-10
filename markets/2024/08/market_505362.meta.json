@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:14:17.917960Z",
+  "market_createdAt": "2024-08-19T19:14:17.91796Z",
+  "market_updatedAt": "2024-08-22T03:52:58.204125Z",
+  "market_startDate": "2024-08-20T15:21:25.091Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:20:04+00",
+  "conditionId": "0xdb948653f6291c99eea9ee7099e43facd17121f9dc6ee6a1576d091044a33d15",
+  "slug": "will-obama-say-michelle-at-dnc-speech",
+  "question": "Will Obama say \"Michelle\" at DNC speech?"
+}

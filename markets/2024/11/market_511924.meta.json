@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:41:28.095257Z",
+  "market_createdAt": "2024-11-04T18:41:28.095257Z",
+  "market_updatedAt": "2024-11-10T07:42:49.931859Z",
+  "market_startDate": "2024-11-04T18:44:42.962402Z",
+  "market_endDate": "2024-11-09T03:00:00Z",
+  "market_closedTime": "2024-11-09 07:52:54+00",
+  "conditionId": "0x381eb9dfb7443bdcec92aaa493466e649f1e0aa3f9c993fd426a9f9a614eeb02",
+  "slug": "nba-lac-sac-2024-11-08",
+  "question": "Clippers vs. Kings"
+}

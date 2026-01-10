@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:23:05.494880Z",
+  "market_createdAt": "2024-10-23T21:23:05.49488Z",
+  "market_updatedAt": "2024-10-27T23:56:55.386902Z",
+  "market_startDate": "2024-10-23T22:36:34.562688Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 00:30:52+00",
+  "conditionId": "0xbb503b90b9c9095d40992709b3526a006b81d078b108a0ac960862afc65a81fa",
+  "slug": "will-trump-say-tax-25-or-more-times-during-pennsylvania-rally-on-october-26",
+  "question": "Will Trump say \"tax\" 25 or more times during Pennsylvania rally on October 26?"
+}

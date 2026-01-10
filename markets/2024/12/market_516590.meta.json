@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:02:13.549321Z",
+  "market_createdAt": "2024-12-29T05:02:13.549321Z",
+  "market_updatedAt": "2025-01-01T04:15:37.588105Z",
+  "market_startDate": "2024-12-29T05:04:39.989696Z",
+  "market_endDate": "2025-01-07T00:00:00Z",
+  "market_closedTime": "2024-12-31 04:49:32+00",
+  "conditionId": "0x5529e6ae9f381cc4a5ab24ac2782a3f416846f41a7dfa3b63d39eb4cba24c7ab",
+  "slug": "nba-chi-cha-2024-12-30",
+  "question": "Bulls vs. Hornets"
+}

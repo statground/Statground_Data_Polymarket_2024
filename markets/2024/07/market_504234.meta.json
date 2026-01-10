@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:34:42.605539Z",
+  "market_createdAt": "2024-07-26T19:34:42.605539Z",
+  "market_updatedAt": "2024-07-28T22:11:04.692513Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:50:11+00",
+  "conditionId": "0x60976da8a4f9cc0a45d3cb2906bab3dbdb78d6458a7886fa3f9d48ad214f9a0f",
+  "slug": "will-trump-say-memecoin-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Memecoin\" during his Bitcoin Conference speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:38:08.630709Z",
+  "market_createdAt": "2024-12-04T21:38:08.630709Z",
+  "market_updatedAt": "2024-12-07T01:31:16.709633Z",
+  "market_startDate": "2024-12-04T22:11:33.905Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 01:50:57+00",
+  "conditionId": "0x50ef7968ff36d5f3a756bb45060f607ce5cb7e53878c4daa086bdae913118322",
+  "slug": "will-tucker-say-kamala-during-lavrov-interview",
+  "question": "Will Tucker say \"Kamala\" during Lavrov interview?"
+}

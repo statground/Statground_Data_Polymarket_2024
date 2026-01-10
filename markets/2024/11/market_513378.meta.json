@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:34:18.646039Z",
+  "market_createdAt": "2024-11-18T19:34:18.646039Z",
+  "market_updatedAt": "2024-12-04T20:31:01.684241Z",
+  "market_startDate": "2024-11-18T20:53:45.051Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-03 23:02:42+00",
+  "conditionId": "0x77ddd020f44b16fccd46e18a8d69ec90f59f826bd72e31a11ae520646ff57ef4",
+  "slug": "will-fwog-be-listed-first-on-coinbase",
+  "question": "Will $FWOG be listed first on Coinbase?"
+}

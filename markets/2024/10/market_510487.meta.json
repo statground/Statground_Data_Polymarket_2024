@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:42:09.987017Z",
+  "market_createdAt": "2024-10-22T00:42:09.987017Z",
+  "market_updatedAt": "2024-10-28T19:06:58.545543Z",
+  "market_startDate": "2024-10-22T00:44:50.275Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:15:00+00",
+  "conditionId": "0xd939cfff18773c362e2fe4fcb3c48b54f448a0f79c23c9495899e8d96894553d",
+  "slug": "epl-cry-tot-2024-10-27-draw",
+  "question": "Will Crystal Palace vs. Spurs end in a draw?"
+}

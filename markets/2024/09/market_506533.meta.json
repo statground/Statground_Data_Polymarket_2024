@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:26:14.531148Z",
+  "market_createdAt": "2024-09-06T16:26:14.531148Z",
+  "market_updatedAt": "2024-09-09T04:53:00.574382Z",
+  "market_startDate": "2024-09-06T18:45:52.195944Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 08:41:11+00",
+  "conditionId": "0xa99c9665030a20d3c94a5ac7f685084f5db90375b2cff1d14c736aae9199ec87",
+  "slug": "will-usc-win-by-28-or-more-points",
+  "question": "Will USC win by 28 or more points?"
+}

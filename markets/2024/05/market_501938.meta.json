@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T03:36:16.592158Z",
+  "market_createdAt": "2024-05-31T03:36:16.592158Z",
+  "market_updatedAt": "2024-11-06T13:57:07.762244Z",
+  "market_startDate": "2024-06-12T20:27:18.632Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-05 14:23:01+00",
+  "conditionId": "0x874903f053ee9e1bc4a270a6d40886deaf61e6bfb373ecfbbd03d8e1053f7ceb",
+  "slug": "will-trump-drop-out-of-presidential-race",
+  "question": "Will Trump drop out of presidential race?"
+}

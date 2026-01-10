@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T18:03:21.563639Z",
+  "market_createdAt": "2024-03-22T18:03:21.563639Z",
+  "market_updatedAt": "2024-05-07T23:09:38.489407Z",
+  "market_startDate": "2024-03-22T18:24:31.325Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:30:55+00",
+  "conditionId": "0x7697e3be3ded3fe271612353d22b861111433be2ecdf7bc465a4b5cab5a560f8",
+  "slug": "do-kwon-extradited-before-may",
+  "question": "Do Kwon extradited before May?"
+}

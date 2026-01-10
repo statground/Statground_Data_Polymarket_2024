@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:26:50.002692Z",
+  "market_createdAt": "2024-11-15T19:26:50.002692Z",
+  "market_updatedAt": "2024-11-18T04:25:10.567333Z",
+  "market_startDate": "2024-11-15T22:12:55.807794Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 06:26:45+00",
+  "conditionId": "0x54b71195ffdbcd9299b3c22a4dbf61ac475d970dc5546bd463dc5f6cd88d1315",
+  "slug": "will-georgia-beat-tennessee-by-10-or-more-points",
+  "question": "Will Georgia beat Tennessee by 10 or more points?"
+}

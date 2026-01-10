@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:36:51.831309Z",
+  "market_createdAt": "2024-09-18T02:36:51.831309Z",
+  "market_updatedAt": "2025-05-17T08:20:30.916817Z",
+  "market_startDate": "2024-09-18T16:34:53.5892Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-16 02:48:37+00",
+  "conditionId": "0x99a76eb4959604e2a1b7c6dedf1f75fb19491df21deb746388a2b65c0c1713c7",
+  "slug": "will-barcelona-win-la-liga",
+  "question": "Will Barcelona win La Liga?"
+}

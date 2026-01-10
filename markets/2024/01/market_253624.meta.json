@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T02:35:26.220000Z",
+  "market_createdAt": "2024-01-06T02:35:26.22Z",
+  "market_updatedAt": "2024-04-26T02:58:28.926356Z",
+  "market_startDate": "2024-01-06T09:14:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-01-14 03:52:27+00",
+  "conditionId": "0x1d967f30487c3e341d62099d5b0f2abd634d9ac878b21fa45b32052f7257c2d5",
+  "slug": "will-the-cleveland-browns-win-super-bowl-lviii",
+  "question": "Will the Cleveland Browns win Super Bowl LVIII?"
+}

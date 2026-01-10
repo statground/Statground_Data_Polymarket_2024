@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:51:18.786260Z",
+  "market_createdAt": "2024-08-12T17:51:18.78626Z",
+  "market_updatedAt": "2024-08-18T11:40:58.248402Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-17 23:54:59+00",
+  "conditionId": "0xabc4d0897f7ccae679d7f10422ba4d4d053a111b01da45ab9f944efe6be67dcc",
+  "slug": "will-andrey-rublev-win-the-2024-atp-cincinnati-mens-singles-tournament",
+  "question": "Will Andrey Rublev win the 2024 ATP Cincinnati Men’s Singles tournament?"
+}

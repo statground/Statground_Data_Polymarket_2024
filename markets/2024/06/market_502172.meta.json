@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T17:36:26.815415Z",
+  "market_createdAt": "2024-06-06T17:36:26.815415Z",
+  "market_updatedAt": "2024-07-02T10:00:49.838535Z",
+  "market_startDate": "2024-06-06T17:50:09.241Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:29:35+00",
+  "conditionId": "0xdba538c662f749f2d8f1a5f06fa5c8bcc7850bfda20c2d75c5cac2ae236abce9",
+  "slug": "roaring-kitty-billionaire-before-july",
+  "question": "Roaring Kitty billionaire before July?"
+}

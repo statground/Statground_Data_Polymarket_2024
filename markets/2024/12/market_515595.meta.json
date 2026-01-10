@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:31:44.115641Z",
+  "market_createdAt": "2024-12-13T19:31:44.115641Z",
+  "market_updatedAt": "2024-12-21T06:36:52.863266Z",
+  "market_startDate": "2024-12-13T19:34:20.147662Z",
+  "market_endDate": "2024-12-27T03:00:00Z",
+  "market_closedTime": "2024-12-20 07:37:48+00",
+  "conditionId": "0xa10f97aa5a27c325a5299a225a729fd0eed82294b5f02924eeccba6bf049126b",
+  "slug": "nba-den-por-2024-12-19",
+  "question": "Nuggets vs. Trail Blazers"
+}

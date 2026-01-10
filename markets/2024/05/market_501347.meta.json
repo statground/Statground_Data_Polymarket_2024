@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:49:38.409190Z",
+  "market_createdAt": "2024-05-02T16:49:38.40919Z",
+  "market_updatedAt": "2024-05-07T23:10:08.447037Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:20:06+00",
+  "conditionId": "0xf21c8dfe392c6a09000edfe7c5a66cf81c64d2cef7b76b4798aabf56153db1fd",
+  "slug": "will-just-a-touch-win-the-2024-kentucky-derby",
+  "question": "Will Just a Touch win the 2024 Kentucky Derby?"
+}

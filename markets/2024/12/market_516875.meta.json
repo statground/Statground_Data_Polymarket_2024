@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T21:08:33.491160Z",
+  "market_createdAt": "2024-12-30T21:08:33.49116Z",
+  "market_updatedAt": "2026-01-04T22:41:46.043195Z",
+  "market_startDate": "2024-12-30T22:06:25.818Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:18:21+00",
+  "conditionId": "0xc969cb252af1842b5de6a3edd0557835e7a6a7e737cae320b6bae6faccf35715",
+  "slug": "will-ethereum-hit-8000-by-december-31-124-489",
+  "question": "Will Ethereum hit $8,000 by December 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:34:35.890668Z",
+  "market_createdAt": "2024-10-24T17:34:35.890668Z",
+  "market_updatedAt": "2024-12-03T19:21:11.229025Z",
+  "market_startDate": "2024-10-24T18:40:33.120914Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-03 01:01:49+00",
+  "conditionId": "0x711b8fecc605bf28a70c223252528c626d30e24f6320d9bcc3e33758fadf5345",
+  "slug": "will-harris-win-virginia-by-6-points",
+  "question": "Will Harris win Virginia by 6+ points?"
+}

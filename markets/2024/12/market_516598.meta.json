@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:03:33.093158Z",
+  "market_createdAt": "2024-12-29T05:03:33.093158Z",
+  "market_updatedAt": "2025-01-02T00:57:11.743188Z",
+  "market_startDate": "2024-12-29T05:05:56.798681Z",
+  "market_endDate": "2025-01-07T20:00:00Z",
+  "market_closedTime": "2025-01-01 00:54:17+00",
+  "conditionId": "0xcfe5321adb4629d2d640cb8d7d69a333c42917808af6e401ec28b6a170c3b27a",
+  "slug": "nba-mil-ind-2024-12-31",
+  "question": "Bucks vs. Pacers"
+}

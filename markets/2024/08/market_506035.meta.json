@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:53:33.141712Z",
+  "market_createdAt": "2024-08-28T19:53:33.141712Z",
+  "market_updatedAt": "2024-11-30T04:51:17.732786Z",
+  "market_startDate": "2024-08-28T19:53:33.141712Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-11-29 07:54:52+00",
+  "conditionId": "0x1fcbbde36989599a5a6f76dae0d41da643c2f4160e815c57dfbad9ed4bedac2f",
+  "slug": "will-the-giants-win-the-nfc-championship",
+  "question": "Will the Giants win the NFC Championship?"
+}

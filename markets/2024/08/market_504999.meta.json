@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T22:08:45.525599Z",
+  "market_createdAt": "2024-08-12T22:08:45.525599Z",
+  "market_updatedAt": "2024-08-19T18:56:53.763166Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 20:38:28+00",
+  "conditionId": "0xe9a6834cb82bf8a97f4887761d8e783239c7e58be477a8d3ee66476324f2c615",
+  "slug": "will-chelsea-win-vs-manchester-city",
+  "question": "Will Chelsea win vs Manchester City?"
+}

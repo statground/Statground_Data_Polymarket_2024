@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T15:39:54.201113Z",
+  "market_createdAt": "2024-06-26T15:39:54.201113Z",
+  "market_updatedAt": "2024-06-29T00:21:04.699913Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 03:05:05+00",
+  "conditionId": "0xc21c56eccca3a71ab2cce5c96a3e5bd9f5a2a91d9ca66bad9bc88b6f41a6e1a4",
+  "slug": "will-panama-win-jun-27",
+  "question": "Will Panama win?"
+}

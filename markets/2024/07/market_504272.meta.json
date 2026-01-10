@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T16:48:34.677471Z",
+  "market_createdAt": "2024-07-29T16:48:34.677471Z",
+  "market_updatedAt": "2024-08-03T15:32:57.862391Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-02 15:43:26+00",
+  "conditionId": "0x611a41acb9389fb025ddb8df059201d8038387186b2fa3b301a17895ccd2152a",
+  "slug": "will-the-us-gain-less-than-100k-jobs-in-july",
+  "question": "Will the US gain less than 100k jobs in July?"
+}

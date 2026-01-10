@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:17:42.904511Z",
+  "market_createdAt": "2024-12-16T18:17:42.904511Z",
+  "market_updatedAt": "2025-01-21T19:39:06.875478Z",
+  "market_startDate": "2024-12-16T18:23:07.789Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 19:40:44+00",
+  "conditionId": "0xfdd1f153fdf60fb88b72126e8ee7373a54723dc678833e0a000b366f5379d296",
+  "slug": "will-joe-rogan-attend-presidential-inauguration",
+  "question": "Will Joe Rogan attend presidential inauguration?"
+}

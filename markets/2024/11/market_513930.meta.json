@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:59:34.969456Z",
+  "market_createdAt": "2024-11-24T18:59:34.969456Z",
+  "market_updatedAt": "2024-12-02T07:07:19.92601Z",
+  "market_startDate": "2024-11-24T19:02:02.609912Z",
+  "market_endDate": "2024-12-08T02:30:00Z",
+  "market_closedTime": "2024-12-01 07:04:37+00",
+  "conditionId": "0xff2000f762a3c268f1679abc557caa9ca59451b5264c421cebdcb205a4e72d26",
+  "slug": "nba-dal-uta-2024-11-30",
+  "question": "Mavericks vs. Jazz"
+}

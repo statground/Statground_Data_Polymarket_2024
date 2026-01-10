@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:58:40.785985Z",
+  "market_createdAt": "2024-10-03T20:58:40.785985Z",
+  "market_updatedAt": "2024-10-10T04:36:51.266822Z",
+  "market_startDate": "2024-10-03T22:36:30.294Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 05:01:13+00",
+  "conditionId": "0xe5a8773d3048edf1c8d87ee1181a988d7045bb78e7d9df6ef2d50a99909c6435",
+  "slug": "will-the-hbo-documentary-identify-jed-mccaleb-as-satoshi",
+  "question": "Will the HBO documentary identify Jed McCaleb as Satoshi?"
+}

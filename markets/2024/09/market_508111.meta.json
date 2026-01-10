@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T17:19:53.748420Z",
+  "market_createdAt": "2024-09-25T17:19:53.74842Z",
+  "market_updatedAt": "2024-10-14T22:06:49.791785Z",
+  "market_startDate": "2024-09-25T17:45:28.002137Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:44:35+00",
+  "conditionId": "0xaacbe15f2dc1e9894aed53d37076b2b22fb81bb59e05736a9d76d6012652db0d",
+  "slug": "will-team-liquid-win-lol-worlds-2024",
+  "question": "Will Team Liquid win LoL Worlds 2024?"
+}

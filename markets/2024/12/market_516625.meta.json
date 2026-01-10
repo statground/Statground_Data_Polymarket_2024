@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:08:17.316703Z",
+  "market_createdAt": "2024-12-29T05:08:17.316703Z",
+  "market_updatedAt": "2025-01-05T08:11:33.410692Z",
+  "market_startDate": "2024-12-29T05:10:41.562177Z",
+  "market_endDate": "2025-01-11T03:30:00Z",
+  "market_closedTime": "2025-01-04 08:06:50+00",
+  "conditionId": "0x46b20e8cce1e6f815bfa6ef4e2fdec4017c1a1892825f5190aac024db60d551f",
+  "slug": "nba-atl-lal-2025-01-03",
+  "question": "Hawks vs. Lakers"
+}

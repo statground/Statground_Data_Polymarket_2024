@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:29:29.198844Z",
+  "market_createdAt": "2024-04-15T20:29:29.198844Z",
+  "market_updatedAt": "2024-06-26T06:21:08.397095Z",
+  "market_startDate": "2024-04-16T16:48:58.147Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 06:18:07+00",
+  "conditionId": "0x6060eee47f094ca68941003911c5c442a210d2a86c89b0b96e29beb0463d05ef",
+  "slug": "florida-panthers-win-the-2024-stanley-cup",
+  "question": "Florida Panthers win the 2024 Stanley Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:37:54.547574Z",
+  "market_createdAt": "2024-09-18T02:37:54.547574Z",
+  "market_updatedAt": "2025-03-31T19:46:36.377027Z",
+  "market_startDate": "2024-09-18T16:37:28.627912Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-30 19:45:48+00",
+  "conditionId": "0x7da6e2fbf085bff83d6da206fda2cd42ba8fb35f3eb98ddc0fc16634604eb1da",
+  "slug": "will-girona-fc-win-la-liga",
+  "question": "Will Girona FC win La Liga?"
+}

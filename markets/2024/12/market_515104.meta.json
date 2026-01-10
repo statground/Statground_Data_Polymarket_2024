@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:02:21.956987Z",
+  "market_createdAt": "2024-12-09T17:02:21.956987Z",
+  "market_updatedAt": "2024-12-11T00:11:24.931654Z",
+  "market_startDate": "2024-12-09T17:05:32.673255Z",
+  "market_endDate": "2024-12-09T20:00:00Z",
+  "market_closedTime": "2024-12-10 01:19:47+00",
+  "conditionId": "0x537dd08428d3b142507a975ec6f78e99a4123ef7fe38f5b194074792f77261ba",
+  "slug": "epl-wes-wol-2024-12-09-draw",
+  "question": "Will West Ham vs. Wolves end in a draw?"
+}

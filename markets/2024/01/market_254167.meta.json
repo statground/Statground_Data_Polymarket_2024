@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-26T16:12:57.807000Z",
+  "market_createdAt": "2024-01-26T16:12:57.807Z",
+  "market_updatedAt": "2024-05-07T23:09:25.612687Z",
+  "market_startDate": "2024-02-27T19:17:00Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 07:46:07+00",
+  "conditionId": "0x3dd5115fa2533aef134177028f8f418c00165b72c33616310fe19cc14ca17177",
+  "slug": "istanbul-mayoral-election-2024-will-another-party-win",
+  "question": "Istanbul Mayoral Election 2024: Will another party win?"
+}

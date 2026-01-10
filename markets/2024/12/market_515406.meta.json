@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T19:34:43.452511Z",
+  "market_createdAt": "2024-12-11T19:34:43.452511Z",
+  "market_updatedAt": "2025-04-02T05:56:33.882296Z",
+  "market_startDate": "2024-12-11T22:17:58.142688Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 06:13:51+00",
+  "conditionId": "0xdd6e9462edff12429df58434e93dbb7ff92739dae3f815484afd16a263665ef5",
+  "slug": "netanyahu-out-before-april",
+  "question": "Netanyahu out before April?"
+}

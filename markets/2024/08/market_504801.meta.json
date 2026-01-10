@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T14:20:25.354933Z",
+  "market_createdAt": "2024-08-09T14:20:25.354933Z",
+  "market_updatedAt": "2024-08-17T21:36:58.274828Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-16 21:34:10+00",
+  "conditionId": "0x889560b2d0cb888ce0918e7a588a40c5e75d0830b8c0540cf328c3c7021add04",
+  "slug": "bitcoin-above-60000-on-august-16",
+  "question": "Bitcoin above $60,000 on August 16?"
+}

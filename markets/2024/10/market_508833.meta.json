@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T02:22:11.204642Z",
+  "market_createdAt": "2024-10-04T02:22:11.204642Z",
+  "market_updatedAt": "2024-10-13T22:00:53.932377Z",
+  "market_startDate": "2024-10-04T15:28:21.614491Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 22:33:05+00",
+  "conditionId": "0x4d9e1fd99fa8e90504e5aaed4c75776f53856e6737363ae014ff006e10161ae4",
+  "slug": "guardians-vs-tigers-series-winner",
+  "question": "Guardians vs. Tigers Series Winner"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T21:49:34.784291Z",
+  "market_createdAt": "2024-06-06T21:49:34.784291Z",
+  "market_updatedAt": "2024-06-11T06:06:11.914272Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-10T12:00:00Z",
+  "market_closedTime": "2024-06-10 06:07:08+00",
+  "conditionId": "0x081bc70350ee00c9037789f49ea3f6a7ea205608f03d9ead721bbe6ba70fe32d",
+  "slug": "did-biden-shit-his-pants",
+  "question": "Did Biden shit his pants?"
+}

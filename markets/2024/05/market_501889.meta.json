@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:40:39.052600Z",
+  "market_createdAt": "2024-05-29T18:40:39.0526Z",
+  "market_updatedAt": "2024-06-02T01:31:14.238518Z",
+  "market_startDate": "2024-05-31T22:41:10.539Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 17:20:14+00",
+  "conditionId": "0x9b29b446e86d577cc7327d92c197b18a6e4019720602be48fec352ce6db51e69",
+  "slug": "will-another-player-be-the-biggest-winner-on-day-4",
+  "question": "Will another player be the biggest winner on Day 4?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:48:33.686543Z",
+  "market_createdAt": "2024-08-15T00:48:33.686543Z",
+  "market_updatedAt": "2024-08-19T05:06:51.418939Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 05:11:46+00",
+  "conditionId": "0xf481f668ea4d4821d7215588086b1097ab0371727c0f2125caa4d1bbf5e0940a",
+  "slug": "tuivasa-vs-rozenstruik",
+  "question": "Tuivasa vs. Rozenstruik"
+}

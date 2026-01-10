@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504491",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T19:30:38.497246Z",
+  "market_createdAt": "2024-08-02T19:30:38.497246Z",
+  "market_updatedAt": "2024-11-08T22:43:02.787279Z",
+  "market_startDate": "2024-08-02T21:55:07.276Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:54:46+00",
+  "conditionId": "0xe4a9b98237a29e778ac5717e3d29220bb2f0c0370e8e3436d4a277853556355f",
+  "slug": "fed-decreases-interest-rates-by-50-bps-after-november-2024-meeting",
+  "question": "Fed decreases interest rates by 50 bps after November 2024 meeting?"
+}

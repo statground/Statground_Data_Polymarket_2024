@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:15:10.705073Z",
+  "market_createdAt": "2024-08-06T20:15:10.705073Z",
+  "market_updatedAt": "2024-08-10T17:36:58.740113Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-09 21:01:01+00",
+  "conditionId": "0x5929c8e30d7d63b4a6d583f0eaa1c0b06db61e7d59df22ff37f873bc01a2b970",
+  "slug": "will-another-team-win-gold-in-the-womens-4x100m-relay",
+  "question": "Will another team win gold in the Women’s 4x100m Relay?"
+}

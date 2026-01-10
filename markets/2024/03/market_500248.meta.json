@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:40:21.622562Z",
+  "market_createdAt": "2024-03-18T15:40:21.622562Z",
+  "market_updatedAt": "2024-05-07T23:09:29.072871Z",
+  "market_startDate": "2024-03-18T18:59:54.833Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-22 21:58:27+00",
+  "conditionId": "0x4b87286997b751b5fe93019e2e9061ef7d5e82af120a1d76154da48754de6216",
+  "slug": "will-fla-atlantic-win-the-ncaa-tournament",
+  "question": "Will Fla. Atlantic win the NCAA tournament?"
+}

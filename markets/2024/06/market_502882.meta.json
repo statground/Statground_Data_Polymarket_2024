@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T18:42:30.402812Z",
+  "market_createdAt": "2024-06-25T18:42:30.402812Z",
+  "market_updatedAt": "2024-06-27T18:01:08.567365Z",
+  "market_startDate": "2024-06-25T18:55:04.056Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 21:05:11+00",
+  "conditionId": "0xb753f0a5697825c61fc782cac8821923daebf2230336d7f48f45e95ebc1b0d15",
+  "slug": "will-slovakia-win-june-26",
+  "question": "Will Slovakia win?"
+}

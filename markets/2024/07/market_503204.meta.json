@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T22:37:28.185330Z",
+  "market_createdAt": "2024-07-03T22:37:28.18533Z",
+  "market_updatedAt": "2024-07-07T20:50:45.30339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-07 00:02:16+00",
+  "conditionId": "0x15487eeac9ff6b157f12f343f1b568f88323bf479778ad32b8fb6234e5a07d5a",
+  "slug": "will-turkey-win-july-6",
+  "question": "Will Turkey win?"
+}

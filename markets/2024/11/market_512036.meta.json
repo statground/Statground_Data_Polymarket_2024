@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T18:50:41.378486Z",
+  "market_createdAt": "2024-11-05T18:50:41.378486Z",
+  "market_updatedAt": "2024-11-07T23:47:12.168966Z",
+  "market_startDate": "2024-11-05T19:44:44.239Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:44:42+00",
+  "conditionId": "0x2958ab412d90fe9b74e75070bd96f39e742a879e9b1119d71c14441bafb038b6",
+  "slug": "will-kamala-say-trump-3-or-more-times-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"Trump\" 3 or more times in her speech after the election is called?"
+}

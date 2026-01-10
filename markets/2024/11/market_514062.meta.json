@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:32:55.437063Z",
+  "market_createdAt": "2024-11-26T07:32:55.437063Z",
+  "market_updatedAt": "2024-11-28T19:41:39.819926Z",
+  "market_startDate": "2024-11-26T22:24:45.675157Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-27 22:49:09+00",
+  "conditionId": "0x7bd3c2c7d7a697a6f671cd70efd2dac01867cbe5e2598cfd86d3b1ef7d3334bb",
+  "slug": "will-the-match-between-sturm-graz-and-girona-end-in-a-draw",
+  "question": "Will the match between Sturm Graz and Girona end in a draw?"
+}

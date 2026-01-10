@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:02:02.007330Z",
+  "market_createdAt": "2024-11-12T19:02:02.00733Z",
+  "market_updatedAt": "2024-12-31T04:41:39.682525Z",
+  "market_startDate": "2024-11-12T21:27:08.093981Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-30 07:03:51+00",
+  "conditionId": "0xe818ca4665509d0e3cfeb4c6ffc3d5127e8208a79e923470c5c0cc2d58629e91",
+  "slug": "will-the-seattle-seahawks-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Seattle Seahawks make the 2024-25 NFL Playoffs?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:35:08.622531Z",
+  "market_createdAt": "2024-10-25T17:35:08.622531Z",
+  "market_updatedAt": "2025-01-02T07:37:05.652406Z",
+  "market_startDate": "2024-10-25T17:39:46.324236Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:08:30+00",
+  "conditionId": "0x7e3edb566cb4dfdfb1cb682c9af88b7535cb6260b981168630ef34cfa2cc2e25",
+  "slug": "elon-musk-arrested-in-2024",
+  "question": "Elon Musk arrested in 2024?"
+}

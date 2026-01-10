@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:26:11.367744Z",
+  "market_createdAt": "2024-05-20T17:26:11.367744Z",
+  "market_updatedAt": "2024-06-20T10:05:26.167851Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 10:03:54+00",
+  "conditionId": "0xc158169bac519a5c6bf70285dfff5c55c49a32a5cf8aa41e4afe80e0645cc275",
+  "slug": "will-mohammad-mokhber-be-the-next-president-of-iran",
+  "question": "Will Mohammad Mokhber be the next President of Iran?"
+}

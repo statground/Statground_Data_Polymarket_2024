@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:36:43.523262Z",
+  "market_createdAt": "2024-09-27T19:36:43.523262Z",
+  "market_updatedAt": "2024-09-30T20:10:36.481588Z",
+  "market_startDate": "2024-09-27T20:52:23.682063Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:05:56+00",
+  "conditionId": "0xc9bb2699f0b6221872e118d8d763bfd68981ded15d6bb1e45209ee7ccd87ffb5",
+  "slug": "will-the-eagles-beat-the-buccaneers-by-2-or-more-points",
+  "question": "Will the Eagles beat the Buccaneers by 2 or more points?"
+}

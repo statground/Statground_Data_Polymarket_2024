@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:13:08.601420Z",
+  "market_createdAt": "2024-11-26T08:13:08.60142Z",
+  "market_updatedAt": "2024-11-29T20:57:34.120983Z",
+  "market_startDate": "2024-11-26T22:43:22.053459Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:01:50+00",
+  "conditionId": "0x60c5b4a69c88bc2de2da76519f09088b564355ba987b36e6994e25cf568dba4f",
+  "slug": "will-fk-qarabag-beat-lyon",
+  "question": "Will FK Qarabag beat Lyon?"
+}

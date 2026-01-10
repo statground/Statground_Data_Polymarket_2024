@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:31:51.062892Z",
+  "market_createdAt": "2024-12-10T02:31:51.062892Z",
+  "market_updatedAt": "2024-12-17T02:59:26.703149Z",
+  "market_startDate": "2024-12-10T02:35:16.17124Z",
+  "market_endDate": "2024-12-22T21:25:00Z",
+  "market_closedTime": "2024-12-16 02:57:05+00",
+  "conditionId": "0xed846b6294cce35e19f661e4251a4e12882d2f55504a11720d6f672bafb48c27",
+  "slug": "nfl-buf-det-2024-12-15",
+  "question": "Bills vs. Lions"
+}

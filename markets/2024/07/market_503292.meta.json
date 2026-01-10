@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:25:31.725542Z",
+  "market_createdAt": "2024-07-08T22:25:31.725542Z",
+  "market_updatedAt": "2024-07-22T15:24:44.511133Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:35:54+00",
+  "conditionId": "0x056dc15ff61c93e8b90439cc6b37442002ce4193530d6bad0e65324ae7e897ba",
+  "slug": "will-remco-evenepoel-win-the-2024-tour-de-france",
+  "question": "Will Remco Evenepoel win the 2024 Tour de France?"
+}

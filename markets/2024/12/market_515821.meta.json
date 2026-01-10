@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T23:34:35.656774Z",
+  "market_createdAt": "2024-12-16T23:34:35.656774Z",
+  "market_updatedAt": "2025-01-22T23:00:57.411259Z",
+  "market_startDate": "2024-12-17T00:01:35.933Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 23:27:03+00",
+  "conditionId": "0xa9f2fb30f552eb33e0c9a078c26013a23955b33d3e64dc553d385328eadcab3e",
+  "slug": "total-crypto-market-cap-4-trillion-on-jan-20",
+  "question": "Total crypto market cap over $4 trillion on Jan 20?"
+}

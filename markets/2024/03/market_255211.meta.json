@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:24:03.971000Z",
+  "market_createdAt": "2024-03-01T20:24:03.971Z",
+  "market_updatedAt": "2024-04-26T03:00:31.791424Z",
+  "market_startDate": "2024-03-01T21:27:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-06 09:47:04+00",
+  "conditionId": "0xc276492866ae9a67ce9c294592c7995baa0bd8a3347b280a3e24bc4586c4c9be",
+  "slug": "will-colin-allred-win-the-texas-democratic-senate-primary",
+  "question": "Will Colin Allred win the Texas Democratic Senate Primary?"
+}

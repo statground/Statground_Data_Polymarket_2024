@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T15:00:45.337557Z",
+  "market_createdAt": "2024-06-24T15:00:45.337557Z",
+  "market_updatedAt": "2024-06-26T03:01:16.702736Z",
+  "market_startDate": "2024-06-24T17:34:03.218Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 06:13:21+00",
+  "conditionId": "0x291a89a743317218e5497e2c69573706c63c9237ee824ac3dd5adb333a75b06d",
+  "slug": "will-the-match-be-a-draw-brazil-costa-rica",
+  "question": "Will the match be a draw?"
+}

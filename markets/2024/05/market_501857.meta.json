@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T21:09:04.272186Z",
+  "market_createdAt": "2024-05-28T21:09:04.272186Z",
+  "market_updatedAt": "2024-06-05T08:01:13.875667Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-03T12:00:00Z",
+  "market_closedTime": "2024-06-04 09:52:45+00",
+  "conditionId": "0xb4e04d77a859fe388595a78cb59d02c35e70c7dd05548ea54cd96cec234baf0f",
+  "slug": "will-fauci-wear-mask-during-june-3-hearing",
+  "question": "Will Fauci wear a mask during June 3 hearing?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:31:26.880000Z",
+  "market_createdAt": "2024-03-05T05:31:26.88Z",
+  "market_updatedAt": "2024-04-26T03:00:05.249514Z",
+  "market_startDate": "2024-03-05T06:04:11.711Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:33:38+00",
+  "conditionId": "0xd6ca4fa7b82192aab3e3ed3ea267a6e8fef0927e07d35248fd78a553d7910c60",
+  "slug": "will-trump-win-vermont-republican-primary",
+  "question": "Will Trump win Vermont Republican Primary?"
+}

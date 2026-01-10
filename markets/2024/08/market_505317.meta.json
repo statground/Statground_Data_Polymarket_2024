@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:35:54.986898Z",
+  "market_createdAt": "2024-08-19T16:35:54.986898Z",
+  "market_updatedAt": "2024-08-30T05:23:10.567622Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2024-08-29 06:17:46+00",
+  "conditionId": "0xd5aef0491195191e205bfccdf93806700a4916e6d2eff12a2e9126b5bd88c387",
+  "slug": "will-matteo-berrettini-win-the-us-open",
+  "question": "Will Matteo Berrettini win the US Open?"
+}

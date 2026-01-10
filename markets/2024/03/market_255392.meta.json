@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T19:51:40.669000Z",
+  "market_createdAt": "2024-03-08T19:51:40.669Z",
+  "market_updatedAt": "2025-01-02T09:09:06.466449Z",
+  "market_startDate": "2024-04-02T15:55:25.972Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:57:58+00",
+  "conditionId": "0x4ac4849343a847d75cff15174a139ef9c4bc89bdb8c8bcdd7bee61204912d549",
+  "slug": "gpt5-announced-in-q4-2024",
+  "question": "GPT-5 announced in Q4 2024?"
+}

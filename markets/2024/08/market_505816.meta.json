@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:52:56.923889Z",
+  "market_createdAt": "2024-08-26T19:52:56.923889Z",
+  "market_updatedAt": "2024-09-01T15:57:10.369641Z",
+  "market_startDate": "2024-08-26T19:52:56.923889Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:12:51+00",
+  "conditionId": "0x2fa2b0829b52e73122d701d3f672185095a4589bed810323378a2c7332e6b0af",
+  "slug": "will-wolverhampton-beat-nottingham-forest",
+  "question": "Will Wolverhampton beat Nottingham Forest?"
+}

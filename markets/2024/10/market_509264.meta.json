@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T17:58:08.023015Z",
+  "market_createdAt": "2024-10-08T17:58:08.023015Z",
+  "market_updatedAt": "2024-10-10T01:26:44.345794Z",
+  "market_startDate": "2024-10-08T19:15:07.305061Z",
+  "market_endDate": "2024-10-08T12:00:00Z",
+  "market_closedTime": "2024-10-09 01:22:23+00",
+  "conditionId": "0xcc4b97df8d7950e9b5e6fb25bc18c16573d749c1fadd1c7adfbc212c47577b29",
+  "slug": "nhl-kraken-vs-blues",
+  "question": "NHL: Kraken vs. Blues"
+}

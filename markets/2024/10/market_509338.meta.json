@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:11:50.231728Z",
+  "market_createdAt": "2024-10-09T17:11:50.231728Z",
+  "market_updatedAt": "2025-04-14T03:51:26.759473Z",
+  "market_startDate": "2024-10-10T20:11:12.058392Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 03:48:30+00",
+  "conditionId": "0x747e2baac54ce9d35a92677537738ef81298f13ef7c03f6bb88ab59c366effe6",
+  "slug": "will-donovan-mitchell-lead-the-nba-in-scoring",
+  "question": "Will Donovan Mitchell lead the NBA in scoring?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T19:52:51.098545Z",
+  "market_createdAt": "2024-09-23T19:52:51.098545Z",
+  "market_updatedAt": "2025-02-02T07:21:29.824843Z",
+  "market_startDate": "2024-09-24T01:34:47.582015Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2025-02-01 07:57:54+00",
+  "conditionId": "0x2c963d7f5a3617d268dfe299aa81678d044ece20e304439d17d613a87b25a5e9",
+  "slug": "rasmr-vs-threadguy",
+  "question": "RASMR vs. Threadguy"
+}

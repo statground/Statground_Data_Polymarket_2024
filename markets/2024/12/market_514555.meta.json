@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T16:21:35.384210Z",
+  "market_createdAt": "2024-12-03T16:21:35.38421Z",
+  "market_updatedAt": "2024-12-05T00:53:35.487289Z",
+  "market_startDate": "2024-12-03T16:53:51.819Z",
+  "market_endDate": "2024-12-03T12:00:00Z",
+  "market_closedTime": "2024-12-04 00:56:21+00",
+  "conditionId": "0xb94baf3415f7b0c3108f62090c7c982f6c9c21eff24e3299ebf2d3bfaf30b0a7",
+  "slug": "south-korea-martial-law-lifted-today",
+  "question": "Will South Korean President lift martial law today?"
+}

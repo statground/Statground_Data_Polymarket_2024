@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-28T15:46:37.467000Z",
+  "market_createdAt": "2024-02-28T15:46:37.467Z",
+  "market_updatedAt": "2024-03-03T04:18:10.895Z",
+  "market_startDate": "2024-02-28T18:09:39.045Z",
+  "market_endDate": "2024-03-01T00:00:00Z",
+  "market_closedTime": "2024-03-02 07:18:18+00",
+  "conditionId": "0x76bbe4f9461f2a8fdc335ac3e36f48f84ed5b25115fec870eb31f33232b66289",
+  "slug": "bitcoin-all-time-high-by-friday",
+  "question": "Bitcoin all time high by Friday?"
+}

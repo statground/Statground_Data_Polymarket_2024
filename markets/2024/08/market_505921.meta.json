@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505921",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:33:36.924875Z",
+  "market_createdAt": "2024-08-27T19:33:36.924875Z",
+  "market_updatedAt": "2024-08-29T21:27:13.338821Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:31:40+00",
+  "conditionId": "0xe3b2497372347284646e2e6887bede9fc093d76579c9480efb91734a58ae792d",
+  "slug": "will-jd-vance-say-china-5-or-more-times-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"China\" 5 or more times during Pennsylvania rally?"
+}

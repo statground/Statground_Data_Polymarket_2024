@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:38:03.723395Z",
+  "market_createdAt": "2024-11-04T18:38:03.723395Z",
+  "market_updatedAt": "2024-11-10T05:12:48.789687Z",
+  "market_startDate": "2024-11-04T18:40:45.057532Z",
+  "market_endDate": "2024-11-09T00:30:00Z",
+  "market_closedTime": "2024-11-09 05:07:29+00",
+  "conditionId": "0x4a46bed631a9ac2da6ef39adf32fb0a153781d0012d1d85589468a16067f9c4b",
+  "slug": "nba-gsw-cle-2024-11-08",
+  "question": "Warriors vs. Cavaliers"
+}

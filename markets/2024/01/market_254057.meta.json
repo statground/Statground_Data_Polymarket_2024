@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-22T20:01:16.802000Z",
+  "market_createdAt": "2024-01-22T20:01:16.802Z",
+  "market_updatedAt": "2024-01-24T15:09:25.43Z",
+  "market_startDate": "2024-01-22T20:22:00Z",
+  "market_endDate": "2024-01-23T00:00:00Z",
+  "market_closedTime": "2024-01-23 20:46:24+00",
+  "conditionId": "0x3f994569b2594c5ef6ddbde83a9d84d18884d99ffd8e6588a14254794e23867e",
+  "slug": "will-mrbeasts-giveaway-tweet-be-reposted-between-2pt5-3m-times",
+  "question": "Will MrBeast's giveaway tweet be reposted between 2.5-3m times?"
+}

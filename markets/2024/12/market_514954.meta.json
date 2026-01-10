@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T18:25:18.368595Z",
+  "market_createdAt": "2024-12-06T18:25:18.368595Z",
+  "market_updatedAt": "2024-12-14T18:53:10.544756Z",
+  "market_startDate": "2024-12-06T18:35:21.700015Z",
+  "market_endDate": "2024-12-13T12:00:00Z",
+  "market_closedTime": "2024-12-13 20:08:12+00",
+  "conditionId": "0xd98db52e63443f7de6a09f565afc2151dd1d987ac9b18bd04cc7b83e313760ed",
+  "slug": "will-trump-tweet-less-than-3-times-dec-6-13",
+  "question": "Will Trump tweet less than 3 times Dec 6-13?"
+}

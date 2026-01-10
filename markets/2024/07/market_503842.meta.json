@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:49:54.175773Z",
+  "market_createdAt": "2024-07-18T21:49:54.175773Z",
+  "market_updatedAt": "2024-08-08T19:36:54.600201Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 23:02:52+00",
+  "conditionId": "0x51d91bcc97fbedf802a5f2134dc502c19a2d4871650f6643026479d50f39febd",
+  "slug": "will-another-athlete-win-gold-in-discus",
+  "question": "Will another athlete win Gold in Discus?"
+}

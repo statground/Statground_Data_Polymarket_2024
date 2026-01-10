@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T17:33:11.205332Z",
+  "market_createdAt": "2024-12-26T17:33:11.205332Z",
+  "market_updatedAt": "2024-12-28T00:59:10.998233Z",
+  "market_startDate": "2024-12-26T17:41:02.408Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 07:55:24+00",
+  "conditionId": "0x5dcacd296429037f3c5827dae23b662fd4e389eb92d5f8cc8d5f29a268e41864",
+  "slug": "will-bowling-green-beat-arkansas-state-by-10-or-more-points",
+  "question": "Will Bowling Green beat Arkansas State by 10 or more points?"
+}

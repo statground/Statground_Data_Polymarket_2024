@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T18:20:59.979465Z",
+  "market_createdAt": "2024-04-19T18:20:59.979465Z",
+  "market_updatedAt": "2024-05-07T23:09:23.409811Z",
+  "market_startDate": "2024-04-19T22:12:19.667Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 06:24:44+00",
+  "conditionId": "0x61e446daab65e1d6965e15887e3a7110527ae2d4e529147ee5fe15cc595d12c8",
+  "slug": "2-sweeps-in-1st-round-of-nba-playoffs",
+  "question": "2 sweeps in 1st round of NBA Playoffs?"
+}

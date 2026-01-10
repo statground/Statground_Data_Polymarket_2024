@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:50:26.517972Z",
+  "market_createdAt": "2024-05-31T14:50:26.517972Z",
+  "market_updatedAt": "2024-06-19T02:41:12.795486Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:00:56+00",
+  "conditionId": "0x95a2ad111cd0cf3cd7a82853b5f96dc3b3086876258e7e40ae1fbf7d4e6f5668",
+  "slug": "kyrie-irving-2024-nba-finals-mvp",
+  "question": "Kyrie Irving 2024 NBA Finals MVP?"
+}

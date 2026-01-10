@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:38:36.758343Z",
+  "market_createdAt": "2024-09-27T19:38:36.758343Z",
+  "market_updatedAt": "2024-09-30T17:02:36.230425Z",
+  "market_startDate": "2024-09-27T20:53:46.790949Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:59:12+00",
+  "conditionId": "0xf3a79bf0ab5eeb3b8b6b86d596ca6f993730b6d424360d6c40fb80f4ddb9b96a",
+  "slug": "will-the-packers-beat-the-vikings-by-3-or-more-points",
+  "question": "Will the Packers beat the Vikings by 3 or more points?"
+}

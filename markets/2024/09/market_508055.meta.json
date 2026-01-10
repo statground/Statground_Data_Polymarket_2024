@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:30:50.597686Z",
+  "market_createdAt": "2024-09-24T21:30:50.597686Z",
+  "market_updatedAt": "2024-10-03T03:16:42.52017Z",
+  "market_startDate": "2024-09-24T23:41:45.627Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:10:35+00",
+  "conditionId": "0x3367bc428a06cd387686fc168976420f1d3c3319696bc17b030f5fac8a4410ab",
+  "slug": "will-tim-walz-say-yale-during-the-debate",
+  "question": "Will Tim Walz say \"Yale\" during the debate?"
+}

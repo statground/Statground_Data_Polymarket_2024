@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T20:42:15.068105Z",
+  "market_createdAt": "2024-10-08T20:42:15.068105Z",
+  "market_updatedAt": "2024-10-12T02:56:53.509034Z",
+  "market_startDate": "2024-10-09T15:25:34.306393Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 04:38:06+00",
+  "conditionId": "0x238b33d93aec0d7d8d078e41d7889e58f63ad56a6fb0e18a03742e7105b26dfe",
+  "slug": "will-kamala-say-insulin-during-univision-town-hall-on-october-10",
+  "question": "Will Kamala say \"insulin\" during Univision town hall on October 10?"
+}

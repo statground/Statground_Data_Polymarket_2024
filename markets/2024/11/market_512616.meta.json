@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:42:29.033092Z",
+  "market_createdAt": "2024-11-08T23:42:29.033092Z",
+  "market_updatedAt": "2024-11-11T13:42:41.556894Z",
+  "market_startDate": "2024-11-09T02:54:31.846759Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:22:23+00",
+  "conditionId": "0x107fa1b9de970c37fe2d046b88d955c081186ee27f27a0b101aa1ddb98db0f22",
+  "slug": "will-the-giants-and-panthers-combine-for-41-or-more-points",
+  "question": "Will the Giants and Panthers combine for 41 or more points?"
+}

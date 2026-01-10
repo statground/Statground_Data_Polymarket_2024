@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:04:12.750085Z",
+  "market_createdAt": "2024-08-23T16:04:12.750085Z",
+  "market_updatedAt": "2024-08-25T02:10:56.322932Z",
+  "market_startDate": "2024-08-23T16:51:06.574Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 02:23:39+00",
+  "conditionId": "0x0ea237c81e691e4c1ad1a66f7295954ac5721af3b0c1880da4bf5f0c21d89666",
+  "slug": "will-trump-say-alien-3-or-more-times-at-his-arizona-speech",
+  "question": "Will Trump say \"alien\" 3 or more times at his Arizona speech?"
+}

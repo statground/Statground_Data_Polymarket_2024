@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:01:28.105585Z",
+  "market_createdAt": "2024-12-08T05:01:28.105585Z",
+  "market_updatedAt": "2024-12-10T02:53:18.73238Z",
+  "market_startDate": "2024-12-08T05:04:55.917818Z",
+  "market_endDate": "2024-12-15T23:30:00Z",
+  "market_closedTime": "2024-12-09 04:14:58+00",
+  "conditionId": "0xb7f61adf6c06320fbf923c9ba410b25d8d1a6928c157d4062ee794a0d2cd02a1",
+  "slug": "nba-phx-orl-2024-12-08",
+  "question": "Suns vs. Magic"
+}

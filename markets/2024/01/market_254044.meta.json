@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-22T16:48:13.192000Z",
+  "market_createdAt": "2024-01-22T16:48:13.192Z",
+  "market_updatedAt": "2024-01-24T19:17:25.382Z",
+  "market_startDate": "2024-01-22T17:04:00Z",
+  "market_endDate": "2024-01-21T00:00:00Z",
+  "market_closedTime": "2024-01-24 07:17:12+00",
+  "conditionId": "0x904210240f03d8f02d9000d26d29ca8f091b930eac0d687231f79db4fbe69b71",
+  "slug": "will-marianne-williamson-win-the-new-hampshire-democratic-primary",
+  "question": "Will Marianne Williamson win the New Hampshire Democratic primary?"
+}

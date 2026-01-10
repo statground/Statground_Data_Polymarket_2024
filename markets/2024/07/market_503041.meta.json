@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:48:44.762568Z",
+  "market_createdAt": "2024-07-01T15:48:44.762568Z",
+  "market_updatedAt": "2024-09-03T02:53:03.482664Z",
+  "market_startDate": "2024-07-01T15:48:44.762568Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-02 06:03:48+00",
+  "conditionId": "0x3670f2664abb8584728835f23c1699d9f9552c095cd81dc3ce55276232c9a3c4",
+  "slug": "will-trump-be-president-by-september-1",
+  "question": "Will Trump be president by September 1?"
+}

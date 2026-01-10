@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:19:08.577134Z",
+  "market_createdAt": "2024-12-16T18:19:08.577134Z",
+  "market_updatedAt": "2025-01-21T19:25:06.248933Z",
+  "market_startDate": "2024-12-16T18:23:33.393Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:34:08+00",
+  "conditionId": "0x0e09add442dbb6bcbf19a5dc637f9e36eaa9f00d3d941b2c84f1c6474bc5eefb",
+  "slug": "will-elon-musk-attend-presidential-inauguration",
+  "question": "Will Elon Musk attend presidential inauguration?"
+}

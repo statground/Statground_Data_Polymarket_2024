@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:42:30.126858Z",
+  "market_createdAt": "2024-11-05T21:42:30.126858Z",
+  "market_updatedAt": "2024-11-07T23:27:43.210335Z",
+  "market_startDate": "2024-11-07T03:02:06.511871Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:24:50+00",
+  "conditionId": "0x6a68b8bef0abb45e763743e41217ae4405245a9369c2971f00cea16d0e7a57a0",
+  "slug": "will-rangers-beat-olympiacos",
+  "question": "Will Rangers beat Olympiacos?"
+}

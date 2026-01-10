@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T23:46:31.722729Z",
+  "market_createdAt": "2024-12-02T23:46:31.722729Z",
+  "market_updatedAt": "2024-12-10T19:41:20.34319Z",
+  "market_startDate": "2024-12-03T00:40:09.911Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-09 19:37:01+00",
+  "conditionId": "0xc1823123d3af6771255637bb9582473fbbb99c682ebce4aa98ad4c52d735bb46",
+  "slug": "daniel-penny-found-guilty",
+  "question": "Daniel Penny found guilty?"
+}

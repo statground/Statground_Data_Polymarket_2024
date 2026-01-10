@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:57:22.121350Z",
+  "market_createdAt": "2024-08-19T16:57:22.12135Z",
+  "market_updatedAt": "2024-08-30T18:31:15.455483Z",
+  "market_startDate": null,
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-08-29 21:45:35+00",
+  "conditionId": "0x0d9bbd872c0370c45026f44b25f5b5c885b8c5ed5d76085427d685fbc763eba5",
+  "slug": "will-mirra-andreeva-win-the-us-open",
+  "question": "Will Mirra Andreeva win the US Open?"
+}

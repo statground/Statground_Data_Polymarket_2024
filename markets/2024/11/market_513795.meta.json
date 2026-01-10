@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:06:23.071000Z",
+  "market_createdAt": "2024-11-24T05:06:23.071Z",
+  "market_updatedAt": "2024-12-02T00:43:17.039779Z",
+  "market_startDate": "2024-11-24T05:09:02.613452Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 01:44:21+00",
+  "conditionId": "0x9690eb7cc7919307ff19414c4654944b0d8148b57d529d7fbeb00fe6026e24ee",
+  "slug": "cfb-pitt-bc-2024-11-30",
+  "question": "Pittsburgh vs. Boston College"
+}

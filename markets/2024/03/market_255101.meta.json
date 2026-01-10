@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:20:28.074000Z",
+  "market_createdAt": "2024-03-01T18:20:28.074Z",
+  "market_updatedAt": "2024-11-07T14:07:09.873212Z",
+  "market_startDate": "2024-03-28T20:20:39.915Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:54:38+00",
+  "conditionId": "0x3a0a1b7d617d2df321aa6d4866d7ab396cb3dfce490b530f32977a2683b88d4b",
+  "slug": "will-a-democrat-win-illinois-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Illinois Presidential Election?"
+}

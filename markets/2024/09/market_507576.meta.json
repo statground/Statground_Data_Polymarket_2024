@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:47:26.014060Z",
+  "market_createdAt": "2024-09-20T15:47:26.01406Z",
+  "market_updatedAt": "2024-09-22T05:32:48.859577Z",
+  "market_startDate": "2024-09-20T16:14:36.170655Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-21 05:58:45+00",
+  "conditionId": "0xb2d3a4fd7f47b5d2566b05ad91bde1b890374b3cefbf7e314f0a0b1186f39c90",
+  "slug": "will-nebraska-beat-illinois",
+  "question": "Will Nebraska beat Illinois?"
+}

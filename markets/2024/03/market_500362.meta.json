@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T20:08:18.733996Z",
+  "market_createdAt": "2024-03-20T20:08:18.733996Z",
+  "market_updatedAt": "2024-05-07T23:09:17.173589Z",
+  "market_startDate": "2024-03-20T20:19:57.789Z",
+  "market_endDate": "2024-03-31T07:00:00Z",
+  "market_closedTime": "2024-03-24 00:56:43+00",
+  "conditionId": "0x41771a29f1fa3b5ac743ddcf224017f802bd69152c1a65230ec666abfc22b708",
+  "slug": "boeing-emergency-landing-in-us-by-mar-31",
+  "question": "Boeing emergency landing in US by Mar 31?"
+}

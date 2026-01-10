@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:01:51.265216Z",
+  "market_createdAt": "2024-10-03T21:01:51.265216Z",
+  "market_updatedAt": "2024-10-10T04:56:40.179399Z",
+  "market_startDate": "2024-10-03T22:39:17.788Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:50:59+00",
+  "conditionId": "0x6d283e7709d0b7c7bbd499585e027e45118417bd0e3e2670912a03ae0ff3de90",
+  "slug": "will-the-hbo-documentary-identify-someone-else-as-satoshi",
+  "question": "Will the HBO documentary identify someone else as Satoshi?"
+}

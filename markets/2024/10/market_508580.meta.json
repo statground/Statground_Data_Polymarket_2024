@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:38:08.348961Z",
+  "market_createdAt": "2024-10-01T18:38:08.348961Z",
+  "market_updatedAt": "2024-10-06T18:06:45.299758Z",
+  "market_startDate": "2024-10-02T14:43:12.158596Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:11:41+00",
+  "conditionId": "0x3663db58d07bd2c266364a610254901ea7244f501dedb75c45ead937abf21d52",
+  "slug": "will-the-match-between-leicester-city-and-bournemouth-end-in-a-draw",
+  "question": "Will the match between Leicester City and Bournemouth end in a draw?"
+}

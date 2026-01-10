@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T19:39:08.374352Z",
+  "market_createdAt": "2024-12-12T19:39:08.374352Z",
+  "market_updatedAt": "2025-01-02T08:46:57.437552Z",
+  "market_startDate": "2024-12-12T20:56:23.058Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:16:46+00",
+  "conditionId": "0xaf483ff45a1c3ee0d943693843509a9033d7f284137d09c3ed83eae2d497d5bd",
+  "slug": "will-hamas-allow-idf-to-remain-in-gaza",
+  "question": "Will Hamas allow IDF to remain in Gaza?"
+}

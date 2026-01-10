@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:34:34.152850Z",
+  "market_createdAt": "2024-08-21T20:34:34.15285Z",
+  "market_updatedAt": "2024-08-24T20:41:04.055908Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 20:48:37+00",
+  "conditionId": "0x603ac78792bee1e1f8571cba88b6474e3120c31b0f34f62eaf88f1dd980021ec",
+  "slug": "will-rfk-jr-say-corrupt-during-friday-address",
+  "question": "Will RFK Jr. say \"Corrupt\" during Friday address?"
+}

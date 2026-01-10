@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:18:00.854388Z",
+  "market_createdAt": "2024-10-04T15:18:00.854388Z",
+  "market_updatedAt": "2024-11-21T00:58:56.263299Z",
+  "market_startDate": "2024-10-04T15:33:48.48Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-20 02:20:47+00",
+  "conditionId": "0xaf99acf92a4bb951c070b5de3ae11718f31d5478742fc4fb0101afb71e2ee3d8",
+  "slug": "will-trump-win-florida-by-8-points",
+  "question": "Will Trump win Florida by 8+ points?"
+}

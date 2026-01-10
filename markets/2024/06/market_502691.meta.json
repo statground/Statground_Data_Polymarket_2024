@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T16:43:48.145244Z",
+  "market_createdAt": "2024-06-20T16:43:48.145244Z",
+  "market_updatedAt": "2024-06-22T21:06:07.665467Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 05:13:26+00",
+  "conditionId": "0x084cf8a321b6c9e5007bd4cec9703a22af11ce176167baf467680bea6881343c",
+  "slug": "will-the-match-be-a-draw-peru-chile-jun-21",
+  "question": "Will the match be a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:30:23.182496Z",
+  "market_createdAt": "2024-08-26T16:30:23.182496Z",
+  "market_updatedAt": "2024-08-28T19:57:08.38544Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:58:53+00",
+  "conditionId": "0xa8a8fd835c2ae342e0882cabac06565a4a4b1def5866a6f366aad1b5e2664b85",
+  "slug": "will-jd-vance-say-okay-good-during-michigan-rally",
+  "question": "Will J.D. Vance say \"okay good\" during Michigan rally?"
+}

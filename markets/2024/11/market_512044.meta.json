@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:02:41.339876Z",
+  "market_createdAt": "2024-11-05T19:02:41.339876Z",
+  "market_updatedAt": "2024-11-11T22:53:10.758576Z",
+  "market_startDate": "2024-11-05T19:05:20.566382Z",
+  "market_endDate": "2024-11-10T18:00:00Z",
+  "market_closedTime": "2024-11-10 22:56:07+00",
+  "conditionId": "0xa11d53e4ec744bc1d510f5d3efe3bb440e5d3099a683a6230b769fce932302d9",
+  "slug": "nfl-den-kc-2024-11-10",
+  "question": "Broncos vs. Chiefs"
+}

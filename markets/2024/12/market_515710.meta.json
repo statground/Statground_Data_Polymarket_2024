@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:05:47.916416Z",
+  "market_createdAt": "2024-12-15T07:05:47.916416Z",
+  "market_updatedAt": "2024-12-21T04:41:03.650385Z",
+  "market_startDate": "2024-12-15T07:08:28.552375Z",
+  "market_endDate": "2024-12-27T01:30:00Z",
+  "market_closedTime": "2024-12-20 06:16:21+00",
+  "conditionId": "0x296ee1c3dede8c81c27d0720c4c6da28b80074d276b226f304f27da2bc006028",
+  "slug": "nhl-sea-chi-2024-12-19",
+  "question": "Kraken vs. Blackhawks"
+}

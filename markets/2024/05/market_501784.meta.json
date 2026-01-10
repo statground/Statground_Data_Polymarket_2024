@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T18:51:52.747088Z",
+  "market_createdAt": "2024-05-22T18:51:52.747088Z",
+  "market_updatedAt": "2024-07-06T12:15:48.002337Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 08:40:05+00",
+  "conditionId": "0xa6e4a72c2f9666cb7544a5f25ea5d81cd319f59b4ee2d7b697fb33044126f55f",
+  "slug": "labour-wins-30-of-votes",
+  "question": "Labour wins <30% of votes?"
+}

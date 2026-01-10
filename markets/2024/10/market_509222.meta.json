@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T01:48:22.324838Z",
+  "market_createdAt": "2024-10-08T01:48:22.324838Z",
+  "market_updatedAt": "2024-11-07T15:07:13.074123Z",
+  "market_startDate": "2024-10-08T17:34:58.039071Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 18:55:04+00",
+  "conditionId": "0xa10585d295fd84294c356b51e66d2e1babe1de48c42c1aec743d6a4a8965b68f",
+  "slug": "will-trump-win-no-swing-states",
+  "question": "Will Trump win no swing states?"
+}

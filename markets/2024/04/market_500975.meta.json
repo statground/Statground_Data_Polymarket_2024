@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:40:03.395743Z",
+  "market_createdAt": "2024-04-15T20:40:03.395743Z",
+  "market_updatedAt": "2024-05-07T23:09:56.048666Z",
+  "market_startDate": "2024-04-16T16:50:47.083Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-06 05:17:00+00",
+  "conditionId": "0x1d5452004a62b07f0551a65767b1941e8738fde71b5ff140421e12525468525e",
+  "slug": "vegas-golden-knights-win-the-2024-stanley-cup",
+  "question": "Vegas Golden Knights win the 2024 Stanley Cup?"
+}

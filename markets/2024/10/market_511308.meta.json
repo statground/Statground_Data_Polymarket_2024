@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:15:20.946463Z",
+  "market_createdAt": "2024-10-29T16:15:20.946463Z",
+  "market_updatedAt": "2024-11-01T23:17:09.428952Z",
+  "market_startDate": "2024-10-29T17:01:29.996Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-11-01 00:05:11+00",
+  "conditionId": "0x22819dd490da2770d7f3c8767b852f5ab1c6c59a5b065f8a088a887fe16c1518",
+  "slug": "will-jd-vance-say-border-20-or-more-times-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"border\" 20 or more times during the Joe Rogan podcast?"
+}

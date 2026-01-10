@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:37:46.218167Z",
+  "market_createdAt": "2024-10-08T16:37:46.218167Z",
+  "market_updatedAt": "2024-10-11T13:52:46.849944Z",
+  "market_startDate": "2024-10-08T17:16:52.542187Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:27:30+00",
+  "conditionId": "0x2b77cea5857ff1e7ccfe2679d47558c3340b5400047f085458dc25d1da6ea181",
+  "slug": "will-salman-rushdie-win-the-nobel-prize-in-literature",
+  "question": "Will Salman Rushdie win the Nobel prize in literature?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:21:24.801211Z",
+  "market_createdAt": "2024-12-02T17:21:24.801211Z",
+  "market_updatedAt": "2024-12-21T09:07:04.843776Z",
+  "market_startDate": "2024-12-02T17:55:07.175Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 10:44:15+00",
+  "conditionId": "0x8bdb4409f355238f3ea50e03da00889cfea733c7bb0a5d454b608c7a2defdb51",
+  "slug": "will-ethereum-hit-3300-in-december",
+  "question": "Will Ethereum hit $3,300 in December?"
+}

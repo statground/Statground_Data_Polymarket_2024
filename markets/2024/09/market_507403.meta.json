@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:40:37.983730Z",
+  "market_createdAt": "2024-09-18T02:40:37.98373Z",
+  "market_updatedAt": "2025-04-12T22:34:04.245935Z",
+  "market_startDate": "2024-09-18T16:48:17.012691Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-12 22:31:05+00",
+  "conditionId": "0x4e9d8233066ff2d1254385f120014a49ed708d67db8c4562f37a9b2592a5084b",
+  "slug": "will-rc-celta-de-vigo-win-la-liga",
+  "question": "Will RC Celta de Vigo win La Liga?"
+}

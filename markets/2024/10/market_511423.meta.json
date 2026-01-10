@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:12:22.272703Z",
+  "market_createdAt": "2024-10-30T16:12:22.272703Z",
+  "market_updatedAt": "2024-11-01T22:27:06.425581Z",
+  "market_startDate": "2024-10-30T18:05:42.167372Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 22:26:03+00",
+  "conditionId": "0xe952d3c039fb859a90159ce767b2c07886cc2b340ecba20ab0dd6771d29263c9",
+  "slug": "will-trump-say-tax-15-or-more-times-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"Tax\" 15 or more times during New Mexico rally on October 31?"
+}

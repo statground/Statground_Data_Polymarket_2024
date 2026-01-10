@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:49:04.092309Z",
+  "market_createdAt": "2024-11-15T21:49:04.092309Z",
+  "market_updatedAt": "2025-01-21T20:59:09.130867Z",
+  "market_startDate": "2024-11-15T22:26:16.241Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:55:02+00",
+  "conditionId": "0xeab6e3d86de2ceac389781fd790f9ae43d29d9833963cc17e06abd7fa0d3261f",
+  "slug": "will-trump-say-doge-or-dogecoin-during-his-inauguration-speech",
+  "question": "Will Trump say \"doge\" or \"Dogecoin\" during his inauguration speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:15:33.573017Z",
+  "market_createdAt": "2024-10-02T17:15:33.573017Z",
+  "market_updatedAt": "2024-10-13T02:06:50.072222Z",
+  "market_startDate": "2024-10-02T21:00:14.861691Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-12 05:46:30+00",
+  "conditionId": "0x6c4763d953848990ab8f264ce108f6f492b8adbbf65d713532c6ec6736ab482d",
+  "slug": "will-the-san-diego-padres-win-the-national-league",
+  "question": "Will the San Diego Padres win the National League?"
+}

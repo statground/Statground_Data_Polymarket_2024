@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:56:00.795117Z",
+  "market_createdAt": "2024-10-16T19:56:00.795117Z",
+  "market_updatedAt": "2024-10-20T02:32:41.749842Z",
+  "market_startDate": "2024-10-16T21:10:38.198386Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 03:34:34+00",
+  "conditionId": "0x9c71bc066b566793303787fd5eb567f3b0cfb247ed8e9eac655b2d6d5cd8793c",
+  "slug": "will-trump-say-american-dream-3-or-more-times-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"American dream\" 3 or more times during Michigan rally on October 18?"
+}

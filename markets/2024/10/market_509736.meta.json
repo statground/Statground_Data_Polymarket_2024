@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:38:41.425238Z",
+  "market_createdAt": "2024-10-11T21:38:41.425238Z",
+  "market_updatedAt": "2024-10-15T01:46:52.67664Z",
+  "market_startDate": "2024-10-11T22:26:51.606794Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 01:44:36+00",
+  "conditionId": "0xb28f25bba6f383ed99e3b88f3aa4b4e0b846438ac8d2547967288558544bfc45",
+  "slug": "will-the-lions-beat-the-cowboys-by-3-or-more-points",
+  "question": "Will the Lions beat the Cowboys by 3 or more points?"
+}

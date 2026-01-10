@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:27:49.567442Z",
+  "market_createdAt": "2024-09-12T21:27:49.567442Z",
+  "market_updatedAt": "2024-09-15T20:57:03.062597Z",
+  "market_startDate": "2024-09-12T22:21:57.455067Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 22:15:43+00",
+  "conditionId": "0x5b736ccb3f95287b1178f961960a2f88f381e4ce9275306e8f8a6136335b6891",
+  "slug": "will-lsu-beat-south-carolina-by-8-or-more-points",
+  "question": "Will LSU beat South Carolina by 8 or more points?"
+}

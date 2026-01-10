@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:08:13.313969Z",
+  "market_createdAt": "2024-11-11T18:08:13.313969Z",
+  "market_updatedAt": "2024-11-17T05:19:21.792079Z",
+  "market_startDate": "2024-11-11T18:10:49.610059Z",
+  "market_endDate": "2024-11-23T00:30:00Z",
+  "market_closedTime": "2024-11-16 05:32:44+00",
+  "conditionId": "0x5610ef815b8b9905617427c14202c2036d7137c54c5c7a72ca67986a3cd9b0b6",
+  "slug": "nba-bkn-nyk-2024-11-15",
+  "question": "Nets vs. Knicks"
+}

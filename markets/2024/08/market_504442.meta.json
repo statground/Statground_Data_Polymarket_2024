@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T20:45:20.206889Z",
+  "market_createdAt": "2024-08-01T20:45:20.206889Z",
+  "market_updatedAt": "2024-09-02T06:46:57.538582Z",
+  "market_startDate": "2024-08-01T20:56:15.27Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 13:23:41+00",
+  "conditionId": "0xe015679a30773f85108054979bf6750f5eea12d897ac9b9e76357ee97f175b1c",
+  "slug": "will-kamala-say-couch-in-august",
+  "question": "Will Kamala say \"Couch\" in August?"
+}

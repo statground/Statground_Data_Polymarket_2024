@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:01:25.426780Z",
+  "market_createdAt": "2024-10-18T18:01:25.42678Z",
+  "market_updatedAt": "2024-10-21T04:10:54.766479Z",
+  "market_startDate": "2024-10-18T23:06:47.498696Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:14:08+00",
+  "conditionId": "0xc99dc9c42f28a48e510b811febd11bc0ab8423d8514d7d956dd165a766946d5f",
+  "slug": "will-kansas-state-beat-west-virginia-by-3-or-more-points",
+  "question": "Will Kansas State beat West Virginia by 3 or more points?"
+}

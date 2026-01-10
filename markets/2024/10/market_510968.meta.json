@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:43:10.231380Z",
+  "market_createdAt": "2024-10-25T18:43:10.23138Z",
+  "market_updatedAt": "2024-10-28T03:36:40.653056Z",
+  "market_startDate": "2024-10-25T22:25:58.963117Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 04:50:43+00",
+  "conditionId": "0x68069df40839011c3976338ac8efbe6de5bf2fc3a9a319f11efb971513e23007",
+  "slug": "will-miami-beat-florida-state-by-21-or-more-points",
+  "question": "Will Miami beat Florida State by 21 or more points?"
+}

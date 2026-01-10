@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:08:30.809201Z",
+  "market_createdAt": "2024-04-10T19:08:30.809201Z",
+  "market_updatedAt": "2024-07-02T03:20:55.574943Z",
+  "market_startDate": "2024-04-10T20:16:54.868Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 09:13:42+00",
+  "conditionId": "0x681178849efee4355b1b3ce433922451adc9e3704dd098a023d51537d4bb9e5e",
+  "slug": "partydao-airdrop-by-june-30",
+  "question": "PartyDAO airdrop by June 30?"
+}

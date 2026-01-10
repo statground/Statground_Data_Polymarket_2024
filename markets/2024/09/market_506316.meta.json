@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:02:32.465428Z",
+  "market_createdAt": "2024-09-03T19:02:32.465428Z",
+  "market_updatedAt": "2024-10-29T19:57:08.231694Z",
+  "market_startDate": "2024-09-04T00:28:07.775913Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-28 20:09:19+00",
+  "conditionId": "0xadc5b66649ae1804da1d1ca2fc7bae8c84ee11261f03a19a057b1b097a17d652",
+  "slug": "will-lionel-messi-win-the-ballon-dor",
+  "question": "Will Lionel Messi win the Ballon d’Or?"
+}

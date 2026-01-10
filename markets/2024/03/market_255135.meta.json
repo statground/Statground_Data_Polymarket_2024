@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:44:50.462000Z",
+  "market_createdAt": "2024-03-01T18:44:50.462Z",
+  "market_updatedAt": "2024-11-06T18:17:08.625127Z",
+  "market_startDate": "2024-03-28T19:37:23.076Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:34:56+00",
+  "conditionId": "0x0d4868c6a5a76f637314bfc3d888a3834da75f84a63b183307c413bbaf88f7a1",
+  "slug": "will-a-candidate-from-another-party-win-oklahoma-presidential-election",
+  "question": "Will a candidate from another party win Oklahoma Presidential Election?"
+}

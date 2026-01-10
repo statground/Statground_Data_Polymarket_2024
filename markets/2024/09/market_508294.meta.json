@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T20:12:32.070477Z",
+  "market_createdAt": "2024-09-26T20:12:32.070477Z",
+  "market_updatedAt": "2024-09-30T07:02:37.755335Z",
+  "market_startDate": "2024-09-27T16:36:04.484763Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 07:56:59+00",
+  "conditionId": "0x3cbc925d5f9c8f6634a2ea94a1fbfbd94a9e4f71623914fb21ce910b5d337ecd",
+  "slug": "will-utah-beat-arizona",
+  "question": "Will Utah beat Arizona?"
+}

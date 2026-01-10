@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:21:52.081093Z",
+  "market_createdAt": "2024-12-02T17:21:52.081093Z",
+  "market_updatedAt": "2024-12-04T04:47:10.764717Z",
+  "market_startDate": "2024-12-02T19:30:53.095714Z",
+  "market_endDate": "2024-12-02T12:00:00Z",
+  "market_closedTime": "2024-12-03 06:49:22+00",
+  "conditionId": "0x5e785373f5f834caa1e36e3092bdeec4494c58eb60ca9966447eb0a124b28600",
+  "slug": "will-the-broncos-beat-the-browns-by-7-or-more-points",
+  "question": "Will the Broncos beat the Browns by 7 or more points?"
+}

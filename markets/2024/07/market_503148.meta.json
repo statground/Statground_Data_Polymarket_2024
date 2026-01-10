@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T21:09:06.565385Z",
+  "market_createdAt": "2024-07-02T21:09:06.565385Z",
+  "market_updatedAt": "2024-07-07T03:55:44.585764Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:04:57+00",
+  "conditionId": "0x384817d41824abb5234dfad7cf82bab8f210f02ad98fc3965d408e063648d11a",
+  "slug": "will-biden-say-drop-out-in-abc-interview",
+  "question": "Will Biden say \"Drop out\" in ABC interview?"
+}

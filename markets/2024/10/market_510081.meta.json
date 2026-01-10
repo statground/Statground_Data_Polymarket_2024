@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T20:48:17.774874Z",
+  "market_createdAt": "2024-10-17T20:48:17.774874Z",
+  "market_updatedAt": "2024-10-19T02:02:40.751915Z",
+  "market_startDate": "2024-10-17T22:46:08.924263Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 05:50:59+00",
+  "conditionId": "0x29e99fe6c355a8e5b78cd003ba45ed4103ec005117d29fced9a1b83d45a83288",
+  "slug": "will-virginia-tech-beat-boston-college",
+  "question": "Will Virginia Tech beat Boston College?"
+}

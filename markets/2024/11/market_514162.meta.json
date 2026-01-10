@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T18:17:51.736564Z",
+  "market_createdAt": "2024-11-26T18:17:51.736564Z",
+  "market_updatedAt": "2025-02-25T12:39:36.431321Z",
+  "market_startDate": "2024-12-16T18:23:23.645Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:35:40+00",
+  "conditionId": "0x3f56bae1879b7336e2e77fd2955557216cd305cff2481844e799050b364a3ef8",
+  "slug": "will-afd-win-the-most-seats-in-the-next-german-election",
+  "question": "Will AfD win the most seats in the next German election?"
+}

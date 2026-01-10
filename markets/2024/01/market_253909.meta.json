@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T19:40:26.479000Z",
+  "market_createdAt": "2024-01-16T19:40:26.479Z",
+  "market_updatedAt": "2024-01-22T02:53:28.207Z",
+  "market_startDate": "2024-01-18T00:58:23.361Z",
+  "market_endDate": "2024-01-19T00:00:00Z",
+  "market_closedTime": "2024-01-21 08:46:46+00",
+  "conditionId": "0x3ba34cb38dfd9dfd63ee96d9dc3f36912fb7fe7f46cabb2582d5527eede6832d",
+  "slug": "ufc-297-will-strickland-win-by-finish",
+  "question": "UFC 297: Will Strickland win by finish?"
+}

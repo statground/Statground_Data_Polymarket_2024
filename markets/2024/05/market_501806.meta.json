@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T14:54:43.297914Z",
+  "market_createdAt": "2024-05-24T14:54:43.297914Z",
+  "market_updatedAt": "2024-06-01T18:06:17.349324Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-31 18:08:58+00",
+  "conditionId": "0x7453b847a9e7c6c599c9573c6298972e1ec2f5bb1769ecb664e9dba6e781c894",
+  "slug": "ethereum-above-3700-on-may-31",
+  "question": "Ethereum above $3,700 on May 31?"
+}

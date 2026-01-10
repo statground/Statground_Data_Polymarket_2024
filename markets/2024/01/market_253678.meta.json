@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:19:54.641000Z",
+  "market_createdAt": "2024-01-08T21:19:54.641Z",
+  "market_updatedAt": "2024-11-11T03:52:44.376045Z",
+  "market_startDate": "2024-01-10T01:40:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 07:02:41+00",
+  "conditionId": "0x2a9c818392b7e213bebe13ef773d2ecfe637221dbe04c4b9f47a3ce890f1cf4c",
+  "slug": "2024-presidential-election-gop-wins-by-35-64",
+  "question": "2024 presidential election: GOP wins by 35-64"
+}

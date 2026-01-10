@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T19:26:44.506659Z",
+  "market_createdAt": "2024-11-19T19:26:44.506659Z",
+  "market_updatedAt": "2024-11-24T00:54:44.060362Z",
+  "market_startDate": "2024-11-20T18:05:24.816225Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:25:31+00",
+  "conditionId": "0x1bf4adb406f19342ff158e0f146daa98d19d8032484ab525ba2fb8d32ac24c21",
+  "slug": "will-trump-nominate-balaji-for-cdc-director",
+  "question": "Will Trump nominate Balaji for CDC Director?"
+}

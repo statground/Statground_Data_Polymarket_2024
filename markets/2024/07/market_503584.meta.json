@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:53:01.819660Z",
+  "market_createdAt": "2024-07-16T18:53:01.81966Z",
+  "market_updatedAt": "2024-09-02T11:17:09.597357Z",
+  "market_startDate": "2024-07-16T18:53:01.81966Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 13:13:35+00",
+  "conditionId": "0x191eb8dd6e57b48f4836ac63215632f5da44e392096c53ef65e27192b7090909",
+  "slug": "fact-check-iran-behind-attempt-on-trump",
+  "question": "Fact Check: Iran behind attempt on Trump?"
+}

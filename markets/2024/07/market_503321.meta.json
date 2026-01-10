@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:36:33.626123Z",
+  "market_createdAt": "2024-07-09T15:36:33.626123Z",
+  "market_updatedAt": "2024-12-09T22:27:14.258584Z",
+  "market_startDate": "2024-07-09T15:36:33.626123Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-09 00:57:06+00",
+  "conditionId": "0x5bc9ab2b40953e2baf98609e054d089e87937b78a3c8a634cc1fc50c392166a4",
+  "slug": "will-the-jets-win-super-bowl-2025",
+  "question": "Will the Jets win Super Bowl 2025?"
+}

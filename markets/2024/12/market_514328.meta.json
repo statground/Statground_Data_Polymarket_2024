@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:01:14.074405Z",
+  "market_createdAt": "2024-12-01T06:01:14.074405Z",
+  "market_updatedAt": "2024-12-09T21:55:22.766429Z",
+  "market_startDate": "2024-12-01T06:04:46.724432Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 22:55:57+00",
+  "conditionId": "0x658b81d6d123ab39ea02d78b1dc386d2ced267f75a793c8e86d32a1d78a45022",
+  "slug": "nfl-jax-ten-2024-12-08",
+  "question": "Jaguars vs. Titans"
+}

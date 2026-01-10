@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T16:29:08.589384Z",
+  "market_createdAt": "2024-05-03T16:29:08.589384Z",
+  "market_updatedAt": "2024-05-12T03:33:57.735442Z",
+  "market_startDate": "2024-05-04T22:54:01.024Z",
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-11 06:04:12+00",
+  "conditionId": "0xbc390be18a428ea86395afdad2d362e3bb4f3da43c77e35a2fd6a868a0d36e2f",
+  "slug": "friendtech-5-by-next-friday",
+  "question": "$FRIEND hits $5 by Friday?"
+}

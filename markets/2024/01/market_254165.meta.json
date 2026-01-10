@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-26T16:11:29.580000Z",
+  "market_createdAt": "2024-01-26T16:11:29.58Z",
+  "market_updatedAt": "2024-05-07T23:09:47.208674Z",
+  "market_startDate": "2024-02-27T19:17:00Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 20:05:51+00",
+  "conditionId": "0x2810294fd661eae12ca2d889d9126fbf6716b8209ff11ec719989ede5766a534",
+  "slug": "istanbul-mayoral-election-2024-will-chp-win",
+  "question": "Istanbul Mayoral Election 2024: Will CHP win?"
+}

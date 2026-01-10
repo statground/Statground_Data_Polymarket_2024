@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T15:32:18.853243Z",
+  "market_createdAt": "2024-10-21T15:32:18.853243Z",
+  "market_updatedAt": "2024-11-01T05:56:45.525842Z",
+  "market_startDate": "2024-10-21T16:40:23.829Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-31 06:04:54+00",
+  "conditionId": "0x7a142e157db56065f009e2e0c4914a22e9efc7adfd53a626da2ac3ecba42a6ce",
+  "slug": "world-series-champion-dodgers-vs-yankees",
+  "question": "World Series Champion: Dodgers vs. Yankees"
+}

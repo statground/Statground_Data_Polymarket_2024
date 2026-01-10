@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-21T16:14:44.061893Z",
+  "market_createdAt": "2024-03-21T16:14:44.061893Z",
+  "market_updatedAt": "2024-05-07T23:09:52.048277Z",
+  "market_startDate": "2024-03-22T18:58:26.658Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-02 04:41:08+00",
+  "conditionId": "0x9d9847e937006dc89e52990ab5d06a3fe5591c854f832733ffb40d0421e128fb",
+  "slug": "will-lsuwin-the-ncaa-tournament-women",
+  "question": "Will LSU win the Women's NCAA tournament?"
+}

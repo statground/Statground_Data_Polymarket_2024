@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:28:20.618712Z",
+  "market_createdAt": "2024-06-14T15:28:20.618712Z",
+  "market_updatedAt": "2024-06-21T05:01:15.147943Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-21 00:03:25+00",
+  "conditionId": "0x26534e91178e5c14d3fb81fda7f843c65188ddf2dfb4d34fa2d83bc3e6d72531",
+  "slug": "will-croatia-win-group-b",
+  "question": "Will Croatia win Group B?"
+}

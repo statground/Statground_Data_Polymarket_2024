@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T22:52:47.098000Z",
+  "market_createdAt": "2024-02-26T22:52:47.098Z",
+  "market_updatedAt": "2024-04-26T02:59:30.359011Z",
+  "market_startDate": "2024-02-27T00:00:22.42Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-05 07:01:00+00",
+  "conditionId": "0x02f0f41b99fbc4321f21972c76c9f6c473ed61412e978d39e31106a12e205614",
+  "slug": "israel-x-hamas-ceasefire-by-monday",
+  "question": "Israel x Hamas ceasefire by Monday?"
+}

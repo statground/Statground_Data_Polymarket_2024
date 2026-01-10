@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:25:01.678242Z",
+  "market_createdAt": "2024-09-17T17:25:01.678242Z",
+  "market_updatedAt": "2025-01-23T00:44:56.310067Z",
+  "market_startDate": "2024-09-17T18:16:07.986585Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-01-22 03:44:11+00",
+  "conditionId": "0x0e521f1ab1dfa3a37423f2ee229f7fc4907a9ef52fade96d112f11aa35591b71",
+  "slug": "will-bologna-win-the-uefa-champions-league",
+  "question": "Will Bologna win the UEFA Champions League? "
+}

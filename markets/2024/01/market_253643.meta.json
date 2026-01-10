@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T19:57:16.190000Z",
+  "market_createdAt": "2024-01-06T19:57:16.19Z",
+  "market_updatedAt": "2024-11-07T19:49:03.460166Z",
+  "market_startDate": "2024-01-06T20:13:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-06 19:50:06+00",
+  "conditionId": "0x73ac4c1e5be0a89685328c9f5b833d828ffd62dfa07ceaf8536edbc43aa5f51e",
+  "slug": "will-kanye-west-win-the-2024-us-presidential-election",
+  "question": "Will Kanye West win the 2024 US Presidential Election?"
+}

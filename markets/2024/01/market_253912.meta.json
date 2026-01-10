@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T20:08:21.040000Z",
+  "market_createdAt": "2024-01-16T20:08:21.04Z",
+  "market_updatedAt": "2025-01-02T07:47:06.338309Z",
+  "market_startDate": "2024-01-17T16:43:29.597Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:02:28+00",
+  "conditionId": "0x2c2dc19efecfd9943c54e116f3a07f57026d3f38ad7c6e0019c628baceb5bc14",
+  "slug": "will-usdc-flip-usdt-in-market-cap-in-2024",
+  "question": "Will USDC flip USDT in market cap in 2024?"
+}

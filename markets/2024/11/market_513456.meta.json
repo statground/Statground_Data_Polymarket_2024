@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T17:39:36.756378Z",
+  "market_createdAt": "2024-11-19T17:39:36.756378Z",
+  "market_updatedAt": "2025-01-21T20:13:05.603428Z",
+  "market_startDate": "2024-11-19T21:13:36.823Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:14:19+00",
+  "conditionId": "0x2afaf05d0c34d7929fa44e9aa8f8c872ef09027ac60f8760e24c888cd163ba78",
+  "slug": "will-biden-pardon-julian-assange",
+  "question": "Will Biden pardon Julian Assange?"
+}

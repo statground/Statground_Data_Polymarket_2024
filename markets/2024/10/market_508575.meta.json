@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:34:51.512720Z",
+  "market_createdAt": "2024-10-01T18:34:51.51272Z",
+  "market_updatedAt": "2024-10-06T17:20:49.315845Z",
+  "market_startDate": "2024-10-02T15:20:40.894254Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:06:35+00",
+  "conditionId": "0x5c7602a4d5fe8bcbbe39090ad8218ed117342c1e03023c50b3f264db17aed99e",
+  "slug": "will-west-ham-beat-ipswich-town",
+  "question": "Will West Ham beat Ipswich Town?"
+}

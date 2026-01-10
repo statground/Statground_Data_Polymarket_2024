@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:57:40.592489Z",
+  "market_createdAt": "2024-06-25T15:57:40.592489Z",
+  "market_updatedAt": "2024-07-15T21:12:49.631176Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:47:10+00",
+  "conditionId": "0xcb868cfd395926c78cad5726a2f57902c2bb26ad7b30ddfd7828050908ed68be",
+  "slug": "will-kylian-mbappe-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Kylian Mbappe be Player of the Tournament for Euro 2024?"
+}

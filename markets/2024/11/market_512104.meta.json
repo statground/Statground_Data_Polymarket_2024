@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:06:36.085411Z",
+  "market_createdAt": "2024-11-05T21:06:36.085411Z",
+  "market_updatedAt": "2024-11-08T21:47:07.297541Z",
+  "market_startDate": "2024-11-07T02:55:44.329477Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:17+00",
+  "conditionId": "0x04be1a6ccc0e6a40099528652d50f71ba64dfb263ce11818ea28db0a7da9b0f6",
+  "slug": "will-fcsb-beat-midtjylland",
+  "question": "Will FCSB beat Midtjylland?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:48:03.740952Z",
+  "market_createdAt": "2024-07-29T20:48:03.740952Z",
+  "market_updatedAt": "2024-08-11T08:22:56.68877Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 19:53:19+00",
+  "conditionId": "0x5a26d3bdaed16fdf047e2d22ecce1459ed0eeb1c08dff8b27556e22d1b1dc272",
+  "slug": "will-hannah-green-win-gold-in-womens-golf",
+  "question": "Will Hannah Green win Gold in Women's Golf?"
+}

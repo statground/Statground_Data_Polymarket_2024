@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:35:32.255544Z",
+  "market_createdAt": "2024-08-19T16:35:32.255544Z",
+  "market_updatedAt": "2024-09-04T22:07:14.968123Z",
+  "market_startDate": "2024-08-19T16:35:32.255544Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-04 00:36:10+00",
+  "conditionId": "0xed4914ff980f85eb6a166e77101c0f2af28ce90a94f9c3ca5241f7ee72991a87",
+  "slug": "will-alexander-zverev-win-the-us-open",
+  "question": "Will Alexander Zverev win the US Open?"
+}

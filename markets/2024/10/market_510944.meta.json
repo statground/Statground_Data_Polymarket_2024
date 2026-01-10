@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:05:15.466015Z",
+  "market_createdAt": "2024-10-25T18:05:15.466015Z",
+  "market_updatedAt": "2024-10-27T23:16:52.25612Z",
+  "market_startDate": "2024-10-25T22:14:33.525553Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:29:56+00",
+  "conditionId": "0xa0d7ed3366333d46782b25009539e7f5374b09e00bbbe0080c0b2a6895eae728",
+  "slug": "will-alabama-beat-missouri",
+  "question": "Will Alabama beat Missouri?"
+}

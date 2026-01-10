@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:46:50.197117Z",
+  "market_createdAt": "2024-04-04T15:46:50.197117Z",
+  "market_updatedAt": "2024-11-07T21:13:04.584521Z",
+  "market_startDate": "2024-04-12T19:52:42.271Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:38:34+00",
+  "conditionId": "0x19fd760fd2063713306aa907c5074ef3792e41065b51c32caa2d35870705126d",
+  "slug": "will-a-candidate-from-another-party-win-new-mexico-us-senate-election",
+  "question": "Will a candidate from another party win New Mexico US Senate Election?"
+}

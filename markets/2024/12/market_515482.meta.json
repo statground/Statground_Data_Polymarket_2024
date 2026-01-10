@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:50:23.059312Z",
+  "market_createdAt": "2024-12-11T23:50:23.059312Z",
+  "market_updatedAt": "2024-12-16T04:03:23.849596Z",
+  "market_startDate": "2024-12-13T23:11:31.810843Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 04:11:09+00",
+  "conditionId": "0x06f76be4a6723878a3463b81fc8c5ecd0798472c64e68379b9b632a6556a933b",
+  "slug": "johns-vs-lima",
+  "question": "Johns vs. Lima"
+}

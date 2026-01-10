@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:07:26.416171Z",
+  "market_createdAt": "2024-12-22T05:07:26.416171Z",
+  "market_updatedAt": "2024-12-28T05:47:12.730353Z",
+  "market_startDate": "2024-12-22T05:09:57.140878Z",
+  "market_endDate": "2025-01-03T01:00:00Z",
+  "market_closedTime": "2024-12-27 05:44:00+00",
+  "conditionId": "0xd78581d6ff039c2cec26a64f3663ad38f4a987d1bda1bb283874c3819b0506e7",
+  "slug": "nba-tor-mem-2024-12-26",
+  "question": "Raptors vs. Grizzlies"
+}

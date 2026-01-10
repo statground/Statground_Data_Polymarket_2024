@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T20:51:05.560300Z",
+  "market_createdAt": "2024-12-13T20:51:05.5603Z",
+  "market_updatedAt": "2024-12-16T01:29:37.125154Z",
+  "market_startDate": "2024-12-13T20:58:12.138Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-15 02:24:08+00",
+  "conditionId": "0x9ea8755798df440eb9d1b00d6ce1252c630d5a3e7711119bbc02a332382748ff",
+  "slug": "will-trump-tweet-4-times-dec-13-20",
+  "question": "Will Trump tweet 4+ times by next Friday?"
+}

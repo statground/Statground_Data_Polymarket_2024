@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:32:35.173171Z",
+  "market_createdAt": "2024-11-01T19:32:35.173171Z",
+  "market_updatedAt": "2024-11-04T19:57:21.247825Z",
+  "market_startDate": "2024-11-02T21:35:05.067642Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:36:22+00",
+  "conditionId": "0x51c3cdd60f5300cdf8e1db6057c7c45ee29e578851bf8b570f0d22f33caee690",
+  "slug": "will-the-rams-and-seahawks-combine-for-48-or-more-points",
+  "question": "Will the Rams and Seahawks combine for 48 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T15:08:40.361921Z",
+  "market_createdAt": "2024-05-20T15:08:40.361921Z",
+  "market_updatedAt": "2024-06-08T09:31:13.847529Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 15:48:12+00",
+  "conditionId": "0xd098c0bb5ffbfd42e7994441fa5f261998f7ace9033078a505ca34e3bd9bd037",
+  "slug": "will-us-add-between-150-200k-jobs-in-may",
+  "question": "Will US add between 150-200k jobs in May?"
+}

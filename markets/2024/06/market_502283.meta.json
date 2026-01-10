@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T20:01:12.293975Z",
+  "market_createdAt": "2024-06-10T20:01:12.293975Z",
+  "market_updatedAt": "2024-07-01T15:10:59.090829Z",
+  "market_startDate": "2024-06-12T20:25:49.282Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 07:00:35+00",
+  "conditionId": "0x726314a1fcc05d68fed64866bc404d3b9f0be759b1094a1437cb9a2f7a5ecf6c",
+  "slug": "another-record-low-biden-approval-rating-in-june",
+  "question": "Another record low Biden approval rating in June?"
+}

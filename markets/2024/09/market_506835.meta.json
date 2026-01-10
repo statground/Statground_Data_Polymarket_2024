@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:34:21.242951Z",
+  "market_createdAt": "2024-09-11T16:34:21.242951Z",
+  "market_updatedAt": "2024-09-15T05:23:03.810086Z",
+  "market_startDate": "2024-09-11T23:05:35.449742Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 05:16:48+00",
+  "conditionId": "0x6d4b28478b43a12792dbda87288da726744d2fcfccefbdb62a08430efcb85030",
+  "slug": "will-trump-say-moderator-during-his-nevada-rally",
+  "question": "Will Trump say \"moderator\" during his Nevada rally?"
+}

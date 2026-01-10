@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:22:54.410034Z",
+  "market_createdAt": "2024-10-25T18:22:54.410034Z",
+  "market_updatedAt": "2024-10-27T17:42:50.569958Z",
+  "market_startDate": "2024-10-25T22:21:13.884173Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:10:34+00",
+  "conditionId": "0x16e020b265baa05d5a9d45a088e31458165f1b3c661b510d1c515ef3acfdc8b7",
+  "slug": "will-there-be-55-or-more-combined-points-scored-BYU-UCF",
+  "question": "Will there be 55 or more combined points scored?"
+}

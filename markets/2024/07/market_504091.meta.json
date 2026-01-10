@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T15:54:06.932840Z",
+  "market_createdAt": "2024-07-25T15:54:06.93284Z",
+  "market_updatedAt": "2024-08-03T20:47:05.812265Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:14:22+00",
+  "conditionId": "0x42b211c58e071ceee79b9c57deff6e578ce637eb877a0cf0598807f504c2f2b1",
+  "slug": "will-leon-marchand-fra-win-gold-in-mens-200m-individual-medley",
+  "question": "Will Leon Marchand (FRA) win Gold in Men's 200m Individual Medley?"
+}

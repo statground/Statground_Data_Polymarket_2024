@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:05:14.989021Z",
+  "market_createdAt": "2024-07-19T18:05:14.989021Z",
+  "market_updatedAt": "2024-07-30T22:28:01.067522Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:25:03+00",
+  "conditionId": "0xe509f74f8cf036ae197a0bb032548a3a7b75bc8305a7803451d90ca0e4d92579",
+  "slug": "will-giacomo-carini-ita-win-gold-in-mens-200m-butterfly",
+  "question": "Will Giacomo Carini (ITA) win Gold in Men's 200m Butterfly?"
+}

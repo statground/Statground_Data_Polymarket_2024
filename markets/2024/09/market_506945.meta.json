@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:40:43.448661Z",
+  "market_createdAt": "2024-09-12T21:40:43.448661Z",
+  "market_updatedAt": "2024-09-15T20:23:04.393498Z",
+  "market_startDate": "2024-09-12T22:28:40.663088Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 21:26:23+00",
+  "conditionId": "0x39a7ed1f937a276b788d0b186c1b91d535b1a1cf66187b689e7749648b58506a",
+  "slug": "will-there-be-63-or-more-combined-points-scored-okst-tul",
+  "question": "Will there be 63 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:59:42.472666Z",
+  "market_createdAt": "2024-07-01T15:59:42.472666Z",
+  "market_updatedAt": "2024-07-06T20:45:47.272477Z",
+  "market_startDate": "2024-07-01T19:31:19.376Z",
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 20:40:21+00",
+  "conditionId": "0x6c66f8573f7684626df3e7915af5475893ec66d2ad7fb417781212ac3a0aa02f",
+  "slug": "spain-vs-germany-who-will-advance",
+  "question": "Spain vs. Germany - Who will advance?"
+}

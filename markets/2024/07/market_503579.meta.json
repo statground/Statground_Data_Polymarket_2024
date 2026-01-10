@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:34:57.006117Z",
+  "market_createdAt": "2024-07-16T18:34:57.006117Z",
+  "market_updatedAt": "2024-07-20T04:48:40.422734Z",
+  "market_startDate": "2024-07-16T21:12:44.551Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:24:16+00",
+  "conditionId": "0xb84cbe3091c667e5ac7e40c13d86ccc161e2370c01257e72f94def97e1c5d9ce",
+  "slug": "will-trump-say-crack-during-rnc-speech",
+  "question": "Will Trump say \"crack\" during RNC speech?"
+}

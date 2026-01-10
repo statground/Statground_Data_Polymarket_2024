@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:55:58.728703Z",
+  "market_createdAt": "2024-08-21T20:55:58.728703Z",
+  "market_updatedAt": "2024-08-24T22:06:55.565871Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 22:04:21+00",
+  "conditionId": "0x31e61aefb8bbddb371e3bd58609f3ef53c2695d8f96364c9560ed6fd36ca6634",
+  "slug": "will-rfk-jr-say-woke-during-friday-address",
+  "question": "Will RFK Jr. say \"Woke\" during Friday address?"
+}

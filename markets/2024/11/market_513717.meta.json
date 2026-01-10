@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T17:01:16.671988Z",
+  "market_createdAt": "2024-11-22T17:01:16.671988Z",
+  "market_updatedAt": "2025-06-25T20:34:48.688275Z",
+  "market_startDate": "2024-11-22T18:14:22.92Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:36+00",
+  "conditionId": "0x7716068dbaff8bf09bfcf73376063fe0ec974cc19dc4751a650426989a56d6cb",
+  "slug": "70f-in-nyc-in-december",
+  "question": "70°F in NYC in December?"
+}

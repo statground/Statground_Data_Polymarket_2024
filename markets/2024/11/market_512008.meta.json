@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:46:11.162523Z",
+  "market_createdAt": "2024-11-05T04:46:11.162523Z",
+  "market_updatedAt": "2024-11-07T22:43:04.4972Z",
+  "market_startDate": "2024-11-05T20:19:32.793841Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:09:36+00",
+  "conditionId": "0xc5a11b603f7bcdb1a028be7e6876c64242c993923567f90738bbb2b771bc8efe",
+  "slug": "will-sparta-praha-beat-stade-brestois",
+  "question": "Will Sparta Praha beat Stade Brestois?"
+}

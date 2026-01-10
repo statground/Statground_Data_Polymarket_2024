@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T22:29:52.095689Z",
+  "market_createdAt": "2024-09-23T22:29:52.095689Z",
+  "market_updatedAt": "2024-09-26T16:32:46.397159Z",
+  "market_startDate": "2024-09-24T15:45:09.518769Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-25 16:25:15+00",
+  "conditionId": "0x342da27fe0ffe414a4f5ec9a4d63da9bd31aa9aa9ccf32f801ffcfa164cded86",
+  "slug": "will-zelensky-say-slava-ukraini-during-his-un-address",
+  "question": "Will Zelensky say \"slava Ukraini\" during his UN address?"
+}

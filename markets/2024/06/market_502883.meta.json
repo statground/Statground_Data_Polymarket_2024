@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T18:44:05.527238Z",
+  "market_createdAt": "2024-06-25T18:44:05.527238Z",
+  "market_updatedAt": "2024-06-27T19:31:08.092162Z",
+  "market_startDate": "2024-06-25T18:55:04.468Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 21:14:51+00",
+  "conditionId": "0xe04063d8056e341a323dc68a45e19e88b2bb8e7d6981225b6784b49157b1c385",
+  "slug": "will-romania-win-june-26",
+  "question": "Will Romania win?"
+}

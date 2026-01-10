@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T22:08:04.308524Z",
+  "market_createdAt": "2024-07-03T22:08:04.308524Z",
+  "market_updatedAt": "2024-07-07T22:05:48.678773Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-06 22:55:29+00",
+  "conditionId": "0x2f86ec3a1da10fb6011e11060d75c3c9665a94773adf935daf7de4c805cf09c7",
+  "slug": "netherlands-vs-turkey-who-will-advance",
+  "question": "Netherlands vs. Turkey - Who will advance? "
+}

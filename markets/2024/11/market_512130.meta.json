@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:53:35.474507Z",
+  "market_createdAt": "2024-11-05T21:53:35.474507Z",
+  "market_updatedAt": "2024-11-08T21:47:07.871166Z",
+  "market_startDate": "2024-11-07T03:06:43.894551Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:10:47+00",
+  "conditionId": "0x70a3cdfbccea785d4e36327c799b0aefc74752d419fa60662f2792ec9174798f",
+  "slug": "will-fenerbahce-beat-az-alkmaar",
+  "question": "Will Fenerbahce beat AZ Alkmaar?"
+}

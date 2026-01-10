@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:41:51.357312Z",
+  "market_createdAt": "2024-10-31T15:41:51.357312Z",
+  "market_updatedAt": "2024-11-04T04:36:48.776079Z",
+  "market_startDate": "2024-11-01T14:32:58.711Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 04:40:50+00",
+  "conditionId": "0x068f44f5be03eeb04bbacca2ee9968160333d6a7ae8d8ec0af1e0e04372ef871",
+  "slug": "will-trump-say-border-20-or-more-during-greensboro-nc-rally",
+  "question": "Will Trump say \"border\" 20 or more during Greensboro, NC rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-05T23:33:11.866283Z",
+  "market_createdAt": "2024-10-05T23:33:11.866283Z",
+  "market_updatedAt": "2024-10-10T22:50:48.002571Z",
+  "market_startDate": "2024-10-06T01:46:38.414Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-10 00:21:03+00",
+  "conditionId": "0xc37c9e3950a3e1b79c5b4ea4a5d70bdd13edeaed37a72c56735131834a0502fb",
+  "slug": "wnba-sun-vs-lynx-game-3",
+  "question": "WNBA: Sun vs. Lynx Game 4"
+}

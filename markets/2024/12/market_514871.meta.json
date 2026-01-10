@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514871",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:23:42.390431Z",
+  "market_createdAt": "2024-12-05T21:23:42.390431Z",
+  "market_updatedAt": "2024-12-09T18:53:17.116109Z",
+  "market_startDate": "2024-12-05T22:55:10.786Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:43:25+00",
+  "conditionId": "0x1afae63caf9f7a871dc1215dec0237a236008c7ef616d7b541fe72a6618fcc83",
+  "slug": "will-trump-say-taiwan-during-nbc-interview",
+  "question": "Will Trump say \"Taiwan\" during NBC interview?"
+}

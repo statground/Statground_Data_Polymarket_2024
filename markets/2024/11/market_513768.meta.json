@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:00:44.143785Z",
+  "market_createdAt": "2024-11-24T05:00:44.143785Z",
+  "market_updatedAt": "2024-11-30T22:35:21.376011Z",
+  "market_startDate": "2024-11-24T05:03:11.941198Z",
+  "market_endDate": "2024-12-06T17:00:00Z",
+  "market_closedTime": "2024-11-29 22:46:03+00",
+  "conditionId": "0xb2f6669a6edfda79c036f337a13940ee1486e22f0fee99a34933b702cd9ff8f8",
+  "slug": "cfb-minn-wis-2024-11-29",
+  "question": "Minnesota vs. Wisconsin"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:58:16.684759Z",
+  "market_createdAt": "2024-11-02T21:58:16.684759Z",
+  "market_updatedAt": "2024-11-05T04:37:06.051354Z",
+  "market_startDate": "2024-11-02T23:23:29.876Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:35:32+00",
+  "conditionId": "0x1249219602ccff0bfa1df3466fa83751f95f783f218fea4ee935fd80b83d2cfe",
+  "slug": "will-trump-say-garbage-during-macon-ga-rally",
+  "question": "Will Trump say \"Garbage\" during Macon, GA rally?"
+}

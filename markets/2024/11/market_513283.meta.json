@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:05:44.446798Z",
+  "market_createdAt": "2024-11-17T05:05:44.446798Z",
+  "market_updatedAt": "2024-11-23T05:04:52.014184Z",
+  "market_startDate": "2024-11-17T05:08:41.098133Z",
+  "market_endDate": "2024-11-29T00:00:00Z",
+  "market_closedTime": "2024-11-22 04:59:47+00",
+  "conditionId": "0x61d37a12a060883b4a1baa7a6e02654748b7017f96ae6d89319a31e3fac5a71c",
+  "slug": "nba-det-cha-2024-11-21",
+  "question": "Pistons vs. Hornets"
+}

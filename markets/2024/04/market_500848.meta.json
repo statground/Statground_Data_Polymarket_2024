@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T21:44:31.265777Z",
+  "market_createdAt": "2024-04-09T21:44:31.265777Z",
+  "market_updatedAt": "2024-05-07T23:09:43.392546Z",
+  "market_startDate": "2024-04-09T23:15:26.735Z",
+  "market_endDate": "2024-04-10T12:00:00Z",
+  "market_closedTime": "2024-04-11 00:04:16+00",
+  "conditionId": "0x439330109bc1696f96a56a1ae63e3bb1524239cd0b8e1a0629700d0b2baeda4a",
+  "slug": "will-barcelona-win-against-psg-4102024",
+  "question": "Will Barcelona win against PSG? "
+}

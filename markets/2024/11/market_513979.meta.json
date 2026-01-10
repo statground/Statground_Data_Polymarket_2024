@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:13:07.367185Z",
+  "market_createdAt": "2024-11-25T19:13:07.367185Z",
+  "market_updatedAt": "2024-12-20T21:53:01.275979Z",
+  "market_startDate": "2024-11-25T22:13:27.147Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:07:57+00",
+  "conditionId": "0x19da6b01b93a3f7253c76ceb9117c7db771a053a7409f4261119fc68613b0a2f",
+  "slug": "will-brett-be-listed-first-on-robinhood",
+  "question": "Will $BRETT be listed first on Robinhood?"
+}

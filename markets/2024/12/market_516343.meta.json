@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T18:22:02.539385Z",
+  "market_createdAt": "2024-12-23T18:22:02.539385Z",
+  "market_updatedAt": "2025-01-01T23:09:13.765339Z",
+  "market_startDate": "2024-12-23T19:21:54.991Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:18:09+00",
+  "conditionId": "0xb2b5c2e18ad5e98ad571e3da70ad24ace6a0edacf7e3458e2ffdcd9e62b6090d",
+  "slug": "will-hans-niemann-win-the-2024-world-blitz-championship",
+  "question": "Will Hans Niemann win the 2024 World Blitz Championship?"
+}

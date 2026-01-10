@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:51:31.213650Z",
+  "market_createdAt": "2024-07-25T16:51:31.21365Z",
+  "market_updatedAt": "2024-07-28T17:41:03.897579Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:41:57+00",
+  "conditionId": "0x0469e4172a0192961580949277d2841cd324aada6daf73a8fd6bc5baf89eb0b7",
+  "slug": "will-another-athlete-win-gold-in-mens-400m-freestyle",
+  "question": "Will another athlete win Gold in Men's 400m Freestyle?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T18:44:43.561902Z",
+  "market_createdAt": "2024-05-10T18:44:43.561902Z",
+  "market_updatedAt": "2024-05-18T17:24:31.645246Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-17 18:09:40+00",
+  "conditionId": "0x6a2b6d9e220840c660f9ac22b11e09695f0dc69eb24a7a0b3c11506b899a2d98",
+  "slug": "bitcoin-above-60000-on-may-17",
+  "question": "Bitcoin above $60,000 on May 17?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:20:25.911366Z",
+  "market_createdAt": "2024-12-10T22:20:25.911366Z",
+  "market_updatedAt": "2024-12-13T22:31:20.016089Z",
+  "market_startDate": "2024-12-11T23:10:38.95406Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:18:45+00",
+  "conditionId": "0x4b34571e1e41bb5ffff9ffb28f5e097f105d502ec1f2569ab89aed9c4a1655f8",
+  "slug": "will-the-match-between-lyon-and-eintracht-frankfurt-end-in-a-draw",
+  "question": "Will the match between Lyon and Frankfurt end in a draw?"
+}

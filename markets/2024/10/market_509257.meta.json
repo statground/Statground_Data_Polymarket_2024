@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:47:57.225640Z",
+  "market_createdAt": "2024-10-08T16:47:57.22564Z",
+  "market_updatedAt": "2024-10-20T16:46:47.023609Z",
+  "market_startDate": "2024-10-08T16:49:34.969871Z",
+  "market_endDate": "2024-10-19T11:30:00Z",
+  "market_closedTime": "2024-10-19 16:47:48+00",
+  "conditionId": "0x578c37e0b9eb2db4b04a07b766e238e88e0a2b1886e6e9088034582a0db62a94",
+  "slug": "epl-tot-wes-2024-10-19-draw",
+  "question": "Will Spurs vs. West Ham end in a draw?"
+}

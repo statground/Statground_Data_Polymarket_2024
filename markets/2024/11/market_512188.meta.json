@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:12:34.556372Z",
+  "market_createdAt": "2024-11-06T18:12:34.556372Z",
+  "market_updatedAt": "2024-11-16T00:23:12.339068Z",
+  "market_startDate": "2024-11-06T18:39:24.76Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:36:52+00",
+  "conditionId": "0x150c638f7d9b363454b82dee9de0dbf98ed987e1a1fbd8791d01e0dc6eab8d40",
+  "slug": "will-trump-nominate-ric-grenell-for-secretary-of-state",
+  "question": "Will Trump nominate Ric Grenell for Secretary of State?"
+}

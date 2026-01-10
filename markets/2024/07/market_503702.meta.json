@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T15:43:33.925128Z",
+  "market_createdAt": "2024-07-18T15:43:33.925128Z",
+  "market_updatedAt": "2024-07-22T21:48:41.057632Z",
+  "market_startDate": "2024-07-18T16:26:21.201Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:46:30+00",
+  "conditionId": "0x48d8eabb731cb8c6e2ced0c6b275558266e7b205ff8bb98aad2538c0e84feb7a",
+  "slug": "will-biden-drop-out-on-july-24",
+  "question": "Will Biden drop out on July 24?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T20:15:08.350520Z",
+  "market_createdAt": "2024-09-30T20:15:08.35052Z",
+  "market_updatedAt": "2024-10-03T20:26:41.946928Z",
+  "market_startDate": "2024-09-30T22:25:56.130232Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 00:28:18+00",
+  "conditionId": "0x26c6f2c27f500f3130a48c641234341e9bb2c2d8f9c64c2e52c178ef0ce63d18",
+  "slug": "will-monaco-beat-dinamo-zagreb",
+  "question": "Will Monaco beat Dinamo Zagreb?"
+}

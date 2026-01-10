@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:02:16.211635Z",
+  "market_createdAt": "2024-12-15T07:02:16.211635Z",
+  "market_updatedAt": "2024-12-19T04:37:34.880812Z",
+  "market_startDate": "2024-12-15T07:04:55.963471Z",
+  "market_endDate": "2024-12-25T01:00:00Z",
+  "market_closedTime": "2024-12-18 05:57:06+00",
+  "conditionId": "0xf4b65538a357cf59a3b198f92c37befcfc2ad865e4c010f44083855c3a3d3143",
+  "slug": "nhl-nj-stl-2024-12-17",
+  "question": "Devils vs. Blues"
+}

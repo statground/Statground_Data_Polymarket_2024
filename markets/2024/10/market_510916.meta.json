@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:41:43.745463Z",
+  "market_createdAt": "2024-10-25T15:41:43.745463Z",
+  "market_updatedAt": "2024-10-26T08:13:30.905636Z",
+  "market_startDate": "2024-10-25T22:42:39.864527Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 08:10:26+00",
+  "conditionId": "0x511d2f2adaef28ac10a10c26567755292eeab390446e9b0314943d44bdabdb64",
+  "slug": "will-there-be-65-or-more-combined-points-scored-Boise-St-UNLV",
+  "question": "Will there be 65 or more combined points scored?"
+}

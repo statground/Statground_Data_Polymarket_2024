@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:18:45.877567Z",
+  "market_createdAt": "2024-07-10T16:18:45.877567Z",
+  "market_updatedAt": "2024-08-12T16:56:48.447383Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:15:50+00",
+  "conditionId": "0xd5753e57cf9882fe4bbfdc7d347df1bd31777f2cdbe97a13e41285639fad832f",
+  "slug": "china-wins-the-most-medals-in-2024-paris-olympics",
+  "question": "China wins the most medals in 2024 Paris Olympics?"
+}

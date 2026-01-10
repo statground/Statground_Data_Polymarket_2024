@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:49:22.456842Z",
+  "market_createdAt": "2024-12-30T22:49:22.456842Z",
+  "market_updatedAt": "2025-09-20T00:47:45.243122Z",
+  "market_startDate": "2024-12-31T16:27:08.643Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-09-18 18:11:04+00",
+  "conditionId": "0xa64b6a05ed2aa20d2cb6c373314c0d9931acbd24e7fe95bd1920784b23ab9da0",
+  "slug": "ripple-etf-approved-in-2025",
+  "question": "Ripple ETF approved in 2025?"
+}

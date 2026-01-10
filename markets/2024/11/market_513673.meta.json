@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:28:32.001832Z",
+  "market_createdAt": "2024-11-21T22:28:32.001832Z",
+  "market_updatedAt": "2024-12-13T08:02:54.554029Z",
+  "market_startDate": "2024-11-25T18:38:59.477709Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-12 08:29:21+00",
+  "conditionId": "0x7616cb5e0c32c142782a53e9f7ea637bcf76699db5924713650a8de91a99414e",
+  "slug": "will-the-golden-state-warriors-win-the-2024-nba-cup",
+  "question": "Will the Golden State Warriors win the 2024 NBA Cup?"
+}

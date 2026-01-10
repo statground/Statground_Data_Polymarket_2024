@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:25:50.522649Z",
+  "market_createdAt": "2024-10-11T15:25:50.522649Z",
+  "market_updatedAt": "2024-10-13T19:20:53.186558Z",
+  "market_startDate": "2024-10-11T19:00:03.916866Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:26:29+00",
+  "conditionId": "0x474dc1758032a3b0bfad76d0b605b69263bbc6589aa567e4415366b50bc5135d",
+  "slug": "will-illinois-beat-purdue-by-22-or-more-points",
+  "question": "Will Illinois beat Purdue by 22 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:50:51.949065Z",
+  "market_createdAt": "2024-10-10T19:50:51.949065Z",
+  "market_updatedAt": "2024-10-20T17:32:45.704697Z",
+  "market_startDate": "2024-10-10T19:52:19.577813Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:23:18+00",
+  "conditionId": "0xc939e2bbf803fc2381929049731f2bf6c4aa4d6d50facb3a4b47924aff94412d",
+  "slug": "epl-ful-ast-2024-10-19-ast",
+  "question": "Will Villa win on 2024-10-19?"
+}

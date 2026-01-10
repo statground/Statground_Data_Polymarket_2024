@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-04T21:41:22.524850Z",
+  "market_createdAt": "2024-05-04T21:41:22.52485Z",
+  "market_updatedAt": "2024-05-07T23:09:12.697831Z",
+  "market_startDate": "2024-05-04T21:46:02.501Z",
+  "market_endDate": "2024-05-05T12:00:00Z",
+  "market_closedTime": "2024-05-05 21:52:25+00",
+  "conditionId": "0xf2dafe15b37649d4c845cc33e637c8741931242276a59d247e96b69ff0b6bad6",
+  "slug": "nba-cle-orl-2024-05-05",
+  "question": "Cavaliers vs. Magic: Game 7"
+}

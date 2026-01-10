@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T17:58:06.677188Z",
+  "market_createdAt": "2024-10-14T17:58:06.677188Z",
+  "market_updatedAt": "2024-10-17T04:36:53.784808Z",
+  "market_startDate": "2024-10-14T23:51:11.353Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 05:00:36+00",
+  "conditionId": "0x1ad9bd4d7e7f1d62f6cc4fdd3c6dd804300b8308208b5e1dcd0c371c1e4f8906",
+  "slug": "will-trump-say-maga-or-make-america-great-again-3-or-more-times-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say  \"MAGA\" or \"make America great again\" 3 or more times during Georgia speech on Oct 15?"
+}

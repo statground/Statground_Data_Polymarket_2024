@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:17:11.792890Z",
+  "market_createdAt": "2024-08-09T20:17:11.79289Z",
+  "market_updatedAt": "2024-11-06T13:27:08.709085Z",
+  "market_startDate": "2024-08-09T20:17:11.79289Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 14:19:01+00",
+  "conditionId": "0x92b8d97f175b4461fdc7db0f2bff9408e0dc03a23b2d51ab64f9f808c41aa3d5",
+  "slug": "will-josh-shapiro-be-d-nom-for-vp-on-election-day",
+  "question": "Will Josh Shapiro be D-nom for VP on Election Day?"
+}

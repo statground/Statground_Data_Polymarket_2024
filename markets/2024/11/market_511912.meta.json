@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:35:56.402689Z",
+  "market_createdAt": "2024-11-04T18:35:56.402689Z",
+  "market_updatedAt": "2024-11-10T04:08:59.734196Z",
+  "market_startDate": "2024-11-04T18:38:52.231119Z",
+  "market_endDate": "2024-11-09T00:00:00Z",
+  "market_closedTime": "2024-11-09 04:41:30+00",
+  "conditionId": "0xe341eb7247afc6656fbe6068fac218478e1364c27d5d4313e574f852d2e69294",
+  "slug": "nba-atl-det-2024-11-08",
+  "question": "Hawks vs. Pistons"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:02:31.468054Z",
+  "market_createdAt": "2024-12-30T05:02:31.468054Z",
+  "market_updatedAt": "2025-01-05T17:27:34.116981Z",
+  "market_startDate": "2024-12-30T05:05:10.549611Z",
+  "market_endDate": "2025-01-04T12:30:00Z",
+  "market_closedTime": "2025-01-04 17:48:42+00",
+  "conditionId": "0x4cd0c7088e0dc0c36902a28418bf7fd7522a7046024bb27c59e11ef28a8219a3",
+  "slug": "epl-tot-new-2025-01-04-draw",
+  "question": "Will Tottenham vs. Newcastle end in a draw?"
+}

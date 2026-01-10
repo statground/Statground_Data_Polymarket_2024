@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:58:15.652054Z",
+  "market_createdAt": "2024-10-24T19:58:15.652054Z",
+  "market_updatedAt": "2024-10-27T05:32:49.442518Z",
+  "market_startDate": "2024-10-24T20:23:43.467786Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:21:25+00",
+  "conditionId": "0xb54a0856f7ea9c5979753e9d91117a69f70d682965dd67f03cf2fa23ae31664f",
+  "slug": "will-trump-say-trans-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"trans\" during Michigan rally on October 25?"
+}

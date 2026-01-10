@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:08:11.470779Z",
+  "market_createdAt": "2024-12-15T07:08:11.470779Z",
+  "market_updatedAt": "2024-12-22T04:36:45.821089Z",
+  "market_startDate": "2024-12-15T07:10:45.0152Z",
+  "market_endDate": "2024-12-28T00:00:00Z",
+  "market_closedTime": "2024-12-21 04:43:24+00",
+  "conditionId": "0x8c855b90c9fb727f851fc414f6855948e4c6c239c3cb03c2351ac62ff047e9cd",
+  "slug": "nhl-tor-buf-2024-12-20",
+  "question": "Maple Leafs vs. Sabres"
+}

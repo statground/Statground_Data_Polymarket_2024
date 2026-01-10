@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:05:29.604617Z",
+  "market_createdAt": "2024-09-27T20:05:29.604617Z",
+  "market_updatedAt": "2025-01-02T05:37:16.983217Z",
+  "market_startDate": "2024-09-27T21:15:10.142894Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:58:12+00",
+  "conditionId": "0x1fc1657d83065060429e46e33dda7d9e87cd4921f16a09b7d0be133caaf6cad7",
+  "slug": "linea-airdrop-in-2024",
+  "question": "Linea airdrop in 2024?"
+}

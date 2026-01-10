@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T20:15:09.400323Z",
+  "market_createdAt": "2024-10-30T20:15:09.400323Z",
+  "market_updatedAt": "2024-11-07T16:03:03.362223Z",
+  "market_startDate": "2024-10-30T20:26:32.989Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 17:31:07+00",
+  "conditionId": "0x278e124ae2b4dfffec87487e31937b1d743af732542ce3a8fc13ec58c672b269",
+  "slug": "will-the-ap-call-michigan-by-800-am-nov-6",
+  "question": "AP calls Michigan by 8:00 AM Nov 6? "
+}

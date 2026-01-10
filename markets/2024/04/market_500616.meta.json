@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T16:21:53.923538Z",
+  "market_createdAt": "2024-04-02T16:21:53.923538Z",
+  "market_updatedAt": "2024-11-13T09:59:12.434698Z",
+  "market_startDate": "2024-04-03T21:42:15.464Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-12 10:39:33+00",
+  "conditionId": "0xa059663a859bac52841660e1fc2ed3fc247f04f549e3fb306c531527a76514ea",
+  "slug": "will-a-candidate-from-another-party-win-arizona-us-senate-election",
+  "question": "Will a candidate from another party win Arizona US Senate Election?"
+}

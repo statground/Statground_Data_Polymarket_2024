@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:25:54.499336Z",
+  "market_createdAt": "2024-09-27T19:25:54.499336Z",
+  "market_updatedAt": "2024-09-30T20:22:35.858734Z",
+  "market_startDate": "2024-09-27T20:52:07.772899Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:30:06+00",
+  "conditionId": "0x8ccc5cc08d617e9f4fe1fbddbdb66092142cdf6dac2d642526851e0a31fa8ff6",
+  "slug": "will-the-bengals-beat-the-panthers-by-5-or-more-points",
+  "question": "Will the Bengals beat the Panthers by 5 or more points?"
+}

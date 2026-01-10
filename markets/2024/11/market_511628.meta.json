@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:56:45.371592Z",
+  "market_createdAt": "2024-11-01T16:56:45.371592Z",
+  "market_updatedAt": "2024-11-09T18:58:59.547933Z",
+  "market_startDate": "2024-11-01T17:57:33.561632Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-08 19:08:01+00",
+  "conditionId": "0xb44c7b2cad1910cdce00ee2bf78f089006c0ab90571cd8ad710795113f2e9482",
+  "slug": "ethereum-above-2500-on-november-8",
+  "question": "Ethereum above $2,500 on November 8?"
+}

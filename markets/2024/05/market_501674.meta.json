@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-18T17:38:21.179060Z",
+  "market_createdAt": "2024-05-18T17:38:21.17906Z",
+  "market_updatedAt": "2024-05-21T04:09:20.860442Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 04:33:22+00",
+  "conditionId": "0xcfe40f8f57404854a10a6b575fc459f2f4c2505cf706008cf19b627e7986306a",
+  "slug": "nba-den-min-2024-05-19",
+  "question": "Denver Nuggets vs. Minnesota Timberwolves: Game 7"
+}

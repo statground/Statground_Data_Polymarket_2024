@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:23:53.461301Z",
+  "market_createdAt": "2024-10-07T22:23:53.461301Z",
+  "market_updatedAt": "2024-10-15T05:56:45.120042Z",
+  "market_startDate": "2024-10-07T22:26:03.382104Z",
+  "market_endDate": "2024-10-14T00:20:00Z",
+  "market_closedTime": "2024-10-14 06:31:01+00",
+  "conditionId": "0x6cd1022d3357b3538d1426de168ea8ccd1442e3fd7ea8fe5741cdd05bd0114a0",
+  "slug": "nfl-cin-nyg-2024-10-13",
+  "question": "Bengals vs. Giants"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T13:53:35.892819Z",
+  "market_createdAt": "2024-05-22T13:53:35.892819Z",
+  "market_updatedAt": "2024-06-04T16:26:18.821389Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-06-03 17:27:12+00",
+  "conditionId": "0xb7af18781f889f37d7214d4be9f2cf420c2025ce4ce86aaab07a216d99c0c69d",
+  "slug": "kieran-mckenna-next-chelsea-manager",
+  "question": "Kieran McKenna next Chelsea manager?"
+}

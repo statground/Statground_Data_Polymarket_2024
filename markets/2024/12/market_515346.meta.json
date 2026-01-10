@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:42:20.485294Z",
+  "market_createdAt": "2024-12-10T22:42:20.485294Z",
+  "market_updatedAt": "2024-12-14T01:11:17.231953Z",
+  "market_startDate": "2024-12-11T23:13:33.853151Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:13:53+00",
+  "conditionId": "0x982b3670c7db5d579917370017832d682a48142ff9fa71d905c30dc3c80ce889",
+  "slug": "will-slavia-praha-beat-anderlecht",
+  "question": "Will Slavia Praha beat Anderlecht?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T21:21:10.291874Z",
+  "market_createdAt": "2024-05-14T21:21:10.291874Z",
+  "market_updatedAt": "2024-05-18T19:34:20.058535Z",
+  "market_startDate": "2024-05-14T22:10:54.899Z",
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-18 17:16:41+00",
+  "conditionId": "0x8837a1ed886148de121759dc2c730ca171c8520fb973084644853408bfb63c2b",
+  "slug": "will-tiger-woods-win-the-2024-pga-championship",
+  "question": "Will Tiger Woods win the 2024 PGA Championship?"
+}

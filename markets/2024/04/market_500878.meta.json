@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:13:23.515619Z",
+  "market_createdAt": "2024-04-10T19:13:23.515619Z",
+  "market_updatedAt": "2024-07-02T04:25:47.218484Z",
+  "market_startDate": "2024-04-10T20:19:38.272Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 09:03:40+00",
+  "conditionId": "0x65c16ccf2f97f83a1d6ef75211a7fa19af6b0f623f1f5a0850581c1397f84b5d",
+  "slug": "magic-eden-airdrop-by-june-30",
+  "question": "Magic Eden airdrop by June 30?"
+}

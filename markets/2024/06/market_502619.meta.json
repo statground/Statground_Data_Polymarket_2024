@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T16:57:19.622422Z",
+  "market_createdAt": "2024-06-19T16:57:19.622422Z",
+  "market_updatedAt": "2024-06-21T18:56:10.664286Z",
+  "market_startDate": "2024-06-19T17:04:58.573Z",
+  "market_endDate": "2024-06-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 21:05:15+00",
+  "conditionId": "0xb303dd2ef1f9a4b91a5ee9cd18d24597cc7270000dec41085fe8703ee2b9dc45",
+  "slug": "will-the-match-be-a-draw-denmark-england",
+  "question": "Will the match be a draw?"
+}

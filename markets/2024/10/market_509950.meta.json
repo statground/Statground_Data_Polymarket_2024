@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:52:03.047643Z",
+  "market_createdAt": "2024-10-15T19:52:03.047643Z",
+  "market_updatedAt": "2024-10-21T02:02:49.115825Z",
+  "market_startDate": "2024-10-16T16:56:48.821978Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:58:35+00",
+  "conditionId": "0x1ae62eef8706aba4c2de05808b5659cd5c54ea7d276a2172418b68dc338b4c09",
+  "slug": "elkins-vs-pineda",
+  "question": "Elkins vs. Pineda"
+}

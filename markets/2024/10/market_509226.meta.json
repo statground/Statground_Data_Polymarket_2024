@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T01:51:41.226846Z",
+  "market_createdAt": "2024-10-08T01:51:41.226846Z",
+  "market_updatedAt": "2024-11-07T15:39:09.685519Z",
+  "market_startDate": "2024-10-08T17:37:17.089365Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:40:14+00",
+  "conditionId": "0xace1e6111d8220cc4fc214006de1d4ae5222f8d4dbdc01c9da7efcd68f635691",
+  "slug": "will-trump-win-4-swing-states",
+  "question": "Will Trump win 4 swing states?"
+}

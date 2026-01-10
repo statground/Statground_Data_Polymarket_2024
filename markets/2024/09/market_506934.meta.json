@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:16:45.224224Z",
+  "market_createdAt": "2024-09-12T21:16:45.224224Z",
+  "market_updatedAt": "2024-09-16T01:32:59.241903Z",
+  "market_startDate": "2024-09-12T22:14:22.647871Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 02:14:14+00",
+  "conditionId": "0x71dcca3aaf2a5fe96ab9a9f756074fb2a68afc6d1a09dcd7c9cdc67adba322f0",
+  "slug": "will-texas-am-beat-florida",
+  "question": "Will Texas A&M beat Florida?"
+}

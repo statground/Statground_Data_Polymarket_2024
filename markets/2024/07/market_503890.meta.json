@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T17:18:27.287588Z",
+  "market_createdAt": "2024-07-19T17:18:27.287588Z",
+  "market_updatedAt": "2024-08-02T17:13:02.117965Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:56:46+00",
+  "conditionId": "0xd7b18d8511d5949eba70ec2adf4588c530e6d6ce0a0c5e1621967e756424f65c",
+  "slug": "will-josh-matheny-usa-win-gold-in-mens-200m-breaststroke",
+  "question": "Will Josh Matheny (USA) win Gold in Men's 200m Breaststroke?"
+}

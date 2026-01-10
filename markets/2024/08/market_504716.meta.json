@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:35:33.895324Z",
+  "market_createdAt": "2024-08-07T23:35:33.895324Z",
+  "market_updatedAt": "2024-08-12T00:36:48.907677Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 04:01:41+00",
+  "conditionId": "0x0ad68cef63e0d6fc1700ca4ea272a70c409e1a52ce93a6cc6373f711dba7f1d5",
+  "slug": "nfl-ten-sf-2024-08-10",
+  "question": "Titans vs. 49ers"
+}

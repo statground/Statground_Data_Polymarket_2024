@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T18:49:25.424138Z",
+  "market_createdAt": "2024-11-25T18:49:25.424138Z",
+  "market_updatedAt": "2025-11-14T15:17:09.076672Z",
+  "market_startDate": "2024-11-25T18:55:37.425Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:16+00",
+  "conditionId": "0x3c802ebb829bce581d467211cb21debc58d23a66014728b3fbac7f73d9160af9",
+  "slug": "uk-election-called-before-2025",
+  "question": "UK election called before 2025?"
+}

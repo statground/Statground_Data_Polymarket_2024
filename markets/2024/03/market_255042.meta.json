@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T16:49:58.544000Z",
+  "market_createdAt": "2024-03-01T16:49:58.544Z",
+  "market_updatedAt": "2024-11-06T23:57:07.284651Z",
+  "market_startDate": "2024-03-28T20:48:04.759Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:36:17+00",
+  "conditionId": "0x9f599b558efcac7608c06fa26698e4316cdf34d0e36183a837a835cf96db8636",
+  "slug": "will-a-candidate-from-another-party-win-montana-presidential-election",
+  "question": "Will a candidate from another party win Montana Presidential Election?"
+}

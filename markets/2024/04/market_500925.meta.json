@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-12T21:46:55.268904Z",
+  "market_createdAt": "2024-04-12T21:46:55.268904Z",
+  "market_updatedAt": "2024-11-07T19:13:07.702244Z",
+  "market_startDate": "2024-04-15T16:34:41.427Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:20:26+00",
+  "conditionId": "0x1c7104429575ddc9dd855753ad7ac7f70abbb664b0283026347525ce33d8d432",
+  "slug": "republicans-flip-a-2020-biden-state",
+  "question": "Trump flips a 2020 Biden state?"
+}

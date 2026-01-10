@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T18:58:01.064785Z",
+  "market_createdAt": "2024-07-24T18:58:01.064785Z",
+  "market_updatedAt": "2024-08-02T17:13:06.431522Z",
+  "market_startDate": "2024-07-25T16:50:44.617Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-08-01 05:48:14+00",
+  "conditionId": "0x9c930ccdce11158a4de95a3f3f5e9da8aa9176784a8082202c81e2a0a2c0253e",
+  "slug": "trump-vs-biden-staircase-olympics",
+  "question": "Trump vs. Biden: Staircase Olympics"
+}

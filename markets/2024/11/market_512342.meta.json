@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T23:56:13.108055Z",
+  "market_createdAt": "2024-11-07T23:56:13.108055Z",
+  "market_updatedAt": "2025-05-02T00:22:34.712784Z",
+  "market_startDate": "2024-11-08T00:21:03.51Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2025-05-01 09:28:37+00",
+  "conditionId": "0x00595863287c7c30148d0714255073d0ae0cf338f5287195b720b4ad1c5cbab7",
+  "slug": "will-another-candidate-win-the-2024-romanian-presidential-election",
+  "question": "Will another candidate win the 2024 Romanian Presidential election?"
+}

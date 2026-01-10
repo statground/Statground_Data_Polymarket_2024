@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T16:35:06.713104Z",
+  "market_createdAt": "2024-04-08T16:35:06.713104Z",
+  "market_updatedAt": "2024-05-07T23:09:12.1477Z",
+  "market_startDate": "2024-04-08T17:03:05.891Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-16 22:50:38+00",
+  "conditionId": "0x38588aa22717807f3649b4bde67eff793ca9fac38e910852fed268231a5f54ff",
+  "slug": "will-remilio-flip-mayc-in-april",
+  "question": "Will Remilio flip MAYC in April?"
+}

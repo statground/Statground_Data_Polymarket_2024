@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:06:55.053709Z",
+  "market_createdAt": "2024-12-15T07:06:55.053709Z",
+  "market_updatedAt": "2024-12-21T06:44:53.31756Z",
+  "market_startDate": "2024-12-15T07:09:29.455298Z",
+  "market_endDate": "2024-12-27T03:30:00Z",
+  "market_closedTime": "2024-12-20 08:26:48+00",
+  "conditionId": "0xc0a7d09e4925331e6b71256f0b0bf3b2495c6353fc46680230a605b4db0f7142",
+  "slug": "nhl-col-sj-2024-12-19",
+  "question": "Avalanche vs. Sharks"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:45:42.062161Z",
+  "market_createdAt": "2024-08-19T16:45:42.062161Z",
+  "market_updatedAt": "2024-09-04T03:53:07.709991Z",
+  "market_startDate": "2024-08-19T16:45:42.062161Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-03 07:09:28+00",
+  "conditionId": "0xd34aae976d28a6fd4bd15726d0a9d66046090dce4f9e1eb552a6b302a64c5d6b",
+  "slug": "will-tommy-paul-win-the-us-open",
+  "question": "Will Tommy Paul win the US Open?"
+}

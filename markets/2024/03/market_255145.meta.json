@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:52:06.666000Z",
+  "market_createdAt": "2024-03-01T18:52:06.666Z",
+  "market_updatedAt": "2024-11-08T02:32:59.15497Z",
+  "market_startDate": "2024-03-07T23:57:00Z",
+  "market_endDate": "2024-11-04T00:00:00Z",
+  "market_closedTime": "2024-11-07 09:12:00+00",
+  "conditionId": "0x972520d8ed44dcd71fff95b44e2593750d0e44323a5ccd2ce4bbbc540427bce9",
+  "slug": "will-a-candidate-from-another-party-win-michigan-presidential-election",
+  "question": "Will a candidate from another party win Michigan Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T17:05:00.174000Z",
+  "market_createdAt": "2024-03-08T17:05:00.174Z",
+  "market_updatedAt": "2024-05-07T23:09:16.584963Z",
+  "market_startDate": "2024-03-11T22:44:00Z",
+  "market_endDate": "2024-04-03T00:00:00Z",
+  "market_closedTime": "2024-04-05 15:45:32+00",
+  "conditionId": "0x372ffc7134e149b8c5a29d93130937cb1eb1e2cb0b64cdd9134879f5c4f8a00f",
+  "slug": "will-us-gain-less-than-200k-jobs-in-march",
+  "question": "Will US gain less than 200k jobs in March?"
+}

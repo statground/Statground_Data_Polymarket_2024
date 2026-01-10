@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:41:08.323044Z",
+  "market_createdAt": "2024-11-05T04:41:08.323044Z",
+  "market_updatedAt": "2024-11-07T21:23:08.833074Z",
+  "market_startDate": "2024-11-05T20:19:38.765384Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:24:02+00",
+  "conditionId": "0x81a072ab8cc4a34dac86c56f9d7d90338143b25bf02e795cdf1d803cf160ce78",
+  "slug": "will-red-star-belgrade-beat-barcelona",
+  "question": "Will Red Star Belgrade beat Barcelona?"
+}

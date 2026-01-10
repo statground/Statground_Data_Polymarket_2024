@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:05:19.410816Z",
+  "market_createdAt": "2024-11-11T18:05:19.410816Z",
+  "market_updatedAt": "2024-11-15T04:37:01.828778Z",
+  "market_startDate": "2024-11-11T18:08:11.406867Z",
+  "market_endDate": "2024-11-21T01:00:00Z",
+  "market_closedTime": "2024-11-14 05:40:12+00",
+  "conditionId": "0xddbd524b5b6112c0c7cd247d2f0e491f932ca4ced35651739bc56d5cfe2f1ac0",
+  "slug": "nba-was-sas-2024-11-13",
+  "question": "Wizards vs. Spurs"
+}

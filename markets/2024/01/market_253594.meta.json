@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-04T17:37:48.563000Z",
+  "market_createdAt": "2024-01-04T17:37:48.563Z",
+  "market_updatedAt": "2024-11-07T18:07:06.681452Z",
+  "market_startDate": "2024-01-04T23:00:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-06 18:08:56+00",
+  "conditionId": "0x40bbdd26dc08406eedcb913efee7f7faddf50e16fc21caedb4972d57fd71e0d1",
+  "slug": "will-gavin-newsom-win-the-2024-us-presidential-election",
+  "question": "Will Gavin Newsom win the 2024 US Presidential Election?"
+}

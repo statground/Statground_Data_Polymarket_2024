@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:20:08.556604Z",
+  "market_createdAt": "2024-12-10T22:20:08.556604Z",
+  "market_updatedAt": "2024-12-13T21:25:25.357478Z",
+  "market_startDate": "2024-12-11T23:09:58.358439Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:19:09+00",
+  "conditionId": "0x443d1bbbf0dab929e44e2e80be8137adf6f5921abfbc779f978e1ae020af10fd",
+  "slug": "will-eintracht-frankfurt-beat-lyon",
+  "question": "Will Frankfurt beat Lyon?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:11:35.537828Z",
+  "market_createdAt": "2024-09-25T18:11:35.537828Z",
+  "market_updatedAt": "2025-04-14T16:20:27.346026Z",
+  "market_startDate": "2024-09-25T20:59:41.713775Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-13 17:52:35+00",
+  "conditionId": "0x1889dc9cf1b21678c38dd307b4341aced2798c3216a448b7045cbca7c0bc438f",
+  "slug": "will-liverpool-finish-in-the-top-4-of-epl",
+  "question": "Will Liverpool finish in the top 4 of EPL?"
+}

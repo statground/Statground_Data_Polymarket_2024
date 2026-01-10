@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T16:25:59.512125Z",
+  "market_createdAt": "2024-06-17T16:25:59.512125Z",
+  "market_updatedAt": "2024-06-20T10:31:14.886242Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-19 20:00:05+00",
+  "conditionId": "0x27f4ed097e973a04db49aeaa8c0837a1b90ee4a4822dd9d1d7e4a9c0691315ee",
+  "slug": "united-states-vs-south-africa-cricket-t20-world-cup",
+  "question": "United States vs. South Africa - Cricket T20 World Cup"
+}

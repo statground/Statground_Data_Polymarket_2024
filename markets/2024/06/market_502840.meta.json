@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:20:58.241867Z",
+  "market_createdAt": "2024-06-24T23:20:58.241867Z",
+  "market_updatedAt": "2024-06-26T18:36:06.497952Z",
+  "market_startDate": "2024-06-24T23:28:31.788Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-25 21:02:32+00",
+  "conditionId": "0x7c3022ddeae4d2af031fa31a497ed8360d6cdb6fd4725bf572285a3f8d86824e",
+  "slug": "will-france-win-june-25",
+  "question": "Will France win?"
+}

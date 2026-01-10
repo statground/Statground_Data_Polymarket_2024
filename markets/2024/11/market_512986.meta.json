@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T20:23:37.372799Z",
+  "market_createdAt": "2024-11-13T20:23:37.372799Z",
+  "market_updatedAt": "2024-11-17T08:03:13.558711Z",
+  "market_startDate": "2024-11-14T20:45:03.621236Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 08:44:12+00",
+  "conditionId": "0xb0d6b59c9977c77a68b70c7364a25b21e37100014dab0d674595d6e89b212d6d",
+  "slug": "will-the-fight-end-in-round-4",
+  "question": "Will the fight end in Round 4?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:20:04.792927Z",
+  "market_createdAt": "2024-07-19T16:20:04.792927Z",
+  "market_updatedAt": "2024-08-02T18:51:03.56174Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 22:01:17+00",
+  "conditionId": "0x63446e69ca30fdd1e2a9c60be9b89a5b864b7ed936f7f3a061b0ec6f162d4888",
+  "slug": "will-pieter-coetze-rsa-win-gold-in-mens-200m-backstroke",
+  "question": "Will Pieter Coetze (RSA) win Gold in Men's 200m Backstroke?"
+}

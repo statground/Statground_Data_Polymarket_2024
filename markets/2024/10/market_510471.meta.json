@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:33:04.202631Z",
+  "market_createdAt": "2024-10-22T00:33:04.202631Z",
+  "market_updatedAt": "2024-10-27T17:46:55.594089Z",
+  "market_startDate": "2024-10-22T00:35:40.465Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 19:26:00+00",
+  "conditionId": "0x3231883b5dd0c708ccdab0b057e0e853f3962164b8942d9ae3ad9b42758e0d01",
+  "slug": "epl-bri-wol-2024-10-26-draw",
+  "question": "Will Brighton vs. Wolves end in a draw?"
+}

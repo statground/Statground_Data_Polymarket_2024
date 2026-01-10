@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T22:05:52.000441Z",
+  "market_createdAt": "2024-08-05T22:05:52.000441Z",
+  "market_updatedAt": "2024-08-07T19:36:45.970825Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 23:06:06+00",
+  "conditionId": "0x405c3d9ecfba565f624928178b7c2aec2e342ef340830b48a3425e62d1646d09",
+  "slug": "will-another-athlete-win-gold-in-200m-w",
+  "question": "Will another athlete win gold in 200m (W)?"
+}

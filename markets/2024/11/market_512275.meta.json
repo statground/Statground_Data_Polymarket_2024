@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:33:43.172541Z",
+  "market_createdAt": "2024-11-07T18:33:43.172541Z",
+  "market_updatedAt": "2024-11-16T18:23:00.716871Z",
+  "market_startDate": "2024-11-07T18:50:50.635Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:55:49+00",
+  "conditionId": "0x74236cb19b4efb200a3fcbb6e54b8e7487c4cdf3ac79b42cb2ada0eb2516fb81",
+  "slug": "will-trump-nominate-katharine-macgregor-for-interior-secretary",
+  "question": "Will Trump nominate Katharine MacGregor for Interior Secretary?"
+}

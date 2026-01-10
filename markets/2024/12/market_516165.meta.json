@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:59:49.618472Z",
+  "market_createdAt": "2024-12-20T19:59:49.618472Z",
+  "market_updatedAt": "2024-12-23T21:08:00.405875Z",
+  "market_startDate": "2024-12-20T21:38:18.306635Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-23 02:38:01+00",
+  "conditionId": "0xbb9cf6c3aa7c317783deb78d711c0c9a264124b2d0d709cfff2ca78319ba0f8c",
+  "slug": "will-the-raiders-beat-the-jaguars-by-2-or-more-points",
+  "question": "Will the Raiders beat the Jaguars by 2 or more points?"
+}

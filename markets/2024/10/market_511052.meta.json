@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T21:42:22.346386Z",
+  "market_createdAt": "2024-10-27T21:42:22.346386Z",
+  "market_updatedAt": "2024-11-11T02:13:35.029951Z",
+  "market_startDate": "2024-10-28T16:11:14.691486Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 02:10:44+00",
+  "conditionId": "0x6ff6433b7878ae9110c17c9edee6f9fd314bf5c4dc85c9145ef67aa379e363d8",
+  "slug": "will-silver-call-43-states-correctly",
+  "question": "Will Silver call 43 states correctly?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:48:50.428771Z",
+  "market_createdAt": "2024-09-11T15:48:50.428771Z",
+  "market_updatedAt": "2024-09-16T06:02:56.699375Z",
+  "market_startDate": "2024-09-11T16:30:08.646402Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 06:19:17+00",
+  "conditionId": "0xfc2843f7e80c03ea72e2fc0b24f9788c503cb67a2d31f5ae7ce1806a58a258bd",
+  "slug": "ortega-vs-lopes",
+  "question": "Ortega vs. Lopes"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T18:13:28.160106Z",
+  "market_createdAt": "2024-09-10T18:13:28.160106Z",
+  "market_updatedAt": "2024-09-16T17:26:47.35473Z",
+  "market_startDate": "2024-09-10T18:42:20.808555Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 19:39:44+00",
+  "conditionId": "0xb386cfbbd9cf4e419bdb3674af8c4781d615491ff8005885231be83fefa11aca",
+  "slug": "will-charles-leclerc-win-the-azerbaijan-grand-prix",
+  "question": "Will Charles Leclerc win the Azerbaijan Grand Prix?"
+}

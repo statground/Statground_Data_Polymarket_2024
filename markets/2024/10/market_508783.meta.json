@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:46:57.852761Z",
+  "market_createdAt": "2024-10-03T20:46:57.852761Z",
+  "market_updatedAt": "2024-10-10T05:00:48.318653Z",
+  "market_startDate": "2024-10-03T22:28:39.981Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 05:05:41+00",
+  "conditionId": "0x39af89511ebd36a29d23ea83f128d5141fb21c9b6917c6e8a4cbe57fdce15b1d",
+  "slug": "will-the-hbo-documentary-identify-len-sassaman-as-satoshi",
+  "question": "Will the HBO documentary identify Len Sassaman as Satoshi?"
+}

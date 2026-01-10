@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:47:00.191506Z",
+  "market_createdAt": "2024-11-05T21:47:00.191506Z",
+  "market_updatedAt": "2024-11-08T21:53:01.981122Z",
+  "market_startDate": "2024-11-07T03:02:17.429287Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:00:18+00",
+  "conditionId": "0x7979c1398f92d8914d5bdfa75a02495173f112ecd300ba9619861615b5a4a8f8",
+  "slug": "will-the-match-between-union-st-gilloise-and-roma-end-in-a-draw",
+  "question": "Will the match between Union St-Gilloise and Roma end in a draw?"
+}

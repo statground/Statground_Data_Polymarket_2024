@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:54:02.803741Z",
+  "market_createdAt": "2024-07-18T17:54:02.803741Z",
+  "market_updatedAt": "2024-08-11T20:06:53.503135Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 21:19:35+00",
+  "conditionId": "0x720f35f42b8add06234567ceefa2bf089d4010cd6d9112a4144775654dd55993",
+  "slug": "will-jakob-ingebrigtsen-nor-win-gold-in-5000m",
+  "question": "Will Jakob Ingebrigtsen (NOR) win Gold in 5000m?"
+}

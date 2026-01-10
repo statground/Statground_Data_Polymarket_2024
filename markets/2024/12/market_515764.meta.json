@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:20:00.940261Z",
+  "market_createdAt": "2024-12-16T18:20:00.940261Z",
+  "market_updatedAt": "2025-01-21T19:49:07.57589Z",
+  "market_startDate": "2024-12-16T18:23:59.671Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:59:48+00",
+  "conditionId": "0x849ad1b0db20c51fe409813f88192b306e55a9ab7c39105c483e75fdba4adb78",
+  "slug": "will-javier-milei-attend-presidential-inauguration",
+  "question": "Will Javier Milei attend presidential inauguration?"
+}

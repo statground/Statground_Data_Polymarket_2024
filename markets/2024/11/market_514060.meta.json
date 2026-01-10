@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:31:20.377345Z",
+  "market_createdAt": "2024-11-26T07:31:20.377345Z",
+  "market_updatedAt": "2024-11-28T20:51:35.837757Z",
+  "market_startDate": "2024-11-26T22:23:46.283028Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-27 22:54:43+00",
+  "conditionId": "0x59af1179e6f756ac10eb3c1d7eb95569d3b80f461c8ddaeca1c162f822666fdc",
+  "slug": "will-sturm-graz-beat-girona",
+  "question": "Will Sturm Graz beat Girona?"
+}

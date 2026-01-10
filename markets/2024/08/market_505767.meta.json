@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:23:15.127109Z",
+  "market_createdAt": "2024-08-26T16:23:15.127109Z",
+  "market_updatedAt": "2024-08-28T19:31:08.092079Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:49:11+00",
+  "conditionId": "0xc2b3c44793df676ae1379ff3e7d813f494e0c8e9b04cf50669dd276aab55ed0d",
+  "slug": "will-jd-vance-say-back-the-blue-during-michigan-rally",
+  "question": "Will J.D. Vance say \"back the blue\" during Michigan rally?"
+}

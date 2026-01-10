@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:50:02.332679Z",
+  "market_createdAt": "2024-11-21T17:50:02.332679Z",
+  "market_updatedAt": "2024-11-23T04:24:53.913045Z",
+  "market_startDate": "2024-11-21T18:26:05.328453Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:25:25+00",
+  "conditionId": "0x984ed78959d62661aaa8bd8141b777376327e32a58da32fdeeb578490120b2f3",
+  "slug": "will-trump-pick-matthew-whitaker-for-attorney-general",
+  "question": "Will Trump pick Matthew Whitaker for Attorney General?"
+}

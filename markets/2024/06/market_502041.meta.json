@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T18:05:45.929301Z",
+  "market_createdAt": "2024-06-03T18:05:45.929301Z",
+  "market_updatedAt": "2024-07-06T15:00:46.852576Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 17:44:24+00",
+  "conditionId": "0xf72c6c1e44bcf0108ad3d126e41e5dac1bc27336d88edd13580b6cb0e38f2d93",
+  "slug": "will-nigel-farage-win-election-to-uk-parliament",
+  "question": "Will Nigel Farage win election to UK parliament?"
+}

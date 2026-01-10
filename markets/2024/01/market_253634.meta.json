@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T19:28:37.815000Z",
+  "market_createdAt": "2024-01-06T19:28:37.815Z",
+  "market_updatedAt": "2024-11-07T20:43:08.778067Z",
+  "market_startDate": "2024-01-06T20:12:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-06 20:40:10+00",
+  "conditionId": "0xf6106065ec5d5dae7eca350be64e5246ae331b35937ea55b64152f65fbc0b37f",
+  "slug": "will-chris-christie-win-the-2024-us-presidential-election",
+  "question": "Will Chris Christie win the 2024 US Presidential Election?"
+}

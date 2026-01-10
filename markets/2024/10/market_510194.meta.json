@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:40:12.090265Z",
+  "market_createdAt": "2024-10-18T20:40:12.090265Z",
+  "market_updatedAt": "2024-10-21T19:52:45.754487Z",
+  "market_startDate": "2024-10-18T23:24:33.162373Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:05:32+00",
+  "conditionId": "0xd5e0838da6654d9e3aaad4aa696594ed03f6081030cff9bc60f5e182a2f66be8",
+  "slug": "will-the-falcons-beat-the-seahawks-by-3-or-more-points",
+  "question": "Will the Falcons beat the Seahawks by 3 or more points?"
+}

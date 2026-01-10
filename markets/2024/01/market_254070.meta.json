@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T19:59:46.239000Z",
+  "market_createdAt": "2024-01-23T19:59:46.239Z",
+  "market_updatedAt": "2024-03-12T03:02:02.304Z",
+  "market_startDate": "2024-01-23T21:38:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:16:01+00",
+  "conditionId": "0x7c186f72ed924fc492dd2ad8a7066c020315931a8ddd775e4a36ee3351014688",
+  "slug": "will-sandra-huller-win-the-oscar-for-best-actress",
+  "question": "Will Sandra Hüller win the Oscar for Best Actress?"
+}

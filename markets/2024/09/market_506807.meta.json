@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T03:09:16.050629Z",
+  "market_createdAt": "2024-09-11T03:09:16.050629Z",
+  "market_updatedAt": "2024-11-06T07:17:12.882052Z",
+  "market_startDate": "2024-09-11T03:15:45.16Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:48:13+00",
+  "conditionId": "0x34a16f264fee640f237dd321ad1aff1a754406a09f6ad8e428c9bee89d302582",
+  "slug": "will-there-be-another-debate",
+  "question": "Will there be another debate?"
+}

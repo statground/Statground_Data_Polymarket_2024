@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:07:09.447340Z",
+  "market_createdAt": "2024-11-24T05:07:09.44734Z",
+  "market_updatedAt": "2024-12-01T21:37:22.169033Z",
+  "market_startDate": "2024-11-24T05:09:51.298571Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:11:24+00",
+  "conditionId": "0xc02dbc41751ae289d352bd1398ddf317a4e6ddd6167cb8899d979846e610d30d",
+  "slug": "cfb-duke-wake-2024-11-30",
+  "question": "Duke vs. Wake Forest"
+}

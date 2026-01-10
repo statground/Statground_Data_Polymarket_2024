@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:04:07.918090Z",
+  "market_createdAt": "2024-11-14T21:04:07.91809Z",
+  "market_updatedAt": "2024-11-16T18:48:53.261501Z",
+  "market_startDate": "2024-11-14T22:20:30.518Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-15 22:05:51+00",
+  "conditionId": "0x601cb1223eafe7ff2a3e22e5cabd37f874e59d7ec5cfec881f5c7ca6ec4fc071",
+  "slug": "will-the-match-between-cyprus-and-lithuania-end-in-a-draw",
+  "question": "Will the match between Cyprus and Lithuania end in a draw?"
+}

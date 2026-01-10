@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:22:50.362710Z",
+  "market_createdAt": "2024-10-28T20:22:50.36271Z",
+  "market_updatedAt": "2024-11-02T02:23:11.573711Z",
+  "market_startDate": "2024-10-28T23:30:47.214781Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:09:34+00",
+  "conditionId": "0x069c00053b7144552d09a1a8adf5873838b4b4128d3205271f8ea3d24660c6fc",
+  "slug": "will-trump-say-nevada-25-or-more-times-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"Nevada\" 25 or more times during Nevada rally on Oct 31?"
+}

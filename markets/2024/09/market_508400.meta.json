@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T16:33:29.090771Z",
+  "market_createdAt": "2024-09-30T16:33:29.090771Z",
+  "market_updatedAt": "2024-10-03T06:46:38.028611Z",
+  "market_startDate": "2024-09-30T16:46:26.563Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 06:57:22+00",
+  "conditionId": "0x7b2925ee04ba6c8d48bea005128b3436036ef4d323a0683a702d92319d3c471e",
+  "slug": "will-jd-vance-say-kamala-harris-30-or-more-times-during-the-debate",
+  "question": "Will JD Vance say \"Kamala Harris\" 30 or more times during the debate?"
+}

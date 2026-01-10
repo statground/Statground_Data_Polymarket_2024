@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:23:04.575322Z",
+  "market_createdAt": "2024-10-28T21:23:04.575322Z",
+  "market_updatedAt": "2024-11-03T06:27:06.26829Z",
+  "market_startDate": "2024-10-29T00:01:30.043521Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 06:25:05+00",
+  "conditionId": "0x9a5f871275386dcc4c091aff7c0e2b28c2d599ed8d367e154b590e7dc402a371",
+  "slug": "will-trump-say-gun-5-or-more-times-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"gun\" 5 or more times during Wisconsin rally on Nov 1?"
+}

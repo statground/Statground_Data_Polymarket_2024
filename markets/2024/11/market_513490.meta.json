@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T19:30:02.668925Z",
+  "market_createdAt": "2024-11-19T19:30:02.668925Z",
+  "market_updatedAt": "2025-01-03T01:23:38.621841Z",
+  "market_startDate": "2024-11-19T23:00:00.059Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-01-03 01:20:09+00",
+  "conditionId": "0x67109c7b9bd24dc99eee485edb44b5e29749a48002c56ab9a92b4140d25c6469",
+  "slug": "will-another-team-lead-the-epl-in-points-at-the-midway-point",
+  "question": "Will another team lead the EPL in points at the midway point?"
+}

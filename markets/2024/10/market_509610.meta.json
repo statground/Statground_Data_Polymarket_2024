@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:23:06.943523Z",
+  "market_createdAt": "2024-10-11T15:23:06.943523Z",
+  "market_updatedAt": "2024-10-13T22:06:49.346798Z",
+  "market_startDate": "2024-10-11T18:51:32.419124Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:31:09+00",
+  "conditionId": "0x0c8b5e9a2fc9b012aeccd5899e0d5e0465c12dc4f0ae241c93a30c9219c9291f",
+  "slug": "will-penn-st-beat-usc-by-4-or-more-points",
+  "question": "Will Penn St. beat USC by 4 or more points?"
+}

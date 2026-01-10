@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T21:49:48.200107Z",
+  "market_createdAt": "2024-10-15T21:49:48.200107Z",
+  "market_updatedAt": "2024-10-21T20:41:28.287381Z",
+  "market_startDate": "2024-10-16T18:03:35.992Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:08:29+00",
+  "conditionId": "0x0dd61c43193b3a39de912205d338d19a82c658e84026afc06aedaefd2e65279e",
+  "slug": "will-another-driver-win-the-united-states-grand-prix",
+  "question": "Will another driver win the United States Grand Prix?"
+}

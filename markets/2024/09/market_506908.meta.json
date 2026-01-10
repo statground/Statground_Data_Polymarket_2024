@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T16:15:03.329751Z",
+  "market_createdAt": "2024-09-12T16:15:03.329751Z",
+  "market_updatedAt": "2024-09-18T05:06:47.452347Z",
+  "market_startDate": "2024-09-12T17:23:42.011947Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-17 06:30:47+00",
+  "conditionId": "0x628643f0999855bb4752ea5503694b34b4c99713416da7426a5cc6d2bcaa3474",
+  "slug": "will-falcons-vs-eagles-be-the-highest-scoring-game-of-week-2",
+  "question": "Will Falcons vs. Eagles be the highest scoring game of Week 2?"
+}

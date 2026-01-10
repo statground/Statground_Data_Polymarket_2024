@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T16:18:27.155133Z",
+  "market_createdAt": "2024-04-11T16:18:27.155133Z",
+  "market_updatedAt": "2024-05-07T23:09:18.269995Z",
+  "market_startDate": "2024-04-11T16:26:43.285Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:25:41+00",
+  "conditionId": "0x94774be2c89faec8f8425b9175be23e5f19619961175c0c32a4c4c3479b8afd7",
+  "slug": "pepe-spot-listed-on-coinbase-in-april",
+  "question": "$PEPE spot listed on Coinbase in April?"
+}

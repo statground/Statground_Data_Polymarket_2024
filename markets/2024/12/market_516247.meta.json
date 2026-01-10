@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:02:43.697667Z",
+  "market_createdAt": "2024-12-22T06:02:43.697667Z",
+  "market_updatedAt": "2024-12-30T06:12:09.979945Z",
+  "market_startDate": "2024-12-22T06:05:26.174523Z",
+  "market_endDate": "2025-01-05T01:00:00Z",
+  "market_closedTime": "2024-12-29 06:38:48+00",
+  "conditionId": "0xd514cd59ba0dad2c4ed2ab3ab96fb6c479565eb2ebe7fdda553116cc1258da19",
+  "slug": "nfl-ari-la-2024-12-28",
+  "question": "Cardinals vs. Rams"
+}

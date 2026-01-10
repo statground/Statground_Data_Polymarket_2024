@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:26:38.698658Z",
+  "market_createdAt": "2024-12-03T17:26:38.698658Z",
+  "market_updatedAt": "2024-12-09T20:53:18.63464Z",
+  "market_startDate": "2024-12-03T19:44:53.719628Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:53:29+00",
+  "conditionId": "0x3bfb178371b8647270b254408be841e1633b3168cce0018b00b54e9b673c9a2c",
+  "slug": "will-another-driver-win-the-abu-dhabi-grand-prix",
+  "question": "Will another driver win the Abu Dhabi Grand Prix?"
+}

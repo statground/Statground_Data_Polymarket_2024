@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T16:13:54.371521Z",
+  "market_createdAt": "2024-08-27T16:13:54.371521Z",
+  "market_updatedAt": "2024-10-02T04:42:45.791452Z",
+  "market_startDate": "2024-08-27T16:13:54.371521Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:03:04+00",
+  "conditionId": "0xe0f6a704e6ad7f1389cc45e0e53728dfe2b257aa5810f0548f5467eae6e909f8",
+  "slug": "us-military-action-against-iran-by-september-30",
+  "question": "U.S. military action against Iran by September 30?"
+}

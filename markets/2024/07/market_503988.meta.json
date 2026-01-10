@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T16:00:40.635028Z",
+  "market_createdAt": "2024-07-22T16:00:40.635028Z",
+  "market_updatedAt": "2024-07-28T00:03:04.555115Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-27 06:05:25+00",
+  "conditionId": "0xa976de6a445ced4fbb0fe411ae1c17a699e7074bcb1160f295e2b0cdc8e103a2",
+  "slug": "biden-resignation-letter-published-without-consent",
+  "question": "Biden dropout letter published without consent?"
+}

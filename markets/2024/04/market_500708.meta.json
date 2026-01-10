@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:24:21.837386Z",
+  "market_createdAt": "2024-04-04T17:24:21.837386Z",
+  "market_updatedAt": "2024-11-08T01:13:07.081597Z",
+  "market_startDate": "2024-04-12T19:19:49.544Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:03:36+00",
+  "conditionId": "0xdf36fcc041cadc34d517a8548330f8bb0312c9acef4f621c89fee89610cf995c",
+  "slug": "will-a-democrat-win-virginia-us-senate-election",
+  "question": "Will a Democrat win Virginia US Senate Election?"
+}

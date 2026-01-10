@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T17:24:58.263418Z",
+  "market_createdAt": "2024-05-09T17:24:58.263418Z",
+  "market_updatedAt": "2024-06-16T05:33:38.757987Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:31:55+00",
+  "conditionId": "0x4d474e16e3a535f8776bb7c6802d610e7ba87917a9a6fdd460a768667247097b",
+  "slug": "will-the-ecr-win-the-most-seats-in-european-parliament",
+  "question": "Will the ECR win the most seats in European Parliament?"
+}

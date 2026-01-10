@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T19:42:27.759372Z",
+  "market_createdAt": "2024-06-28T19:42:27.759372Z",
+  "market_updatedAt": "2024-07-02T01:10:56.13451Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 05:02:46+00",
+  "conditionId": "0xef51c385c8dab27cf2c9cf1ee019ca1d35b7994d55da92aa39dc37fd5b3c6251",
+  "slug": "will-this-match-be-a-draw-jamaica-venezuela",
+  "question": "Will this match be a draw?"
+}

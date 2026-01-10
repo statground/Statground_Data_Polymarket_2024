@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:46:01.452094Z",
+  "market_createdAt": "2024-10-23T15:46:01.452094Z",
+  "market_updatedAt": "2024-11-25T22:39:53.341093Z",
+  "market_startDate": "2024-10-23T17:59:56.208551Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-25 01:50:02+00",
+  "conditionId": "0xba7e3d98ea16307c793a2a42101aeb1ad39b17cdabdfe836e435427e2ad596bd",
+  "slug": "will-atlanta-united-win-the-2024-mls-cup",
+  "question": "Will Atlanta United win the 2024 MLS Cup?"
+}

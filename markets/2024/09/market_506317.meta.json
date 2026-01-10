@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:02:52.130058Z",
+  "market_createdAt": "2024-09-03T19:02:52.130058Z",
+  "market_updatedAt": "2024-10-29T21:21:16.355466Z",
+  "market_startDate": "2024-09-04T00:28:27.710238Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-28 22:11:26+00",
+  "conditionId": "0x657d0915552c972ce20338785283cd3d1bb058218d6acddd7f0a6b8fc52dc9d0",
+  "slug": "will-nico-williams-win-the-ballon-dor",
+  "question": "Will Nico Williams win the Ballon d’Or?"
+}

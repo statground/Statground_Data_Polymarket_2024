@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:23:36.310985Z",
+  "market_createdAt": "2024-10-22T03:23:36.310985Z",
+  "market_updatedAt": "2024-10-23T19:46:50.825451Z",
+  "market_startDate": "2024-10-23T14:57:53.625446Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 19:43:59+00",
+  "conditionId": "0x41244c44b8a77e4324c3d181eb0fd6da8909ff74221bc31df1b3b5cd97fa2583",
+  "slug": "will-the-match-between-galatasaray-and-if-elfsborg-end-in-a-draw",
+  "question": "Will the match between Galatasaray and IF Elfsborg end in a draw?"
+}

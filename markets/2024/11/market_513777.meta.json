@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:02:26.045688Z",
+  "market_createdAt": "2024-11-24T05:02:26.045688Z",
+  "market_updatedAt": "2024-12-01T01:17:05.75108Z",
+  "market_startDate": "2024-11-24T05:05:15.327876Z",
+  "market_endDate": "2024-12-06T20:30:00Z",
+  "market_closedTime": "2024-11-30 02:28:47+00",
+  "conditionId": "0x70452581ef894ea275b37071610fefb1d521f75b02341d34ad2ec498e1465e07",
+  "slug": "cfb-msst-miss-2024-11-29",
+  "question": "Mississippi State vs. Ole Miss"
+}

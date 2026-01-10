@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:35:00.868579Z",
+  "market_createdAt": "2024-05-22T16:35:00.868579Z",
+  "market_updatedAt": "2024-07-05T18:14:09.663081Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:12:36+00",
+  "conditionId": "0x35c34c1050c238e8d0f1fa908b24e9651ab7d29f9bc453cf321627f9764b03a9",
+  "slug": "will-james-cleverly-be-next-uk-prime-minister",
+  "question": "Will James Cleverly be next UK prime minister?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:35:53.938656Z",
+  "market_createdAt": "2024-11-11T21:35:53.938656Z",
+  "market_updatedAt": "2024-11-24T18:49:25.14201Z",
+  "market_startDate": "2024-11-11T21:38:36.686106Z",
+  "market_endDate": "2024-11-23T15:00:00Z",
+  "market_closedTime": "2024-11-23 20:07:27+00",
+  "conditionId": "0xeb436fb65cc806e5e0193e3d218b352d36366540206572d79b1f66780648ea04",
+  "slug": "epl-ful-wol-2024-11-23-draw",
+  "question": "Will Fulham vs. Wolves end in a draw?"
+}

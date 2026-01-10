@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T15:49:02.916143Z",
+  "market_createdAt": "2024-11-06T15:49:02.916143Z",
+  "market_updatedAt": "2025-05-01T00:23:19.709097Z",
+  "market_startDate": "2024-11-06T16:17:32.194Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:12:43+00",
+  "conditionId": "0xc7ec0c2fc4ada9e3e0703b20ff9f610abae734e65d90f32378e26c4c9f826713",
+  "slug": "will-trump-pardon-edward-snowden-in-his-first-100-days",
+  "question": "Will Trump pardon Edward Snowden in his first 100 days?"
+}

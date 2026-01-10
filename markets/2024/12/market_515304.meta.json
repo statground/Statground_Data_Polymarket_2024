@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:25:38.053564Z",
+  "market_createdAt": "2024-12-10T21:25:38.053564Z",
+  "market_updatedAt": "2024-12-13T21:01:11.74144Z",
+  "market_startDate": "2024-12-11T22:53:27.844161Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:03:13+00",
+  "conditionId": "0x697b853ca60e0ef7f999e6b51c1bc6cdcc8034ce74cd6203a39333c9e41e0140",
+  "slug": "will-ferencvaros-beat-paok",
+  "question": "Will Ferencvaros beat PAOK?"
+}

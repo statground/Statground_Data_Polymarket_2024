@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T17:01:29.320404Z",
+  "market_createdAt": "2024-07-12T17:01:29.320404Z",
+  "market_updatedAt": "2024-07-20T16:30:43.662755Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-19 18:04:28+00",
+  "conditionId": "0x9dff27d2aae115b02aa39a183d75e4c8d42c09511c24b599359b2f905bf15cf8",
+  "slug": "solana-above-140-on-july-19",
+  "question": "Solana above $140 on July 19?"
+}

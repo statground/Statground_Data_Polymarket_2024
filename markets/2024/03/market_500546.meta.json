@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500546",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:52:36.842647Z",
+  "market_createdAt": "2024-03-28T22:52:36.842647Z",
+  "market_updatedAt": "2024-11-07T18:59:06.527587Z",
+  "market_startDate": "2024-04-10T19:26:13.74Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:30:38+00",
+  "conditionId": "0x079198b7870967b849aa4ac928a6335239636893156752603ccefcf968608eb7",
+  "slug": "congressional-district-3rd-nebraska-will-a-candidate-from-another-party-win",
+  "question": "Will a candidate from another party win Nebraska's 3rd congressional district?"
+}

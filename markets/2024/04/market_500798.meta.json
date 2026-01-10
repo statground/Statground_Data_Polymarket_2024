@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T15:55:12.573615Z",
+  "market_createdAt": "2024-04-08T15:55:12.573615Z",
+  "market_updatedAt": "2024-05-07T23:09:11.596899Z",
+  "market_startDate": "2024-04-08T16:12:42.303Z",
+  "market_endDate": "2024-04-12T12:00:00Z",
+  "market_closedTime": "2024-04-13 06:51:21+00",
+  "conditionId": "0x000d2622bf2bc49ffe1b9b609440017d09a75fa97be607e713b4c0045cfd1916",
+  "slug": "ansem-friendtech-keys-10-eth-by-friday",
+  "question": "Ansem FriendTech keys >10 ETH by Friday?"
+}

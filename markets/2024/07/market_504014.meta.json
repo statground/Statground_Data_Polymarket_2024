@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T21:07:37.217044Z",
+  "market_createdAt": "2024-07-22T21:07:37.217044Z",
+  "market_updatedAt": "2024-07-24T19:42:37.14601Z",
+  "market_startDate": "2024-07-22T22:22:32.008Z",
+  "market_endDate": "2024-07-23T12:00:00Z",
+  "market_closedTime": "2024-07-23 19:52:29+00",
+  "conditionId": "0x9c93680a6d4fd386e880b0362616357b1320c09d53a510899b29cc5d5f00ca1c",
+  "slug": "will-joe-biden-make-an-appearance-by-tomorrow-night",
+  "question": "Will Joe Biden make an appearance today?"
+}

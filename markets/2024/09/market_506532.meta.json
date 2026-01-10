@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:25:34.692168Z",
+  "market_createdAt": "2024-09-06T16:25:34.692168Z",
+  "market_updatedAt": "2024-09-09T04:11:02.874506Z",
+  "market_startDate": "2024-09-06T18:45:26.878288Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 08:41:19+00",
+  "conditionId": "0xa25144cd355dd6781d86418e0a280c6e128d209752dedfef786413703f88f783",
+  "slug": "will-usc-beat-utah-state",
+  "question": "Will USC beat Utah State?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:51:42.098712Z",
+  "market_createdAt": "2024-10-14T18:51:42.098712Z",
+  "market_updatedAt": "2024-10-16T20:10:58.272404Z",
+  "market_startDate": "2024-10-15T00:05:36.367252Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-15 23:51:03+00",
+  "conditionId": "0x2f39e295cd7f5f562b210b45f6af4d51c1968b3f74331dd5f553e82ea6c34a4b",
+  "slug": "will-the-match-between-spain-and-serbia-end-in-a-draw",
+  "question": "Will the match between Spain and Serbia end in a draw?"
+}

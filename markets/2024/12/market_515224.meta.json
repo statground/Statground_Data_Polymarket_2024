@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T23:12:03.590681Z",
+  "market_createdAt": "2024-12-09T23:12:03.590681Z",
+  "market_updatedAt": "2024-12-16T03:51:30.424818Z",
+  "market_startDate": "2024-12-10T18:09:43.69144Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:49:31+00",
+  "conditionId": "0xae7e5072e5c3ca5a45158639ba004c487a4391e1334ad67eb8dd5cd6f11bb2b0",
+  "slug": "stirling-vs-tokkos",
+  "question": "Stirling vs. Tokkos"
+}

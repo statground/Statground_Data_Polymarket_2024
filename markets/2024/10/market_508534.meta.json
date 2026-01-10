@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508534",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:05:18.762882Z",
+  "market_createdAt": "2024-10-01T17:05:18.762882Z",
+  "market_updatedAt": "2024-10-04T18:46:39.430323Z",
+  "market_startDate": "2024-10-02T14:53:43.874012Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:10:26+00",
+  "conditionId": "0x05b4646488eebdc7fa561f49390a36bbb6732fbe4ee360dfba7e09e5e08ebdea",
+  "slug": "will-the-match-between-slavia-praha-and-ajax-end-in-a-draw",
+  "question": "Will the match between Slavia Praha and Ajax end in a Draw?"
+}

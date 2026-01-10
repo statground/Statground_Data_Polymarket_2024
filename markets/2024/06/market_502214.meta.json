@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:14:36.070496Z",
+  "market_createdAt": "2024-06-07T16:14:36.070496Z",
+  "market_updatedAt": "2024-06-08T17:16:14.700542Z",
+  "market_startDate": "2024-06-07T16:20:56.565Z",
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 18:33:16+00",
+  "conditionId": "0x76a5b9b0d27659629d195550aeb67114627936b530481de6d726820952fc53c9",
+  "slug": "roaring-kitty-stream-over-1-hour-late",
+  "question": "Roaring Kitty stream over 1 hour late?"
+}

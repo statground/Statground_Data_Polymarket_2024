@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T17:49:07.158398Z",
+  "market_createdAt": "2024-12-13T17:49:07.158398Z",
+  "market_updatedAt": "2024-12-16T01:31:29.824194Z",
+  "market_startDate": "2024-12-13T18:26:30.639561Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 01:40:11+00",
+  "conditionId": "0xbeccc07f7e9f87382e49a69b90b0492a70ee766efa20d3cf6846ef064e533d9a",
+  "slug": "will-joe-biden-attend-the-army-navy-game",
+  "question": "Will Joe Biden attend the Army-Navy game?"
+}

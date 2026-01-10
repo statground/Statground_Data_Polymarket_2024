@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:23:58.625532Z",
+  "market_createdAt": "2024-09-11T16:23:58.625532Z",
+  "market_updatedAt": "2024-09-15T06:13:02.989997Z",
+  "market_startDate": "2024-09-11T23:04:37.606298Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 06:15:21+00",
+  "conditionId": "0x73285f4deb0321d1b6067f9b7e8e214bdfcffa44d8e29a23c7b235f216a06622",
+  "slug": "will-trump-say-rig-or-rigged-during-his-nevada-rally",
+  "question": "Will Trump say \"rig\" or \"rigged\" during his Nevada rally?"
+}

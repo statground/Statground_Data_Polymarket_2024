@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:03:16.212049Z",
+  "market_createdAt": "2024-08-26T18:03:16.212049Z",
+  "market_updatedAt": "2024-08-31T02:33:02.100207Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 02:35:13+00",
+  "conditionId": "0xe2e9619685689c1bd8a24154a692869f7d3765e4b8e14e5a200d07bf53a44473",
+  "slug": "will-donald-trump-say-maga-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"MAGA\" during Michigan town hall?"
+}

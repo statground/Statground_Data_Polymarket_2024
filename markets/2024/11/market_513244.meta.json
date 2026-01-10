@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:57:18.782721Z",
+  "market_createdAt": "2024-11-15T21:57:18.782721Z",
+  "market_updatedAt": "2025-01-21T19:55:01.478846Z",
+  "market_startDate": "2024-11-15T22:39:14.814Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:05:12+00",
+  "conditionId": "0x8755ff274d9a5c690dbd2cb35a5599c23382a679655abd8355f669e6850fba86",
+  "slug": "will-trump-say-border-5-or-more-times-during-his-inauguration-speech",
+  "question": "Will Trump say \"border\" 5 or more times during his inauguration speech?"
+}

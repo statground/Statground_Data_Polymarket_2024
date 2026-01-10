@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T20:52:15.155919Z",
+  "market_createdAt": "2024-10-07T20:52:15.155919Z",
+  "market_updatedAt": "2024-10-13T05:36:36.571491Z",
+  "market_startDate": "2024-10-07T21:17:22.501202Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 06:10:59+00",
+  "conditionId": "0x7f4e5e7dda246faf25385185c85d3dbb73963315baacd343ee0f0cd6b130cf88",
+  "slug": "israel-military-action-against-iraq-by-friday",
+  "question": "Israel military action against Iraq by Friday?"
+}

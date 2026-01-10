@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T16:32:21.564568Z",
+  "market_createdAt": "2024-07-03T16:32:21.564568Z",
+  "market_updatedAt": "2024-07-07T11:30:46.444448Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 11:32:52+00",
+  "conditionId": "0xd4a35d59beaf5750c1ac011a831b6d0532b8835c39098e97471e1f24c9bbd932",
+  "slug": "kamala-says-unburdened-by-friday",
+  "question": "Kamala says \"unburdened\" by Friday?"
+}

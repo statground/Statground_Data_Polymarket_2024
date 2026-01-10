@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:46:20.605376Z",
+  "market_createdAt": "2024-10-28T20:46:20.605376Z",
+  "market_updatedAt": "2024-11-02T03:07:11.90209Z",
+  "market_startDate": "2024-10-28T23:26:57.387Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:14:08+00",
+  "conditionId": "0xa60ceec3fcf3ddc178effb561d9bc3aa6b77ccefff0d2516a3fe9201cfd128ad",
+  "slug": "will-trump-say-halloween-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"Halloween\" during Henderson, Nevada rally on Oct 31?"
+}

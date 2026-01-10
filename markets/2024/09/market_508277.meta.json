@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T19:23:16.387404Z",
+  "market_createdAt": "2024-09-26T19:23:16.387404Z",
+  "market_updatedAt": "2024-09-29T18:32:45.697028Z",
+  "market_startDate": "2024-09-27T16:16:13.6246Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 01:14:22+00",
+  "conditionId": "0xc9e918c273b4576da1a6c7579739eea97d0231d5bc9aadabb9f09445d662a91f",
+  "slug": "will-usc-beat-wisconsin-by-15-or-more-points",
+  "question": "Will USC beat Wisconsin by 15 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-24T23:47:05.845000Z",
+  "market_createdAt": "2024-01-24T23:47:05.845Z",
+  "market_updatedAt": "2024-02-26T08:06:50.067Z",
+  "market_startDate": "2024-01-25T17:14:00Z",
+  "market_endDate": "2024-02-20T00:00:00Z",
+  "market_closedTime": "2024-02-25 11:02:06+00",
+  "conditionId": "0x315804188956a5ece2ae6e7ebfcc6fdb3ef9e00c4dbdc8af41f705009c6baf07",
+  "slug": "will-trump-win-the-south-carolina-primary-by-between-30-40-of-the-vote",
+  "question": "Will Trump win the South Carolina Primary by between 30-40% of the vote?"
+}

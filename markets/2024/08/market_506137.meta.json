@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T17:03:42.713620Z",
+  "market_createdAt": "2024-08-30T17:03:42.71362Z",
+  "market_updatedAt": "2024-09-07T17:53:01.688711Z",
+  "market_startDate": "2024-08-30T17:03:42.71362Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 18:17:24+00",
+  "conditionId": "0xf230b0ca36ed8b21af6656ac012ee57b6207bca9897aa75b908411d6d262038b",
+  "slug": "bitcoin-above-60000-on-september-6",
+  "question": "Bitcoin above $60,000 on September 6?"
+}

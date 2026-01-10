@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:00:58.449029Z",
+  "market_createdAt": "2024-08-07T21:00:58.449029Z",
+  "market_updatedAt": "2024-08-24T02:57:01.261913Z",
+  "market_startDate": "2024-08-09T20:30:40.027Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:54:06+00",
+  "conditionId": "0x34fb158a6bf4e77b90765912a1da62c51455d27328ef827dbad258c3409ffffc",
+  "slug": "will-hunter-biden-speak-at-the-dnc",
+  "question": "Will Hunter Biden speak at the DNC?"
+}

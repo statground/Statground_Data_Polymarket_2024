@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:11:30.594005Z",
+  "market_createdAt": "2024-12-29T07:11:30.594005Z",
+  "market_updatedAt": "2025-01-05T07:39:27.899822Z",
+  "market_startDate": "2024-12-29T07:14:37.487758Z",
+  "market_endDate": "2025-01-11T03:00:00Z",
+  "market_closedTime": "2025-01-04 07:52:34+00",
+  "conditionId": "0x92c1b90ffcceddd5e14f0804c81c25400d37c14b93b2ff04480e5eb65fcbd882",
+  "slug": "nhl-nsh-van-2025-01-03",
+  "question": "Predators vs. Canucks"
+}

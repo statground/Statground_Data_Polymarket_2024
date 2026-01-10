@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:39:43.528278Z",
+  "market_createdAt": "2024-12-13T22:39:43.528278Z",
+  "market_updatedAt": "2024-12-16T21:19:31.153767Z",
+  "market_startDate": "2024-12-13T23:36:26.415881Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:33:17+00",
+  "conditionId": "0x54586a849e170a3cbe0f4d54c59463d7d9a03cb2229cc86569d7a72824b098a7",
+  "slug": "will-the-eagles-beat-the-steelers-by-5-or-more-points",
+  "question": "Will the Eagles beat the Steelers by 5 or more points?"
+}

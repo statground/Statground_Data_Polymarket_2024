@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508457",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:42:46.137131Z",
+  "market_createdAt": "2024-09-30T19:42:46.137131Z",
+  "market_updatedAt": "2024-10-02T21:50:53.544053Z",
+  "market_startDate": "2024-09-30T21:57:42.665207Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:29:06+00",
+  "conditionId": "0x98fe8dbb4bb87916c5b2e2d99e5169983fab1d6aaab1d9e0f79195f2bb2af7dd",
+  "slug": "will-the-match-between-inter-milan-and-red-star-belgrade-end-in-a-draw",
+  "question": "Will the match between Inter Milan and Red Star Belgrade end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:19:43.282000Z",
+  "market_createdAt": "2024-03-01T18:19:43.282Z",
+  "market_updatedAt": "2024-11-07T10:23:05.072847Z",
+  "market_startDate": "2024-03-28T19:31:36.172Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:09:05+00",
+  "conditionId": "0x3f25d7f126eed859499be15fdd9594838b224ba094498d604909b98bc8f92c16",
+  "slug": "will-a-democrat-win-north-dakota-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win North Dakota Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:15:02.833985Z",
+  "market_createdAt": "2024-11-04T23:15:02.833985Z",
+  "market_updatedAt": "2024-11-06T21:57:10.387739Z",
+  "market_startDate": "2024-11-05T00:36:22.25309Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:39:01+00",
+  "conditionId": "0x6c94cce2d37003a5ca77d6acd282b595e4be26dc4a086ec60c6686dce23f3ef7",
+  "slug": "will-the-match-between-borussia-dortmund-and-sturm-graz-end-in-a-draw",
+  "question": "Will the match between Borussia Dortmund and Sturm Graz end in a draw?"
+}

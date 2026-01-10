@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T19:44:43.169758Z",
+  "market_createdAt": "2024-09-20T19:44:43.169758Z",
+  "market_updatedAt": "2024-09-27T01:36:48.53331Z",
+  "market_startDate": "2024-09-20T19:55:43.581117Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-26 03:44:26+00",
+  "conditionId": "0x78927da6968226f4d3aaa84bdf1a6b7eb6d19eacb3e778e12c860974553e7ab2",
+  "slug": "sun-vs-fever-series-winner",
+  "question": "Sun vs. Fever Series Winner"
+}

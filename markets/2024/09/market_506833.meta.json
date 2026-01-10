@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:28:02.393860Z",
+  "market_createdAt": "2024-09-11T16:28:02.39386Z",
+  "market_updatedAt": "2024-09-15T06:33:02.760118Z",
+  "market_startDate": "2024-09-11T23:05:13.629817Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 06:25:23+00",
+  "conditionId": "0x1509d2cd61604c262874f7c8b735f1050fa7126fe08541a4b7d696d64d2f4f8b",
+  "slug": "will-trump-say-cat-during-his-nevada-rally",
+  "question": "Will Trump say \"cat\" during his Nevada rally?"
+}

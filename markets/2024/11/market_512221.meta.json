@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T21:12:48.195484Z",
+  "market_createdAt": "2024-11-06T21:12:48.195484Z",
+  "market_updatedAt": "2024-11-24T21:19:56.015803Z",
+  "market_startDate": "2024-11-06T21:40:32.286Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:42:01+00",
+  "conditionId": "0xc8116fc5b0bf7d46048d0dffccc9baa7d771eba4b400818e2b3bf6259f06edc0",
+  "slug": "will-trump-nominate-ted-mckinney-for-agriculture-secretary",
+  "question": "Will Trump nominate Ted McKinney for Agriculture Secretary?"
+}

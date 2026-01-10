@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:06:33.076533Z",
+  "market_createdAt": "2024-12-29T05:06:33.076533Z",
+  "market_updatedAt": "2025-01-04T07:32:55.504355Z",
+  "market_startDate": "2024-12-29T05:09:05.045911Z",
+  "market_endDate": "2025-01-10T03:00:00Z",
+  "market_closedTime": "2025-01-03 07:38:35+00",
+  "conditionId": "0xf87d0011de00a0983eeb71daff4781be696094de90641ef61cbe4d3ef4ca4ea4",
+  "slug": "nba-phi-gsw-2025-01-02",
+  "question": "76ers vs. Warriors"
+}

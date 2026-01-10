@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T19:47:01.645775Z",
+  "market_createdAt": "2024-03-17T19:47:01.645775Z",
+  "market_updatedAt": "2024-05-07T23:09:47.761366Z",
+  "market_startDate": "2024-03-17T19:53:07.226Z",
+  "market_endDate": "2024-04-08T07:00:00Z",
+  "market_closedTime": "2024-04-09 06:46:10+00",
+  "conditionId": "0xf2c6df24abbd53903894bdca92ed3d2a96d3fd58a192deb766912c4ccc7804ac",
+  "slug": "team-from-midwest-wins-march-madness-2024",
+  "question": "Team from Midwest wins March Madness 2024?"
+}

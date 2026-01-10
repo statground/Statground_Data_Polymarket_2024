@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:41:01.666121Z",
+  "market_createdAt": "2024-10-18T20:41:01.666121Z",
+  "market_updatedAt": "2024-10-21T16:30:52.558985Z",
+  "market_startDate": "2024-10-18T23:24:43.372351Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:34:22+00",
+  "conditionId": "0x4c9b6d39d65bb69195f0490514e6aa405a1b748c529f6d0be14e08bbe2c4a895",
+  "slug": "will-the-packers-beat-the-texans-by-3-or-more-points",
+  "question": " Will the Packers beat the Texans by 3 or more points?"
+}

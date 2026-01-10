@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T17:16:59.875224Z",
+  "market_createdAt": "2024-04-11T17:16:59.875224Z",
+  "market_updatedAt": "2024-05-07T23:09:52.045227Z",
+  "market_startDate": "2024-04-11T17:23:41.449Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:25:31+00",
+  "conditionId": "0x42e7784f06c871909c9af51e8576913905901b0eb7706f7b991eb3feb3345853",
+  "slug": "mog-spot-listed-on-coinbase-in-april",
+  "question": "$MOG spot listed on Coinbase in April?"
+}

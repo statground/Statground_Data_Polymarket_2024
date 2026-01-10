@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:10:02.811512Z",
+  "market_createdAt": "2024-11-24T05:10:02.811512Z",
+  "market_updatedAt": "2024-12-02T01:07:21.656604Z",
+  "market_startDate": "2024-11-24T05:12:37.19911Z",
+  "market_endDate": "2024-12-07T20:30:00Z",
+  "market_closedTime": "2024-12-01 02:25:16+00",
+  "conditionId": "0x02d6b67e0468fdeaabdc5991f18ce5ebfc278b3dd8d3b66f46cf426223ac2513",
+  "slug": "cfb-miami-syr-2024-11-30",
+  "question": "Miami (FL) vs. Syracuse"
+}

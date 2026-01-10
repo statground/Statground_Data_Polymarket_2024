@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T21:29:18.043433Z",
+  "market_createdAt": "2024-10-24T21:29:18.043433Z",
+  "market_updatedAt": "2024-11-07T09:39:06.093865Z",
+  "market_startDate": "2024-10-24T21:51:37.505949Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:55:05+00",
+  "conditionId": "0x4d6b6fc20f5935ea567a3bb9ab9b2eaea5bb4a2a493e4e664e7974fe8de88fdd",
+  "slug": "will-colorado-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will Colorado be the last state to be called by the AP?"
+}

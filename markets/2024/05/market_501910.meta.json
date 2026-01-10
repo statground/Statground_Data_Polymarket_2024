@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T16:05:30.106144Z",
+  "market_createdAt": "2024-05-30T16:05:30.106144Z",
+  "market_updatedAt": "2024-06-05T07:56:14.273397Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-04 08:43:05+00",
+  "conditionId": "0xde664a27edf91e2bec2395705587fd33208ab9b259dc3a83033d9ba3646bee09",
+  "slug": "will-biden-let-ukraine-strike-russia-with-us-weapons",
+  "question": "Will Biden let Ukraine strike Russia with US weapons?"
+}

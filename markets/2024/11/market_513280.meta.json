@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:05:09.083693Z",
+  "market_createdAt": "2024-11-17T05:05:09.083693Z",
+  "market_updatedAt": "2024-11-22T07:04:49.509117Z",
+  "market_startDate": "2024-11-17T05:08:10.751408Z",
+  "market_endDate": "2024-11-28T03:00:00Z",
+  "market_closedTime": "2024-11-21 07:21:15+00",
+  "conditionId": "0xb93db9ca675f2f902c173f5dd212c57a02576620bd61f9535d2b22a433428396",
+  "slug": "nba-atl-gsw-2024-11-20",
+  "question": "Hawks vs. Warriors"
+}

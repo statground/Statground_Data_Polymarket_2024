@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T03:00:21.390947Z",
+  "market_createdAt": "2024-08-23T03:00:21.390947Z",
+  "market_updatedAt": "2024-08-26T15:00:51.267332Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:35:22+00",
+  "conditionId": "0xa10284ebf9e0968df21f69ad496a2662139568afefb4574a5cb9ae638f203151",
+  "slug": "will-lewis-hamilton-win-the-dutch-grand-prix",
+  "question": "Will Lewis Hamilton win the Dutch Grand Prix?"
+}

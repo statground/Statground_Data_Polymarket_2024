@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:43:18.168615Z",
+  "market_createdAt": "2024-12-29T18:43:18.168615Z",
+  "market_updatedAt": "2026-01-02T08:31:11.927951Z",
+  "market_startDate": "2024-12-29T22:52:12.219Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:19:55+00",
+  "conditionId": "0x5a54c2fe06f97a6abf5f7790d9d19e42680ae1ca61b344360deabaab28bd0f30",
+  "slug": "weed-rescheduled-in-2025",
+  "question": "Weed rescheduled in 2025?"
+}

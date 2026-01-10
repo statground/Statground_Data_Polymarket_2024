@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T22:57:28.364025Z",
+  "market_createdAt": "2024-06-03T22:57:28.364025Z",
+  "market_updatedAt": "2024-06-19T04:41:14.338598Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:05:32+00",
+  "conditionId": "0x69ee04245297e23d4878fa8d8612a63336f9f7ded74464a278689b1ea0727dde",
+  "slug": "jayson-tatum-top-scorer-in-nba-finals",
+  "question": "Jayson Tatum top scorer in NBA Finals? "
+}

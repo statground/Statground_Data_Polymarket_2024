@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:03:26.863534Z",
+  "market_createdAt": "2024-04-29T19:03:26.863534Z",
+  "market_updatedAt": "2024-05-23T11:44:11.126203Z",
+  "market_startDate": "2024-04-29T22:52:37.652Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-05-22 21:06:54+00",
+  "conditionId": "0x3a94bf8ad9f9192fd3c9faa52d648a2de0460f83aaa30ad12628ecebe73d2cd1",
+  "slug": "uk-election-in-october",
+  "question": "UK election in October? "
+}

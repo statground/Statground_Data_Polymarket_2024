@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:54:45.972922Z",
+  "market_createdAt": "2024-08-28T19:54:45.972922Z",
+  "market_updatedAt": "2025-01-28T02:04:38.6415Z",
+  "market_startDate": "2024-08-28T19:54:45.972922Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-27 03:19:05+00",
+  "conditionId": "0xe2ce622d89aea8088e6f8ce054356023a7d6fc0c8c9778431f6db823a4aa22fc",
+  "slug": "will-the-commanders-win-the-nfc-championship",
+  "question": "Will the Commanders win the NFC Championship?"
+}

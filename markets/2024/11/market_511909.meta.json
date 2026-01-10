@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:34:23.573204Z",
+  "market_createdAt": "2024-11-04T18:34:23.573204Z",
+  "market_updatedAt": "2024-11-09T05:12:54.573938Z",
+  "market_startDate": "2024-11-04T18:37:28.112848Z",
+  "market_endDate": "2024-11-08T01:00:00Z",
+  "market_closedTime": "2024-11-08 05:28:01+00",
+  "conditionId": "0x96c915cbcebb969603efcd05add89e105f83c53968c5f83495d4bdb2a5c4e986",
+  "slug": "nba-por-sas-2024-11-07",
+  "question": "Trail Blazers vs. Spurs"
+}

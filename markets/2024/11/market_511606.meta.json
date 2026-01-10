@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511606",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:12:59.447988Z",
+  "market_createdAt": "2024-11-01T16:12:59.447988Z",
+  "market_updatedAt": "2024-11-05T05:13:13.344965Z",
+  "market_startDate": "2024-11-01T16:15:50.363557Z",
+  "market_endDate": "2024-11-04T00:30:00Z",
+  "market_closedTime": "2024-11-04 05:36:21+00",
+  "conditionId": "0x0e780e85e1cf8b42ec304aa4cdbd63345641863d222c411310bf8a2d25bc7724",
+  "slug": "nba-orl-dal-2024-11-03",
+  "question": "Magic vs. Mavericks"
+}

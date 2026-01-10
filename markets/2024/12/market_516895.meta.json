@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:06:45.844027Z",
+  "market_createdAt": "2024-12-30T22:06:45.844027Z",
+  "market_updatedAt": "2025-01-01T23:25:11.904489Z",
+  "market_startDate": "2024-12-30T23:02:16.259465Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 01:55:55+00",
+  "conditionId": "0x70ece9ccbe9093a57deafa6bb5cb29a233e0247a4391dc101a8ca4e646751165",
+  "slug": "will-south-carolina-win-the-citrus-bowl",
+  "question": "Will South Carolina win the Citrus Bowl?"
+}

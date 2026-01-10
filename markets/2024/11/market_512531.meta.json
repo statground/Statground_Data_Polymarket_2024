@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:17:33.331042Z",
+  "market_createdAt": "2024-11-08T22:17:33.331042Z",
+  "market_updatedAt": "2024-11-24T05:43:21.813925Z",
+  "market_startDate": "2024-11-14T01:40:59.92Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:55:33+00",
+  "conditionId": "0xdb1bd5509c4f3d74228ab9f4371d8f9aa4d3e6965ad64454f327c4126e1d1901",
+  "slug": "will-trump-nominate-dana-wade-for-hud-secretary",
+  "question": "Will Trump nominate Dana Wade for HUD Secretary?"
+}

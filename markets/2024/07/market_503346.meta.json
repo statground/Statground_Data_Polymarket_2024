@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:13:08.388524Z",
+  "market_createdAt": "2024-07-10T16:13:08.388524Z",
+  "market_updatedAt": "2025-11-05T20:46:04.432617Z",
+  "market_startDate": "2024-07-10T16:13:08.388Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:04:49+00",
+  "conditionId": "0xfe6a684dc0aafcb6b936a7da2dafac48e47a518f1a7c79fb75f612d2d9d1a813",
+  "slug": "us-congress-stock-trading-ban-by-august-31",
+  "question": "US congress stock trading ban by August 31?"
+}

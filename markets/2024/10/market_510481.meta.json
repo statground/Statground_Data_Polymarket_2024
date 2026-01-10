@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:38:27.003540Z",
+  "market_createdAt": "2024-10-22T00:38:27.00354Z",
+  "market_updatedAt": "2024-10-28T18:31:02.258305Z",
+  "market_startDate": "2024-10-22T00:41:05.868Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:20:10+00",
+  "conditionId": "0x31de3b3976325ff4e345ed6ba33e925c07910941009ce3a512d994a05cc1881a",
+  "slug": "epl-wes-mun-2024-10-27-draw",
+  "question": "Will West Ham vs. Man Utd end in a draw?"
+}

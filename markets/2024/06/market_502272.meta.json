@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T18:55:58.622692Z",
+  "market_createdAt": "2024-06-10T18:55:58.622692Z",
+  "market_updatedAt": "2024-07-06T06:50:48.242847Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:28:11+00",
+  "conditionId": "0x238b1d5bd9d37fdfb4b840be41984397d7b39320bbdf08b21ecb50cbe100186e",
+  "slug": "another-party-wins-the-second-most-seats-in-next-uk-election",
+  "question": "Another party wins the second most seats in next UK election? "
+}

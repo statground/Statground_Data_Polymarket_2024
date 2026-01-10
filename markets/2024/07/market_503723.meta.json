@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:50:20.979217Z",
+  "market_createdAt": "2024-07-18T17:50:20.979217Z",
+  "market_updatedAt": "2024-07-30T16:13:09.178594Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:26+00",
+  "conditionId": "0x83eccd55ab4ae12c7a0276e16106b5af47f7ce0ae6ac749b5df1520759743ed8",
+  "slug": "will-pieter-coetze-rsa-win-gold-in-mens-100m-backstroke",
+  "question": "Will Pieter Coetze (RSA) win Gold in Men's 100m Backstroke?"
+}

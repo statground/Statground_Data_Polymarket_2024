@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T16:02:39.392957Z",
+  "market_createdAt": "2024-10-11T16:02:39.392957Z",
+  "market_updatedAt": "2024-10-14T04:01:00.96078Z",
+  "market_startDate": "2024-10-11T19:16:18.026161Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 05:21:35+00",
+  "conditionId": "0xc1028c705d64fe1da73f0cc3dc7c86e694d151cb242e03d0b6f3731a381bac31",
+  "slug": "will-iowa-st-beat-west-virginia-by-4-or-more-points",
+  "question": "Will Iowa St. beat West Virginia by 4 or more points?"
+}

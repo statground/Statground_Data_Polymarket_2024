@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T17:21:13.780746Z",
+  "market_createdAt": "2024-04-11T17:21:13.780746Z",
+  "market_updatedAt": "2024-05-07T23:09:11.586877Z",
+  "market_startDate": "2024-04-11T17:24:03.833Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:31:05+00",
+  "conditionId": "0x441103a4e4caefcbe7a9ede327123e1b8c2fcf59aea1df7494b665448d40a45e",
+  "slug": "bitcoin-spot-listed-on-coinbase-in-april",
+  "question": "$BITCOIN spot listed on Coinbase in April?"
+}

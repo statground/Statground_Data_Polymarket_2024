@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:22:56.725359Z",
+  "market_createdAt": "2024-09-08T00:22:56.725359Z",
+  "market_updatedAt": "2024-09-09T07:16:57.90916Z",
+  "market_startDate": "2024-09-08T01:56:53.773976Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:35:36+00",
+  "conditionId": "0x3d7cd253cf611b2e6b7b4f7a42a6d006ddb2ded2c56ced7c4f589898aa276bbd",
+  "slug": "will-the-texans-win-by-3-or-more-points",
+  "question": "Will the Texans win by 3 or more points?"
+}

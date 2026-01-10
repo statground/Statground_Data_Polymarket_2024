@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T16:44:27.274745Z",
+  "market_createdAt": "2024-12-09T16:44:27.274745Z",
+  "market_updatedAt": "2024-12-10T03:53:14.219026Z",
+  "market_startDate": "2024-12-09T23:23:30.085944Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-10 03:50:06+00",
+  "conditionId": "0xee6f1c1c313f0ab1ecc4969d7f6d5113ef42f49789e8914057e643a102f24747",
+  "slug": "will-jamarr-chase-score-a-touchdown",
+  "question": "Will Ja’Marr Chase score a Touchdown?"
+}

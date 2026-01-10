@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T18:03:55.081882Z",
+  "market_createdAt": "2024-11-02T18:03:55.081882Z",
+  "market_updatedAt": "2024-11-04T21:17:17.870891Z",
+  "market_startDate": "2024-11-02T20:40:50.613557Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 07:28:21+00",
+  "conditionId": "0x1bcce23d3f78ee77a7788d696ba37045409a54396a41a240b6ad4af2e136344e",
+  "slug": "will-geoffrey-kamworor-win-the-2024-mens-new-york-city-marathon",
+  "question": "Will Geoffrey Kamworor win the 2024 Men’s New York City Marathon?"
+}

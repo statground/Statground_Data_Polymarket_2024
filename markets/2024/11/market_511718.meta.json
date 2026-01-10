@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:27:07.077862Z",
+  "market_createdAt": "2024-11-01T19:27:07.077862Z",
+  "market_updatedAt": "2024-11-04T17:01:04.208072Z",
+  "market_startDate": "2024-11-02T21:31:55.060193Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 22:10:30+00",
+  "conditionId": "0xb6830fa9e75b2d50c5cc2ed004c965af5218fd311d19d5f6c0152cd872cd19d6",
+  "slug": "will-the-ravens-and-broncos-combine-for-47-or-more-points",
+  "question": "Will the Ravens and Broncos combine for 47 or more points?"
+}

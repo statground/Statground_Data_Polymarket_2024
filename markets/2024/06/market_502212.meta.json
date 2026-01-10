@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:08:35.100660Z",
+  "market_createdAt": "2024-06-07T16:08:35.10066Z",
+  "market_updatedAt": "2024-06-15T09:56:15.15813Z",
+  "market_startDate": "2024-06-13T17:35:03.119Z",
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-14 19:09:56+00",
+  "conditionId": "0x9074d07e0264398a93f6fbc3f4525b6d7be2a621d15f21971144e22675048cba",
+  "slug": "will-elon-post-90-99-times",
+  "question": "Will Elon post 90-99 times?"
+}

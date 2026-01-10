@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T18:02:57.648409Z",
+  "market_createdAt": "2024-10-11T18:02:57.648409Z",
+  "market_updatedAt": "2024-10-22T22:13:11.438423Z",
+  "market_startDate": "2024-10-11T18:05:35.111931Z",
+  "market_endDate": "2024-10-21T19:00:00Z",
+  "market_closedTime": "2024-10-22 00:14:20+00",
+  "conditionId": "0x000388290ce64d1e5e98a246b96f6c3af5e731d6d0f27cdd88dd6e1791808c09",
+  "slug": "epl-not-cry-2024-10-21-draw",
+  "question": "Will Nottingham Forest vs. Crystal Palace end in a draw?"
+}

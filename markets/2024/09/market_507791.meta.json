@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:20:38.672864Z",
+  "market_createdAt": "2024-09-23T20:20:38.672864Z",
+  "market_updatedAt": "2024-09-30T17:02:36.232067Z",
+  "market_startDate": "2024-09-24T01:24:53.830338Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 18:09:50+00",
+  "conditionId": "0x741173ad41407bd18f53c071198d17b99eb75fe5d8a116d53630911c022a1362",
+  "slug": "will-aston-villa-beat-ipswich-town",
+  "question": "Will Aston Villa beat Ipswich Town?"
+}

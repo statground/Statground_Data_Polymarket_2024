@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T21:31:56.115000Z",
+  "market_createdAt": "2024-03-01T21:31:56.115Z",
+  "market_updatedAt": "2024-03-08T07:21:38.453Z",
+  "market_startDate": "2024-03-01T22:16:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-08 07:18:29+00",
+  "conditionId": "0x6c5eeaf074a4f42a7d05ce2aa441b62a16f8f67452af259815bf894edd9900e4",
+  "slug": "will-another-candidate-get-first-place-in-the-california-senate-primary",
+  "question": "Will another candidate get first place in the California Senate Primary?"
+}

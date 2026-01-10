@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:02:33.432739Z",
+  "market_createdAt": "2024-12-22T05:02:33.432739Z",
+  "market_updatedAt": "2024-12-25T04:45:24.667312Z",
+  "market_startDate": "2024-12-22T05:05:17.022854Z",
+  "market_endDate": "2024-12-31T00:30:00Z",
+  "market_closedTime": "2024-12-24 05:03:51+00",
+  "conditionId": "0x8e280ce9a364937d8adb45dd6dd16ab423f16c92e93e2cb42ca748952cbe0ebd",
+  "slug": "nba-tor-nyk-2024-12-23",
+  "question": "Raptors vs. Knicks"
+}

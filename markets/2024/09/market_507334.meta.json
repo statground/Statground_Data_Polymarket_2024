@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:10:27.323496Z",
+  "market_createdAt": "2024-09-17T19:10:27.323496Z",
+  "market_updatedAt": "2024-09-20T20:52:47.017209Z",
+  "market_startDate": "2024-09-17T22:29:30.936706Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:18:32+00",
+  "conditionId": "0x11ae4cd91705a0feaf42fd11acca6a0c896912c7134947dd1bd48709975e6698",
+  "slug": "will-stade-brestois-beat-sturm-graz",
+  "question": "Will Stade Brestois beat Sturm Graz?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:06:07.815015Z",
+  "market_createdAt": "2024-12-10T16:06:07.815015Z",
+  "market_updatedAt": "2024-12-11T21:55:16.73286Z",
+  "market_startDate": "2024-12-10T16:27:57.381Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 23:12:52+00",
+  "conditionId": "0x0f88f4fc40cbdca866ce85993d66c6110ba3a5a0f7441012a8d5e0e2d99fbd60",
+  "slug": "will-kjp-say-assad-during-press-briefing",
+  "question": "Will KJP say \"Assad\" during press briefing?"
+}

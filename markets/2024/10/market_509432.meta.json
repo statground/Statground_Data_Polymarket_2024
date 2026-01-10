@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T19:57:21.297054Z",
+  "market_createdAt": "2024-10-09T19:57:21.297054Z",
+  "market_updatedAt": "2024-10-14T23:50:55.875092Z",
+  "market_startDate": "2024-10-10T23:03:46.88086Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:48:59+00",
+  "conditionId": "0x08412efdda17494686bb75f1a051f2ab4c5dad2f5158772e9a2dc88066ad7b25",
+  "slug": "will-trump-say-tax-30-or-more-times-during-arizona-rally-on-october-13",
+  "question": "Will Trump say \"tax\" 30 or more times during Arizona rally on October 13?"
+}

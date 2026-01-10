@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T17:31:45.373494Z",
+  "market_createdAt": "2024-12-31T17:31:45.373494Z",
+  "market_updatedAt": "2026-01-02T08:32:40.280127Z",
+  "market_startDate": "2024-12-31T18:53:03.852625Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 08:33:47+00",
+  "conditionId": "0x3694d359186f0688246045a29a3143bd93ee6df053df2341c441fe7b83458c7c",
+  "slug": "will-kim-jong-un-visit-us-in-2025",
+  "question": "Will Kim Jong Un visit US in 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T16:55:56.129950Z",
+  "market_createdAt": "2024-10-01T16:55:56.12995Z",
+  "market_updatedAt": "2024-10-04T17:26:39.142611Z",
+  "market_startDate": "2024-10-02T14:35:49.676838Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:25:06+00",
+  "conditionId": "0x21e1c5eebb55acf30ff35bef62559e098e8c0bdde7f323b424906d94112b9099",
+  "slug": "will-nice-beat-lazio",
+  "question": "Will Nice beat Lazio?"
+}

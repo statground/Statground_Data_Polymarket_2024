@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:06:45.658535Z",
+  "market_createdAt": "2024-11-01T18:06:45.658535Z",
+  "market_updatedAt": "2024-11-03T23:27:02.668471Z",
+  "market_startDate": "2024-11-01T23:03:11.488542Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:15:48+00",
+  "conditionId": "0x059ee7a979205090be22b078cb897da9f90a8d78a0d4658a91ec9a70eaeecec1",
+  "slug": "will-iowa-and-wisconsin-combine-for-42-or-more-points",
+  "question": "Will Iowa and Wisconsin combine for 42 or more points?"
+}

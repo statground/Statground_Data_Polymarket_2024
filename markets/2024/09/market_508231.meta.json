@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T18:06:50.084409Z",
+  "market_createdAt": "2024-09-26T18:06:50.084409Z",
+  "market_updatedAt": "2024-09-29T20:16:41.4984Z",
+  "market_startDate": "2024-09-27T15:54:23.782967Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 21:54:55+00",
+  "conditionId": "0x5f21d350bf8d75423b8dbd6bf58fc14b7280ac877044763e35e17e7e23e070e2",
+  "slug": "will-kansas-st-beat-oklahoma-st",
+  "question": "Will Kansas St. beat Oklahoma St.?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:49:47.583140Z",
+  "market_createdAt": "2024-11-24T18:49:47.58314Z",
+  "market_updatedAt": "2024-11-26T03:33:41.339732Z",
+  "market_startDate": "2024-11-24T18:52:22.891626Z",
+  "market_endDate": "2024-12-01T23:00:00Z",
+  "market_closedTime": "2024-11-25 03:44:53+00",
+  "conditionId": "0x1f586721b4f61939fac27d597ef63bfa85072209a2600538905b3d464182b852",
+  "slug": "nba-dal-mia-2024-11-24",
+  "question": "Mavericks vs. Heat"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T21:05:30.157180Z",
+  "market_createdAt": "2024-04-11T21:05:30.15718Z",
+  "market_updatedAt": "2024-05-07T23:09:57.139844Z",
+  "market_startDate": "2024-04-11T22:09:35.042Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-19 23:01:41+00",
+  "conditionId": "0x7231b7ba4e3a11929bb14ca7ebd267cf716b50bb28f8c336c8930fb26fee386f",
+  "slug": "will-barney-cry",
+  "question": "Will Barney cry?"
+}

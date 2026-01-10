@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-21T16:40:21.700066Z",
+  "market_createdAt": "2024-03-21T16:40:21.700066Z",
+  "market_updatedAt": "2024-05-07T23:10:12.755846Z",
+  "market_startDate": "2024-03-22T18:58:08.109Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-03-30 04:42:37+00",
+  "conditionId": "0xc4841c3d0c2281567e5ba4e65664fdc843a10a87268112997a5d57e4a8583f21",
+  "slug": "will-stanford-win-the-ncaa-tournament-women",
+  "question": "Will Stanford win the Women's NCAA tournament?"
+}

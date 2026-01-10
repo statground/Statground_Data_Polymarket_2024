@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T17:32:02.638593Z",
+  "market_createdAt": "2024-05-10T17:32:02.638593Z",
+  "market_updatedAt": "2024-05-19T06:09:17.979308Z",
+  "market_startDate": "2024-05-10T17:39:50.654Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-18 09:05:31+00",
+  "conditionId": "0x4c25617ac5304a59ffb135f2dacd1755f4fb63001d67d46ad18e4b62afb894ac",
+  "slug": "drake-drops-new-track-by-may-17",
+  "question": "Drake drops new track by Friday?"
+}

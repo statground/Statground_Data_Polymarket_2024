@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:04:17.847889Z",
+  "market_createdAt": "2024-11-05T19:04:17.847889Z",
+  "market_updatedAt": "2024-11-08T00:03:08.383875Z",
+  "market_startDate": "2024-11-05T19:46:56.019Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:54:22+00",
+  "conditionId": "0x4d0f4ca17084cd66f1534f2d7edd3c3d6961fd27bf7d4ce99f3e9f381d727600",
+  "slug": "will-kamala-say-victory-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"Victory\" in her speech after the election is called?"
+}

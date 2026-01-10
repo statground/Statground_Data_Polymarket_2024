@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:26:12.832094Z",
+  "market_createdAt": "2024-10-25T18:26:12.832094Z",
+  "market_updatedAt": "2024-10-27T22:56:52.749054Z",
+  "market_startDate": "2024-10-25T22:20:11.450397Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:40:33+00",
+  "conditionId": "0x68accaa1ce6b5ffe63712b3ec8966de53bf4624c12ec133a4f6838054bcc86a9",
+  "slug": "will-tcu-beat-texas-tech",
+  "question": "Will TCU beat Texas Tech?"
+}

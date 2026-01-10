@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T22:50:24.167335Z",
+  "market_createdAt": "2024-03-22T22:50:24.167335Z",
+  "market_updatedAt": "2024-05-07T23:09:32.972009Z",
+  "market_startDate": "2024-03-22T22:51:48.792Z",
+  "market_endDate": "2024-05-01T12:00:00Z",
+  "market_closedTime": "2024-05-02 06:01:00+00",
+  "conditionId": "0xc0e59b40615d51809404d9a0012ef4321cdaa316a99c0ba63260fdefe99089f6",
+  "slug": "will-trump-be-speaker-by-may-1",
+  "question": "Will Trump be Speaker by May 1?"
+}

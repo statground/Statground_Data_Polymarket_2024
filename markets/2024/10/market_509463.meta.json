@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509463",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:49:13.484240Z",
+  "market_createdAt": "2024-10-09T21:49:13.48424Z",
+  "market_updatedAt": "2024-10-12T00:16:49.694414Z",
+  "market_startDate": "2024-10-09T22:44:32.72675Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 02:38:03+00",
+  "conditionId": "0xd78b95b03da014abb57504ef50c3352721a54fa13d53fa9a508b1e491bebb191",
+  "slug": "will-venezuela-beat-argentina",
+  "question": "Will Venezuela beat Argentina?"
+}

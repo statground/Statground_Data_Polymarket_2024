@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500552",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T23:10:24.624987Z",
+  "market_createdAt": "2024-03-28T23:10:24.624987Z",
+  "market_updatedAt": "2024-11-08T14:48:59.850964Z",
+  "market_startDate": "2024-04-10T19:32:03.023Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 20:59:59+00",
+  "conditionId": "0xa457cf5d0184d3c4e68ff04e79357bd4dd5b68bdabd018855ef0ef1c790c7b76",
+  "slug": "congressional-district-2nd-maine-will-a-candidate-from-another-party-win",
+  "question": "Will a candidate from another party win Maine's 2nd congressional district?"
+}

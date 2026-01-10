@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:56:51.807591Z",
+  "market_createdAt": "2024-08-19T19:56:51.807591Z",
+  "market_updatedAt": "2024-08-22T05:16:52.570036Z",
+  "market_startDate": "2024-08-20T15:21:22.267Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:40:56+00",
+  "conditionId": "0xc55d8f9bd072815942a0e01c934c9bc29f5b16ec792d3aa8a0b06e6942d06f09",
+  "slug": "will-obama-say-muslim-at-dnc-speech",
+  "question": "Will Obama say \"Muslim\" at DNC speech?"
+}

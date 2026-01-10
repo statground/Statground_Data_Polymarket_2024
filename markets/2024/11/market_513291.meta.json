@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:07:39.440134Z",
+  "market_createdAt": "2024-11-17T05:07:39.440134Z",
+  "market_updatedAt": "2024-11-24T04:22:48.470233Z",
+  "market_startDate": "2024-11-17T05:10:12.041989Z",
+  "market_endDate": "2024-11-30T01:00:00Z",
+  "market_closedTime": "2024-11-23 05:25:37+00",
+  "conditionId": "0xdf602174d77030e7687325815978eb75aa82433dfb35369879d5cc9d8af78d8e",
+  "slug": "nba-por-hou-2024-11-22",
+  "question": "Trail Blazers vs. Rockets"
+}

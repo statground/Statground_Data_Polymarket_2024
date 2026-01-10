@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:01:56.736071Z",
+  "market_createdAt": "2024-12-08T07:01:56.736071Z",
+  "market_updatedAt": "2024-12-14T03:51:15.12448Z",
+  "market_startDate": "2024-12-08T07:05:20.674339Z",
+  "market_endDate": "2024-12-20T01:00:00Z",
+  "market_closedTime": "2024-12-13 05:40:08+00",
+  "conditionId": "0x72619ddef4cd84bf46504c008ae0656e706d4be070b77189f63a68ea4c8716cd",
+  "slug": "nhl-sj-stl-2024-12-12",
+  "question": "Sharks vs. Blues"
+}

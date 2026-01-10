@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:13:20.549825Z",
+  "market_createdAt": "2024-10-25T21:13:20.549825Z",
+  "market_updatedAt": "2024-10-28T21:37:14.528763Z",
+  "market_startDate": "2024-10-25T21:59:56.234745Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 21:49:26+00",
+  "conditionId": "0x2a32df143fc73c54a954869788e00da51b58d431be7f418911c46eda10bcffcf",
+  "slug": "will-the-falcons-and-buccaneers-combine-for-46-or-more-points",
+  "question": "Will the Falcons and Buccaneers combine for 46 or more points?"
+}

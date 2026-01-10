@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-04T18:48:07.841796Z",
+  "market_createdAt": "2024-07-04T18:48:07.841796Z",
+  "market_updatedAt": "2024-07-06T05:45:46.703748Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 06:42:13+00",
+  "conditionId": "0x395a8d8b7b6c45dff9921b68a122dd4f20b82167b7afc9208d9abe9d8d236770",
+  "slug": "will-this-match-be-a-draw-argentina-ecuador",
+  "question": "Will this match be a draw?"
+}

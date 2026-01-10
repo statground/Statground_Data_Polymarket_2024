@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-23T18:12:49.373926Z",
+  "market_createdAt": "2024-04-23T18:12:49.373926Z",
+  "market_updatedAt": "2024-06-02T03:51:08.565711Z",
+  "market_startDate": "2024-04-23T18:47:34.893Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:10:15+00",
+  "conditionId": "0x79cd52e2a95ec417f477565fce1478a331bababdd0fe9722cbe8c0d6e25f5f67",
+  "slug": "will-mfer-hit-1-billion-fdv-before-june",
+  "question": "Will $MFER hit $1 Billion FDV before June?"
+}

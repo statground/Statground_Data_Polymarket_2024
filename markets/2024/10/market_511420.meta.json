@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:06:15.378849Z",
+  "market_createdAt": "2024-10-30T16:06:15.378849Z",
+  "market_updatedAt": "2024-11-01T22:33:12.416379Z",
+  "market_startDate": "2024-10-30T18:04:38.293531Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 22:26:25+00",
+  "conditionId": "0x84b76abb7cd69027f3424e9026ecdd4df3cefa8042706b1cd26b42c9230366c1",
+  "slug": "will-trump-say-border-20-or-more-times-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"Border\" 20 or more times during New Mexico rally on October 31?"
+}

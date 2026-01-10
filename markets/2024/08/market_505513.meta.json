@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:38:02.035115Z",
+  "market_createdAt": "2024-08-21T14:38:02.035115Z",
+  "market_updatedAt": "2024-08-23T02:11:06.783213Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 03:40:32+00",
+  "conditionId": "0x93e35180d7ec38850781e9c189b57694ed06582c90e0043c5741e117bff27056",
+  "slug": "will-bill-clinton-say-hillary-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Hillary\" at DNC speech?"
+}

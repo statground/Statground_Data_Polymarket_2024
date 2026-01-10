@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:04:51.704571Z",
+  "market_createdAt": "2024-07-19T18:04:51.704571Z",
+  "market_updatedAt": "2024-08-02T17:13:04.115496Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 22:00:32+00",
+  "conditionId": "0x85a54e3e64294c5671bcb6621832c0affc6a17e593523159e6c278205d58a9c8",
+  "slug": "will-ilya-kharun-can-win-gold-in-mens-200m-butterfly",
+  "question": "Will Ilya Kharun (CAN) win Gold in Men's 200m Butterfly?"
+}

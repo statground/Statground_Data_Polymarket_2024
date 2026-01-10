@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T16:22:40.753434Z",
+  "market_createdAt": "2024-09-05T16:22:40.753434Z",
+  "market_updatedAt": "2024-09-08T22:33:00.682012Z",
+  "market_startDate": "2024-09-05T19:26:25.376364Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 23:57:08+00",
+  "conditionId": "0x4753a127685ef0a6f200d87ae74ae2afd69c1395c27333399a252ac333ee26ee",
+  "slug": "will-germany-win-sept-7",
+  "question": "Will Germany win?"
+}

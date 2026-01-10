@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:14:53.241548Z",
+  "market_createdAt": "2024-07-22T17:14:53.241548Z",
+  "market_updatedAt": "2024-07-29T05:45:06.502949Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 05:53:30+00",
+  "conditionId": "0xcba1ad83f8b79baa7fb2b91a9e9a9a63e8f50e6ca21241c28f28b7ea9c9c40be",
+  "slug": "ufc-304-king-green-vs-paddy-pimblett",
+  "question": "UFC 304: King Green vs. Paddy Pimblett"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T15:52:13.550090Z",
+  "market_createdAt": "2024-10-30T15:52:13.55009Z",
+  "market_updatedAt": "2024-11-07T20:33:04.224139Z",
+  "market_startDate": "2024-10-30T16:37:10.021Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:05:00+00",
+  "conditionId": "0x44313b9dd95e513746e51e5900764407094dadf38a0949efb652139fe500a4be",
+  "slug": "kamala-rust-belt-swing-state-sweep",
+  "question": "Kamala Rust Belt swing state sweep?"
+}

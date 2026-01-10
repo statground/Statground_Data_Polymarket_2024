@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:20:28.331448Z",
+  "market_createdAt": "2024-10-04T18:20:28.331448Z",
+  "market_updatedAt": "2024-10-07T16:22:42.107188Z",
+  "market_startDate": "2024-10-04T21:52:51.214066Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:11:46+00",
+  "conditionId": "0x5461bdeec41f749333fa4d599646b976b4c59f4daedddb9a685f5f05c8a10a1c",
+  "slug": "will-the-patriots-and-dolphins-combine-for-37-or-more-points",
+  "question": "Will the Patriots and Dolphins combine for 37 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T15:54:09.745706Z",
+  "market_createdAt": "2024-12-11T15:54:09.745706Z",
+  "market_updatedAt": "2025-05-02T08:20:35.433288Z",
+  "market_startDate": "2024-12-11T16:00:33.870867Z",
+  "market_endDate": "2025-04-30T12:00:00Z",
+  "market_closedTime": "2025-05-01 07:24:09+00",
+  "conditionId": "0x5cb6ce8bcbb9daa89e5ce0a2f8ac9fe54c9a47119f31c3db2ddb9139a47209b2",
+  "slug": "fact-check-is-luigi-mangione-gay",
+  "question": "Fact Check: Is Luigi Mangione gay?"
+}

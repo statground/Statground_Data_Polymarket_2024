@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T01:37:27.789000Z",
+  "market_createdAt": "2024-03-05T01:37:27.789Z",
+  "market_updatedAt": "2024-04-26T02:53:38.108997Z",
+  "market_startDate": "2024-03-06T19:22:05.814Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 06:46:35+00",
+  "conditionId": "0x156686029bcb82a1b984437d664d7cd679c592630b28ddd3478509d2e5d74481",
+  "slug": "will-biden-say-navalny-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"Navalny\" during his State of the Union address?"
+}

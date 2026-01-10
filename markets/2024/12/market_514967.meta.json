@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T19:11:29.961498Z",
+  "market_createdAt": "2024-12-06T19:11:29.961498Z",
+  "market_updatedAt": "2025-01-02T07:51:01.934194Z",
+  "market_startDate": "2024-12-06T20:13:20.323548Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:12:56+00",
+  "conditionId": "0x31b8e2f48050a40cb1fa0319dbe7a51ade884a82d6f028a3e8d9f44e6bc6a65a",
+  "slug": "calin-georgescu-arrested-in-2024",
+  "question": "Calin Georgescu arrested in 2024?"
+}

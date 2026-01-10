@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T22:38:48.061566Z",
+  "market_createdAt": "2024-07-29T22:38:48.061566Z",
+  "market_updatedAt": "2024-08-07T15:56:46.631702Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 23:39:12+00",
+  "conditionId": "0x54e2f3ecd3c5ddaf2504a33c45d55192fdc747747130ec8dc220878f68c5080b",
+  "slug": "gary-peters-democratic-vp-nominee",
+  "question": "Gary Peters Democratic VP nominee?"
+}

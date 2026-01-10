@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:42:10.315758Z",
+  "market_createdAt": "2024-10-22T16:42:10.315758Z",
+  "market_updatedAt": "2024-10-25T20:17:04.685926Z",
+  "market_startDate": "2024-10-22T21:07:20.49258Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:22:48+00",
+  "conditionId": "0xd654a8c4f3bddce55b8e97266cdd48737a7b1466b0fa0a106ae098719179b62b",
+  "slug": "will-the-match-between-anderlecht-and-ludogorets-end-in-a-draw",
+  "question": "Will the match between Anderlecht and Ludogorets end in a draw?"
+}

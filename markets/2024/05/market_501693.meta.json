@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T16:43:21.538001Z",
+  "market_createdAt": "2024-05-20T16:43:21.538001Z",
+  "market_updatedAt": "2024-05-22T18:04:15.757939Z",
+  "market_startDate": null,
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-05-21 18:47:42+00",
+  "conditionId": "0x7ba505fc77519d66e8b5685a7121318c50bded0a4dc856a47a1e0f89b188fb9b",
+  "slug": "will-ansem-tweet-again-before-sol-all-time-high",
+  "question": "Will Ansem tweet again before SOL all time high?"
+}

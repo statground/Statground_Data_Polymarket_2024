@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:48:01.565926Z",
+  "market_createdAt": "2024-12-05T21:48:01.565926Z",
+  "market_updatedAt": "2024-12-09T18:09:25.047391Z",
+  "market_startDate": "2024-12-05T23:00:00.235Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:24:09+00",
+  "conditionId": "0x65be37b7274a8d7a4d5b2e00fcec01716361e8a563e238b035cdabc592890d60",
+  "slug": "will-trump-say-matt-or-gaetz-during-nbc-interview",
+  "question": "Will Trump say \"Matt\" or \"Gaetz\" during NBC interview?"
+}

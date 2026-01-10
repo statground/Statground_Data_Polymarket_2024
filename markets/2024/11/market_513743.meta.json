@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T18:55:28.492194Z",
+  "market_createdAt": "2024-11-22T18:55:28.492194Z",
+  "market_updatedAt": "2025-11-05T20:45:56.736003Z",
+  "market_startDate": "2024-11-22T19:08:17.517Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 07:58:23+00",
+  "conditionId": "0xe4016bf863c65c94cddfb219e48f556dd38fbf3badd8273dd933be4852e3f528",
+  "slug": "us-congress-stock-trading-ban-in-first-100-days",
+  "question": "US congress stock trading ban in Trump's first 100 days?"
+}

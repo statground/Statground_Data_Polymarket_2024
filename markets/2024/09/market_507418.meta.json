@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T18:03:17.068712Z",
+  "market_createdAt": "2024-09-18T18:03:17.068712Z",
+  "market_updatedAt": "2024-11-08T22:58:57.672076Z",
+  "market_startDate": "2024-09-18T18:10:52.647425Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:54:40+00",
+  "conditionId": "0x61962c3f51c9c2e4f3885da88b70d3378a822830e42df02a19c7b035737515bc",
+  "slug": "will-the-fed-change-rates-to-another-level-after-nov-meeting",
+  "question": "Will the FED change rates to another level after Nov meeting?"
+}

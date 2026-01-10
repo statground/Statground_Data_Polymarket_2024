@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T15:57:55.189224Z",
+  "market_createdAt": "2024-04-05T15:57:55.189224Z",
+  "market_updatedAt": "2024-08-08T06:16:55.470109Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-07 06:45:13+00",
+  "conditionId": "0x6bfcbcfe5007d6ff0653844d3ded94e279289c6a1645b8a2ffe543b50affc415",
+  "slug": "will-wesley-bell-win-the-mo-1-democratic-house-primary",
+  "question": "Will Wesley Bell win the MO-1 Democratic House Primary?"
+}

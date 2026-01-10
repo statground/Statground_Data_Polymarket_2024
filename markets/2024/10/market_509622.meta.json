@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:28:55.639009Z",
+  "market_createdAt": "2024-10-11T15:28:55.639009Z",
+  "market_updatedAt": "2024-10-13T19:30:52.588655Z",
+  "market_startDate": "2024-10-11T18:59:47.82436Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 00:10:53+00",
+  "conditionId": "0xb05db4ee452e3c5a77a9047965b8b93a25d09bb5d8c581e530c9cf79ef8b35ef",
+  "slug": "will-notre-dame-and-stanford-combine-for-46-or-more-points",
+  "question": "Will Notre Dame and Stanford combine for 46 or more points?"
+}

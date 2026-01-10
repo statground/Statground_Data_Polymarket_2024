@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:28:22.333000Z",
+  "market_createdAt": "2024-03-05T05:28:22.333Z",
+  "market_updatedAt": "2024-04-26T03:01:00.237904Z",
+  "market_startDate": "2024-03-05T06:03:39.324Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:17:06+00",
+  "conditionId": "0x4c0aa3e9caf40881ebaa409f420959d1cc2e3b4618911658e4901371f6f8162e",
+  "slug": "will-trump-win-massachusetts-republican-primary",
+  "question": "Will Trump win Massachusetts Republican Primary?"
+}

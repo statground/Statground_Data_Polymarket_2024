@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T00:03:31.540660Z",
+  "market_createdAt": "2024-10-08T00:03:31.54066Z",
+  "market_updatedAt": "2024-11-28T08:17:32.657442Z",
+  "market_startDate": "2024-10-08T16:21:52.242247Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-27 08:27:48+00",
+  "conditionId": "0x63b1697d66131bce1b4d406599548bb6007671197a1596b6403335f2592a61f1",
+  "slug": "will-the-democratic-candidate-win-nevada-by-3pt0-4pt0",
+  "question": "Will the Democratic candidate win Nevada by 3.0%-4.0%? "
+}

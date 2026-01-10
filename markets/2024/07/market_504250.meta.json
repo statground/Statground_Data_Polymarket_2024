@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-28T16:44:03.942333Z",
+  "market_createdAt": "2024-07-28T16:44:03.942333Z",
+  "market_updatedAt": "2024-08-04T04:12:58.450474Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 06:04:08+00",
+  "conditionId": "0xc20fd92a86df89bd5326dd387f45f74133cf5bc568c4eb229de74c11bf5b0eb3",
+  "slug": "will-israel-invade-lebanon-by-friday",
+  "question": "Will Israel invade Lebanon by Friday?"
+}

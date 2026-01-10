@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:32:26.684305Z",
+  "market_createdAt": "2024-09-18T20:32:26.684305Z",
+  "market_updatedAt": "2024-11-16T04:44:58.669793Z",
+  "market_startDate": "2024-09-19T17:21:36.570447Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-16 04:42:05+00",
+  "conditionId": "0xfbf2acf66535ba048b45722a772edd9c2fbc5b52cbac12a68c723cd99aad5871",
+  "slug": "who-will-win-maricopa-county",
+  "question": "Who will win Maricopa county?"
+}

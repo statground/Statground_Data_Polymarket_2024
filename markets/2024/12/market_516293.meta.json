@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:08:38.511937Z",
+  "market_createdAt": "2024-12-22T07:08:38.511937Z",
+  "market_updatedAt": "2024-12-30T03:29:48.862292Z",
+  "market_startDate": "2024-12-22T07:11:16.624325Z",
+  "market_endDate": "2025-01-05T00:30:00Z",
+  "market_closedTime": "2024-12-29 05:32:26+00",
+  "conditionId": "0x0de4099df47b413acbf399ef8ff58d9cb1cc6420c9f4314f2494b6103c02dfda",
+  "slug": "nhl-pit-nyi-2024-12-28",
+  "question": "Penguins vs. Islanders"
+}

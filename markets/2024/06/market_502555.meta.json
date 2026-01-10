@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T20:39:28.146214Z",
+  "market_createdAt": "2024-06-17T20:39:28.146214Z",
+  "market_updatedAt": "2024-07-15T20:56:50.990491Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:37:07+00",
+  "conditionId": "0xa0a04d3947d7b66c606c57462b2ed57e09d5b00c635372bcb3a8f96543094c99",
+  "slug": "will-harry-kane-be-euro-2024-top-scorer",
+  "question": "Will Harry Kane be Euro 2024 top scorer?"
+}

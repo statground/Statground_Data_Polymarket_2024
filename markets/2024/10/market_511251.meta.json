@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:24:35.531711Z",
+  "market_createdAt": "2024-10-28T21:24:35.531711Z",
+  "market_updatedAt": "2024-11-03T06:37:03.864405Z",
+  "market_startDate": "2024-10-29T00:02:39.3038Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 06:39:41+00",
+  "conditionId": "0xe72d8cd3622f7418ce55f5ab057f844147f82d838632be7a0262be8d15ffa60c",
+  "slug": "will-trump-say-teleprompter-3-or-more-times-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"teleprompter\" 3 or more times during Wisconsin rally on Nov 1?"
+}

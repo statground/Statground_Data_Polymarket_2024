@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:20:44.948173Z",
+  "market_createdAt": "2024-09-08T00:20:44.948173Z",
+  "market_updatedAt": "2024-09-09T18:17:13.475748Z",
+  "market_startDate": "2024-09-08T01:55:20.355341Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:19:54+00",
+  "conditionId": "0x394eeae8c4deb17957f66338bf49811c5c906011640464eb9e20788c654dc6ba",
+  "slug": "will-the-bengals-win-by-8-or-more-points",
+  "question": "Will the Bengals win by 8 or more points?"
+}

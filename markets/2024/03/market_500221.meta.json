@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T04:17:52.746209Z",
+  "market_createdAt": "2024-03-18T04:17:52.746209Z",
+  "market_updatedAt": "2024-05-07T23:09:39.067824Z",
+  "market_startDate": "2024-03-18T18:53:19.761Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-31 23:50:10+00",
+  "conditionId": "0xfa6756df01054c0bba13004fe78fe993ae6ef6bae929199b0919cd82c934171a",
+  "slug": "will-tennessee-win-the-ncaa-tournament",
+  "question": "Will Tennessee win the NCAA tournament?"
+}

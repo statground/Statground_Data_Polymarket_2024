@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:40:11.319071Z",
+  "market_createdAt": "2024-12-17T22:40:11.319071Z",
+  "market_updatedAt": "2025-01-07T03:17:25.787377Z",
+  "market_startDate": "2024-12-17T23:46:16.743052Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2025-01-06 06:24:56+00",
+  "conditionId": "0xf38cc15d9824916962fc3f6adcd04083a016f9e427f9efed59449915f73c4204",
+  "slug": "will-the-brutalist-win-the-golden-globe-for-best-original-score",
+  "question": "Will 'The Brutalist' win the Golden Globe for Best Original Score?"
+}

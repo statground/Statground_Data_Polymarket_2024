@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:38:44.624126Z",
+  "market_createdAt": "2024-11-26T08:38:44.624126Z",
+  "market_updatedAt": "2024-11-30T01:07:21.091703Z",
+  "market_startDate": "2024-11-26T23:06:06.499728Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:09:55+00",
+  "conditionId": "0xa75eb340f5477fb8969f5d8585929ca933899cef7f0912129cd935d05999ce00",
+  "slug": "will-bodo-glimt-beat-manchester-united",
+  "question": "Will Bodo Glimt beat Manchester United?"
+}

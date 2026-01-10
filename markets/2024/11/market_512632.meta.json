@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-09T20:34:11.177559Z",
+  "market_createdAt": "2024-11-09T20:34:11.177559Z",
+  "market_updatedAt": "2024-12-05T07:35:26.878337Z",
+  "market_startDate": "2024-11-10T00:13:18.012795Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-04 10:17:16+00",
+  "conditionId": "0xf5cfd9bae0b2586e4627d4df7ee6ef30e0bbc71e65d963506a399ae4f664d95d",
+  "slug": "will-republicans-control-221-seats-in-the-house-after-the-election",
+  "question": "Will Republicans control 221 seats in the House after the election?"
+}

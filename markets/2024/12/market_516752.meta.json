@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:06:48.958240Z",
+  "market_createdAt": "2024-12-30T05:06:48.95824Z",
+  "market_updatedAt": "2025-01-05T19:13:21.077366Z",
+  "market_startDate": "2024-12-30T05:09:29.936246Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:08:10+00",
+  "conditionId": "0x0357da7e4f6fe0d1c0aea86eda2ce0315256524e0f8741f43f699eb301cd2629",
+  "slug": "epl-mac-wes-2025-01-04-wes",
+  "question": "Will West Ham win on 2025-01-04?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T15:55:57.763751Z",
+  "market_createdAt": "2024-11-23T15:55:57.763751Z",
+  "market_updatedAt": "2024-11-24T23:57:48.288033Z",
+  "market_startDate": "2024-11-23T17:37:17.207772Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-24 02:12:25+00",
+  "conditionId": "0x1490229fc59c0adb476651144032faebdb02c64ff85f92276f8aec832bc85451",
+  "slug": "texas-vs-kentucky",
+  "question": "Texas vs. Kentucky"
+}

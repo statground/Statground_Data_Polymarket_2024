@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:21:08.316068Z",
+  "market_createdAt": "2024-10-18T18:21:08.316068Z",
+  "market_updatedAt": "2024-10-21T06:02:51.037303Z",
+  "market_startDate": "2024-10-18T23:05:49.43819Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 08:01:58+00",
+  "conditionId": "0x2ae936608fc6aef0391d5281a0ad10efa44e7f237b3511327c90def8c302d32c",
+  "slug": "will-utah-beat-tcu",
+  "question": "Will Utah beat TCU?"
+}

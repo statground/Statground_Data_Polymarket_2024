@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T22:06:26.094775Z",
+  "market_createdAt": "2024-06-15T22:06:26.094775Z",
+  "market_updatedAt": "2024-06-17T21:46:12.242892Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 00:19:44+00",
+  "conditionId": "0x4e9cc974485103ba8b0bd6b40c05a7b01fd31108a48d4a239dd1f5daebe6483e",
+  "slug": "will-england-win",
+  "question": "Will England win?"
+}

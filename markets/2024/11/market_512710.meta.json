@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:09:46.555583Z",
+  "market_createdAt": "2024-11-11T18:09:46.555583Z",
+  "market_updatedAt": "2024-11-17T06:27:16.046026Z",
+  "market_startDate": "2024-11-11T18:12:19.481819Z",
+  "market_endDate": "2024-11-23T03:00:00Z",
+  "market_closedTime": "2024-11-16 07:49:29+00",
+  "conditionId": "0xe0aab951c4d21903be23014b3ba9bb959d96ceac72adaac40d2af34d510f5121",
+  "slug": "nba-min-sac-2024-11-15",
+  "question": "Timberwolves vs. Kings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:15:47.447200Z",
+  "market_createdAt": "2024-10-23T00:15:47.4472Z",
+  "market_updatedAt": "2024-11-25T01:19:46.33265Z",
+  "market_startDate": "2024-10-23T17:55:05.939417Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-24 04:09:15+00",
+  "conditionId": "0x079a9f7ace19cdca701739d0c726a4ca3e5f3e098b45fb8dec6d98224c18b0ef",
+  "slug": "will-new-york-city-fc-win-the-mls-cup",
+  "question": "Will New York City FC win the MLS Cup?"
+}

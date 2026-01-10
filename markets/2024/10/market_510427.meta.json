@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:11:13.225923Z",
+  "market_createdAt": "2024-10-21T22:11:13.225923Z",
+  "market_updatedAt": "2024-10-24T21:21:13.787755Z",
+  "market_startDate": "2024-10-22T00:52:57.063154Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 21:57:40+00",
+  "conditionId": "0x7aa7513e63482797b20d8f826bfa0903c17f038f447db0eadc67b08fbe97803c",
+  "slug": "will-atalanta-beat-celtic",
+  "question": "Will Atalanta beat Celtic?"
+}

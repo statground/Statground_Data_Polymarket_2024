@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:31:49.954485Z",
+  "market_createdAt": "2024-07-17T17:31:49.954485Z",
+  "market_updatedAt": "2024-08-11T21:20:56.266536Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 00:32:30+00",
+  "conditionId": "0xe1348aa74082dc3763cfdafce3b091012ef33d5b0aa4acd57e00876847d0038d",
+  "slug": "will-another-country-win-gold-in-mens-basketball",
+  "question": "Will another country win Gold in Men's Basketball?"
+}

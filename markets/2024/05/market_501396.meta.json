@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T19:26:30.661173Z",
+  "market_createdAt": "2024-05-03T19:26:30.661173Z",
+  "market_updatedAt": "2024-05-08T18:13:55.656878Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-07T12:00:00Z",
+  "market_closedTime": "2024-05-08 00:05:06+00",
+  "conditionId": "0x89e4eb18ab07e56993130a16aa6d2746368d309b5011fcbced0c2b553edd5736",
+  "slug": "will-borussia-dortmund-win-2024-05-07",
+  "question": "Will Borussia Dortmund win?"
+}

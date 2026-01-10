@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:44:30.293430Z",
+  "market_createdAt": "2024-09-06T15:44:30.29343Z",
+  "market_updatedAt": "2024-10-05T16:02:40.671519Z",
+  "market_startDate": "2024-09-06T19:06:18.102672Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-04 15:56:20+00",
+  "conditionId": "0xa7a9316a2a86e4c1e2cce4449dda5b548ed00ed8ac2a990ce345227601708094",
+  "slug": "us-adds-ore-than-250k-jobs-in-september",
+  "question": "US adds ore than 250k jobs in September?"
+}

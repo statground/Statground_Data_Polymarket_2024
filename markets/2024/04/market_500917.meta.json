@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-12T14:43:20.676632Z",
+  "market_createdAt": "2024-04-12T14:43:20.676632Z",
+  "market_updatedAt": "2024-06-15T01:09:33.772544Z",
+  "market_startDate": "2024-04-12T16:57:01.927Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 01:07:56+00",
+  "conditionId": "0x1bf009231937cd876608131b4d168189825e2ad642b08ab472663948fef65cef",
+  "slug": "will-jacob-zuma-be-the-next-president-of-south-africa",
+  "question": "Will Jacob Zuma be the next President of South Africa?"
+}

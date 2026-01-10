@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T01:44:29.448807Z",
+  "market_createdAt": "2024-09-26T01:44:29.448807Z",
+  "market_updatedAt": "2024-09-29T23:50:39.967706Z",
+  "market_startDate": "2024-09-26T14:39:27.015678Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-29 01:29:44+00",
+  "conditionId": "0x6f2a8d843a729fb84f26ffa5c617b84a3bddfd046f961bed21cb019e222bfbea",
+  "slug": "ziam-vs-frevola",
+  "question": "Ziam vs. Frevola"
+}

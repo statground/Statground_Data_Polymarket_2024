@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:27:11.780744Z",
+  "market_createdAt": "2024-12-13T19:27:11.780744Z",
+  "market_updatedAt": "2024-12-17T06:15:22.626616Z",
+  "market_startDate": "2024-12-13T19:29:41.160884Z",
+  "market_endDate": "2024-12-23T01:30:00Z",
+  "market_closedTime": "2024-12-16 06:12:09+00",
+  "conditionId": "0x75b3de975678608f82c0fc17c45a374cf63cb90164c65b2662c3939913d86806",
+  "slug": "nba-dal-gsw-2024-12-15",
+  "question": "Mavericks vs. Warriors"
+}

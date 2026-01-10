@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:14:28.509884Z",
+  "market_createdAt": "2024-11-24T18:14:28.509884Z",
+  "market_updatedAt": "2024-12-01T22:39:37.874272Z",
+  "market_startDate": "2024-11-24T18:17:04.888325Z",
+  "market_endDate": "2024-11-30T17:30:00Z",
+  "market_closedTime": "2024-11-30 22:51:11+00",
+  "conditionId": "0xeedf49438f58b8dbaad3c89ec97a6cd7be30c38b6757c52f812e3909512b949e",
+  "slug": "epl-wes-ars-2024-11-30-ars",
+  "question": "Will Arsenal win on 2024-11-30?"
+}

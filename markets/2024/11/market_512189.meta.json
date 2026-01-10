@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:14:10.129162Z",
+  "market_createdAt": "2024-11-06T18:14:10.129162Z",
+  "market_updatedAt": "2024-11-16T01:36:57.8438Z",
+  "market_startDate": "2024-11-06T18:39:51.385Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:42:02+00",
+  "conditionId": "0xa9370ec28f1872eb96ebe74b33203704382dc66e7329ceba304524ff534c6dcf",
+  "slug": "will-trump-nominate-bill-hagerty-for-secretary-of-state",
+  "question": "Will Trump nominate Bill Hagerty for Secretary of State?"
+}

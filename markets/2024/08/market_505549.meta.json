@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:38:50.930704Z",
+  "market_createdAt": "2024-08-21T15:38:50.930704Z",
+  "market_updatedAt": "2024-08-23T05:13:07.313127Z",
+  "market_startDate": "2024-08-21T17:27:51.479Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:06:28+00",
+  "conditionId": "0x5f407644c862f5e59dc6d724edf33a860a52f5641949e5b49f7b22bcdfe3c40c",
+  "slug": "will-pete-buttigieg-say-mayor-2-or-more-times-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Mayor\" 2 or more times in DNC speech?"
+}

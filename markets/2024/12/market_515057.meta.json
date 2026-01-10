@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T06:00:16.805220Z",
+  "market_createdAt": "2024-12-08T06:00:16.80522Z",
+  "market_updatedAt": "2024-12-14T06:11:10.754986Z",
+  "market_startDate": "2024-12-08T06:03:40.74893Z",
+  "market_endDate": "2024-12-20T01:15:00Z",
+  "market_closedTime": "2024-12-13 06:16:08+00",
+  "conditionId": "0x5132d0a92ad461ef662bd28c099337f1cc8b54242931d1c074a6bb5b9530a122",
+  "slug": "nfl-la-sf-2024-12-12",
+  "question": "Rams vs. 49ers"
+}

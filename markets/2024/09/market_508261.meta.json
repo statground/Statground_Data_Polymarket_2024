@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T18:55:14.226161Z",
+  "market_createdAt": "2024-09-26T18:55:14.226161Z",
+  "market_updatedAt": "2024-11-13T17:27:15.049293Z",
+  "market_startDate": "2024-09-26T20:51:01.684889Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-11-12 17:23:51+00",
+  "conditionId": "0x081a3af89aac47acfee404ab036363915ec8a86bd0f777d185fa52ac7b346a98",
+  "slug": "will-another-pumpfun-coin-be-first-to-1b",
+  "question": "Will another Pump.fun coin be first to $1b?"
+}

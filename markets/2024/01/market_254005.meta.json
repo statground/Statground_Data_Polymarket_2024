@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T20:01:18.725000Z",
+  "market_createdAt": "2024-01-18T20:01:18.725Z",
+  "market_updatedAt": "2024-07-17T02:56:41.444947Z",
+  "market_startDate": "2024-01-18T21:14:00Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:02:47+00",
+  "conditionId": "0xcbd8b18d2be8101ca0f467e0840adcc52381c03fde07884c4b1ec0ae8356e0ed",
+  "slug": "will-ben-carson-win-the-2024-republican-vp-nomination",
+  "question": "Will Ben Carson win the 2024 Republican VP nomination?"
+}

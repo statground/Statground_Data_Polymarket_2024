@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T14:52:13.441568Z",
+  "market_createdAt": "2024-09-09T14:52:13.441568Z",
+  "market_updatedAt": "2024-09-12T03:23:03.823571Z",
+  "market_startDate": "2024-09-09T14:56:33.447Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:23:24+00",
+  "conditionId": "0x7ac736b7717487491be32f683cd44313cf963d8a01e345e02575238fa69ed215",
+  "slug": "will-trump-say-springfield-at-debate",
+  "question": "Will Trump say \"Springfield\" at debate?"
+}

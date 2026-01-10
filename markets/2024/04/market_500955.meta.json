@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T17:58:23.550231Z",
+  "market_createdAt": "2024-04-15T17:58:23.550231Z",
+  "market_updatedAt": "2024-05-07T23:09:34.553675Z",
+  "market_startDate": "2024-04-15T19:30:04.73Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-21 02:22:45+00",
+  "conditionId": "0xf3a519b7d219794448b2ca8eb8a620d7580bb98c2c90d02fc07deaceea5a7f70",
+  "slug": "bitcoin-price-24-hours-after-halvening",
+  "question": "Bitcoin price 24 hours after halving?"
+}

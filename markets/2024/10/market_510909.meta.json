@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:14:46.330454Z",
+  "market_createdAt": "2024-10-25T15:14:46.330454Z",
+  "market_updatedAt": "2024-12-03T19:57:08.72209Z",
+  "market_startDate": "2024-10-25T19:49:06.618637Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-02 22:21:30+00",
+  "conditionId": "0x8c17e231fe93db614c7d1ab56121b0f987a0d69b798f2be9d207678efc3e7ac2",
+  "slug": "will-trump-win-iowa-by-12-points",
+  "question": "Will Trump win Iowa by 12+ points?"
+}

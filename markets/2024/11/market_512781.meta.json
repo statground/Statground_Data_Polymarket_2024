@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:39:12.801460Z",
+  "market_createdAt": "2024-11-11T21:39:12.80146Z",
+  "market_updatedAt": "2024-11-24T21:44:19.589977Z",
+  "market_startDate": "2024-11-11T21:41:50.113281Z",
+  "market_endDate": "2024-11-23T17:30:00Z",
+  "market_closedTime": "2024-11-23 22:38:07+00",
+  "conditionId": "0x5232b8ca33acb780f9e4713b98235c3dfb147bb3ab1ea4a8ba358aaffaaa96d6",
+  "slug": "epl-mac-tot-2024-11-23-mac",
+  "question": "Will Man City win on 2024-11-23?"
+}

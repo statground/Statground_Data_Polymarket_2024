@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:03:40.944173Z",
+  "market_createdAt": "2024-12-22T06:03:40.944173Z",
+  "market_updatedAt": "2024-12-30T22:49:38.125503Z",
+  "market_startDate": "2024-12-22T06:06:12.2476Z",
+  "market_endDate": "2025-01-05T18:00:00Z",
+  "market_closedTime": "2024-12-29 23:25:35+00",
+  "conditionId": "0x958f6a47a6ca6ecfca2834f82dda7d7b1cea3f077b48662ab8f325532fd48509",
+  "slug": "nfl-ten-jax-2024-12-29",
+  "question": "Titans vs. Jaguars"
+}

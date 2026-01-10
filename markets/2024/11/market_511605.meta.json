@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:12:28.549126Z",
+  "market_createdAt": "2024-11-01T16:12:28.549126Z",
+  "market_updatedAt": "2024-11-05T04:51:20.592236Z",
+  "market_startDate": "2024-11-01T16:15:18.457995Z",
+  "market_endDate": "2024-11-04T00:00:00Z",
+  "market_closedTime": "2024-11-04 04:50:07+00",
+  "conditionId": "0x83f87823fc9c45eafd287994df1700c82f272f5e7173fb29ca1694ff73ae2844",
+  "slug": "nba-atl-nop-2024-11-03",
+  "question": "Hawks vs. Pelicans"
+}

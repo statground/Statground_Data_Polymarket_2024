@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:21:02.359924Z",
+  "market_createdAt": "2024-11-08T23:21:02.359924Z",
+  "market_updatedAt": "2024-11-11T18:02:50.200649Z",
+  "market_startDate": "2024-11-09T02:57:46.344841Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-11-10 23:01:09+00",
+  "conditionId": "0x442f2f68324b6524a9e6bce9534678ca7c592364caab68a40957e1e1f0d95bb2",
+  "slug": "will-the-49ers-beat-the-buccaneers-by-7-or-more-points",
+  "question": "Will the 49ers beat the Buccaneers by 7 or more points?"
+}

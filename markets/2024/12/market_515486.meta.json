@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T01:07:32.018058Z",
+  "market_createdAt": "2024-12-12T01:07:32.018058Z",
+  "market_updatedAt": "2024-12-17T15:07:39.476364Z",
+  "market_startDate": "2024-12-12T16:16:16.683Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 15:16:44+00",
+  "conditionId": "0x6d4262e50b7e4d4d77afc6145fe7745ff4fc8012e22b5f6902e94d56c4da8921",
+  "slug": "will-microstrategy-purchase-more-bitcoin-in-2024-Dec-11",
+  "question": "Will MicroStrategy purchase more Bitcoin in 2024?"
+}

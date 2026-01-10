@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T00:12:17.610635Z",
+  "market_createdAt": "2024-12-17T00:12:17.610635Z",
+  "market_updatedAt": "2024-12-21T18:26:49.955151Z",
+  "market_startDate": "2024-12-17T00:18:30.441872Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 19:09:39+00",
+  "conditionId": "0x1f34eb8d3807aab07178e5ef11c32b9b6a5889924b86c61559e959d0cfe4e94a",
+  "slug": "pudgy-penguin-floor-price-above-25-eth-on-friday",
+  "question": "Pudgy Penguin floor price above 25 eth on Friday?"
+}

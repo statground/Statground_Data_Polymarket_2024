@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T22:04:33.155439Z",
+  "market_createdAt": "2024-07-03T22:04:33.155439Z",
+  "market_updatedAt": "2024-07-07T20:35:47.335011Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-06 20:43:27+00",
+  "conditionId": "0xe1088ff6c7e3754311625d4b3888296bd544ec640accf09886e51f30a34fb8f9",
+  "slug": "england-vs-switzerland-who-will-advance",
+  "question": "England vs. Switzerland - Who will advance? "
+}

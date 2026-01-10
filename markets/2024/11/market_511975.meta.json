@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:25:19.723229Z",
+  "market_createdAt": "2024-11-04T23:25:19.723229Z",
+  "market_updatedAt": "2024-11-06T23:01:19.344393Z",
+  "market_startDate": "2024-11-05T00:42:59.326713Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:13:23+00",
+  "conditionId": "0xa6f4e7e88360b30eab60e7cf1d2d16f94f5b7b1c9f969db0a9529e7eb4a8b79a",
+  "slug": "will-the-match-between-real-madrid-and-ac-milan-end-in-a-draw",
+  "question": "Will the match between Real Madrid and AC Milan end in a draw?"
+}

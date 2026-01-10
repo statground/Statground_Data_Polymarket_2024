@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:19:00.429200Z",
+  "market_createdAt": "2024-09-17T19:19:00.4292Z",
+  "market_updatedAt": "2024-09-20T21:56:47.65944Z",
+  "market_startDate": "2024-09-17T21:55:09.892174Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:13:48+00",
+  "conditionId": "0x294f173811eb4c32d216dc969154d1b448b16c76f0a4b3b5005def461a6040e6",
+  "slug": "will-the-match-between-monaco-vs-barcelona-end-in-a-draw",
+  "question": "Will the match between Monaco vs. Barcelona end in a draw?"
+}

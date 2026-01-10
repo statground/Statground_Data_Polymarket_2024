@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T22:07:47.626313Z",
+  "market_createdAt": "2024-05-06T22:07:47.626313Z",
+  "market_updatedAt": "2024-05-09T01:08:57.470761Z",
+  "market_startDate": "2024-05-06T22:17:32.269Z",
+  "market_endDate": "2024-05-07T12:00:00Z",
+  "market_closedTime": "2024-05-08 03:23:19+00",
+  "conditionId": "0xe30fd7a8804dcdff52d70a113b9160325aee827d04cbaed69f9824ce8244ab71",
+  "slug": "nba-bos-cle-2024-05-07",
+  "question": "Boston Celtics vs. Cleveland Cavaliers: Game 1"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:15:35.652639Z",
+  "market_createdAt": "2024-10-11T22:15:35.652639Z",
+  "market_updatedAt": "2024-10-14T13:20:43.883923Z",
+  "market_startDate": "2024-10-11T23:16:44.344754Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 18:00:12+00",
+  "conditionId": "0x8727a27fe1b7fe269329ff1ba9263ee74ac494bd0fc3c01acb34bdb47669825c",
+  "slug": "will-the-bears-and-jaguars-combine-for-45-or-more-points",
+  "question": "Will the Bears and Jaguars combine for 45 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:10:06.009542Z",
+  "market_createdAt": "2024-12-30T05:10:06.009542Z",
+  "market_updatedAt": "2025-01-06T20:19:34.178821Z",
+  "market_startDate": "2024-12-30T05:12:35.383508Z",
+  "market_endDate": "2025-01-05T16:30:00Z",
+  "market_closedTime": "2025-01-05 21:43:11+00",
+  "conditionId": "0x3a9e69272a5e4013eabda9e2b70cbeb3749be02471bb9161f8ae8cb87f80dde1",
+  "slug": "epl-liv-mun-2025-01-05-mun",
+  "question": "Will Manchester United win on 2025-01-05?"
+}

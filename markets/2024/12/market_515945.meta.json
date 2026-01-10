@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T05:01:56.882045Z",
+  "market_createdAt": "2024-12-18T05:01:56.882045Z",
+  "market_updatedAt": "2024-12-22T18:55:34.535763Z",
+  "market_startDate": "2024-12-18T05:04:34.903255Z",
+  "market_endDate": "2024-12-21T15:00:00Z",
+  "market_closedTime": "2024-12-21 20:20:11+00",
+  "conditionId": "0xd8ebaeda981f254630e7059be9c47058db5887e578d192a5663f768b639832a0",
+  "slug": "epl-bre-not-2024-12-21-draw",
+  "question": "Will Brentford vs. Nottingham Forest end in a draw?"
+}

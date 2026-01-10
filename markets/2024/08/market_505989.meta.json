@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:58:57.004235Z",
+  "market_createdAt": "2024-08-28T18:58:57.004235Z",
+  "market_updatedAt": "2024-09-02T21:03:02.096871Z",
+  "market_startDate": "2024-08-28T18:58:57.004235Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:25+00",
+  "conditionId": "0x08f0dfac9b89d0caef4b14acb445f7048736e0dfc79f6876996fc548835a7a25",
+  "slug": "will-lando-norris-win-the-italian-grand-prix",
+  "question": "Will Lando Norris win the Italian Grand Prix?"
+}

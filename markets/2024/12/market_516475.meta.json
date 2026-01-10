@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T19:50:53.749715Z",
+  "market_createdAt": "2024-12-26T19:50:53.749715Z",
+  "market_updatedAt": "2024-12-29T07:15:43.470698Z",
+  "market_startDate": "2024-12-26T20:07:39.371Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 07:28:40+00",
+  "conditionId": "0x7b8cb4ea2da27da2217a766d857e25f25398fc8e0be75750c83931099055122d",
+  "slug": "will-trump-comment-on-immigration-debate-by-tomorrow",
+  "question": "Will Trump comment on immigration debate today?"
+}

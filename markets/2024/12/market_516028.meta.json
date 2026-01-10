@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T22:02:25.550695Z",
+  "market_createdAt": "2024-12-18T22:02:25.550695Z",
+  "market_updatedAt": "2025-01-02T05:29:04.559469Z",
+  "market_startDate": "2024-12-19T19:55:27.521Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:08:14+00",
+  "conditionId": "0x03b2fd5851925b8e7c2b8b34352b4c6abacc9e3d58ad2ed186c101b07d204508",
+  "slug": "usd-worth-more-than-euro-before-2025",
+  "question": "USD worth more than Euro before 2025?"
+}

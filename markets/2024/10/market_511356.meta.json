@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T20:15:06.662208Z",
+  "market_createdAt": "2024-10-29T20:15:06.662208Z",
+  "market_updatedAt": "2024-12-18T09:23:15.621942Z",
+  "market_startDate": "2024-10-29T22:02:54.537055Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:22:17+00",
+  "conditionId": "0xf519a03a3b7a44c0527ddf1ffe1e884a87985a36c29eb80698f1a7b07b478884",
+  "slug": "will-trump-get-less-than-66m-votes-in-the-2024-us-presidential-election",
+  "question": "Will Trump get less than 66m votes in the 2024 U.S. Presidential Election?"
+}

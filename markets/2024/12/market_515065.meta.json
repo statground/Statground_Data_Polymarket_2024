@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:01:08.442508Z",
+  "market_createdAt": "2024-12-08T07:01:08.442508Z",
+  "market_updatedAt": "2024-12-14T03:05:16.241713Z",
+  "market_startDate": "2024-12-08T07:04:37.158082Z",
+  "market_endDate": "2024-12-20T00:00:00Z",
+  "market_closedTime": "2024-12-13 04:44:17+00",
+  "conditionId": "0x6bf375dd489f1bad2ba2b6fc0210fd37810e4c42c3e009a6051661b877cf90cd",
+  "slug": "nhl-ana-tor-2024-12-12",
+  "question": "Ducks vs. Maple Leafs"
+}

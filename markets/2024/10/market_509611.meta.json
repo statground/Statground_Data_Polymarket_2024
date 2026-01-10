@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:23:28.743946Z",
+  "market_createdAt": "2024-10-11T15:23:28.743946Z",
+  "market_updatedAt": "2024-10-13T17:32:49.559259Z",
+  "market_startDate": "2024-10-11T18:54:36.359937Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 00:45:44+00",
+  "conditionId": "0x6fd00c82f1a0e9429cfc2f894a9ce68603dcb7bab61d31db1dbdd5cccaa2e3c9",
+  "slug": "will-penn-st-and-usc-combine-for-51-or-more-points",
+  "question": "Will Penn St. and USC combine for 51 or more points?"
+}

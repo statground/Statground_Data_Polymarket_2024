@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T19:29:16.291678Z",
+  "market_createdAt": "2024-05-09T19:29:16.291678Z",
+  "market_updatedAt": "2024-06-20T11:16:14.25466Z",
+  "market_startDate": "2024-05-13T21:49:12.129Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-20 09:22:14+00",
+  "conditionId": "0x4f20b0fe5dc702bc91d2fe7e2011c7e907e528b40f7db80bc12286c4b88e2eb1",
+  "slug": "will-the-epp-win-160-169-seats-in-the-european-parliament",
+  "question": "Will the EPP win 160-169 seats in the European Parliament?"
+}

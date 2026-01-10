@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515196",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:01:07.458147Z",
+  "market_createdAt": "2024-12-09T22:01:07.458147Z",
+  "market_updatedAt": "2024-12-13T00:19:07.503561Z",
+  "market_startDate": "2024-12-10T21:51:40.618394Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:33:15+00",
+  "conditionId": "0xf6bd25d44f113d5b4cf2e338c7f61516fdbe7c9e7a91edf7e972f251be89be74",
+  "slug": "will-borussia-dortmund-beat-barcelona",
+  "question": "Will Borussia Dortmund beat Barcelona?"
+}

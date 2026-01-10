@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T15:40:02.449751Z",
+  "market_createdAt": "2024-05-31T15:40:02.449751Z",
+  "market_updatedAt": "2024-06-09T03:56:13.695455Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:12:40+00",
+  "conditionId": "0x9e3e7ebebe250eb5c747ff3bac449c65addc21b2cebed48901c55e6e4739da05",
+  "slug": "trump-violates-gag-order-by-next-friday",
+  "question": "Trump violates gag order by next Friday?"
+}

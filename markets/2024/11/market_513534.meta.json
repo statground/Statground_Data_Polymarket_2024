@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513534",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T17:15:31.862208Z",
+  "market_createdAt": "2024-11-20T17:15:31.862208Z",
+  "market_updatedAt": "2024-12-05T01:45:30.306132Z",
+  "market_startDate": "2024-11-21T18:30:00.872Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:20:04+00",
+  "conditionId": "0xd2d55e783a4cf12aae5882a43006db45697caccdffcca7f4cd8644771c8358db",
+  "slug": "will-the-social-democratic-alliance-win-the-most-seats-in-the-icelandic-parliamentary-election",
+  "question": "Will the Social Democratic Alliance win the most seats in the Icelandic parliamentary election?"
+}

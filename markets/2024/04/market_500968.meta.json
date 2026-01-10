@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:34:02.267677Z",
+  "market_createdAt": "2024-04-15T20:34:02.267677Z",
+  "market_updatedAt": "2024-05-07T23:09:10.996304Z",
+  "market_startDate": "2024-04-16T16:50:11.967Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-05 06:59:49+00",
+  "conditionId": "0x538bd762238024cd36e533701528ff159b1ff3e6ff4517ff2342ae4dee90dcef",
+  "slug": "toronto-maple-leafs-win-the-2024-stanley-cup",
+  "question": "Toronto Maple Leafs win the 2024 Stanley Cup?"
+}

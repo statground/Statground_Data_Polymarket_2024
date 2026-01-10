@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:41:01.331490Z",
+  "market_createdAt": "2024-11-04T18:41:01.33149Z",
+  "market_updatedAt": "2024-11-10T07:58:52.02744Z",
+  "market_startDate": "2024-11-04T18:44:16.722318Z",
+  "market_endDate": "2024-11-09T03:00:00Z",
+  "market_closedTime": "2024-11-09 07:52:50+00",
+  "conditionId": "0x8fdd9676ee45088ca32ba5d7fee6a2185811534617383f73bc8beb1f7104b5bb",
+  "slug": "nba-phi-lal-2024-11-08",
+  "question": "76ers vs. Lakers"
+}

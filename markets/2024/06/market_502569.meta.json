@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T22:39:47.321821Z",
+  "market_createdAt": "2024-06-17T22:39:47.321821Z",
+  "market_updatedAt": "2024-06-23T06:01:11.362327Z",
+  "market_startDate": "2024-06-17T23:06:57.117Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 06:04:06+00",
+  "conditionId": "0x0bb8c6f366e401369309eb7eaa19fd163112c4136bd1b4116504410bd03cc248",
+  "slug": "will-trump-launch-a-coin-by-friday",
+  "question": "Will Trump launch a coin by Friday?"
+}

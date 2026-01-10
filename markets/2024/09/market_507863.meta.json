@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:21:38.740908Z",
+  "market_createdAt": "2024-09-24T15:21:38.740908Z",
+  "market_updatedAt": "2025-05-24T06:33:01.164899Z",
+  "market_startDate": "2024-09-24T17:31:16.451Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-19 03:14:13+00",
+  "conditionId": "0x497d6cf1098ea666aed470ead36e66ab5a9d54ff29cdf6357708a20aa1808e6e",
+  "slug": "will-the-denver-nuggets-win-the-2025-nba-finals",
+  "question": "Will the Denver Nuggets win the 2025 NBA Finals?"
+}

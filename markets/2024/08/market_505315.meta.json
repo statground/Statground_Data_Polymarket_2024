@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:35:14.398428Z",
+  "market_createdAt": "2024-08-19T16:35:14.398428Z",
+  "market_updatedAt": "2024-09-06T04:13:09.214898Z",
+  "market_startDate": "2024-08-19T16:35:14.398428Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-05 07:05:25+00",
+  "conditionId": "0x544118c6a3b217d91ca75738cdcb4d432ebfc8f3b1efdc0978e97c29da792d5b",
+  "slug": "will-daniil-medvedev-win-the-us-open",
+  "question": "Will Daniil Medvedev win the US Open?"
+}

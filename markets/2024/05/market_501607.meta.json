@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:17:55.299636Z",
+  "market_createdAt": "2024-05-14T23:17:55.299636Z",
+  "market_updatedAt": "2024-06-02T07:11:15.253517Z",
+  "market_startDate": "2024-05-15T00:03:29.124Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:27:49+00",
+  "conditionId": "0x4d2108e3ec94ceb00a63b8f83368b6dce58e4c08dae5e55ece14eb885ef06721",
+  "slug": "will-ilya-join-anthropic",
+  "question": "Will Ilya join Anthropic?"
+}

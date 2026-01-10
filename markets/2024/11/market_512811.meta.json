@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T00:05:59.550563Z",
+  "market_createdAt": "2024-11-12T00:05:59.550563Z",
+  "market_updatedAt": "2024-11-20T04:35:04.500142Z",
+  "market_startDate": "2024-11-12T00:20:06.415578Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 07:02:56+00",
+  "conditionId": "0x7a9c74cacb418bd29122ffe68450ff7e4a18feb4b898c83012505c04baae1307",
+  "slug": "spacex-starship-launch-by-nov-18",
+  "question": "SpaceX Starship launch by Nov 18?"
+}

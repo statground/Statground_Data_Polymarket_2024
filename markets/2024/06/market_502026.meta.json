@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T14:45:35.485162Z",
+  "market_createdAt": "2024-06-03T14:45:35.485162Z",
+  "market_updatedAt": "2024-06-09T06:11:13.352521Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:12:50+00",
+  "conditionId": "0xe51655abc77ce02609f33e77ce7472048083a04ea41040bd9cf8f38daad8d752",
+  "slug": "did-keith-gill-roaringkitty-sell-his-x-account-june-7",
+  "question": "Did Keith Gill (RoaringKitty) sell his X account?"
+}

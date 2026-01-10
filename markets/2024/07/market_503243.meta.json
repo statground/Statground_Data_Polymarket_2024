@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T20:01:35.221651Z",
+  "market_createdAt": "2024-07-05T20:01:35.221651Z",
+  "market_updatedAt": "2024-11-03T14:01:13.59622Z",
+  "market_startDate": "2024-07-05T20:01:35.221651Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:35:26+00",
+  "conditionId": "0x4742343186280954a67cf912f7bc9d2dd0fe38121df58b5c9306ad4b17a5ef7c",
+  "slug": "robert-jenrick-next-conservative-party-leader",
+  "question": "Robert Jenrick next Conservative party leader?"
+}

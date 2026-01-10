@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:08:02.260436Z",
+  "market_createdAt": "2024-12-22T07:08:02.260436Z",
+  "market_updatedAt": "2024-12-30T03:12:06.791984Z",
+  "market_startDate": "2024-12-22T07:10:27.367123Z",
+  "market_endDate": "2025-01-05T00:00:00Z",
+  "market_closedTime": "2024-12-29 04:42:34+00",
+  "conditionId": "0x62efd210df5ae7f33977651bbfb00ee0c335c4c3248b7e489162405b60dc2207",
+  "slug": "nhl-ott-wpg-2024-12-28",
+  "question": "Senators vs. Jets"
+}

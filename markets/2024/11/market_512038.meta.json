@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T18:53:03.233125Z",
+  "market_createdAt": "2024-11-05T18:53:03.233125Z",
+  "market_updatedAt": "2024-11-08T02:57:06.757083Z",
+  "market_startDate": "2024-11-05T19:45:10.212Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:58:15+00",
+  "conditionId": "0x1f5fdee4e1ee967b543725c8c7a6b2b967136eacb0a26016660864099247c021",
+  "slug": "will-kamala-say-vote-3-or-more-times-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"Vote\" 3 or more times in her speech after the election is called?"
+}

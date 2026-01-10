@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:27:38.109745Z",
+  "market_createdAt": "2024-11-25T22:27:38.109745Z",
+  "market_updatedAt": "2024-11-27T22:47:43.440243Z",
+  "market_startDate": "2024-11-26T17:04:59.962359Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:16:09+00",
+  "conditionId": "0xd2b046f32356c2417c28971c97353c087a511496049387a3fbdc16e762e5c2b1",
+  "slug": "will-the-match-between-bayern-munich-and-paris-saint-germain-end-in-a-draw",
+  "question": "Will the match between Bayern Munich and Paris Saint-Germain end in a draw?"
+}

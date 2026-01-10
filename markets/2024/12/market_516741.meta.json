@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:03:03.039046Z",
+  "market_createdAt": "2024-12-30T05:03:03.039046Z",
+  "market_updatedAt": "2025-01-05T20:23:30.89864Z",
+  "market_startDate": "2024-12-30T05:06:00.06334Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:28:56+00",
+  "conditionId": "0x651c35b6bb1e812e616b8d286f57b09efd6e5b125dda48740f9172a41c5254d3",
+  "slug": "epl-bou-eve-2025-01-04-bou",
+  "question": "Will Bournemouth win on 2025-01-04?"
+}

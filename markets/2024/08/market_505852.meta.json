@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:15:28.199454Z",
+  "market_createdAt": "2024-08-26T20:15:28.199454Z",
+  "market_updatedAt": "2024-09-10T00:37:07.863521Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:04:49+00",
+  "conditionId": "0xffc57722ef27e8bd300466527140b98650feb700f47e25b0242a4e8e2f55ded1",
+  "slug": "nfl-lac-las-2024-09-08",
+  "question": "Chargers vs. Raiders"
+}

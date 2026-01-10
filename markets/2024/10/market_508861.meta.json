@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:02:25.557033Z",
+  "market_createdAt": "2024-10-04T16:02:25.557033Z",
+  "market_updatedAt": "2024-10-06T20:26:44.410865Z",
+  "market_startDate": "2024-10-04T18:27:54.729338Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 21:27:15+00",
+  "conditionId": "0x4d30e1435aa7a96012e92f63364af9b5c0e50d17d92729f45b945de8be28678a",
+  "slug": "will-texas-am-beat-missouri",
+  "question": "Will Texas A&M beat Missouri?"
+}

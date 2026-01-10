@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T21:21:51.740000Z",
+  "market_createdAt": "2024-01-18T21:21:51.74Z",
+  "market_updatedAt": "2025-01-02T00:07:18.880752Z",
+  "market_startDate": "2024-01-19T18:10:07.261Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:07:50+00",
+  "conditionId": "0x03aff22abeced3677559974ece8d59b164c9b1dc60703ea7061e9c23a2c09ddc",
+  "slug": "will-argentina-dollarize-in-2024",
+  "question": "Will Argentina dollarize in 2024?"
+}

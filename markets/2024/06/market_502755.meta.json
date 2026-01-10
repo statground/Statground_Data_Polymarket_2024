@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T19:17:40.215209Z",
+  "market_createdAt": "2024-06-21T19:17:40.215209Z",
+  "market_updatedAt": "2024-07-06T05:55:46.470352Z",
+  "market_startDate": "2024-06-21T19:59:43.437Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 06:47:31+00",
+  "conditionId": "0x71dfcc163a40472f0ec1f110184f5a7eab093dad3e3b47909f79764b96f07444",
+  "slug": "stranded-astronauts-return-on-boeing-starliner-by-july-4",
+  "question": "Stranded astronauts depart on Boeing Starliner by July 4?"
+}

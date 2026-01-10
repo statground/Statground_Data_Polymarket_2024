@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T19:39:19.713295Z",
+  "market_createdAt": "2024-08-06T19:39:19.713295Z",
+  "market_updatedAt": "2024-08-08T20:02:54.222641Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:42:58+00",
+  "conditionId": "0x1b65a3b6d176903a95c7c6c3cf117c36565edf54aa89d5c2f32c500056b50b16",
+  "slug": "will-matthew-hudson-smith-gbr-win-gold-in-the-mens-400m",
+  "question": "Will Matthew Hudson-Smith (GBR) win gold in the Men’s 400m?"
+}

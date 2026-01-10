@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:59:40.491241Z",
+  "market_createdAt": "2024-10-18T16:59:40.491241Z",
+  "market_updatedAt": "2024-10-20T18:56:47.050905Z",
+  "market_startDate": "2024-10-18T23:31:48.544215Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 20:57:22+00",
+  "conditionId": "0x4e737eb68e0b5e57f0ac4eecb077986757e23e13997eee5c7dc92b9815d9cba6",
+  "slug": "will-there-be-52-or-more-combined-points-scored-Army-ECU",
+  "question": "Will there be 52 or more combined points scored?"
+}

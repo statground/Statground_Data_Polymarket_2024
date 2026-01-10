@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T14:53:21.971414Z",
+  "market_createdAt": "2024-07-19T14:53:21.971414Z",
+  "market_updatedAt": "2024-07-22T01:40:35.17783Z",
+  "market_startDate": "2024-07-19T22:41:36.282Z",
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-07-21 03:54:20+00",
+  "conditionId": "0x0d06558314b6cdaf832b9a0a613347d6fb1fb9ab6950967ae95fb8176ce6a491",
+  "slug": "ufc-fight-night-who-will-win-holobaugh-vs-kruschewsky",
+  "question": "UFC Fight Night: Who will win - Holobaugh vs. Kruschewsky"
+}

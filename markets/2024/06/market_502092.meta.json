@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:09:22.997216Z",
+  "market_createdAt": "2024-06-04T15:09:22.997216Z",
+  "market_updatedAt": "2024-06-19T07:06:13.034831Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:05:46+00",
+  "conditionId": "0x276120460ba43cdf75878a79811ed75057bfbbea9fa3ed1a9621d6e97a48ac11",
+  "slug": "will-jayson-tatum-have-the-most-assists-in-the-2024-nba-finals-series",
+  "question": "Will Jayson Tatum have the most assists in the 2024 NBA Finals series?"
+}

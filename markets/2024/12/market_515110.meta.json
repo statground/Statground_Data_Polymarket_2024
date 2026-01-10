@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:03:55.869664Z",
+  "market_createdAt": "2024-12-09T17:03:55.869664Z",
+  "market_updatedAt": "2024-12-15T19:49:43.166117Z",
+  "market_startDate": "2024-12-09T17:07:28.490037Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:08:19+00",
+  "conditionId": "0x23dc89fbb460315965aea8972f3766df92104683e2852fc458310bbcde917106",
+  "slug": "epl-ars-eve-2024-12-14-draw",
+  "question": "Will Arsenal vs. Everton end in a draw?"
+}

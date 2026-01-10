@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:19:01.178427Z",
+  "market_createdAt": "2024-07-19T16:19:01.178427Z",
+  "market_updatedAt": "2024-08-02T20:30:59.889833Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 21:56:27+00",
+  "conditionId": "0xd73a10f32c4b98b4caefa68662859f8fc55f1560cf090174bfb9b08c2171e7ec",
+  "slug": "will-jackson-jones-usa-win-gold-in-mens-200m-backstroke",
+  "question": "Will Jackson Jones (USA) win Gold in Men's 200m Backstroke?"
+}

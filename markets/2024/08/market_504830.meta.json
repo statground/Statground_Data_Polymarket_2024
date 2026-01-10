@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T17:38:02.518392Z",
+  "market_createdAt": "2024-08-09T17:38:02.518392Z",
+  "market_updatedAt": "2025-01-07T20:53:15.005443Z",
+  "market_startDate": "2024-08-09T20:19:26.909Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2025-01-06 20:52:34+00",
+  "conditionId": "0x4150752d0efc99377d7388908724cb79e8423768414af7e4a4ee857ac28ef8e3",
+  "slug": "us-presidential-election-certified-on-january-6",
+  "question": "Election certified on January 6?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:13:38.364358Z",
+  "market_createdAt": "2024-12-03T17:13:38.364358Z",
+  "market_updatedAt": "2024-12-09T16:31:26.678934Z",
+  "market_startDate": "2024-12-03T19:44:13.230427Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:59:03+00",
+  "conditionId": "0x962157bd01255975d2eca2a9d90826b45777a7517af528baf0d6a8393905c5f3",
+  "slug": "will-sergio-perez-win-the-abu-dhabi-grand-prix",
+  "question": "Will Sergio Perez win the Abu Dhabi Grand Prix?"
+}

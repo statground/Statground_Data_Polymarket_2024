@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:22:25.349104Z",
+  "market_createdAt": "2024-11-11T17:22:25.349104Z",
+  "market_updatedAt": "2024-12-02T09:03:15.73268Z",
+  "market_startDate": "2024-11-11T22:04:40.075Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 09:08:02+00",
+  "conditionId": "0x116667e4254c4bc91e585db94cb91df8de726c4862f1c8f3eb974f5aff833409",
+  "slug": "will-binance-list-another-pumpfun-coin-november",
+  "question": "Will Binance list another Pump.fun coin in November?"
+}

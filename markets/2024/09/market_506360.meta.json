@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T21:35:05.377369Z",
+  "market_createdAt": "2024-09-03T21:35:05.377369Z",
+  "market_updatedAt": "2024-10-02T18:02:46.436857Z",
+  "market_startDate": "2024-09-05T20:22:30.330069Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 18:11:46+00",
+  "conditionId": "0x251307a78c59ba919f264a3831fb8d3b5041ba931af26049f485bf28c9404b1a",
+  "slug": "bitcoin-above-60000-on-october-1",
+  "question": "Bitcoin above $60,000 on October 1?"
+}

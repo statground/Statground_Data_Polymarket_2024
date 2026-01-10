@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T17:37:24.477000Z",
+  "market_createdAt": "2024-02-26T17:37:24.477Z",
+  "market_updatedAt": "2024-04-26T02:59:34.003979Z",
+  "market_startDate": "2024-02-27T00:11:37.072Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-03-08 06:17:47+00",
+  "conditionId": "0xa65bf2a823b1687da50bb8bfc5cf09d3c65e73b5bc215367fba74ec685630e5f",
+  "slug": "portal-price-beneath-2pt50-one-week-after-launch",
+  "question": "Portal price beneath $2.50 one week after launch?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:31:45.809135Z",
+  "market_createdAt": "2024-11-21T22:31:45.809135Z",
+  "market_updatedAt": "2024-12-13T02:29:05.546856Z",
+  "market_startDate": "2024-11-25T18:45:38.88075Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-12 05:50:15+00",
+  "conditionId": "0x89615f52aafd0722afb67b17464a08463670064f94eb539ae54f638206cbc862",
+  "slug": "will-the-new-york-knicks-win-the-2024-nba-cup",
+  "question": "Will the New York Knicks win the 2024 NBA Cup?"
+}

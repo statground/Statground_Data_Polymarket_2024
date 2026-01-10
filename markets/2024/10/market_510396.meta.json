@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:41:56.833964Z",
+  "market_createdAt": "2024-10-21T20:41:56.833964Z",
+  "market_updatedAt": "2024-10-30T09:07:05.663369Z",
+  "market_startDate": "2024-10-21T20:44:33.760642Z",
+  "market_endDate": "2024-10-29T00:30:00Z",
+  "market_closedTime": "2024-10-29 10:24:26+00",
+  "conditionId": "0x4b304219a99549afed9a167ec29686190d0c1e0cb7b8d966d4b39b1b86f16a4b",
+  "slug": "nba-utah-dal-2024-10-28",
+  "question": "Jazz vs. Mavericks"
+}

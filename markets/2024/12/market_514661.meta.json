@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T15:21:39.128199Z",
+  "market_createdAt": "2024-12-04T15:21:39.128199Z",
+  "market_updatedAt": "2024-12-12T23:43:10.891342Z",
+  "market_startDate": "2024-12-04T18:02:51.950127Z",
+  "market_endDate": "2025-03-26T12:00:00Z",
+  "market_closedTime": "2024-12-12 03:04:01+00",
+  "conditionId": "0xfc72c241faffb027d872559bd75ff5a768072e3571917dd94ffaa73b0ea3e126",
+  "slug": "will-juan-soto-sign-with-the-new-york-mets",
+  "question": "Will Juan Soto sign with the New York Mets?"
+}

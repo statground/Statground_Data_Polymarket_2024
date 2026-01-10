@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:59:01.075728Z",
+  "market_createdAt": "2024-11-02T21:59:01.075728Z",
+  "market_updatedAt": "2024-11-05T02:37:08.048753Z",
+  "market_startDate": "2024-11-02T23:23:45.897Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:10:41+00",
+  "conditionId": "0xf71a70dcbce0986da44f7c7b8abeab75e7251677bcb7f7c74624f82272c870cb",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-macon-ga-rally",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Macon, GA rally?"
+}

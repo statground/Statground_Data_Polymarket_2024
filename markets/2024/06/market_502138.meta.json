@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T18:22:29.183697Z",
+  "market_createdAt": "2024-06-05T18:22:29.183697Z",
+  "market_updatedAt": "2024-06-11T09:06:14.115972Z",
+  "market_startDate": "2024-06-05T21:11:02.309Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 10:40:36+00",
+  "conditionId": "0x821755db97cf823178a1c8eb97248839648e64263aa3634a68e7a92e306b2085",
+  "slug": "will-td-receive-more-than-12-of-votes",
+  "question": "Will TD receive more than 12% of votes?"
+}

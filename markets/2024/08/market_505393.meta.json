@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:03:14.970207Z",
+  "market_createdAt": "2024-08-20T00:03:14.970207Z",
+  "market_updatedAt": "2024-08-23T05:37:06.434455Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:37:48+00",
+  "conditionId": "0xb0f1d13b59389224078980a9f6f02755f0931b2212727ab09062f8eca3597504",
+  "slug": "will-walz-say-weird-or-weirdo-at-dnc-speech",
+  "question": "Will Walz say \"Weird\" or \"Weirdo\" at DNC speech?"
+}

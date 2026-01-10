@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T21:36:21.470965Z",
+  "market_createdAt": "2024-09-03T21:36:21.470965Z",
+  "market_updatedAt": "2024-09-12T03:41:04.946071Z",
+  "market_startDate": "2024-09-03T22:39:08.983Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:38:12+00",
+  "conditionId": "0x1633ee2223bd6788e577e70809ba87f52923e69d32f236fcbd5e7db3f0e924a4",
+  "slug": "will-trump-say-fraud-at-debate",
+  "question": "Will Trump say \"fraud\" at debate?"
+}

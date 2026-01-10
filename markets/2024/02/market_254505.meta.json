@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-15T18:49:15.998000Z",
+  "market_createdAt": "2024-02-15T18:49:15.998Z",
+  "market_updatedAt": "2024-02-19T19:33:46.48Z",
+  "market_startDate": "2024-02-16T00:51:00Z",
+  "market_endDate": "2024-02-16T00:00:00Z",
+  "market_closedTime": "2024-02-19 00:01:55+00",
+  "conditionId": "0x8f2c67292b6ef7c39174422fc6a71e07909e2d2883e3f97310dc4a27bc4096d5",
+  "slug": "will-paul-giamatti-win-the-bafta-for-best-actor",
+  "question": "Will Paul Giamatti win the BAFTA for Best Actor?"
+}

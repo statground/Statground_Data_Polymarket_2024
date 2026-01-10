@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:38:16.387171Z",
+  "market_createdAt": "2024-10-04T17:38:16.387171Z",
+  "market_updatedAt": "2024-10-07T02:56:39.270563Z",
+  "market_startDate": "2024-10-04T18:42:49.461716Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 08:42:38+00",
+  "conditionId": "0x190ede87cbc205aa637acb03d13962894c859cc7f23d4561a99a80e60f3f154f",
+  "slug": "will-arizona-beat-texas-tech-by-7-or-more-points",
+  "question": "Will Arizona beat Texas Tech by 7 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T15:52:04.832424Z",
+  "market_createdAt": "2024-10-16T15:52:04.832424Z",
+  "market_updatedAt": "2024-11-07T20:29:02.689254Z",
+  "market_startDate": "2024-10-16T19:02:32.658218Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:50:23+00",
+  "conditionId": "0x0258ab81c4235252986c9464286bf839a847f11af164f64f1405b33a75126254",
+  "slug": "nj-07-election-altman-d-vs-kean-r",
+  "question": "NJ-07 election: Altman (D) vs. Kean (R)"
+}

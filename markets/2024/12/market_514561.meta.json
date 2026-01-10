@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T16:46:00.962426Z",
+  "market_createdAt": "2024-12-03T16:46:00.962426Z",
+  "market_updatedAt": "2025-01-21T06:29:10.374995Z",
+  "market_startDate": "2024-12-03T16:53:02.508Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:02:18+00",
+  "conditionId": "0xe9dae7a3fdc3512d9cc855189b48a6aa81873a0133b854db65f3d87755861a24",
+  "slug": "will-us-government-sell-btc-before-trump-inauguration",
+  "question": "Will US gov sell Bitcoin before Trump inauguration?"
+}

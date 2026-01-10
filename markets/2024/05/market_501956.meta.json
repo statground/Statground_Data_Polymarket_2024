@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T15:51:31.225502Z",
+  "market_createdAt": "2024-05-31T15:51:31.225502Z",
+  "market_updatedAt": "2024-06-09T04:06:13.129062Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:12:36+00",
+  "conditionId": "0x5e7f588f32fa63e49491c50922bb50f554a22d1f431c6a7d10d47adc1a33ec87",
+  "slug": "will-trump-tweet-again-by-next-friday",
+  "question": "Will Trump tweet again by next Friday?"
+}

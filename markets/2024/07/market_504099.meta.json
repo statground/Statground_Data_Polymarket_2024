@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:00:28.132405Z",
+  "market_createdAt": "2024-07-25T16:00:28.132405Z",
+  "market_updatedAt": "2024-08-03T20:06:59.286232Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:14:10+00",
+  "conditionId": "0xae45e0c5a18d8820ae33fbb3880df0d6d25fd8ac32df9912505b80ebf11eac6f",
+  "slug": "will-another-athlete-win-gold-in-mens-200m-individual-medley",
+  "question": "Will another athlete win Gold in Men's 200m Individual Medley?"
+}

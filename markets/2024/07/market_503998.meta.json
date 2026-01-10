@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:17:38.105225Z",
+  "market_createdAt": "2024-07-22T17:17:38.105225Z",
+  "market_updatedAt": "2024-07-29T04:53:01.063073Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 04:54:09+00",
+  "conditionId": "0x33928261561c90d586b12f24634e81ab7369c0d2e52284cd5777854c1c4f1ad1",
+  "slug": "ufc-304-arnold-allen-vs-giga-chikadze",
+  "question": "UFC 304: Arnold Allen vs. Giga Chikadze"
+}

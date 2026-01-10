@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509534",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T17:41:38.447988Z",
+  "market_createdAt": "2024-10-10T17:41:38.447988Z",
+  "market_updatedAt": "2024-10-14T23:30:54.936126Z",
+  "market_startDate": "2024-10-10T23:12:30.775204Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:48:43+00",
+  "conditionId": "0x49115ac99d01df126e7ebb706a02f2ae54b8b892e751d565d0f8c68287e8ad85",
+  "slug": "will-trump-say-trans-during-arizona-rally-on-october-13",
+  "question": "Will Trump say \"trans\" during Arizona rally on October 13?"
+}

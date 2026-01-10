@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:25:09.647170Z",
+  "market_createdAt": "2024-09-08T00:25:09.64717Z",
+  "market_updatedAt": "2024-09-09T23:17:05.141769Z",
+  "market_startDate": "2024-09-08T02:01:32.063563Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:53:25+00",
+  "conditionId": "0x043eebfe472d82bfc6bc7291ad01bc6f0e5bc034e856e45135cbebb7a5263039",
+  "slug": "will-the-browns-win-by-3-or-more-points",
+  "question": "Will the Browns win by 3 or more points?"
+}

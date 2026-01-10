@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T14:29:36.521726Z",
+  "market_createdAt": "2024-07-29T14:29:36.521726Z",
+  "market_updatedAt": "2024-08-06T01:12:57.075155Z",
+  "market_startDate": "2024-07-29T15:37:33.737Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-05 03:40:35+00",
+  "conditionId": "0xe5a713d9fb515c6d9475aa3178c5748738316f4ff86a19765d3ef1d4f6cbf178",
+  "slug": "btc-dips-below-55k-before-september",
+  "question": "$BTC dips below $55k before September?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514896",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:49:33.140073Z",
+  "market_createdAt": "2024-12-05T21:49:33.140073Z",
+  "market_updatedAt": "2024-12-09T19:35:17.659993Z",
+  "market_startDate": "2024-12-05T23:01:35.275Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:33:08+00",
+  "conditionId": "0x47dceb23b70b86e559cf00b161df3233fa42c3a38d17094125902c16b15f0a5c",
+  "slug": "will-trump-say-mexico-during-nbc-interview",
+  "question": "Will Trump say \"Mexico\" during NBC interview?"
+}

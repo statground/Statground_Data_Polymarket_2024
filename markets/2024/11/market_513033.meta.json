@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T19:48:24.181389Z",
+  "market_createdAt": "2024-11-14T19:48:24.181389Z",
+  "market_updatedAt": "2024-11-16T02:48:57.066994Z",
+  "market_startDate": "2024-11-14T20:38:49.009903Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 06:06:57+00",
+  "conditionId": "0x9272dc4926670d5d68fcdad0d135137e8b0846c2676c94e67e9f25c1ae409c76",
+  "slug": "will-the-usa-beat-jamaica",
+  "question": "Will the USA beat Jamaica?"
+}

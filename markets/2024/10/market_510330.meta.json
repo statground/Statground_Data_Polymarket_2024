@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:02:02.842008Z",
+  "market_createdAt": "2024-10-21T19:02:02.842008Z",
+  "market_updatedAt": "2024-10-29T01:07:08.749021Z",
+  "market_startDate": "2024-10-21T19:04:39.004941Z",
+  "market_endDate": "2024-10-27T20:05:00Z",
+  "market_closedTime": "2024-10-28 01:32:54+00",
+  "conditionId": "0x9bfe2bf9237386a2b9e8ccb5453ce596ad0c1d2f75d969af4b9f8e6eae0c9795",
+  "slug": "nfl-no-lac-2024-10-27",
+  "question": "Saints vs. Chargers"
+}

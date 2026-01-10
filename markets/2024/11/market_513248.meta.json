@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T22:01:16.117792Z",
+  "market_createdAt": "2024-11-15T22:01:16.117792Z",
+  "market_updatedAt": "2024-11-18T21:43:17.278085Z",
+  "market_startDate": "2024-11-15T23:21:35.770591Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 22:08:15+00",
+  "conditionId": "0x665deead70f902ee5f2e8b64c92e10456dfa8b95b5057f75cd67ccf02372a242",
+  "slug": "will-finland-beat-greece",
+  "question": "Will Finland beat Greece?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:09:36.504981Z",
+  "market_createdAt": "2024-12-22T05:09:36.504981Z",
+  "market_updatedAt": "2024-12-29T05:33:16.234505Z",
+  "market_startDate": "2024-12-22T05:12:31.269377Z",
+  "market_endDate": "2025-01-04T01:00:00Z",
+  "market_closedTime": "2024-12-28 05:49:10+00",
+  "conditionId": "0x08da9f400f0b4a79be1a30d883bb2a9b57d5333546c26b5fea20965d094a2bcd",
+  "slug": "nba-mem-nop-2024-12-27",
+  "question": "Grizzlies vs. Pelicans"
+}

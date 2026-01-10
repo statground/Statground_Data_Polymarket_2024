@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T15:25:19.908810Z",
+  "market_createdAt": "2024-03-13T15:25:19.90881Z",
+  "market_updatedAt": "2024-05-07T23:09:38.484039Z",
+  "market_startDate": "2024-03-13T18:51:14.875Z",
+  "market_endDate": "2024-11-05T05:00:00Z",
+  "market_closedTime": "2024-03-26 22:43:12+00",
+  "conditionId": "0x9295a009ef9a92aabbdb5de98665d39c3d7f37a87d7f7195ca992eab1317c484",
+  "slug": "will-robert-f-kennedy-jr-announce-someone-else-as-running-mate",
+  "question": "Will Robert F. Kennedy Jr. announce someone else as running mate?"
+}

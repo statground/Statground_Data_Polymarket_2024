@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T21:39:11.660030Z",
+  "market_createdAt": "2024-09-03T21:39:11.66003Z",
+  "market_updatedAt": "2024-09-12T05:27:04.154458Z",
+  "market_startDate": "2024-09-03T22:11:38.55Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:19:10+00",
+  "conditionId": "0x1de9e375f9324c12856867be8442dfa6ce4d7fcea0ed6d2a3e9316af31a9ed00",
+  "slug": "will-kamala-say-liar-at-debate",
+  "question": "Will Kamala say \"liar\" at debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T05:12:02.860669Z",
+  "market_createdAt": "2024-09-09T05:12:02.860669Z",
+  "market_updatedAt": "2024-09-16T20:26:51.626934Z",
+  "market_startDate": "2024-09-09T05:14:28.960862Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:13:47+00",
+  "conditionId": "0x62a027ebe52693150b0bf6fffe69ed065ef269ae392418576abcd8df3fe521a3",
+  "slug": "nfl-gb-ind-2024-09-15",
+  "question": "Packers vs. Colts"
+}

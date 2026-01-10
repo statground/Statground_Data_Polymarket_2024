@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:03:50.831233Z",
+  "market_createdAt": "2024-11-01T16:03:50.831233Z",
+  "market_updatedAt": "2024-11-03T06:41:07.290568Z",
+  "market_startDate": "2024-11-01T16:06:27.074278Z",
+  "market_endDate": "2024-11-01T23:30:00Z",
+  "market_closedTime": "2024-11-02 06:59:57+00",
+  "conditionId": "0x8665ec635cfa48e3036ff99f61b6e4a750ada3b841ec81276560d9e5b6c2f57b",
+  "slug": "nba-lal-tor-2024-11-01",
+  "question": "Lakers vs. Raptors"
+}

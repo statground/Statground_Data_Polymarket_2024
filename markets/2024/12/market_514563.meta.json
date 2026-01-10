@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:08:36.696513Z",
+  "market_createdAt": "2024-12-03T17:08:36.696513Z",
+  "market_updatedAt": "2024-12-09T15:33:14.468492Z",
+  "market_startDate": "2024-12-03T19:31:28.660698Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:48:29+00",
+  "conditionId": "0x90796741c4072105a0ba71083110776419180a39dcc68b0e67e43502d6020a5b",
+  "slug": "will-max-verstappen-win-the-abu-dhabi-grand-prix",
+  "question": "Will Max Verstappen win the Abu Dhabi Grand Prix?"
+}

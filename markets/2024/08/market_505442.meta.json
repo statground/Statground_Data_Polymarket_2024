@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T18:35:54.708539Z",
+  "market_createdAt": "2024-08-20T18:35:54.708539Z",
+  "market_updatedAt": "2024-09-04T17:23:05.726012Z",
+  "market_startDate": "2024-08-23T22:13:39.253Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-09-03 18:33:06+00",
+  "conditionId": "0x942327fd128651b66c74c380f3de60e31cb7effc25dae0771699048b50a19839",
+  "slug": "if-rfk-drops-out-who-will-gain-more-in-polls",
+  "question": "If RFK drops out, who will gain more in polls?"
+}

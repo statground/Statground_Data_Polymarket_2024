@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:26:59.500228Z",
+  "market_createdAt": "2024-11-07T19:26:59.500228Z",
+  "market_updatedAt": "2024-11-16T05:03:02.267119Z",
+  "market_startDate": "2024-11-07T22:04:41.604059Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:31:01+00",
+  "conditionId": "0x652eb04861e06bb1875187656fea617eae3f0f9b852a697a9ce667ad6bf60af6",
+  "slug": "will-trump-nominate-robert-wilkie-for-secretary-of-veterans-affairs",
+  "question": "Will Trump nominate Robert Wilkie for Secretary of Veterans Affairs?"
+}

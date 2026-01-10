@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:54:04.920016Z",
+  "market_createdAt": "2024-10-18T18:54:04.920016Z",
+  "market_updatedAt": "2024-10-21T05:36:45.004912Z",
+  "market_startDate": "2024-10-18T23:04:46.101658Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 07:41:31+00",
+  "conditionId": "0xec7e40c6a6b79c0cd6a501f9a7fd3f2903eb6d3367976fd05b43994ddb290389",
+  "slug": "will-unlv-beat-oregon-state-by-7-or-more-points",
+  "question": "Will UNLV beat Oregon State by 7 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:13:44.032676Z",
+  "market_createdAt": "2024-10-01T17:13:44.032676Z",
+  "market_updatedAt": "2024-10-04T22:46:39.189883Z",
+  "market_startDate": "2024-10-02T14:53:33.944892Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:09:40+00",
+  "conditionId": "0x48966084a16b0db3af01e290fd06ceeff4bd32d41a3502221a0dfd36d004a2c3",
+  "slug": "will-manchester-united-beat-porto",
+  "question": "Will Manchester United beat Porto?"
+}

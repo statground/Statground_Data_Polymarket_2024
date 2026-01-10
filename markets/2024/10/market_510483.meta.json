@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:39:49.147362Z",
+  "market_createdAt": "2024-10-22T00:39:49.147362Z",
+  "market_updatedAt": "2024-10-28T19:26:54.223663Z",
+  "market_startDate": "2024-10-22T00:42:29.754Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:20:00+00",
+  "conditionId": "0x44a2c0327128c95af4792c8d0253ffc1273b5031d5bdd8916d02ef3053aa4aa2",
+  "slug": "epl-che-new-2024-10-27-new",
+  "question": "Will Newcastle win on 2024-10-27?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T01:16:07.701155Z",
+  "market_createdAt": "2024-08-20T01:16:07.701155Z",
+  "market_updatedAt": "2025-01-03T01:31:01.339436Z",
+  "market_startDate": "2024-08-22T19:00:04.366Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-02 05:01:50+00",
+  "conditionId": "0x10800ac0e5fa7e46cd88d7ed1a48df7a73ae63b5bfbf98c8ee8927014782fe82",
+  "slug": "will-oregon-win-the-2025-college-football-playoff",
+  "question": " Will Oregon win the 2025 College Football Playoff?"
+}

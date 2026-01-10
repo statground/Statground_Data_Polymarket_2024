@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:01:17.161120Z",
+  "market_createdAt": "2024-12-29T07:01:17.16112Z",
+  "market_updatedAt": "2024-12-31T00:55:42.25297Z",
+  "market_startDate": "2024-12-29T07:03:51.858392Z",
+  "market_endDate": "2025-01-05T22:00:00Z",
+  "market_closedTime": "2024-12-30 02:56:50+00",
+  "conditionId": "0xd0b2446ae1afed644f2402f9e29bc4f86bdad4d6101b6975ba63148d00601ee3",
+  "slug": "nhl-mon-tb-2024-12-29",
+  "question": "Canadiens vs. Lightning"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T17:37:24.474000Z",
+  "market_createdAt": "2024-02-26T17:37:24.474Z",
+  "market_updatedAt": "2024-04-26T02:59:06.529288Z",
+  "market_startDate": "2024-02-27T00:11:32.612Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-03-08 06:17:39+00",
+  "conditionId": "0x265071e82dac2171dd97e06d19bd4f91b771db5433e9b0bbb7c34d1e7b8ac76c",
+  "slug": "portal-price-between-2pt50-2pt80-one-week-after-launch",
+  "question": "Portal price between $2.50-2.80 one week after launch?"
+}

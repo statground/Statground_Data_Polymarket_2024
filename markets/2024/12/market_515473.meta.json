@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:15:42.834789Z",
+  "market_createdAt": "2024-12-11T23:15:42.834789Z",
+  "market_updatedAt": "2025-01-21T23:23:05.10894Z",
+  "market_startDate": "2024-12-11T23:20:58.107Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 23:25:40+00",
+  "conditionId": "0x16b33145d31ee3b79dbebaaf7d8b8a15befb6f4f6e31793ef73a0ecfd06157d8",
+  "slug": "will-xi-jinping-attend-presidential-inauguration",
+  "question": "Will Xi Jinping attend presidential inauguration?"
+}

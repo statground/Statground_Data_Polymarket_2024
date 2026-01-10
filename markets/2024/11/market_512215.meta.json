@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:46:03.488494Z",
+  "market_createdAt": "2024-11-06T20:46:03.488494Z",
+  "market_updatedAt": "2025-01-04T20:12:40.357739Z",
+  "market_startDate": "2024-11-06T21:03:47.069Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:37:51+00",
+  "conditionId": "0x81dc62c84e8f1d9f2cfd4ca576bf0d5ef27d39e0bcf7b12f115a9064ed0c15de",
+  "slug": "will-rick-scott-be-the-next-senate-majority-leader",
+  "question": "Will Rick Scott be the next Senate Majority Leader?"
+}

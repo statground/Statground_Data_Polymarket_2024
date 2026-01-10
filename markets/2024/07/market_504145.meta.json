@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:08:23.601841Z",
+  "market_createdAt": "2024-07-25T18:08:23.601841Z",
+  "market_updatedAt": "2024-07-28T21:35:02.014625Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:35:55+00",
+  "conditionId": "0x3e35c718623561ee0f4bde6d36514089b0eae2df1f4d8f159710ac396584a39a",
+  "slug": "will-australia-win-gold-in-mens-4x100m-freestyle-relay",
+  "question": "Will Australia win Gold in Men's 4x100m Freestyle Relay?"
+}

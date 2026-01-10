@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T17:02:32.370970Z",
+  "market_createdAt": "2024-10-08T17:02:32.37097Z",
+  "market_updatedAt": "2024-10-11T11:10:53.591129Z",
+  "market_startDate": "2024-10-08T17:20:24.52353Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:41:38+00",
+  "conditionId": "0xdcbe63ff39581b1b734b78478a0f8a392fcfc85ab0a50013a40124a0c34f22f8",
+  "slug": "will-haruki-murakami-win-the-nobel-prize-in-literature",
+  "question": "Will Haruki Murakami win the Nobel prize in literature?"
+}

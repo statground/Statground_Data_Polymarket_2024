@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T22:38:34.949000Z",
+  "market_createdAt": "2024-03-06T22:38:34.949Z",
+  "market_updatedAt": "2024-05-07T23:09:20.167769Z",
+  "market_startDate": "2024-03-07T20:24:00Z",
+  "market_endDate": "2024-04-08T00:00:00Z",
+  "market_closedTime": "2024-04-11 12:23:39+00",
+  "conditionId": "0xd4bf3fc5a704a712904f268db474122f1ffccec538a5df059f0f4c85d744a608",
+  "slug": "will-another-party-win-the-most-seats-in-the-south-korean-election",
+  "question": "Will another party win the most seats in the South Korean election?"
+}

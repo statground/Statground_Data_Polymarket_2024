@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T18:53:28.351000Z",
+  "market_createdAt": "2024-03-07T18:53:28.351Z",
+  "market_updatedAt": "2024-09-19T20:16:45.366409Z",
+  "market_startDate": "2024-03-08T18:55:46.162Z",
+  "market_endDate": "2024-11-07T00:00:00Z",
+  "market_closedTime": "2024-09-18 20:22:02+00",
+  "conditionId": "0x642926331d650ed2e4e1da2593f388cd803b4f283e09218fc1c5de90087b585c",
+  "slug": "fed-rate-cut-by-november-7",
+  "question": "Fed rate cut by November 7?"
+}

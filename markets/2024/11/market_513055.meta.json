@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:11:46.424373Z",
+  "market_createdAt": "2024-11-14T21:11:46.424373Z",
+  "market_updatedAt": "2024-11-16T23:22:56.960948Z",
+  "market_startDate": "2024-11-14T22:48:44.8553Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 00:53:03+00",
+  "conditionId": "0x80fbf88f56b1495dd346044e7bdb31ceaac6945032a58fa69039bebe1cffd2e1",
+  "slug": "will-croatia-beat-scotland-nov-15",
+  "question": "Will Croatia beat Scotland?"
+}

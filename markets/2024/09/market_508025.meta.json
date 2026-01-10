@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T20:15:50.949535Z",
+  "market_createdAt": "2024-09-24T20:15:50.949535Z",
+  "market_updatedAt": "2024-10-03T02:16:41.514146Z",
+  "market_startDate": "2024-09-24T23:55:47.016Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:34:54+00",
+  "conditionId": "0x5a8bb49c7ab4bce5c92031b0df5313ccc0f83af50435b399e28cb0bdc1318a99",
+  "slug": "will-jd-vance-say-fentanyl-during-the-debate",
+  "question": "Will JD Vance say \"Fentanyl\" during the debate?"
+}

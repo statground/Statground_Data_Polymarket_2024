@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T15:17:10.411500Z",
+  "market_createdAt": "2024-04-18T15:17:10.4115Z",
+  "market_updatedAt": "2024-05-07T23:09:35.093007Z",
+  "market_startDate": "2024-04-18T15:18:21.762Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-21 19:20:40+00",
+  "conditionId": "0xbf8a1a4a4d59c55fd4fec6e3cc8d52948dc76dc36a1485a7f0f3e148f61f6c00",
+  "slug": "nba-play-in-heat-vs-bulls",
+  "question": "NBA Play-In: Heat vs Bulls"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-23T17:09:56.549000Z",
+  "market_createdAt": "2024-02-23T17:09:56.549Z",
+  "market_updatedAt": "2024-04-26T03:00:07.662985Z",
+  "market_startDate": "2024-02-23T18:04:00Z",
+  "market_endDate": "2024-02-24T00:00:00Z",
+  "market_closedTime": "2024-02-28 12:34:16+00",
+  "conditionId": "0x56ebec1f696891326a556f9820b00385a0fa3da543156eed7805acce3d37be6c",
+  "slug": "will-trump-win-the-michigan-primary-by-less-than-20-of-the-vote",
+  "question": "Will Trump win the Michigan Primary by less than 20% of the vote?"
+}

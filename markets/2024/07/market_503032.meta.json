@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:04:39.335904Z",
+  "market_createdAt": "2024-07-01T15:04:39.335904Z",
+  "market_updatedAt": "2024-07-03T21:10:49.397686Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-02T12:00:00Z",
+  "market_closedTime": "2024-07-02 21:08:07+00",
+  "conditionId": "0x85e3630dd8fffd8dde3d03fee10beb35858229f3db244ebf3d42205f1651b543",
+  "slug": "will-romania-win-july-2",
+  "question": "Will Romania win?"
+}

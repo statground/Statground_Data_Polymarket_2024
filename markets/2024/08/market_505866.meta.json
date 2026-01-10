@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T23:44:56.764258Z",
+  "market_createdAt": "2024-08-26T23:44:56.764258Z",
+  "market_updatedAt": "2024-11-22T03:26:52.034634Z",
+  "market_startDate": "2024-08-26T23:44:56.764258Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-21 05:05:39+00",
+  "conditionId": "0xbbe077e2b285e572903fe9362c3f8dee8071d6c975f90833c814a9ff45387a7c",
+  "slug": "ak-1-election-peltola-d-vs-begich-r",
+  "question": "AK-1 election: Peltola (D) vs. Begich (R)"
+}

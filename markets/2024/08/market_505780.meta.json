@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505780",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:38:40.299363Z",
+  "market_createdAt": "2024-08-26T16:38:40.299363Z",
+  "market_updatedAt": "2024-08-31T06:03:01.451973Z",
+  "market_startDate": "2024-08-29T01:47:19.17Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 06:06:14+00",
+  "conditionId": "0x5b8f35cd2131133da03747beffd120db97f6447bd362736ffd2b6cc0f147624d",
+  "slug": "cfb-ndsu-vs-colorado",
+  "question": "CFB: NDSU vs. Colorado"
+}

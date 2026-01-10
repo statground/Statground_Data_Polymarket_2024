@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:22:04.642930Z",
+  "market_createdAt": "2024-09-20T21:22:04.64293Z",
+  "market_updatedAt": "2024-09-25T04:46:44.566104Z",
+  "market_startDate": "2024-09-20T21:24:19.344501Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 04:46:11+00",
+  "conditionId": "0xdf8ee7efcddc952e3b2f0ad127bf368b6f5866041ed448b9478b46cf407a37ee",
+  "slug": "nfl-buf-jax-2024-09-23",
+  "question": "Bills vs. Jaguars"
+}

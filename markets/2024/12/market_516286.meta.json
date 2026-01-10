@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:07:10.586731Z",
+  "market_createdAt": "2024-12-22T07:07:10.586731Z",
+  "market_updatedAt": "2024-12-30T01:28:30.529684Z",
+  "market_startDate": "2024-12-22T07:09:41.400269Z",
+  "market_endDate": "2025-01-04T21:00:00Z",
+  "market_closedTime": "2024-12-29 02:08:47+00",
+  "conditionId": "0x12370603e5f26e6d5ecfde4b7f48a2484bab8faa374668f43d80295ca5ecf71c",
+  "slug": "nhl-edm-lak-2024-12-28",
+  "question": "Oilers vs. Kings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T16:02:33.362936Z",
+  "market_createdAt": "2024-12-31T16:02:33.362936Z",
+  "market_updatedAt": "2026-01-06T08:27:31.503225Z",
+  "market_startDate": "2024-12-31T18:51:34.648Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-05 04:22:25+00",
+  "conditionId": "0x19ee98e348c0ccb341d1b9566fa14521566e9b2ea7aed34dc407a0ec56be36a2",
+  "slug": "microstrategy-sell-any-bitcoin-in-2025",
+  "question": "MicroStrategy sells any Bitcoin in 2025?"
+}

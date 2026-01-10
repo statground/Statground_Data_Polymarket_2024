@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:46:47.687606Z",
+  "market_createdAt": "2024-05-15T14:46:47.687606Z",
+  "market_updatedAt": "2024-06-08T17:56:15.041753Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-07 20:01:22+00",
+  "conditionId": "0x843ebda467d21e813fa1b9b23011f3d6b2d1ad0f0ba04489e74ae9faa876ce10",
+  "slug": "will-jannik-sinner-win-the-2024-french-open-mens-singles",
+  "question": "Will Jannik Sinner win the 2024 French Open Men's Singles?"
+}

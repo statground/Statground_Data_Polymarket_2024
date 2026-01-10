@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T17:23:32.999498Z",
+  "market_createdAt": "2024-10-17T17:23:32.999498Z",
+  "market_updatedAt": "2024-10-21T02:12:43.630184Z",
+  "market_startDate": "2024-10-17T20:52:02.173299Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:08:21+00",
+  "conditionId": "0xfa0706200b167a8f4fbc8708066290c6388e60f9ab778b620aed82af94f778f2",
+  "slug": "will-trump-say-weave-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"weave\" during Pennsylvania rally on October 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:14:20.037226Z",
+  "market_createdAt": "2024-10-09T17:14:20.037226Z",
+  "market_updatedAt": "2025-04-14T04:02:03.943237Z",
+  "market_startDate": "2024-10-10T20:15:09.641899Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 03:59:14+00",
+  "conditionId": "0x26ec6dad9b19b796ca3af8b136ada2fae49af0e559097d15e096b284e570cbfd",
+  "slug": "will-devin-booker-lead-the-nba-in-scoring",
+  "question": "Will Devin Booker lead the NBA in scoring?"
+}

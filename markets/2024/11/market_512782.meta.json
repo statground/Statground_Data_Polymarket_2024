@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:39:47.992833Z",
+  "market_createdAt": "2024-11-11T21:39:47.992833Z",
+  "market_updatedAt": "2025-01-04T20:04:50.508694Z",
+  "market_startDate": "2024-11-11T21:59:22.292658Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:38:25+00",
+  "conditionId": "0x63a86e84ee38137a74b13cebd849a0ff0a4aa52a1e046d1470a4c7a5ecf67ef8",
+  "slug": "will-steve-daines-be-the-next-senate-majority-leader",
+  "question": "Will Steve Daines be the next Senate Majority Leader?"
+}

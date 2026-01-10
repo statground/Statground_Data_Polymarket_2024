@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253939",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T01:35:24.182000Z",
+  "market_createdAt": "2024-01-17T01:35:24.182Z",
+  "market_updatedAt": "2024-01-22T05:09:22.785Z",
+  "market_startDate": "2024-01-20T00:00:00Z",
+  "market_endDate": "2024-01-20T00:00:00Z",
+  "market_closedTime": "2024-01-21 06:30:09+00",
+  "conditionId": "0xe06d2d186815dc68683656462e9c9bed95f8b75b23108c9aed564805b600eeca",
+  "slug": "nfl-sf-gb-2024-01-20",
+  "question": "49ers vs. Packers"
+}

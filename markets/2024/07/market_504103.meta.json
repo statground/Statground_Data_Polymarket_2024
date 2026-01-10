@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504103",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:08:23.794007Z",
+  "market_createdAt": "2024-07-25T16:08:23.794007Z",
+  "market_updatedAt": "2024-08-04T22:46:57.766141Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:41:40+00",
+  "conditionId": "0x06679f2b6edb974397eef037cb50d289dd5f630da72b37a4f41a97cb25bc7261",
+  "slug": "will-alex-walsh-usa-win-gold-in-womens-200m-individual-medley",
+  "question": "Will Alex Walsh (USA) win Gold in Women's 200m Individual Medley?"
+}

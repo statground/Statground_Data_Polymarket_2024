@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-11T02:30:50.422000Z",
+  "market_createdAt": "2024-03-11T02:30:50.422Z",
+  "market_updatedAt": "2024-05-07T23:09:17.738641Z",
+  "market_startDate": "2024-03-11T15:52:00Z",
+  "market_endDate": "2024-09-03T00:00:00Z",
+  "market_closedTime": "2024-03-14 02:41:22+00",
+  "conditionId": "0x7f17ba5c9c060945bb33cca6001ca0c55de9949dd118912506c63ff1d80a51db",
+  "slug": "will-the-las-vegas-raiders-sign-kirk-cousins",
+  "question": "Will the Las Vegas Raiders sign Kirk Cousins? "
+}

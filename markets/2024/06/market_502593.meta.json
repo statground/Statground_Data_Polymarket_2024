@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T17:40:13.535044Z",
+  "market_createdAt": "2024-06-18T17:40:13.535044Z",
+  "market_updatedAt": "2024-06-29T05:51:02.838295Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:26:55+00",
+  "conditionId": "0x5720305ea5f0c987b4bbdff43e213b49ffb8df4cbca382e361370901bd7ffdbb",
+  "slug": "biden-helped-onoff-stage-at-the-debate",
+  "question": "Biden helped off stage at the debate?"
+}

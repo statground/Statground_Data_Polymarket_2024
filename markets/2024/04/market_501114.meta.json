@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T16:36:35.945911Z",
+  "market_createdAt": "2024-04-22T16:36:35.945911Z",
+  "market_updatedAt": "2024-07-03T01:00:48.587594Z",
+  "market_startDate": "2024-04-22T17:05:05.837Z",
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:12:46+00",
+  "conditionId": "0xc5d7be203f5fb918cb4bc2e715875b503f87b7ec68071fcf2a22ceabc7976606",
+  "slug": "will-trump-be-speaker-by-july-1",
+  "question": "Will Trump be Speaker by July 1?"
+}

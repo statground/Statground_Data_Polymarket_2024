@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T15:11:46.722665Z",
+  "market_createdAt": "2024-12-20T15:11:46.722665Z",
+  "market_updatedAt": "2024-12-21T20:18:50.841017Z",
+  "market_startDate": "2024-12-20T16:31:50.497Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 22:06:30+00",
+  "conditionId": "0xd2555ca2b903c18806ac9425659e6f689a082065e76ff1ec5b46f5b7bd9b855b",
+  "slug": "champions-chess-tour-semis-carlsen-vs-vachier-lagrave",
+  "question": "CCT Semis: Magnus vs. Maxime"
+}

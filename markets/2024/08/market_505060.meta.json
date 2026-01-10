@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T19:57:58.280494Z",
+  "market_createdAt": "2024-08-13T19:57:58.280494Z",
+  "market_updatedAt": "2024-08-18T18:56:59.292514Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:01:48+00",
+  "conditionId": "0xc267c83e0f695a25b12490dfe467ca688f3d1fb1db1a4ca7aa4cf51ec3a242cc",
+  "slug": "will-arsenal-beat-wolverhampton",
+  "question": "Will Arsenal beat Wolverhampton?"
+}

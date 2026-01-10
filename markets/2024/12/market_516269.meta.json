@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:03:11.546475Z",
+  "market_createdAt": "2024-12-22T07:03:11.546475Z",
+  "market_updatedAt": "2024-12-25T04:45:25.746604Z",
+  "market_startDate": "2024-12-22T07:05:56.629363Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:48:49+00",
+  "conditionId": "0xd896c47285f6b1fd1c3d9fc8bc5380ce89243cd06eef38733fcb2d6fafd15c90",
+  "slug": "nhl-phi-pit-2024-12-23",
+  "question": "Flyers vs. Penguins"
+}

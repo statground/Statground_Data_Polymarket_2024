@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T15:53:29.363016Z",
+  "market_createdAt": "2024-11-23T15:53:29.363016Z",
+  "market_updatedAt": "2024-11-24T22:07:54.438483Z",
+  "market_startDate": "2024-11-23T17:37:52.235503Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 22:47:53+00",
+  "conditionId": "0xce101e59e4eda1f53cfbc330ada4bcdac4da3bfddc987daef4e2e63b432910cc",
+  "slug": "florida-vs-ole-miss",
+  "question": "Florida vs. Ole Miss"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:17:02.737293Z",
+  "market_createdAt": "2024-07-16T16:17:02.737293Z",
+  "market_updatedAt": "2024-07-21T21:03:02.003228Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 20:59:52+00",
+  "conditionId": "0x6a07b7ae5e88bab5c1fa9248f1d1643aa1ebd98239c4b41ebd0a5809041be018",
+  "slug": "will-brooks-koepka-win-the-british-open",
+  "question": "Will Brooks Koepka win the British Open?"
+}

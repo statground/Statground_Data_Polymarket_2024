@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:54:32.298704Z",
+  "market_createdAt": "2024-10-10T19:54:32.298704Z",
+  "market_updatedAt": "2024-10-20T16:06:55.927205Z",
+  "market_startDate": "2024-10-10T19:56:16.362817Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:23:24+00",
+  "conditionId": "0xe256b90e652e4c72ff4783a9b80fc0bc49b9bd4dcb25f55aab093815272b8699",
+  "slug": "epl-new-bri-2024-10-19-draw",
+  "question": "Will Newcastle vs. Brighton end in a draw?"
+}

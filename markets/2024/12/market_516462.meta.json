@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T16:57:20.163813Z",
+  "market_createdAt": "2024-12-26T16:57:20.163813Z",
+  "market_updatedAt": "2024-12-27T01:52:26.621847Z",
+  "market_startDate": "2024-12-26T18:03:34.690438Z",
+  "market_endDate": "2024-12-26T12:00:00Z",
+  "market_closedTime": "2024-12-27 01:49:17+00",
+  "conditionId": "0x6f3e092c5c3d56f6f16f54c4fdf1ddc6ff733a801813251ad9100a9edb32836c",
+  "slug": "will-pitt-beat-toledo-by-7-or-more-points",
+  "question": "Will Pitt beat Toledo by 7 or more points?"
+}

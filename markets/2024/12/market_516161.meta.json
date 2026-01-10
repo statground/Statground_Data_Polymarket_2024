@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:56:20.416011Z",
+  "market_createdAt": "2024-12-20T19:56:20.416011Z",
+  "market_updatedAt": "2024-12-23T23:47:41.729107Z",
+  "market_startDate": "2024-12-20T21:36:49.121791Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-23 02:17:11+00",
+  "conditionId": "0x7ffae69fa13280765cd949eb5a9af16d6fa8720757f1211318692e48b30de080",
+  "slug": "will-the-vikings-beat-the-seahawks-by-3-or-more-points",
+  "question": "Will the Vikings beat the Seahawks by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T06:03:32.365902Z",
+  "market_createdAt": "2024-12-15T06:03:32.365902Z",
+  "market_updatedAt": "2024-12-24T02:08:05.707292Z",
+  "market_startDate": "2024-12-15T06:06:04.677901Z",
+  "market_endDate": "2024-12-29T21:05:00Z",
+  "market_closedTime": "2024-12-23 02:17:05+00",
+  "conditionId": "0xcec87ce0f17fd9f682e8e1ffbf16c7b4770524cd601665722d9520912d567624",
+  "slug": "nfl-min-sea-2024-12-22",
+  "question": "Vikings vs. Seahawks"
+}

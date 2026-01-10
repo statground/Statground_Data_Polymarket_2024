@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:01:41.314687Z",
+  "market_createdAt": "2024-12-23T05:01:41.314687Z",
+  "market_updatedAt": "2024-12-28T01:53:15.209437Z",
+  "market_startDate": "2024-12-23T05:04:07.28886Z",
+  "market_endDate": "2025-01-02T19:00:00Z",
+  "market_closedTime": "2024-12-27 01:49:21+00",
+  "conditionId": "0xa1cef121a64789f7f66342455e337f543e365f3204c8e6e498c2d4a9cf199474",
+  "slug": "cfb-pitt-tol-2024-12-26",
+  "question": "Pittsburgh vs. Toledo"
+}

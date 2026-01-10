@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:14:27.580673Z",
+  "market_createdAt": "2024-10-25T17:14:27.580673Z",
+  "market_updatedAt": "2024-11-27T22:01:39.281344Z",
+  "market_startDate": "2024-10-25T19:56:17.64Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-26 23:01:27+00",
+  "conditionId": "0x5e36e06660a343e2e2ea25acb7766a0134cdb4f88ed37e5bd764bdf672ea22ef",
+  "slug": "will-harris-win-new-mexico-by-6-points",
+  "question": "Will Harris win New Mexico by 6+ points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T14:15:23.570136Z",
+  "market_createdAt": "2024-11-12T14:15:23.570136Z",
+  "market_updatedAt": "2025-09-23T14:16:57.977771Z",
+  "market_startDate": "2024-11-13T00:20:56.249Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-05-01 05:20:07+00",
+  "conditionId": "0xe3ece9fd2b3ec7bc3c1c0e2ba034f42ccbe20fe65b920ff8441c1c6714031528",
+  "slug": "trump-admin-recommends-removing-fluoride-from-water",
+  "question": "Trump Admin recommends removing fluoride from water by April 29?"
+}

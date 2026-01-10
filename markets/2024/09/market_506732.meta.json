@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:27:29.596765Z",
+  "market_createdAt": "2024-09-09T19:27:29.596765Z",
+  "market_updatedAt": "2025-03-09T22:08:15.90644Z",
+  "market_startDate": "2024-09-09T20:31:22.117526Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-08 22:46:38+00",
+  "conditionId": "0x5fd3d8604616935f40f6e57ba23f1b57ed8550f2a9df09b2c8be044c4c2489b8",
+  "slug": "brentford-win-the-premier-league",
+  "question": "Brentford wins the Premier League?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T19:51:19.181113Z",
+  "market_createdAt": "2024-08-13T19:51:19.181113Z",
+  "market_updatedAt": "2024-08-18T14:27:02.240235Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 16:37:17+00",
+  "conditionId": "0x9918afa1eefe6df06fa402eaa6d4bdabd1f61a5bd7bb471c7ff37144f740078f",
+  "slug": "will-ipswich-town-beat-liverpool",
+  "question": "Will Ipswich Town beat Liverpool?"
+}

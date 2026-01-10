@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T18:00:49.234027Z",
+  "market_createdAt": "2024-08-19T18:00:49.234027Z",
+  "market_updatedAt": "2024-10-01T19:02:38.032414Z",
+  "market_startDate": "2024-08-19T18:00:49.234027Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:32:08+00",
+  "conditionId": "0xbc516f4591abcaf904b5a9927580a5c937251ba880d7e1dde14011a708d38f79",
+  "slug": "x-banned-in-eu-before-october",
+  "question": "X banned in EU before October?"
+}

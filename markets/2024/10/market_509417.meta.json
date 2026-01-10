@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:36:47.224213Z",
+  "market_createdAt": "2024-10-09T18:36:47.224213Z",
+  "market_updatedAt": "2024-10-20T20:56:53.994185Z",
+  "market_startDate": "2024-10-09T21:13:45.648087Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-19 23:06:01+00",
+  "conditionId": "0x32331ce34a730ec1c269e175ebbc03243656dea6032883b089bbf81724b48b7a",
+  "slug": "will-b8-win-the-elisa-masters-espoo-2024",
+  "question": "Will B8 win the Elisa Masters Espoo 2024?"
+}

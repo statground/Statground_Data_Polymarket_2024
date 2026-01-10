@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:13:44.347754Z",
+  "market_createdAt": "2024-10-01T17:13:44.347754Z",
+  "market_updatedAt": "2024-10-04T21:06:45.776928Z",
+  "market_startDate": "2024-10-02T14:53:53.548953Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:04:18+00",
+  "conditionId": "0xd971cdfc51ed5ac646189250b7e73d9b0882535a8c8ae0858e82eff72a690b20",
+  "slug": "will-the-match-between-porto-and-manchester-united-end-in-a-draw",
+  "question": "Will the match between Porto and Manchester United end in a Draw?"
+}

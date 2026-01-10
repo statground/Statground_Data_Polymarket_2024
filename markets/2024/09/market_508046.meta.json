@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:16:48.263890Z",
+  "market_createdAt": "2024-09-24T21:16:48.26389Z",
+  "market_updatedAt": "2024-10-03T10:10:41.176243Z",
+  "market_startDate": "2024-09-24T23:31:12.84Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 10:02:40+00",
+  "conditionId": "0x9ab9b009347126a5637769889566ecd39c7592256a3479779845794683548b9c",
+  "slug": "will-tim-walz-say-abortion-5-or-more-times-during-the-debate",
+  "question": "Will Tim Walz say \"Abortion\" 5 or more times during the debate?"
+}

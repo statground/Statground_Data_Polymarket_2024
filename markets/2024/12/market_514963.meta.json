@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T18:56:58.549601Z",
+  "market_createdAt": "2024-12-06T18:56:58.549601Z",
+  "market_updatedAt": "2025-01-04T23:54:38.21889Z",
+  "market_startDate": "2024-12-13T23:17:41.294305Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-04 01:23:28+00",
+  "conditionId": "0x912f772a0eb83626e3890a5fc0eed3fc835d70b705ad74bdc461cf61a6d8d80f",
+  "slug": "will-luke-littler-win-the-2024-25-pdc-world-championship",
+  "question": "Will Luke Littler win the 2024-25 PDC World Championship?"
+}

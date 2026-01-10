@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T22:02:23.676000Z",
+  "market_createdAt": "2024-01-05T22:02:23.676Z",
+  "market_updatedAt": "2024-04-26T02:58:25.520736Z",
+  "market_startDate": "2024-01-06T00:47:35.801Z",
+  "market_endDate": "2024-01-23T00:00:00Z",
+  "market_closedTime": "2024-01-24 12:15:35+00",
+  "conditionId": "0x07ca3646cc01db03efeb1d445e98d9a9ceb483aebe8b16b058daeb203dca5f89",
+  "slug": "will-chris-christie-win-the-new-hampshire-republican-primary",
+  "question": "Will Chris Christie win the New Hampshire Republican Primary?"
+}

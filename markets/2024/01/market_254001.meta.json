@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T19:46:58.756000Z",
+  "market_createdAt": "2024-01-18T19:46:58.756Z",
+  "market_updatedAt": "2024-07-17T02:58:44.915385Z",
+  "market_startDate": "2024-01-18T21:14:00Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:08:21+00",
+  "conditionId": "0xdc0305fbe2b2851d4820af3461fa70c43641cbe4fb0e74dd79bfbd6dc89f170d",
+  "slug": "will-tucker-carlson-win-the-2024-republican-vp-nomination",
+  "question": "Will Tucker Carlson win the 2024 Republican VP nomination?"
+}

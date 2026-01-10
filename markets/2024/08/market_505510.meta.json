@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505510",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:32:22.825041Z",
+  "market_createdAt": "2024-08-21T14:32:22.825041Z",
+  "market_updatedAt": "2024-08-23T03:21:08.658547Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:26:12+00",
+  "conditionId": "0xe3213567a23a63b93b4e0ccb59a9bf9b75b9bd801b16eb6887864743052e49e4",
+  "slug": "will-pelosi-say-joe-or-biden-3-or-more-times-at-dnc-speech",
+  "question": "Will Pelosi say \"Joe\" or \"Biden\" 3 or more times at DNC speech?"
+}

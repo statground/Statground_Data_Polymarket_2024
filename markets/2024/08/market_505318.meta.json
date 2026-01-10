@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505318",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:38:21.418262Z",
+  "market_createdAt": "2024-08-19T16:38:21.418262Z",
+  "market_updatedAt": "2024-09-09T22:07:12.156889Z",
+  "market_startDate": "2024-08-19T16:38:21.418262Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 23:55:31+00",
+  "conditionId": "0x5b7946387945110d5ae2afcaad929fb6663cecd660b16f1248a4f8632b26fab3",
+  "slug": "will-matteo-berrettini-win-the-us-open-1",
+  "question": "Will Taylor Fritz win the US Open?"
+}

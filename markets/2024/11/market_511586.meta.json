@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:02:52.836320Z",
+  "market_createdAt": "2024-11-01T16:02:52.83632Z",
+  "market_updatedAt": "2024-11-03T02:17:00.288493Z",
+  "market_startDate": "2024-11-01T16:05:34.744867Z",
+  "market_endDate": "2024-11-01T23:00:00Z",
+  "market_closedTime": "2024-11-02 07:05:30+00",
+  "conditionId": "0xa359646f3090873984dc364fc2aadf6c69586d238360ebef09a48fff1ed51e8f",
+  "slug": "nba-orl-cle-2024-11-01",
+  "question": "Magic vs. Cavaliers"
+}

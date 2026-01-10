@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T17:56:18.720166Z",
+  "market_createdAt": "2024-05-10T17:56:18.720166Z",
+  "market_updatedAt": "2024-05-18T17:59:30.888181Z",
+  "market_startDate": "2024-05-10T17:57:56.38Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-17 18:09:46+00",
+  "conditionId": "0x38fd72acbfc0934d838ac37da5f17cd810faac68ede0037caf84792147b6e2e4",
+  "slug": "ethereum-above-3000-on-may-17",
+  "question": "Ethereum above $3,000 on May 17?"
+}

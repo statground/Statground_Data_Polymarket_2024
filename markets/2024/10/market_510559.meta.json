@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:26:39.206772Z",
+  "market_createdAt": "2024-10-22T16:26:39.206772Z",
+  "market_updatedAt": "2024-10-29T02:23:03.307344Z",
+  "market_startDate": "2024-10-22T22:30:25.047Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:47:55+00",
+  "conditionId": "0x60ac05f14f9824859b12afc6434421591570803a2b6c52db442da18c4dbef765",
+  "slug": "will-trump-say-china-5-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"China\" 5 or more times during New York rally on October 27?"
+}

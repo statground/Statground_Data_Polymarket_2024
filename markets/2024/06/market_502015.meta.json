@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T02:32:14.252010Z",
+  "market_createdAt": "2024-06-03T02:32:14.25201Z",
+  "market_updatedAt": "2024-06-05T09:06:15.317009Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-04 13:24:51+00",
+  "conditionId": "0x180169f3aaee5a8478883e8c1daf991faeb04d2fc1f2f2209f558afc0a31c04b",
+  "slug": "gme-yolo-friday",
+  "question": "New GME YOLO update by Friday?"
+}

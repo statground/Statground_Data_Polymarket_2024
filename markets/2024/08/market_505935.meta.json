@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T20:19:51.543598Z",
+  "market_createdAt": "2024-08-27T20:19:51.543598Z",
+  "market_updatedAt": "2024-09-01T20:03:06.59826Z",
+  "market_startDate": "2024-08-28T20:11:58.354Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 21:19:37+00",
+  "conditionId": "0x33ada1a6255f20d2903a30d3ce198161fa5ff05e88eefef5b891343dd6a4e293",
+  "slug": "cfb-clemson-vs-georgia-13pt5",
+  "question": "Will Georgia win by 14 or more points?"
+}

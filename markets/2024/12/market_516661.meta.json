@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:02:56.070021Z",
+  "market_createdAt": "2024-12-29T07:02:56.070021Z",
+  "market_updatedAt": "2025-01-01T05:13:35.82706Z",
+  "market_startDate": "2024-12-29T07:05:31.077676Z",
+  "market_endDate": "2025-01-07T00:30:00Z",
+  "market_closedTime": "2024-12-31 05:25:56+00",
+  "conditionId": "0x48cfeab240c03b206419bb2c59956577d32f766b2235e3917a07f831cf40f55a",
+  "slug": "nhl-nsh-wpg-2024-12-30",
+  "question": "Predators vs. Jets"
+}

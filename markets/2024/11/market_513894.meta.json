@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:51:41.296480Z",
+  "market_createdAt": "2024-11-24T18:51:41.29648Z",
+  "market_updatedAt": "2024-11-27T06:23:44.486721Z",
+  "market_startDate": "2024-11-24T18:54:08.333782Z",
+  "market_endDate": "2024-12-03T02:00:00Z",
+  "market_closedTime": "2024-11-26 06:29:35+00",
+  "conditionId": "0x7df9fd92d8fc28ef5a91c1bbd017ac99ae0e8add9251f9e05f65ef6968e1a9f5",
+  "slug": "nba-nyk-den-2024-11-25",
+  "question": "Knicks vs. Nuggets"
+}

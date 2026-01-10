@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:02:26.395410Z",
+  "market_createdAt": "2024-08-12T17:02:26.39541Z",
+  "market_updatedAt": "2024-08-19T03:32:51.865228Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 04:06:03+00",
+  "conditionId": "0x3e5d40fcb2c79f084acc7e176ec5ce529c2a388530ad488e4778be3610f79c5f",
+  "slug": "nfl-ten-sea-2024-08-17",
+  "question": "Titans vs. Seahawks"
+}

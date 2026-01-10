@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T18:03:19.908949Z",
+  "market_createdAt": "2024-10-24T18:03:19.908949Z",
+  "market_updatedAt": "2024-10-27T05:56:52.103584Z",
+  "market_startDate": "2024-10-24T18:46:38.277Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 07:15:30+00",
+  "conditionId": "0x8427c74af6631ff7e327b7e670fc92341907b6d49ba48df53e9de3ed62bae944",
+  "slug": "will-trump-mention-8-or-more-states-during-rogan-interview",
+  "question": "Will Trump mention 8+ states during Rogan interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:39:50.598799Z",
+  "market_createdAt": "2024-09-18T02:39:50.598799Z",
+  "market_updatedAt": "2025-04-15T00:26:54.884831Z",
+  "market_startDate": "2024-09-18T16:47:08.958598Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-13 23:22:17+00",
+  "conditionId": "0x7e84002d49c772d2083afaec7fbe129481f7ef8d269973dfa9b14c7fe9ee0b03",
+  "slug": "will-real-betis-win-la-liga",
+  "question": "Will Real Betis win La Liga?"
+}

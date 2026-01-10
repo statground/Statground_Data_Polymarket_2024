@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505376",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:35:21.910642Z",
+  "market_createdAt": "2024-08-19T19:35:21.910642Z",
+  "market_updatedAt": "2024-08-25T21:26:59.659496Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 22:04:14+00",
+  "conditionId": "0xd7d0a90ed9ce9a2dc531dda0b0dc2686370bf75de3a6cc48a64548e4fabb2d64",
+  "slug": "nfl-phi-min-2024-08-24",
+  "question": "Eagles vs. Vikings"
+}

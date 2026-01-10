@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:22:12.278647Z",
+  "market_createdAt": "2024-10-31T15:22:12.278647Z",
+  "market_updatedAt": "2024-11-02T23:17:08.510588Z",
+  "market_startDate": "2024-11-01T16:37:45.403462Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 23:29:55+00",
+  "conditionId": "0x16ffa530acedcfd152baff4d100d46c82204aae11e3dd77a467520feac82f603",
+  "slug": "will-trump-say-pocahontas-during-warren-mi-rally",
+  "question": "Will Trump say \"Pocahontas\" during Warren, MI rally?"
+}

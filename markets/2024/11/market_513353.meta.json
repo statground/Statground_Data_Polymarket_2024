@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T17:52:02.095745Z",
+  "market_createdAt": "2024-11-18T17:52:02.095745Z",
+  "market_updatedAt": "2024-12-07T06:25:09.701507Z",
+  "market_startDate": "2024-11-18T20:01:11.43Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:19:46+00",
+  "conditionId": "0xd986c490df3453f66b0a214c8d14bba47400e7efd4a800e736effa5da28c9a3f",
+  "slug": "will-trump-say-kamala-in-his-next-speech",
+  "question": "Will Trump say \"Kamala\" in his next speech?"
+}

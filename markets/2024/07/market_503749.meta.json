@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:54:14.551395Z",
+  "market_createdAt": "2024-07-18T18:54:14.551395Z",
+  "market_updatedAt": "2024-07-29T19:07:04.869357Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-28 23:13:13+00",
+  "conditionId": "0x76c310af0c734d4277e96065126269bb59aacbcefbc7a9ad420a7e40165f179d",
+  "slug": "will-nic-fink-usa-win-gold-in-mens-100m-breaststroke",
+  "question": "Will Nic Fink (USA) win Gold in Men's 100m Breaststroke?"
+}

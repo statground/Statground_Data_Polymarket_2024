@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:31:11.244544Z",
+  "market_createdAt": "2024-10-01T19:31:11.244544Z",
+  "market_updatedAt": "2024-10-07T06:06:40.090122Z",
+  "market_startDate": "2024-10-01T20:52:13.451052Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 06:29:09+00",
+  "conditionId": "0x8c77972e5a9768d27cb9e4b98244d0bbe9545ef4d29f9789548412ef643d2f05",
+  "slug": "pennington-vs-pena",
+  "question": "Pennington vs. Peña"
+}

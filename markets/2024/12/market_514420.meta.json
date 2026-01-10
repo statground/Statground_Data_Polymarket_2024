@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:04:40.923061Z",
+  "market_createdAt": "2024-12-02T19:04:40.923061Z",
+  "market_updatedAt": "2024-12-05T23:55:30.999096Z",
+  "market_startDate": "2024-12-02T19:08:07.625111Z",
+  "market_endDate": "2024-12-04T19:30:00Z",
+  "market_closedTime": "2024-12-05 00:49:30+00",
+  "conditionId": "0x667cdccba3726dad74c7df779523a304044760d19f33016ad0c37e7cb162bfa5",
+  "slug": "epl-eve-wol-2024-12-04-draw",
+  "question": "Will Everton vs. Wolves end in a draw?"
+}

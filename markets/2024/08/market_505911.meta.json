@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:22:27.570557Z",
+  "market_createdAt": "2024-08-27T19:22:27.570557Z",
+  "market_updatedAt": "2024-08-29T19:47:14.52601Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:36:50+00",
+  "conditionId": "0x08077c6d93e7cdca0cb2489f529d3953095db4c3246f4d0078da6cd6fbf1aa23",
+  "slug": "will-jd-vance-say-dynamic-duo-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"dynamic duo\" during Pennsylvania rally?"
+}

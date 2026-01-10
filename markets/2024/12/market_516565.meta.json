@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516565",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:34:21.578791Z",
+  "market_createdAt": "2024-12-27T21:34:21.578791Z",
+  "market_updatedAt": "2024-12-30T17:55:41.619167Z",
+  "market_startDate": "2024-12-27T22:15:11.3088Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:30:51+00",
+  "conditionId": "0x0d0472f957fe1a8a2603eb4e7eae7146906c957ce017fc9fdee0441a88c184d0",
+  "slug": "will-the-bills-and-jets-combine-for-46-or-more-points",
+  "question": "Will the Bills and Jets combine for 46 or more points?"
+}

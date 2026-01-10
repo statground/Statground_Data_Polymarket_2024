@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T04:08:06.066240Z",
+  "market_createdAt": "2024-04-25T04:08:06.06624Z",
+  "market_updatedAt": "2024-11-06T07:47:10.992528Z",
+  "market_startDate": "2024-04-25T04:09:04.596Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:38:03+00",
+  "conditionId": "0x3c3b3cd604871d9247512a0572c49dfb46c6e5d981f9e35e3018fd91051e1272",
+  "slug": "capital-gains-tax-increase-before-election-day",
+  "question": "Capital gains tax increase before election day?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T18:39:20.939979Z",
+  "market_createdAt": "2024-06-28T18:39:20.939979Z",
+  "market_updatedAt": "2024-08-07T08:32:54.324791Z",
+  "market_startDate": "2024-06-28T20:27:45.564Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-06 20:22:59+00",
+  "conditionId": "0x26190e14812918988e5f50dffd3d4e36fd522452234f30626395291feaa13b72",
+  "slug": "gretchen-whitmer-wins-democratic-presidential-nomination",
+  "question": "Gretchen Whitmer Democratic Presidential Nominee?"
+}

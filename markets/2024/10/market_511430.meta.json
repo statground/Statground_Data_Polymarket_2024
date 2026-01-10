@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:42:36.298034Z",
+  "market_createdAt": "2024-10-30T16:42:36.298034Z",
+  "market_updatedAt": "2024-11-01T20:47:14.344521Z",
+  "market_startDate": "2024-10-30T18:35:54.668562Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 21:16:33+00",
+  "conditionId": "0xf65a8e99b08a184c910525acaed4f9083dda2bc69286a3ac62c77c273b98d8dd",
+  "slug": "will-trump-say-rig-or-rigged-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"rig\" or \"rigged\" during New Mexico rally on October 31?"
+}

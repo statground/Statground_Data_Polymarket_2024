@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:54:49.257000Z",
+  "market_createdAt": "2024-03-01T18:54:49.257Z",
+  "market_updatedAt": "2024-11-07T07:49:01.180255Z",
+  "market_startDate": "2024-03-19T15:50:14.327Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-06 12:30:28+00",
+  "conditionId": "0x4eb0e9cf251ab50bc4488a67027db67b2b21d0020d8b7a2be57d1b3dbba5b974",
+  "slug": "will-a-candidate-from-another-party-win-minnesota-presidential-election",
+  "question": "Will a candidate from another party win Minnesota Presidential Election?"
+}

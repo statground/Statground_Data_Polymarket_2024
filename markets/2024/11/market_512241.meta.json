@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:33:19.982282Z",
+  "market_createdAt": "2024-11-06T22:33:19.982282Z",
+  "market_updatedAt": "2024-11-18T00:27:14.037857Z",
+  "market_startDate": "2024-11-06T22:47:36.908769Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-17 00:42:42+00",
+  "conditionId": "0x046f8f9419c187f12db763db8e6c18dc27cca4a49c944504c526adfae3a2a757",
+  "slug": "will-trump-nominate-dan-brouillette-for-energy-secretary",
+  "question": "Will Trump nominate Dan Brouillette for Energy Secretary?"
+}

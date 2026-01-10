@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T05:01:08.991318Z",
+  "market_createdAt": "2024-12-16T05:01:08.991318Z",
+  "market_updatedAt": "2024-12-20T07:43:05.252773Z",
+  "market_startDate": "2024-12-16T05:03:43.711028Z",
+  "market_endDate": "2024-12-26T02:00:00Z",
+  "market_closedTime": "2024-12-19 07:47:24+00",
+  "conditionId": "0x4cb971ba85e36b470e03882650f5802833ff8b374442d4cbd37cc314db32a62a",
+  "slug": "cfb-cal-unlv-2024-12-18",
+  "question": "California vs. UNLV"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T17:20:19.043541Z",
+  "market_createdAt": "2024-07-30T17:20:19.043541Z",
+  "market_updatedAt": "2024-09-02T05:37:04.019786Z",
+  "market_startDate": "2024-07-30T17:20:19.043541Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:09:36+00",
+  "conditionId": "0xf1acf8c182ff5bb61973bebcef828debce12a1aa950ec005e14d2aab1915f040",
+  "slug": "venezuela-intervention-by-august-31",
+  "question": "Venezuela intervention by August 31?"
+}

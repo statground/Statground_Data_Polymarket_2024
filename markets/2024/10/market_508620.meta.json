@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:27:09.414451Z",
+  "market_createdAt": "2024-10-01T20:27:09.414451Z",
+  "market_updatedAt": "2025-04-06T18:12:35.199979Z",
+  "market_startDate": "2024-10-01T21:10:26.876Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-05 18:46:41+00",
+  "conditionId": "0x63d58c858c715f826285794bb4ab994370baac94801a0c296676d791868f2717",
+  "slug": "will-crystal-palace-be-relegated",
+  "question": "Will Crystal Palace be relegated?"
+}

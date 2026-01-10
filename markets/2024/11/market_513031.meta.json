@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T19:02:34.359455Z",
+  "market_createdAt": "2024-11-14T19:02:34.359455Z",
+  "market_updatedAt": "2024-11-16T22:57:01.914954Z",
+  "market_startDate": "2024-11-14T20:40:03.509155Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-15 23:28:32+00",
+  "conditionId": "0x27225dcd38ade63683e366303c76cdf0f0a50130b7162096ae57b8dcbde7c680",
+  "slug": "atp-finals-ruud-vs-rublev",
+  "question": "ATP Finals: Ruud vs. Rublev"
+}

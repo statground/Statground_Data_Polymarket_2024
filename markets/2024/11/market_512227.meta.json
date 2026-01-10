@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:00:52.772838Z",
+  "market_createdAt": "2024-11-06T22:00:52.772838Z",
+  "market_updatedAt": "2025-01-21T19:49:08.194806Z",
+  "market_startDate": "2024-11-06T23:11:32.436Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 19:45:31+00",
+  "conditionId": "0xd8dde8c346cb3dd5b07a96198fd381c9fc2b199380b959db02bfd8e475018193",
+  "slug": "will-barack-obama-attend-presidential-inauguration",
+  "question": "Will Barack Obama attend presidential inauguration?"
+}

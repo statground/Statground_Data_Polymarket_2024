@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:17:03.512840Z",
+  "market_createdAt": "2024-12-04T21:17:03.51284Z",
+  "market_updatedAt": "2024-12-10T02:17:09.687867Z",
+  "market_startDate": "2024-12-04T21:20:22.578168Z",
+  "market_endDate": "2024-12-15T23:00:00Z",
+  "market_closedTime": "2024-12-09 03:45:33+00",
+  "conditionId": "0xefadcba99ef80dcc212830c8ec9f5578c041826852029c9b98e2ad4b40da7c9b",
+  "slug": "nhl-cbj-wpg-2024-12-08",
+  "question": "Blue Jackets vs. Jets"
+}

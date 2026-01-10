@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:01:01.693606Z",
+  "market_createdAt": "2024-09-03T20:01:01.693606Z",
+  "market_updatedAt": "2024-10-22T05:21:15.217784Z",
+  "market_startDate": "2024-09-03T23:53:15.077345Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 06:03:38+00",
+  "conditionId": "0x459d57b2d5d1db7ff2e647fd3a281b5b8f6912055d37935fe672005848c56acb",
+  "slug": "will-the-minnesota-lynx-win-the-2024-wnba-finals",
+  "question": "Will the Minnesota Lynx win the 2024 WNBA Finals?"
+}

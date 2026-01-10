@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507540",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:39:11.016537Z",
+  "market_createdAt": "2024-09-19T21:39:11.016537Z",
+  "market_updatedAt": "2024-09-23T23:42:40.030389Z",
+  "market_startDate": "2024-09-20T00:05:51.180158Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 00:02:08+00",
+  "conditionId": "0x88a93fcf27305efcb168f7b56e4870acc3271c6b1948009e2704977b3c83063d",
+  "slug": "will-natus-vincere-win-esl-counter-strike-champion-2024",
+  "question": "Will Natus Vincere win ESL Counter-Strike Champion 2024?"
+}

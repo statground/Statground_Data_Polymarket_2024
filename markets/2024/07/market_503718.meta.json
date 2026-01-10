@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:47:48.668881Z",
+  "market_createdAt": "2024-07-18T17:47:48.668881Z",
+  "market_updatedAt": "2024-07-30T15:51:08.923873Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:40+00",
+  "conditionId": "0x03af3b2ef9d440ae198b08b68f12aa09d434f538c6d8c6e8bc5b3cefeb945a89",
+  "slug": "will-apostolos-christou-gre-win-gold-in-mens-100m-backstroke",
+  "question": "Will Apostolos Christou (GRE) win Gold in Men's 100m Backstroke?"
+}

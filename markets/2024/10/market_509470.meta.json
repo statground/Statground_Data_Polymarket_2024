@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T22:25:46.199218Z",
+  "market_createdAt": "2024-10-09T22:25:46.199218Z",
+  "market_updatedAt": "2024-10-12T22:40:57.577956Z",
+  "market_startDate": "2024-10-10T21:47:10.061886Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:57:52+00",
+  "conditionId": "0xcddb2623ebbc89f177710b1f2cb46085e025b137b1902be9fef33c7ef951841f",
+  "slug": "will-georgia-beat-ukraine",
+  "question": "Will Georgia beat Ukraine?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T20:13:42.789041Z",
+  "market_createdAt": "2024-09-30T20:13:42.789041Z",
+  "market_updatedAt": "2024-10-03T21:52:41.615704Z",
+  "market_startDate": "2024-09-30T22:26:12.515605Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 00:07:11+00",
+  "conditionId": "0x4d8686ee3a0e6c6e18bec9025fb810bd362f7231fa3ffb64988d6d2d9d70e46b",
+  "slug": "will-the-match-between-aston-villa-and-bayern-munich-end-in-a-draw",
+  "question": "Will the match between Aston Villa and Bayern Munich end in a draw?"
+}

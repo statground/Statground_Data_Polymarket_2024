@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T23:28:43.897326Z",
+  "market_createdAt": "2024-07-09T23:28:43.897326Z",
+  "market_updatedAt": "2024-07-11T06:05:46.161401Z",
+  "market_startDate": "2024-07-09T23:40:03.397Z",
+  "market_endDate": "2024-07-09T12:00:00Z",
+  "market_closedTime": "2024-07-10 06:02:16+00",
+  "conditionId": "0x92581fa26ae0f22083bf54c6450b5aa5e89e246e99e1ba49eaacc95ef3688a27",
+  "slug": "will-trump-announce-vp-pick-today",
+  "question": "Will Trump announce VP pick today?"
+}

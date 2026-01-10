@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T19:01:27.235138Z",
+  "market_createdAt": "2024-09-23T19:01:27.235138Z",
+  "market_updatedAt": "2024-09-26T22:16:43.583559Z",
+  "market_startDate": "2024-09-23T22:23:12.772095Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 00:25:57+00",
+  "conditionId": "0x171b8ca724bd69f4039a421d48a8a03cbf267212bce442a18db6db7137df5d4e",
+  "slug": "will-anderlecht-beat-ferencvaros",
+  "question": "Will Anderlecht beat Ferencvaros?"
+}

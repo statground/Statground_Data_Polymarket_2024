@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:06:44.713990Z",
+  "market_createdAt": "2024-12-22T07:06:44.71399Z",
+  "market_updatedAt": "2024-12-29T22:44:18.921353Z",
+  "market_startDate": "2024-12-22T07:09:17.929759Z",
+  "market_endDate": "2025-01-04T18:00:00Z",
+  "market_closedTime": "2024-12-28 22:41:13+00",
+  "conditionId": "0x6ccb348ef3f3c8a9e251864781dca82ab997ac91f32ccc7824d9addc8e405313",
+  "slug": "nhl-mon-fla-2024-12-28",
+  "question": "Canadiens vs. Panthers"
+}

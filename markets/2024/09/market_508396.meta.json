@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T15:12:38.526601Z",
+  "market_createdAt": "2024-09-30T15:12:38.526601Z",
+  "market_updatedAt": "2024-11-09T18:58:57.661157Z",
+  "market_startDate": "2024-09-30T15:26:23.499251Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-08 18:52:20+00",
+  "conditionId": "0x2cc32ede706a85ec4056aa91df09f962ab11c1c2cac92b3a7befd5fe0832e738",
+  "slug": "2024-october-hottest-on-record",
+  "question": "2024 October hottest on record?"
+}

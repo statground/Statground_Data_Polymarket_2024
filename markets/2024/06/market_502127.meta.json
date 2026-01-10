@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T16:47:46.366392Z",
+  "market_createdAt": "2024-06-05T16:47:46.366392Z",
+  "market_updatedAt": "2024-06-07T16:26:15.048923Z",
+  "market_startDate": "2024-06-05T17:20:13.272Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-06 18:53:43+00",
+  "conditionId": "0x5e6db9683b6c4c90e21e8b360275d0bb9d10f4e565b4295b80e6cc7d2ca42cec",
+  "slug": "spacex-4th-starship-launch-survives-re-entry",
+  "question": "SpaceX 4th Starship launch survives re-entry?"
+}

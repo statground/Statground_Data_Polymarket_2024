@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:33:08.239000Z",
+  "market_createdAt": "2024-02-20T18:33:08.239Z",
+  "market_updatedAt": "2024-05-12T22:48:53.691507Z",
+  "market_startDate": "2024-02-21T00:32:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:10:25+00",
+  "conditionId": "0x95b2b4ec27ffb747512e1908cc2db722791f585e072019cd295bdefedd9b36e0",
+  "slug": "will-france-win-eurovision-2024",
+  "question": "Will France win Eurovision 2024?"
+}

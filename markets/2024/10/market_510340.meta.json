@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:01:59.135347Z",
+  "market_createdAt": "2024-10-21T20:01:59.135347Z",
+  "market_updatedAt": "2024-12-18T21:21:21.543675Z",
+  "market_startDate": "2024-10-24T22:10:05.873Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-17 21:23:07+00",
+  "conditionId": "0x38bc6b9fbc7f22b58a9b83330709e2fbb15ddbed7f2277831c8c3df0ee20475b",
+  "slug": "will-2-of-votes-go-to-3rd-party-candidates-in-us-election",
+  "question": "Will ≥2% of votes go to 3rd Party candidates?"
+}

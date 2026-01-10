@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:13:11.680923Z",
+  "market_createdAt": "2024-12-29T07:13:11.680923Z",
+  "market_updatedAt": "2025-01-06T03:57:14.412473Z",
+  "market_startDate": "2024-12-29T07:15:41.640787Z",
+  "market_endDate": "2025-01-12T00:00:00Z",
+  "market_closedTime": "2025-01-05 04:39:07+00",
+  "conditionId": "0x6db95e20636ee2fdb7d0434033a0521960da6c54dc100cc2a18bcd71f0f2379f",
+  "slug": "nhl-stl-cbj-2025-01-04",
+  "question": "Blues vs. Blue Jackets"
+}

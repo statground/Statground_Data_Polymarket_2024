@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:37:14.940492Z",
+  "market_createdAt": "2024-09-27T19:37:14.940492Z",
+  "market_updatedAt": "2024-09-30T17:02:36.23548Z",
+  "market_startDate": "2024-09-27T20:52:56.340743Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:15:36+00",
+  "conditionId": "0x2d0f20b07364f89177ff4f2ea0126f17f5b459d12c410ba0df853aef26460e30",
+  "slug": "will-the-falcons-beat-the-saints-by-3-or-more-points",
+  "question": "Will the Falcons beat the Saints by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513597",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:05:56.428984Z",
+  "market_createdAt": "2024-11-20T22:05:56.428984Z",
+  "market_updatedAt": "2025-04-20T00:26:36.00626Z",
+  "market_startDate": "2024-11-20T22:36:12.878Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:07:41+00",
+  "conditionId": "0x41006e3d5e9ca7ca2180c915782eac650a88e1b0b596cbb62024b7d356da1d92",
+  "slug": "will-jake-paul-fight-floyd-mayweather-next",
+  "question": "Will Jake Paul fight Floyd Mayweather next?"
+}

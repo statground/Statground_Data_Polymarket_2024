@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:11:41.376061Z",
+  "market_createdAt": "2024-10-11T15:11:41.376061Z",
+  "market_updatedAt": "2024-10-13T18:06:42.480626Z",
+  "market_startDate": "2024-10-11T18:49:05.849824Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:17:41+00",
+  "conditionId": "0xeb05be6b10e3245977d010568da09395a268716a6fcd3a691045c0b0a5c17e34",
+  "slug": "will-missouri-beat-umass",
+  "question": "Will Missouri beat UMass?"
+}

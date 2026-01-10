@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T21:37:10.732595Z",
+  "market_createdAt": "2024-07-05T21:37:10.732595Z",
+  "market_updatedAt": "2024-07-15T00:12:48.721227Z",
+  "market_startDate": "2024-07-09T20:51:36.982Z",
+  "market_endDate": "2024-07-13T12:00:00Z",
+  "market_closedTime": "2024-07-14 05:21:28+00",
+  "conditionId": "0xde70fb6c276d69e6e0f60f6f111f1b296d06d674a27c5712f1164f4e4b223a25",
+  "slug": "ufc-fight-night-bonfim-vs-loosa",
+  "question": "UFC Fight Night: Bonfim vs. Loosa"
+}

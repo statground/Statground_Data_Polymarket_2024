@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T16:00:33.414274Z",
+  "market_createdAt": "2024-06-28T16:00:33.414274Z",
+  "market_updatedAt": "2024-06-29T23:56:04.60647Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-29 03:06:52+00",
+  "conditionId": "0x163dea5bc266a5ddcd041b6966a6c9a018078248762e945b9bddd07650e73eba",
+  "slug": "will-costa-rica-win-jun-28",
+  "question": "Will Costa Rica win?"
+}

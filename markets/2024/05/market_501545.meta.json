@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T14:51:06.303168Z",
+  "market_createdAt": "2024-05-13T14:51:06.303168Z",
+  "market_updatedAt": "2024-05-18T15:24:27.403641Z",
+  "market_startDate": "2024-05-13T15:21:17.328Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-17 22:07:08+00",
+  "conditionId": "0xc1e2aa3addf51a2cf0c889b65abf8a346b4c4ec95c8b614f6d1b2688f5030718",
+  "slug": "gme-all-time-high-by-friday",
+  "question": "$GME all time high by Friday?"
+}

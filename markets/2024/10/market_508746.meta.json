@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T15:43:19.102567Z",
+  "market_createdAt": "2024-10-03T15:43:19.102567Z",
+  "market_updatedAt": "2024-12-02T07:21:26.765805Z",
+  "market_startDate": "2024-10-03T16:04:09.863Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:25:19+00",
+  "conditionId": "0xdc8391521f8ddad9dac60dc32ffeb7d1f78c707b241ceb4b383066e4d31595a8",
+  "slug": "will-russia-capture-kurakhove-before-december",
+  "question": "Will Russia capture Kurakhove before December?"
+}

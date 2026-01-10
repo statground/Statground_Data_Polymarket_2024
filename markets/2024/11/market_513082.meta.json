@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:01:56.621868Z",
+  "market_createdAt": "2024-11-14T23:01:56.621868Z",
+  "market_updatedAt": "2025-02-14T19:06:02.537237Z",
+  "market_startDate": "2024-11-14T23:23:26.565935Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-13 20:35:53+00",
+  "conditionId": "0x702ad5b4eada1d8797af98a9b22124dc8578587f2a48d857febff56fcdeba7de",
+  "slug": "will-ben-carson-be-trumps-hhs-secretary",
+  "question": "Will Ben Carson be Trump's HHS Secretary?"
+}

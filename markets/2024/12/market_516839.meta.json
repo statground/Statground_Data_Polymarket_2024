@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:01:05.430449Z",
+  "market_createdAt": "2024-12-30T17:01:05.430449Z",
+  "market_updatedAt": "2025-01-01T04:57:30.808367Z",
+  "market_startDate": "2024-12-30T17:33:34.152683Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2024-12-31 06:17:14+00",
+  "conditionId": "0x8216bb3cc952359e1ff4762345fbc969d4a7fcdf74bbbe0d8b49d34ae899fec5",
+  "slug": "will-the-lions-beat-the-49ers-by-4-or-more-points",
+  "question": "Will the Lions beat the 49ers by 4 or more points?"
+}

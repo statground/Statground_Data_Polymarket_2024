@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:28:33.221155Z",
+  "market_createdAt": "2024-11-04T23:28:33.221155Z",
+  "market_updatedAt": "2024-11-06T21:47:10.676097Z",
+  "market_startDate": "2024-11-05T00:45:31.448333Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:38:47+00",
+  "conditionId": "0x5276c284bb05b8df0d8bb12bacb020dfe62dc350a9edeffdecc7357bbab860ed",
+  "slug": "will-the-match-between-sporting-cp-and-manchester-city-end-in-a-draw",
+  "question": "Will the match between Sporting CP and Manchester City end in a draw?"
+}

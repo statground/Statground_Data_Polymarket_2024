@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "16104",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-29T18:45:21.828351Z",
+  "event_createdAt": "2024-12-29T18:45:21.828351Z",
+  "event_creationDate": "2024-12-29T22:42:17.013823Z",
+  "event_startDate": "2024-12-29T22:42:17.013826Z",
+  "event_endDate": "2025-12-31T12:00:00Z",
+  "event_updatedAt": "2026-01-02T00:32:38.335267Z",
+  "markets_len": 1,
+  "market_ids": [
+    "516715"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10566"
+  ],
+  "series_slug": "ukraine-joins-nato"
+}

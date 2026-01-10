@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:41:00.372076Z",
+  "market_createdAt": "2024-10-18T17:41:00.372076Z",
+  "market_updatedAt": "2024-10-20T02:01:29.693872Z",
+  "market_startDate": "2024-10-18T23:11:52.641684Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:58:31+00",
+  "conditionId": "0xd0be19672e5eb67faf591976024ec9cf024fc0049e5e646c9c7624dd51362132",
+  "slug": "will-there-be-57-or-more-combined-points-scored-USC-Maryland",
+  "question": "Will there be 57 or more combined points scored?"
+}

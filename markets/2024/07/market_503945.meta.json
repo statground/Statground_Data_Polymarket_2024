@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T23:20:48.142979Z",
+  "market_createdAt": "2024-07-19T23:20:48.142979Z",
+  "market_updatedAt": "2024-08-07T09:20:55.398803Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-06 09:35:16+00",
+  "conditionId": "0x23dc097ada9c36b2e06dd5f9f74f77fbd6a2aefb9dfa26a2ab471468d66e240a",
+  "slug": "will-democrats-nominate-a-presidential-candidate-after-aug-22",
+  "question": "Will Democrats nominate a Presidential candidate after Aug 22? "
+}

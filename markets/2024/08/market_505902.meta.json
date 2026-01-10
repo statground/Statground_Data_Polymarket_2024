@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T17:14:48.170643Z",
+  "market_createdAt": "2024-08-27T17:14:48.170643Z",
+  "market_updatedAt": "2024-09-19T12:16:48.457013Z",
+  "market_startDate": "2024-08-27T17:14:48.170643Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-18 12:13:10+00",
+  "conditionId": "0xa0ce32e1f028cb4f97a7461efb95d95fc8b6ce5a4bbf52145dddb6b70ca85284",
+  "slug": "will-the-pittsburgh-pirates-win-the-world-series",
+  "question": "Will the Pittsburgh Pirates win the World Series?"
+}

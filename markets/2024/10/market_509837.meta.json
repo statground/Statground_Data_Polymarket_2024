@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509837",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T19:01:39.804311Z",
+  "market_createdAt": "2024-10-14T19:01:39.804311Z",
+  "market_updatedAt": "2024-10-21T21:43:20.663859Z",
+  "market_startDate": "2024-10-14T19:03:46.260651Z",
+  "market_endDate": "2024-10-20T17:00:00Z",
+  "market_closedTime": "2024-10-20 22:19:58+00",
+  "conditionId": "0x620a94bf149e06ba81d5de597c52314b060fc28cdeabc53d450704198209bea6",
+  "slug": "nfl-phi-nyg-2024-10-20",
+  "question": "Eagles vs. Giants"
+}

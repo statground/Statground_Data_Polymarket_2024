@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-02T22:08:40.840116Z",
+  "market_createdAt": "2024-09-02T22:08:40.840116Z",
+  "market_updatedAt": "2024-09-07T15:51:14.223799Z",
+  "market_startDate": "2024-09-03T06:16:11.549595Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-06 19:23:33+00",
+  "conditionId": "0x341f08c2b5f90bb47218d758dad10834ec03cd7d4e20a225238f73ee2a3fb05f",
+  "slug": "trump-posts-less-than-40-times-on-x",
+  "question": "Trump posts less than 40 times on X?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:30:41.054916Z",
+  "market_createdAt": "2024-08-21T20:30:41.054916Z",
+  "market_updatedAt": "2024-08-24T20:17:04.761893Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 20:59:15+00",
+  "conditionId": "0xdbde66e9d915530939a8668b6ba2fa26715d052dc5a46865f0feabe96d0dffee",
+  "slug": "will-rfk-jr-say-donald-or-trump-during-friday-address",
+  "question": "Will RFK Jr. say \"Donald\" or \"Trump\" during Friday address?"
+}

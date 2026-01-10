@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:38:33.812316Z",
+  "market_createdAt": "2024-09-16T20:38:33.812316Z",
+  "market_updatedAt": "2024-09-19T23:52:44.507677Z",
+  "market_startDate": "2024-09-16T21:37:46.674614Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-19 00:05:08+00",
+  "conditionId": "0x4ad59349cb2b1287b0051e0c62a35280a8e030aea82453f072d80b167d2c52bb",
+  "slug": "will-paris-saint-germain-beat-girona",
+  "question": "Will Paris Saint-Germain beat Girona?"
+}

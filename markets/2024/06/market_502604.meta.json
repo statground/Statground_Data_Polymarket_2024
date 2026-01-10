@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T20:47:18.890965Z",
+  "market_createdAt": "2024-06-18T20:47:18.890965Z",
+  "market_updatedAt": "2024-06-23T08:51:08.973455Z",
+  "market_startDate": "2024-06-18T20:51:04.548Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 08:57:54+00",
+  "conditionId": "0xeb84376ec7cfa286463bb58a225aedb3ff53e85f9705718a4a0ead98065c1513",
+  "slug": "will-martin-shkreli-bet-1m-on-djt-being-real",
+  "question": "Will Shkreli escrow >$1m?"
+}

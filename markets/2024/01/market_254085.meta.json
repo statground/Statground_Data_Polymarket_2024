@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-24T20:05:37.289000Z",
+  "market_createdAt": "2024-01-24T20:05:37.289Z",
+  "market_updatedAt": "2024-02-02T06:37:47.196Z",
+  "market_startDate": "2024-01-24T20:22:56.773Z",
+  "market_endDate": "2024-01-31T00:00:00Z",
+  "market_closedTime": "2024-02-01 07:16:51+00",
+  "conditionId": "0x11a6fae079ab78fb8f0ac3c44558fecbe71ea6f9b42f6ebc30537d6bfeecb607",
+  "slug": "wif-all-time-high-before-february-01-24-2024",
+  "question": "$WIF all time high before February? "
+}

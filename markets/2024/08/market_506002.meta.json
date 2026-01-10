@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:41:54.168815Z",
+  "market_createdAt": "2024-08-28T19:41:54.168815Z",
+  "market_updatedAt": "2025-01-11T18:48:40.743836Z",
+  "market_startDate": "2024-08-28T20:33:13.192Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 19:37:27+00",
+  "conditionId": "0x16a920cf5afde2c3c2488e18c028d938d054e420e05b5516e30c6c64de0f1247",
+  "slug": "global-heat-increase-less-than-1pt22c-for-2024",
+  "question": "Global heat increase less than 1.22°C for 2024?"
+}

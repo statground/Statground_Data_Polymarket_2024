@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:54:54.661345Z",
+  "market_createdAt": "2024-10-21T22:54:54.661345Z",
+  "market_updatedAt": "2024-10-23T23:11:27.853577Z",
+  "market_startDate": "2024-10-22T01:07:23.410419Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:35:33+00",
+  "conditionId": "0x1b154256b60c21c24ea1820f9b5078b31d05cf022728134880b7d5dffc12b2bc",
+  "slug": "will-paris-saint-germain-beat-psv",
+  "question": "Will Paris Saint-Germain beat PSV?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T17:59:23.004506Z",
+  "market_createdAt": "2024-12-12T17:59:23.004506Z",
+  "market_updatedAt": "2025-01-22T07:05:07.623886Z",
+  "market_startDate": "2024-12-12T18:05:31.080185Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 07:26:03+00",
+  "conditionId": "0x4277203b8c32180828b1c76052fc295b2a76468d05f28465419e68f6e1e8b427",
+  "slug": "will-elon-be-worth-500b-by-trump-inauguration",
+  "question": "Will Elon be worth $500b by Trump inauguration?"
+}

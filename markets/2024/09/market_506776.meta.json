@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T18:15:22.585445Z",
+  "market_createdAt": "2024-09-10T18:15:22.585445Z",
+  "market_updatedAt": "2024-09-16T11:16:54.308379Z",
+  "market_startDate": "2024-09-10T18:45:46.445212Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 19:44:34+00",
+  "conditionId": "0x664ea3af3aea2018880ea3ac01252a5bd1a6dfbb408b096ed459872e447320fa",
+  "slug": "will-lewis-hamilton-win-the-azerbaijan-grand-prix",
+  "question": "Will Lewis Hamilton win the Azerbaijan Grand Prix?"
+}

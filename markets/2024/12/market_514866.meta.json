@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:07:28.818258Z",
+  "market_createdAt": "2024-12-05T21:07:28.818258Z",
+  "market_updatedAt": "2024-12-17T20:11:26.346023Z",
+  "market_startDate": "2024-12-10T21:00:59.84399Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:34:24+00",
+  "conditionId": "0x66a2af4782ab2ecf7a0ca65710fa0241145eee0402dd7d2338fe78b328f23aa3",
+  "slug": "will-coinbase-announce-goatseus-maximus-as-next-listing",
+  "question": "Will Coinbase announce Goatseus Maximus as next listing?"
+}

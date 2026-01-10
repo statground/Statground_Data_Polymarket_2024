@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:05:11.091596Z",
+  "market_createdAt": "2024-12-30T05:05:11.091596Z",
+  "market_updatedAt": "2025-01-05T19:55:32.051748Z",
+  "market_startDate": "2024-12-30T05:08:14.119767Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:33:38+00",
+  "conditionId": "0x479a1581a10479308d21418080675b336f578c2d9f0173f4a89a7868ea5bc37e",
+  "slug": "epl-sou-bre-2025-01-04-draw",
+  "question": "Will Southampton vs. Brentford end in a draw?"
+}

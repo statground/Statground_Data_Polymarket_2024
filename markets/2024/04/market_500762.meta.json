@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:29:12.827969Z",
+  "market_createdAt": "2024-04-05T16:29:12.827969Z",
+  "market_updatedAt": "2024-08-15T06:17:03.071599Z",
+  "market_startDate": "2024-08-06T20:51:32.356Z",
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 06:12:59+00",
+  "conditionId": "0x8288d2d383414fce6bc4b7609ed5074c86bce99cb0b13ff01a23bad674901998",
+  "slug": "will-another-candidate-win-the-mn-5-democratic-house-district",
+  "question": "Will another candidate win the MN-5 Democratic House District?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T16:46:40.647000Z",
+  "market_createdAt": "2024-01-16T16:46:40.647Z",
+  "market_updatedAt": "2024-01-29T18:57:40.609Z",
+  "market_startDate": "2024-01-16T18:01:49.072Z",
+  "market_endDate": "2024-01-22T00:00:00Z",
+  "market_closedTime": "2024-01-29 17:17:16+00",
+  "conditionId": "0x58a6ab5c8c99249e86e856da84e764a8279237b16004f7e0ae1ffadc24dece6a",
+  "slug": "trump-margin-of-victory-in-new-hampshire-primary-12pt5-15",
+  "question": "Trump margin of victory in New Hampshire Primary 12.5-15%"
+}

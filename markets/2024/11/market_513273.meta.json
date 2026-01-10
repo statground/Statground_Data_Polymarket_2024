@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:03:42.897708Z",
+  "market_createdAt": "2024-11-17T05:03:42.897708Z",
+  "market_updatedAt": "2024-11-21T06:53:01.291702Z",
+  "market_startDate": "2024-11-17T05:06:10.494762Z",
+  "market_endDate": "2024-11-27T02:30:00Z",
+  "market_closedTime": "2024-11-20 06:57:11+00",
+  "conditionId": "0x412d5d61c5e860a6b9e96b374c8d501426bceddfcabd5073330a3f8ab7b5c14b",
+  "slug": "nba-okc-sas-2024-11-19",
+  "question": "Thunder vs. Spurs"
+}

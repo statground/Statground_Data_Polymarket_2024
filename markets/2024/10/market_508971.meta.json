@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T19:00:27.331955Z",
+  "market_createdAt": "2024-10-04T19:00:27.331955Z",
+  "market_updatedAt": "2024-10-06T03:00:49.716383Z",
+  "market_startDate": "2024-10-04T21:48:42.892674Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 04:58:51+00",
+  "conditionId": "0xeebd320e80b437e7553c98264777f22d9bf1c2f0346782c12f825444f047572f",
+  "slug": "will-tcu-beat-houston",
+  "question": "Will TCU beat Houston?"
+}

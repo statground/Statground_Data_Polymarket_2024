@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:59:42.754178Z",
+  "market_createdAt": "2024-10-15T18:59:42.754178Z",
+  "market_updatedAt": "2025-05-05T00:22:29.302668Z",
+  "market_startDate": "2024-10-15T22:45:07.452582Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-03 23:13:06+00",
+  "conditionId": "0x6a9ececdb52d5bb1d70780199610060207bd80bfdad40234adf069f1d7a11667",
+  "slug": "will-juventus-win-the-serie-a",
+  "question": "Will Juventus win the Serie A?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:14:07.587980Z",
+  "market_createdAt": "2024-12-02T20:14:07.58798Z",
+  "market_updatedAt": "2025-02-01T00:26:59.679932Z",
+  "market_startDate": "2024-12-02T22:54:09.717Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 18:28:24+00",
+  "conditionId": "0x386cf9745ac46d25fdbc88fe0110648a0487879b5c199969e0fe6826eca76c99",
+  "slug": "2024-december-hottest-on-record",
+  "question": "2024 December hottest on record?"
+}

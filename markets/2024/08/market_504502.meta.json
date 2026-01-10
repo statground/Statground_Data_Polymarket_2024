@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T20:29:12.400559Z",
+  "market_createdAt": "2024-08-02T20:29:12.400559Z",
+  "market_updatedAt": "2024-08-04T21:27:00.826747Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:46:24+00",
+  "conditionId": "0x8fe11bfea8cfe523d8c384b5f7b14440e461c784d9672bf469032b49ae383a57",
+  "slug": "will-shacarri-richardson-usa-win-gold-in-100m-w",
+  "question": "Will Sha’Carri Richardson (USA) win gold in 100m W?"
+}

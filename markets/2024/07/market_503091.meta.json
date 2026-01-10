@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:05:41.898721Z",
+  "market_createdAt": "2024-07-01T21:05:41.898721Z",
+  "market_updatedAt": "2024-07-05T19:45:50.896956Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-04 23:08:04+00",
+  "conditionId": "0xe10ae12a6958de0af222bef1cc07bfa2ed64f75b8cb08ee3657406aca54880c9",
+  "slug": "will-stefanos-tsitsipas-win-wimbledon-mens",
+  "question": "Will Stefanos Tsitsipas win Wimbledon Men's?"
+}

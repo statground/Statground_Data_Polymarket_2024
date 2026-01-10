@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:41:01.274981Z",
+  "market_createdAt": "2024-10-08T16:41:01.274981Z",
+  "market_updatedAt": "2024-10-11T13:42:54.675672Z",
+  "market_startDate": "2024-10-08T17:19:15.41686Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:22:05+00",
+  "conditionId": "0x1c44dc0f4b0a3999ec5e37133dfb8f18f8b714a765be5c05c905ac6d28ad4037",
+  "slug": "will-thomas-pynchon-win-the-nobel-prize-in-literature",
+  "question": "Will Thomas Pynchon win the Nobel prize in literature?"
+}

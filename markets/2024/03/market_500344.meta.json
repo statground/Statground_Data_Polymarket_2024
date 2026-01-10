@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T15:34:25.309771Z",
+  "market_createdAt": "2024-03-20T15:34:25.309771Z",
+  "market_updatedAt": "2024-08-09T03:50:54.049253Z",
+  "market_startDate": "2024-03-20T15:42:27.348Z",
+  "market_endDate": "2024-04-02T23:00:00Z",
+  "market_closedTime": "2024-08-08 04:19:18+00",
+  "conditionId": "0x9512176b0db9e760ef55f9625cd049bc59b3a65d74a215cf09d83acc59182e50",
+  "slug": "court-temporarily-allows-texas-to-arrest-migrants",
+  "question": "Court temporarily allows Texas to arrest migrants?"
+}

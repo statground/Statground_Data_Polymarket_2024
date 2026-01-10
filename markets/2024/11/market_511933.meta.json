@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:46:18.790549Z",
+  "market_createdAt": "2024-11-04T18:46:18.790549Z",
+  "market_updatedAt": "2024-11-12T04:47:10.473014Z",
+  "market_startDate": "2024-11-04T18:49:01.085984Z",
+  "market_endDate": "2024-11-11T00:00:00Z",
+  "market_closedTime": "2024-11-11 04:48:44+00",
+  "conditionId": "0x3ac8f286e332c03ddfbb4c2fffc4bd88e1b91cda4f4afeee878f9753c191d8a7",
+  "slug": "nba-gsw-okc-2024-11-10",
+  "question": "Warriors vs. Thunder"
+}

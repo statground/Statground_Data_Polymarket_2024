@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:19:40.979592Z",
+  "market_createdAt": "2024-11-05T19:19:40.979592Z",
+  "market_updatedAt": "2024-11-07T23:47:12.762525Z",
+  "market_startDate": "2024-11-05T19:50:59.727Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:44:26+00",
+  "conditionId": "0x0d2b39c132de85a0452345be6aacdf18c9094e2918fed648176701e504cff2de",
+  "slug": "will-kamala-say-won-or-win-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"won\" or \"win\" in her speech after the election is called?"
+}

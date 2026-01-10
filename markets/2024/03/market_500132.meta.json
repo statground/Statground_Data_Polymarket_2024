@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T21:03:58.274050Z",
+  "market_createdAt": "2024-03-13T21:03:58.27405Z",
+  "market_updatedAt": "2024-05-07T23:10:14.91622Z",
+  "market_startDate": "2024-03-21T16:05:29.704Z",
+  "market_endDate": "2024-03-30T12:00:00Z",
+  "market_closedTime": "2024-04-01 09:06:37+00",
+  "conditionId": "0x758a88c0d9c4f4025e26feb5f31ef17f00a6ec5554972348340c1e5eabfd7bc3",
+  "slug": "will-retardio-be-listed-on-a-major-cex-by-march-31",
+  "question": "Retardio major exchange listing in March?"
+}

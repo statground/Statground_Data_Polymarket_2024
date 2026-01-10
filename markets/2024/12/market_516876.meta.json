@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T21:09:17.221567Z",
+  "market_createdAt": "2024-12-30T21:09:17.221567Z",
+  "market_updatedAt": "2026-01-04T22:41:46.043446Z",
+  "market_startDate": "2024-12-30T22:06:41.721Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:15:19+00",
+  "conditionId": "0xb7f9d3f61910ecf7a5e6e46f487a039e91a92b68585f05ec9b22cb34d3804bbd",
+  "slug": "will-ethereum-hit-7000-by-december-31-733-852",
+  "question": "Will Ethereum hit $7,000 by December 31?"
+}

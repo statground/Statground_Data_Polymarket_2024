@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T05:05:03.321392Z",
+  "market_createdAt": "2024-12-18T05:05:03.321392Z",
+  "market_updatedAt": "2024-12-22T22:29:33.353784Z",
+  "market_startDate": "2024-12-18T05:07:44.452179Z",
+  "market_endDate": "2024-12-21T17:30:00Z",
+  "market_closedTime": "2024-12-21 22:38:28+00",
+  "conditionId": "0x8c6ceecb9cbe639931134510528ae328bae4b39b9d699c8d7e855139a99608c3",
+  "slug": "epl-cry-ars-2024-12-21-ars",
+  "question": "Will Arsenal win on 2024-12-21?"
+}

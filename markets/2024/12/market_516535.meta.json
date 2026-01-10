@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516535",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T19:52:53.012695Z",
+  "market_createdAt": "2024-12-27T19:52:53.012695Z",
+  "market_updatedAt": "2024-12-29T17:28:23.869682Z",
+  "market_startDate": "2024-12-27T21:28:56.847122Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-28 22:26:28+00",
+  "conditionId": "0x0cbd1d823f63eb0c70186722633bb4d0c6f88eaa3c64726ca0ec9deca2e3242e",
+  "slug": "will-nebraska-beat-boston-college-by-4-or-more-points",
+  "question": "Will Nebraska beat Boston College by 4 or more points?"
+}

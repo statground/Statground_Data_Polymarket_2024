@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:28:42.422750Z",
+  "market_createdAt": "2024-07-09T15:28:42.42275Z",
+  "market_updatedAt": "2024-12-01T02:07:14.037288Z",
+  "market_startDate": "2024-07-09T15:28:42.42275Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-11-30 02:39:51+00",
+  "conditionId": "0x59c211bdc7743b11eefa59e0d87802445980cf27e63dbdad2f6668ea0f139fdb",
+  "slug": "will-the-raiders-win-super-bowl-2025",
+  "question": "Will the Raiders win Super Bowl 2025?"
+}

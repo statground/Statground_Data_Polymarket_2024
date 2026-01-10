@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514356",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T05:00:18.416621Z",
+  "market_createdAt": "2024-12-02T05:00:18.416621Z",
+  "market_updatedAt": "2024-12-08T05:49:19.348952Z",
+  "market_startDate": "2024-12-02T05:03:32.405088Z",
+  "market_endDate": "2024-12-14T01:00:00Z",
+  "market_closedTime": "2024-12-07 06:30:44+00",
+  "conditionId": "0x48bf75e27c1b1db4178cc8eca96787f2d371ce1a883b764cedbd3bd165f12c6b",
+  "slug": "cfb-tuln-army-2024-12-06",
+  "question": "Tulane vs. Army"
+}

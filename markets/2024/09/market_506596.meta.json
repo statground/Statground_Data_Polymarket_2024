@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T21:42:05.674116Z",
+  "market_createdAt": "2024-09-06T21:42:05.674116Z",
+  "market_updatedAt": "2024-09-23T00:44:54.262714Z",
+  "market_startDate": "2024-09-06T22:41:27.541Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 00:42:01+00",
+  "conditionId": "0x559eecbbacb3b1ae4657c3acf3e1742429d53670640d80d19d0b7ea03a5d8c09",
+  "slug": "will-germany-win-the-2024-womens-chess-olympiad",
+  "question": "Will Germany win the 2024 Women's Chess Olympiad?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T22:05:58.503908Z",
+  "market_createdAt": "2024-08-07T22:05:58.503908Z",
+  "market_updatedAt": "2024-11-11T04:22:41.763391Z",
+  "market_startDate": "2024-08-08T02:34:58.234Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:06:25+00",
+  "conditionId": "0xebcc07c03af9faaf2de5370479db56f674082cf40af87d9177a1ab116c6a1cce",
+  "slug": "wa-03-house-race-perez-d-vs-kent-r",
+  "question": "WA-03 election: Glusenkamp Perez (D) vs. Kent (R)"
+}

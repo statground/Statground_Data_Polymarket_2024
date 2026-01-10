@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T02:48:22.512363Z",
+  "market_createdAt": "2024-08-16T02:48:22.512363Z",
+  "market_updatedAt": "2024-08-28T00:17:09.604801Z",
+  "market_startDate": "2024-08-20T17:09:42.964Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-08-27 00:28:38+00",
+  "conditionId": "0x0177f278fbb35677f8bd248e092adcb5dbe16a9fb603d8644843791ee08f2327",
+  "slug": "rfk-jr-endorses-trump-before-november",
+  "question": "RFK Jr. endorses Trump before November?"
+}

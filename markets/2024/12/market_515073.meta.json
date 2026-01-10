@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515073",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:03:11.164197Z",
+  "market_createdAt": "2024-12-08T07:03:11.164197Z",
+  "market_updatedAt": "2024-12-14T07:41:08.824658Z",
+  "market_startDate": "2024-12-08T07:06:41.500903Z",
+  "market_endDate": "2024-12-20T03:00:00Z",
+  "market_closedTime": "2024-12-13 07:39:56+00",
+  "conditionId": "0xb6e5d35e138f2ce3ef8dd6d410e6624874e78850df2610e528f29f78f572c0c2",
+  "slug": "nhl-bos-sea-2024-12-12",
+  "question": "Bruins vs. Kraken"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T17:28:08.008000Z",
+  "market_createdAt": "2024-03-08T17:28:08.008Z",
+  "market_updatedAt": "2024-11-08T04:19:02.747903Z",
+  "market_startDate": "2024-05-08T22:20:07.698Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 05:09:39+00",
+  "conditionId": "0xd41175220866f7011aa9c32638d9978ac2117224432c25c1db729eae7e201fdf",
+  "slug": "will-a-candidate-from-another-party-win-new-hampshire-governor-election",
+  "question": "Will a candidate from another party win New Hampshire Governor Election?"
+}

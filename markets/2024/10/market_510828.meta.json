@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:55:12.970366Z",
+  "market_createdAt": "2024-10-24T19:55:12.970366Z",
+  "market_updatedAt": "2024-10-27T06:16:58.597715Z",
+  "market_startDate": "2024-10-24T20:21:41.170371Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:16:13+00",
+  "conditionId": "0xa230e3c835e205f35e51322942325bd7114a5d935e5163b081afd9431d2027f1",
+  "slug": "will-trump-say-pocahontas-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"Pocahontas\" during Michigan rally on October 25?"
+}

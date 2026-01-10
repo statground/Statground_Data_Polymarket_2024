@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T17:24:13.330303Z",
+  "market_createdAt": "2024-05-31T17:24:13.330303Z",
+  "market_updatedAt": "2024-06-09T14:16:16.715805Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-08 17:36:13+00",
+  "conditionId": "0x9022dbd63f3ed3d1e88718a9ad918b0af61844c8c34f1be44137900ad47a0aac",
+  "slug": "will-another-player-win-the-2024-french-open-womens-singles",
+  "question": "Will another player win the 2024 French Open Women's Singles?"
+}

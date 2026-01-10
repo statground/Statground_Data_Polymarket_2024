@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:02:18.922551Z",
+  "market_createdAt": "2024-12-31T05:02:18.922551Z",
+  "market_updatedAt": "2025-01-02T06:39:08.790891Z",
+  "market_startDate": "2024-12-31T05:05:19.318659Z",
+  "market_endDate": "2025-01-08T00:30:00Z",
+  "market_closedTime": "2025-01-01 06:41:55+00",
+  "conditionId": "0x4d41e114745e89245ac824bf7efa30093872eae5c892400d7ce9e724c97ba352",
+  "slug": "cfb-psu-boise-2024-12-31",
+  "question": "Penn State vs. Boise State"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T17:19:05.963901Z",
+  "market_createdAt": "2024-08-09T17:19:05.963901Z",
+  "market_updatedAt": "2024-09-08T01:03:00.718699Z",
+  "market_startDate": "2024-08-09T17:19:05.963901Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-07 07:17:37+00",
+  "conditionId": "0xefc43121e2a6a49519c4fa4312c022747fc77be0a30137d281fe0a58e0865bba",
+  "slug": "will-hikaru-nakamura-win-the-speed-chess-championship",
+  "question": "Will Hikaru Nakamura win the Speed Chess Championship?"
+}

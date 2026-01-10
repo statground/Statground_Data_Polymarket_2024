@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:18:20.381919Z",
+  "market_createdAt": "2024-11-01T16:18:20.381919Z",
+  "market_updatedAt": "2024-11-06T10:03:12.034569Z",
+  "market_startDate": "2024-11-01T16:21:03.46049Z",
+  "market_endDate": "2024-11-05T02:15:00Z",
+  "market_closedTime": "2024-11-05 11:01:50+00",
+  "conditionId": "0xe78c10aaedb79d95ac13fe2738b1df335ca735471ce6c7c933c81c30753228bc",
+  "slug": "nba-orl-okc-2024-11-04",
+  "question": "Magic vs. Thunder"
+}

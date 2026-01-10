@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T16:54:24.191832Z",
+  "market_createdAt": "2024-09-09T16:54:24.191832Z",
+  "market_updatedAt": "2024-09-15T16:13:07.924882Z",
+  "market_startDate": "2024-09-09T19:34:50.926937Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 16:39:37+00",
+  "conditionId": "0x6e8258330ae9b56c240ec907151c6af59729d5131c436b48d65f037a771f2e94",
+  "slug": "will-southampton-beat-manchester-united",
+  "question": "Will Southampton beat Manchester United?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-25T16:29:20.811763Z",
+  "market_createdAt": "2024-03-25T16:29:20.811763Z",
+  "market_updatedAt": "2024-05-07T23:10:13.842874Z",
+  "market_startDate": "2024-03-26T15:10:19.062Z",
+  "market_endDate": "2024-03-31T12:00:00Z",
+  "market_closedTime": "2024-04-01 07:36:01+00",
+  "conditionId": "0x029327103f06eecb01600bbb678e5b1bc27eaa17d27f6cfbe5d9a415ec46776e",
+  "slug": "will-trump-announce-his-vp-pick-in-march",
+  "question": "Will Trump announce his VP pick in March?"
+}

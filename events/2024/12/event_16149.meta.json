@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "16149",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-30T22:43:17.270906Z",
+  "event_createdAt": "2024-12-30T22:43:17.270906Z",
+  "event_creationDate": "2024-12-31T16:27:45.096155Z",
+  "event_startDate": "2024-12-31T16:27:45.096157Z",
+  "event_endDate": "2025-12-31T12:00:00Z",
+  "event_updatedAt": "2025-07-03T16:27:06.170435Z",
+  "markets_len": 1,
+  "market_ids": [
+    "516908"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10045"
+  ],
+  "series_slug": "solana-etf"
+}

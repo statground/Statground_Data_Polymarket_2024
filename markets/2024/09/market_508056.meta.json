@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:31:43.648629Z",
+  "market_createdAt": "2024-09-24T21:31:43.648629Z",
+  "market_updatedAt": "2024-10-03T03:32:38.255029Z",
+  "market_startDate": "2024-09-24T23:42:31.781Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:05:37+00",
+  "conditionId": "0x4e1288eb71ef7ebd3f349b36d40be3a209f87bd830eb395bfd11e689ded0e86b",
+  "slug": "will-tim-walz-say-haitian-during-the-debate",
+  "question": "Will Tim Walz say \"Haitian\" during the debate?"
+}

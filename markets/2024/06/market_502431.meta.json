@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T00:18:15.486040Z",
+  "market_createdAt": "2024-06-14T00:18:15.48604Z",
+  "market_updatedAt": "2024-06-23T02:46:07.548825Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 06:14:12+00",
+  "conditionId": "0x0d23ea56e4e330d35d0cd5b4c6ca470894f43f1427556d62fab20f255c80bfed",
+  "slug": "will-ryan-garcia-launch-a-memecoin-by-next-friday",
+  "question": "Will Ryan Garcia launch a memecoin by next Friday?"
+}

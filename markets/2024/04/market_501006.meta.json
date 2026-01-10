@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T16:11:35.568124Z",
+  "market_createdAt": "2024-04-16T16:11:35.568124Z",
+  "market_updatedAt": "2024-05-07T23:10:07.855758Z",
+  "market_startDate": "2024-04-16T16:51:13.717Z",
+  "market_endDate": "2024-06-17T12:00:00Z",
+  "market_closedTime": "2024-05-01 05:53:21+00",
+  "conditionId": "0x548ff0b27738a0687855c0e497226f02234872d8f39d0d7251b802675f5913f2",
+  "slug": "new-york-islanders-win-the-2024-stanley-cup",
+  "question": "New York Islanders win the 2024 Stanley Cup"
+}

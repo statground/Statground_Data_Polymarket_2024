@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T17:44:47.532010Z",
+  "market_createdAt": "2024-05-21T17:44:47.53201Z",
+  "market_updatedAt": "2024-06-02T06:26:08.589837Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:40:31+00",
+  "conditionId": "0x7dc0d9bd48ddcccf2290d8eed1fc137918fbd56a9d05610840f010fe8635a975",
+  "slug": "will-trump-sue-the-apprentice-in-may",
+  "question": "Will Trump sue 'The Apprentice' in May?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:12:46.528889Z",
+  "market_createdAt": "2024-10-09T17:12:46.528889Z",
+  "market_updatedAt": "2025-04-14T04:01:44.788227Z",
+  "market_startDate": "2024-10-10T20:14:43.177984Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 03:58:56+00",
+  "conditionId": "0x940f6bb80e500c24551ae5f185f37142c6cebea53b10278a134ce614038d4457",
+  "slug": "will-lebron-james-lead-the-nba-in-scoring",
+  "question": "Will LeBron James lead the NBA in scoring?"
+}

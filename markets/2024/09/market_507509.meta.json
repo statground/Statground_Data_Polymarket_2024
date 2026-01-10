@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:31:35.797233Z",
+  "market_createdAt": "2024-09-19T20:31:35.797233Z",
+  "market_updatedAt": "2024-12-16T05:45:30.876828Z",
+  "market_startDate": "2024-09-19T21:23:19.051434Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:41:57+00",
+  "conditionId": "0xaded7f4a628f9cde2864c0028e581dedf488ff707ad3848b06ddcf13d58cf819",
+  "slug": "will-jalen-milroe-win-the-heisman-trophy",
+  "question": "Will Jalen Milroe win the Heisman Trophy?"
+}

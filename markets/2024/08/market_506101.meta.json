@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:51:50.540506Z",
+  "market_createdAt": "2024-08-29T19:51:50.540506Z",
+  "market_updatedAt": "2024-09-12T06:33:01.788319Z",
+  "market_startDate": "2024-09-09T14:58:40.147Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 06:38:21+00",
+  "conditionId": "0x348cd8ab4075f61d3742f549a0350525b817db398825544053cb4050789cff50",
+  "slug": "will-trump-say-a-slur-during-the-debate",
+  "question": "Will Trump say a slur during the debate?"
+}

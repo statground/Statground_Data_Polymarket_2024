@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:04:32.480434Z",
+  "market_createdAt": "2024-12-29T07:04:32.480434Z",
+  "market_updatedAt": "2025-01-02T03:59:17.086039Z",
+  "market_startDate": "2024-12-29T07:07:06.416626Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 07:17:12+00",
+  "conditionId": "0xba7f767e08e0d552a8f8f1eec1f1a48a7c67631f2476b075bb3b273568514976",
+  "slug": "nhl-car-cbj-2024-12-31",
+  "question": "Hurricanes vs. Blue Jackets"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:47:20.877408Z",
+  "market_createdAt": "2024-08-21T14:47:20.877408Z",
+  "market_updatedAt": "2024-08-23T03:37:04.442339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:31:18+00",
+  "conditionId": "0x650916c7099c62931694be196bcab2ba726519491b16385de4fab858538755d7",
+  "slug": "will-pelosi-say-thank-you-5-or-more-times-at-dnc-speech",
+  "question": "Will Pelosi say \"Thank you\" 5 or more times at DNC speech?"
+}

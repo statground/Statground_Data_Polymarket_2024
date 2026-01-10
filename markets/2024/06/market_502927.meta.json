@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T16:32:40.656747Z",
+  "market_createdAt": "2024-06-26T16:32:40.656747Z",
+  "market_updatedAt": "2024-07-01T14:20:55.091364Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-30 16:31:46+00",
+  "conditionId": "0x474bb5cc03846f451b66ae7504ef6145edfcd420bc957f77899209a1a7a9f3db",
+  "slug": "verstappen-wins-austrian-grand-prix",
+  "question": "Verstappen wins Austrian Grand Prix?"
+}

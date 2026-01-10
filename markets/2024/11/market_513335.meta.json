@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:41:52.166070Z",
+  "market_createdAt": "2024-11-18T15:41:52.16607Z",
+  "market_updatedAt": "2024-11-19T23:33:10.02409Z",
+  "market_startDate": "2024-11-18T16:30:57.536752Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 01:00:46+00",
+  "conditionId": "0x3464d6132efe217b0a716c4f87b957a36adba66d7a0c37a2a56d3e623e79116c",
+  "slug": "will-croatia-beat-portugal",
+  "question": "Will Croatia beat Portugal?"
+}

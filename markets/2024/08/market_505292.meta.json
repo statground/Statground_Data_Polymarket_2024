@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:15:16.625078Z",
+  "market_createdAt": "2024-08-19T15:15:16.625078Z",
+  "market_updatedAt": "2024-08-21T04:01:02.679965Z",
+  "market_startDate": "2024-08-19T15:51:01.661Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 05:56:48+00",
+  "conditionId": "0x562b5b0f883a7cec34298122521875d5ce983f85399ad43ddbd98d95eab16487",
+  "slug": "will-biden-say-convicted-felon-at-dnc-speech",
+  "question": "Will Biden say \"Convicted felon\" at DNC speech?"
+}

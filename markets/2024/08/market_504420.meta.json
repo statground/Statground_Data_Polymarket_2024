@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T16:25:01.134222Z",
+  "market_createdAt": "2024-08-01T16:25:01.134222Z",
+  "market_updatedAt": "2024-09-11T17:11:12.084636Z",
+  "market_startDate": "2024-08-01T16:25:01.134222Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-10 17:05:57+00",
+  "conditionId": "0x1731c2d00c722fa4d53d1bddae549f14cf1870e2cf59dc040e7791046672cda5",
+  "slug": "2024-august-hottest-on-record",
+  "question": "2024 August hottest on record?"
+}

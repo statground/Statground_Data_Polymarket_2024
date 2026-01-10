@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T18:06:54.532281Z",
+  "market_createdAt": "2024-07-17T18:06:54.532281Z",
+  "market_updatedAt": "2024-08-10T21:16:58.906843Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 21:57:31+00",
+  "conditionId": "0x32e9aafc8f722cefe064ede579c2affe972ae28dbec4752b29206fd9bced0045",
+  "slug": "will-france-win-gold-in-mens-football-soccer",
+  "question": "Will France win Gold in Men's Football (Soccer)?"
+}

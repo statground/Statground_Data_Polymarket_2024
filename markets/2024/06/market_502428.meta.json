@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T20:33:08.202100Z",
+  "market_createdAt": "2024-06-13T20:33:08.2021Z",
+  "market_updatedAt": "2024-06-27T02:41:09.16034Z",
+  "market_startDate": "2024-06-13T20:50:44.665Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 08:26:05+00",
+  "conditionId": "0x250a3174c71d97573303d2bbcb21a673b07b329f27f2284a0715c15eb1037525",
+  "slug": "will-another-candidate-win-the-utah-republican-primary",
+  "question": "Will another candidate win the Utah Republican Primary?"
+}

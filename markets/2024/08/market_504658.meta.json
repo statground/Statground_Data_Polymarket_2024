@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T16:28:11.750186Z",
+  "market_createdAt": "2024-08-07T16:28:11.750186Z",
+  "market_updatedAt": "2024-08-09T19:41:02.658529Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-08 22:39:40+00",
+  "conditionId": "0xbd5ae0bef1ab81e2b9e19b64e2c9b90b8611f18b05299999dd482168fab16896",
+  "slug": "will-another-athlete-win-gold-in-womens-400m-hurdles",
+  "question": " Will another athlete win Gold in Women’s 400m Hurdles?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:08:07.228380Z",
+  "market_createdAt": "2024-11-11T17:08:07.22838Z",
+  "market_updatedAt": "2024-12-02T06:55:21.878704Z",
+  "market_startDate": "2024-11-11T17:27:45.45Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:01+00",
+  "conditionId": "0x7d72074a017bb2b409b5291e417034b5c6203d420e068b3edbf5ad5ca0cd589a",
+  "slug": "will-bitcoin-reach-105000-in-november",
+  "question": "Will Bitcoin reach $105,000 in November?"
+}

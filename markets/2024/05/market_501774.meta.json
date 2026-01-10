@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:41:08.078219Z",
+  "market_createdAt": "2024-05-22T16:41:08.078219Z",
+  "market_updatedAt": "2024-07-06T11:45:46.610764Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:27:36+00",
+  "conditionId": "0x6619837b206286f5a61d0c4e7a675df4568bab2995a1c15f6da3064806cf2898",
+  "slug": "will-another-person-be-next-uk-prime-minister",
+  "question": "Will another person be next UK prime minister?"
+}

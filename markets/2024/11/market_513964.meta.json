@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T17:13:48.952960Z",
+  "market_createdAt": "2024-11-25T17:13:48.95296Z",
+  "market_updatedAt": "2024-11-28T06:43:32.358284Z",
+  "market_startDate": "2024-11-25T18:29:52.405811Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 07:07:26+00",
+  "conditionId": "0x5df57d98980d77e81a01af63b1db220bd67338db580aba1c50e28de81e4b16a0",
+  "slug": "will-bitcoin-hit-100k-by-tuesday",
+  "question": "Will Bitcoin hit $100k by Tuesday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:21:21.489613Z",
+  "market_createdAt": "2024-10-18T21:21:21.489613Z",
+  "market_updatedAt": "2024-10-21T16:52:36.65465Z",
+  "market_startDate": "2024-10-18T23:25:39.942241Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:10:38+00",
+  "conditionId": "0xc21c8f2b6196c33b5973033ad6c97f8c5ab7c338c86273c8362d624786ece802",
+  "slug": "will-the-giants-and-eagles-combine-for-43-or-more-points",
+  "question": "Will the Giants and Eagles combine for 43 or more points?"
+}

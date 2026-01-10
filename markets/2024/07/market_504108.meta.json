@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:23:34.645404Z",
+  "market_createdAt": "2024-07-25T16:23:34.645404Z",
+  "market_updatedAt": "2024-07-29T08:49:02.75072Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-28 08:55:56+00",
+  "conditionId": "0x69e439c06b8ce7575d2dcb209a79a362981ec2c949cee41123e5c248807b9ed1",
+  "slug": "will-a-presidential-candidate-say-mog-at-btc-conference",
+  "question": "Will a presidential candidate say Mog at BTC conference?"
+}

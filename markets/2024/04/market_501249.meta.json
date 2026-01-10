@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:32:54.977708Z",
+  "market_createdAt": "2024-04-29T19:32:54.977708Z",
+  "market_updatedAt": "2024-05-07T23:09:32.395992Z",
+  "market_startDate": "2024-04-29T19:59:19.66Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 00:04:43+00",
+  "conditionId": "0xfba216024968afef3d3e8fd29b3696a615967367a21d040a2032f400d607d9dc",
+  "slug": "will-real-madrid-win",
+  "question": "Will Real Madrid win?"
+}

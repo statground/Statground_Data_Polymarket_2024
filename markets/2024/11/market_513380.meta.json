@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:35:58.158246Z",
+  "market_createdAt": "2024-11-18T19:35:58.158246Z",
+  "market_updatedAt": "2024-12-04T22:31:34.482954Z",
+  "market_startDate": "2024-11-18T20:54:29.232Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-03 22:47:22+00",
+  "conditionId": "0x4a5f144c590056c3d042a1030d0d87ae499b60f5546ed361147e91882d005566",
+  "slug": "will-neiro-be-listed-first-on-coinbase",
+  "question": "Will $NEIRO be listed first on Coinbase?"
+}

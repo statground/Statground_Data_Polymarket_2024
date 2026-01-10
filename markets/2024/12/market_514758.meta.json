@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:09:44.366817Z",
+  "market_createdAt": "2024-12-04T21:09:44.366817Z",
+  "market_updatedAt": "2024-12-06T07:29:12.473832Z",
+  "market_startDate": "2024-12-04T21:12:57.072463Z",
+  "market_endDate": "2024-12-12T03:00:00Z",
+  "market_closedTime": "2024-12-05 07:48:26+00",
+  "conditionId": "0x43e1df49802c9b86a25c886ffee36646141ac3861d98fa99f7a1240d40a748d2",
+  "slug": "nhl-dal-lak-2024-12-04",
+  "question": "Stars vs. Kings"
+}

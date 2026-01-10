@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:57:11.803352Z",
+  "market_createdAt": "2024-10-03T21:57:11.803352Z",
+  "market_updatedAt": "2025-04-20T08:20:23.798926Z",
+  "market_startDate": "2024-10-04T15:17:24.227246Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-19 05:46:03+00",
+  "conditionId": "0x307f1107750a342fce55b4ea3ef41b972321bd0ab8fbd77bbd47871f8ecf6692",
+  "slug": "will-the-atlanta-hawks-win-the-eastern-conference",
+  "question": "Will the Atlanta Hawks win the Eastern Conference?"
+}

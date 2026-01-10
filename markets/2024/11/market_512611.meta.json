@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:23:57.574381Z",
+  "market_createdAt": "2024-11-08T23:23:57.574381Z",
+  "market_updatedAt": "2024-11-11T03:52:44.364331Z",
+  "market_startDate": "2024-11-09T02:58:23.886896Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 02:20:36+00",
+  "conditionId": "0x6a11b592849f727e2cda639077649c70007590c87a5897453751d1ee1ea16fe8",
+  "slug": "will-the-chargers-beat-the-titans-by-8-or-more-points",
+  "question": "Will the Chargers beat the Titans by 8 or more points?"
+}

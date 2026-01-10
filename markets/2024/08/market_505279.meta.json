@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T13:35:54.505825Z",
+  "market_createdAt": "2024-08-19T13:35:54.505825Z",
+  "market_updatedAt": "2024-08-24T03:16:57.557499Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 06:40:06+00",
+  "conditionId": "0xcff6418c99c0653f18b9abf912518484db25b7a591bb0714faf4ce47eb188ae5",
+  "slug": "kamala-harris-dnc-speech-90-minutes-or-more",
+  "question": "Kamala Harris DNC speech 90 minutes or more?"
+}

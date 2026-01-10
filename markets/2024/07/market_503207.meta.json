@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T23:09:25.928438Z",
+  "market_createdAt": "2024-07-03T23:09:25.928438Z",
+  "market_updatedAt": "2024-07-05T16:55:49.311769Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-04 20:40:02+00",
+  "conditionId": "0x423c6e94b687f255e283f8be5a850b0ed1cf28ccc0fb0fddcd162b2a88bf1e20",
+  "slug": "will-james-webb-eat-the-most-hot-dogs",
+  "question": "Will James Webb eat the most hot dogs?"
+}

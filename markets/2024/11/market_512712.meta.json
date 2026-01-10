@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:10:06.824777Z",
+  "market_createdAt": "2024-11-11T18:10:06.824777Z",
+  "market_updatedAt": "2024-11-18T01:09:10.328469Z",
+  "market_startDate": "2024-11-11T18:12:39.735882Z",
+  "market_endDate": "2024-11-23T20:00:00Z",
+  "market_closedTime": "2024-11-17 01:07:52+00",
+  "conditionId": "0xfa7f32ad4aa0e25b970f70620f3521ea871a2e81a5674d147ad1a705f40d94a6",
+  "slug": "nba-mil-cha-2024-11-16",
+  "question": "Bucks vs. Hornets"
+}

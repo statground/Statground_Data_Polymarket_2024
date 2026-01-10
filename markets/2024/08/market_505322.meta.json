@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:42:05.241967Z",
+  "market_createdAt": "2024-08-19T16:42:05.241967Z",
+  "market_updatedAt": "2024-08-24T03:27:02.245966Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-23 09:56:25+00",
+  "conditionId": "0xe1335caddb8fc1fdbdce0ea284e1c434e5513abc91d5e23fcb49d0963bc6c7c1",
+  "slug": "biden-skips-kamalas-dnc-speech",
+  "question": "Biden skips Kamala's DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:06:22.024974Z",
+  "market_createdAt": "2024-11-07T18:06:22.024974Z",
+  "market_updatedAt": "2024-11-09T03:12:57.752804Z",
+  "market_startDate": "2024-11-07T18:19:18.429Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-08 04:13:26+00",
+  "conditionId": "0x6ef725c6310573917ed47132ccf3d2a6795bbbb15eb2903ae407cd4cc0084a23",
+  "slug": "will-trump-nominate-susie-wiles-for-chief-of-staff",
+  "question": "Will Trump appoint Susie Wiles for Chief of Staff?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:44:36.562021Z",
+  "market_createdAt": "2024-10-18T16:44:36.562021Z",
+  "market_updatedAt": "2024-10-20T20:00:53.428925Z",
+  "market_startDate": "2024-10-18T23:30:04.55093Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:41:38+00",
+  "conditionId": "0xc2dc9eeb28003feef623a972cb363a2315e1b73bf470d37eae1bb90525a24e18",
+  "slug": "will-there-be-51-or-more-combined-points-scored-Missouri-Auburn",
+  "question": "Will there be 51 or more combined points scored?"
+}

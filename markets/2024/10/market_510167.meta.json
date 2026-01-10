@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:55:49.958628Z",
+  "market_createdAt": "2024-10-18T17:55:49.958628Z",
+  "market_updatedAt": "2024-10-20T22:56:52.487904Z",
+  "market_startDate": "2024-10-18T23:07:45.015107Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:29:07+00",
+  "conditionId": "0x5dd784c5ec884cd82a7ae4186dcd37bdd06f553daee7feead1b49f45e00674b2",
+  "slug": "will-iowa-state-beat-ucf-by-14-or-more-points",
+  "question": "Will Iowa State beat UCF by 14 or more points?"
+}

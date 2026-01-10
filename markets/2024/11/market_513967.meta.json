@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T17:31:09.742429Z",
+  "market_createdAt": "2024-11-25T17:31:09.742429Z",
+  "market_updatedAt": "2024-11-27T04:47:51.82038Z",
+  "market_startDate": "2024-11-25T22:10:08.815601Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-26 06:24:21+00",
+  "conditionId": "0x547b7b1fae60b1484b33b570d78cc1ad104ed50808b9aa5c3545dd55d92b75b3",
+  "slug": "will-the-ravens-beat-the-chargers-by-3-or-more-points-nov-25",
+  "question": "Will the Ravens beat the Chargers by 3 or more points?"
+}

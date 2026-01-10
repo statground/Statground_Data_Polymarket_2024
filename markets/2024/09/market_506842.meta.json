@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:48:59.605888Z",
+  "market_createdAt": "2024-09-11T16:48:59.605888Z",
+  "market_updatedAt": "2024-09-15T05:17:03.001543Z",
+  "market_startDate": "2024-09-12T18:48:15.074594Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 05:16:42+00",
+  "conditionId": "0xbb59914d45a234882b058bed8a09ad7859f4ed3cd3bc678231823dafb69bdcb8",
+  "slug": "will-kansas-st-beat-arizona",
+  "question": "Will Kansas St. beat Arizona?"
+}

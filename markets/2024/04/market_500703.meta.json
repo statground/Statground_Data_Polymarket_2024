@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:10:27.438534Z",
+  "market_createdAt": "2024-04-04T17:10:27.438534Z",
+  "market_updatedAt": "2024-11-06T23:28:52.26384Z",
+  "market_startDate": "2024-04-12T19:28:45.537Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:25:17+00",
+  "conditionId": "0xf6b7915ba50b1b67039083b3f6f681d59205ee60b132d23deea171eca171968b",
+  "slug": "will-a-candidate-from-another-party-win-indiana-us-senate-election",
+  "question": "Will a candidate from another party win Indiana US Senate Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T21:11:08.632791Z",
+  "market_createdAt": "2024-11-08T21:11:08.632791Z",
+  "market_updatedAt": "2024-11-27T13:27:49.704773Z",
+  "market_startDate": "2024-11-08T21:23:39.265426Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-26 16:10:47+00",
+  "conditionId": "0x423e837c18bbdef1b346231b7a2129f6a17e60d05e92c72fc67eb4b63a0d3509",
+  "slug": "will-gallego-win-arizona-senate-election-by-2-3-or-more",
+  "question": "Will Gallego win Arizona Senate election by 2-3%?"
+}

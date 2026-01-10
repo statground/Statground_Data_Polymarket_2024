@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:04:36.709351Z",
+  "market_createdAt": "2024-12-30T22:04:36.709351Z",
+  "market_updatedAt": "2025-01-01T17:47:08.751151Z",
+  "market_startDate": "2024-12-30T23:00:53.005396Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 00:00:07+00",
+  "conditionId": "0x89af68f96c7a2068efa08e8835ad29079322fb13d19ec006d8b2dac17083b2a4",
+  "slug": "will-louisville-and-washington-combine-for-50-or-more-points",
+  "question": "Will Louisville and Washington combine for 50 or more points?"
+}

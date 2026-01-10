@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:12:42.278151Z",
+  "market_createdAt": "2024-12-04T21:12:42.278151Z",
+  "market_updatedAt": "2024-12-08T07:23:37.311852Z",
+  "market_startDate": "2024-12-04T21:16:09.539762Z",
+  "market_endDate": "2024-12-14T03:00:00Z",
+  "market_closedTime": "2024-12-07 07:55:57+00",
+  "conditionId": "0x65ae586878ba120cc857a3c0c48eabeee9d376a33408137a6552bc63f973ed15",
+  "slug": "nhl-cbj-van-2024-12-06",
+  "question": "Blue Jackets vs. Canucks"
+}

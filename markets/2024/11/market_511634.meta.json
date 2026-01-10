@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:13:54.384472Z",
+  "market_createdAt": "2024-11-01T17:13:54.384472Z",
+  "market_updatedAt": "2024-11-03T16:03:06.743572Z",
+  "market_startDate": "2024-11-01T22:49:48.046246Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 20:52:33+00",
+  "conditionId": "0x8511b7dc092e08603bb363e2b5a7bd1c1b71e699ab41b3972abf5dccadc39d6e",
+  "slug": "will-miami-and-duke-combine-for-55-or-more-points",
+  "question": "Will Miami and Duke combine for 55 or more points?"
+}

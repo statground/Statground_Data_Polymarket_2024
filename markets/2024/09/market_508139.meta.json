@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:24:58.028893Z",
+  "market_createdAt": "2024-09-25T18:24:58.028893Z",
+  "market_updatedAt": "2024-10-01T17:56:34.220225Z",
+  "market_startDate": "2024-09-25T21:23:30.761Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 20:45:06+00",
+  "conditionId": "0x5a4f7f1fc06ec975cf60c06af75eea0f5edd411e3b1556c2c272d015aed69f0e",
+  "slug": "will-another-golfer-score-the-most-points-at-the-presidents-cup",
+  "question": "Will another golfer score the most points at the Presidents Cup?"
+}

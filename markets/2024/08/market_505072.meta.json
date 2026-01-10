@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:14:02.669867Z",
+  "market_createdAt": "2024-08-13T20:14:02.669867Z",
+  "market_updatedAt": "2024-08-18T18:36:59.973951Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 21:39:14+00",
+  "conditionId": "0x10ae20c9bf99f4d17be2bb0c3065969dbb881369688a4243fb97ef563da71505",
+  "slug": "will-west-ham-united-beat-aston-villa",
+  "question": "Will West Ham United beat Aston Villa?"
+}

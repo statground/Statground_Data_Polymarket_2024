@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:26:17.912612Z",
+  "market_createdAt": "2024-11-07T21:26:17.912612Z",
+  "market_updatedAt": "2024-11-10T07:06:57.927493Z",
+  "market_startDate": "2024-11-07T22:59:40.577338Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-09 09:16:47+00",
+  "conditionId": "0x5ee10bc30266aef2e5e7db2e52ed5c9944c121291d5f6d310869be760b2696c2",
+  "slug": "will-san-diego-state-beat-new-mexico",
+  "question": "Will San Diego State beat New Mexico?"
+}

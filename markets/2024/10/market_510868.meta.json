@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T23:30:38.210895Z",
+  "market_createdAt": "2024-10-24T23:30:38.210895Z",
+  "market_updatedAt": "2024-11-02T16:07:13.341757Z",
+  "market_startDate": "2024-10-25T16:36:46.861232Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 19:26:58+00",
+  "conditionId": "0x5831edbb85d2d22c899fe493ffed5893b242f361dc2828b8f1c3427d288e62ef",
+  "slug": "will-trump-tweet-90-or-more-times-oct-25-nov-1",
+  "question": "Will Trump tweet 90 or more times Oct 25 - Nov 1?"
+}

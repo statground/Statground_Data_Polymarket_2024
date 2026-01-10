@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T19:21:58.081330Z",
+  "market_createdAt": "2024-12-05T19:21:58.08133Z",
+  "market_updatedAt": "2024-12-07T07:15:11.2613Z",
+  "market_startDate": "2024-12-05T19:27:18.431549Z",
+  "market_endDate": "2024-12-05T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:15:16+00",
+  "conditionId": "0x57f525c3f33a8b69ffac04f80a63c20dcbd5b436a4f28210b763fca00b283172",
+  "slug": "tsunami-flooding-in-downtown-san-francisco",
+  "question": "Tsunami flooding in downtown San Francisco?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T22:59:01.805760Z",
+  "market_createdAt": "2024-11-12T22:59:01.80576Z",
+  "market_updatedAt": "2024-11-17T06:27:14.953522Z",
+  "market_startDate": "2024-11-14T20:51:14.237334Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 06:28:28+00",
+  "conditionId": "0x1b185e0ce17f82d16b15284d6ecbad11b418ff472fe6b148cc24dd69a9563c6f",
+  "slug": "taylor-vs-serrano",
+  "question": "Taylor vs. Serrano"
+}

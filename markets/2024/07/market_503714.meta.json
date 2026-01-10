@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:45:56.356969Z",
+  "market_createdAt": "2024-07-18T17:45:56.356969Z",
+  "market_updatedAt": "2024-07-30T22:16:59.382209Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:02:08+00",
+  "conditionId": "0x657959f7c918d5957f98c7de45e675f77ef7f71af8ff42073b21039b7b2e1b6f",
+  "slug": "will-ryan-murphy-usa-win-gold-in-mens-100m-backstroke",
+  "question": "Will Ryan Murphy (USA) win Gold in Men's 100m Backstroke?"
+}

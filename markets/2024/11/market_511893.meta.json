@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511893",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:25:58.879566Z",
+  "market_createdAt": "2024-11-04T18:25:58.879566Z",
+  "market_updatedAt": "2024-11-11T04:18:45.782857Z",
+  "market_startDate": "2024-11-04T20:39:28.076052Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 04:34:55+00",
+  "conditionId": "0x2d59e163c743b3d68f8341d929f924df7b7528a1257006a94b58249c2c3fd4f6",
+  "slug": "meerschaert-vs-de-ridder",
+  "question": "Meerschaert vs. de Ridder"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:27:59.216146Z",
+  "market_createdAt": "2024-12-09T17:27:59.216146Z",
+  "market_updatedAt": "2024-12-15T19:45:40.505004Z",
+  "market_startDate": "2024-12-09T17:31:25.333548Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:08:23+00",
+  "conditionId": "0x544c370753544dfbe022bfa0a4576deceddb77111c9e3ac04a01a39e4b2cdd65",
+  "slug": "epl-wol-ips-2024-12-14-draw",
+  "question": "Will Wolves vs. Ipswich end in a draw?"
+}

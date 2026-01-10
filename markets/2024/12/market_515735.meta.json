@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T14:40:13.344486Z",
+  "market_createdAt": "2024-12-16T14:40:13.344486Z",
+  "market_updatedAt": "2025-01-02T07:18:58.968128Z",
+  "market_startDate": "2024-12-16T14:55:33.332Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:02:38+00",
+  "conditionId": "0x07faaf60d74c220019196a1d49b3c0ca4578444a0be2b001de6ee4480a74ebf5",
+  "slug": "mystery-drones-searching-for-nuclear-weapons",
+  "question": "Mystery Drones searching for nuclear weapons?"
+}

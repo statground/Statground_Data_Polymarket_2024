@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T14:49:06.609703Z",
+  "market_createdAt": "2024-07-25T14:49:06.609703Z",
+  "market_updatedAt": "2024-09-19T21:16:46.851176Z",
+  "market_startDate": "2024-08-02T20:44:13.006Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 21:14:22+00",
+  "conditionId": "0xb20072387cd12bc73f3a6fd30fdd5aa1644c8f72f958803d90fc05c51db0ac49",
+  "slug": "no-change-in-fed-interest-rates-after-2024-september-meeting",
+  "question": "No change in Fed interest rates after 2024 September meeting?"
+}

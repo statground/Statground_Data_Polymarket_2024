@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T22:08:58.371250Z",
+  "market_createdAt": "2024-05-31T22:08:58.37125Z",
+  "market_updatedAt": "2024-06-26T20:56:15.1587Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:15:17+00",
+  "conditionId": "0xc175acf4f1ef863f3965be66a761100d19febb5f1fcd43c565f3ae71e6e994c6",
+  "slug": "will-serbia-win-the-2024-euros",
+  "question": "Will Serbia win the 2024 Euros?"
+}

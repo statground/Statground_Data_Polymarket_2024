@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T18:18:49.571971Z",
+  "market_createdAt": "2024-07-17T18:18:49.571971Z",
+  "market_updatedAt": "2024-08-04T00:22:56.809545Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-03 00:24:10+00",
+  "conditionId": "0x10858ad2c19d927b935778aad415a9154f4b4c7f0d73d7562b6af43595257034",
+  "slug": "will-argentina-win-gold-in-mens-football-soccer",
+  "question": "Will Argentina win Gold in Men's Football (Soccer)?"
+}

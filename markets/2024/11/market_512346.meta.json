@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T15:36:19.574528Z",
+  "market_createdAt": "2024-11-08T15:36:19.574528Z",
+  "market_updatedAt": "2024-12-19T01:10:45.396215Z",
+  "market_startDate": "2024-11-08T16:04:50.535527Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:02:48+00",
+  "conditionId": "0x61688b20d65af6b5d476ba6f10679b64b3373a0e2c59fd0959b38758a8e43a99",
+  "slug": "gop-wins-popular-vote-by-2pt25-or-more",
+  "question": "GOP wins popular vote by 2.25% or more?"
+}

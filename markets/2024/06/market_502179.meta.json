@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T18:29:43.956502Z",
+  "market_createdAt": "2024-06-06T18:29:43.956502Z",
+  "market_updatedAt": "2024-06-08T17:16:14.709477Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 00:37:29+00",
+  "conditionId": "0x5b0b86c1aca32e0fe6ee59a05d7b8d49fbf106b9030065216e6b3789d62d49f0",
+  "slug": "roaring-kitty-says-short-squeeze-in-livestream",
+  "question": "Roaring Kitty says \"short squeeze\" in livestream?"
+}

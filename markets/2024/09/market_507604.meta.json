@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:59:23.730304Z",
+  "market_createdAt": "2024-09-20T16:59:23.730304Z",
+  "market_updatedAt": "2024-09-23T16:36:41.570102Z",
+  "market_startDate": "2024-09-20T19:00:29.582728Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:38:22+00",
+  "conditionId": "0x95c975db5c6978912eb955e25dcb58823a7744f25667a452425565dd3fe2c8ca",
+  "slug": "will-there-be-44-or-more-combined-points-scored-ind-chi",
+  "question": "Will there be 44 or more combined points scored?"
+}

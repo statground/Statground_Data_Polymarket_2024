@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T17:46:34.393061Z",
+  "market_createdAt": "2024-12-12T17:46:34.393061Z",
+  "market_updatedAt": "2024-12-22T05:31:19.310069Z",
+  "market_startDate": "2024-12-12T19:25:36.383657Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:12:25+00",
+  "conditionId": "0x454b493622d78ed6034e877844e5e09d3fc4987580eaff6580ecd0c5fe2e50f8",
+  "slug": "russian-ruble-110-to-1-usd-by-december-20",
+  "question": "Russian Ruble ₽110 to $1 USD by December 20?"
+}

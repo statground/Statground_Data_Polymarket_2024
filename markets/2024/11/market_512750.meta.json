@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:43:21.089633Z",
+  "market_createdAt": "2024-11-11T20:43:21.089633Z",
+  "market_updatedAt": "2024-11-18T21:39:13.34486Z",
+  "market_startDate": "2024-11-12T00:26:24.075983Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 21:53:05+00",
+  "conditionId": "0x84cc453856ec7cd3029e2651e6a9e5ed4c3e8ace0ada815911706885a2d65a7e",
+  "slug": "will-jannik-sinner-win-the-2024-nitto-atp-finals",
+  "question": "Will Jannik Sinner win the 2024 Nitto ATP Finals?"
+}

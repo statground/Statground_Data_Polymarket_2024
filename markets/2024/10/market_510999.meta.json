@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:41:37.749588Z",
+  "market_createdAt": "2024-10-25T20:41:37.749588Z",
+  "market_updatedAt": "2024-10-28T20:17:02.042024Z",
+  "market_startDate": "2024-10-25T21:49:57.399128Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:30:40+00",
+  "conditionId": "0xf498ca8bab6da8491f773422908d340a950c7ae3ca7d60638732f08e0d4659c2",
+  "slug": "will-the-packers-beat-the-jaguars-by-4-or-more-points",
+  "question": "Will the Packers beat the Jaguars by 4 or more points?"
+}

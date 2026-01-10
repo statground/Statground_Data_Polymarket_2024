@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:55:30.453742Z",
+  "market_createdAt": "2024-11-18T20:55:30.453742Z",
+  "market_updatedAt": "2025-01-02T01:29:05.834349Z",
+  "market_startDate": "2024-11-18T21:34:16.000299Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:03:50+00",
+  "conditionId": "0x371e5a57eb2a39b0eca983633dc6d9c4422a61814fa8e61aeca1fec7ebff7429",
+  "slug": "will-popcat-be-listed-first-on-binance",
+  "question": "Will $POPCAT be listed first on Binance?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:15:22.817610Z",
+  "market_createdAt": "2024-11-05T17:15:22.81761Z",
+  "market_updatedAt": "2024-11-16T17:13:17.580083Z",
+  "market_startDate": "2024-11-05T18:13:47.769462Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 17:13:13+00",
+  "conditionId": "0x6f086bb666432b5f967ff58343c46d683ed7db8339d9a7f6c7c254d978a99506",
+  "slug": "will-trump-say-maga-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"MAGA\" in his speech after the election is called?"
+}

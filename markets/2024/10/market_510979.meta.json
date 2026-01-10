@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:10:19.104781Z",
+  "market_createdAt": "2024-10-25T19:10:19.104781Z",
+  "market_updatedAt": "2024-10-28T03:42:45.061014Z",
+  "market_startDate": "2024-10-25T22:30:30.747299Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 06:14:06+00",
+  "conditionId": "0xd4efa1d791f5f08c099525cd8fabe081e3f548de644d713ed918f1bbbb10d00a",
+  "slug": "will-texas-am-beat-lsu-by-3-or-more-points",
+  "question": "Will Texas A&M beat LSU by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:11:19.363966Z",
+  "market_createdAt": "2024-10-03T21:11:19.363966Z",
+  "market_updatedAt": "2024-10-10T02:06:48.691536Z",
+  "market_startDate": "2024-10-03T22:38:46.514Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:56:05+00",
+  "conditionId": "0x1357a67d44db323fc057cb2cb3a3a36656ca791f764b6a7d3f5b2721fd309430",
+  "slug": "will-the-hbo-documentary-identify-vili-lehdonvirta-as-satoshi",
+  "question": "Will the HBO documentary identify Vili Lehdonvirta as Satoshi?"
+}

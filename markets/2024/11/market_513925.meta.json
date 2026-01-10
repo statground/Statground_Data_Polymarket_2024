@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:58:32.527289Z",
+  "market_createdAt": "2024-11-24T18:58:32.527289Z",
+  "market_updatedAt": "2024-12-01T07:41:41.528482Z",
+  "market_startDate": "2024-11-24T19:01:02.363558Z",
+  "market_endDate": "2024-12-07T03:00:00Z",
+  "market_closedTime": "2024-11-30 07:36:00+00",
+  "conditionId": "0xcfb3c3a10e9ca1efed6050dc2a866851101f8f64a9795c7eee012228b2114e13",
+  "slug": "nba-sac-por-2024-11-29",
+  "question": "Kings vs. Trail Blazers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:13:54.637215Z",
+  "market_createdAt": "2024-11-26T08:13:54.637215Z",
+  "market_updatedAt": "2024-11-29T22:27:31.386297Z",
+  "market_startDate": "2024-11-26T22:49:35.752677Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 22:56:54+00",
+  "conditionId": "0x5894943d1c21faf0a073e2e56967b29e4c6b143aa11db184a6023ac4ce10ebeb",
+  "slug": "will-the-match-between-fk-qarabag-and-lyon-end-in-a-draw",
+  "question": "Will the match between FK Qarabag and Lyon end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:13:40.822876Z",
+  "market_createdAt": "2024-12-04T21:13:40.822876Z",
+  "market_updatedAt": "2024-12-08T22:37:31.014135Z",
+  "market_startDate": "2024-12-04T21:17:08.306586Z",
+  "market_endDate": "2024-12-14T18:00:00Z",
+  "market_closedTime": "2024-12-07 22:58:11+00",
+  "conditionId": "0x802a1db8258416b729b34cf3d4eb701c5ffdec81fd382ef2ade9d136e00d3413",
+  "slug": "nhl-phi-bos-2024-12-07",
+  "question": "Flyers vs. Bruins"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:14:26.442574Z",
+  "market_createdAt": "2024-10-07T22:14:26.442574Z",
+  "market_updatedAt": "2024-10-09T19:10:52.856953Z",
+  "market_startDate": "2024-10-07T22:51:49.164487Z",
+  "market_endDate": "2024-10-08T12:00:00Z",
+  "market_closedTime": "2024-10-08 20:17:16+00",
+  "conditionId": "0x38816a9ce288343399e593c323d8124598b546857d85cfc43aab82b52d006245",
+  "slug": "will-vance-say-fired-during-detroit-rally-on-october-8",
+  "question": "Will Vance say \"fire\" or \"fired\" during Detroit rally on October 8?"
+}

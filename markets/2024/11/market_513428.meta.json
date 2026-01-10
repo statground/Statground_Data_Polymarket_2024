@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:18:16.298785Z",
+  "market_createdAt": "2024-11-18T23:18:16.298785Z",
+  "market_updatedAt": "2024-11-24T16:27:25.911342Z",
+  "market_startDate": "2024-11-19T20:50:12.475602Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 16:25:13+00",
+  "conditionId": "0x5d8d1c89f2810b7f965e9d6ce24cb91ffcf05185ccae20c63429c1e9d1cf6d05",
+  "slug": "yan-vs-figueiredo",
+  "question": "Yan vs. Figueiredo"
+}

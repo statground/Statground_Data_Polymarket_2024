@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T16:08:43.759825Z",
+  "market_createdAt": "2024-09-09T16:08:43.759825Z",
+  "market_updatedAt": "2024-10-22T19:11:22.368775Z",
+  "market_startDate": "2024-09-10T17:07:38.348904Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2024-10-21 19:26:07+00",
+  "conditionId": "0x39ee169bbda6909960fc99494e518bc02d7761025b26cc35766eb4ae2b1ff90d",
+  "slug": "september-temperature-increase-by-between-1pt17-1pt22c",
+  "question": "September temperature increase by between 1.17-1.22°C?"
+}

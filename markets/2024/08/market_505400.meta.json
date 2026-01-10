@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:15:24.145308Z",
+  "market_createdAt": "2024-08-20T00:15:24.145308Z",
+  "market_updatedAt": "2024-08-23T05:31:08.271645Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:27:06+00",
+  "conditionId": "0x3ad54d900ed4b58b6c9b48351ab9ce58ec188be2de197885970380450fd70ce8",
+  "slug": "will-walz-say-army-at-dnc-speech",
+  "question": "Will Walz say \"Army\" at DNC speech?"
+}

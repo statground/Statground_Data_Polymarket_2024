@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T16:33:14.069000Z",
+  "market_createdAt": "2024-03-06T16:33:14.069Z",
+  "market_updatedAt": "2024-05-07T23:09:59.971573Z",
+  "market_startDate": "2024-03-06T16:45:55.526Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:42:29+00",
+  "conditionId": "0x83599db21168b35671336e54a32be6a8a80f7b27420995c940da45bfa53235cb",
+  "slug": "musk-drops-openai-case-in-march",
+  "question": "Musk drops OpenAI case in March?"
+}

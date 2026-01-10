@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-10T21:50:13.265049Z",
+  "market_createdAt": "2024-08-10T21:50:13.265049Z",
+  "market_updatedAt": "2024-09-02T09:47:03.121613Z",
+  "market_startDate": "2024-08-10T21:50:13.265049Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 12:27:25+00",
+  "conditionId": "0x0dc20dec14f65344dd405005777cf8c3d5fa4a5d0c9fafa3874fee1dd6acd4e2",
+  "slug": "will-ukraine-take-the-kursk-nuclear-plant-by-aug-31",
+  "question": "Will Ukraine take the Kursk Nuclear Plant by Aug 31?"
+}

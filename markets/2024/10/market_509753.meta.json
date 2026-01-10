@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:55:25.719749Z",
+  "market_createdAt": "2024-10-11T22:55:25.719749Z",
+  "market_updatedAt": "2024-10-14T01:12:34.172835Z",
+  "market_startDate": "2024-10-11T23:12:28.591Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:21:05+00",
+  "conditionId": "0x23df23659d360f9ef3150ee27b276b1bb25478b0c3b8b77c548ceb75ea1fa6c6",
+  "slug": "beterbiev-vs-buvol-who-will-win",
+  "question": "Beterbiev vs. Bivol: Who will win?"
+}

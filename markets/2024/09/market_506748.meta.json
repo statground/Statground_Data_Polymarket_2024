@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T20:36:05.762249Z",
+  "market_createdAt": "2024-09-09T20:36:05.762249Z",
+  "market_updatedAt": "2024-09-11T02:47:17.567645Z",
+  "market_startDate": "2024-09-09T21:06:32.008776Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-10 05:14:10+00",
+  "conditionId": "0x306c35effeeebcfd037248b86ca1245bf35e1866a7ac659498eb5416bce2970a",
+  "slug": "will-the-49ers-win-by-5-or-more-points",
+  "question": "Will the 49ers win by 5 or more points?"
+}

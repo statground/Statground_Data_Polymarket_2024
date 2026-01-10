@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T16:47:11.340803Z",
+  "market_createdAt": "2024-10-28T16:47:11.340803Z",
+  "market_updatedAt": "2024-11-26T23:27:52.57182Z",
+  "market_startDate": "2024-10-28T18:01:41.540061Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-25 23:42:07+00",
+  "conditionId": "0x78ecb17957cf4a1c61b19d1e8c71165844e8f9fbb45a364f70af4a5e1b1ea3ac",
+  "slug": "will-wicked-gross-between-105-115m-opening-weekend",
+  "question": "Will 'Wicked' gross between $105-115m opening weekend?"
+}

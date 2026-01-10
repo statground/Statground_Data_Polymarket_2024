@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T21:45:20.047670Z",
+  "market_createdAt": "2024-04-11T21:45:20.04767Z",
+  "market_updatedAt": "2024-06-15T20:46:12.651912Z",
+  "market_startDate": "2024-04-12T16:56:42.08Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 00:57:56+00",
+  "conditionId": "0x3e65bcc5712f6b581dc8a24de10cf8143b567d5739abedd8043f85f3cc1a8392",
+  "slug": "will-cyril-ramaphosa-be-the-next-president-of-south-africa",
+  "question": "Will Cyril Ramaphosa be the next President of South Africa?"
+}

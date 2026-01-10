@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503656",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:13:15.206730Z",
+  "market_createdAt": "2024-07-17T19:13:15.20673Z",
+  "market_updatedAt": "2024-09-02T05:01:09.205549Z",
+  "market_startDate": "2024-07-17T19:13:15.20673Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:04:59+00",
+  "conditionId": "0x59b8ed567c7e887228ce8a4e262317049841346f9c9f0d39bfdcc1108b652033",
+  "slug": "will-biden-announce-resignation-by-august-31",
+  "question": "Biden resigns from presidency by August 31?"
+}

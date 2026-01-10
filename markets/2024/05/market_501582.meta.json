@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T15:44:46.330758Z",
+  "market_createdAt": "2024-05-14T15:44:46.330758Z",
+  "market_updatedAt": "2024-05-21T06:23:58.884665Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 10:14:07+00",
+  "conditionId": "0x2e8586516362be4e6b96da59cc10c50410fa44a21e6054c696a59b93de9cf774",
+  "slug": "will-luis-abinader-win-the-2024-dominican-republic-presidential-election",
+  "question": "Will Luis Abinader win the 2024 Dominican Republic presidential election?"
+}

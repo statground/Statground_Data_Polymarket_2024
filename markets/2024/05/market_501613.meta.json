@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:21:49.941572Z",
+  "market_createdAt": "2024-05-14T23:21:49.941572Z",
+  "market_updatedAt": "2024-06-02T00:56:17.911621Z",
+  "market_startDate": "2024-05-14T23:54:49.743Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:22:15+00",
+  "conditionId": "0x76352a8e9ff981fb205094b1495d39d1b1a74aedb2b6b1d0acd4b78c0a220cba",
+  "slug": "ilya-joins-a-new-company",
+  "question": "Ilya joins a new company?"
+}

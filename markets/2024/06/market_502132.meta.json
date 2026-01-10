@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T17:52:31.187341Z",
+  "market_createdAt": "2024-06-05T17:52:31.187341Z",
+  "market_updatedAt": "2024-06-16T06:11:13.608483Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 04:04:28+00",
+  "conditionId": "0x3910edfc5aa96f0d1ba926980cc9ee6a4719e5cafb1c47a567d1a99ac5497a8a",
+  "slug": "will-m5s-receive-more-than-16-of-votes",
+  "question": "Will M5S receive more than 16% of votes?"
+}

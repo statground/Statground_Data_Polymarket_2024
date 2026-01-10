@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "15635",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-17T22:58:09.167924Z",
+  "event_createdAt": "2024-12-17T22:58:09.167924Z",
+  "event_creationDate": "2024-12-17T23:11:26.400181Z",
+  "event_startDate": "2024-12-17T23:11:26.400184Z",
+  "event_endDate": "2025-03-31T12:00:00Z",
+  "event_updatedAt": "2025-11-05T19:25:08.181127Z",
+  "markets_len": 1,
+  "market_ids": [
+    "515939"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10529"
+  ],
+  "series_slug": "israel-x-saudi-arabia-relations"
+}

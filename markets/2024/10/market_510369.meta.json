@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:30:00.396882Z",
+  "market_createdAt": "2024-10-21T20:30:00.396882Z",
+  "market_updatedAt": "2024-10-27T04:52:57.797849Z",
+  "market_startDate": "2024-10-21T20:32:37.609845Z",
+  "market_endDate": "2024-10-26T02:00:00Z",
+  "market_closedTime": "2024-10-26 07:10:08+00",
+  "conditionId": "0x61d0c0dd63e76d87d589289fa52546d067276b20de57ac697468f5a60aa5c28b",
+  "slug": "nba-no-por-2024-10-25",
+  "question": "Pelicans vs. Trail Blazers"
+}

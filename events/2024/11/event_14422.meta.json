@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "14422",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-11-14T20:47:45.090080Z",
+  "event_createdAt": "2024-11-14T20:47:45.09008Z",
+  "event_creationDate": "2024-11-14T21:07:08.213708Z",
+  "event_startDate": "2024-11-14T21:07:08.21371Z",
+  "event_endDate": "2024-12-06T12:00:00Z",
+  "event_updatedAt": "2025-02-08T18:50:18.47939Z",
+  "markets_len": 4,
+  "market_ids": [
+    "513038",
+    "513039",
+    "513040",
+    "513041"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10044"
+  ],
+  "series_slug": "unemployment"
+}

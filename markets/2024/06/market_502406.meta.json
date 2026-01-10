@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:33:35.107547Z",
+  "market_createdAt": "2024-06-12T22:33:35.107547Z",
+  "market_updatedAt": "2024-06-17T20:16:16.493991Z",
+  "market_startDate": "2024-06-12T23:41:18.805Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 01:38:45+00",
+  "conditionId": "0x5e3f57f5d4995f35108380a0a05c3bb9ef1bc1510a2436ddf7c527d5d1b598f8",
+  "slug": "will-ludvig-aberg-win-the-us-open",
+  "question": "Will Ludvig Aberg win the U.S. Open? "
+}

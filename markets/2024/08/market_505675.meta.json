@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T19:44:15.548437Z",
+  "market_createdAt": "2024-08-22T19:44:15.548437Z",
+  "market_updatedAt": "2024-08-25T20:32:50.340284Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-24 22:48:59+00",
+  "conditionId": "0x5eae9ff3e787702cadca21abc97c4cd457b1c2777c3fdf8e9946fd2bc6f68e1d",
+  "slug": "will-venezuela-win-the-2024-little-league-world-series",
+  "question": "Will Venezuela win the 2024 Little League World Series?"
+}

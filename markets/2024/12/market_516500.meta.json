@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:28:48.304484Z",
+  "market_createdAt": "2024-12-27T16:28:48.304484Z",
+  "market_updatedAt": "2025-01-04T18:32:45.175139Z",
+  "market_startDate": "2024-12-27T17:19:35.438195Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-03 19:02:38+00",
+  "conditionId": "0x131ec938bb5f143a0d345349ae02624d82207e960ca0a6caa40ccd5b3b5a7a26",
+  "slug": "ripple-above-2pt15-on-january-3",
+  "question": "Ripple above $2.15 on January 3?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:11:47.543583Z",
+  "market_createdAt": "2024-09-24T15:11:47.543583Z",
+  "market_updatedAt": "2024-09-26T19:56:52.184792Z",
+  "market_startDate": "2024-09-24T16:16:22.569269Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 20:21:52+00",
+  "conditionId": "0x51f35b4c6d64e73c5af4b60f2bfe49f1b91b9751b84ef068016f9a792d33a8c4",
+  "slug": "will-donald-trump-say-energy-10-or-more-times-during-his-north-carolina-speech",
+  "question": "Will Donald Trump say \"energy\" 10 or more times during his North Carolina speech?"
+}

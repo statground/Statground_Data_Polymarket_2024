@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511084",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T14:56:46.982674Z",
+  "market_createdAt": "2024-10-28T14:56:46.982674Z",
+  "market_updatedAt": "2024-10-31T02:23:08.189639Z",
+  "market_startDate": "2024-10-28T15:39:30.168297Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 02:19:15+00",
+  "conditionId": "0x934029edca22b5853c7dc9c5ae8b78e0cd612b886129ef539a96a4cc07aef289",
+  "slug": "will-trump-say-elon-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"Elon\" during Pennsylvania rally on Oct 29?"
+}

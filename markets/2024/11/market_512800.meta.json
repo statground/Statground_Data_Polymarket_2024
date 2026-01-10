@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T22:53:43.475549Z",
+  "market_createdAt": "2024-11-11T22:53:43.475549Z",
+  "market_updatedAt": "2024-11-15T13:51:00.784587Z",
+  "market_startDate": "2024-11-11T23:10:43.214Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-14 18:15:51+00",
+  "conditionId": "0x464154fdbd7e25fcef6d7e66f55fd304a45ee9e351fcffd5341e8623ee7fe93c",
+  "slug": "will-lisa-mcclain-be-announced-as-the-next-republican-house-conference-chair",
+  "question": "Will Lisa McClain be announced as the next Republican House Conference Chair?"
+}

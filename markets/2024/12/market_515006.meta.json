@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:35:17.169878Z",
+  "market_createdAt": "2024-12-06T22:35:17.169878Z",
+  "market_updatedAt": "2024-12-09T18:19:13.812441Z",
+  "market_startDate": "2024-12-06T23:27:10.623324Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:06:40+00",
+  "conditionId": "0xe7ffba8875adf62dee4013130011f7833ea50014137afe243d8b60e08964ddb5",
+  "slug": "will-the-eagles-beat-the-panthers-by-13-or-more-points",
+  "question": "Will the Eagles beat the Panthers by 13 or more points?"
+}

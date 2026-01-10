@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T15:32:23.314085Z",
+  "market_createdAt": "2024-04-05T15:32:23.314085Z",
+  "market_updatedAt": "2024-06-27T07:16:27.363393Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 07:17:01+00",
+  "conditionId": "0x3734461e31ddc678d821c3fc79b55bc87f333e22e64b8d6c10f118d83d8a1dbb",
+  "slug": "will-george-latimer-win-the-ny-16-democratic-house-primary",
+  "question": "Will George Latimer win the NY-16 Democratic House Primary?"
+}

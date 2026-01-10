@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:25:26.284800Z",
+  "market_createdAt": "2024-11-05T04:25:26.2848Z",
+  "market_updatedAt": "2024-11-08T00:18:56.660265Z",
+  "market_startDate": "2024-11-05T20:15:01.989859Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:28:54+00",
+  "conditionId": "0x04e7126c4a47acb718ed0da37f0cae9adcaa69e32e4554b51050dfe7991adf22",
+  "slug": "will-inter-milan-beat-arsenal",
+  "question": "Will Inter Milan beat Arsenal?"
+}

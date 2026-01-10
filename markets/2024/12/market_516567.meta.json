@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:39:01.072918Z",
+  "market_createdAt": "2024-12-27T21:39:01.072918Z",
+  "market_updatedAt": "2024-12-30T17:41:42.111422Z",
+  "market_startDate": "2024-12-27T22:15:43.227657Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 21:46:32+00",
+  "conditionId": "0x20a89bd8f6bacefca2e384121308a7d02e78a029d55fe9c61590ed08c2b3c36c",
+  "slug": "will-the-colts-and-giants-combine-for-41-or-more-points",
+  "question": "Will the Colts and Giants combine for 41 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T21:04:11.663136Z",
+  "market_createdAt": "2024-11-08T21:04:11.663136Z",
+  "market_updatedAt": "2024-11-21T02:40:57.066012Z",
+  "market_startDate": "2024-11-14T16:47:13.422Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:54:17+00",
+  "conditionId": "0x686535d647e16c7a2538c525a96cd93e79b1c128962fba48cc14167692ed376d",
+  "slug": "will-trump-nominate-ben-carson-for-education-secretary",
+  "question": "Will Trump nominate Ben Carson for Education Secretary?"
+}

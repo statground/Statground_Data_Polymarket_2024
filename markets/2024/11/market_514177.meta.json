@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:24:59.701083Z",
+  "market_createdAt": "2024-11-26T22:24:59.701083Z",
+  "market_updatedAt": "2024-12-02T21:45:29.364597Z",
+  "market_startDate": "2024-11-27T15:09:38.270552Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 23:57:20+00",
+  "conditionId": "0xe8676bcc7f4343ea06ea5733ae250a46fbfb64a951406f0728c4cee1d33c34a0",
+  "slug": "will-charles-leclerc-win-the-qatar-grand-prix",
+  "question": "Will Charles Leclerc win the Qatar Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:37:38.914000Z",
+  "market_createdAt": "2024-03-01T18:37:38.914Z",
+  "market_updatedAt": "2024-11-07T10:43:09.184688Z",
+  "market_startDate": "2024-03-28T20:33:17.954Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:40:10+00",
+  "conditionId": "0x062a4e008966d1862a08c4ba4b1ed2b5197fee50b12e959cf60a64668e750186",
+  "slug": "will-a-candidate-from-another-party-win-louisiana-presidential-election",
+  "question": "Will a candidate from another party win Louisiana Presidential Election?"
+}

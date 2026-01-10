@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T16:08:50.712219Z",
+  "market_createdAt": "2024-11-14T16:08:50.712219Z",
+  "market_updatedAt": "2024-11-16T01:13:00.400556Z",
+  "market_startDate": "2024-11-14T20:36:32.451828Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 06:24:21+00",
+  "conditionId": "0xa30d89444ba64284c4683adf361dc34225f2dedefb7c37e06944f46ab7825af1",
+  "slug": "will-the-eagles-and-commanders-combine-for-49-or-more-points",
+  "question": "Will the Eagles and Commanders combine for 49 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T16:25:38.659493Z",
+  "market_createdAt": "2024-12-11T16:25:38.659493Z",
+  "market_updatedAt": "2024-12-20T17:37:11.379406Z",
+  "market_startDate": "2024-12-11T16:41:13.283914Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-19 21:17:05+00",
+  "conditionId": "0xffb205b09d71b892464d543c8c62a5b01a1cd31d721056db6806525d399db018",
+  "slug": "luigi-mangione-extradited-to-new-york-in-january",
+  "question": "Luigi Mangione extradited to New York in January?"
+}

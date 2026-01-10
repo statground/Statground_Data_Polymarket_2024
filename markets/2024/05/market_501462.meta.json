@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T18:12:08.726551Z",
+  "market_createdAt": "2024-05-07T18:12:08.726551Z",
+  "market_updatedAt": "2024-05-10T01:34:03.849969Z",
+  "market_startDate": "2024-05-07T18:15:05.541Z",
+  "market_endDate": "2024-05-08T12:00:00Z",
+  "market_closedTime": "2024-05-09 04:32:33+00",
+  "conditionId": "0x900de5a7d483afec4c7dbcba13a593fb30243541bc6efeea65dff4a66144d667",
+  "slug": "nba-nyk-ind-2024-05-08",
+  "question": "Knicks vs. Pacers: Game 2"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T22:09:44.008000Z",
+  "market_createdAt": "2024-01-09T22:09:44.008Z",
+  "market_updatedAt": "2024-01-12T08:45:13.864Z",
+  "market_startDate": "2024-01-09T22:36:20.968Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-11 10:47:28+00",
+  "conditionId": "0x9427fd6894b4118730c1ea05cc8e4b9b7c494109649eb6fdeb5f1eef17ad96b6",
+  "slug": "btc-price-between-47500-50000-1-hour-after-etf-approval",
+  "question": "$BTC price between $47,500-50,000 1 hour after ETF approval?"
+}

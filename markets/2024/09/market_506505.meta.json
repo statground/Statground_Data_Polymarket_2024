@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506505",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:39:56.627462Z",
+  "market_createdAt": "2024-09-06T15:39:56.627462Z",
+  "market_updatedAt": "2024-10-05T15:22:41.93966Z",
+  "market_startDate": "2024-09-06T19:04:21.936Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-04 16:06:20+00",
+  "conditionId": "0x20232268d23a1c28b7356fa38498c68fbb02fdc8959cc8dc6990a66c66439efe",
+  "slug": "us-adds-less-than-100k-jobs-in-september",
+  "question": "US adds less than 100k jobs in September?"
+}

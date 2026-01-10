@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T22:14:26.081169Z",
+  "market_createdAt": "2024-04-08T22:14:26.081169Z",
+  "market_updatedAt": "2024-05-07T23:10:00.557959Z",
+  "market_startDate": "2024-04-08T22:21:58.443Z",
+  "market_endDate": "2024-04-16T12:00:00Z",
+  "market_closedTime": "2024-04-16 23:06:24+00",
+  "conditionId": "0xce6ebe6889158bfd404f992507a319deb704b1d6d824234c2fb8a2e691706b4e",
+  "slug": "who-will-advance-barcelona-or-psg",
+  "question": "Who will advance: Barcelona or PSG?"
+}

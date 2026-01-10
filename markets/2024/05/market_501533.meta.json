@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T19:30:14.806711Z",
+  "market_createdAt": "2024-05-10T19:30:14.806711Z",
+  "market_updatedAt": "2024-06-12T16:26:14.926051Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-11 19:40:46+00",
+  "conditionId": "0x83b1793216ee7bdb19b4650afbd0a44e53ea6e2784aaaa2d24593943c9b57267",
+  "slug": "will-may-2024-show-an-increase-between-1pt10c-1pt16c",
+  "question": "Will May 2024 show an increase between 1.10°C-1.16°C"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T21:43:28.811336Z",
+  "market_createdAt": "2024-09-06T21:43:28.811336Z",
+  "market_updatedAt": "2024-09-23T12:50:41.202902Z",
+  "market_startDate": "2024-09-06T22:45:07.885725Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 01:56:18+00",
+  "conditionId": "0x931ca8b424b6f5244c1cf908195847d9d09d3f00b24ce5c127f8ad702e666dac",
+  "slug": "will-another-team-win-the-2024-womens-chess-olympiad",
+  "question": "Will another team win the 2024 Women's Chess Olympiad?"
+}

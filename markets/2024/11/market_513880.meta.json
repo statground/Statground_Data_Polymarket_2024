@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:17:30.639481Z",
+  "market_createdAt": "2024-11-24T18:17:30.639481Z",
+  "market_updatedAt": "2024-12-02T20:41:23.196416Z",
+  "market_startDate": "2024-11-24T18:20:23.285538Z",
+  "market_endDate": "2024-12-01T16:00:00Z",
+  "market_closedTime": "2024-12-01 21:04:46+00",
+  "conditionId": "0x0168b53efbac5533e6e43d6fb35936258b27fdbcc350f5c22dfe416fd6511892",
+  "slug": "epl-liv-mac-2024-12-01-draw",
+  "question": "Will Liverpool vs. Manchester City end in a draw?"
+}

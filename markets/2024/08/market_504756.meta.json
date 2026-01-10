@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:45:52.466620Z",
+  "market_createdAt": "2024-08-08T18:45:52.46662Z",
+  "market_updatedAt": "2024-12-02T21:05:20.761054Z",
+  "market_startDate": "2024-08-08T19:13:02.664Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-02 00:36:30+00",
+  "conditionId": "0xc90658652195164cdf5865ae90ce34b1c66e5ec7ef06b4468aac862b0b3b9f18",
+  "slug": "will-the-cincinnati-bengals-win-the-afc-north",
+  "question": "Will the Cincinnati Bengals win the AFC North?"
+}

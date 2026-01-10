@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T03:00:08.061555Z",
+  "market_createdAt": "2024-07-08T03:00:08.061555Z",
+  "market_updatedAt": "2024-07-12T03:48:49.746914Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-10T12:00:00Z",
+  "market_closedTime": "2024-07-11 03:58:54+00",
+  "conditionId": "0x30406225af1890822ce03abde1c99b3f433470de727072c0dcda1a1bb855379a",
+  "slug": "copa-america-uruguay-vs-colombia",
+  "question": "Copa America: Uruguay vs. Colombia "
+}

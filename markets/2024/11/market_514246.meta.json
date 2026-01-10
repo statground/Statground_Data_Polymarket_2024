@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T20:05:17.252695Z",
+  "market_createdAt": "2024-11-27T20:05:17.252695Z",
+  "market_updatedAt": "2024-11-30T05:43:15.812796Z",
+  "market_startDate": "2024-11-27T21:05:16.136Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 05:39:12+00",
+  "conditionId": "0x7914b41c59dd0a2b163634cd04497cd66b5cd222edd3e04bb77a99d7cd4f4ce3",
+  "slug": "will-every-team-score-a-td-on-thanksgiving",
+  "question": "Will Every Team score a TD on Thanksgiving?"
+}

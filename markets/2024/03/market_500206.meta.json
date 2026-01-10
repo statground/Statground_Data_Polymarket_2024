@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T19:46:35.530792Z",
+  "market_createdAt": "2024-03-17T19:46:35.530792Z",
+  "market_updatedAt": "2024-05-07T23:09:15.980089Z",
+  "market_startDate": "2024-03-17T19:53:03.499Z",
+  "market_endDate": "2024-04-08T07:00:00Z",
+  "market_closedTime": "2024-04-07 03:23:22+00",
+  "conditionId": "0x0b094a21a04c5b158a59535ce8fdfa313a676505ae264194b67c35f97ef8a8f9",
+  "slug": "team-from-south-wins-march-madness-2024",
+  "question": "Team from South wins March Madness 2024?"
+}

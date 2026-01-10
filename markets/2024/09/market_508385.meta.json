@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T14:58:08.500231Z",
+  "market_createdAt": "2024-09-30T14:58:08.500231Z",
+  "market_updatedAt": "2024-10-02T01:52:48.964921Z",
+  "market_startDate": "2024-09-30T15:32:49.511755Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 05:11:38+00",
+  "conditionId": "0x508bce25adbee7932826f475743007aabf01240c84e038cf64598b2b6884d96b",
+  "slug": "will-dolphins-win-by-3-or-more-points-MIA-TEN",
+  "question": "Dolphins vs. Titans - Will Dolphins win by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:57:41.298068Z",
+  "market_createdAt": "2024-08-28T18:57:41.298068Z",
+  "market_updatedAt": "2024-09-02T18:07:03.131271Z",
+  "market_startDate": "2024-08-28T18:57:41.298068Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:33+00",
+  "conditionId": "0xc54b43c12303b1701e5dfa816a83e7785f4695078e0c8c9ce971d5c1eebb18bc",
+  "slug": "will-oscar-piastri-win-the-italian-grand-prix",
+  "question": "Will Oscar Piastri win the Italian Grand Prix?"
+}

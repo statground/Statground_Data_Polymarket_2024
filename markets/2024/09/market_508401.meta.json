@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T17:36:33.325282Z",
+  "market_createdAt": "2024-09-30T17:36:33.325282Z",
+  "market_updatedAt": "2024-10-02T23:06:41.665466Z",
+  "market_startDate": "2024-09-30T19:22:40.585987Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 23:25:08+00",
+  "conditionId": "0x8140f638f13963b92e619ea8ba38f38eae66504ef8bcf8662ef81590e7caec0c",
+  "slug": "will-trump-say-border-20-or-more-times-in-wisconsin-speech-october-1",
+  "question": "Will Trump say \"Border\" 20 or more times in Wisconsin speech October 1?"
+}

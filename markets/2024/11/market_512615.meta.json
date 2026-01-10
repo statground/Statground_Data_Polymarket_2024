@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:37:02.020546Z",
+  "market_createdAt": "2024-11-08T23:37:02.020546Z",
+  "market_updatedAt": "2024-11-17T06:11:21.568828Z",
+  "market_startDate": "2024-11-09T02:54:59.177Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:08:17+00",
+  "conditionId": "0xcd3667b80dc30a2cd5b720b17d3b376ce0c6599e25f8838a95788c781adb6884",
+  "slug": "iran-strike-on-israel-by-nov-15",
+  "question": "Iran strike on Israel by Friday?"
+}

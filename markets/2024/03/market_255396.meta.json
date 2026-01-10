@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T20:46:18.325000Z",
+  "market_createdAt": "2024-03-08T20:46:18.325Z",
+  "market_updatedAt": "2024-11-17T08:59:16.68135Z",
+  "market_startDate": "2024-03-19T00:38:20.575Z",
+  "market_endDate": "2024-07-20T00:00:00Z",
+  "market_closedTime": "2024-11-16 08:54:22+00",
+  "conditionId": "0x9c23593b309f27a4e05f059032d59c2a37f8bb10d126ac7e22014593a07fa9a6",
+  "slug": "will-jake-paul-win-his-boxing-match-against-mike-tyson",
+  "question": "Will Jake Paul win his boxing match against Mike Tyson?"
+}

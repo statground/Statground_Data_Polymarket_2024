@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:32:34.801715Z",
+  "market_createdAt": "2024-12-09T17:32:34.801715Z",
+  "market_updatedAt": "2024-12-16T22:52:44.032543Z",
+  "market_startDate": "2024-12-09T17:35:58.992813Z",
+  "market_endDate": "2024-12-15T19:00:00Z",
+  "market_closedTime": "2024-12-16 00:13:56+00",
+  "conditionId": "0x1053e5dd962a70f1b36497cd7c6168c9c56c8c0bc0a1a2c3543737986cae3b77",
+  "slug": "epl-che-bre-2024-12-15-draw",
+  "question": "Will Chelsea vs. Brentford end in a draw?"
+}

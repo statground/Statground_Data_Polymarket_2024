@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T17:16:12.269571Z",
+  "market_createdAt": "2024-10-30T17:16:12.269571Z",
+  "market_updatedAt": "2024-12-18T21:37:22.46009Z",
+  "market_startDate": "2024-10-30T18:54:02.243072Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:02:38+00",
+  "conditionId": "0x098178500c68da1af75f631afb3d0a1168437d2091b406ba3c412fc52b29f95c",
+  "slug": "will-cornel-west-get-the-most-votes-of-any-3rd-party-candidate",
+  "question": "Will Cornel West get the most votes of any 3rd party candidate?"
+}

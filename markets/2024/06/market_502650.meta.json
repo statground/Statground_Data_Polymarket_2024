@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:26:58.200286Z",
+  "market_createdAt": "2024-06-19T21:26:58.200286Z",
+  "market_updatedAt": "2024-06-29T04:56:02.498026Z",
+  "market_startDate": "2024-06-20T18:38:15.349Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 05:02:33+00",
+  "conditionId": "0xa242bb4df11ad198a77f77333b5fbb29f70c919896f6a157af0a76e433337d35",
+  "slug": "will-trump-say-felon-during-the-debate",
+  "question": "Will Trump say \"Felon\" during the debate?"
+}

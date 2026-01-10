@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:08:46.812029Z",
+  "market_createdAt": "2024-10-21T22:08:46.812029Z",
+  "market_updatedAt": "2024-10-24T21:03:18.892231Z",
+  "market_startDate": "2024-10-22T00:52:57.06659Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 22:02:32+00",
+  "conditionId": "0xcec18526f1ceb3b3432a6b64a89f4adf629f02fd8b7db7415ef3dd4491a3f1e5",
+  "slug": "will-stade-brestois-beat-bayer-leverkusen",
+  "question": "Will Stade Brestois beat Bayer Leverkusen?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T18:24:41.141666Z",
+  "market_createdAt": "2024-12-20T18:24:41.141666Z",
+  "market_updatedAt": "2025-05-01T08:20:33.032602Z",
+  "market_startDate": "2024-12-20T21:51:14.206Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 07:58:21+00",
+  "conditionId": "0x4cfe8afc969fc85f4aa92ef01e8c82b84f773ea1cdf198d694ef9da1155393eb",
+  "slug": "will-putin-meet-with-trump-by-first-100-days",
+  "question": "Will Putin meet with Trump in first 100 days?"
+}

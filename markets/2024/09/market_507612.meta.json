@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T17:11:05.404940Z",
+  "market_createdAt": "2024-09-20T17:11:05.40494Z",
+  "market_updatedAt": "2024-09-23T20:26:46.771304Z",
+  "market_startDate": "2024-09-20T19:04:32.026779Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 02:02:36+00",
+  "conditionId": "0x95f9bda5bf8e9d45780d118636244ed51b70d388002de51394f2ffc04f94d853",
+  "slug": "will-there-be-52-or-more-combined-points-scored-det-ari",
+  "question": "Will there be 52 or more combined points scored?"
+}

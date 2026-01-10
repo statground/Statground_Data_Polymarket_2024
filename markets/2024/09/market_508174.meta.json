@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T00:43:30.661491Z",
+  "market_createdAt": "2024-09-26T00:43:30.661491Z",
+  "market_updatedAt": "2024-09-29T18:26:40.775522Z",
+  "market_startDate": "2024-09-26T14:33:25.536808Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 21:45:54+00",
+  "conditionId": "0xed4e1fdcd990a79c1f347ebc5e62b48f2d57dcdbcdb5ddfe172844fdca068664",
+  "slug": "will-bayer-leverkusen-beat-bayern-munich",
+  "question": "Will Bayer Leverkusen beat Bayern Munich?"
+}

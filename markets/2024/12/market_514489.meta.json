@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:31:30.100352Z",
+  "market_createdAt": "2024-12-02T20:31:30.100352Z",
+  "market_updatedAt": "2025-01-11T16:03:30.921716Z",
+  "market_startDate": "2024-12-02T23:11:50.729Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 19:47:37+00",
+  "conditionId": "0xeb6ef8774a2f00981c95a0f7b06c451d06d3e3335c043330758c65616899d383",
+  "slug": "will-the-december-2024-temperature-increase-be-greater-than-1pt34c",
+  "question": "Will the December 2024 temperature increase be greater than 1.34°C?"
+}

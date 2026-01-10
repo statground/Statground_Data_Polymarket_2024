@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T23:16:42.922838Z",
+  "market_createdAt": "2024-12-20T23:16:42.922838Z",
+  "market_updatedAt": "2025-07-02T08:24:49.443Z",
+  "market_startDate": "2024-12-20T23:28:04.033339Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 06:54:11+00",
+  "conditionId": "0x4b1470a1d83fe0e9e5e7edfd68ca0517fdd1386e412d2203d27a5c2832ed60c1",
+  "slug": "will-putin-remain-president-of-russia-through-june-2025",
+  "question": "Will Putin remain President of Russia through June?"
+}

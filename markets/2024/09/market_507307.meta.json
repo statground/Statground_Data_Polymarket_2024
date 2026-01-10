@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:30:59.946347Z",
+  "market_createdAt": "2024-09-17T17:30:59.946347Z",
+  "market_updatedAt": "2024-12-11T22:15:12.707068Z",
+  "market_startDate": "2024-09-17T18:27:56.013622Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:26:32+00",
+  "conditionId": "0x5bb508a8d26ee6b1b54acda40f955ee4997953bcc07436b4a3f52f017955237c",
+  "slug": "will-rb-leipzig-win-the-uefa-champions-league",
+  "question": "Will RB Leipzig win the UEFA Champions League?"
+}

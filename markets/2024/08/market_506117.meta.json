@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T20:08:00.011096Z",
+  "market_createdAt": "2024-08-29T20:08:00.011096Z",
+  "market_updatedAt": "2025-01-25T02:35:15.724241Z",
+  "market_startDate": "2024-08-29T20:08:00.011Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:10:20+00",
+  "conditionId": "0x6aa378290693ff8f3aafc036d70c4f3dcf7e6929b0bed3de3d8110848bce921d",
+  "slug": "will-tyreek-hill-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Tyreek Hill win NFL MVP for the 2024-25 season?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T19:22:39.699193Z",
+  "market_createdAt": "2024-05-07T19:22:39.699193Z",
+  "market_updatedAt": "2024-06-12T07:01:15.80176Z",
+  "market_startDate": "2024-05-08T04:56:16.91Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 07:11:56+00",
+  "conditionId": "0x648210abb068d9fea0d402b423d7d3834b9e0e9e7497383b52c4cccf24e926b3",
+  "slug": "will-the-n-va-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will the N-VA win the most seats in the Belgian federal elections?"
+}

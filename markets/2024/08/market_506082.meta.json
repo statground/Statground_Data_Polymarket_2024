@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:22:50.955301Z",
+  "market_createdAt": "2024-08-29T16:22:50.955301Z",
+  "market_updatedAt": "2024-09-02T19:01:11.250401Z",
+  "market_startDate": "2024-08-29T16:22:50.955301Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-02 00:04:04+00",
+  "conditionId": "0x12cbcd50048498f24b17b57b2d7d62f2fbb45278640b89b6dfb3a6faa676f863",
+  "slug": "will-another-golfer-win-the-tour-championship",
+  "question": "Will another golfer win the Tour Championship?"
+}

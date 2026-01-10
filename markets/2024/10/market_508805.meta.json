@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508805",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:59:54.517164Z",
+  "market_createdAt": "2024-10-03T21:59:54.517164Z",
+  "market_updatedAt": "2025-05-03T08:20:29.71489Z",
+  "market_startDate": "2024-10-04T15:20:19.516371Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-05-02 07:11:40+00",
+  "conditionId": "0x8ee22fe88cca072ae19d757cea3c4ace6712d149d633185f85f583bd8fa73ed5",
+  "slug": "will-the-detroit-pistons-win-the-eastern-conference",
+  "question": "Will the Detroit Pistons win the Eastern Conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:26:28.715000Z",
+  "market_createdAt": "2024-03-01T20:26:28.715Z",
+  "market_updatedAt": "2024-03-07T07:10:05.477Z",
+  "market_startDate": "2024-03-01T21:27:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-06 10:04:18+00",
+  "conditionId": "0x2f325dc9451c8d282dbdecd8131c70b0cdd0054d084c285a1002ea596a598e5a",
+  "slug": "will-roland-gutierrez-win-the-texas-democratic-senate-primary",
+  "question": "Will Roland Gutierrez win the Texas Democratic Senate Primary?"
+}

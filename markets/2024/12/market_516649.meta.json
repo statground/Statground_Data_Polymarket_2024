@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:03:35.424208Z",
+  "market_createdAt": "2024-12-29T06:03:35.424208Z",
+  "market_updatedAt": "2025-01-07T01:17:19.654791Z",
+  "market_startDate": "2024-12-29T06:06:05.38Z",
+  "market_endDate": "2025-01-12T12:00:00Z",
+  "market_closedTime": "2025-01-06 02:28:46+00",
+  "conditionId": "0x77b3382851ae13cb9e5326ead7c237460a7be86b663bac0d06c4d543e9952531",
+  "slug": "nfl-kc-den-2025-01-05",
+  "question": "Chiefs vs. Broncos"
+}

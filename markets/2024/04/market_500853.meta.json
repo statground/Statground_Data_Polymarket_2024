@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T22:35:48.796997Z",
+  "market_createdAt": "2024-04-09T22:35:48.796997Z",
+  "market_updatedAt": "2025-01-02T08:13:04.322835Z",
+  "market_startDate": "2024-04-15T15:37:22.034Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:21:52+00",
+  "conditionId": "0x5372a3ff6b0ca44d7fa7eff126faf594517a50a3ce233ddc154442a4097c2411",
+  "slug": "trump-vs-boden-first-to-1b",
+  "question": "Trump vs. Boden: First to 1B"
+}

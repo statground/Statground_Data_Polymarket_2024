@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T16:21:28.795978Z",
+  "market_createdAt": "2024-12-26T16:21:28.795978Z",
+  "market_updatedAt": "2025-01-21T09:15:04.927721Z",
+  "market_startDate": "2024-12-30T18:41:19.421Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-01-20 09:11:45+00",
+  "conditionId": "0x668f2d2a3b84a83b17b9832ffa4e2b1d88d44a35f6922e910ea8201d6a98a65f",
+  "slug": "bitcoin-all-time-high-by-january",
+  "question": "Bitcoin all time high by January 31?"
+}

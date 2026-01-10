@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T16:00:31.501019Z",
+  "market_createdAt": "2024-10-31T16:00:31.501019Z",
+  "market_updatedAt": "2024-11-04T02:47:02.255785Z",
+  "market_startDate": "2024-11-01T14:45:23.258Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 03:50:16+00",
+  "conditionId": "0x1366bd56e5ba73da3becc826474f8b51872bab29966272015772eae212910742",
+  "slug": "will-trump-say-front-row-joe-during-greensboro-nc-rally",
+  "question": "Will Trump say \"Front Row Joe\" during Greensboro, NC rally?"
+}

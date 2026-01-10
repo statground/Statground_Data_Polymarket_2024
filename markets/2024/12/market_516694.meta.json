@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:11:56.475317Z",
+  "market_createdAt": "2024-12-29T07:11:56.475317Z",
+  "market_updatedAt": "2025-01-05T21:37:25.159278Z",
+  "market_startDate": "2024-12-29T07:14:46.750228Z",
+  "market_endDate": "2025-01-11T17:00:00Z",
+  "market_closedTime": "2025-01-04 22:10:14+00",
+  "conditionId": "0xdc6ba017355f99852553a629114e4a07c169eb5aec6ee3629a6b1fcc151821e6",
+  "slug": "nhl-nyr-wsh-2025-01-04",
+  "question": "Rangers vs. Capitals"
+}

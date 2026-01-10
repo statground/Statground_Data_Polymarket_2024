@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:57:44.195897Z",
+  "market_createdAt": "2024-10-14T18:57:44.195897Z",
+  "market_updatedAt": "2024-10-19T05:32:54.517378Z",
+  "market_startDate": "2024-10-14T18:59:51.01Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 05:25:31+00",
+  "conditionId": "0x6b1ee500ba852149a777ff04707299dd25724babd538c6c92e3d90dcb2003824",
+  "slug": "nfl-den-no-2024-10-17",
+  "question": "Broncos vs. Saints"
+}

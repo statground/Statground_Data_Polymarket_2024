@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:33:09.452125Z",
+  "market_createdAt": "2024-06-12T22:33:09.452125Z",
+  "market_updatedAt": "2024-06-17T16:31:15.945021Z",
+  "market_startDate": "2024-06-12T23:41:18.239Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 01:53:51+00",
+  "conditionId": "0xda8e6962b6e24d2a5784c017b43c60f6f7d9c69e83e68fafb2a792398e2247c5",
+  "slug": "will-bryson-dechambeau-win-the-us-open",
+  "question": "Will Bryson DeChambeau win the U.S. Open? "
+}

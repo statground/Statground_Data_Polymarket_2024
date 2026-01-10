@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:21:03.428538Z",
+  "market_createdAt": "2024-10-04T17:21:03.428538Z",
+  "market_updatedAt": "2024-10-06T20:30:39.238193Z",
+  "market_startDate": "2024-10-04T18:53:52.062034Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-06 07:32:16+00",
+  "conditionId": "0xa8336e0428255bbdd46080f518f719b5823b6ef4968c00d1b8632afaf50fb220",
+  "slug": "will-trump-tweet-less-than-5-times-october-4-11",
+  "question": "Will Trump tweet less than 5 times October 4-11?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507073",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T23:04:04.037526Z",
+  "market_createdAt": "2024-09-13T23:04:04.037526Z",
+  "market_updatedAt": "2024-09-16T19:42:48.541807Z",
+  "market_startDate": "2024-09-13T23:28:32.30641Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 21:37:37+00",
+  "conditionId": "0xfe752f1acaa902ed33ee835dbd773c51530e4aba129e1a4e6a99c2531067cbbc",
+  "slug": "who-will-win-the-solheim-cup",
+  "question": "Who will win the Solheim Cup?"
+}

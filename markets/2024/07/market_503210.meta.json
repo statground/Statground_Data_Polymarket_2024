@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T23:14:08.216740Z",
+  "market_createdAt": "2024-07-03T23:14:08.21674Z",
+  "market_updatedAt": "2024-07-05T10:50:49.575771Z",
+  "market_startDate": "2024-07-03T23:32:44.816Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-04 20:40:06+00",
+  "conditionId": "0x9d771e686a52da962e0ba39494cd4dbc80035511b10ce6ba5cdc4b6c7e8806ac",
+  "slug": "will-someone-else-eat-the-most-hot-dogs",
+  "question": "Will someone else eat the most hot dogs?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:24:49.205812Z",
+  "market_createdAt": "2024-03-18T23:24:49.205812Z",
+  "market_updatedAt": "2024-05-07T23:09:42.326534Z",
+  "market_startDate": "2024-03-19T00:00:54.551Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-21 10:45:44+00",
+  "conditionId": "0x3e9d530924e84129f1ace92b38c687a12f2750769b7e92b7a877d17f240b5c0a",
+  "slug": "will-harmesh-kumar-win-ca20-special-election",
+  "question": "Will Harmesh Kumar win CA-20 Special Election?"
+}

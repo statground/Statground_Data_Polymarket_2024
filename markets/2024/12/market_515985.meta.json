@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T18:12:54.986845Z",
+  "market_createdAt": "2024-12-18T18:12:54.986845Z",
+  "market_updatedAt": "2024-12-21T00:52:59.283926Z",
+  "market_startDate": "2024-12-18T18:38:03.996573Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 04:02:49+00",
+  "conditionId": "0x67a5d3f6392e03761c6bbd730a2d37b11516b60c3667051a20822ec7b7df1e75",
+  "slug": "will-between-160-and-169-democratic-congressmen-vote-for-funding-bill",
+  "question": "Will between 160 and 169 Democratic congressmen vote for funding bill?"
+}

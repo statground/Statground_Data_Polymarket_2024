@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510838",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T20:27:03.444248Z",
+  "market_createdAt": "2024-10-24T20:27:03.444248Z",
+  "market_updatedAt": "2024-11-10T06:08:43.493996Z",
+  "market_startDate": "2024-10-24T21:44:10.509983Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-09 09:24:51+00",
+  "conditionId": "0x3493b21b7ffc121cb050116b442f0f6157ed5668bbb6e914a197c4b6325e40d9",
+  "slug": "will-nevada-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will Nevada be the last state to be called by the AP?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T18:05:48.112281Z",
+  "market_createdAt": "2024-09-16T18:05:48.112281Z",
+  "market_updatedAt": "2024-09-18T21:06:48.821594Z",
+  "market_startDate": "2024-09-16T19:05:21.916662Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 00:19:10+00",
+  "conditionId": "0xed15b5fb7a069e8748bdbbcbcffd00a7cbacb95fd65bcb79c2c745aa883dea6c",
+  "slug": "will-vfb-stuttgart-beat-real-madrid",
+  "question": "Will VfB Stuttgart beat Real Madrid?"
+}

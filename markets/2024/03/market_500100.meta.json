@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T15:18:43.716833Z",
+  "market_createdAt": "2024-03-13T15:18:43.716833Z",
+  "market_updatedAt": "2024-05-07T23:09:42.871933Z",
+  "market_startDate": "2024-03-13T18:51:09.45Z",
+  "market_endDate": "2024-11-05T05:00:00Z",
+  "market_closedTime": "2024-03-26 22:43:06+00",
+  "conditionId": "0x2aaef5c7f489a533fda713fbadf105712f8d69f71bc787b2b4a156549b50b183",
+  "slug": "will-robert-f-kennedy-jr-announce-tulsi-gabbard-as-running-mate",
+  "question": "Will Robert F. Kennedy Jr. announce Tulsi Gabbard as running mate?"
+}

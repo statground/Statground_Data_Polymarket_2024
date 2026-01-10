@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:23:57.574095Z",
+  "market_createdAt": "2024-08-23T16:23:57.574095Z",
+  "market_updatedAt": "2024-08-25T03:06:49.887323Z",
+  "market_startDate": "2024-08-23T16:51:11.407Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 03:04:55+00",
+  "conditionId": "0x29828afe5aedfba79a31fffe0add6b1d32fba1566e58ab469b2f35752effb3f7",
+  "slug": "will-trump-say-beach-at-his-arizona-speech",
+  "question": "Will Trump say \"beach\" at his Arizona speech?"
+}

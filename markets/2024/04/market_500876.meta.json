@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:12:05.618374Z",
+  "market_createdAt": "2024-04-10T19:12:05.618374Z",
+  "market_updatedAt": "2024-07-01T22:25:47.5461Z",
+  "market_startDate": "2024-04-10T20:18:33.449Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 07:54:38+00",
+  "conditionId": "0x5e238cc31f29691a4df3f34020177da7d8c744ecfbf834871fc747c6634a74e7",
+  "slug": "backpack-airdrop-by-june-30",
+  "question": "Backpack airdrop by June 30?"
+}

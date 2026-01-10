@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "12229",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-08-26T20:01:58.073317Z",
+  "event_createdAt": "2024-08-26T20:01:58.073317Z",
+  "event_creationDate": "2024-08-27T15:39:12.137968Z",
+  "event_startDate": "2024-08-27T15:39:12.137974Z",
+  "event_endDate": "2024-08-31T12:00:00Z",
+  "event_updatedAt": "2024-10-02T18:17:46.750164Z",
+  "markets_len": 3,
+  "market_ids": [
+    "505829",
+    "505827",
+    "505828"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "36"
+  ],
+  "series_slug": "epl"
+}

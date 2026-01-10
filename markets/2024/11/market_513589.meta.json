@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T21:34:55.969378Z",
+  "market_createdAt": "2024-11-20T21:34:55.969378Z",
+  "market_updatedAt": "2025-02-04T07:44:13.449536Z",
+  "market_startDate": "2024-11-20T22:06:51.421Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 07:48:16+00",
+  "conditionId": "0x1ddf7dee63dd2c67af2f5a1876b98e5959a520b6a494d59603e74a208be4879a",
+  "slug": "will-good-luck-babe-win-record-of-the-year",
+  "question": "Will 'Good Luck, Babe!' win Record of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:13:44.617320Z",
+  "market_createdAt": "2024-11-05T17:13:44.61732Z",
+  "market_updatedAt": "2024-11-16T15:15:12.212758Z",
+  "market_startDate": "2024-11-05T18:08:38.054466Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 15:12:21+00",
+  "conditionId": "0x05558f3d27d1ecfe7cf13b5687722aba4fd353e49e00834331a62087a03173dc",
+  "slug": "will-trump-say-fraud-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"Fraud\" in his speech after the election is called?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T22:09:08.003336Z",
+  "market_createdAt": "2024-10-28T22:09:08.003336Z",
+  "market_updatedAt": "2024-11-04T01:10:58.600463Z",
+  "market_startDate": "2024-10-29T00:26:09.89Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 01:33:01+00",
+  "conditionId": "0xff5f61bd2d5522549b203694503903a1d65b21436e2736077e88d3faff35bfc7",
+  "slug": "will-trump-say-mars-during-virginia-rally-on-nov-2",
+  "question": "Will Trump say \"Mars\" during Virginia rally on Nov 2?"
+}

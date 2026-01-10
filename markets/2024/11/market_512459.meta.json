@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T21:15:14.046061Z",
+  "market_createdAt": "2024-11-08T21:15:14.046061Z",
+  "market_updatedAt": "2024-11-27T07:37:48.796568Z",
+  "market_startDate": "2024-11-08T21:25:51.503Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-26 18:15:35+00",
+  "conditionId": "0x09dc50e3b81889dcb77a98472be329edf347e84ea66071959f3126c87f479093",
+  "slug": "will-kari-lake-win-arizona-senate-election-by-1-2",
+  "question": "Will Kari Lake win Arizona Senate election by 1-2%?"
+}

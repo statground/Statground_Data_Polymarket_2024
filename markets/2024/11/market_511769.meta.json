@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:42:20.088259Z",
+  "market_createdAt": "2024-11-01T23:42:20.088259Z",
+  "market_updatedAt": "2024-11-04T23:53:10.379245Z",
+  "market_startDate": "2024-11-02T00:11:24.087Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:20:11+00",
+  "conditionId": "0x31365b7745553ff549fff2e9d3608c129708c4ae0a3657cc783e8bc1a8f4a23c",
+  "slug": "will-trump-say-rfk-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"RFK\" during North Carolina rally on Nov 3?"
+}

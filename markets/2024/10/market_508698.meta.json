@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T18:57:37.867308Z",
+  "market_createdAt": "2024-10-02T18:57:37.867308Z",
+  "market_updatedAt": "2024-10-06T02:02:44.584131Z",
+  "market_startDate": "2024-10-02T21:21:54.504134Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 02:01:55+00",
+  "conditionId": "0x34c8091ce4634ee46d15cfdcc6a46ee7a5dd72a7f494395bd07d1c22115e2cef",
+  "slug": "will-trump-say-debate-during-north-carolina-town-hall",
+  "question": "Will Trump say \"debate\" during North Carolina town hall?"
+}

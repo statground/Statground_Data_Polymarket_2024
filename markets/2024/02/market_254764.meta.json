@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T22:01:19.016000Z",
+  "market_createdAt": "2024-02-26T22:01:19.016Z",
+  "market_updatedAt": "2024-11-23T07:36:52.99723Z",
+  "market_startDate": "2024-02-27T19:03:00Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-11-22 07:35:41+00",
+  "conditionId": "0xfb294343730da0986a7589f19a2cd9afe1b75332f67a1365d981d18c2962877c",
+  "slug": "no-solana-all-time-high-in-2024",
+  "question": "No Solana all time high in 2024?"
+}

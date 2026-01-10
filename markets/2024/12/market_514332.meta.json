@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:02:00.723885Z",
+  "market_createdAt": "2024-12-01T06:02:00.723885Z",
+  "market_updatedAt": "2024-12-10T06:37:17.452658Z",
+  "market_startDate": "2024-12-01T06:05:36.109435Z",
+  "market_endDate": "2024-12-16T01:20:00Z",
+  "market_closedTime": "2024-12-09 06:35:07+00",
+  "conditionId": "0x84759b103d45357f27592b16e25462167ca1e3aefb80aa29a39cab4429320fd9",
+  "slug": "nfl-lac-kc-2024-12-08",
+  "question": "Chargers vs. Chiefs"
+}

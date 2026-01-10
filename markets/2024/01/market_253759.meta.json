@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T23:32:25.991000Z",
+  "market_createdAt": "2024-01-09T23:32:25.991Z",
+  "market_updatedAt": "2024-04-26T03:11:32.014486Z",
+  "market_startDate": "2024-01-09T23:38:50.927Z",
+  "market_endDate": "2024-01-12T00:00:00Z",
+  "market_closedTime": "2024-01-13 07:01:39+00",
+  "conditionId": "0xb240cd63bae02e0b593cbe69844a64e46549d8af655498ea860ea7c514412113",
+  "slug": "was-secgov-really-hacked",
+  "question": "Was @SECGov really hacked?"
+}

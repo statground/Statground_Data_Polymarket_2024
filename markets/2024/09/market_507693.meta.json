@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T14:48:49.796191Z",
+  "market_createdAt": "2024-09-23T14:48:49.796191Z",
+  "market_updatedAt": "2024-09-25T00:52:44.286891Z",
+  "market_startDate": "2024-09-23T14:57:32.320604Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 04:46:15+00",
+  "conditionId": "0xb8265a7e328766cae4cef6e06060d6166de2678e741198fe3e7be6ecc990d819",
+  "slug": "will-the-bills-beat-the-jaguars-by-6-or-more-points",
+  "question": "Will the Bills beat the Jaguars by 6 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:01:46.087318Z",
+  "market_createdAt": "2024-12-15T07:01:46.087318Z",
+  "market_updatedAt": "2024-12-19T04:49:37.231678Z",
+  "market_startDate": "2024-12-15T07:04:13.626574Z",
+  "market_endDate": "2024-12-25T00:00:00Z",
+  "market_closedTime": "2024-12-18 04:48:20+00",
+  "conditionId": "0x480e85799b0a382044051d15e4453b548abe85d601ec8ac338dc806d8dfb5bd6",
+  "slug": "nhl-lak-pit-2024-12-17",
+  "question": "Kings vs. Penguins"
+}

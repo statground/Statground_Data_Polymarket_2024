@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:51:56.842301Z",
+  "market_createdAt": "2024-08-28T19:51:56.842301Z",
+  "market_updatedAt": "2024-12-24T01:43:45.931588Z",
+  "market_startDate": "2024-08-28T19:51:56.842301Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-23 01:50:07+00",
+  "conditionId": "0xe7904e3d8b0f47371fb5826fd7349f85a9a0cff8de5486998d42482112339de6",
+  "slug": "will-the-cowboys-win-the-nfc-championship",
+  "question": "Will the Cowboys win the NFC Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:03:58.588972Z",
+  "market_createdAt": "2024-11-02T22:03:58.588972Z",
+  "market_updatedAt": "2024-11-05T02:17:11.740092Z",
+  "market_startDate": "2024-11-02T23:24:48.171Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:11:35+00",
+  "conditionId": "0x081b3a273599d24915740f65beda4fe421944b5171f50ac78fd5040a6fc89fc4",
+  "slug": "will-trump-say-saudi-arabia-during-macon-ga-rally",
+  "question": "Will Trump say \"Saudi Arabia\" during Macon, GA rally?"
+}

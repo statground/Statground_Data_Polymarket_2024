@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:17:47.945598Z",
+  "market_createdAt": "2024-09-06T15:17:47.945598Z",
+  "market_updatedAt": "2024-09-08T20:42:58.261863Z",
+  "market_startDate": "2024-09-06T18:14:08.499115Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 21:42:52+00",
+  "conditionId": "0xd3c8453567bbfc67b2153ea7cd2db63f488c5446fbd6027b33975d98268b9b3a",
+  "slug": "will-texas-beat-michigan",
+  "question": "Will Texas beat Michigan?"
+}

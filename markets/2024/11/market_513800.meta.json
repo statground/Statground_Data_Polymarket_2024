@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:07:21.560667Z",
+  "market_createdAt": "2024-11-24T05:07:21.560667Z",
+  "market_updatedAt": "2024-12-01T21:31:36.539858Z",
+  "market_startDate": "2024-11-24T05:09:57.350094Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:46:19+00",
+  "conditionId": "0xbfce71c861f3ae03adafe6527780f251e7aa17670fb090f3e25efd88d1a57eb5",
+  "slug": "cfb-unt-tem-2024-11-30",
+  "question": "North Texas vs. Temple"
+}

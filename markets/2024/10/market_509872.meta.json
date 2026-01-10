@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T02:40:48.336024Z",
+  "market_createdAt": "2024-10-15T02:40:48.336024Z",
+  "market_updatedAt": "2024-11-06T07:53:06.956718Z",
+  "market_startDate": "2024-10-15T14:06:59.218Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:43:03+00",
+  "conditionId": "0x55f8995a52478c39481ebb7b9c9cb78c2ca69871c226e9404f55aa0b59a1e920",
+  "slug": "will-kamala-go-on-joe-rogan-before-election",
+  "question": "Will Kamala go on Joe Rogan before election?"
+}

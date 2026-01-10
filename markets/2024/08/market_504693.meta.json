@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:05:57.957791Z",
+  "market_createdAt": "2024-08-07T21:05:57.957791Z",
+  "market_updatedAt": "2024-08-23T01:31:08.596373Z",
+  "market_startDate": "2024-08-09T20:39:01.453Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:15:44+00",
+  "conditionId": "0x670540a47a762d718ec5b0e22d67c585e0aa9a34ee7bb60cbe3748285fd116e9",
+  "slug": "will-nancy-pelosi-speak-at-the-dnc",
+  "question": "Will Nancy Pelosi speak at the DNC?"
+}

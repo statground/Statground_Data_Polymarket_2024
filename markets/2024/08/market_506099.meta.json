@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:48:34.076181Z",
+  "market_createdAt": "2024-08-29T19:48:34.076181Z",
+  "market_updatedAt": "2025-01-25T02:45:17.725485Z",
+  "market_startDate": "2024-08-29T19:48:34.076Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:10:26+00",
+  "conditionId": "0x44c4e98fd06a0d02e7c30b923dc726b87a3693fe6a0c8089c523c461806d863d",
+  "slug": "will-cj-stroud-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will C.J. Stroud win NFL MVP for the 2024-25 season?"
+}

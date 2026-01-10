@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:15:23.610574Z",
+  "market_createdAt": "2024-09-13T20:15:23.610574Z",
+  "market_updatedAt": "2024-10-29T04:53:03.60753Z",
+  "market_startDate": "2024-09-13T23:03:51.503564Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-28 05:15:10+00",
+  "conditionId": "0x111a93cf9000b6d7f004327c60e01374596e3e3718d37054e4b525151916e38e",
+  "slug": "will-another-party-win-the-most-seats-in-the-2024-lithuania-legislative-election",
+  "question": "Will another party win the most seats in the 2024 Lithuania legislative election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T19:58:32.643617Z",
+  "market_createdAt": "2024-09-13T19:58:32.643617Z",
+  "market_updatedAt": "2024-09-18T04:06:42.988856Z",
+  "market_startDate": "2024-09-13T20:54:57.287579Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 04:21:31+00",
+  "conditionId": "0x96ad62764b752ad0c253978e279a5fa9bb6ca4ecb650f6a9e2e138743fb7e424",
+  "slug": "will-trump-say-reserve-during-the-x-space",
+  "question": "Will Trump say \"Reserve\" during the X space?"
+}

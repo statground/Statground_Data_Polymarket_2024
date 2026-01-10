@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T00:46:13.271912Z",
+  "market_createdAt": "2024-11-18T00:46:13.271912Z",
+  "market_updatedAt": "2025-04-02T02:08:37.090174Z",
+  "market_startDate": "2024-11-18T15:39:29.658Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 06:44:48+00",
+  "conditionId": "0xe58650cdc4f47051d131f707cc51f50e050d025ae2c8c679b7ad329ddef73311",
+  "slug": "trump-uses-a-recess-appointment-for-cabinet",
+  "question": "Trump uses a recess appointment for Cabinet?"
+}

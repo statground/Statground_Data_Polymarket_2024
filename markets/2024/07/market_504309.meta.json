@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T21:50:13.881406Z",
+  "market_createdAt": "2024-07-29T21:50:13.881406Z",
+  "market_updatedAt": "2024-09-02T01:43:05.548871Z",
+  "market_startDate": "2024-07-30T15:43:07.424Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:09:30+00",
+  "conditionId": "0x868b503a719041856447c31943a337493eb6870bcdf7498855a38deeb68127d3",
+  "slug": "maduro-out-before-september",
+  "question": "Maduro out before September?"
+}

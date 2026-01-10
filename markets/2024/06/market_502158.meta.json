@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T14:08:41.914447Z",
+  "market_createdAt": "2024-06-06T14:08:41.914447Z",
+  "market_updatedAt": "2024-07-11T15:55:49.690394Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-10 17:48:21+00",
+  "conditionId": "0xbcb307604e203db5f45ddfa06695b9ed8ee9e8c8284252807f146d9c105b7981",
+  "slug": "2024-june-hottest-on-record",
+  "question": "2024 June hottest on record?"
+}

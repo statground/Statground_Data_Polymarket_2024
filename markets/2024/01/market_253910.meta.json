@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T19:53:19.386000Z",
+  "market_createdAt": "2024-01-16T19:53:19.386Z",
+  "market_updatedAt": "2025-01-02T07:17:10.1456Z",
+  "market_startDate": "2024-01-16T23:13:47.701Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:33:06+00",
+  "conditionId": "0x0ebf9290c87facccf4b0d646b175e66cdeddd3d6fc887aee32b88a04e34ce939",
+  "slug": "tether-insolvent-in-2024",
+  "question": "Tether Insolvent in 2024?"
+}

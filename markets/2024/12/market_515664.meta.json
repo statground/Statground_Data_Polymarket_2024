@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T05:02:51.238317Z",
+  "market_createdAt": "2024-12-15T05:02:51.238317Z",
+  "market_updatedAt": "2024-12-23T04:55:23.858415Z",
+  "market_startDate": "2024-12-15T05:05:28.304443Z",
+  "market_endDate": "2024-12-29T01:00:00Z",
+  "market_closedTime": "2024-12-22 05:33:38+00",
+  "conditionId": "0x10b1652ec51cb0bf54c08bd7975fd7d09957350e42b66ff1b322a5aba22bcf55",
+  "slug": "nba-was-mil-2024-12-21",
+  "question": "Wizards vs. Bucks"
+}

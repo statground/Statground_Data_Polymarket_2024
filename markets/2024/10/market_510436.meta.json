@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:29:35.758447Z",
+  "market_createdAt": "2024-10-21T22:29:35.758447Z",
+  "market_updatedAt": "2024-10-25T00:27:03.159575Z",
+  "market_startDate": "2024-10-22T00:57:14.302429Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:29:48+00",
+  "conditionId": "0x176a77cf42ce519440f6158703e73dd87bbfda74e145f9402d2d9390d8469f9c",
+  "slug": "will-barcelona-beat-bayern-munich",
+  "question": "Will Barcelona beat Bayern Munich?"
+}

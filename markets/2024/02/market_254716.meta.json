@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T17:44:06.652000Z",
+  "market_createdAt": "2024-02-26T17:44:06.652Z",
+  "market_updatedAt": "2024-03-01T21:54:08.762Z",
+  "market_startDate": "2024-02-26T19:11:48.31Z",
+  "market_endDate": "2024-03-01T00:00:00Z",
+  "market_closedTime": "2024-02-29 23:49:14+00",
+  "conditionId": "0xfa2d0ea84ef08d3ebffe03bcffd36e699d5a4ac9c5eaa041c89d71aaf7447a6a",
+  "slug": "blast-launch-delayed",
+  "question": "Blast launch delayed?"
+}

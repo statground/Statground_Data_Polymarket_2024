@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T23:21:48.317929Z",
+  "market_createdAt": "2024-09-17T23:21:48.317929Z",
+  "market_updatedAt": "2024-09-23T13:00:48.259631Z",
+  "market_startDate": "2024-09-18T03:31:12.096366Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 03:34:48+00",
+  "conditionId": "0xbcb415fae3cb3d86bf8a6344276b4ca52ce0f4b666c8848fede1ebc0fb9074ab",
+  "slug": "will-fernando-alonso-win-the-singapore-grand-prix",
+  "question": "Will Fernando Alonso win the Singapore Grand Prix?"
+}

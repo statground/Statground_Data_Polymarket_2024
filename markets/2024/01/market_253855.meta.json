@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:15:13.828000Z",
+  "market_createdAt": "2024-01-12T19:15:13.828Z",
+  "market_updatedAt": "2024-07-16T21:12:49.804043Z",
+  "market_startDate": "2024-01-13T00:42:48.319Z",
+  "market_endDate": "2024-07-13T00:00:00Z",
+  "market_closedTime": "2024-07-16 03:07:47+00",
+  "conditionId": "0x59d7ec34e4f9ef67350a97363baeaee60bd7979091cc166420b08a17e38aa43f",
+  "slug": "will-someone-else-win-the-2024-republican-presidential-nomination",
+  "question": "Will someone else win the 2024 Republican Presidential Nomination?"
+}

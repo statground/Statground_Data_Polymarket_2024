@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507921",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:07:51.418888Z",
+  "market_createdAt": "2024-09-24T17:07:51.418888Z",
+  "market_updatedAt": "2025-04-22T07:11:45.478002Z",
+  "market_startDate": "2024-11-21T23:05:56.983Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 03:49:57+00",
+  "conditionId": "0xa6f4b7457e774b1da2efd260d186c4e8b2ac5e80a1a1afee9558f512d16cdd08",
+  "slug": "will-stephen-curry-win-the-2024-25-nba-mvp",
+  "question": "Will Stephen Curry win the 2024-25 NBA MVP?"
+}

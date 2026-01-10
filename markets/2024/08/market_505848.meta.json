@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:14:13.627231Z",
+  "market_createdAt": "2024-08-26T20:14:13.627231Z",
+  "market_updatedAt": "2024-09-09T22:01:08.873185Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:20:04+00",
+  "conditionId": "0xf3a8040acb7eaad81bb683dce8abb999921114c8a20003b745db93a8b8c23e3e",
+  "slug": "nfl-buf-ari-2024-09-08",
+  "question": "Bills vs. Cardinals"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507837",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:51:34.731313Z",
+  "market_createdAt": "2024-09-24T04:51:34.731313Z",
+  "market_updatedAt": "2024-10-01T01:16:37.653956Z",
+  "market_startDate": "2024-09-24T04:53:46.762653Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:29:54+00",
+  "conditionId": "0x667965f785612624876538361c301d384cbee1a5ce89dc544619e01560403a72",
+  "slug": "nfl-sf-ne-2024-09-29",
+  "question": "49ers vs. Patriots"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:22:22.754743Z",
+  "market_createdAt": "2024-10-18T21:22:22.754743Z",
+  "market_updatedAt": "2024-10-21T16:56:40.650594Z",
+  "market_startDate": "2024-10-18T23:26:24.127764Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:20:04+00",
+  "conditionId": "0xa14adea3e26853bf716bcd5a8fe46d51dcc88da8497b93853220530b9b0e8eb6",
+  "slug": "will-the-bills-and-titans-combine-for-41-or-more-points",
+  "question": "Will the Bills and Titans combine for 41 or more points?"
+}

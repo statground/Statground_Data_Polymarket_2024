@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T22:37:35.317833Z",
+  "market_createdAt": "2024-12-20T22:37:35.317833Z",
+  "market_updatedAt": "2025-07-02T08:24:49.833729Z",
+  "market_startDate": "2024-12-20T23:16:58.419986Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 07:29:19+00",
+  "conditionId": "0x73b046b7970a1780f1d7a0cacf73413325911dd87cdc5b63cfdc27496110fb1b",
+  "slug": "will-turkey-leave-nato-by-june-30",
+  "question": "Will Turkey leave NATO by June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502859",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:53:38.292503Z",
+  "market_createdAt": "2024-06-25T15:53:38.292503Z",
+  "market_updatedAt": "2024-07-15T17:46:52.034617Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:41:48+00",
+  "conditionId": "0xe1b797d04bb8e5a90a6053e579f80a76aed0472a59e3d63e230d8c219250390b",
+  "slug": "will-phil-foden-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Phil Foden be Player of the Tournament for Euro 2024?"
+}

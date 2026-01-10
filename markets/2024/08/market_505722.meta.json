@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:02:16.193307Z",
+  "market_createdAt": "2024-08-23T16:02:16.193307Z",
+  "market_updatedAt": "2024-08-25T01:06:54.902605Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 01:43:04+00",
+  "conditionId": "0xc3caf0dee005982d5ea50c98b281f015543518d5d94cea47d8583f660a5326b9",
+  "slug": "will-trump-say-maga-at-his-arizona-speech",
+  "question": "Will Trump say \"MAGA\" at his Arizona speech?"
+}

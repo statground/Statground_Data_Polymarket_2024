@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:20:23.009125Z",
+  "market_createdAt": "2024-09-03T17:20:23.009125Z",
+  "market_updatedAt": "2024-09-12T03:07:02.079205Z",
+  "market_startDate": "2024-09-03T22:01:57.893Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:13:30+00",
+  "conditionId": "0x410cf54c410454dcd90d6c78ced7c9e3122c52925dd8339790cdb93d73bf86ea",
+  "slug": "will-kamala-say-democracy-at-debate",
+  "question": "Will Kamala say \"democracy\" at debate?"
+}

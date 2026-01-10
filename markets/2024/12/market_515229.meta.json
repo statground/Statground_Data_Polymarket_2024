@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:30:46.642976Z",
+  "market_createdAt": "2024-12-10T02:30:46.642976Z",
+  "market_updatedAt": "2024-12-16T22:52:46.905966Z",
+  "market_startDate": "2024-12-10T02:34:00.794789Z",
+  "market_endDate": "2024-12-22T18:00:00Z",
+  "market_closedTime": "2024-12-15 23:17:00+00",
+  "conditionId": "0xfc6699592037ab55a67630c5a68b0f8bb85718d1518bafa5a758a00a0a760e84",
+  "slug": "nfl-bal-nyg-2024-12-15",
+  "question": "Ravens vs. Giants"
+}

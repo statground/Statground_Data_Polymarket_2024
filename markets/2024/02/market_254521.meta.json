@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-16T18:47:34.850000Z",
+  "market_createdAt": "2024-02-16T18:47:34.85Z",
+  "market_updatedAt": "2024-04-26T02:52:44.530025Z",
+  "market_startDate": "2024-02-16T19:21:46.854Z",
+  "market_endDate": "2024-02-23T00:00:00Z",
+  "market_closedTime": "2024-02-24 07:01:49+00",
+  "conditionId": "0x05cf99a3c7ee91540f484f8c7b5602e9db141cd8d5806d86f7c84aa66eca91a7",
+  "slug": "will-biden-drop-out-by-next-friday-feb23",
+  "question": "Will Biden drop out by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T18:25:08.942982Z",
+  "market_createdAt": "2024-09-24T18:25:08.942982Z",
+  "market_updatedAt": "2024-09-27T21:22:49.49407Z",
+  "market_startDate": "2024-09-25T15:49:54.798246Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-27 00:27:17+00",
+  "conditionId": "0x3d7e58627ba51cf1869502e3297373a63e75535aa3ad4a4150c252f0cecd5261",
+  "slug": "will-the-match-between-roma-vs-athletic-bilbao-end-in-a-draw",
+  "question": "Will the match between Roma vs. Athletic Bilbao end in a draw?"
+}

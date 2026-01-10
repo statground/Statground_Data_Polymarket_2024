@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:07:55.666059Z",
+  "market_createdAt": "2024-11-25T22:07:55.666059Z",
+  "market_updatedAt": "2024-11-27T22:03:40.751247Z",
+  "market_startDate": "2024-11-25T23:23:52.852073Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-26 22:49:40+00",
+  "conditionId": "0x3fa127eaf7638e79a2bc368f7eec4c9d4288489caea5213835e994478455b849",
+  "slug": "will-sparta-praha-beat-atletico-madrid",
+  "question": "Will Sparta Praha beat Atletico Madrid?"
+}

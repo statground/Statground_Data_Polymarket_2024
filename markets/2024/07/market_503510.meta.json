@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503510",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:30:41.029590Z",
+  "market_createdAt": "2024-07-15T19:30:41.02959Z",
+  "market_updatedAt": "2024-12-18T14:51:19.84043Z",
+  "market_startDate": "2024-07-16T18:05:57.898Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:18:04+00",
+  "conditionId": "0x06f79c14b3ebfccb33333fe8b8bcb73b73b0583e8d241cf94b2d370091cdfffc",
+  "slug": "will-nevada-be-the-tipping-point-state",
+  "question": "Will Nevada be the tipping point state?"
+}

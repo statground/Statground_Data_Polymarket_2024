@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:52:29.963102Z",
+  "market_createdAt": "2024-05-02T16:52:29.963102Z",
+  "market_updatedAt": "2024-05-07T23:09:31.293394Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:29:44+00",
+  "conditionId": "0x6406ebcf0ff1660c8cf89a07204207bd18c51643440c8f277b68cc499c3b9edd",
+  "slug": "will-just-steel-win-the-2024-kentucky-derby",
+  "question": "Will Just Steel win the 2024 Kentucky Derby?"
+}

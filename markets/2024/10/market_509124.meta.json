@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T20:52:42.616492Z",
+  "market_createdAt": "2024-10-07T20:52:42.616492Z",
+  "market_updatedAt": "2024-10-10T23:30:48.623082Z",
+  "market_startDate": "2024-10-07T22:33:44.918Z",
+  "market_endDate": "2024-10-09T12:00:00Z",
+  "market_closedTime": "2024-10-09 23:55:45+00",
+  "conditionId": "0x38f78b1302656488d0bc71b28068706dad5fa1b0b21005b364afad143489b96a",
+  "slug": "alds-tigers-vs-guardians-game-3",
+  "question": "ALDS: Tigers vs. Guardians Game 3"
+}

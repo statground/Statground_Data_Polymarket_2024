@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:29:25.564809Z",
+  "market_createdAt": "2024-08-29T16:29:25.564809Z",
+  "market_updatedAt": "2024-08-31T23:03:09.716567Z",
+  "market_startDate": "2024-08-29T18:30:39.416Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-31 00:25:34+00",
+  "conditionId": "0x0c794bdb2a2edf53273dfb03f7864e954c0db3f9c251c18d0092178b52ed3394",
+  "slug": "will-donald-trump-say-zuckerberg-or-zuck-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"Zuckerberg\" or \"Zuck\" during Pennsylvania rally?"
+}

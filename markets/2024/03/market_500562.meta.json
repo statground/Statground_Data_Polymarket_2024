@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-29T18:09:46.013035Z",
+  "market_createdAt": "2024-03-29T18:09:46.013035Z",
+  "market_updatedAt": "2024-05-07T23:10:05.648571Z",
+  "market_startDate": "2024-03-29T18:13:29.073Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:25:49+00",
+  "conditionId": "0x26deb9f4503e1251fb88d2010b67f4fb196a14ee4e442e2409215d4f728d0388",
+  "slug": "biden-drops-out-before-may",
+  "question": "Biden drops out before May?"
+}

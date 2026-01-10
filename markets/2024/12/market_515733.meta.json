@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T05:02:25.994649Z",
+  "market_createdAt": "2024-12-16T05:02:25.994649Z",
+  "market_updatedAt": "2024-12-23T02:39:40.450325Z",
+  "market_startDate": "2024-12-16T05:04:58.059827Z",
+  "market_endDate": "2024-12-28T21:00:00Z",
+  "market_closedTime": "2024-12-22 02:48:33+00",
+  "conditionId": "0x5a476c6c66fcdbcb9b122e88841ed668e4c01a2326a65df33aa977ee2bb3b213",
+  "slug": "cfb-clem-tex-2024-12-21",
+  "question": "Clemson vs. Texas"
+}

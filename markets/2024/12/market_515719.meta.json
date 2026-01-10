@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:08:28.307217Z",
+  "market_createdAt": "2024-12-15T07:08:28.307217Z",
+  "market_updatedAt": "2024-12-22T04:10:51.836417Z",
+  "market_startDate": "2024-12-15T07:11:03.254063Z",
+  "market_endDate": "2024-12-28T01:00:00Z",
+  "market_closedTime": "2024-12-21 05:49:54+00",
+  "conditionId": "0x8c8669d3c6a9c2fe92dd327733eef3b3ceae1a31ace4dca56c00d9f11b28ed74",
+  "slug": "nhl-nyr-dal-2024-12-20",
+  "question": "Rangers vs. Stars"
+}

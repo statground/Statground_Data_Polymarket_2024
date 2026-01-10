@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:40:43.771000Z",
+  "market_createdAt": "2024-03-01T18:40:43.771Z",
+  "market_updatedAt": "2024-11-07T03:37:05.459667Z",
+  "market_startDate": "2024-03-28T21:56:50.093Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 03:33:56+00",
+  "conditionId": "0xfeaf2f554727a143c4c0973b62fd0fc34bec0fc8c5c2b6b4e7da9bbb5377e80a",
+  "slug": "will-a-candidate-from-another-party-win-maine-presidential-election",
+  "question": "Will a candidate from another party win Maine Presidential Election?"
+}

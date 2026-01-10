@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T22:49:04.165909Z",
+  "market_createdAt": "2024-07-05T22:49:04.165909Z",
+  "market_updatedAt": "2024-07-08T12:50:50.342265Z",
+  "market_startDate": "2024-07-05T23:07:33.633Z",
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:24:13+00",
+  "conditionId": "0xfd592c55fb46dc4dbdbf867b3c0c0a952179bad978951c696dd936aad62ee907",
+  "slug": "will-oscar-piastri-win-the-british-grand-prix",
+  "question": "Will Oscar Piastri win the British Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T18:57:50.584833Z",
+  "market_createdAt": "2024-10-21T18:57:50.584833Z",
+  "market_updatedAt": "2024-10-28T21:57:08.528169Z",
+  "market_startDate": "2024-10-21T19:00:35.45637Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:05:22+00",
+  "conditionId": "0xa683d3e9a19d4fafd3f7139d6a8dcef4ffc91a50b2d2e25df9b834978d983560",
+  "slug": "nfl-ten-det-2024-10-27",
+  "question": "Titans vs. Lions"
+}

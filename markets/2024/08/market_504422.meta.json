@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T16:34:38.587167Z",
+  "market_createdAt": "2024-08-01T16:34:38.587167Z",
+  "market_updatedAt": "2024-08-07T03:16:50.398871Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-06 03:53:29+00",
+  "conditionId": "0x2aa00e19e59e689f4420db8c3362bbe8edd572ae3620fd7309b82e898d5e71a0",
+  "slug": "kamala-flip-trump-in-rcp-polling-in-august",
+  "question": "Will Kamala flip Trump in the polls in August?"
+}

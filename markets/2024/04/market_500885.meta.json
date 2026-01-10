@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T22:02:53.059212Z",
+  "market_createdAt": "2024-04-10T22:02:53.059212Z",
+  "market_updatedAt": "2024-05-11T18:29:04.425706Z",
+  "market_startDate": "2024-04-10T23:25:56.23Z",
+  "market_endDate": "2024-04-27T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:51:15+00",
+  "conditionId": "0x6d9617d9fab242a2cbad8f0b1fe9251d8b9415504542dd50d0a043db642b58bf",
+  "slug": "friendtech-v2-launch-delayed",
+  "question": "friend.tech v2 launch delayed?"
+}

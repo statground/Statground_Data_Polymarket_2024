@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:40:30.468965Z",
+  "market_createdAt": "2024-11-04T18:40:30.468965Z",
+  "market_updatedAt": "2024-11-10T05:32:52.739832Z",
+  "market_startDate": "2024-11-04T18:43:44.802265Z",
+  "market_endDate": "2024-11-09T02:00:00Z",
+  "market_closedTime": "2024-11-09 06:42:15+00",
+  "conditionId": "0x061338833d2d6d142922d7bda22aacbc883f64fe05dc3467c4de0ee7049f51cf",
+  "slug": "nba-mia-den-2024-11-08",
+  "question": "Heat vs. Nuggets"
+}

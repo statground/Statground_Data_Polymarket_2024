@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T00:19:38.325100Z",
+  "market_createdAt": "2024-04-16T00:19:38.3251Z",
+  "market_updatedAt": "2024-05-07T23:09:30.155168Z",
+  "market_startDate": "2024-04-16T00:21:55.425Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-25 00:01:01+00",
+  "conditionId": "0x80fe32daa5daa73fa6f0ab8fba7986b98359891feb6401f06d4e3612841d2b26",
+  "slug": "israel-aid-package-by-april-30",
+  "question": "Israel aid package by April 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:35:40.189653Z",
+  "market_createdAt": "2024-10-09T18:35:40.189653Z",
+  "market_updatedAt": "2024-10-17T20:36:47.72594Z",
+  "market_startDate": "2024-10-09T21:12:47.932052Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-16 23:54:51+00",
+  "conditionId": "0x4e34f3e014308dc7769bc5fd3d52f208430492c32eaedd4c5e829b70c7ae727c",
+  "slug": "will-nip-win-the-elisa-masters-espoo-2024",
+  "question": "Will NIP win the Elisa Masters Espoo 2024?"
+}

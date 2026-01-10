@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:59:25.904932Z",
+  "market_createdAt": "2024-10-23T17:59:25.904932Z",
+  "market_updatedAt": "2024-10-29T01:17:10.124162Z",
+  "market_startDate": "2024-10-23T22:28:47.358338Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:20:33+00",
+  "conditionId": "0x40e1fb4b5b0e85573ccc952144fd3613399e97cf4c89b59c26ce9e48787cfa82",
+  "slug": "will-another-driver-win-the-mexico-city-grand-prix",
+  "question": "Will another driver win the Mexico City Grand Prix?"
+}

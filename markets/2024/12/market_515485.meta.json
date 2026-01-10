@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:56:21.361180Z",
+  "market_createdAt": "2024-12-11T23:56:21.36118Z",
+  "market_updatedAt": "2024-12-16T02:03:36.522592Z",
+  "market_startDate": "2024-12-13T23:13:31.080435Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 02:44:33+00",
+  "conditionId": "0x48377778f26a66428e9110fc59301e908951c4130c7601e45af7eaa0b1f3487a",
+  "slug": "knutsson-vs-rodriguez",
+  "question": "Knutsson vs. Rodriguez"
+}

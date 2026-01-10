@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:00:36.571551Z",
+  "market_createdAt": "2024-07-09T15:00:36.571551Z",
+  "market_updatedAt": "2024-12-16T20:55:32.336705Z",
+  "market_startDate": "2024-07-09T15:00:36.571551Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-16 00:39:16+00",
+  "conditionId": "0xd280ef888530239f255b3efc0487a9f4d28039d24f50d8080a51a75927bc1a3a",
+  "slug": "will-the-bears-win-super-bowl-2025",
+  "question": "Will the Bears win Super Bowl 2025?"
+}

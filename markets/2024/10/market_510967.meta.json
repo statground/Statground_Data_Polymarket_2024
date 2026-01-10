@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:42:29.791546Z",
+  "market_createdAt": "2024-10-25T18:42:29.791546Z",
+  "market_updatedAt": "2024-10-28T02:46:47.802452Z",
+  "market_startDate": "2024-10-25T22:25:26.650843Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 04:55:49+00",
+  "conditionId": "0x9e333accb03d6eebef7bb5e2cb1b2853983c797c4f31dfc3f2d2a3b7310d1eab",
+  "slug": "will-miami-beat-florida-state",
+  "question": "Will Miami beat Florida State?"
+}

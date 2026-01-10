@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T00:12:31.564196Z",
+  "market_createdAt": "2024-10-28T00:12:31.564196Z",
+  "market_updatedAt": "2024-11-11T04:22:41.773164Z",
+  "market_startDate": "2024-10-29T23:00:01.663Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:30:10+00",
+  "conditionId": "0x7057bdf9e1d4a4d266c1a98448ba4dc13fcdf2691d44e2d2c33424f2de540a8f",
+  "slug": "trump-wins-312-evs-swing-state-sweep",
+  "question": "Trump wins 312-226 - swing state sweep "
+}

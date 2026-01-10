@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:08:18.737947Z",
+  "market_createdAt": "2024-08-26T20:08:18.737947Z",
+  "market_updatedAt": "2024-09-02T17:37:01.080395Z",
+  "market_startDate": "2024-08-26T20:08:18.737947Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 17:46:58+00",
+  "conditionId": "0x2bf1b0179d6a9a5860bbfe2f6e940a4bfe5098b40dd6841d0868c911249f591f",
+  "slug": "will-crystal-palace-beat-chelsea",
+  "question": "Will Crystal Palace beat Chelsea?"
+}

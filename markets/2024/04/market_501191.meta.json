@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T17:25:28.242852Z",
+  "market_createdAt": "2024-04-25T17:25:28.242852Z",
+  "market_updatedAt": "2024-05-07T23:09:56.580485Z",
+  "market_startDate": "2024-04-25T17:53:54.663Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 04:36:36+00",
+  "conditionId": "0x25aad5b608e823622f869cb601c7757e458266d74032274964a90643d9e04af0",
+  "slug": "will-the-vikings-draft-jj-mccarthy",
+  "question": "Will the Vikings draft J.J. McCarthy?"
+}

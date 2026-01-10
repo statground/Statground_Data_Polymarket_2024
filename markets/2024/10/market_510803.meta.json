@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:45:01.051601Z",
+  "market_createdAt": "2024-10-24T17:45:01.051601Z",
+  "market_updatedAt": "2024-10-25T09:46:58.003314Z",
+  "market_startDate": "2024-10-24T21:37:35.422705Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 09:44:03+00",
+  "conditionId": "0xb56396aeef8f9b8c31eaf0b59e90871f553dc343dca96b304349ec737f7c44fe",
+  "slug": "will-there-be-63-or-more-combined-points-scored-Pitt-Syracuse",
+  "question": "Will there be 63 or more combined points scored?"
+}

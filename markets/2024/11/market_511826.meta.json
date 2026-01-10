@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:49:53.563233Z",
+  "market_createdAt": "2024-11-02T21:49:53.563233Z",
+  "market_updatedAt": "2024-11-06T08:27:13.438677Z",
+  "market_startDate": "2024-11-02T23:00:47.047Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:38:07+00",
+  "conditionId": "0x3550625acccd0e9d0603ffff71ee80808add76fd4e79c5e7248c703107c1bdfb",
+  "slug": "will-trump-say-fake-jobs-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"fake jobs\" during Michigan rally on Nov 4?"
+}

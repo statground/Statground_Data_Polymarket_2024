@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:32:59.907751Z",
+  "market_createdAt": "2024-10-11T17:32:59.907751Z",
+  "market_updatedAt": "2024-10-14T21:01:04.346289Z",
+  "market_startDate": "2024-10-11T19:35:08.921741Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 21:04:48+00",
+  "conditionId": "0x4097ccfe340d86fe6173c6a622c62786f3d5678ed50682da23a5402dd3f5d649",
+  "slug": "will-england-beat-finland",
+  "question": "Will England beat Finland?"
+}

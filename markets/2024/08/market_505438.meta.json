@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T16:47:44.148972Z",
+  "market_createdAt": "2024-08-20T16:47:44.148972Z",
+  "market_updatedAt": "2024-11-07T19:23:12.574111Z",
+  "market_startDate": "2024-08-20T16:47:44.148972Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:47:53+00",
+  "conditionId": "0x98f1c7c785fafc7904d2458151c69d24bfe47bed90eaf7db6b3b61b39c4eaa88",
+  "slug": "will-nate-silver-correctly-call-the-presidential-election",
+  "question": "Will Nate Silver correctly call the Presidential Election?"
+}

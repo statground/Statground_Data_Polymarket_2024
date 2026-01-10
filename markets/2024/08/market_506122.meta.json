@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T20:28:07.640778Z",
+  "market_createdAt": "2024-08-29T20:28:07.640778Z",
+  "market_updatedAt": "2024-10-29T01:23:07.929208Z",
+  "market_startDate": "2024-08-29T20:28:07.640778Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:16:30+00",
+  "conditionId": "0x9fc36bb7895236ab0dc8424663d986e79cfd64068258da62e631c7bc9d4c4955",
+  "slug": "will-ricardo-nunes-win-the-2024-so-paulo-mayoral-election",
+  "question": "Will Ricardo Nunes win the 2024 São Paulo mayoral election?"
+}

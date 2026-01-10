@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:26:30.187280Z",
+  "market_createdAt": "2024-07-01T20:26:30.18728Z",
+  "market_updatedAt": "2024-07-03T00:15:45.516175Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:03:24+00",
+  "conditionId": "0x0db612987de24d5b12a95e6e6621805c26687fcef758316183c244f9df89849f",
+  "slug": "will-panama-win-jul-1",
+  "question": "Will Panama win?"
+}

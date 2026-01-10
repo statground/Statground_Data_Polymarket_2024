@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:48:12.000759Z",
+  "market_createdAt": "2024-10-25T20:48:12.000759Z",
+  "market_updatedAt": "2024-10-28T23:33:09.335055Z",
+  "market_startDate": "2024-10-25T21:51:27.398645Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:28:29+00",
+  "conditionId": "0xa580b942a78781a886dad184db75f515828d0654bda728dfd09c282ac9b305dc",
+  "slug": "will-the-chargers-beat-the-saints-by-7-or-more-points",
+  "question": "Will the Chargers beat the Saints by 7 or more points?"
+}

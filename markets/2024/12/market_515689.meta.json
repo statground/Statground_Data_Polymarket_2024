@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:01:00.290458Z",
+  "market_createdAt": "2024-12-15T07:01:00.290458Z",
+  "market_updatedAt": "2024-12-18T06:27:18.555707Z",
+  "market_startDate": "2024-12-15T07:03:39.711385Z",
+  "market_endDate": "2024-12-24T01:30:00Z",
+  "market_closedTime": "2024-12-17 06:44:59+00",
+  "conditionId": "0x626b21f1757ebbc66adae12bf5ac254e59138347b2651e33d923dd719548ecc1",
+  "slug": "nhl-fla-edm-2024-12-16",
+  "question": "Panthers vs. Oilers"
+}

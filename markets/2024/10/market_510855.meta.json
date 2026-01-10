@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T23:01:14.135683Z",
+  "market_createdAt": "2024-10-24T23:01:14.135683Z",
+  "market_updatedAt": "2024-10-26T22:52:53.609413Z",
+  "market_startDate": "2024-10-25T16:29:48.687019Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-10-25 23:53:34+00",
+  "conditionId": "0x358a2bc595c74d7b4a63819459bdea790e8dc4f5dce323f8a069972fe0aac22d",
+  "slug": "will-trump-tweet-less-than-10-times-oct-25-nov-1",
+  "question": "Will Trump tweet less than 10 times Oct 25 - Nov 1?"
+}

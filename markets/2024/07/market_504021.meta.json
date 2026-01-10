@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T00:34:32.112863Z",
+  "market_createdAt": "2024-07-23T00:34:32.112863Z",
+  "market_updatedAt": "2024-07-28T02:34:59.643415Z",
+  "market_startDate": "2024-07-23T16:41:20.195Z",
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-27 06:05:05+00",
+  "conditionId": "0xf97bb0fe808d0625b5a6936a495d65a6414aa9491171c61196dbe8799063d5f1",
+  "slug": "kamala-president-by-friday",
+  "question": "Kamala president by Friday?"
+}

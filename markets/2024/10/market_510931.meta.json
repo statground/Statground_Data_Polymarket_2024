@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:47:35.439564Z",
+  "market_createdAt": "2024-10-25T17:47:35.439564Z",
+  "market_updatedAt": "2024-10-27T19:46:52.969771Z",
+  "market_startDate": "2024-10-25T22:10:33.192772Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 22:01:19+00",
+  "conditionId": "0x600ce120635a14f9308736c04697d3350f807156c7318009a31fd1837b26c0b4",
+  "slug": "will-ohio-state-beat-nebraska",
+  "question": "Will Ohio State beat Nebraska?"
+}

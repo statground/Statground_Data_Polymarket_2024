@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:47:36.048271Z",
+  "market_createdAt": "2024-11-01T18:47:36.048271Z",
+  "market_updatedAt": "2024-11-04T21:33:11.698068Z",
+  "market_startDate": "2024-11-01T22:14:38.740096Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:33:55+00",
+  "conditionId": "0xdc0c680072f41a3c1d49079289efddfd86882bafd1b9d61496be68304744d906",
+  "slug": "will-the-falcons-beat-the-cowboys-by-4-or-more-points",
+  "question": "Will the Falcons beat the Cowboys by 4 or more points?"
+}

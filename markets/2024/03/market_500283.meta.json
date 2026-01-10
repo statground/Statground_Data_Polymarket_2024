@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T19:36:49.277927Z",
+  "market_createdAt": "2024-03-18T19:36:49.277927Z",
+  "market_updatedAt": "2024-05-07T23:09:20.721046Z",
+  "market_startDate": "2024-03-18T21:23:10.805Z",
+  "market_endDate": "2024-04-07T23:00:00Z",
+  "market_closedTime": "2024-04-01 01:36:30+00",
+  "conditionId": "0xe63a065f9ecda90a576442c87163a25539a9e55ecd45a31b356891def475da4f",
+  "slug": "march-madness-sum-of-final-four-seeds-105",
+  "question": "March Madness: Sum of Final Four seeds >10.5?"
+}

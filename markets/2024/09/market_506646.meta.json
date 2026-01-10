@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T14:28:54.739300Z",
+  "market_createdAt": "2024-09-09T14:28:54.7393Z",
+  "market_updatedAt": "2024-09-16T21:30:47.999023Z",
+  "market_startDate": "2024-09-09T14:31:14.313443Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:13:31+00",
+  "conditionId": "0x1de298f909a4d4b4b42c2f428c5d028dbc0c8c606cfd692aa116c69a4ab63346",
+  "slug": "nfl-wsh-nyg-2024-09-15",
+  "question": "Commanders vs. Giants"
+}

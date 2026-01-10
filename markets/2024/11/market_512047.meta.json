@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:04:14.009468Z",
+  "market_createdAt": "2024-11-05T19:04:14.009468Z",
+  "market_updatedAt": "2024-11-11T22:19:13.812191Z",
+  "market_startDate": "2024-11-05T19:06:55.55357Z",
+  "market_endDate": "2024-11-10T18:00:00Z",
+  "market_closedTime": "2024-11-10 23:11:11+00",
+  "conditionId": "0x2e4858365f76ae581bd73f90cc48480a7e119856548e903554baebcd860e02de",
+  "slug": "nfl-sf-tb-2024-11-10",
+  "question": "49ers vs. Buccaneers"
+}

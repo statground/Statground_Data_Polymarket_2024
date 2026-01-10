@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T21:38:03.185730Z",
+  "market_createdAt": "2024-05-01T21:38:03.18573Z",
+  "market_updatedAt": "2024-05-29T02:16:10.333761Z",
+  "market_startDate": "2024-05-01T21:39:53.743Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-05-28 04:43:48+00",
+  "conditionId": "0x44a06f3e578daa59eec8a792214068f9c60dca06351de84645d403eb0f863735",
+  "slug": "will-porzingis-return-by-end-of-eastern-conf-finals",
+  "question": "Will Porzingis return by end of Eastern Conf. Finals?"
+}

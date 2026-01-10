@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:25:04.177487Z",
+  "market_createdAt": "2024-11-04T19:25:04.177487Z",
+  "market_updatedAt": "2024-11-25T13:27:56.2155Z",
+  "market_startDate": "2024-11-06T16:31:43.430327Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:23:46+00",
+  "conditionId": "0x5ccf50feb4af6568fad8854bd540d47aad6810ab1ced9034ab62caddf3e36130",
+  "slug": "will-george-russell-win-the-las-vegas-grand-prix",
+  "question": "Will George Russell win the 2024 Las Vegas Grand Prix?"
+}

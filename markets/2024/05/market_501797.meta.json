@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T20:18:47.272816Z",
+  "market_createdAt": "2024-05-23T20:18:47.272816Z",
+  "market_updatedAt": "2024-07-06T13:05:50.088536Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:57:56+00",
+  "conditionId": "0xe1f2d20f94929b8d1a1f4928d5a2a415801bd56b6dadb296b376919870397291",
+  "slug": "will-conservative-party-win-125-139-seats-in-the-next-uk-election",
+  "question": "Will Conservative Party win 125-139 seats in the next UK Election?"
+}

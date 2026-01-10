@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:33:16.748036Z",
+  "market_createdAt": "2024-10-18T20:33:16.748036Z",
+  "market_updatedAt": "2024-10-21T23:03:12.285461Z",
+  "market_startDate": "2024-10-18T23:15:37.406981Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:59:22+00",
+  "conditionId": "0xdee7298c67b884e3c999ce7c6a0c7bac9b0542abc4fbabd52c15ce9834a238be",
+  "slug": "will-trump-say-elon-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Elon\" during Pennsylvania town hall on October 20?"
+}

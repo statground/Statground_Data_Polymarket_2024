@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "16089",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-29T17:59:43.867369Z",
+  "event_createdAt": "2024-12-29T17:59:43.867369Z",
+  "event_creationDate": "2024-12-29T22:44:23.099275Z",
+  "event_startDate": "2024-12-29T22:44:23.099277Z",
+  "event_endDate": "2025-06-30T12:00:00Z",
+  "event_updatedAt": "2025-07-03T00:26:50.746496Z",
+  "markets_len": 1,
+  "market_ids": [
+    "516708"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10067"
+  ],
+  "series_slug": "10-year-treasur"
+}

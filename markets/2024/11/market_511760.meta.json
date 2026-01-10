@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:33:43.290689Z",
+  "market_createdAt": "2024-11-01T23:33:43.290689Z",
+  "market_updatedAt": "2024-11-05T00:33:08.919573Z",
+  "market_startDate": "2024-11-02T00:06:18.666Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:38:55+00",
+  "conditionId": "0x7d607feecb3a7d083960eaeb292a1edff85cd7f27c7f75df52ed8001f9dddd9e",
+  "slug": "will-trump-say-north-carolina-20-or-more-times-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"North Carolina\" 20 or more times during North Carolina rally on Nov 3?"
+}

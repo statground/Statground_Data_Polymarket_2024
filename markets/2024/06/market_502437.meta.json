@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502437",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:26:19.024081Z",
+  "market_createdAt": "2024-06-14T15:26:19.024081Z",
+  "market_updatedAt": "2024-06-21T21:06:08.532823Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-21 00:07:51+00",
+  "conditionId": "0x0a41886a3be0238e8fcaac2bf6b508da3a7c484bb534819078141b6305b598e6",
+  "slug": "will-spain-win-group-b",
+  "question": "Will Spain win Group B?"
+}

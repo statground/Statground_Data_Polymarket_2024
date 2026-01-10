@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:00:47.988541Z",
+  "market_createdAt": "2024-11-11T17:00:47.988541Z",
+  "market_updatedAt": "2024-11-18T23:17:12.494709Z",
+  "market_startDate": "2024-11-11T17:03:16.62365Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:11:50+00",
+  "conditionId": "0x16f3b71a2602dd9b06d1f56ae6670247156f9cb2ab2bca30bea65f6739c2e78d",
+  "slug": "nfl-la-ne-2024-11-17",
+  "question": "Rams vs. Patriots"
+}

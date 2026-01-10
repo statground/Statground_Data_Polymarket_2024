@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T01:40:33.299213Z",
+  "market_createdAt": "2024-08-22T01:40:33.299213Z",
+  "market_updatedAt": "2024-08-23T09:01:05.464394Z",
+  "market_startDate": "2024-08-22T01:47:12.492Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-22 09:23:10+00",
+  "conditionId": "0x8b015dc82a3de6423046e0fe611d2c6b07fcd7ae66550a97bf94e7b80caa07d8",
+  "slug": "speedkai-beat-minecraft-on-current-42nd-attempt",
+  "question": "Speed/Kai beat Minecraft on 42nd attempt?"
+}

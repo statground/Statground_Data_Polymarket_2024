@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T20:33:02.218913Z",
+  "market_createdAt": "2024-09-10T20:33:02.218913Z",
+  "market_updatedAt": "2024-09-21T19:40:50.001685Z",
+  "market_startDate": "2024-09-10T21:08:36.211775Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 19:34:49+00",
+  "conditionId": "0xa6b73b34412dfc004f9abe6e2e3db74ac60e67a7c6b56fdb8d271e82921e7928",
+  "slug": "will-trump-lead-by-0pt5-or-more-points-on-september-20",
+  "question": "Will Trump lead by 0.5 or more points on September 20?"
+}

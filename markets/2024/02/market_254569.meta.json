@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T16:45:38.737000Z",
+  "market_createdAt": "2024-02-21T16:45:38.737Z",
+  "market_updatedAt": "2024-05-07T23:09:56.576837Z",
+  "market_startDate": "2024-02-21T17:22:32.429Z",
+  "market_endDate": "2024-04-30T00:00:00Z",
+  "market_closedTime": "2024-03-28 03:51:49+00",
+  "conditionId": "0x883e663ab3ccb9a515953fd524514d3b385ed71ce8790aa131eb9a0f6d612a43",
+  "slug": "will-nyc-give-migrant-families-10000",
+  "question": "Will NYC give migrant families $10,000?"
+}

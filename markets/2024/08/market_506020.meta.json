@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:47:06.799950Z",
+  "market_createdAt": "2024-08-28T19:47:06.79995Z",
+  "market_updatedAt": "2025-01-11T17:20:39.43241Z",
+  "market_startDate": "2024-08-28T20:32:58.247Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 19:32:10+00",
+  "conditionId": "0x94aa7a2a4106356c803c6955c5eb46152cd58c372b843ce02a8db0239dd74a46",
+  "slug": "global-heat-increase-between-1pt28c-and-1pt30c-for-2024",
+  "question": "Global heat increase between 1.28°C and 1.30°C for 2024?"
+}

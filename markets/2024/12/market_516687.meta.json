@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:09:58.989982Z",
+  "market_createdAt": "2024-12-29T07:09:58.989982Z",
+  "market_updatedAt": "2025-01-04T07:44:47.343392Z",
+  "market_startDate": "2024-12-29T07:13:01.468295Z",
+  "market_endDate": "2025-01-10T03:00:00Z",
+  "market_closedTime": "2025-01-03 07:48:33+00",
+  "conditionId": "0x6dfa2c54f408be8e5e9cfc3c6ef367246b0d20b58bc1745e542cdb440a6f2243",
+  "slug": "nhl-phi-las-2025-01-02",
+  "question": "Flyers vs. Golden Knights"
+}

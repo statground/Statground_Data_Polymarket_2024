@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:13:39.074606Z",
+  "market_createdAt": "2024-11-24T18:13:39.074606Z",
+  "market_updatedAt": "2024-12-01T19:54:02.443433Z",
+  "market_startDate": "2024-11-24T18:16:18.958867Z",
+  "market_endDate": "2024-11-30T15:00:00Z",
+  "market_closedTime": "2024-11-30 20:19:36+00",
+  "conditionId": "0xac19003bc3ff2e70c304c57c41d1814d942acd7eaefc63d5d187e06d218991e3",
+  "slug": "epl-bre-lei-2024-11-30-lei",
+  "question": "Will Leicester win on 2024-11-30?"
+}

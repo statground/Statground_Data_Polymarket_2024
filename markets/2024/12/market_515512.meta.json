@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T20:59:27.573350Z",
+  "market_createdAt": "2024-12-12T20:59:27.57335Z",
+  "market_updatedAt": "2025-01-21T20:01:31.248077Z",
+  "market_startDate": "2024-12-12T21:04:22.412Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 23:25:50+00",
+  "conditionId": "0x75534f99fc068fcba4200a8ed6721c6d9f83148c473d7c2a4708ae2682a9671e",
+  "slug": "will-vladimir-putin-attend-presidential-inauguration",
+  "question": "Will Vladimir Putin attend presidential inauguration?"
+}

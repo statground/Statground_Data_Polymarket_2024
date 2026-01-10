@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:46:08.023761Z",
+  "market_createdAt": "2024-10-18T20:46:08.023761Z",
+  "market_updatedAt": "2024-10-21T23:37:11.012216Z",
+  "market_startDate": "2024-10-18T23:16:29.185271Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:09:54+00",
+  "conditionId": "0x435e3504f3d58c6aef10af6dbfeab77fa81b7aafb91bd08d8ceccf972a5b5040",
+  "slug": "will-trump-say-drill-baby-drill-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Drill baby drill\" during Pennsylvania town hall on October 20?"
+}

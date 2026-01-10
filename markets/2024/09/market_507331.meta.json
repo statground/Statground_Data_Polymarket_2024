@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:08:06.839000Z",
+  "market_createdAt": "2024-09-17T19:08:06.839Z",
+  "market_updatedAt": "2024-09-20T20:16:50.420931Z",
+  "market_startDate": "2024-09-17T22:37:07.832859Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-19 21:51:18+00",
+  "conditionId": "0x623a825e67c716d7b0901020911e54b75759294633709ea28dc90e10018fc67c",
+  "slug": "will-feyenoord-beat-bayer-leverkusen",
+  "question": "Will Feyenoord beat Bayer Leverkusen?"
+}

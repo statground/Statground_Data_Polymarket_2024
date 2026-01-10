@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:07:35.465633Z",
+  "market_createdAt": "2024-12-29T05:07:35.465633Z",
+  "market_updatedAt": "2025-01-05T05:21:19.37077Z",
+  "market_startDate": "2024-12-29T05:09:59.927761Z",
+  "market_endDate": "2025-01-11T01:00:00Z",
+  "market_closedTime": "2025-01-04 05:31:22+00",
+  "conditionId": "0xcc619e24714ed324f92437723c4ae5ed5fb726b06ee5ea52fd75ca9553d94b0b",
+  "slug": "nba-bos-hou-2025-01-03",
+  "question": "Celtics vs. Rockets"
+}

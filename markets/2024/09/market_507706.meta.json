@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T15:45:49.381993Z",
+  "market_createdAt": "2024-09-23T15:45:49.381993Z",
+  "market_updatedAt": "2025-01-02T10:11:08.804515Z",
+  "market_startDate": "2024-09-23T17:41:19.456841Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 10:28:36+00",
+  "conditionId": "0xcbc596c7f92eea16cd3e5609c5074cfdb6ed76e919e3af890a4776ceb1247cf3",
+  "slug": "will-berachain-launch-a-token-in-december",
+  "question": "Will Berachain launch a token in December?"
+}

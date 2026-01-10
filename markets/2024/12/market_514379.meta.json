@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:18:55.933790Z",
+  "market_createdAt": "2024-12-02T17:18:55.93379Z",
+  "market_updatedAt": "2024-12-06T04:13:27.800255Z",
+  "market_startDate": "2024-12-02T17:53:47.677172Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-05 05:11:02+00",
+  "conditionId": "0x54c8a74b3c1ff31923f7a9d6dc33f4ff1c037828ce0e9e64a1d377b6d27d7dd0",
+  "slug": "will-ethereum-hit-3900-in-december",
+  "question": "Will Ethereum hit $3,900 in December?"
+}

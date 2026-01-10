@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:42:12.521402Z",
+  "market_createdAt": "2024-07-18T20:42:12.521402Z",
+  "market_updatedAt": "2024-07-20T05:02:41.895913Z",
+  "market_startDate": "2024-07-18T20:49:52.191Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:09:34+00",
+  "conditionId": "0x8e8b07f8caaa47c4e354c818fe1c387b2b01eec3957b6c4e6e465d3fd2bb44d3",
+  "slug": "trump-speech-ou-30-min",
+  "question": "Trump RNC Speech: O/U 30 minutes?"
+}

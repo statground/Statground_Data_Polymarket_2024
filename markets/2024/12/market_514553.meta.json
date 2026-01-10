@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T16:13:24.974389Z",
+  "market_createdAt": "2024-12-03T16:13:24.974389Z",
+  "market_updatedAt": "2024-12-04T00:04:59.644129Z",
+  "market_startDate": "2024-12-03T20:12:25.291Z",
+  "market_endDate": "2024-12-03T12:00:00Z",
+  "market_closedTime": "2024-12-04 00:01:56+00",
+  "conditionId": "0xcad04229f451685405e3d570438c36e993b8307238ecb5b40e0e1ebfb72d7bc9",
+  "slug": "german-cup-bayern-munich-vs-bayer-leverkusen",
+  "question": "German Cup: Bayern Munich vs. Bayer Leverkusen"
+}

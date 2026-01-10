@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T00:06:19.550231Z",
+  "market_createdAt": "2024-11-26T00:06:19.550231Z",
+  "market_updatedAt": "2025-02-05T10:23:10.874918Z",
+  "market_startDate": "2024-11-26T00:17:23.311Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-04 10:52:42+00",
+  "conditionId": "0x66a86bed2460bb982e1a9a22d111b08bea41349423ef9e8669570e488cf96de0",
+  "slug": "will-trump-impose-25-tariff-on-mexicocanada",
+  "question": "Will Trump impose 25% tariff on Mexico or Canada before February?"
+}

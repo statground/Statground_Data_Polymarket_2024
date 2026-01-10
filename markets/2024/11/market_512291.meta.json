@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:26:05.232394Z",
+  "market_createdAt": "2024-11-07T19:26:05.232394Z",
+  "market_updatedAt": "2024-11-21T02:29:04.25574Z",
+  "market_startDate": "2024-11-07T22:20:18.358Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-20 06:00:03+00",
+  "conditionId": "0x1bd207ba59a67c64a86a35691fe00fc511a0c02d0f9f186885b7f3ca0304dacb",
+  "slug": "will-trump-nominate-betsy-devos-for-education-secretary",
+  "question": "Will Trump nominate Betsy DeVos for Education Secretary?"
+}

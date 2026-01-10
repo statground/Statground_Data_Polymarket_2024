@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515844",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:20:21.833384Z",
+  "market_createdAt": "2024-12-17T17:20:21.833384Z",
+  "market_updatedAt": "2025-05-08T00:22:22.93364Z",
+  "market_startDate": "2024-12-18T15:12:35.735675Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:12:40+00",
+  "conditionId": "0xa617522831505d1072fec355a8397c857e5570d6eb9156e11226eff9acd3c259",
+  "slug": "will-bsw-be-part-of-the-next-german-government",
+  "question": "Will BSW be part of the next German government?"
+}

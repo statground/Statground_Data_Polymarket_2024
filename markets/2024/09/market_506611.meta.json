@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:14:11.183771Z",
+  "market_createdAt": "2024-09-08T00:14:11.183771Z",
+  "market_updatedAt": "2024-09-09T15:21:10.422586Z",
+  "market_startDate": "2024-09-08T01:50:32.074858Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:30:04+00",
+  "conditionId": "0xf36ee790f6198a9423c9aea2b22e3fb83485bc15140889bc72cfe0d09b66e8c5",
+  "slug": "will-the-dolphins-win-by-4-or-more-points",
+  "question": "Will the Dolphins win by 4 or more points?"
+}

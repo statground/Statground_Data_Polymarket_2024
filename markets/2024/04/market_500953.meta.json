@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T17:33:08.760433Z",
+  "market_createdAt": "2024-04-15T17:33:08.760433Z",
+  "market_updatedAt": "2024-05-07T23:09:26.148484Z",
+  "market_startDate": "2024-04-15T18:20:02.071Z",
+  "market_endDate": "2024-04-17T12:00:00Z",
+  "market_closedTime": "2024-04-18 06:08:42+00",
+  "conditionId": "0x5ff36a6b4206c8bc53b948fb00be85d51a2afcbb74def06fbaa63f096063b4d2",
+  "slug": "nba-play-in-hawks-vs-bulls",
+  "question": "NBA Play-In: Hawks vs Bulls"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T19:00:16.123608Z",
+  "market_createdAt": "2024-10-14T19:00:16.123608Z",
+  "market_updatedAt": "2024-10-21T22:03:19.86018Z",
+  "market_startDate": "2024-10-14T19:02:28.674267Z",
+  "market_endDate": "2024-10-20T17:00:00Z",
+  "market_closedTime": "2024-10-20 22:05:42+00",
+  "conditionId": "0x8a7bea6ab6dba51fd3c06f6e95fcddef87843a3eca3578be85133d518a160d11",
+  "slug": "nfl-sea-atl-2024-10-20",
+  "question": "Seahawks vs. Falcons"
+}

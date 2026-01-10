@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:13:48.755617Z",
+  "market_createdAt": "2024-09-13T20:13:48.755617Z",
+  "market_updatedAt": "2024-10-28T20:02:52.319658Z",
+  "market_startDate": "2024-09-13T23:02:22.11Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-28 05:15:14+00",
+  "conditionId": "0x6482b5ba050ccce8a118a925029c98b18ed83255effbb42d256dd29b4cbb9ddc",
+  "slug": "will-dsvl-win-the-most-seats-in-the-2024-lithuania-legislative-election",
+  "question": "Will DSVL win the most seats in the 2024 Lithuania legislative election?"
+}

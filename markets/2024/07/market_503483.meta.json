@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T15:53:32.985906Z",
+  "market_createdAt": "2024-07-15T15:53:32.985906Z",
+  "market_updatedAt": "2024-07-19T03:38:38.380946Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-18 05:16:51+00",
+  "conditionId": "0x71c709806ee094ac0e3112d1c4bc84136d9c9134d59ac57bffa181e4517131a1",
+  "slug": "will-jordan-griff-win-the-wsop-main-event",
+  "question": "Will Jordan Griff win the WSOP main event?"
+}

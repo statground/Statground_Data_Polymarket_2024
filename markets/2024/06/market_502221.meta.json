@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T17:59:33.545090Z",
+  "market_createdAt": "2024-06-07T17:59:33.54509Z",
+  "market_updatedAt": "2024-06-08T20:36:19.574555Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-07 20:36:14+00",
+  "conditionId": "0x105648a1b708ebb06f575764df9352f51c3c810d6e5198c582d61a04acd40b4f",
+  "slug": "will-cobratate-burn-his-topg",
+  "question": "Will @Cobratate burn his $TOPG?"
+}

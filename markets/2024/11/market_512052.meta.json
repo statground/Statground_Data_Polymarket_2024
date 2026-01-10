@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:05:42.324789Z",
+  "market_createdAt": "2024-11-05T19:05:42.324789Z",
+  "market_updatedAt": "2024-11-11T23:13:14.523598Z",
+  "market_startDate": "2024-11-05T19:08:25.177676Z",
+  "market_endDate": "2024-11-10T18:00:00Z",
+  "market_closedTime": "2024-11-10 23:21:56+00",
+  "conditionId": "0x8b2dd47a5037334b15b5e7ffaef7e5368397930c64229d7359369c262588708c",
+  "slug": "nfl-buf-ind-2024-11-10",
+  "question": "Bills vs. Colts"
+}

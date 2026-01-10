@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:16:09.778262Z",
+  "market_createdAt": "2024-10-09T17:16:09.778262Z",
+  "market_updatedAt": "2025-04-14T04:26:49.769472Z",
+  "market_startDate": "2024-10-10T20:16:54.004188Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:23:52+00",
+  "conditionId": "0x53e30386f2c5956567a433f3ecc872dc916d6e848c734c894b46e7aa32c42f94",
+  "slug": "will-kyrie-irving-lead-the-nba-in-scoring",
+  "question": "Will Kyrie Irving lead the NBA in scoring?"
+}

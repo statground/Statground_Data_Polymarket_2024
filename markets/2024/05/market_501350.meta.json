@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:51:47.436624Z",
+  "market_createdAt": "2024-05-02T16:51:47.436624Z",
+  "market_updatedAt": "2024-05-07T23:09:35.613188Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:29:38+00",
+  "conditionId": "0xa17cc445abcf65287b0b7801d73af83166910628619ecd199f486edf51586f66",
+  "slug": "will-mystik-dan-win-the-2024-kentucky-derby",
+  "question": "Will Mystik Dan win the 2024 Kentucky Derby?"
+}

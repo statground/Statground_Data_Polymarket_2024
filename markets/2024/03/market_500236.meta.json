@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:15:49.711848Z",
+  "market_createdAt": "2024-03-18T15:15:49.711848Z",
+  "market_updatedAt": "2024-05-07T23:09:37.808134Z",
+  "market_startDate": "2024-03-18T18:58:04.353Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-23 07:15:35+00",
+  "conditionId": "0xa6a47d603cf8d3c112ece7392f25d5e4fd96e80919351bf90e91f6ae50da6ed5",
+  "slug": "will-wisconsin-win-the-ncaa-tournament",
+  "question": "Will Wisconsin win the NCAA tournament?"
+}

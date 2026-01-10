@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T16:56:43.086579Z",
+  "market_createdAt": "2024-09-19T16:56:43.086579Z",
+  "market_updatedAt": "2024-09-24T22:52:39.394558Z",
+  "market_startDate": "2024-09-19T17:55:09.142275Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 06:12:37+00",
+  "conditionId": "0x245c92306b9775655fd9fce06829f7872bb988275b0bc00bc6b4bc15fb35e652",
+  "slug": "will-there-be-751-775-points-scored-nfl-week-3",
+  "question": "Will there be 751-775 points scored NFL Week 3?"
+}

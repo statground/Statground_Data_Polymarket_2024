@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T19:29:55.810017Z",
+  "market_createdAt": "2024-12-18T19:29:55.810017Z",
+  "market_updatedAt": "2024-12-21T00:35:00.791921Z",
+  "market_startDate": "2024-12-18T19:51:04.575085Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 04:13:21+00",
+  "conditionId": "0xa627dc27d8233f262a2b3685c0732caf53208a04e0b6575b23bb746a640159a8",
+  "slug": "will-210-or-more-republicans-vote-in-favor-of-government-funding-bill",
+  "question": "Will 210 or more Republicans vote in favor of government funding bill?"
+}

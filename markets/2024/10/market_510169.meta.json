@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T18:00:41.169030Z",
+  "market_createdAt": "2024-10-18T18:00:41.16903Z",
+  "market_updatedAt": "2024-10-21T01:40:41.101089Z",
+  "market_startDate": "2024-10-18T23:06:41.663808Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:09:22+00",
+  "conditionId": "0x16e3b32c3985ac809fb0d532935552c961f9099ae07dbbccd0c9a63ba0a552da",
+  "slug": "will-kansas-state-beat-west-virginia",
+  "question": "Will Kansas State beat West Virginia?"
+}

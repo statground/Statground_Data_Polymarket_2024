@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:57:29.182070Z",
+  "market_createdAt": "2024-12-09T21:57:29.18207Z",
+  "market_updatedAt": "2024-12-12T22:39:08.369021Z",
+  "market_startDate": "2024-12-10T21:50:00.136208Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:33:08+00",
+  "conditionId": "0xa67d754fc43027e67508ab18a46301a5a14b3f83c6f7372f2522f4585059e752",
+  "slug": "will-red-star-belgrade-beat-ac-milan",
+  "question": "Will Red Star Belgrade beat AC Milan?"
+}

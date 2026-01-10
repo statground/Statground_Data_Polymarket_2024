@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:44:50.644773Z",
+  "market_createdAt": "2024-10-24T19:44:50.644773Z",
+  "market_updatedAt": "2024-10-27T05:56:55.219991Z",
+  "market_startDate": "2024-10-24T20:19:19.489834Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:56:47+00",
+  "conditionId": "0x46f50654d0c95d42510ca15c0616ec88634b4c3fb4bd0a832d3aa78bc96aa7b3",
+  "slug": "will-trump-say-mexico-5-or-more-times-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"Mexico\" 5 or more times during Michigan rally on October 25?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T19:59:57.107562Z",
+  "market_createdAt": "2024-11-22T19:59:57.107562Z",
+  "market_updatedAt": "2024-12-14T07:25:08.434956Z",
+  "market_startDate": "2024-11-22T22:40:47.951953Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 07:21:40+00",
+  "conditionId": "0xa5aeffa26126c3a16e21e7331c3fe7fe4e7895fe9af17885fb2fdf903c0e8e27",
+  "slug": "will-astro-bot-win-game-of-the-year",
+  "question": "Will 'Astro Bot' win Game of the Year?"
+}

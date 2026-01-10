@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:01:34.891480Z",
+  "market_createdAt": "2024-11-17T05:01:34.89148Z",
+  "market_updatedAt": "2024-11-20T04:45:06.568209Z",
+  "market_startDate": "2024-11-17T05:04:00.994777Z",
+  "market_endDate": "2024-11-26T00:30:00Z",
+  "market_closedTime": "2024-11-19 04:51:50+00",
+  "conditionId": "0x59e2567e1d91b3f0a8faceec91866f0100719981651a935841e0185f9179b199",
+  "slug": "nba-was-nyk-2024-11-18",
+  "question": "Wizards vs. Knicks"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T21:42:07.327000Z",
+  "market_createdAt": "2024-01-18T21:42:07.327Z",
+  "market_updatedAt": "2024-05-07T23:09:34.020127Z",
+  "market_startDate": "2024-01-18T22:51:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2024-03-21 20:35:12+00",
+  "conditionId": "0x789f7487df2ef41e24d5eef3104cb5fdaa47561efaf2773ad155087170c89582",
+  "slug": "no-reddit-ipo-in-2024",
+  "question": "No Reddit IPO in 2024"
+}

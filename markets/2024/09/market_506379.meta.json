@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T16:45:17.455096Z",
+  "market_createdAt": "2024-09-04T16:45:17.455096Z",
+  "market_updatedAt": "2024-09-12T11:27:08.626095Z",
+  "market_startDate": "2024-09-04T17:08:04.948Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 11:33:37+00",
+  "conditionId": "0xd0b2c6e9efa7eaea84f8deed0bce2fd99148fe99ba238bd9016ae9367fec7e65",
+  "slug": "who-will-speak-more-at-the-next-debate",
+  "question": "Who will speak more at the debate?"
+}

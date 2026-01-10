@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:48:10.679105Z",
+  "market_createdAt": "2024-10-11T15:48:10.679105Z",
+  "market_updatedAt": "2024-10-14T02:22:45.053422Z",
+  "market_startDate": "2024-10-11T19:11:18.214634Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 04:57:01+00",
+  "conditionId": "0x2682b9d7f77654ae4f634554ca9592b053f26a776f2fae3e88739c2fa03bbb60",
+  "slug": "will-tennessee-beat-florida-by-15-or-more-points",
+  "question": "Will Tennessee beat Florida by 15 or more points?"
+}

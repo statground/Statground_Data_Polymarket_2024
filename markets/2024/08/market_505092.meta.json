@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T15:52:29.535783Z",
+  "market_createdAt": "2024-08-14T15:52:29.535783Z",
+  "market_updatedAt": "2024-08-17T00:21:01.751294Z",
+  "market_startDate": "2024-08-14T17:27:51.575Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 00:18:51+00",
+  "conditionId": "0x460744b85a97f85394fe4cbc6d7bb3cabcfbdd43828016c7482ad473b34a691a",
+  "slug": "will-trump-say-crypto-at-his-press-conference",
+  "question": "Will Trump say \"Crypto\" at his press conference?"
+}

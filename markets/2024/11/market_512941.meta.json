@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T21:06:34.465368Z",
+  "market_createdAt": "2024-11-12T21:06:34.465368Z",
+  "market_updatedAt": "2024-12-07T16:05:11.388789Z",
+  "market_startDate": "2024-11-12T21:40:16.769Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 16:50:42+00",
+  "conditionId": "0xf2ea6d9c3745d7b2fd81f7dea7de396ae5704ed861896873f57e65ec48cb2a34",
+  "slug": "will-the-us-gain-more-than-250000-jobs-in-november",
+  "question": "Will the US gain more than 250,000 jobs in November?"
+}

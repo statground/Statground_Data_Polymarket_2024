@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T16:23:52.031527Z",
+  "market_createdAt": "2024-06-18T16:23:52.031527Z",
+  "market_updatedAt": "2024-06-29T07:46:05.375523Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:57:17+00",
+  "conditionId": "0x201a75b2e8518520508b463dc880dc6dd69592b86014ccb6474842f8f9a0648a",
+  "slug": "biden-stumbles-during-debate",
+  "question": "Biden stumbles during debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T15:06:01.016986Z",
+  "market_createdAt": "2024-10-28T15:06:01.016986Z",
+  "market_updatedAt": "2024-10-31T02:43:10.164138Z",
+  "market_startDate": "2024-10-28T15:40:02.806079Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 03:25:02+00",
+  "conditionId": "0x4d904f3b6fbd5d02320d753f32fd8d14d9c5af86b1ebfef4b5a2fda331cdcc19",
+  "slug": "will-trump-say-hitler-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"Hitler\" during Pennsylvania rally on Oct 29?"
+}

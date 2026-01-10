@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:19:57.902785Z",
+  "market_createdAt": "2024-11-02T21:19:57.902785Z",
+  "market_updatedAt": "2024-11-06T10:27:12.037044Z",
+  "market_startDate": "2024-11-02T22:58:00.322Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 10:51:22+00",
+  "conditionId": "0x6271af3f6beef98cd2bfb562fbd89007a55797923538c7117d7e9aab3007b8d4",
+  "slug": "will-trump-say-hell-20-or-more-times-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"hell\" 20 or more times during Michigan rally on Nov 4?"
+}

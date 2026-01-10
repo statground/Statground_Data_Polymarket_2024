@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:35:44.016682Z",
+  "market_createdAt": "2024-10-22T16:35:44.016682Z",
+  "market_updatedAt": "2024-10-29T01:57:08.407016Z",
+  "market_startDate": "2024-10-22T22:31:01.817Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:52:49+00",
+  "conditionId": "0x3fb3044d16f8e088cd47a165a4dc91b2450c764e530fcc8b310f9a6aa9fc0b5b",
+  "slug": "will-trump-say-god-5-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"god\" 5 or more times during New York rally on October 27?"
+}

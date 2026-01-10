@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T03:46:14.196889Z",
+  "market_createdAt": "2024-08-16T03:46:14.196889Z",
+  "market_updatedAt": "2024-09-02T10:07:06.751378Z",
+  "market_startDate": "2024-08-16T15:15:20.138Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 10:03:08+00",
+  "conditionId": "0xcc258b277c3a36a7b2c8007ee964b96157b2f970a7b30b0d8d40df898285ff28",
+  "slug": "taylor-lorenz-fired-from-washington-post",
+  "question": "Taylor Lorenz leaves WaPo in August?"
+}

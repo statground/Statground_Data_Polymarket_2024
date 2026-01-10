@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:23:19.007994Z",
+  "market_createdAt": "2024-10-07T19:23:19.007994Z",
+  "market_updatedAt": "2025-05-23T23:01:21.739663Z",
+  "market_startDate": "2024-10-08T14:54:38.008634Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-05 08:14:24+00",
+  "conditionId": "0x52933e0208f96c9d8339d686c410cd5a188d9585555996874315d1a534141825",
+  "slug": "will-the-st-louis-blues-win-the-2025-stanley-cup",
+  "question": "Will the St. Louis Blues win the 2025 Stanley Cup?"
+}

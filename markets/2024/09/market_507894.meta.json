@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:34:33.830533Z",
+  "market_createdAt": "2024-09-24T15:34:33.830533Z",
+  "market_updatedAt": "2025-05-24T06:35:20.773329Z",
+  "market_startDate": "2024-09-24T18:01:14.843Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-02 06:13:03+00",
+  "conditionId": "0x37963e2b3194455fe768cd470571640c758c049b7cda6967449a43a8bd5c835f",
+  "slug": "will-the-toronto-raptors-win-the-2025-nba-finals",
+  "question": "Will the Toronto Raptors win the 2025 NBA Finals?"
+}

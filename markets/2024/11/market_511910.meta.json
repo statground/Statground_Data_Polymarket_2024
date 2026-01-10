@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:34:54.699522Z",
+  "market_createdAt": "2024-11-04T18:34:54.699522Z",
+  "market_updatedAt": "2024-11-09T05:26:59.488774Z",
+  "market_startDate": "2024-11-04T18:38:05.196279Z",
+  "market_endDate": "2024-11-08T01:00:00Z",
+  "market_closedTime": "2024-11-08 05:23:15+00",
+  "conditionId": "0x20ad007812089b0cf23b12b62ea05e7427a1ecf2504609716e230f6567480def",
+  "slug": "nba-min-chi-2024-11-07",
+  "question": "Timberwolves vs. Bulls"
+}

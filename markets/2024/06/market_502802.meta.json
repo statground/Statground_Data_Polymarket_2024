@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T16:18:14.322589Z",
+  "market_createdAt": "2024-06-24T16:18:14.322589Z",
+  "market_updatedAt": "2024-07-09T05:00:44.861217Z",
+  "market_startDate": "2024-06-24T16:59:12.307Z",
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 05:02:44+00",
+  "conditionId": "0x7bf82abf3881cb54659acec1246f9d0d004e0ba206e1f5f1fd2dc0f93da319b3",
+  "slug": "will-ens-win-the-most-seats-in-the-french-election",
+  "question": "Will ENS win the most seats in the French election?"
+}

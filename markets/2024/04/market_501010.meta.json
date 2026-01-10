@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T20:54:12.824096Z",
+  "market_createdAt": "2024-04-16T20:54:12.824096Z",
+  "market_updatedAt": "2024-05-10T22:59:03.38744Z",
+  "market_startDate": "2024-04-17T22:24:30.101Z",
+  "market_endDate": "2024-05-09T12:00:00Z",
+  "market_closedTime": "2024-05-10 12:48:52+00",
+  "conditionId": "0xf64c280c41c05222a88f58003af80a7f79d6fade181fb261a1bb718f1c3a4426",
+  "slug": "will-russia-control-chasiv-yar-on-may-9",
+  "question": "Will Russia control Chasiv Yar on May 9?"
+}

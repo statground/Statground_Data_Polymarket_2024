@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:31:24.035642Z",
+  "market_createdAt": "2024-06-21T16:31:24.035642Z",
+  "market_updatedAt": "2024-11-10T16:38:49.118649Z",
+  "market_startDate": "2024-06-21T16:31:24.035642Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 23:33:46+00",
+  "conditionId": "0xb5302159c56d53629bac419423aa4b67f8d116d8ff79449886c9aa705aef15cb",
+  "slug": "will-mark-farrell-win-the-san-francisco-mayoral-election",
+  "question": "Will Mark Farrell win the San Francisco Mayoral Election?"
+}

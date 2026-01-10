@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T19:10:20.734208Z",
+  "market_createdAt": "2024-09-16T19:10:20.734208Z",
+  "market_updatedAt": "2024-09-23T21:06:47.656588Z",
+  "market_startDate": "2024-09-16T19:12:42.050764Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:17:28+00",
+  "conditionId": "0x103fa51edb3629ddfa0454dfd2521b9dd595c13f0f48434ab5325f897c36a5cf",
+  "slug": "nfl-tb-den-2024-09-22",
+  "question": "Buccaneers vs. Broncos"
+}

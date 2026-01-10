@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T22:44:45.144918Z",
+  "market_createdAt": "2024-10-27T22:44:45.144918Z",
+  "market_updatedAt": "2024-11-10T23:54:46.193431Z",
+  "market_startDate": "2024-10-28T16:12:19.845711Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:51:53+00",
+  "conditionId": "0xbfccf66c13a7a26c92bf9b41c69805441ea19279c6aa0e37f6d7aac4de8b197f",
+  "slug": "will-538-call-fewer-than-43-states-correctly",
+  "question": "Will 538 call fewer than 43 states correctly?"
+}

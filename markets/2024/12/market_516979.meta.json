@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:35:47.713387Z",
+  "market_createdAt": "2024-12-31T20:35:47.713387Z",
+  "market_updatedAt": "2025-07-01T16:24:43.862889Z",
+  "market_startDate": "2024-12-31T20:48:36.498Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:25:22+00",
+  "conditionId": "0x9179d7a449f793cfd23ab12d3913f012877d05dfc1d57901cb4d8cb5bb97d7ed",
+  "slug": "will-openai-have-the-top-ai-model-on-june-30",
+  "question": "Will OpenAI have the top AI model on June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:01:07.348019Z",
+  "market_createdAt": "2024-12-22T07:01:07.348019Z",
+  "market_updatedAt": "2024-12-24T01:21:45.784734Z",
+  "market_startDate": "2024-12-22T07:04:12.889361Z",
+  "market_endDate": "2024-12-29T22:00:00Z",
+  "market_closedTime": "2024-12-23 03:02:27+00",
+  "conditionId": "0x81577daffabbc8c9beab27751fcb515e83294ff2f09514d8e0a0290f64bac096",
+  "slug": "nhl-ana-utah-2024-12-22",
+  "question": "Ducks vs. Utah"
+}

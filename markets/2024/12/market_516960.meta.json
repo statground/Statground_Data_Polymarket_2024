@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:50:52.220468Z",
+  "market_createdAt": "2024-12-31T19:50:52.220468Z",
+  "market_updatedAt": "2026-01-02T00:30:45.554397Z",
+  "market_startDate": "2024-12-31T20:17:31.209Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:37:59+00",
+  "conditionId": "0x7d98815be880769be11a63b4df815b9bdcbf6ae007a8caaba9a2909816a8d1c6",
+  "slug": "which-company-has-best-ai-model-end-of-2025",
+  "question": "Will Google have the top AI model on December 31?"
+}

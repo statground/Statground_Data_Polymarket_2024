@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-03T17:06:14.264000Z",
+  "market_createdAt": "2024-01-03T17:06:14.264Z",
+  "market_updatedAt": "2025-01-01T08:40:51.321214Z",
+  "market_startDate": "2024-01-03T17:38:48.128Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:37:44+00",
+  "conditionId": "0x715a00736b0e47286256eed499755204dc6750942c262ef79624579b4dfa04a1",
+  "slug": "meissner-effect-confirmed-near-room-temperature",
+  "question": "Meissner effect confirmed near room temperature?"
+}

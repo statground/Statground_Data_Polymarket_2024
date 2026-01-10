@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T18:51:59.002418Z",
+  "market_createdAt": "2024-06-21T18:51:59.002418Z",
+  "market_updatedAt": "2024-07-09T01:50:44.816417Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 04:52:11+00",
+  "conditionId": "0xe75a25fdd9b07b4f791ee74239d36b367ea451388086245c9d47ac5d07bf0949",
+  "slug": "will-ensemble-win-between-90-and-109-seats-in-the-french-election",
+  "question": "Will Ensemble win between 90 and 109 seats in the French election?"
+}

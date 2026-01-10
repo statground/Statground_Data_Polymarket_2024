@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T16:59:35.335259Z",
+  "market_createdAt": "2024-10-28T16:59:35.335259Z",
+  "market_updatedAt": "2025-01-01T08:45:50.477196Z",
+  "market_startDate": "2024-10-28T17:11:05.829855Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:42:46+00",
+  "conditionId": "0x701f1cb91ebe5eac68667edcb5237720093fef69dff7886f2f5c6b3ec073397a",
+  "slug": "lunchly-recall-in-2024",
+  "question": "Lunchly recall in 2024?"
+}

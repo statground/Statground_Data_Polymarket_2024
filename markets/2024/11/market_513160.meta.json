@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513160",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:05:42.722098Z",
+  "market_createdAt": "2024-11-15T19:05:42.722098Z",
+  "market_updatedAt": "2024-11-17T21:39:18.324638Z",
+  "market_startDate": "2024-11-15T22:07:50.777536Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:44:37+00",
+  "conditionId": "0xfb0c68b1989d67795c0354a8eb92387b094851cc39ed6dd94c89e65b161036ee",
+  "slug": "will-colorado-beat-utah",
+  "question": "Will Colorado beat Utah?"
+}

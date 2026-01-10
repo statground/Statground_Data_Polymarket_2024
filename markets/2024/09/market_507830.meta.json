@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:48:47.689901Z",
+  "market_createdAt": "2024-09-24T04:48:47.689901Z",
+  "market_updatedAt": "2024-09-30T21:52:43.307348Z",
+  "market_startDate": "2024-09-24T04:51:04.811139Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:20:18+00",
+  "conditionId": "0xcbe2d0aac9664d45eb36a19f54225eeb579ecd62937b253a6bb096395a443c8a",
+  "slug": "nfl-atl-no-2024-09-29",
+  "question": "Falcons vs. Saints"
+}

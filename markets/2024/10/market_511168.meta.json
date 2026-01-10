@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:02:23.704174Z",
+  "market_createdAt": "2024-10-28T20:02:23.704174Z",
+  "market_updatedAt": "2024-11-05T23:13:15.223432Z",
+  "market_startDate": "2024-10-28T20:05:03.278143Z",
+  "market_endDate": "2024-11-04T20:00:00Z",
+  "market_closedTime": "2024-11-05 01:08:39+00",
+  "conditionId": "0x21aedf185cfe4f032f334085f07d0a7c527365a4192b0d46448b329a771f3807",
+  "slug": "epl-ful-bre-2024-11-04-bre",
+  "question": "Will Brentford win on 2024-11-04?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T19:24:41.901000Z",
+  "market_createdAt": "2024-01-25T19:24:41.901Z",
+  "market_updatedAt": "2024-03-11T23:29:59.732Z",
+  "market_startDate": "2024-01-25T20:48:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 03:15:55+00",
+  "conditionId": "0x3512dd217d54d7ada92e767729cae2a80ebd8a0b66889eb27820b7875deca97c",
+  "slug": "will-oppenheimer-win-the-oscar-for-best-adapted-screenplay",
+  "question": "Will Oppenheimer win the Oscar for Best Adapted Screenplay?"
+}

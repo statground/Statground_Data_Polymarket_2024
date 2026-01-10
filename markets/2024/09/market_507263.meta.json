@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T21:17:44.698159Z",
+  "market_createdAt": "2024-09-16T21:17:44.698159Z",
+  "market_updatedAt": "2024-11-06T05:13:07.555067Z",
+  "market_startDate": "2024-09-16T21:21:45.296784Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:53:49+00",
+  "conditionId": "0x7601d65e5028c6df4c26f2eb0da6f9772a0ca9bc0c08fbce0cc599ef78c76259",
+  "slug": "will-joe-manchin-endorse-kamala",
+  "question": "Will Joe Manchin endorse Kamala?"
+}

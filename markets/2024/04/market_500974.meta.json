@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:39:20.927632Z",
+  "market_createdAt": "2024-04-15T20:39:20.927632Z",
+  "market_updatedAt": "2024-05-22T01:09:08.521825Z",
+  "market_startDate": "2024-04-16T16:50:51.667Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-21 06:59:46+00",
+  "conditionId": "0x50d3deba350e20d1406c3dbd5ea4c00b28f29df98ae03dafbd0ea31bef16e007",
+  "slug": "vancouver-canucks-win-the-2024-stanley-cup",
+  "question": "Vancouver Canucks win the 2024 Stanley Cup?"
+}

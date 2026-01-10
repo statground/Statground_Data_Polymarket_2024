@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:53:45.121004Z",
+  "market_createdAt": "2024-12-30T17:53:45.121004Z",
+  "market_updatedAt": "2025-04-01T06:58:08.073729Z",
+  "market_startDate": "2024-12-30T20:29:25.922612Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 06:55:18+00",
+  "conditionId": "0x5fa3d640473bc9bf6ff9ca798cc372e6a5e87fb8b631b3c7a30fd3acad149a59",
+  "slug": "farcaster-airdrop-in-q1-2025",
+  "question": "Farcaster airdrop in Q1 2025?"
+}

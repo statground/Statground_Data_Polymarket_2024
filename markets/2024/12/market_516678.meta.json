@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:06:58.868097Z",
+  "market_createdAt": "2024-12-29T07:06:58.868097Z",
+  "market_updatedAt": "2025-01-04T03:04:50.387082Z",
+  "market_startDate": "2024-12-29T07:09:36.668348Z",
+  "market_endDate": "2025-01-10T00:00:00Z",
+  "market_closedTime": "2025-01-03 04:57:47+00",
+  "conditionId": "0x3977838022197f794d2955d0e2580ba9115afe0fbcfd1b55c5fc8cc0c45b9452",
+  "slug": "nhl-det-cbj-2025-01-02",
+  "question": "Red Wings vs. Blue Jackets"
+}

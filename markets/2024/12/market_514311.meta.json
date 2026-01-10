@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:14:11.029236Z",
+  "market_createdAt": "2024-12-01T05:14:11.029236Z",
+  "market_updatedAt": "2024-12-08T05:11:24.599221Z",
+  "market_startDate": "2024-12-01T05:17:45.824463Z",
+  "market_endDate": "2024-12-14T01:00:00Z",
+  "market_closedTime": "2024-12-07 05:25:52+00",
+  "conditionId": "0x05f8d8eec79b9f893572299e807574eef79b07e9e128c558ca03adc59236f0ee",
+  "slug": "nba-sac-sas-2024-12-06",
+  "question": "Kings vs. Spurs"
+}

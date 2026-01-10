@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T11:35:44.786882Z",
+  "market_createdAt": "2024-09-15T11:35:44.786882Z",
+  "market_updatedAt": "2024-09-17T04:26:49.956775Z",
+  "market_startDate": "2024-09-15T11:45:06.463234Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 05:59:43+00",
+  "conditionId": "0x1983240613301f7b560232517fa49cbccc78b3c2e7f5bec34e89d4daa8d907ac",
+  "slug": "will-another-show-win-the-emmy-for-outstanding-limited-series",
+  "question": "Will another show win the Emmy for Outstanding Limited Series?"
+}

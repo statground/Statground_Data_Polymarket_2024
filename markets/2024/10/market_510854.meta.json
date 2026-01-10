@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T21:48:43.735783Z",
+  "market_createdAt": "2024-10-24T21:48:43.735783Z",
+  "market_updatedAt": "2024-12-12T23:21:10.124796Z",
+  "market_startDate": "2024-10-24T21:55:39.163Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 23:24:09+00",
+  "conditionId": "0x6c690bec3395d02419c4ab3fefbdcff6bc8e589eccc49a4d8d62cf51912e56d6",
+  "slug": "will-microsoft-shareholders-vote-for-bitcoin-investment",
+  "question": "MSFT shareholders vote for Bitcoin investment? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:13:41.557792Z",
+  "market_createdAt": "2024-08-27T19:13:41.557792Z",
+  "market_updatedAt": "2024-08-29T19:47:14.55146Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:37:06+00",
+  "conditionId": "0x6ed5fc123fb62ace878a53c0ae3452e831a4f8d4b395e3b4e1943277bb9a3003",
+  "slug": "will-jd-vance-say-comrade-kamala-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"Comrade Kamala\" during Pennsylvania rally?"
+}

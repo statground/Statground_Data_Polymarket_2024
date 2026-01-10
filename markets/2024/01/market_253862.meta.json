@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253862",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T21:24:29.071000Z",
+  "market_createdAt": "2024-01-12T21:24:29.071Z",
+  "market_updatedAt": "2024-01-29T22:01:42.521Z",
+  "market_startDate": "2024-01-17T00:05:49.593Z",
+  "market_endDate": "2024-01-26T00:00:00Z",
+  "market_closedTime": "2024-01-29 01:16:19+00",
+  "conditionId": "0x420fcc123beef1d4cba887bd68a0c430b910683915daea32ecec0f8bd65fe2f1",
+  "slug": "finnish-presidential-election-will-jussi-halla-aho-win",
+  "question": "Finnish Presidential Election: Will Jussi Halla-aho win?"
+}

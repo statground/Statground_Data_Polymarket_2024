@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:11:41.844588Z",
+  "market_createdAt": "2024-08-20T00:11:41.844588Z",
+  "market_updatedAt": "2024-08-23T05:17:06.739304Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:37:44+00",
+  "conditionId": "0xfe4877a7ad34ab2f20fdf9469eb994c56c2fa9060e2f9fe384a81541dc542724",
+  "slug": "will-walz-say-jd-or-vance-at-dnc-speech",
+  "question": "Will Walz say \"J.D.\" or \"Vance\" at DNC speech?"
+}

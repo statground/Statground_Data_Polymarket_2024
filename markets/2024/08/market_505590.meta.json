@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:38:23.018769Z",
+  "market_createdAt": "2024-08-21T20:38:23.018769Z",
+  "market_updatedAt": "2024-08-24T21:27:02.384295Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 21:54:27+00",
+  "conditionId": "0x1de126b7fef0c707f025b7bbd90bbe4f711e17fb6887af97c7206f2b59dff837",
+  "slug": "will-rfk-jr-say-bear-during-friday-address",
+  "question": "Will RFK Jr. say \"Bear\" during Friday address?"
+}

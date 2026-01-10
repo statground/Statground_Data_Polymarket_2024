@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:38:57.885787Z",
+  "market_createdAt": "2024-09-16T20:38:57.885787Z",
+  "market_updatedAt": "2024-10-01T18:16:41.625973Z",
+  "market_startDate": "2024-09-20T15:33:15.887969Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-30 18:12:37+00",
+  "conditionId": "0x0ede3a447d5d0d82db7ee2dffa61a1f7d064319414dc9826dcbaa23fdd52b37e",
+  "slug": "ethbtc-above-0pt04-on-september-30",
+  "question": "ETHBTC above 0.04 on September 30?"
+}

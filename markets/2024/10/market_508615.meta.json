@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:25:57.637537Z",
+  "market_createdAt": "2024-10-01T20:25:57.637537Z",
+  "market_updatedAt": "2025-04-21T00:24:27.694621Z",
+  "market_startDate": "2024-10-01T21:08:25.61126Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-04-20 19:29:50+00",
+  "conditionId": "0x2a7764f7e0845d6aef7971f7b584fe0fdaf231f2fa72a89c37cc3ae85f8c1632",
+  "slug": "will-everton-be-relegated",
+  "question": "Will Everton be relegated?"
+}

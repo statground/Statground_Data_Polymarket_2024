@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508836",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:30:47.203844Z",
+  "market_createdAt": "2024-10-04T15:30:47.203844Z",
+  "market_updatedAt": "2024-10-06T01:26:41.106543Z",
+  "market_startDate": "2024-10-04T18:21:56.900617Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 06:29:18+00",
+  "conditionId": "0x1438f359f265d14701b00152337c9740483ecff42c49bc56cf736a11150e51d4",
+  "slug": "will-oregon-beat-michigan-state",
+  "question": "Will Oregon beat Michigan State?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:24:37.745298Z",
+  "market_createdAt": "2024-10-02T20:24:37.745298Z",
+  "market_updatedAt": "2024-10-12T14:40:59.428533Z",
+  "market_startDate": "2024-10-02T21:48:55.706753Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-11 20:15:54+00",
+  "conditionId": "0xc27d80600d4c9d685ddf6d1ab74786a767a0bd752b100d758d48bf104da5b6a0",
+  "slug": "will-virtuspro-win-iem-rio-2024",
+  "question": "Will Virtus.pro win IEM Rio 2024?"
+}

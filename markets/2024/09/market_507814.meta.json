@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T21:10:33.419544Z",
+  "market_createdAt": "2024-09-23T21:10:33.419544Z",
+  "market_updatedAt": "2024-10-05T20:26:44.080267Z",
+  "market_startDate": "2024-09-24T01:33:12.994Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-04 20:23:48+00",
+  "conditionId": "0x41978edfccb79f26481d6b53bac4afb6cd70a206d00c3b8bc079df0fc1978145",
+  "slug": "will-russia-capture-vuhledar-before-october",
+  "question": "Will Russia capture Vuhledar before October? "
+}

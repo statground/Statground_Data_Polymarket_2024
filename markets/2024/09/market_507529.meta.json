@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:41:17.288369Z",
+  "market_createdAt": "2024-09-19T20:41:17.288369Z",
+  "market_updatedAt": "2024-12-16T04:35:27.340894Z",
+  "market_startDate": "2024-09-19T21:36:12.051468Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:36:53+00",
+  "conditionId": "0xbf711418704035b118bc54085d002962a77a0dd0d00a175465bcad90cb6125ab",
+  "slug": "will-ryan-williams-win-the-heisman-trophy",
+  "question": "Will Ryan Williams win the Heisman Trophy?"
+}

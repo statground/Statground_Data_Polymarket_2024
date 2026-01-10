@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T18:26:51.542285Z",
+  "market_createdAt": "2024-08-06T18:26:51.542285Z",
+  "market_updatedAt": "2024-09-22T02:46:45.591158Z",
+  "market_startDate": "2024-08-06T19:41:57.011Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-09-21 04:33:15+00",
+  "conditionId": "0x98ea5d4c86219f4fb15c945e9298c7400843eb3e2ca522aa9a66251fe188bfdd",
+  "slug": "who-will-raise-more-in-august",
+  "question": "Who will raise more in August?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:03:55.184278Z",
+  "market_createdAt": "2024-12-22T05:03:55.184278Z",
+  "market_updatedAt": "2024-12-25T05:35:27.956831Z",
+  "market_startDate": "2024-12-22T05:06:26.676267Z",
+  "market_endDate": "2024-12-31T01:00:00Z",
+  "market_closedTime": "2024-12-24 05:38:47+00",
+  "conditionId": "0x4af3bdad84b6b6000c6ec3ebd0b7faa26536ce402a56f9f365ce31807ea41188",
+  "slug": "nba-lac-mem-2024-12-23",
+  "question": "Clippers vs. Grizzlies"
+}

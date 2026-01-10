@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:03:05.778500Z",
+  "market_createdAt": "2024-11-08T22:03:05.7785Z",
+  "market_updatedAt": "2024-11-24T04:10:50.336086Z",
+  "market_startDate": "2024-11-14T01:44:15.327Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:34:39+00",
+  "conditionId": "0x7ee432eb3d12cc47dfb7aed2687437642f44745c40f486cfcb1f01bf8f7426fa",
+  "slug": "will-trump-nominate-larry-fink-for-treasury-secretary",
+  "question": "Will Trump nominate Larry Fink for Treasury Secretary?"
+}

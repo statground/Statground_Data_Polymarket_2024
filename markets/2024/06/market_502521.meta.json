@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T15:04:59.749527Z",
+  "market_createdAt": "2024-06-17T15:04:59.749527Z",
+  "market_updatedAt": "2024-06-18T21:01:19.379038Z",
+  "market_startDate": "2024-06-17T15:16:51.925Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-06-18 00:06:38+00",
+  "conditionId": "0xd1e991f4c6f09fa6c127e772808f75a614ad57bcafcae344fc58233bf87fe8f9",
+  "slug": "will-austria-win",
+  "question": "Will Austria win?"
+}

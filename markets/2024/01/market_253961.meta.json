@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T19:08:46.732000Z",
+  "market_createdAt": "2024-01-17T19:08:46.732Z",
+  "market_updatedAt": "2024-03-12T01:42:04.632Z",
+  "market_startDate": "2024-01-17T23:41:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:02:17+00",
+  "conditionId": "0xc6ea348dce1867d63836bf12bde5b46acd0b9af0713db61f104ffaf9b6402e88",
+  "slug": "will-cillian-murphy-win-the-oscar-for-best-actor",
+  "question": "Will Cillian Murphy win the Oscar for Best Actor?"
+}

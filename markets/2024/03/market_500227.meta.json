@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:46:35.512862Z",
+  "market_createdAt": "2024-03-18T14:46:35.512862Z",
+  "market_updatedAt": "2024-05-07T23:09:53.685141Z",
+  "market_startDate": "2024-03-18T18:54:30.5Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-22 04:44:15+00",
+  "conditionId": "0x2b2a33541c11d19ea0941b516f7e881d29a68b2ce78a6ce0b0841f945c06d6f0",
+  "slug": "will-kentucky-win-the-ncaa-tournament",
+  "question": "Will Kentucky win the NCAA tournament?"
+}

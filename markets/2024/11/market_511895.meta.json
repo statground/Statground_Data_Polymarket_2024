@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:27:33.181795Z",
+  "market_createdAt": "2024-11-04T18:27:33.181795Z",
+  "market_updatedAt": "2024-11-08T05:09:03.914174Z",
+  "market_startDate": "2024-11-04T18:30:38.7071Z",
+  "market_endDate": "2024-11-07T00:00:00Z",
+  "market_closedTime": "2024-11-07 05:03:59+00",
+  "conditionId": "0x322a7d2d1bc4eb8f657cbd413d0df31605a6694930281b75cedd8f379eab7942",
+  "slug": "nba-orl-ind-2024-11-06",
+  "question": "Magic vs. Pacers"
+}

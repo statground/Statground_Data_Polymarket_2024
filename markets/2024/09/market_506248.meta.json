@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:21:38.723287Z",
+  "market_createdAt": "2024-09-03T04:21:38.723287Z",
+  "market_updatedAt": "2024-09-04T18:47:10.299473Z",
+  "market_startDate": "2024-09-03T05:05:37.507878Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 19:02:15+00",
+  "conditionId": "0x9656093d70aa5b09b0e6a7249274d6deb4246a0e972c61b8548a431101049534",
+  "slug": "will-trump-say-crypto-during-lex-interview",
+  "question": "Will Trump say \"Crypto\" during Lex interview?"
+}

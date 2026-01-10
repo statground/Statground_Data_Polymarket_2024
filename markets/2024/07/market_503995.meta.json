@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:14:12.653173Z",
+  "market_createdAt": "2024-07-22T17:14:12.653173Z",
+  "market_updatedAt": "2024-07-29T05:53:01.473084Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 06:17:46+00",
+  "conditionId": "0x4021abf3f7792c8c11d9c4359bedcbe2bd5ec8e8a401fb601157bc5a00b38487",
+  "slug": "ufc-304-tom-aspinall-vs-curtis-blaydes",
+  "question": "UFC 304: Tom Aspinall vs. Curtis Blaydes"
+}

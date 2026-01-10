@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:30:18.604080Z",
+  "market_createdAt": "2024-11-01T19:30:18.60408Z",
+  "market_updatedAt": "2024-11-04T17:01:04.24006Z",
+  "market_startDate": "2024-11-02T21:33:29.388912Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:45:02+00",
+  "conditionId": "0x9c31446ba294bd3ab446489c8e7cadcac1b9dab962c713bf376d88f472397113",
+  "slug": "will-the-browns-and-chargers-combine-for-43-or-more-points",
+  "question": "Will the Browns and Chargers combine for 43 or more points?"
+}

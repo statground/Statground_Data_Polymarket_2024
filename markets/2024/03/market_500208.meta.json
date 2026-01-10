@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:12:06.367916Z",
+  "market_createdAt": "2024-03-17T20:12:06.367916Z",
+  "market_updatedAt": "2024-05-07T23:09:17.736326Z",
+  "market_startDate": "2024-03-17T20:21:08.52Z",
+  "market_endDate": "2024-03-28T07:00:00Z",
+  "market_closedTime": "2024-03-28 19:05:36+00",
+  "conditionId": "0x5c2e30633bb1583f44aec02956b7f0b3aa070462d61bdf29637a7f58112fe2ff",
+  "slug": "sbf-sentence-less-than-5-years",
+  "question": "SBF sentence less than 5 years?"
+}

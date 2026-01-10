@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:02:40.564693Z",
+  "market_createdAt": "2024-11-17T05:02:40.564693Z",
+  "market_updatedAt": "2024-11-20T07:33:05.756916Z",
+  "market_startDate": "2024-11-17T05:05:11.390743Z",
+  "market_endDate": "2024-11-26T03:30:00Z",
+  "market_closedTime": "2024-11-19 07:53:16+00",
+  "conditionId": "0x162e25a23f51bac0242431d4b5539b56d53d30f9ea7343ab4db8ed85b75d8040",
+  "slug": "nba-gsw-lac-2024-11-18",
+  "question": "Warriors vs. Clippers"
+}

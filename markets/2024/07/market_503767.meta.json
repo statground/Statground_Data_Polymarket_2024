@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:22:13.206012Z",
+  "market_createdAt": "2024-07-18T19:22:13.206012Z",
+  "market_updatedAt": "2024-07-30T16:35:09.497179Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:06:04+00",
+  "conditionId": "0x7437a62ce98f7d05e2f78928ce683772dedf4f78b76bb4e244af110d29a617fd",
+  "slug": "will-angharad-evans-gbr-win-gold-in-womens-100m-breaststroke",
+  "question": "Will Angharad Evans (GBR) win Gold in Women's 100m Breaststroke?"
+}

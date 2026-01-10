@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:05:28.075830Z",
+  "market_createdAt": "2024-07-25T17:05:28.07583Z",
+  "market_updatedAt": "2024-07-29T12:45:04.425683Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-28 21:52:42+00",
+  "conditionId": "0xd8287363d069cab860a89eb541f1a17dbbc7ed3c48c8f2c81268f3181d7b2c3d",
+  "slug": "will-chase-kalisz-usa-win-gold-in-mens-400m-individual-medley",
+  "question": "Will Chase Kalisz (USA) win Gold in Men's 400m Individual Medley?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:39:40.462858Z",
+  "market_createdAt": "2024-12-25T06:39:40.462858Z",
+  "market_updatedAt": "2025-01-01T00:49:35.48915Z",
+  "market_startDate": "2024-12-25T06:42:09.55566Z",
+  "market_endDate": "2024-12-30T20:00:00Z",
+  "market_closedTime": "2024-12-31 01:15:34+00",
+  "conditionId": "0x09d84fcbc816690a99e610170174052613cf4eb4e4b1715fd19b78c739fc2112",
+  "slug": "epl-mun-new-2024-12-30-draw",
+  "question": "Will Manchester United vs. Newcastle end in a draw?"
+}

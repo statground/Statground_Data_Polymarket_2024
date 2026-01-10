@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:06:34.343910Z",
+  "market_createdAt": "2024-08-06T20:06:34.34391Z",
+  "market_updatedAt": "2024-08-10T05:02:58.264828Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-09 06:41:31+00",
+  "conditionId": "0xcfb6d16665b3ab0e5e6c8e1cf1f6a126359990cd665fc4cea7ca0b7b74bb5e50",
+  "slug": "was-eric-trump-hacked",
+  "question": "Was Eric Trump hacked?"
+}

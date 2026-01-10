@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T21:43:53.779059Z",
+  "market_createdAt": "2024-10-16T21:43:53.779059Z",
+  "market_updatedAt": "2024-10-26T19:03:02.271624Z",
+  "market_startDate": "2024-10-16T22:01:57.262977Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-25 19:16:25+00",
+  "conditionId": "0xdda9371f6b3e763c6829ec56fd5316def8c0746594d933754db37f3dc7b78fff",
+  "slug": "will-kamala-lead-in-rcp-by-1pt5-1pt9-on-oct-25",
+  "question": "Will Kamala lead in RCP by 1.5-1.9 on Oct 25?"
+}

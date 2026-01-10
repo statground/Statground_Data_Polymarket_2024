@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:27:18.544750Z",
+  "market_createdAt": "2024-12-10T21:27:18.54475Z",
+  "market_updatedAt": "2024-12-13T20:53:07.220231Z",
+  "market_startDate": "2024-12-11T22:52:57.223621Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:08:45+00",
+  "conditionId": "0x603633f781c4eae8d69d1f433f396abc5218c7db9e8886fd9dfa19b748d57b4b",
+  "slug": "will-hoffenheim-beat-fcsb",
+  "question": "Will Hoffenheim beat FCSB?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T21:44:10.658776Z",
+  "market_createdAt": "2024-09-04T21:44:10.658776Z",
+  "market_updatedAt": "2024-09-10T02:47:05.704661Z",
+  "market_startDate": "2024-09-04T22:53:08.130774Z",
+  "market_endDate": "2024-09-11T12:00:00Z",
+  "market_closedTime": "2024-09-09 05:30:58+00",
+  "conditionId": "0x18e53ebc10e4f8fab3d47e69fe6b28f99a3a9592b0d78251a996dc8514bb1205",
+  "slug": "will-there-be-less-than-625-points-scored-nfl-week-1",
+  "question": "Will there be less than 625 points scored NFL week 1?"
+}

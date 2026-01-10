@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:53:59.591340Z",
+  "market_createdAt": "2024-11-05T21:53:59.59134Z",
+  "market_updatedAt": "2024-11-08T21:47:07.927617Z",
+  "market_startDate": "2024-11-07T03:07:10.844501Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:06:10+00",
+  "conditionId": "0xf414b4a2d18832a03cf9097a5f93d51bcad57ce89d2219c455dd0d4774d3aebd",
+  "slug": "will-the-match-between-az-alkmaar-and-fenerbahce-end-in-a-draw",
+  "question": "Will the match between AZ Alkmaar and Fenerbahce end in a draw?"
+}

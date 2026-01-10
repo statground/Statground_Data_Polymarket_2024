@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:14:18.661418Z",
+  "market_createdAt": "2024-12-29T07:14:18.661418Z",
+  "market_updatedAt": "2025-01-06T07:55:24.2Z",
+  "market_startDate": "2024-12-29T07:16:51.50953Z",
+  "market_endDate": "2025-01-12T03:00:00Z",
+  "market_closedTime": "2025-01-05 07:53:02+00",
+  "conditionId": "0x7a9555bd4b5098462d31aec771842c1f5e91a5caf4d00e85323091e7d8e8371a",
+  "slug": "nhl-edm-sea-2025-01-04",
+  "question": "Oilers vs. Kraken"
+}

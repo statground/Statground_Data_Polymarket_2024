@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:46:57.293954Z",
+  "market_createdAt": "2024-10-31T15:46:57.293954Z",
+  "market_updatedAt": "2024-11-02T13:51:16.953472Z",
+  "market_startDate": "2024-10-31T23:33:59.004687Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 16:43:58+00",
+  "conditionId": "0x1d91df0a1fe6a7c4459e12ddaeeaa1f4ac0609391ce130dd8dade423831a3a22",
+  "slug": "will-the-jets-beat-the-texans-by-3-or-more-points",
+  "question": "Will the Jets beat the Texans by 3 or more points?"
+}

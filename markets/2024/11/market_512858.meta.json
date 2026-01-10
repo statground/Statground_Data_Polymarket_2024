@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:25:30.899172Z",
+  "market_createdAt": "2024-11-12T18:25:30.899172Z",
+  "market_updatedAt": "2024-12-03T22:03:14.809244Z",
+  "market_startDate": "2024-11-12T19:22:01.840886Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-12-02 23:34:42+00",
+  "conditionId": "0x6089dab31fa83953a2933d23acf63f63715fbb144f4db60c524c8c6ba912d47d",
+  "slug": "will-moana-2-gross-between-135-150m-on-5-day-opening-weekend",
+  "question": "Will 'Moana 2' gross between $135-150m on 5-day opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T18:21:47.155243Z",
+  "market_createdAt": "2024-08-09T18:21:47.155243Z",
+  "market_updatedAt": "2024-08-12T05:46:47.417798Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 11:46:30+00",
+  "conditionId": "0x75af92949a3a9d6041247ce54d20bcb9393a29bf470e030fb2a678a3fcd827f9",
+  "slug": "will-megetru-alemu-eth-win-gold-in-the-womens-marathon",
+  "question": "Will Megetru Alemu (ETH) win gold in the Women’s Marathon?"
+}

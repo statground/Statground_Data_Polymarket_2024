@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:42:38.209732Z",
+  "market_createdAt": "2024-11-04T18:42:38.209732Z",
+  "market_updatedAt": "2024-11-11T04:58:44.628512Z",
+  "market_startDate": "2024-11-04T18:45:41.367168Z",
+  "market_endDate": "2024-11-10T00:30:00Z",
+  "market_closedTime": "2024-11-10 05:04:48+00",
+  "conditionId": "0xf853d17eb2b597eec146ad5d884084e774d09e172ecb39b5a17e7721ea751b35",
+  "slug": "nba-chi-atl-2024-11-09",
+  "question": "Bulls vs. Hawks"
+}

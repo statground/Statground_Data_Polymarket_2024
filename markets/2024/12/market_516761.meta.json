@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:09:14.263096Z",
+  "market_createdAt": "2024-12-30T05:09:14.263096Z",
+  "market_updatedAt": "2025-01-06T18:47:26.6827Z",
+  "market_startDate": "2024-12-30T05:11:44.883623Z",
+  "market_endDate": "2025-01-05T14:00:00Z",
+  "market_closedTime": "2025-01-05 19:03:53+00",
+  "conditionId": "0xa09a74d8a172b8dbc90722aca024c89a954743b063a7ab75ccab589a32d23602",
+  "slug": "epl-ful-ips-2025-01-05-ips",
+  "question": "Will Ipswich win on 2025-01-05?"
+}

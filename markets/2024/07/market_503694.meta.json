@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T14:41:23.458714Z",
+  "market_createdAt": "2024-07-18T14:41:23.458714Z",
+  "market_updatedAt": "2024-07-22T21:08:42.99095Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:05:26+00",
+  "conditionId": "0xbbb235fd7cae885d6ddadc55e51fb096762e1d6e7ecdac0c8dc3afe88a1647c1",
+  "slug": "will-biden-endorse-kamala",
+  "question": "Will Biden endorse Kamala?"
+}

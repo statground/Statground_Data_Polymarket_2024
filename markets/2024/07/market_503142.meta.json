@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T20:53:49.700573Z",
+  "market_createdAt": "2024-07-02T20:53:49.700573Z",
+  "market_updatedAt": "2024-07-07T05:00:48.153173Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 06:15:37+00",
+  "conditionId": "0xe9d50342fa5e3754fad2b49c2dcdd86fae779ef2e6809258dda07fcf94320787",
+  "slug": "will-biden-say-old-in-abc-interview",
+  "question": "Will Biden say \"Old\" in ABC interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:46:18.698002Z",
+  "market_createdAt": "2024-11-04T23:46:18.698002Z",
+  "market_updatedAt": "2024-11-07T01:21:17.521548Z",
+  "market_startDate": "2024-11-05T00:49:22.624214Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:28:27+00",
+  "conditionId": "0x4ee46a37c5077f4ab1c9fcd9b0509986641a8d60433ed69579a0c0d161fb9ddb",
+  "slug": "will-liverpool-beat-bayer-leverkusen",
+  "question": "Will Liverpool beat Bayer Leverkusen?"
+}

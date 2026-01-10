@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:25:23.752513Z",
+  "market_createdAt": "2024-06-21T15:25:23.752513Z",
+  "market_updatedAt": "2024-06-23T21:36:08.763185Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 02:51:14+00",
+  "conditionId": "0xd3fe475cf9179ae4019aac9e0f76be0d92865f8863777ca1a3b1769b1c11b930",
+  "slug": "ufc-fight-night-who-will-win-robert-whittaker-vs-ikram-aliskerov",
+  "question": "UFC Fight Night: Who will win - Robert Whittaker vs. Ikram Aliskerov?"
+}

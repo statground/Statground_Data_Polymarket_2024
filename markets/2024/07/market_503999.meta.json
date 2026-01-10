@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503999",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T17:44:25.898624Z",
+  "market_createdAt": "2024-07-22T17:44:25.898624Z",
+  "market_updatedAt": "2024-07-25T01:08:40.37882Z",
+  "market_startDate": "2024-07-23T23:09:52.912Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-07-24 01:37:32+00",
+  "conditionId": "0x85764d95939f555c27298ed514bee05803c4a60f62cf01fa6bc43ffafefea7f8",
+  "slug": "will-ryan-selkis-tweet-jul-23-aug-31",
+  "question": "Will Ryan Selkis tweet Jul 23 - Aug 31?"
+}

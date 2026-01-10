@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T21:34:04.276855Z",
+  "market_createdAt": "2024-09-16T21:34:04.276855Z",
+  "market_updatedAt": "2024-09-24T19:52:44.579194Z",
+  "market_startDate": "2024-09-16T21:58:56.61129Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 00:47:37+00",
+  "conditionId": "0x70563ef151ea00d875e9da41b27650039db1742c8277e9ae6079f20727e52cb7",
+  "slug": "will-transformers-one-gross-less-than-42-49m-opening-weekend",
+  "question": "Will 'Transformers One' gross less than $42-49m opening weekend?"
+}

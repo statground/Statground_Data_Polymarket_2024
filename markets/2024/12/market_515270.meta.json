@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:06:25.663120Z",
+  "market_createdAt": "2024-12-10T19:06:25.66312Z",
+  "market_updatedAt": "2024-12-12T17:15:18.792444Z",
+  "market_startDate": "2024-12-10T19:12:13.308026Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 17:23:51+00",
+  "conditionId": "0xba780af753a228d086cc846079c4ee551f1ab186b25769ba3bbbf45ad850cbb2",
+  "slug": "will-bitcoin-hit-90k-or-100k-first-1-31-25",
+  "question": "Will Bitcoin hit $90k or $100k first?"
+}

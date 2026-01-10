@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:32:50.840607Z",
+  "market_createdAt": "2024-11-04T18:32:50.840607Z",
+  "market_updatedAt": "2024-11-08T07:47:00.992645Z",
+  "market_startDate": "2024-11-04T18:35:30.888518Z",
+  "market_endDate": "2024-11-07T03:00:00Z",
+  "market_closedTime": "2024-11-07 07:40:30+00",
+  "conditionId": "0xa394ee29df8022f183088dcdd57b0006fd10e565bdacc99129847a450394d08e",
+  "slug": "nba-phi-lac-2024-11-06",
+  "question": "76ers vs. Clippers"
+}

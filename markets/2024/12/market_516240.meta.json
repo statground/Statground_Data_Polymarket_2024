@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:00:02.425304Z",
+  "market_createdAt": "2024-12-22T06:00:02.425304Z",
+  "market_updatedAt": "2024-12-24T06:37:35.561276Z",
+  "market_startDate": "2024-12-22T06:03:17.985544Z",
+  "market_endDate": "2024-12-30T01:20:00Z",
+  "market_closedTime": "2024-12-23 06:40:01+00",
+  "conditionId": "0x28225d6921d524a1a7dd08d639a664b043a94508829b7591f2d511434178f445",
+  "slug": "nfl-tb-dal-2024-12-22",
+  "question": "Buccaneers vs. Cowboys"
+}

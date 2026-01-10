@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T20:04:01.413545Z",
+  "market_createdAt": "2024-04-08T20:04:01.413545Z",
+  "market_updatedAt": "2024-05-07T23:09:58.269608Z",
+  "market_startDate": "2024-04-09T16:05:56.759Z",
+  "market_endDate": "2024-04-13T12:00:00Z",
+  "market_closedTime": "2024-04-14 06:14:25+00",
+  "conditionId": "0xd1dd574e4ce81a65df46b14301aefd8251faf7041777f38d5952bfb8173ecad0",
+  "slug": "ufc-300-justin-gaethje-vs-max-holloway",
+  "question": "UFC 300: Justin Gaethje vs Max Holloway"
+}

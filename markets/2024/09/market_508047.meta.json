@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:20:49.462440Z",
+  "market_createdAt": "2024-09-24T21:20:49.46244Z",
+  "market_updatedAt": "2024-10-03T03:56:38.10331Z",
+  "market_startDate": "2024-09-24T23:33:13.106Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:05:31+00",
+  "conditionId": "0x4395fab178f98ca022c285e154b00e5d82da799dd86b3e0fe208f23485cb5db9",
+  "slug": "will-tim-walz-say-couch-during-the-debate",
+  "question": "Will Tim Walz say \"Couch\" during the debate?"
+}

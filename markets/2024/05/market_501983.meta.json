@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T20:59:00.170199Z",
+  "market_createdAt": "2024-05-31T20:59:00.170199Z",
+  "market_updatedAt": "2024-06-04T00:56:11.630826Z",
+  "market_startDate": "2024-05-31T21:19:08.726Z",
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-03 01:49:23+00",
+  "conditionId": "0x3f96d72c20d173375249b556fb34840590eab894d10571beef6fd137ef76de6a",
+  "slug": "will-more-senators-sign-rubios-trump-statement",
+  "question": "More Senators sign Trump statement by next Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507217",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T19:11:35.742392Z",
+  "market_createdAt": "2024-09-16T19:11:35.742392Z",
+  "market_updatedAt": "2024-09-23T20:20:44.245357Z",
+  "market_startDate": "2024-09-16T19:14:02.346647Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:22:48+00",
+  "conditionId": "0xdf1b68ea6212c051591e189caee9545d1ce132aa9384f41d5b4116222b94d2b3",
+  "slug": "nfl-min-hou-2024-09-22",
+  "question": "Vikings vs. Texans"
+}

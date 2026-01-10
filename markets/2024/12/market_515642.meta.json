@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:52:40.220405Z",
+  "market_createdAt": "2024-12-13T22:52:40.220405Z",
+  "market_updatedAt": "2024-12-16T18:01:32.446739Z",
+  "market_startDate": "2024-12-13T23:27:47.305004Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-15 22:57:18+00",
+  "conditionId": "0x39c8164249e8b6b3d0b8209134645efdd58018f4d1d07a5c990b3e210d00e64b",
+  "slug": "will-the-bengals-and-titans-combine-for-47-or-more-points",
+  "question": "Will the Bengals and Titans combine for 47 or more points?"
+}

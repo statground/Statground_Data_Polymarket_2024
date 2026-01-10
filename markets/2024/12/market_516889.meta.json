@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:00:54.054660Z",
+  "market_createdAt": "2024-12-30T22:00:54.05466Z",
+  "market_updatedAt": "2025-01-01T20:09:35.825963Z",
+  "market_startDate": "2024-12-30T22:57:25.817601Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 22:20:31+00",
+  "conditionId": "0x949922ca2fd4b6376da8dc4ab32bb81322550a260b299178fa431947d0998f6f",
+  "slug": "will-alabama-win-the-reliaquest-bowl",
+  "question": "Will Alabama win the ReliaQuest Bowl?"
+}

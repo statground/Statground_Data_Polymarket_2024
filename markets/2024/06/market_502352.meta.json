@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T23:31:52.114722Z",
+  "market_createdAt": "2024-06-11T23:31:52.114722Z",
+  "market_updatedAt": "2024-06-27T02:16:08.204654Z",
+  "market_startDate": "2024-06-12T03:26:14.445Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 04:27:13+00",
+  "conditionId": "0x28a90a8842c4582e4d9d73190e1c911f672dc640101b1774cd1a994e3a0fbead",
+  "slug": "lauren-boebert-wins-co-4-primary",
+  "question": "Boebert wins Colorado-4 Republican Primary?"
+}

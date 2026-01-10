@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-18T03:18:52.532515Z",
+  "market_createdAt": "2024-05-18T03:18:52.532515Z",
+  "market_updatedAt": "2024-06-29T03:26:04.221836Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:33:35+00",
+  "conditionId": "0x68005aadd48b8be729a102135eebd1e1b0425c49236bbcec11e25d5162a48165",
+  "slug": "biden-takes-drug-test-before-trump-debate",
+  "question": "Biden takes drug test before Trump debate?"
+}

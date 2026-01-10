@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:47:49.305801Z",
+  "market_createdAt": "2024-09-27T19:47:49.305801Z",
+  "market_updatedAt": "2024-10-01T05:00:39.305365Z",
+  "market_startDate": "2024-09-27T20:59:44.350976Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 05:33:46+00",
+  "conditionId": "0xf1d0081b82ddd815785b53b3ba3eaf3eb6cc5c855590674dee1fd48b72be5fd1",
+  "slug": "will-the-ravens-beat-the-bills-by-3-or-more-points",
+  "question": "Will the Ravens beat the Bills by 3 or more points?"
+}

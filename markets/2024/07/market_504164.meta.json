@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:46:19.872293Z",
+  "market_createdAt": "2024-07-25T18:46:19.872293Z",
+  "market_updatedAt": "2024-08-11T19:07:53.15511Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:05:00+00",
+  "conditionId": "0x67b02206eba1ad8cf9e40a79a394495718c655ac7f3d93bb993bd23c04b7cd99",
+  "slug": "will-china-win-the-3rd-most-gold-medals",
+  "question": "Will China win the 3rd most gold medals?"
+}

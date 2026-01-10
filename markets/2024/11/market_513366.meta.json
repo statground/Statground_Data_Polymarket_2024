@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:41:12.465775Z",
+  "market_createdAt": "2024-11-18T18:41:12.465775Z",
+  "market_updatedAt": "2024-12-07T06:09:15.737167Z",
+  "market_startDate": "2024-11-18T20:04:01.398Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:14:46+00",
+  "conditionId": "0xac194e756ef0e022d933b291d1905eb6181761cac59420310355dcf9426b4d0d",
+  "slug": "will-trump-say-iran-in-his-next-speech",
+  "question": "Will Trump say \"Iran\" in his next speech?"
+}

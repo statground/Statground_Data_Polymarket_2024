@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T19:47:17.278817Z",
+  "market_createdAt": "2024-12-27T19:47:17.278817Z",
+  "market_updatedAt": "2024-12-29T13:28:10.249534Z",
+  "market_startDate": "2024-12-27T20:59:20.854338Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-28 21:40:02+00",
+  "conditionId": "0x7abf4f68e7d34a23024885fc7b5b907b7b5d5a413f88cec353b3396dcf873bb1",
+  "slug": "will-unc-beat-uconn-by-3-or-more-points",
+  "question": "Will UNC beat UConn by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-21T16:23:53.440814Z",
+  "market_createdAt": "2024-03-21T16:23:53.440814Z",
+  "market_updatedAt": "2024-05-07T23:09:35.098116Z",
+  "market_startDate": "2024-03-22T18:58:21.183Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-03-24 23:49:04+00",
+  "conditionId": "0xc3761f01b1458ff1b77d634f4fdceacd31d7705fb278d97c6d894cae7425acf1",
+  "slug": "will-ohio-st-win-the-ncaa-tournament-women",
+  "question": "Will Ohio State win the Women's NCAA tournament?"
+}

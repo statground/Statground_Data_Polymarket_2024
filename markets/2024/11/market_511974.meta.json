@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:24:09.806569Z",
+  "market_createdAt": "2024-11-04T23:24:09.806569Z",
+  "market_updatedAt": "2024-11-07T22:43:05.680371Z",
+  "market_startDate": "2024-11-04T23:33:39.898551Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:48:48+00",
+  "conditionId": "0x6b3ea868fcd41abef0cef294cf8392000dc42cb8fec46733493fa679bd8a266b",
+  "slug": "nh-02-election-goodlander-d-vs-mackenzie-r",
+  "question": "NH-02 election: Goodlander (D) vs. Williams (R)"
+}

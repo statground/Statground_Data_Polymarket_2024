@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:01:30.605994Z",
+  "market_createdAt": "2024-12-31T05:01:30.605994Z",
+  "market_updatedAt": "2025-01-02T00:57:10.101344Z",
+  "market_startDate": "2024-12-31T05:04:40.06438Z",
+  "market_endDate": "2025-01-07T19:00:00Z",
+  "market_closedTime": "2025-01-01 00:59:33+00",
+  "conditionId": "0x2d064697b2e621ecc318e033f9c524ed904c3881c7fbaba8864f4b519769ccd7",
+  "slug": "cfb-lou-wash-2024-12-31",
+  "question": "Louisville vs. Washington"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:28:13.868168Z",
+  "market_createdAt": "2024-10-11T15:28:13.868168Z",
+  "market_updatedAt": "2024-10-13T23:20:49.908704Z",
+  "market_startDate": "2024-10-11T19:00:08.933546Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:51:40+00",
+  "conditionId": "0xed10f3748c4198c4891fe1477ce791e43c8ac0f321493ba30a151a885ccdfb96",
+  "slug": "will-notre-dame-beat-stanford-by-23-or-more-points",
+  "question": "Will Notre Dame beat Stanford by 23 or more points?"
+}

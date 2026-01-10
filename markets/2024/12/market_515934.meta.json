@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:41:24.146037Z",
+  "market_createdAt": "2024-12-17T22:41:24.146037Z",
+  "market_updatedAt": "2025-01-07T03:05:18.423856Z",
+  "market_startDate": "2024-12-17T23:46:46.600232Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2025-01-06 06:24:50+00",
+  "conditionId": "0x3a825bf4ae825f6b418ec1e884c0bf28840b34d1485be0535e9e2a0d5ec019ff",
+  "slug": "will-the-wild-robot-win-the-golden-globe-for-best-original-score",
+  "question": "Will 'The Wild Robot' win the Golden Globe for Best Original Score?"
+}

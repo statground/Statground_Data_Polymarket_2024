@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:16:55.545555Z",
+  "market_createdAt": "2024-07-25T18:16:55.545555Z",
+  "market_updatedAt": "2024-07-28T21:27:03.022999Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:26:39+00",
+  "conditionId": "0x66c375d8ad02f5ebbe6dfa9621f3b37793a75471ad6e8a103a791fe6f103df9e",
+  "slug": "will-china-win-gold-in-womens-4x100m-freestyle-relay",
+  "question": "Will China win Gold in Women's 4x100m Freestyle Relay?"
+}

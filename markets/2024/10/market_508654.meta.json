@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:27:58.463049Z",
+  "market_createdAt": "2024-10-01T23:27:58.463049Z",
+  "market_updatedAt": "2024-10-07T21:56:37.318038Z",
+  "market_startDate": "2024-10-01T23:30:07.189687Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:22:04+00",
+  "conditionId": "0x350ec8e72d395546f9659ca24d0268b2af2773515886e14643df6c7041788572",
+  "slug": "nfl-car-chi-2024-10-06",
+  "question": "Panthers vs. Bears"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-13T20:38:29.518608Z",
+  "market_createdAt": "2024-04-13T20:38:29.518608Z",
+  "market_updatedAt": "2024-05-07T23:10:05.647075Z",
+  "market_startDate": "2024-04-13T20:51:51.529Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-19 18:06:19+00",
+  "conditionId": "0x235d0d2205bd544706e9aae86565eb7ae06ba5a3178a2771a68335b0504d85e7",
+  "slug": "bitcoin-above-60000-on-april-19",
+  "question": "Bitcoin above $60,000 on April 19?"
+}

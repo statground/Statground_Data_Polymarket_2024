@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:46:44.206425Z",
+  "market_createdAt": "2024-05-31T21:46:44.206425Z",
+  "market_updatedAt": "2024-07-06T18:45:46.114772Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-05 21:48:25+00",
+  "conditionId": "0xfb919ad74a714edb12eff8b9ac4014831d092e5a1db6018e2c2c73ef559ca1ca",
+  "slug": "will-germany-win-the-2024-euros",
+  "question": "Will Germany win the 2024 Euros?"
+}

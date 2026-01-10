@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:32:26.091515Z",
+  "market_createdAt": "2024-09-09T19:32:26.091515Z",
+  "market_updatedAt": "2025-02-28T01:43:01.792442Z",
+  "market_startDate": "2024-09-09T21:00:37.854794Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-02-27 03:17:42+00",
+  "conditionId": "0xc3c4c99a9b9173154a4b121e3a996c685a2a481a7da0aea144eb600886d85560",
+  "slug": "manchester-united-win-the-premier-league",
+  "question": "Manchester United wins the Premier League?"
+}

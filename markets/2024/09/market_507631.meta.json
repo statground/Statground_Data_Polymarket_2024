@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T20:27:24.229176Z",
+  "market_createdAt": "2024-09-20T20:27:24.229176Z",
+  "market_updatedAt": "2024-10-02T07:32:51.455111Z",
+  "market_startDate": "2024-09-20T20:40:33.748798Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:23:00+00",
+  "conditionId": "0xd78fea7a0686b1d52616296af4c85fc256a114148f4ee38c4cb2952b0da0247b",
+  "slug": "did-biden-campaign-use-info-from-iran-hack",
+  "question": "Did Biden campaign use info from Iran hack?"
+}

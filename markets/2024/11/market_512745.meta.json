@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:05:44.397363Z",
+  "market_createdAt": "2024-11-11T20:05:44.397363Z",
+  "market_updatedAt": "2024-11-15T22:13:21.766463Z",
+  "market_startDate": "2024-11-11T21:58:02.265Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:11:57+00",
+  "conditionId": "0x8cbd1eec9f4fec06441183d51ece9d314f9d90439b8faa1e9c3a56c3cd70a68a",
+  "slug": "will-trump-nominate-howard-lutnick-for-israeli-ambassador",
+  "question": "Will Trump nominate Howard Lutnick for Israeli Ambassador?"
+}

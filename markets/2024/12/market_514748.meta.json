@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:46:39.779554Z",
+  "market_createdAt": "2024-12-04T20:46:39.779554Z",
+  "market_updatedAt": "2024-12-07T02:05:12.667242Z",
+  "market_startDate": "2024-12-04T22:10:17.992Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 02:00:25+00",
+  "conditionId": "0x8df26b62ecdee68c1bc25f98f0dd0abcfd9804ed9b7bba2543316ae6eccab8f0",
+  "slug": "will-tucker-say-buffer-during-lavrov-interview",
+  "question": "Will Tucker say \"buffer\" during Lavrov interview?"
+}

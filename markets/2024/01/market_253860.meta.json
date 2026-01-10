@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253860",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T21:22:28.500000Z",
+  "market_createdAt": "2024-01-12T21:22:28.5Z",
+  "market_updatedAt": "2024-02-12T19:29:43.274Z",
+  "market_startDate": "2024-01-17T00:05:27.195Z",
+  "market_endDate": "2024-01-26T00:00:00Z",
+  "market_closedTime": "2024-02-11 22:46:54+00",
+  "conditionId": "0x15a4bdba97f192528be64824720a0c7c70b5e6889e039b5ed11e399c89ecbfe8",
+  "slug": "finnish-presidential-election-will-pekka-haavisto-win",
+  "question": "Finnish Presidential Election: Will Pekka Haavisto win?"
+}

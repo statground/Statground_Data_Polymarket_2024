@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T17:12:21.453541Z",
+  "market_createdAt": "2024-09-20T17:12:21.453541Z",
+  "market_updatedAt": "2024-09-23T21:26:41.243015Z",
+  "market_startDate": "2024-09-20T19:05:18.81136Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 01:52:48+00",
+  "conditionId": "0x63749ec945be7a59b620a9aad781ccc6cf9b1914353008c3cf74938418e8af79",
+  "slug": "will-there-be-48-or-more-combined-points-scored-bal-dal",
+  "question": "Will there be 48 or more combined points scored?"
+}

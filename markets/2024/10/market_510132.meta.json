@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:02:39.531448Z",
+  "market_createdAt": "2024-10-18T17:02:39.531448Z",
+  "market_updatedAt": "2025-01-02T02:17:12.98463Z",
+  "market_startDate": "2024-10-18T23:30:30.305488Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:11:52+00",
+  "conditionId": "0x570076a0af4841b04b7a5695644e950e92347122b3deca3ea60cfd107d1ebe7c",
+  "slug": "israel-withdraws-from-gaza-in-2024",
+  "question": "Israel withdraws from Gaza in 2024?"
+}

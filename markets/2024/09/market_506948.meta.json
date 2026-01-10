@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T22:30:41.217974Z",
+  "market_createdAt": "2024-09-12T22:30:41.217974Z",
+  "market_updatedAt": "2024-09-15T06:13:01.556505Z",
+  "market_startDate": "2024-09-12T22:55:56.815742Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 06:25:29+00",
+  "conditionId": "0x9fc23bafc9d8364568d9f5f51fc34f3a74a9fadf2da801ec5c23053889108b53",
+  "slug": "will-trump-say-dog-during-his-nevada-rally",
+  "question": "Will Trump say \"dog\" during his Nevada rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:16:06.842929Z",
+  "market_createdAt": "2024-10-28T20:16:06.842929Z",
+  "market_updatedAt": "2024-11-05T02:43:12.016689Z",
+  "market_startDate": "2024-10-28T20:18:48.011474Z",
+  "market_endDate": "2024-11-03T21:05:00Z",
+  "market_closedTime": "2024-11-04 02:41:42+00",
+  "conditionId": "0x70df323efebb5d90937b2d607fdc7960852fcd96e6d384b6ebeac62064ae1768",
+  "slug": "nfl-chi-ari-2024-11-03",
+  "question": "Bears vs. Cardinals"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515998",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T19:26:02.125649Z",
+  "market_createdAt": "2024-12-18T19:26:02.125649Z",
+  "market_updatedAt": "2024-12-20T23:45:03.822398Z",
+  "market_startDate": "2024-12-18T19:47:55.449008Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 04:23:33+00",
+  "conditionId": "0x3d8c0da2e39fa14cda3c252b1376284543f43223d975c3d48529038e6c1c09f0",
+  "slug": "will-25-49-republicans-vote-in-favor-of-government-funding-bill",
+  "question": "Will 25-49 Republicans vote in favor of government funding bill?"
+}

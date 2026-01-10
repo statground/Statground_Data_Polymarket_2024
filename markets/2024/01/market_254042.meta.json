@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-22T16:48:13.149000Z",
+  "market_createdAt": "2024-01-22T16:48:13.149Z",
+  "market_updatedAt": "2024-01-25T04:05:29.018Z",
+  "market_startDate": "2024-01-22T17:03:00Z",
+  "market_endDate": "2024-01-21T00:00:00Z",
+  "market_closedTime": "2024-01-24 05:17:36+00",
+  "conditionId": "0x2293cb0de727d25a5fba8e5c9f34fc56c6e6175d37bd9f29b6ccbae72d68593c",
+  "slug": "will-joe-biden-win-the-new-hampshire-democratic-primary",
+  "question": "Will Joe Biden win the New Hampshire Democratic primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:07:16.080154Z",
+  "market_createdAt": "2024-09-24T17:07:16.080154Z",
+  "market_updatedAt": "2025-04-22T07:11:44.583666Z",
+  "market_startDate": "2024-11-21T23:04:46.855Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 03:55:01+00",
+  "conditionId": "0x4304c3031a89b4dfbc635cac9b5bb076389144ade85f174088b74f2b7de701bc",
+  "slug": "will-victor-wembanyama-win-the-2024-25-nba-mvp",
+  "question": "Will Victor Wembanyama win the 2024-25 NBA MVP?"
+}

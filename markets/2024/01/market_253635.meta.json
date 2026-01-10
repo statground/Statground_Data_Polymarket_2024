@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T19:28:37.870000Z",
+  "market_createdAt": "2024-01-06T19:28:37.87Z",
+  "market_updatedAt": "2024-11-07T19:29:11.971669Z",
+  "market_startDate": "2024-01-06T20:12:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:09:45+00",
+  "conditionId": "0xd1cce1f51effdf3957144fdc87b5e8aace1d1f7ab21976a046b71744ecad8443",
+  "slug": "will-aoc-win-the-2024-us-presidential-election",
+  "question": "Will AOC win the 2024 US Presidential Election?"
+}

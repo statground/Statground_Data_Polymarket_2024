@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:16:45.897117Z",
+  "market_createdAt": "2024-07-25T17:16:45.897117Z",
+  "market_updatedAt": "2024-07-30T17:09:05.752609Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:27:20+00",
+  "conditionId": "0x35a6829ee9b8bf943d357d28b97ee46b932b68b31166381415dd7ad71184deec",
+  "slug": "will-emma-weyant-usa-win-gold-in-womens-400m-individual-medley",
+  "question": "Will Emma Weyant (USA) win Gold in Women's 400m Individual Medley?"
+}

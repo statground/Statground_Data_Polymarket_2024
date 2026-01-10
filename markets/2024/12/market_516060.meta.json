@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T17:33:47.265803Z",
+  "market_createdAt": "2024-12-19T17:33:47.265803Z",
+  "market_updatedAt": "2024-12-23T00:31:33.211058Z",
+  "market_startDate": "2024-12-20T00:41:04.285Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-22 01:34:32+00",
+  "conditionId": "0x6630bd878096c0ce59f249197e065c46699b1f3ab1cb037f39e5974d3940a49c",
+  "slug": "will-oleksandr-usyk-ko-tyson-fury",
+  "question": "Will Oleksandr Usyk KO Tyson Fury?"
+}

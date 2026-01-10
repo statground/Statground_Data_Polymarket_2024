@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:51:52.593648Z",
+  "market_createdAt": "2024-10-01T18:51:52.593648Z",
+  "market_updatedAt": "2024-10-07T18:06:40.763255Z",
+  "market_startDate": "2024-10-02T15:28:39.814367Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 18:08:38+00",
+  "conditionId": "0x3042da712d85d40d419cc4796a6fd6f8282e914ae4cde8f0690c3c033c86ce1f",
+  "slug": "will-the-match-between-chelsea-and-nottingham-forest-end-in-a-draw",
+  "question": "Will the match between Chelsea and Nottingham Forest end in a draw?"
+}

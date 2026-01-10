@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T18:02:01.241614Z",
+  "market_createdAt": "2024-09-19T18:02:01.241614Z",
+  "market_updatedAt": "2024-10-30T08:07:04.696662Z",
+  "market_startDate": "2024-09-20T14:22:31.012Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-29 09:03:10+00",
+  "conditionId": "0x0e35cc1b03d72cdf5755b4a815607577459b0cc1116939eddd789c9d2a74f445",
+  "slug": "will-another-party-win-the-most-seats-in-the-2024-british-columbia-general-election",
+  "question": "Will another party win the most seats in the 2024 British Columbia general election?"
+}

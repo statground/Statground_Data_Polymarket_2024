@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:19:37.958635Z",
+  "market_createdAt": "2024-12-02T19:19:37.958635Z",
+  "market_updatedAt": "2024-12-09T21:49:23.864921Z",
+  "market_startDate": "2024-12-02T19:23:04.321938Z",
+  "market_endDate": "2024-12-08T16:30:00Z",
+  "market_closedTime": "2024-12-08 21:49:35+00",
+  "conditionId": "0x6880627d60c1c1b4831ff77628892550a1cba0166c0fe1f4af32e486487d499a",
+  "slug": "epl-tot-che-2024-12-08-tot",
+  "question": "Will Tottenham win on 2024-12-08?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:56:06.163246Z",
+  "market_createdAt": "2024-11-02T21:56:06.163246Z",
+  "market_updatedAt": "2024-11-06T09:21:23.652734Z",
+  "market_startDate": "2024-11-02T23:01:56.763Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:21:43+00",
+  "conditionId": "0x6646fd46c2ed3660210c3506d7ee7bab762834c092a5396109e40fcfa4360d06",
+  "slug": "will-trump-say-shanghai-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"Shanghai\" during Michigan rally on Nov 4?"
+}

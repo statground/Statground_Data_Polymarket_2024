@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516470",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T18:46:51.711898Z",
+  "market_createdAt": "2024-12-26T18:46:51.711898Z",
+  "market_updatedAt": "2025-05-01T00:23:19.776086Z",
+  "market_startDate": "2024-12-26T18:49:42.671Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:07:49+00",
+  "conditionId": "0x33ee9c635a5535bb5a0c0160342c5e1cae6ed70d46c671e2fe6f1b19848264bb",
+  "slug": "will-trump-increase-cap-on-h-1b-visas-in-first-100-days",
+  "question": "Will Trump increase cap on H-1B visas in first 100 days?"
+}

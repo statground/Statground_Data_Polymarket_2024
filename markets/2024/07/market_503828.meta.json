@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:32:15.775766Z",
+  "market_createdAt": "2024-07-18T21:32:15.775766Z",
+  "market_updatedAt": "2024-08-03T08:53:06.349399Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:09:14+00",
+  "conditionId": "0xbf19875e9e0c8d7ca21d1b45c401c1dea659f00c5ed9175eeb391471627e97cc",
+  "slug": "will-another-athlete-win-gold-in-mens-50m-freestyle",
+  "question": "Will another athlete win Gold in Men's 50m Freestyle?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:25:40.809898Z",
+  "market_createdAt": "2024-12-13T19:25:40.809898Z",
+  "market_updatedAt": "2024-12-16T02:05:26.972849Z",
+  "market_startDate": "2024-12-13T19:28:14.53358Z",
+  "market_endDate": "2024-12-21T21:30:00Z",
+  "market_closedTime": "2024-12-15 02:08:43+00",
+  "conditionId": "0x6826183bb15feea6dcb89aded0525a88eeaf73a35e3a6c12d7086d3460856143",
+  "slug": "nba-atl-mil-2024-12-14",
+  "question": "Hawks vs. Bucks"
+}

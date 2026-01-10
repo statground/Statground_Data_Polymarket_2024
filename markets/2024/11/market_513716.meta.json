@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T17:01:09.595991Z",
+  "market_createdAt": "2024-11-22T17:01:09.595991Z",
+  "market_updatedAt": "2024-11-26T23:20:06.788103Z",
+  "market_startDate": "2024-11-22T17:24:10.038974Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-26 03:22:48+00",
+  "conditionId": "0x496a8faf65ebeb00fc2227a7a3a0e4f70529a0c1382b5190bee1305e94dcfcb1",
+  "slug": "will-elon-tweet-less-than-300-times-nov-22-29",
+  "question": "Will Elon tweet less than 300 times Nov 22-29?"
+}

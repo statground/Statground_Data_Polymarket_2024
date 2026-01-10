@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T19:42:30.706891Z",
+  "market_createdAt": "2024-07-25T19:42:30.706891Z",
+  "market_updatedAt": "2024-08-04T19:42:56.729855Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:56:34+00",
+  "conditionId": "0x2d5bd1040aeb15b5d2fda9b208127883e682b2da464491a1d7ab1ea92d40f826",
+  "slug": "katie-ledecky-wins-1-or-fewer-gold-medals",
+  "question": "Katie Ledecky wins 1 or fewer gold medals?"
+}

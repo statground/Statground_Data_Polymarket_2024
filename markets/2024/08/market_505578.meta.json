@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T19:34:56.869803Z",
+  "market_createdAt": "2024-08-21T19:34:56.869803Z",
+  "market_updatedAt": "2024-08-24T05:26:58.111994Z",
+  "market_startDate": "2024-08-22T21:14:29.664Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:22:16+00",
+  "conditionId": "0x624fc04e8309aa163af6859aaa516c6d65759270f97ac1c92374ae9900649b38",
+  "slug": "will-kamala-harris-say-inflation-during-dnc-speech",
+  "question": "Will Kamala Harris say \"Inflation\" during DNC speech?"
+}

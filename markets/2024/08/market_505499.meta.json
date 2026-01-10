@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:46:53.348207Z",
+  "market_createdAt": "2024-08-21T01:46:53.348207Z",
+  "market_updatedAt": "2024-08-26T18:20:52.496638Z",
+  "market_startDate": "2024-08-21T16:43:56.687Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:20:18+00",
+  "conditionId": "0x938ef056ed28bb1562543e58d50efcb7bee1d739729bfca672e7d2d42dfefd58",
+  "slug": "will-wolverhampton-beat-chelsea",
+  "question": "Will Wolverhampton beat Chelsea?"
+}

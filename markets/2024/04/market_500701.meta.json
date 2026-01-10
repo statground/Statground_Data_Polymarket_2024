@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:08:00.620343Z",
+  "market_createdAt": "2024-04-04T17:08:00.620343Z",
+  "market_updatedAt": "2024-11-07T19:32:59.804933Z",
+  "market_startDate": "2024-04-12T19:28:56.258Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 22:56:14+00",
+  "conditionId": "0x6c648c172450565c447c0bd1ae91b68569ff61f4c7171134206017743c5433be",
+  "slug": "will-a-democrat-win-indiana-us-senate-election",
+  "question": "Will a Democrat win Indiana US Senate Election?"
+}

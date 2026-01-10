@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:38:37.308500Z",
+  "market_createdAt": "2024-11-05T04:38:37.3085Z",
+  "market_updatedAt": "2024-11-08T01:29:03.944224Z",
+  "market_startDate": "2024-11-05T20:16:06.301896Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:24:12+00",
+  "conditionId": "0x3aabace230b6da695d692d2f8fbe1a76f6cfd89bfddd7bc3e07bcecd6df42111",
+  "slug": "will-atletico-madrid-beat-paris-saint-germain",
+  "question": "Will Atletico Madrid beat Paris Saint-Germain?"
+}

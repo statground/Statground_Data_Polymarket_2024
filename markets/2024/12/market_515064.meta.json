@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:00:51.127246Z",
+  "market_createdAt": "2024-12-08T07:00:51.127246Z",
+  "market_updatedAt": "2024-12-14T04:27:10.75498Z",
+  "market_startDate": "2024-12-08T07:04:21.999339Z",
+  "market_endDate": "2024-12-20T00:00:00Z",
+  "market_closedTime": "2024-12-13 04:39:27+00",
+  "conditionId": "0x85ce76dc30d324bbe862514f183654aeb565a8c8c8e3d2276348394ac812c4de",
+  "slug": "nhl-det-phi-2024-12-12",
+  "question": "Red Wings vs. Flyers"
+}

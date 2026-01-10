@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T18:39:48.202288Z",
+  "market_createdAt": "2024-08-21T18:39:48.202288Z",
+  "market_updatedAt": "2024-08-23T08:01:06.949126Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 09:00:44+00",
+  "conditionId": "0x6c0d3c27bff32f80848303f4f45499fd9ee64655ef673440c047913ab7e1e9d2",
+  "slug": "trump-mentioned-between-60-and-69-times-at-dnc-on-day-3",
+  "question": "Trump mentioned between 60 and 69 times at DNC on day 3?"
+}

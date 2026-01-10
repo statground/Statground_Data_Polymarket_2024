@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T18:37:45.801221Z",
+  "market_createdAt": "2024-08-21T18:37:45.801221Z",
+  "market_updatedAt": "2024-08-23T01:07:07.784389Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 03:11:16+00",
+  "conditionId": "0x35ae9dd7d4de5f7bf975ffad4f6341fbbb4101eebc7765bb3e7a16f174bc9647",
+  "slug": "trump-mentioned-fewer-than-20-times-at-dnc-on-day-3",
+  "question": "Trump mentioned fewer than 20 times at DNC on day 3?"
+}

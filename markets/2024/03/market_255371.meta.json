@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T18:03:12.765000Z",
+  "market_createdAt": "2024-03-08T18:03:12.765Z",
+  "market_updatedAt": "2024-11-07T21:03:10.547334Z",
+  "market_startDate": "2024-05-08T21:52:58.187Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:09:16+00",
+  "conditionId": "0x622fc1127c6af2e644689936aeb61b284e6b1f4eb7d401910fe5ca7bcf4058e0",
+  "slug": "will-a-republican-win-montana-governor-election",
+  "question": "Will a Republican win Montana Governor Election?"
+}

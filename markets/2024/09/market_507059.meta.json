@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T21:37:44.635974Z",
+  "market_createdAt": "2024-09-13T21:37:44.635974Z",
+  "market_updatedAt": "2024-09-16T16:22:51.420289Z",
+  "market_startDate": "2024-09-13T22:23:57.190999Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:18:57+00",
+  "conditionId": "0x38f40f57645ccb05c88054c57c5e4a55904ae0c015d126dde528d444b8d90d23",
+  "slug": "will-there-be-42-or-more-combined-points-scored-bal-lv",
+  "question": "Will there be 42 or more combined points scored?"
+}

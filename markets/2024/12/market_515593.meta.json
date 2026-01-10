@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:31:18.784146Z",
+  "market_createdAt": "2024-12-13T19:31:18.784146Z",
+  "market_updatedAt": "2024-12-21T06:18:54.926151Z",
+  "market_startDate": "2024-12-13T19:33:45.164621Z",
+  "market_endDate": "2024-12-27T02:00:00Z",
+  "market_closedTime": "2024-12-20 06:36:38+00",
+  "conditionId": "0x1c8937cafa83df4c6aabef9f530bfd85c2bf71360dc62b964cad5ddfc3c4036b",
+  "slug": "nba-ind-phx-2024-12-19",
+  "question": "Pacers vs. Suns"
+}

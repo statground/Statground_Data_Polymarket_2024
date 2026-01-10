@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T20:40:04.475329Z",
+  "market_createdAt": "2024-10-08T20:40:04.475329Z",
+  "market_updatedAt": "2024-12-12T08:13:02.521408Z",
+  "market_startDate": "2024-10-08T21:39:20.739Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-11 09:17:30+00",
+  "conditionId": "0xd5fca9b9146866df0df3211bb9008d884a2648e3b15ca6ec51d4a5b50084d9d6",
+  "slug": "will-new-hampshire-be-the-closest-state",
+  "question": "Will New Hampshire be the closest state?"
+}

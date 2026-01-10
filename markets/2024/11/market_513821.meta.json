@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:12:02.428626Z",
+  "market_createdAt": "2024-11-24T05:12:02.428626Z",
+  "market_updatedAt": "2024-12-02T00:59:20.572826Z",
+  "market_startDate": "2024-11-24T05:14:31.24079Z",
+  "market_endDate": "2024-12-07T21:00:00Z",
+  "market_closedTime": "2024-12-01 03:06:22+00",
+  "conditionId": "0xbc95a78341dd9ebb17a00a43cd40e77ec0e1bdc2257f4d8df980bbfe461249ea",
+  "slug": "cfb-utep-nmst-2024-11-30",
+  "question": "UTEP vs. New Mexico State"
+}

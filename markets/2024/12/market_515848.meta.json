@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:22:28.159562Z",
+  "market_createdAt": "2024-12-17T17:22:28.159562Z",
+  "market_updatedAt": "2025-01-01T20:13:24.183308Z",
+  "market_startDate": "2024-12-17T18:14:40.176155Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:22:43+00",
+  "conditionId": "0xf153eefd52dad93c1675f76c17b3c6b59e67cd5ae2a452a6b9a2d028f5833fc9",
+  "slug": "will-chatgpt-have-the-top-ai-model-on-december-31",
+  "question": "Will ChatGPT have the top AI model on December 31?"
+}

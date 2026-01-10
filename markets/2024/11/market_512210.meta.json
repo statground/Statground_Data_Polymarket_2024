@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:17:53.269499Z",
+  "market_createdAt": "2024-11-06T20:17:53.269499Z",
+  "market_updatedAt": "2024-11-16T09:36:57.574336Z",
+  "market_startDate": "2024-11-06T20:41:51.374Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 09:53:13+00",
+  "conditionId": "0xda2372391d242b4f41594bad3f5d359f100bfd2acf2317c89ee427b757583f9c",
+  "slug": "will-trump-nominate-robert-obrien-for-defense-secretary",
+  "question": "Will Trump nominate Robert O’Brien for Defense Secretary?"
+}

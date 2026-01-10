@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:09:20.811058Z",
+  "market_createdAt": "2024-10-11T15:09:20.811058Z",
+  "market_updatedAt": "2024-10-13T20:40:43.740746Z",
+  "market_startDate": "2024-10-11T18:46:37.596822Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 23:17:59+00",
+  "conditionId": "0x0f0da53a33da65b5660fec3ff70fd94504d10fbf19c7e6b15cb1154091dee400",
+  "slug": "will-alabama-beat-south-carolina-by-22-or-more-points",
+  "question": "Will Alabama beat South Carolina by 22 or more points?"
+}

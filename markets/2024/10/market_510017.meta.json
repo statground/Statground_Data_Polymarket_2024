@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:55:02.315880Z",
+  "market_createdAt": "2024-10-16T19:55:02.31588Z",
+  "market_updatedAt": "2024-10-20T02:56:40.951592Z",
+  "market_startDate": "2024-10-16T21:10:10.978977Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 03:29:10+00",
+  "conditionId": "0xf68407e02e22bd0411bb8436bd64faa38be5a7b8589f6917c0eeed4b80bf8884",
+  "slug": "will-trump-say-maga-4-or-more-times-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"MAGA\" 4 or more times during Michigan rally on October 18?"
+}

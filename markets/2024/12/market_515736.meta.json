@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T15:24:33.429535Z",
+  "market_createdAt": "2024-12-16T15:24:33.429535Z",
+  "market_updatedAt": "2025-01-02T06:41:07.516569Z",
+  "market_startDate": "2024-12-16T15:40:07.202849Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:22:10+00",
+  "conditionId": "0x262d52881dda0da007e0278310c160ec9a97e67200bcee567d41d97fb8cda1a1",
+  "slug": "fact-check-are-mystery-drones-a-government-test",
+  "question": "Fact Check: Are Mystery Drones a government test?"
+}

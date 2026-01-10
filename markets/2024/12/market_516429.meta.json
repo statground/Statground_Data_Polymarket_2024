@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:34:28.564242Z",
+  "market_createdAt": "2024-12-25T06:34:28.564242Z",
+  "market_updatedAt": "2024-12-30T19:55:48.554282Z",
+  "market_startDate": "2024-12-25T06:37:03.761552Z",
+  "market_endDate": "2024-12-29T15:00:00Z",
+  "market_closedTime": "2024-12-29 20:31:34+00",
+  "conditionId": "0x63c65dce21e0ee82be230b82b57282ce4f6bf0922d6dc54352286492de688d66",
+  "slug": "epl-ful-bou-2024-12-29-draw",
+  "question": "Will Fulham vs. Bournemouth end in a draw?"
+}

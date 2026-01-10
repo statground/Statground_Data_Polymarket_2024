@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T19:36:35.526830Z",
+  "market_createdAt": "2024-05-01T19:36:35.52683Z",
+  "market_updatedAt": "2024-05-07T23:09:30.73095Z",
+  "market_startDate": "2024-05-01T20:07:39.027Z",
+  "market_endDate": "2024-05-02T12:00:00Z",
+  "market_closedTime": "2024-05-03 03:03:20+00",
+  "conditionId": "0x821d9f5af589446a50b13dc8f5a2bcda60ac4ea16a3e524d12ab4bc1744570f4",
+  "slug": "nba-ind-mil-2024-05-02",
+  "question": "NBA: Indiana Pacers vs. Milwaukee Bucks 2024-05-02"
+}

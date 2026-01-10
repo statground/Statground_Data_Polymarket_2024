@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505392",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T23:48:29.494293Z",
+  "market_createdAt": "2024-08-19T23:48:29.494293Z",
+  "market_updatedAt": "2024-08-22T05:06:59.015788Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:40:50+00",
+  "conditionId": "0x6170699b893daaf9248e2e94075a4c18a6022838cb1ec6859629d1e4e286a785",
+  "slug": "obama-dnc-speech-ou-30-minutes",
+  "question": "Obama DNC Speech: O/U 30 minutes?"
+}

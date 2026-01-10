@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510160",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:48:39.205195Z",
+  "market_createdAt": "2024-10-18T17:48:39.205195Z",
+  "market_updatedAt": "2024-10-21T02:22:40.587792Z",
+  "market_startDate": "2024-10-18T23:09:55.529184Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 04:29:46+00",
+  "conditionId": "0x2af4513797fcb3776bc63618f67001b3a1911fa1bf23814f04ab44f50811ed48",
+  "slug": "will-lsu-beat-arkansas",
+  "question": "Will LSU beat Arkansas?"
+}

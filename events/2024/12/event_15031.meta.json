@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_id": "15031",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-02T20:24:00.202052Z",
+  "event_createdAt": "2024-12-02T20:24:00.202052Z",
+  "event_creationDate": "2024-12-02T23:13:24.556134Z",
+  "event_startDate": "2024-12-02T23:13:24.556136Z",
+  "event_endDate": "2024-12-31T12:00:00Z",
+  "event_updatedAt": "2025-02-01T00:27:54.845501Z",
+  "markets_len": 5,
+  "market_ids": [
+    "514489",
+    "514482",
+    "514483",
+    "514485",
+    "514488"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10026"
+  ],
+  "series_slug": "temperature-increase"
+}

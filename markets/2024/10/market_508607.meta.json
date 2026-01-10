@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:45:20.663731Z",
+  "market_createdAt": "2024-10-01T19:45:20.663731Z",
+  "market_updatedAt": "2024-11-01T21:31:21.464364Z",
+  "market_startDate": "2024-10-01T20:12:35.526146Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:04:51+00",
+  "conditionId": "0xe51e052b64a9f68903b6747aad2a6681d60fc496faba39dfcb0fbfe325c5368e",
+  "slug": "will-ethereum-reach-2000-in-october",
+  "question": "Will Ethereum reach $2,000 in October?"
+}

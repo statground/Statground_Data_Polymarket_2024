@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T17:55:55.337448Z",
+  "market_createdAt": "2024-05-06T17:55:55.337448Z",
+  "market_updatedAt": "2024-06-02T05:16:06.953405Z",
+  "market_startDate": "2024-05-06T17:55:58.55Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:30:17+00",
+  "conditionId": "0x45bce1c606a138e872190b63080d757ff8cfbd3619be8c383fb7e655ff3ff5e4",
+  "slug": "will-coinbase-list-wif-in-may",
+  "question": "Will Coinbase list $WIF in May?"
+}

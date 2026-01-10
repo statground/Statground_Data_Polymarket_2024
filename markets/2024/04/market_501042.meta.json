@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T16:58:03.787049Z",
+  "market_createdAt": "2024-04-18T16:58:03.787049Z",
+  "market_updatedAt": "2024-05-07T23:09:31.832117Z",
+  "market_startDate": "2024-04-18T17:25:02.207Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-29 19:33:42+00",
+  "conditionId": "0xb7ce868b62f0d92a97f5093dc5c901f5b6f4780a9bea68aeea475a11f352d2e4",
+  "slug": "top-10-songs-on-billboard-all-from-taylor-swift",
+  "question": "Top 10 songs on Billboard all from Taylor Swift?"
+}

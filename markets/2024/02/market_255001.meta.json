@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T19:09:00.453000Z",
+  "market_createdAt": "2024-02-29T19:09:00.453Z",
+  "market_updatedAt": "2024-05-07T23:10:15.977232Z",
+  "market_startDate": "2024-02-29T20:47:00Z",
+  "market_endDate": "2024-03-22T00:00:00Z",
+  "market_closedTime": "2024-03-26 05:49:59+00",
+  "conditionId": "0x0c916dfc42ac1419f66f48bbc982e0f14b853165c3b5bd19cca8de2306403486",
+  "slug": "will-ghostbusters-frozen-empire-gross-between-45m-50m-opening-weekend",
+  "question": "Will 'Ghostbusters: Frozen Empire' gross between $45m-50m opening weekend? "
+}

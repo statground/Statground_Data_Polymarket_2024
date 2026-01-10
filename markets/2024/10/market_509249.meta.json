@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:38:19.808458Z",
+  "market_createdAt": "2024-10-08T16:38:19.808458Z",
+  "market_updatedAt": "2024-10-11T10:56:46.009844Z",
+  "market_startDate": "2024-10-08T17:17:19.034795Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:12:09+00",
+  "conditionId": "0x6f4dd760f9b8027c4095cce7a82f936813ad9e76461b881501963874bb168962",
+  "slug": "will-alexis-wright-win-the-nobel-prize-in-literature",
+  "question": "Will Alexis Wright win the Nobel prize in literature?"
+}

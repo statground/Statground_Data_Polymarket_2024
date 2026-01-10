@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:42:29.532879Z",
+  "market_createdAt": "2024-10-18T20:42:29.532879Z",
+  "market_updatedAt": "2024-10-21T16:56:33.461151Z",
+  "market_startDate": "2024-10-18T23:26:22.188825Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:24:58+00",
+  "conditionId": "0xd163fe2c90f353cbbbb99bf808cb1a513cfbbf43d31e87679587c458b08917c1",
+  "slug": "will-the-vikings-beat-the-lions-by-2-or-more-points",
+  "question": "Will the Vikings beat the Lions by 2 or more points?"
+}

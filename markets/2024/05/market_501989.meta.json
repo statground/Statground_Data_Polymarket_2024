@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:46:20.281990Z",
+  "market_createdAt": "2024-05-31T21:46:20.28199Z",
+  "market_updatedAt": "2024-07-10T21:05:51.512892Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-10 00:03:38+00",
+  "conditionId": "0x433c8543ba40a240129348499daf2e8e81497fa04b0de931c1384cdc936a1f8c",
+  "slug": "will-france-win-the-2024-euros",
+  "question": "Will France win the 2024 Euros?"
+}

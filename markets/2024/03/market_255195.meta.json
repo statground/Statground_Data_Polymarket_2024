@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:46:12.833000Z",
+  "market_createdAt": "2024-03-01T19:46:12.833Z",
+  "market_updatedAt": "2024-04-22T22:38:23.417905Z",
+  "market_startDate": "2024-03-02T01:54:00Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-03 08:04:00+00",
+  "conditionId": "0x6e4ec4a0f3e8aebf7e49b6f1910463b71a96c0af75034b4497e5c4430181972d",
+  "slug": "will-trump-win-the-missouri-caucus-by-less-than-20-of-the-vote",
+  "question": "Will Trump win the Missouri Caucus by less than 20% of the vote?"
+}

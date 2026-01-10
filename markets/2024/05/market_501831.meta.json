@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T20:08:49.327465Z",
+  "market_createdAt": "2024-05-24T20:08:49.327465Z",
+  "market_updatedAt": "2024-05-31T23:46:19.252887Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-05-31 02:11:14+00",
+  "conditionId": "0xbc25642473708c807fbdbfc8e967af6610b76dc525a08c41f1f9a157c4afb5f1",
+  "slug": "will-h3cz-win-the-founding-fathers-lan",
+  "question": "Will H3CZ win the Founding Fathers Lan?"
+}

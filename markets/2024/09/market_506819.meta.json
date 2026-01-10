@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:50:18.683502Z",
+  "market_createdAt": "2024-09-11T15:50:18.683502Z",
+  "market_updatedAt": "2024-09-13T22:37:06.642009Z",
+  "market_startDate": "2024-09-11T17:25:53.328969Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:06:54+00",
+  "conditionId": "0x9ae5a0f365570246db9c120f9ace6b80163a0feb2f79bd4ac88b2c5ff6099ade",
+  "slug": "will-trump-say-dog-during-his-arizona-rally",
+  "question": "Will Trump say \"dog\" during his Arizona rally?"
+}

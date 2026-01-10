@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T17:37:28.045948Z",
+  "market_createdAt": "2024-09-16T17:37:28.045948Z",
+  "market_updatedAt": "2024-09-18T04:32:50.800798Z",
+  "market_startDate": "2024-09-16T17:40:16.232467Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 04:26:31+00",
+  "conditionId": "0xefb872a7c0e099ad87a55e85a29c10e156474358eba1e97c0dd96684525991ee",
+  "slug": "will-trump-say-border-10-or-more-times-during-the-x-space",
+  "question": "Will Trump say \"Border\" 10 or more times during the X space?"
+}

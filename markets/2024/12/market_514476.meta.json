@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:16:58.030774Z",
+  "market_createdAt": "2024-12-02T20:16:58.030774Z",
+  "market_updatedAt": "2025-07-02T08:24:49.576522Z",
+  "market_startDate": "2024-12-02T23:36:05.026953Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 08:18:23+00",
+  "conditionId": "0x2dac5b263a09b9a84d775bbc1cbc856559dbe49d3a2b875e7e6ad42a88d07b3b",
+  "slug": "will-a-nuclear-weapon-detonate-by-june-30-2025",
+  "question": "Will a nuclear weapon detonate by June 30?"
+}

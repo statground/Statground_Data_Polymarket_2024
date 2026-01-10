@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-21T18:00:13.335124Z",
+  "market_createdAt": "2024-03-21T18:00:13.335124Z",
+  "market_updatedAt": "2024-04-26T03:24:22.066592Z",
+  "market_startDate": "2024-03-22T18:58:02.688Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-01 00:29:33+00",
+  "conditionId": "0xc1a22bd720283f86462cc4393cf69eac522c70fd84ef244bcdea000856a01aeb",
+  "slug": "will-texas-win-the-ncaa-tournament-women",
+  "question": "Will Texas win the Women's NCAA tournament?"
+}

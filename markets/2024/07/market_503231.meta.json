@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T19:11:53.024948Z",
+  "market_createdAt": "2024-07-05T19:11:53.024948Z",
+  "market_updatedAt": "2024-07-07T02:00:47.833611Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 06:05:37+00",
+  "conditionId": "0x32b1ed2533e3eae064aa2a5b3e9d226c0f3f6113d24544f988030be8e5c80f80",
+  "slug": "will-ronaldo-cry-during-euro-quarterfinals",
+  "question": "Will Ronaldo cry during Euro Quarterfinals? "
+}

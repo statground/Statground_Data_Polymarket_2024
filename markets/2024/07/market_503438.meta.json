@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:40:52.871728Z",
+  "market_createdAt": "2024-07-12T19:40:52.871728Z",
+  "market_updatedAt": "2024-07-15T20:10:47.643455Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:47:17+00",
+  "conditionId": "0xdb6adac78520c337b39880411ea1f51d6f562d146f0d5cc339efdc338dea9f30",
+  "slug": "will-another-player-score-the-first-goal",
+  "question": "Will another player score the first goal?"
+}

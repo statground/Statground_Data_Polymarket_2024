@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:34:32.620077Z",
+  "market_createdAt": "2024-09-30T19:34:32.620077Z",
+  "market_updatedAt": "2024-10-03T00:00:48.632595Z",
+  "market_startDate": "2024-09-30T21:42:35.67759Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:14:50+00",
+  "conditionId": "0x884385a47d5b9a7b5078e66d391d9409d1f9ccf87868d0ae896dae8fce7407d3",
+  "slug": "will-manchester-city-beat-slovan-bratislava",
+  "question": "Will Manchester City beat Slovan Bratislava?"
+}

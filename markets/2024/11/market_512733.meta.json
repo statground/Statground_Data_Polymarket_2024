@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:36:55.918851Z",
+  "market_createdAt": "2024-11-11T18:36:55.918851Z",
+  "market_updatedAt": "2024-11-12T21:33:12.707476Z",
+  "market_startDate": "2024-11-11T18:47:45.246221Z",
+  "market_endDate": "2024-11-11T12:00:00Z",
+  "market_closedTime": "2024-11-11 23:17:33+00",
+  "conditionId": "0x12f40223995c7b9aa128e5c09de52b8a9c89c50664a37cb0d8152e4a27ade908",
+  "slug": "atp-finals-zverev-vs-rublev",
+  "question": "ATP Finals: Zverev vs. Rublev"
+}

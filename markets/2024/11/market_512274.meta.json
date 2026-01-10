@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:30:23.945375Z",
+  "market_createdAt": "2024-11-07T18:30:23.945375Z",
+  "market_updatedAt": "2024-11-16T18:32:55.731199Z",
+  "market_startDate": "2024-11-07T18:50:18.3Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:55:37+00",
+  "conditionId": "0x80b13ee3bad1ae7ed782bda4dfca6bcc7c0cee91772d6c22ff8678d621f28e54",
+  "slug": "will-trump-nominate-doug-burgum-for-interior-secretary",
+  "question": "Will Trump nominate Doug Burgum for Interior Secretary?"
+}

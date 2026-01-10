@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T23:18:22.106182Z",
+  "market_createdAt": "2024-11-07T23:18:22.106182Z",
+  "market_updatedAt": "2024-12-17T15:45:30.948267Z",
+  "market_startDate": "2024-11-08T00:21:20.045Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 17:32:48+00",
+  "conditionId": "0xbb5a40596eeffd8a2443f401f0b92603bc6815f85f9c24b7e54f2c8cb7845ec9",
+  "slug": "germany-confidence-vote-in-2024",
+  "question": "Germany confidence vote in 2024?"
+}

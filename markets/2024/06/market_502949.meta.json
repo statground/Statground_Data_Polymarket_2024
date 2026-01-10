@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502949",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T17:57:25.369322Z",
+  "market_createdAt": "2024-06-27T17:57:25.369322Z",
+  "market_updatedAt": "2024-06-29T04:41:02.612363Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 05:31:57+00",
+  "conditionId": "0x17e737f6e7d49c875f423f6a615741d469717c9fdd99a794871c2b4613e86db5",
+  "slug": "will-biden-poop-his-pants-during-the-debate",
+  "question": "Will Biden poop his pants during the debate?"
+}

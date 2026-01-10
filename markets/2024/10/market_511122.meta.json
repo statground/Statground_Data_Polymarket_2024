@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:44:17.475625Z",
+  "market_createdAt": "2024-10-28T19:44:17.475625Z",
+  "market_updatedAt": "2024-11-01T01:26:55.323384Z",
+  "market_startDate": "2024-10-28T20:59:47.868Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 03:03:42+00",
+  "conditionId": "0x655578f9929e32d911c524d7d2e1731e4aefdd9fe91aa7cefdf6f73c7678c7f8",
+  "slug": "will-trump-say-american-dream-3-or-more-times-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"American dream\" 3 or more times during Wisconsin rally on Oct 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:48:17.271904Z",
+  "market_createdAt": "2024-07-18T17:48:17.271904Z",
+  "market_updatedAt": "2024-07-30T19:33:02.282785Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:36+00",
+  "conditionId": "0xf79e009f4080f1426cba9237513ba29f3ed9df38f10da37fe7a12c9ceab1d14c",
+  "slug": "will-hunter-armstrong-usa-win-gold-in-mens-100m-backstroke",
+  "question": "Will Hunter Armstrong (USA) win Gold in Men's 100m Backstroke?"
+}

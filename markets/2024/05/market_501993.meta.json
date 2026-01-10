@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501993",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:50:46.960522Z",
+  "market_createdAt": "2024-05-31T21:50:46.960522Z",
+  "market_updatedAt": "2024-07-02T17:45:51.282345Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-01 21:15:02+00",
+  "conditionId": "0xa24fb3e86911e28542a2d60ea759535937f8dc38d8c9e8489d96010bb98f83e9",
+  "slug": "will-belgium-win-the-2024-euros",
+  "question": "Will Belgium win the 2024 Euros?"
+}

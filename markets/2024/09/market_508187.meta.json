@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T01:42:38.634536Z",
+  "market_createdAt": "2024-09-26T01:42:38.634536Z",
+  "market_updatedAt": "2024-09-29T23:50:45.091463Z",
+  "market_startDate": "2024-09-26T14:38:06.935804Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-29 01:29:30+00",
+  "conditionId": "0x83902ab372412c01aea533ef55e4fa715574d614079b0a2435505b042c685f19",
+  "slug": "jousset-vs-battle",
+  "question": "Jousset vs. Battle"
+}

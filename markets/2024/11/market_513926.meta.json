@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:58:44.462304Z",
+  "market_createdAt": "2024-11-24T18:58:44.462304Z",
+  "market_updatedAt": "2024-12-02T03:39:19.773236Z",
+  "market_startDate": "2024-11-24T19:01:12.559516Z",
+  "market_endDate": "2024-12-07T23:00:00Z",
+  "market_closedTime": "2024-12-01 03:41:15+00",
+  "conditionId": "0x637a5f495c1592c13f293d96662e54b865a0b3c8f34b7c78c4f26fc6645bc1de",
+  "slug": "nba-atl-cha-2024-11-30",
+  "question": "Hawks vs. Hornets"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:06:46.127728Z",
+  "market_createdAt": "2024-12-20T17:06:46.127728Z",
+  "market_updatedAt": "2024-12-28T19:09:00.449973Z",
+  "market_startDate": "2024-12-20T17:39:16.717932Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 19:06:49+00",
+  "conditionId": "0x94ce768de3b55e3411015b90737a7daf54f8e3614b929b380bead622195e5ec7",
+  "slug": "ethereum-above-3400-on-december-27",
+  "question": "Ethereum above $3,400 on December 27?"
+}

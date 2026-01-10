@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T17:17:20.239540Z",
+  "market_createdAt": "2024-03-13T17:17:20.23954Z",
+  "market_updatedAt": "2024-11-08T05:09:03.919838Z",
+  "market_startDate": "2024-04-03T21:48:00.193Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:26:38+00",
+  "conditionId": "0x57dc89d2f5803961a1c72add5969c2887f9591821d05421f2819fa17b664dd59",
+  "slug": "will-a-republican-win-ohio-us-senate-election",
+  "question": "Will a Republican win Ohio US Senate Election?"
+}

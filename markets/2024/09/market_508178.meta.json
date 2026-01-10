@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T00:48:31.181999Z",
+  "market_createdAt": "2024-09-26T00:48:31.181999Z",
+  "market_updatedAt": "2024-10-01T21:36:46.336558Z",
+  "market_startDate": "2024-09-26T14:27:03.008964Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-30 22:41:28+00",
+  "conditionId": "0x7c90b43c41bb7a41c3597e663bba700df383861392a857c9b852feb504fb3aab",
+  "slug": "will-the-new-york-mets-make-the-playoffs",
+  "question": "Will the New York Mets make the Playoffs?"
+}

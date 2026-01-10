@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T19:14:34.384000Z",
+  "market_createdAt": "2024-01-17T19:14:34.384Z",
+  "market_updatedAt": "2024-01-25T19:43:53.569Z",
+  "market_startDate": "2024-01-17T23:41:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-01-24 11:47:21+00",
+  "conditionId": "0xade3ec5bf81ba4bce12c735d411d81f8891e978c31d5d463b269c5f149b78ea9",
+  "slug": "will-andrew-scott-win-the-oscar-for-best-actor",
+  "question": "Will Andrew Scott win the Oscar for Best Actor?"
+}

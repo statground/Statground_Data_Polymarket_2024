@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T21:02:58.643223Z",
+  "market_createdAt": "2024-09-15T21:02:58.643223Z",
+  "market_updatedAt": "2024-09-17T03:56:47.803662Z",
+  "market_startDate": "2024-09-15T23:36:32.600599Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 05:55:37+00",
+  "conditionId": "0xc6ac775263463bbeed78d3c9a9df431d4fbf9544ca346be3adbf1c80d75c8b7b",
+  "slug": "will-the-texans-win-by-6-or-more-points",
+  "question": "Will the Texans win by 6 or more points?"
+}

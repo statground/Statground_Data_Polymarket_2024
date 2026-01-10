@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:33:53.185964Z",
+  "market_createdAt": "2024-08-19T19:33:53.185964Z",
+  "market_updatedAt": "2024-08-25T04:41:02.238902Z",
+  "market_startDate": "2024-08-23T12:00:00Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 04:39:37+00",
+  "conditionId": "0xb0151072ad9cb68b4f13b9a5ab8aac12767551f1c85a9f254f8cf5a8314e9e9c",
+  "slug": "nfl-tb-mia-2024-08-23",
+  "question": "Buccaneers vs. Dolphins"
+}

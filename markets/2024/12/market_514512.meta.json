@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T21:54:21.126681Z",
+  "market_createdAt": "2024-12-02T21:54:21.126681Z",
+  "market_updatedAt": "2025-01-24T23:05:14.796184Z",
+  "market_startDate": "2024-12-03T19:51:23.575297Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:35:28+00",
+  "conditionId": "0x01bec04b3b16f26b2d335894505cf033fe71093d90a84fb47e333abb4ad4028a",
+  "slug": "will-jim-harbaugh-win-nfl-coach-of-the-year",
+  "question": "Will Jim Harbaugh win NFL Coach of the Year?"
+}

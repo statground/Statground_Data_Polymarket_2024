@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:18:01.896075Z",
+  "market_createdAt": "2024-10-28T20:18:01.896075Z",
+  "market_updatedAt": "2024-11-06T06:43:13.443632Z",
+  "market_startDate": "2024-10-28T20:20:38.834278Z",
+  "market_endDate": "2024-11-05T01:15:00Z",
+  "market_closedTime": "2024-11-05 06:36:31+00",
+  "conditionId": "0x92275edfcb1642365f642b81c893c410014cc40a68205face4d41c21e474aa1d",
+  "slug": "nfl-tb-kc-2024-11-04",
+  "question": "Buccaneers vs. Chiefs"
+}

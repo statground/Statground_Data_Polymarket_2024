@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:14:01.182732Z",
+  "market_createdAt": "2024-11-01T16:14:01.182732Z",
+  "market_updatedAt": "2024-11-06T04:57:09.979967Z",
+  "market_startDate": "2024-11-01T16:16:54.201494Z",
+  "market_endDate": "2024-11-05T00:15:00Z",
+  "market_closedTime": "2024-11-05 05:38:43+00",
+  "conditionId": "0xbe8d0c11e0197e1d5d42f62e6d75617bcec0df5b4bf876a936b1de03b43f1000",
+  "slug": "nba-gsw-was-2024-11-04",
+  "question": "Warriors vs. Wizards"
+}

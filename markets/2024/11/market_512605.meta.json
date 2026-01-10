@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:18:29.617112Z",
+  "market_createdAt": "2024-11-08T23:18:29.617112Z",
+  "market_updatedAt": "2024-11-11T18:49:10.136766Z",
+  "market_startDate": "2024-11-09T02:56:11.544159Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:16:35+00",
+  "conditionId": "0x7b5d1e3075ea7242feaba957765c1aa896d93f9482218dd665087a205446653d",
+  "slug": "will-the-vikings-beat-the-jaguars-by-7-or-more-points",
+  "question": "Will the Vikings beat the Jaguars by 7 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T17:46:05.190390Z",
+  "market_createdAt": "2024-04-02T17:46:05.19039Z",
+  "market_updatedAt": "2024-05-07T23:09:20.158637Z",
+  "market_startDate": "2024-04-02T17:55:19.815Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:10:19+00",
+  "conditionId": "0x4efdb81e428d96e49be77586888f81748420ca8b7e426ccdc4c328494be2687d",
+  "slug": "will-bitcoin-reach-75000-in-april",
+  "question": "Will Bitcoin reach $75,000 in April?"
+}

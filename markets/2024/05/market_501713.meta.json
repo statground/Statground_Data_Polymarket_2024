@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:49:12.485873Z",
+  "market_createdAt": "2024-05-20T17:49:12.485873Z",
+  "market_updatedAt": "2024-06-20T10:11:08.155601Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 10:09:38+00",
+  "conditionId": "0xbb34a3efebe86bd6ae9b9acdefb3af48a20b60a256f6709e9770e02d7320b6cf",
+  "slug": "will-ali-shamkhani-be-the-next-president-of-iran",
+  "question": "Will Ali Shamkhani be the next President of Iran?"
+}

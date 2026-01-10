@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:31:12.772542Z",
+  "market_createdAt": "2024-10-11T22:31:12.772542Z",
+  "market_updatedAt": "2024-10-14T16:06:50.860284Z",
+  "market_startDate": "2024-10-11T23:18:30.192581Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:18:29+00",
+  "conditionId": "0x3e92934868ba41a3090e52c8ff2a8329394b23404f92afa9083b3e6f07aa131e",
+  "slug": "will-the-packers-and-cardinals-combine-for-48-or-more-points",
+  "question": "Will the Packers and Cardinals combine for 48 or more points?"
+}

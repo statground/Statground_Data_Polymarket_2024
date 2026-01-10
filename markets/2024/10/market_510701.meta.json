@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:35:52.107635Z",
+  "market_createdAt": "2024-10-23T15:35:52.107635Z",
+  "market_updatedAt": "2024-11-11T18:53:12.750278Z",
+  "market_startDate": "2024-10-23T17:58:05.423276Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:38:24+00",
+  "conditionId": "0x1677c9767312d900ea10e4615d29e96f00b9849938b9487ad5ad6d5fc048ad22",
+  "slug": "will-the-portland-timbers-win-the-2024-mls-cup",
+  "question": "Will the Portland Timbers win the 2024 MLS Cup?"
+}

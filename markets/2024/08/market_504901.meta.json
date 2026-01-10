@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-11T18:40:18.182902Z",
+  "market_createdAt": "2024-08-11T18:40:18.182902Z",
+  "market_updatedAt": "2025-01-02T08:05:05.243264Z",
+  "market_startDate": "2024-08-11T18:40:18.182902Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:47:30+00",
+  "conditionId": "0xac76f7385f35c0d6b8fdf9c3a07acbf82ce91c5319dea07bf5c966d3875d9298",
+  "slug": "will-stranded-astronauts-leave-the-iss-in-2024",
+  "question": "Will stranded astronauts leave the ISS in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-26T16:30:01.620000Z",
+  "market_createdAt": "2024-01-26T16:30:01.62Z",
+  "market_updatedAt": "2024-01-29T12:41:45.503Z",
+  "market_startDate": "2024-01-26T16:40:55.791Z",
+  "market_endDate": "2024-01-28T00:00:00Z",
+  "market_closedTime": "2024-01-28 14:46:39+00",
+  "conditionId": "0x4548fb6790df56361a6919213f24f388363a1ca5f0a309eb4e9ffd05dfe12378",
+  "slug": "australian-open-final-medvedev-vs-sinner",
+  "question": "Australian Open Final: Medvedev vs. Sinner"
+}

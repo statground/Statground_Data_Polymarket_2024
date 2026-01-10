@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:57:37.760490Z",
+  "market_createdAt": "2024-12-05T21:57:37.76049Z",
+  "market_updatedAt": "2025-01-01T20:25:24.166188Z",
+  "market_startDate": "2024-12-05T22:36:29.22267Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:42:30+00",
+  "conditionId": "0x83cdf186d17857c2363d26eb33b7cda7e6788433370d4f754ead66e00ce84a29",
+  "slug": "will-ethereum-hit-4500pt00-in-december",
+  "question": "Will Ethereum hit $4,500.00 in December?"
+}

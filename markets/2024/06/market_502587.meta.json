@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T16:11:06.692130Z",
+  "market_createdAt": "2024-06-18T16:11:06.69213Z",
+  "market_updatedAt": "2024-06-21T00:01:16.222601Z",
+  "market_startDate": "2024-06-19T19:02:31.567Z",
+  "market_endDate": "2024-06-19T12:00:00Z",
+  "market_closedTime": "2024-06-20 00:04:50+00",
+  "conditionId": "0x76873fec4bf65626daf9e73bff0e52f76991fff5597e6b8faccf4ea3e914c46d",
+  "slug": "will-scotland-win-jun-19",
+  "question": "Will Scotland win?"
+}

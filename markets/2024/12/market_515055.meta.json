@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:06:42.123148Z",
+  "market_createdAt": "2024-12-08T05:06:42.123148Z",
+  "market_updatedAt": "2024-12-15T07:35:38.83122Z",
+  "market_startDate": "2024-12-08T05:10:06.50071Z",
+  "market_endDate": "2024-12-21T03:00:00Z",
+  "market_closedTime": "2024-12-14 07:37:24+00",
+  "conditionId": "0xcdf64e3cec18ec28cf0970e6bdabfe560e43bf8d73ff275977cb721b99e57c87",
+  "slug": "nba-sas-por-2024-12-13",
+  "question": "Spurs vs. Trail Blazers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T19:55:16.438113Z",
+  "market_createdAt": "2024-08-02T19:55:16.438113Z",
+  "market_updatedAt": "2024-09-07T14:47:14.805979Z",
+  "market_startDate": "2024-08-02T19:55:16.438113Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 15:50:00+00",
+  "conditionId": "0xca724b959f18e58c5562e72446839603a14db0e871b991da2142d261909fe270",
+  "slug": "us-adds-less-than-100k-jobs-in-august",
+  "question": "US adds less than 100k jobs in August?"
+}

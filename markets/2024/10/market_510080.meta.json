@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T19:39:41.611046Z",
+  "market_createdAt": "2024-10-17T19:39:41.611046Z",
+  "market_updatedAt": "2024-10-23T09:03:13.554749Z",
+  "market_startDate": "2024-10-17T22:48:09.250338Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 09:25:52+00",
+  "conditionId": "0x933087936b3cca8bf9613e1d72e644ebd8ca27a8b88b3b74385de9f156a9d3ec",
+  "slug": "scorigami-in-nfl-week-7",
+  "question": "Scorigami in NFL Week 7?"
+}

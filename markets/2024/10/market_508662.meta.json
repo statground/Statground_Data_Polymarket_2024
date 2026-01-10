@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:31:51.223560Z",
+  "market_createdAt": "2024-10-01T23:31:51.22356Z",
+  "market_updatedAt": "2024-10-09T05:06:49.767775Z",
+  "market_startDate": "2024-10-01T23:34:04.214Z",
+  "market_endDate": "2024-10-08T12:00:00Z",
+  "market_closedTime": "2024-10-08 05:27:12+00",
+  "conditionId": "0xf0b8bc70ec24f2cf4ba963ed41c39720a9b1252fc94bd718ecaace148b4fad2d",
+  "slug": "nfl-no-kc-2024-10-07",
+  "question": "Saints vs. Chiefs"
+}

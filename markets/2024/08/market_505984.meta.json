@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:56:09.411700Z",
+  "market_createdAt": "2024-08-28T18:56:09.4117Z",
+  "market_updatedAt": "2024-08-31T03:03:12.566313Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:31:37+00",
+  "conditionId": "0x37cc0290732ec76093311e74a261f895ac48d39cd16f6d3b4bb9c2cc95de7ca0",
+  "slug": "will-tim-walz-say-tampon-during-cnn-interview",
+  "question": "Will Tim Walz say \"Tampon\" during CNN interview?"
+}

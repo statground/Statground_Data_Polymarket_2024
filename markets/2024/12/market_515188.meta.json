@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:43:24.794470Z",
+  "market_createdAt": "2024-12-09T21:43:24.79447Z",
+  "market_updatedAt": "2024-12-12T22:05:10.650068Z",
+  "market_startDate": "2024-12-10T21:48:50.606457Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 22:58:31+00",
+  "conditionId": "0x4427d9f13eaf75b9f35c9481ea08ef99b76f7ed8261a2b3cca0606c431e01c9d",
+  "slug": "will-losc-lille-beat-sturm-graz",
+  "question": "Will LOSC Lille beat Sturm Graz?"
+}

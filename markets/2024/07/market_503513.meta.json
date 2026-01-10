@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:33:34.742029Z",
+  "market_createdAt": "2024-07-15T19:33:34.742029Z",
+  "market_updatedAt": "2024-12-18T13:21:15.770396Z",
+  "market_startDate": "2024-07-16T18:05:59.305Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:07:36+00",
+  "conditionId": "0x6136d49fb5ec5f5cd67ccd956d6ee10edaa4b4492227ae419f378f48217ddc8b",
+  "slug": "will-michigan-be-the-tipping-point-state",
+  "question": "Will Michigan be the tipping point state?"
+}

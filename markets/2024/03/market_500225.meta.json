@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:39:37.919414Z",
+  "market_createdAt": "2024-03-18T14:39:37.919414Z",
+  "market_updatedAt": "2024-05-07T23:10:07.288451Z",
+  "market_startDate": "2024-03-18T18:54:10.89Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-25 03:31:14+00",
+  "conditionId": "0x7f2caabf34e50f7b4f26e1ea27964ea91388fc117bfcb306960818c0caed44d5",
+  "slug": "will-baylor-win-the-ncaa-tournament",
+  "question": "Will Baylor win the NCAA tournament?"
+}

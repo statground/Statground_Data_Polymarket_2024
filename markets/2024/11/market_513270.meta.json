@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:03:05.946948Z",
+  "market_createdAt": "2024-11-17T05:03:05.946948Z",
+  "market_updatedAt": "2024-11-21T05:15:03.034342Z",
+  "market_startDate": "2024-11-17T05:05:30.318898Z",
+  "market_endDate": "2024-11-27T00:30:00Z",
+  "market_closedTime": "2024-11-20 05:21:21+00",
+  "conditionId": "0xe306d9c6f452265a36547a9f2bba27a90b85a9240022705975145c109569dffd",
+  "slug": "nba-cha-bkn-2024-11-19",
+  "question": "Hornets vs. Nets"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:00:40.909380Z",
+  "market_createdAt": "2024-08-26T20:00:40.90938Z",
+  "market_updatedAt": "2024-09-01T17:13:04.250944Z",
+  "market_startDate": "2024-08-26T20:00:40.90938Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:12:51+00",
+  "conditionId": "0x04d0dfb637fbfbaaecde66379199fd65dca71e071c3bc9c37cb18ba6227173f4",
+  "slug": "will-southampton-beat-brentford",
+  "question": "Will Southampton beat Brentford?"
+}

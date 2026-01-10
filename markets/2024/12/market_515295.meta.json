@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:10:00.133185Z",
+  "market_createdAt": "2024-12-10T21:10:00.133185Z",
+  "market_updatedAt": "2024-12-13T21:03:12.05893Z",
+  "market_startDate": "2024-12-11T22:48:57.655078Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:08:09+00",
+  "conditionId": "0x970e76fb54e3bdf94e1d70f63ba265a0e13b12f5ea31775230c2c681750b2bc6",
+  "slug": "will-az-alkmaar-beat-ludogorets",
+  "question": "Will AZ Alkmaar beat Ludogorets?"
+}

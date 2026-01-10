@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:10:00.993656Z",
+  "market_createdAt": "2024-07-25T16:10:00.993656Z",
+  "market_updatedAt": "2024-08-03T22:40:15.260615Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:37:16+00",
+  "conditionId": "0xe1e4957de3559891fd88e6f8590c3ea1db0e7630cdc2dcb4a8d70e9f1aa02d24",
+  "slug": "will-another-athlete-win-gold-in-womens-200m-individual-medley",
+  "question": "Will another athlete win Gold in Women's 200m Individual Medley?"
+}

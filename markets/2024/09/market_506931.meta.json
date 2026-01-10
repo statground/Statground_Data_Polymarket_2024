@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T20:03:54.443493Z",
+  "market_createdAt": "2024-09-12T20:03:54.443493Z",
+  "market_updatedAt": "2024-10-11T15:02:53.060241Z",
+  "market_startDate": "2024-09-12T21:03:49.836239Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 15:10:38+00",
+  "conditionId": "0x1e09d035762991e988f78114042c65a5e200b0b069e4f12781dd1507b0577ff8",
+  "slug": "annual-inflation-above-2pt2-in-september",
+  "question": "Annual inflation above 2.2% in September?"
+}

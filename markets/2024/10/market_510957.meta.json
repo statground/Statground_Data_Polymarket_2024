@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510957",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:15:01.773607Z",
+  "market_createdAt": "2024-10-25T18:15:01.773607Z",
+  "market_updatedAt": "2024-10-28T00:10:58.492569Z",
+  "market_startDate": "2024-10-25T22:20:25.787612Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:35:20+00",
+  "conditionId": "0xda21431437b7485159d639befee6e1c6c8cac277caf8de10fae404d51f9bbe95",
+  "slug": "will-ucf-beat-byu",
+  "question": "Will UCF beat BYU?"
+}

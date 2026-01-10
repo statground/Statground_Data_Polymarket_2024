@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T23:02:23.876612Z",
+  "market_createdAt": "2024-08-27T23:02:23.876612Z",
+  "market_updatedAt": "2024-08-31T04:23:10.485183Z",
+  "market_startDate": "2024-08-28T04:38:32.369Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:30:58+00",
+  "conditionId": "0x12ceff1a096f47b8b1d0f73aed35f6e0d86b21587a55adc1298e871a066f7304",
+  "slug": "will-kamala-harris-say-project-2025-during-cnn-interview",
+  "question": "Will Kamala Harris say \"Project 2025\" during CNN interview?"
+}

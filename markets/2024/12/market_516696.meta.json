@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:12:45.103483Z",
+  "market_createdAt": "2024-12-29T07:12:45.103483Z",
+  "market_updatedAt": "2025-01-06T04:09:17.441571Z",
+  "market_startDate": "2024-12-29T07:15:17.3924Z",
+  "market_endDate": "2025-01-12T00:00:00Z",
+  "market_closedTime": "2025-01-05 04:59:39+00",
+  "conditionId": "0x1bf91b2b35900ada54aac651effb10973d4a387ef07ab0976dfc33b553d508fd",
+  "slug": "nhl-det-wpg-2025-01-04",
+  "question": "Red Wings vs. Jets"
+}

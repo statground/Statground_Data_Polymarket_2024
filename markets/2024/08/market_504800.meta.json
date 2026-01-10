@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T14:19:11.947698Z",
+  "market_createdAt": "2024-08-09T14:19:11.947698Z",
+  "market_updatedAt": "2024-08-17T20:31:03.657845Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-16 21:33:40+00",
+  "conditionId": "0xdf14a51a92f0bc147e714fdd8a4e1bbc2eea8ebabe437b2c89c03a63d648120b",
+  "slug": "ethereum-above-2500-on-august-16",
+  "question": "Ethereum above $2,500 on August 16?"
+}

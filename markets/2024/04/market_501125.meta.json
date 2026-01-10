@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T19:09:47.787071Z",
+  "market_createdAt": "2024-04-22T19:09:47.787071Z",
+  "market_updatedAt": "2024-06-03T02:06:11.814206Z",
+  "market_startDate": "2024-04-22T19:11:01.189Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-02 05:22:13+00",
+  "conditionId": "0xa428ac2510adc1afc93d77b2fb0fd68f35254b4a30be2c335467956fc70e66f1",
+  "slug": "mrbeast-biggest-youtube-channel-by-june-30",
+  "question": "MrBeast biggest YouTube channel by June 30?"
+}

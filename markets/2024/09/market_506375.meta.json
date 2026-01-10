@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T15:14:00.284601Z",
+  "market_createdAt": "2024-09-04T15:14:00.284601Z",
+  "market_updatedAt": "2024-09-07T14:41:13.074241Z",
+  "market_startDate": "2024-09-04T17:00:03.122699Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 14:50:14+00",
+  "conditionId": "0x59829579d22f803abe1f7ecb32d3005afc1b2bc4a890ae7a4bc7ace9b561559a",
+  "slug": "unemployment-rate-over-4pt2-for-august",
+  "question": "Unemployment rate over 4.2% in August?"
+}

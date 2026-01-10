@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:41:12.559291Z",
+  "market_createdAt": "2024-04-04T18:41:12.559291Z",
+  "market_updatedAt": "2024-11-09T21:28:51.864026Z",
+  "market_startDate": "2024-04-12T18:58:12.092Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 01:10:18+00",
+  "conditionId": "0x4508a8705c853ca5727dec327449916f7524acbc4d8abc4685f25aad29c7c4d3",
+  "slug": "will-a-candidate-from-another-party-win-maine-us-senate-election",
+  "question": "Will a candidate from another party win Maine US Senate Election?"
+}

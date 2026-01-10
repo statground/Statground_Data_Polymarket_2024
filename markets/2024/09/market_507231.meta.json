@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:17:56.427310Z",
+  "market_createdAt": "2024-09-16T20:17:56.42731Z",
+  "market_updatedAt": "2024-12-06T04:27:25.572333Z",
+  "market_startDate": "2024-09-17T23:23:36.711Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-05 04:31:52+00",
+  "conditionId": "0x2ab22b074a4aac9c040ca86d59cc93674a0cdacac930405c9a7eb6f1a2d66d89",
+  "slug": "will-the-republican-candidate-win-pennsylvania-by-2pt0-2pt5",
+  "question": "Will the Republican candidate win Pennsylvania by 2.0%-2.5%? "
+}

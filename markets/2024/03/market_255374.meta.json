@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T18:21:37.248000Z",
+  "market_createdAt": "2024-03-08T18:21:37.248Z",
+  "market_updatedAt": "2024-11-07T07:03:07.302722Z",
+  "market_startDate": "2024-03-08T18:21:37.248Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 05:30:05+00",
+  "conditionId": "0x0bc5d9d3c1cc7b70284570b1d7dc9936acec5724f294b9490d8550476ed1c271",
+  "slug": "will-a-republican-win-north-dakota-governor-election",
+  "question": "Will a Republican win North Dakota Governor Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T22:27:06.627692Z",
+  "market_createdAt": "2024-11-19T22:27:06.627692Z",
+  "market_updatedAt": "2025-01-14T19:39:17.729998Z",
+  "market_startDate": "2024-11-20T01:24:26.838347Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2025-01-13 19:44:36+00",
+  "conditionId": "0x762ce8ded160554d3c42f11ea89eda0522e7f8e851ae5ea1ba328d66e2235cea",
+  "slug": "will-another-person-be-the-next-president-of-croatia",
+  "question": "Will another person be the next President of Croatia?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T16:15:59.572077Z",
+  "market_createdAt": "2024-10-31T16:15:59.572077Z",
+  "market_updatedAt": "2024-11-04T03:21:10.013229Z",
+  "market_startDate": "2024-11-01T14:49:41.837Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 04:40:24+00",
+  "conditionId": "0x887366824963d0a29534334f305523964a982d243d7e8df0ed5de5a087595ee6",
+  "slug": "will-trump-say-dark-maga-during-greensboro-nc-rally",
+  "question": "Will Trump say \"Dark MAGA\" during Greensboro, NC rally?"
+}

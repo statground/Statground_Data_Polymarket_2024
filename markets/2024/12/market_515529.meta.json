@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T22:50:30.972951Z",
+  "market_createdAt": "2024-12-12T22:50:30.972951Z",
+  "market_updatedAt": "2025-01-29T05:25:25.413437Z",
+  "market_startDate": "2024-12-12T23:27:32.511279Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-28 14:02:12+00",
+  "conditionId": "0x331aeacc3b83bf93df7800514fa83cd123f545ae95bc73447e02a1ba9a5ad337",
+  "slug": "will-sergei-syrankov-win-the-2025-belarus-presidential-election",
+  "question": "Will Sergei Syrankov win the 2025 Belarus Presidential Election?"
+}

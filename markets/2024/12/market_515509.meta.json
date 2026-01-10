@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T20:39:50.288191Z",
+  "market_createdAt": "2024-12-12T20:39:50.288191Z",
+  "market_updatedAt": "2025-04-02T07:02:31.007672Z",
+  "market_startDate": "2024-12-12T23:05:24.131Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:40:54+00",
+  "conditionId": "0x4e9e1271a85c381ee19ad89866bc06df26f37793c77b6933a24bef8c4bfe2dc0",
+  "slug": "will-ethereum-hit-7000pt00-by-march-31",
+  "question": "Will Ethereum hit $7,000.00 by March 31?"
+}

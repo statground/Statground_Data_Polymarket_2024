@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:19:04.621261Z",
+  "market_createdAt": "2024-12-04T21:19:04.621261Z",
+  "market_updatedAt": "2024-12-12T04:35:07.291592Z",
+  "market_startDate": "2024-12-04T21:22:43.307057Z",
+  "market_endDate": "2024-12-18T00:00:00Z",
+  "market_closedTime": "2024-12-11 04:40:10+00",
+  "conditionId": "0x8e21cdb4c5b0b76d67d837750bffbd0e793694f111b8134db56952c95b3efdba",
+  "slug": "nhl-sj-car-2024-12-10",
+  "question": "Sharks vs. Hurricanes"
+}

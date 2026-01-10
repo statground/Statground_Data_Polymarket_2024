@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:44:27.968270Z",
+  "market_createdAt": "2024-10-30T16:44:27.96827Z",
+  "market_updatedAt": "2024-11-01T20:31:20.700186Z",
+  "market_startDate": "2024-10-30T18:04:17.691475Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 21:11:59+00",
+  "conditionId": "0x5fd25ab6d79427cce2cfe564ed8e0b7566e3d74f1c94afd71580948ec27660da",
+  "slug": "will-trump-say-garbage-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"garbage\" during New Mexico rally on October 31?"
+}

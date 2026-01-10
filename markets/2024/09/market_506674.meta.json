@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T16:17:18.298147Z",
+  "market_createdAt": "2024-09-09T16:17:18.298147Z",
+  "market_updatedAt": "2024-10-22T15:53:18.821015Z",
+  "market_startDate": "2024-09-10T17:10:00.573274Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2024-10-21 19:21:21+00",
+  "conditionId": "0xbdb9ab17c8046dae6c4f1d0fbe0b4ba53dc83d13aa7f5d6dbcdbd9dd5270d14e",
+  "slug": "september-temperature-increase-by-more-than-1pt40c",
+  "question": "September temperature increase by more than 1.40°C?"
+}

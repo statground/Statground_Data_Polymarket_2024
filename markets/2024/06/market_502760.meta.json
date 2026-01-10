@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T22:13:18.981714Z",
+  "market_createdAt": "2024-06-21T22:13:18.981714Z",
+  "market_updatedAt": "2024-06-23T00:07:28.137613Z",
+  "market_startDate": "2024-06-21T22:24:55.186Z",
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 00:05:56+00",
+  "conditionId": "0xe409b94e54b822334d3fc5b492cef4c3f621ced4f9464c1e8a1cf8e60243b992",
+  "slug": "will-belgium-win-june-22",
+  "question": "Will Belgium win?"
+}

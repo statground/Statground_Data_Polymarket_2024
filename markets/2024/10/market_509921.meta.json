@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509921",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:00:48.537596Z",
+  "market_createdAt": "2024-10-15T19:00:48.537596Z",
+  "market_updatedAt": "2024-10-18T04:26:45.565025Z",
+  "market_startDate": "2024-10-15T20:39:41.521Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 04:27:48+00",
+  "conditionId": "0xebbd9163c5475c1fdf26d4de42ab4752988d1c7bb47beda00445afa1212e79f4",
+  "slug": "will-trump-say-elon-during-univision-town-hall",
+  "question": "Will Trump say \"Elon\" during Univision town hall?"
+}

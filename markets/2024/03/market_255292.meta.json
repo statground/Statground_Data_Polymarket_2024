@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:31:26.795000Z",
+  "market_createdAt": "2024-03-05T05:31:26.795Z",
+  "market_updatedAt": "2024-04-26T03:01:26.57626Z",
+  "market_startDate": "2024-03-05T06:03:58.183Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 06:33:54+00",
+  "conditionId": "0x4c09d0c5c2baac893a0f3d99d6a1ef8f1298b6ff99b67ecdb9e47cfeeed5a9eb",
+  "slug": "will-trump-win-tennessee-republican-primary",
+  "question": "Will Trump win Tennessee Republican Primary?"
+}

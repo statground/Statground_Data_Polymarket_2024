@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505103",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:17:19.320375Z",
+  "market_createdAt": "2024-08-14T16:17:19.320375Z",
+  "market_updatedAt": "2024-12-05T21:11:38.195458Z",
+  "market_startDate": "2024-08-14T16:17:19.320375Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-04 21:43:44+00",
+  "conditionId": "0x5edae953388817d1a949fedf1da005a86bc17aa2158a1af254902f06c9d2f5d4",
+  "slug": "will-republicans-have-between-220-and-224-seats-in-house-after-election",
+  "question": "Will Republicans have between 220 and 224 seats in House after election?"
+}

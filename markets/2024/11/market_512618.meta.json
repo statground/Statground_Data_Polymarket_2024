@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:43:53.582477Z",
+  "market_createdAt": "2024-11-08T23:43:53.582477Z",
+  "market_updatedAt": "2024-11-11T17:32:40.535457Z",
+  "market_startDate": "2024-11-09T02:55:45.45051Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:16:41+00",
+  "conditionId": "0xd7a7c403514cef3998789990c14b5e7bf23995e07b2a16406ae8c7c642f1bce5",
+  "slug": "will-the-vikings-and-jaguars-combine-for-44-or-more-points",
+  "question": "Will the Vikings and Jaguars combine for 44 or more points?"
+}

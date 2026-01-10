@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:41:54.357608Z",
+  "market_createdAt": "2024-09-18T02:41:54.357608Z",
+  "market_updatedAt": "2025-03-31T20:22:37.511897Z",
+  "market_startDate": "2024-09-18T16:50:22.909463Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-30 21:49:09+00",
+  "conditionId": "0xc5f98eb484b9ff5c33ed17906eac4b3784eb4ca3928a5bd0b9d15175a4fd1a02",
+  "slug": "will-sevilla-fc-win-la-liga",
+  "question": "Will Sevilla FC win La Liga?"
+}

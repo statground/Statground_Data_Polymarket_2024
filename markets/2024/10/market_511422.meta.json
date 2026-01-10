@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:11:32.760604Z",
+  "market_createdAt": "2024-10-30T16:11:32.760604Z",
+  "market_updatedAt": "2024-11-01T22:13:14.063842Z",
+  "market_startDate": "2024-10-30T18:05:21.865552Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 22:06:08+00",
+  "conditionId": "0x91b1ba4f7cdd8d83203420fb27f6f021f66706622132d459f0896b42f86f01b9",
+  "slug": "will-trump-say-kamala-20-or-more-times-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"Kamala\" 20 or more times during New Mexico rally on October 31?"
+}

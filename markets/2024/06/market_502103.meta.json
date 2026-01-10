@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502103",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:29:40.178472Z",
+  "market_createdAt": "2024-06-04T15:29:40.178472Z",
+  "market_updatedAt": "2024-06-18T06:51:47.319834Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:50:08+00",
+  "conditionId": "0xf649deb37a64ed569996ac44f8b0a53851c6ab17baa730229617057b4a4d8e2b",
+  "slug": "will-jaylen-brown-make-the-most-3-pointers-in-the-2024-nba-finals-series",
+  "question": "Will Jaylen Brown make the most 3-pointers in the 2024 NBA Finals series?"
+}

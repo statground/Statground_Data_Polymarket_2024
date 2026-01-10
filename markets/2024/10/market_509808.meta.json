@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:07:15.074713Z",
+  "market_createdAt": "2024-10-14T18:07:15.074713Z",
+  "market_updatedAt": "2024-10-17T03:22:55.139342Z",
+  "market_startDate": "2024-10-14T23:56:09.309Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 03:20:24+00",
+  "conditionId": "0x0e7aeba86b756f016b5ed75cd4833b245545287bfc4acfed21140245b7641b03",
+  "slug": "will-trump-say-defund-the-police-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say \"Defund the police\" during Georgia speech on Oct 15?"
+}

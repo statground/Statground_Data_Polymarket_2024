@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:34:09.586533Z",
+  "market_createdAt": "2024-11-08T19:34:09.586533Z",
+  "market_updatedAt": "2024-11-10T21:18:49.814896Z",
+  "market_startDate": "2024-11-08T22:16:01.884135Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-09 22:58:37+00",
+  "conditionId": "0x3026810354fdb26804681afa345eda6e3291771d7c1645608e4c56358bab793c",
+  "slug": "cfb-minnesota-vs-rutgers",
+  "question": "CFB: Minnesota vs. Rutgers"
+}

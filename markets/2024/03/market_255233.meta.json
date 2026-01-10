@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T16:56:38.453000Z",
+  "market_createdAt": "2024-03-04T16:56:38.453Z",
+  "market_updatedAt": "2024-04-22T22:32:26.108862Z",
+  "market_startDate": "2024-03-04T18:03:30.693Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-06 11:30:31+00",
+  "conditionId": "0x7782546b6226590c02df4277085782b6cf0899c998d4ad6327f836608945601c",
+  "slug": "mog-all-time-high-by-friday",
+  "question": "MOG all time high by Friday?"
+}

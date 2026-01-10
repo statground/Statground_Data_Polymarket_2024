@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:07:07.874125Z",
+  "market_createdAt": "2024-10-31T15:07:07.874125Z",
+  "market_updatedAt": "2024-11-02T22:43:05.182901Z",
+  "market_startDate": "2024-11-01T15:39:27.163189Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 23:45:37+00",
+  "conditionId": "0x7325b35ea5f3c1e015d6180af94d6827c289f3531c321aa39fd498267e4b9439",
+  "slug": "will-trump-say-garbage-during-warren-mi-rally",
+  "question": "Will Trump say \"garbage\" during Warren, MI rally?"
+}

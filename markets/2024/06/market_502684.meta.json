@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T15:55:29.605068Z",
+  "market_createdAt": "2024-06-20T15:55:29.605068Z",
+  "market_updatedAt": "2024-06-24T13:01:15.649501Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:46:41+00",
+  "conditionId": "0xdb73c01ca0e01267a8887ed24ceec218480dfbec7c4aca3f3d84c39f56333485",
+  "slug": "ninja-biggest-loser-jun-22",
+  "question": "Ninja biggest loser?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513175",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:16:05.561135Z",
+  "market_createdAt": "2024-11-15T19:16:05.561135Z",
+  "market_updatedAt": "2024-11-17T23:23:15.844122Z",
+  "market_startDate": "2024-11-15T22:12:50.624336Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 02:05:07+00",
+  "conditionId": "0x959e956df92dc506e245c28626f593cff072a550c9db20d8dfd82a441c6f4da2",
+  "slug": "will-penn-state-beat-purdue",
+  "question": "Will Penn State beat Purdue?"
+}

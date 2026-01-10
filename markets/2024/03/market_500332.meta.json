@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T20:43:58.219902Z",
+  "market_createdAt": "2024-03-19T20:43:58.219902Z",
+  "market_updatedAt": "2024-05-09T23:39:04.053731Z",
+  "market_startDate": "2024-03-20T17:43:17.86Z",
+  "market_endDate": "2024-07-31T04:00:00Z",
+  "market_closedTime": "2024-05-09 02:47:03+00",
+  "conditionId": "0x43daef606b2c6e6dc0b3a6ab8de41fbf4d086e0ca9e50ac64eaf14c23d8faacb",
+  "slug": "will-nikola-joki-win-the-202324-nba-mvp",
+  "question": "Will Nikola Jokić win the 2023-24 NBA MVP?"
+}

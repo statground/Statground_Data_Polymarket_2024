@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:20:36.791935Z",
+  "market_createdAt": "2024-11-18T22:20:36.791935Z",
+  "market_updatedAt": "2024-11-21T00:49:04.33448Z",
+  "market_startDate": "2024-11-19T20:44:44.037606Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:09:43+00",
+  "conditionId": "0x5005d5e2acb6461b14b0489f67faacd75efe9ad456cc3b566887d4c6140c356d",
+  "slug": "will-venezuela-beat-chile",
+  "question": "Will Venezuela beat Chile?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T21:37:45.106000Z",
+  "market_createdAt": "2024-01-18T21:37:45.106Z",
+  "market_updatedAt": "2024-05-07T23:09:29.071263Z",
+  "market_startDate": "2024-01-18T22:51:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2024-03-21 23:13:00+00",
+  "conditionId": "0x58727a3cddb1e2d7fd08f108cd73760fbe32025e27ab71668eee49ae5dafca9a",
+  "slug": "will-reddit-ipo-at-between-5b-7pt5b-valuation",
+  "question": "Will Reddit IPO at between $5b-7.5b valuation?"
+}

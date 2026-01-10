@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:31:28.548386Z",
+  "market_createdAt": "2024-10-04T16:31:28.548386Z",
+  "market_updatedAt": "2024-10-06T18:02:45.892629Z",
+  "market_startDate": "2024-10-04T18:32:42.563041Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:52:48+00",
+  "conditionId": "0x13d2c6835b5e68dc80ea06dd524a36f80ced53e867a69b2fc4bef25156de5c93",
+  "slug": "will-nebraska-beat-rutgers-by-7-or-more-points",
+  "question": "Will Nebraska beat Rutgers by 7 or more points?"
+}

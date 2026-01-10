@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:08:22.495902Z",
+  "market_createdAt": "2024-12-22T05:08:22.495902Z",
+  "market_updatedAt": "2024-12-28T07:35:01.333218Z",
+  "market_startDate": "2024-12-22T05:10:57.184949Z",
+  "market_endDate": "2025-01-03T03:00:00Z",
+  "market_closedTime": "2024-12-27 07:45:00+00",
+  "conditionId": "0x340f7bd132b86314aa2f0c621d9b6b883ee8ee1c6698ef2710753a9e41bb3902",
+  "slug": "nba-det-sac-2024-12-26",
+  "question": "Pistons vs. Kings"
+}

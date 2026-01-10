@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:42:29.689740Z",
+  "market_createdAt": "2024-10-01T19:42:29.68974Z",
+  "market_updatedAt": "2024-11-02T02:33:09.47152Z",
+  "market_startDate": "2024-10-01T20:11:43.668296Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:04:45+00",
+  "conditionId": "0x5887d15377196406e76883c003cf1761fa79e517a718520e58f80a6d69116968",
+  "slug": "will-ethereum-reach-3000-in-october",
+  "question": "Will Ethereum reach $3,000 in October? "
+}

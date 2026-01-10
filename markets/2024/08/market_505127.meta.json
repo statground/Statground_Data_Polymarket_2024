@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:08:37.771175Z",
+  "market_createdAt": "2024-08-14T21:08:37.771175Z",
+  "market_updatedAt": "2024-09-05T02:47:08.707493Z",
+  "market_startDate": "2024-08-14T21:08:37.771175Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-09-04 07:08:52+00",
+  "conditionId": "0x811bd0693c9f2016be9f551acf71787fde5ec3631e738a57cd0ae3e236a537c0",
+  "slug": "will-jeremy-simon-win",
+  "question": "Will Jeremy Simon win?"
+}

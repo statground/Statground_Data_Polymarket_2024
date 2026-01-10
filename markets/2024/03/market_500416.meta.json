@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-25T14:54:07.073186Z",
+  "market_createdAt": "2024-03-25T14:54:07.073186Z",
+  "market_updatedAt": "2024-05-07T23:09:11.001859Z",
+  "market_startDate": "2024-03-25T14:58:15.724Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:10:23+00",
+  "conditionId": "0xd3ed6fdc1b01b95fd1500f1686dfd9f21aa57e3a42fb03466f3b903eec1e5ec2",
+  "slug": "shohei-ohtani-suspension-by-april-30",
+  "question": "Shohei Ohtani suspension by April 30?"
+}

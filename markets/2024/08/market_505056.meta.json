@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T19:39:49.673720Z",
+  "market_createdAt": "2024-08-13T19:39:49.67372Z",
+  "market_updatedAt": "2024-08-17T22:42:58.909166Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-17 00:04:22+00",
+  "conditionId": "0x89b086c6255e0c11f2d25f82cd59ae128aa93f67613fed62f5a6b37475223d29",
+  "slug": "will-manchester-united-vs-fulham-end-in-a-draw",
+  "question": "Will Manchester United vs. Fulham end in a draw?"
+}

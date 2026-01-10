@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T16:02:14.999364Z",
+  "market_createdAt": "2024-05-14T16:02:14.999364Z",
+  "market_updatedAt": "2024-11-08T00:43:05.17326Z",
+  "market_startDate": "2024-05-14T16:02:14.999Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:49:10+00",
+  "conditionId": "0x2010ff3939e8e664dd57369aa907bbaa6d03ae18be27fe3ab2f4cdcb95a8b2ab",
+  "slug": "will-a-republican-win-the-popular-vote-and-the-presidency",
+  "question": "Will a Republican win the popular vote and the Presidency? "
+}

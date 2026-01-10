@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T20:27:38.543446Z",
+  "market_createdAt": "2024-06-13T20:27:38.543446Z",
+  "market_updatedAt": "2024-06-27T02:36:10.136538Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 08:26:11+00",
+  "conditionId": "0x18da960befbced211f76cbefaeebe98b216f5c6f43dd3eff0219e66f75986769",
+  "slug": "will-trent-staggs-win-the-utah-republican-primary",
+  "question": "Will Trent Staggs win the Utah Republican Primary?"
+}

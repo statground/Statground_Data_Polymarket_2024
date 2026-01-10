@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:14:27.720000Z",
+  "market_createdAt": "2024-01-12T19:14:27.72Z",
+  "market_updatedAt": "2024-03-11T23:57:59.453Z",
+  "market_startDate": "2024-01-16T17:50:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:33:12+00",
+  "conditionId": "0x5ddda8ae6b5c35f5088515ee1a16ae03ff5ced91d4e9cb1ed48f1b787f186256",
+  "slug": "will-anatomy-of-a-fall-win-the-oscar-for-best-picture",
+  "question": "Will \"Anatomy of a Fall\" win the Oscar for Best Picture?"
+}

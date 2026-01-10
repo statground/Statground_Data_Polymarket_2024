@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502877",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T17:21:33.404939Z",
+  "market_createdAt": "2024-06-25T17:21:33.404939Z",
+  "market_updatedAt": "2024-06-29T06:20:59.794459Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:32:15+00",
+  "conditionId": "0x13566e8fbc69af5120a1fc1f4998117fc61e64aacd324fce285486aa626f52c5",
+  "slug": "will-biden-say-come-on-during-the-debate",
+  "question": "Will Biden say \"Come on\" during the debate?"
+}

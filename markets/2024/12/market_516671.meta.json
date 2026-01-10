@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:05:27.706968Z",
+  "market_createdAt": "2024-12-29T07:05:27.706968Z",
+  "market_updatedAt": "2025-01-02T04:33:09.931704Z",
+  "market_startDate": "2024-12-29T07:08:01.926397Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 06:47:11+00",
+  "conditionId": "0xb5fb3942cea10045d5a21e6a90366756409247876dd58fef7c45d2555500f0b4",
+  "slug": "nhl-nsh-min-2024-12-31",
+  "question": "Predators vs. Wild"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T16:42:53.478997Z",
+  "market_createdAt": "2024-12-09T16:42:53.478997Z",
+  "market_updatedAt": "2024-12-11T01:21:19.463754Z",
+  "market_startDate": "2024-12-09T23:23:15.252483Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-10 06:28:21+00",
+  "conditionId": "0xb3f7463d33ebe2c53ec599af48ad56827ae26b451bab4155d0707cffcb5d0b03",
+  "slug": "will-the-bengals-and-cowboys-combine-for-50-or-more-points",
+  "question": "Will the Bengals and Cowboys combine for 50 or more points?"
+}

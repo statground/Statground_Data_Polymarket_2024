@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:28:48.094409Z",
+  "market_createdAt": "2024-11-07T17:28:48.094409Z",
+  "market_updatedAt": "2024-11-16T07:13:04.648229Z",
+  "market_startDate": "2024-11-07T18:13:06.934434Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:36:49+00",
+  "conditionId": "0x649076ffc17d89ad6db51b4d8a4d5da613fa6b0d160630a586c56d3bc537028f",
+  "slug": "will-trump-nominate-brian-blase-for-hhs-secretary",
+  "question": "Will Trump nominate Brian Blase for HHS Secretary?"
+}

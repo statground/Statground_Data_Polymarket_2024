@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T16:21:05.213633Z",
+  "market_createdAt": "2024-10-31T16:21:05.213633Z",
+  "market_updatedAt": "2024-11-04T04:42:59.624203Z",
+  "market_startDate": "2024-11-01T14:50:50.448Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:20:50+00",
+  "conditionId": "0xb279fc84165ae6196f52f7cde1a7d6d665a13e86fc4888546e5193e67cb725f6",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-greensboro-nc-rally",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Greensboro, NC rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T19:37:22.897256Z",
+  "market_createdAt": "2024-04-02T19:37:22.897256Z",
+  "market_updatedAt": "2024-06-02T06:21:06.162296Z",
+  "market_startDate": "2024-04-02T19:49:13.34Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:25:19+00",
+  "conditionId": "0x9a2a94a18e4663765b15712e96131722d5774b1ac88bf77a6a886bf15071556f",
+  "slug": "aave-removes-dai-as-collateral-before-june",
+  "question": "Aave removes DAI as collateral before June?"
+}

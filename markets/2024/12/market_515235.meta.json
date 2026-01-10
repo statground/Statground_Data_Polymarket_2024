@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:32:19.294696Z",
+  "market_createdAt": "2024-12-10T02:32:19.294696Z",
+  "market_updatedAt": "2024-12-17T06:03:19.773686Z",
+  "market_startDate": "2024-12-10T02:35:45.86944Z",
+  "market_endDate": "2024-12-23T01:20:00Z",
+  "market_closedTime": "2024-12-16 06:31:29+00",
+  "conditionId": "0x40960294fd0d6416655f24ee138a4bdae0426efe3fbbf7217c7d6395b560131b",
+  "slug": "nfl-gb-sea-2024-12-15",
+  "question": "Packers vs. Seahawks"
+}

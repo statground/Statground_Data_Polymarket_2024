@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:53:56.607653Z",
+  "market_createdAt": "2024-10-14T18:53:56.607653Z",
+  "market_updatedAt": "2024-10-16T23:00:59.002451Z",
+  "market_startDate": "2024-10-15T00:06:58.714959Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-15 23:55:55+00",
+  "conditionId": "0x67124524d03c155d2653f4128ad04ca411252a4de99e6c84a233598e339e7798",
+  "slug": "will-the-match-between-switzerland-and-denmark-end-in-a-draw",
+  "question": "Will the match between Switzerland and Denmark end in a draw?"
+}

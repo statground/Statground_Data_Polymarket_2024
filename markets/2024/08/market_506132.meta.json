@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T22:27:23.731992Z",
+  "market_createdAt": "2024-08-29T22:27:23.731992Z",
+  "market_updatedAt": "2024-11-06T07:57:13.688916Z",
+  "market_startDate": "2024-08-29T22:36:48.427Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:08:07+00",
+  "conditionId": "0x2e7984c046a7bf662661b83a1d7e46f20b81b02e56cd2a27eb26413ddc9bbc9b",
+  "slug": "will-george-w-bush-endorse-harris-before-election",
+  "question": "Will George W. Bush endorse Kamala Harris?"
+}

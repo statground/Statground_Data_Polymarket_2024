@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T05:43:49.939000Z",
+  "market_createdAt": "2024-01-06T05:43:49.939Z",
+  "market_updatedAt": "2024-04-26T03:02:41.944166Z",
+  "market_startDate": "2024-01-06T09:17:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-01-08 03:33:12+00",
+  "conditionId": "0x2d8fb5d0d308d0d054e3d8f1c077b394961190226110ab09373d1e6ad762a090",
+  "slug": "will-the-new-orleans-saints-win-super-bowl-lviii",
+  "question": "Will the New Orleans Saints win Super Bowl LVIII?"
+}

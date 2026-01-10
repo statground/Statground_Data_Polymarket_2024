@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T17:19:03.993728Z",
+  "market_createdAt": "2024-11-22T17:19:03.993728Z",
+  "market_updatedAt": "2024-11-30T18:29:27.08169Z",
+  "market_startDate": "2024-11-22T18:12:46.923724Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-29 19:14:03+00",
+  "conditionId": "0x4e0c9045840a318fdaeee431b936aeee64f5b47fe5df49f71420c107edca143d",
+  "slug": "ripple-above-1pt46-on-november-29",
+  "question": "Ripple above $1.46 on November 29?"
+}

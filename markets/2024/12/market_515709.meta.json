@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:05:29.649709Z",
+  "market_createdAt": "2024-12-15T07:05:29.649709Z",
+  "market_updatedAt": "2024-12-21T04:07:03.846507Z",
+  "market_startDate": "2024-12-15T07:08:14.42823Z",
+  "market_endDate": "2024-12-27T01:00:00Z",
+  "market_closedTime": "2024-12-20 05:51:31+00",
+  "conditionId": "0x98b5aa3f813db1fe63d65ea82de03854313fb643e2561ce2b51a1b051b8c293a",
+  "slug": "nhl-pit-nsh-2024-12-19",
+  "question": "Penguins vs. Predators"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T20:14:12.810554Z",
+  "market_createdAt": "2024-08-29T20:14:12.810554Z",
+  "market_updatedAt": "2025-02-08T06:13:02.127328Z",
+  "market_startDate": "2024-08-29T20:14:12.81Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-02-07 07:59:01+00",
+  "conditionId": "0x270d51ab499f6306b222d442811a566d054e194c4ddf9b1de0e3ade7246a7058",
+  "slug": "will-another-player-win-nfl-mvp-for-the-2024-2025-season",
+  "question": "Will another player win NFL MVP for the 2024-2025 season?"
+}

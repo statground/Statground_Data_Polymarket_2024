@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:20:16.498136Z",
+  "market_createdAt": "2024-10-18T17:20:16.498136Z",
+  "market_updatedAt": "2024-10-20T19:26:43.203883Z",
+  "market_startDate": "2024-10-18T23:27:36.519079Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:03:31+00",
+  "conditionId": "0x21af9cd55f71d52e8e95d8609f5adf6ff77a75c4be48e3c132f36737a6ff78ad",
+  "slug": "will-alabama-beat-tennessee-by-3-or-more-points",
+  "question": "Will Alabama beat Tennessee by 3 or more points?"
+}

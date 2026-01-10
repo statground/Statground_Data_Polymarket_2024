@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T20:12:38.707259Z",
+  "market_createdAt": "2024-08-06T20:12:38.707259Z",
+  "market_updatedAt": "2024-08-10T20:46:58.202127Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-09 20:50:57+00",
+  "conditionId": "0x8ab275841ef87e185ae28c228c85a7a58028f3cacb3f1e17989dfdd5c9b4f959",
+  "slug": "will-the-usa-win-gold-in-the-womens-4x100m-relay",
+  "question": "Will the USA win gold in the Women’s 4x100m Relay?"
+}

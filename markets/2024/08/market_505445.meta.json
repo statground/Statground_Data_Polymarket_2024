@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:39:00.236948Z",
+  "market_createdAt": "2024-08-20T19:39:00.236948Z",
+  "market_updatedAt": "2024-08-22T21:03:05.186415Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:17:15+00",
+  "conditionId": "0xd77d4725430f85b562826db285c68527fc4bb2ee85972f9b2020261010422248",
+  "slug": "will-trump-say-comrade-kamala-during-wednesday-speech",
+  "question": "Will Trump say \"Comrade Kamala\" during Wednesday speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:56:40.559507Z",
+  "market_createdAt": "2024-09-27T19:56:40.559507Z",
+  "market_updatedAt": "2024-10-16T11:16:47.97883Z",
+  "market_startDate": "2024-09-27T21:00:10.236985Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-10-15 11:09:48+00",
+  "conditionId": "0x6cbbd5784fa7cc9d2753cce5c23b389d7437ed2b32d14aa836de8f2dad082a83",
+  "slug": "puffer-airdrop-in-2024",
+  "question": "Puffer airdrop in 2024?"
+}

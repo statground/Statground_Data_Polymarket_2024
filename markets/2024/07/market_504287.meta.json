@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:08:57.704903Z",
+  "market_createdAt": "2024-07-29T20:08:57.704903Z",
+  "market_updatedAt": "2024-08-05T13:32:57.860777Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 18:50:05+00",
+  "conditionId": "0xb9e4b117b28a1491ada3f61fd2e616fb2c71f5eeb8b89f355bd278d1ff4b732e",
+  "slug": "will-ludvig-aberg-win-gold-in-mens-golf",
+  "question": "Will Ludvig Aberg win Gold in Men's Golf?"
+}

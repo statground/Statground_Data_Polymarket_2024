@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T17:52:54.298894Z",
+  "market_createdAt": "2024-11-18T17:52:54.298894Z",
+  "market_updatedAt": "2025-01-02T08:11:07.956593Z",
+  "market_startDate": "2024-11-18T18:07:36.159Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:36:34+00",
+  "conditionId": "0x9907587083e4011a090e3adc2e1457b102f4fdd2ce8e892d88152f75071ebcc1",
+  "slug": "crimean-bridge-before-2025",
+  "question": "Crimean bridge hit before 2025?"
+}

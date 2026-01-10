@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:39:01.561419Z",
+  "market_createdAt": "2024-09-18T02:39:01.561419Z",
+  "market_updatedAt": "2025-04-23T01:31:32.919969Z",
+  "market_startDate": "2024-09-18T16:37:43.765636Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-23 01:28:40+00",
+  "conditionId": "0x75bea962b6045705ea0f7f6c3ed71694e9e4527fc34ad9d75bef913aedd5fb99",
+  "slug": "will-athletic-bilbao-win-la-liga",
+  "question": "Will Athletic Bilbao win La Liga?"
+}

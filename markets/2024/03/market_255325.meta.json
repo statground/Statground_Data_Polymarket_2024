@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T21:50:23.216000Z",
+  "market_createdAt": "2024-03-06T21:50:23.216Z",
+  "market_updatedAt": "2025-02-10T20:56:34.796417Z",
+  "market_startDate": "2024-03-06T23:23:48.247Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:17:56+00",
+  "conditionId": "0xc8f2b2277aa63627071a3f0db8dd70e7fc490219b28f9486bf0bc0c0434f7b77",
+  "slug": "solana-etf-approved-in-2024",
+  "question": "Solana ETF approved in 2024?"
+}

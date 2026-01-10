@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:40:39.817388Z",
+  "market_createdAt": "2024-09-27T20:40:39.817388Z",
+  "market_updatedAt": "2024-09-30T19:20:41.141192Z",
+  "market_startDate": "2024-09-27T22:02:08.710244Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:04:00+00",
+  "conditionId": "0x9462fc848405ed154d2509a36f5d8479810063525071e92dc7096ea60b0546d4",
+  "slug": "sf-vs-ne-will-there-be-41-or-more-combined-points-scored",
+  "question": "SF vs. NE: Will there be 41 or more combined points scored?"
+}

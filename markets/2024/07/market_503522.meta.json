@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T20:39:44.425564Z",
+  "market_createdAt": "2024-07-15T20:39:44.425564Z",
+  "market_updatedAt": "2024-07-22T17:56:35.849936Z",
+  "market_startDate": "2024-07-17T01:54:56.297Z",
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-21 18:15:03+00",
+  "conditionId": "0x8358087c633affa0cd7f531bb758ae65102f73ace9094661800125a9bd8d1e60",
+  "slug": "who-will-538-project-as-favorite-on-friday-july-19",
+  "question": "Who will 538 project as favorite on Friday?"
+}

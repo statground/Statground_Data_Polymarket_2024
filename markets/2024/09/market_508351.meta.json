@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:58:52.778148Z",
+  "market_createdAt": "2024-09-27T19:58:52.778148Z",
+  "market_updatedAt": "2025-01-02T00:17:21.053726Z",
+  "market_startDate": "2024-09-27T21:00:58.283647Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:17:12+00",
+  "conditionId": "0x626a075ef62f05bd0bed3dc046e090577aafe3cb4540c1c12da273a9d30ab084",
+  "slug": "aleo-airdrop-in-2024",
+  "question": "Aleo airdrop in 2024?"
+}

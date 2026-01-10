@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:58:20.924775Z",
+  "market_createdAt": "2024-10-25T18:58:20.924775Z",
+  "market_updatedAt": "2024-10-28T02:56:43.949605Z",
+  "market_startDate": "2024-10-25T22:30:36.920338Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 05:22:01+00",
+  "conditionId": "0x167ad45378533ce69052d0c014a19302631812b5880ce17929a600f53f7bd85d",
+  "slug": "will-penn-state-beat-wisconsin-by-7-or-more-points",
+  "question": "Will Penn State beat Wisconsin by 7 or more points?"
+}

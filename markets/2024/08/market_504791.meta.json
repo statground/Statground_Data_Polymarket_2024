@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T21:18:21.197864Z",
+  "market_createdAt": "2024-08-08T21:18:21.197864Z",
+  "market_updatedAt": "2025-01-01T12:34:51.249376Z",
+  "market_startDate": "2024-08-08T21:18:21.197864Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 12:31:57+00",
+  "conditionId": "0x9a40940cb0128eab324a93749bdf15f668a5b248d6c513ff58a0edb1bd23b614",
+  "slug": "mark-wiedman-announced-as-next-blackrock-ceo",
+  "question": "Mark Wiedman announced as next BlackRock CEO?"
+}

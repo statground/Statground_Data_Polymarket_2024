@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T14:59:13.898367Z",
+  "market_createdAt": "2024-08-22T14:59:13.898367Z",
+  "market_updatedAt": "2024-08-24T02:11:02.747847Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:42:00+00",
+  "conditionId": "0x5280663360f676a1474fe2df3595f79bfa0cbde1238bad8a2307da51a9f5ae96",
+  "slug": "will-gretchen-whitmer-say-white-house-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"White House\" in DNC speech?"
+}

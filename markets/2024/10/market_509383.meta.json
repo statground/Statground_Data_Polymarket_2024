@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509383",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:11:02.797961Z",
+  "market_createdAt": "2024-10-09T18:11:02.797961Z",
+  "market_updatedAt": "2024-10-14T03:10:52.391333Z",
+  "market_startDate": "2024-10-09T22:35:41.493255Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 03:22:19+00",
+  "conditionId": "0x70ef7964a2410df658905f88b9c98a8f4193f0d646d90504a13a16a295450022",
+  "slug": "will-trump-say-ronald-reagan-during-california-rally-on-october-12",
+  "question": "Will Trump say \"Reagan\" during California rally on October 12?"
+}

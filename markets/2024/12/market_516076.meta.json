@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516076",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T21:00:35.733747Z",
+  "market_createdAt": "2024-12-19T21:00:35.733747Z",
+  "market_updatedAt": "2025-07-05T08:25:16.737446Z",
+  "market_startDate": "2024-12-20T00:10:22.162Z",
+  "market_endDate": "2025-07-03T12:00:00Z",
+  "market_closedTime": "2025-07-04 03:35:31+00",
+  "conditionId": "0x857097a67011bfcbca1f794193530841efa71fdb70394d32796ec433c6dcb76e",
+  "slug": "will-the-number-of-federal-employees-decrease-by-200000-or-more-between-december-and-june",
+  "question": "Will the number of federal employees decrease by 200,000 or more between December and June? "
+}

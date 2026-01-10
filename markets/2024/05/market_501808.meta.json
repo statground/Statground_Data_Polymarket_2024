@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T15:04:17.852773Z",
+  "market_createdAt": "2024-05-24T15:04:17.852773Z",
+  "market_updatedAt": "2024-05-27T05:19:01.879652Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-25T12:00:00Z",
+  "market_closedTime": "2024-05-26 05:16:32+00",
+  "conditionId": "0xa9067bfd1be2684443c45b96beb753380e4cbe7a3d7a1b7739583a8a79bc6c12",
+  "slug": "nba-ind-bos-2024-05-25",
+  "question": "Indiana Pacers vs. Boston Celtics: Game 3"
+}

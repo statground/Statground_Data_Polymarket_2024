@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:16:28.604592Z",
+  "market_createdAt": "2024-12-09T19:16:28.604592Z",
+  "market_updatedAt": "2025-01-02T06:07:17.192352Z",
+  "market_startDate": "2024-12-09T19:32:14.601Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:02:06+00",
+  "conditionId": "0xbbe9d7734c2f79b3f023afe9c903c3ed15b8d6410f7f49d33ffee00c9b848185",
+  "slug": "fact-check-was-brian-thompson-perp-a-lone-actor",
+  "question": "Fact check: Was Luigi Mangione a lone actor?"
+}

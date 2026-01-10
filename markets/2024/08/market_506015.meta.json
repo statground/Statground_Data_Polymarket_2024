@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:46:03.589669Z",
+  "market_createdAt": "2024-08-28T19:46:03.589669Z",
+  "market_updatedAt": "2024-11-30T20:13:17.876219Z",
+  "market_startDate": "2024-08-28T19:46:03.589669Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-11-30 02:49:33+00",
+  "conditionId": "0xd3f732bba5fc2e780d9cb5fa897c03014fadbcf4d1da1fac58f54ed1b0352141",
+  "slug": "will-the-raiders-win-the-afc-championship",
+  "question": "Will the Raiders win the AFC Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T15:49:23.538163Z",
+  "market_createdAt": "2024-08-07T15:49:23.538163Z",
+  "market_updatedAt": "2024-08-14T00:57:02.151793Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-12T12:00:00Z",
+  "market_closedTime": "2024-08-13 01:41:55+00",
+  "conditionId": "0x3d1a77fb6cdb20fbde4b798c920ecc3b489df43fa621cdf11ce3108b1ba89504",
+  "slug": "will-it-ends-with-us-gross-between-40m-and-44m-opening-weekend",
+  "question": "Will 'It Ends with Us' gross between $40m and $44m opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T15:53:16.739000Z",
+  "market_createdAt": "2024-03-04T15:53:16.739Z",
+  "market_updatedAt": "2024-04-26T02:56:13.321653Z",
+  "market_startDate": "2024-03-04T16:45:21.318Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-09 07:02:38+00",
+  "conditionId": "0x743c1a3bb7334674d3a36523c017ba9121f31f981a8adcdab9881ce3dd351158",
+  "slug": "ethereum-all-time-high-by-friday",
+  "question": "Ethereum all time high by Friday?"
+}

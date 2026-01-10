@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T22:17:23.375466Z",
+  "market_createdAt": "2024-12-23T22:17:23.375466Z",
+  "market_updatedAt": "2025-07-02T16:24:58.991335Z",
+  "market_startDate": "2024-12-30T19:03:43.84Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 08:44:07+00",
+  "conditionId": "0xcf5ec0f6f193051b40bfe811e6d720ce44b26d2d4cd0ccfae99034874670afa8",
+  "slug": "will-amazon-purchase-bitcoin-by-june",
+  "question": "Will Amazon purchase Bitcoin before July?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T20:07:36.551516Z",
+  "market_createdAt": "2024-09-26T20:07:36.551516Z",
+  "market_updatedAt": "2024-09-30T03:36:38.436388Z",
+  "market_startDate": "2024-09-27T16:34:35.173623Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 05:43:10+00",
+  "conditionId": "0x091381836bc8bca61a1ae07df020b9a65cb3560fbc0b375ef532003e9bd534c9",
+  "slug": "will-georgia-beat-alabama-by-2-or-more-points",
+  "question": "Will Georgia beat Alabama by 2 or more points?"
+}

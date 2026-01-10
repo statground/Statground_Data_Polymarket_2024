@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:57:25.310071Z",
+  "market_createdAt": "2024-11-12T20:57:25.310071Z",
+  "market_updatedAt": "2025-05-27T00:26:28.142311Z",
+  "market_startDate": "2024-12-17T16:57:42.807475Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-25 21:23:10+00",
+  "conditionId": "0xa18db650aa10c722974c9b0d5e9c0a52107d587f7f4e38888ed764ee5ff6aab6",
+  "slug": "will-chelsea-finish-in-the-top-4-of-the-epl",
+  "question": "Will Chelsea finish in the top 4 of the EPL?"
+}

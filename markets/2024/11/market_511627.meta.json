@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:46:24.764455Z",
+  "market_createdAt": "2024-11-01T16:46:24.764455Z",
+  "market_updatedAt": "2024-11-03T19:17:00.831398Z",
+  "market_startDate": "2024-11-01T22:52:10.463663Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 21:25:54+00",
+  "conditionId": "0xac72b431692f50720d61ba8384236b1dfee0a3cc053967f3ec16279c723fb7be",
+  "slug": "will-ohio-state-and-penn-state-combine-for-47-or-more-points",
+  "question": "Will Ohio State and Penn State combine for 47 or more points?"
+}

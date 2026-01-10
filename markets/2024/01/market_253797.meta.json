@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T19:17:09.269000Z",
+  "market_createdAt": "2024-01-11T19:17:09.269Z",
+  "market_updatedAt": "2024-03-06T17:42:20.449Z",
+  "market_startDate": "2024-01-11T20:24:20.331Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-03-05 18:02:22+00",
+  "conditionId": "0x15dfbc2ff3495f6f693fc95889dfa4bc3ec4951a569bf40f6131d99f7c710515",
+  "slug": "will-btc-or-eth-reach-all-time-high-first",
+  "question": "Will BTC or ETH reach all-time high first?"
+}

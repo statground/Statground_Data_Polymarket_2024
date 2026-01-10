@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506818",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:49:10.716782Z",
+  "market_createdAt": "2024-09-11T15:49:10.716782Z",
+  "market_updatedAt": "2024-09-16T05:11:00.664784Z",
+  "market_startDate": "2024-09-11T16:30:45.102521Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 05:29:06+00",
+  "conditionId": "0x89b674c8ee9ec98ac983522890ed968b52e7fad65f7b4a6cf188e67b6b978717",
+  "slug": "zellhuber-vs-ribovics",
+  "question": "Zellhuber vs. Ribovics"
+}

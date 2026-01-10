@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:47:14.218631Z",
+  "market_createdAt": "2024-10-18T16:47:14.218631Z",
+  "market_updatedAt": "2024-10-20T18:46:46.406382Z",
+  "market_startDate": "2024-10-18T23:31:33.620077Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:32:11+00",
+  "conditionId": "0xe8e7d8a50655322799d1941fe60fe1d17ec2e5c06b3f89ca191bf4c079914700",
+  "slug": "will-indiana-beat-nebraska-by-7-or-more-points",
+  "question": "Will Indiana beat Nebraska by 7 or more points?"
+}

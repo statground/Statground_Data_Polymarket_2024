@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:18:57.352889Z",
+  "market_createdAt": "2024-03-18T23:18:57.352889Z",
+  "market_updatedAt": "2024-05-07T23:09:55.511295Z",
+  "market_startDate": "2024-03-19T00:01:03.198Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-21 10:36:08+00",
+  "conditionId": "0x9d034d5b0633677f58ca707178d2bb4d784aa8fe6647a91eeaddd2fae658cb40",
+  "slug": "will-david-fluhart-win-ca20-special-election",
+  "question": "Will David Fluhart win CA-20 Special Election?"
+}

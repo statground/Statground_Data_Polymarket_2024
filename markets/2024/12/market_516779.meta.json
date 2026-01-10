@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T07:01:50.059839Z",
+  "market_createdAt": "2024-12-30T07:01:50.059839Z",
+  "market_updatedAt": "2025-01-07T04:49:23.995641Z",
+  "market_startDate": "2024-12-30T07:04:28.000523Z",
+  "market_endDate": "2025-01-13T00:00:00Z",
+  "market_closedTime": "2025-01-06 04:51:38+00",
+  "conditionId": "0x90eb59e5c5dc71a6c15a0c305ffc8328b87af85a67293138d551f2426fe65ad5",
+  "slug": "nhl-phi-tor-2025-01-05",
+  "question": "Flyers vs. Maple Leafs"
+}

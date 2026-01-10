@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:18:43.069753Z",
+  "market_createdAt": "2024-08-13T20:18:43.069753Z",
+  "market_updatedAt": "2024-08-19T15:56:50.8351Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 18:02:48+00",
+  "conditionId": "0xa19cea058890e5b2a51ef5f0b2b9e7693a7db19d7c2ba11d922cd1d06a86fc31",
+  "slug": "will-brentford-beat-crystal-palace",
+  "question": "Will Brentford beat Crystal Palace?"
+}

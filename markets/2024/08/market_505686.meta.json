@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T21:19:10.614514Z",
+  "market_createdAt": "2024-08-22T21:19:10.614514Z",
+  "market_updatedAt": "2024-08-25T01:17:05.768874Z",
+  "market_startDate": "2024-08-22T21:40:00.467Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-08-24 02:36:55+00",
+  "conditionId": "0x98f39c2ee1bce766a7997f6db18350806e7c4d20541eaf0d402cfe720d6b2543",
+  "slug": "will-kamlas-dnc-speech-have-31m-or-more-viewers",
+  "question": "Will Kamala's DNC speech have 31m or more viewers?"
+}

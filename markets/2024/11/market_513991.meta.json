@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T20:07:55.961441Z",
+  "market_createdAt": "2024-11-25T20:07:55.961441Z",
+  "market_updatedAt": "2024-12-20T22:05:00.984413Z",
+  "market_startDate": "2024-11-25T22:15:47.065696Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:17:48+00",
+  "conditionId": "0x0b6c6e7f5f6ff7416e10b7a7403d7df0a2ff52fc310eab07850ea590010561d7",
+  "slug": "will-another-coin-be-listed-first-on-robinhood",
+  "question": "Will another coin be listed first on Robinhood?"
+}

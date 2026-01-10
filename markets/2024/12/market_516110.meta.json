@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T15:24:28.929413Z",
+  "market_createdAt": "2024-12-20T15:24:28.929413Z",
+  "market_updatedAt": "2024-12-31T22:47:43.046491Z",
+  "market_startDate": "2024-12-23T16:17:12.740694Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2024-12-30 23:58:16+00",
+  "conditionId": "0x3b2de650b3e7dac92b00f555471227dae4b1bc73ee29b89cbfe9d4412692c8be",
+  "slug": "will-nosferatu-gross-under-20m-on-5-day-opening-weekend",
+  "question": "Will 'Nosferatu' gross under $20m on 5-day opening weekend?"
+}

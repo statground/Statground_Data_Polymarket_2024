@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511204",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:37:55.458416Z",
+  "market_createdAt": "2024-10-28T20:37:55.458416Z",
+  "market_updatedAt": "2024-11-02T02:23:11.587869Z",
+  "market_startDate": "2024-10-28T23:40:05.046978Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 02:59:20+00",
+  "conditionId": "0x0e70b1f3756fde4079a7a91714680f9c947d9024e06207418c40f19a6b720a8a",
+  "slug": "will-trump-say-pocahontas-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"Pocahontas\" during Nevada rally on Oct 31?"
+}

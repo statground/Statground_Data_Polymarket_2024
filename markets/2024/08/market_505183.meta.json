@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:20:56.884527Z",
+  "market_createdAt": "2024-08-16T00:20:56.884527Z",
+  "market_updatedAt": "2024-08-18T23:12:54.375688Z",
+  "market_startDate": "2024-08-16T21:18:18.297Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 23:09:33+00",
+  "conditionId": "0x5f7702c9b0c4d25d802281db3d94af0b15588110f0bd133dc0018adf0b362b5a",
+  "slug": "will-trump-say-tampon-at-his-rally",
+  "question": "Will Trump say \"Tampon\" at his rally?"
+}

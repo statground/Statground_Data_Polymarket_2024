@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:48:16.566398Z",
+  "market_createdAt": "2024-10-21T21:48:16.566398Z",
+  "market_updatedAt": "2024-10-23T23:57:13.814737Z",
+  "market_startDate": "2024-10-22T00:43:47.497831Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:30:23+00",
+  "conditionId": "0x93fe5d6cc94f1b8a0a5a1f326fd3496316b2448cf6ae90c4732aa00577848f0f",
+  "slug": "will-real-madrid-beat-borussia-dortmund",
+  "question": "Will Real Madrid beat Borussia Dortmund?"
+}

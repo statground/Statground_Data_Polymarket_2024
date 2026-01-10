@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:26:14.822710Z",
+  "market_createdAt": "2024-07-17T17:26:14.82271Z",
+  "market_updatedAt": "2024-08-12T00:36:51.221462Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 00:32:34+00",
+  "conditionId": "0x1ba906e40b7700d097f8a63f545a0268a7c3050d6fd27cce14cb292c34c4a8e5",
+  "slug": "will-the-usa-win-gold-in-mens-basketball",
+  "question": "Will the USA win Gold in Men's Basketball?"
+}

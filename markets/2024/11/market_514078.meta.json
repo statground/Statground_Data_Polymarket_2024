@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514078",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:50:42.888858Z",
+  "market_createdAt": "2024-11-26T07:50:42.888858Z",
+  "market_updatedAt": "2024-11-29T01:09:29.278206Z",
+  "market_startDate": "2024-11-26T22:28:31.52208Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:13:35+00",
+  "conditionId": "0x32f45eed03e041ccdf8300c4ba9301bb8aabbab4cfe9cdbb5794872cf44192d2",
+  "slug": "will-liverpool-beat-real-madrid",
+  "question": "Will Liverpool beat Real Madrid?"
+}

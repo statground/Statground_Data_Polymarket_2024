@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T15:48:45.490328Z",
+  "market_createdAt": "2024-05-29T15:48:45.490328Z",
+  "market_updatedAt": "2024-09-02T08:01:11.258632Z",
+  "market_startDate": "2024-07-12T17:42:35.15Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 10:03:08+00",
+  "conditionId": "0x0590ee8929a1178e5490b8a98915d2e3697b5b67ec7872cf3d102814db65e5ad",
+  "slug": "israel-x-hamas-ceasefire-before-september",
+  "question": "Israel x Hamas ceasefire before September?"
+}

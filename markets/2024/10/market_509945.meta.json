@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:47:40.513911Z",
+  "market_createdAt": "2024-10-15T19:47:40.513911Z",
+  "market_updatedAt": "2024-11-09T07:12:55.80819Z",
+  "market_startDate": "2024-10-15T19:51:45.375765Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 14:01:38+00",
+  "conditionId": "0x45d36f2dae89b3fd06d9127e7b4fac2c2460e0122e29b286a6e783c284c5a69f",
+  "slug": "will-nebraskas-abortion-protection-measure-pass",
+  "question": "Will Nebraska's abortion protection measure pass?"
+}

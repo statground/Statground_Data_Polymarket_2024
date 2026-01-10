@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T19:22:10.730584Z",
+  "market_createdAt": "2024-07-16T19:22:10.730584Z",
+  "market_updatedAt": "2024-07-20T04:10:41.54043Z",
+  "market_startDate": "2024-07-16T20:51:23.488Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:20:02+00",
+  "conditionId": "0x43eeceb90f037366cd78287e34c5d3a4315d5dacb6dea5122ff52cb994236083",
+  "slug": "will-trump-say-hillbilly-during-rnc-speech",
+  "question": "Will Trump say \"hillbilly\" during RNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:09:14.733936Z",
+  "market_createdAt": "2024-12-29T07:09:14.733936Z",
+  "market_updatedAt": "2025-01-04T04:38:52.04948Z",
+  "market_startDate": "2024-12-29T07:12:02.141989Z",
+  "market_endDate": "2025-01-10T02:00:00Z",
+  "market_closedTime": "2025-01-03 06:53:35+00",
+  "conditionId": "0x6233896d52254906e6a285971c5ecd3b43d2517aee064e143621959e306ab543",
+  "slug": "nhl-utah-cal-2025-01-02",
+  "question": "Utah vs. Flames"
+}

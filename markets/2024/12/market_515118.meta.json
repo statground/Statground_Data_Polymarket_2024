@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:29:13.536113Z",
+  "market_createdAt": "2024-12-09T17:29:13.536113Z",
+  "market_updatedAt": "2024-12-15T19:17:34.630548Z",
+  "market_startDate": "2024-12-09T17:32:38.772647Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:18:53+00",
+  "conditionId": "0x0e0a7c30f4b09fb3cfa7a1de331577a1d4e28637ee31421c387a0a9389706659",
+  "slug": "epl-liv-ful-2024-12-14-ful",
+  "question": "Will Fulham win on 2024-12-14?"
+}

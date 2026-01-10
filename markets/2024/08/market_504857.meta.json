@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T18:24:05.705913Z",
+  "market_createdAt": "2024-08-09T18:24:05.705913Z",
+  "market_updatedAt": "2024-08-12T11:30:49.206487Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 11:51:10+00",
+  "conditionId": "0xf1c8cedf6b89b3947b0e6c53e2b3b0c867d322ba6c560c018652edf3b4a06574",
+  "slug": "will-another-athlete-win-gold-in-the-womens-marathon",
+  "question": "Will another athlete win gold in the Women’s Marathon?"
+}

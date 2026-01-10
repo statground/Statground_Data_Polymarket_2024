@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-08T16:53:51.906587Z",
+  "market_createdAt": "2024-05-08T16:53:51.906587Z",
+  "market_updatedAt": "2024-05-11T01:24:04.867849Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-09T12:00:00Z",
+  "market_closedTime": "2024-05-10 06:14:51+00",
+  "conditionId": "0xe5fb97ef7d5ab593623b3837135fddf51f14a8384407b27518dff1ddd8f3a045",
+  "slug": "nba-okc-dal-2024-05-09",
+  "question": " Oklahoma City Thunder vs. Dallas Mavericks: Game 2"
+}

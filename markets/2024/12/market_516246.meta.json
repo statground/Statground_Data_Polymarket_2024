@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:02:24.378196Z",
+  "market_createdAt": "2024-12-22T06:02:24.378196Z",
+  "market_updatedAt": "2024-12-30T03:25:34.744026Z",
+  "market_startDate": "2024-12-22T06:05:21.331993Z",
+  "market_endDate": "2025-01-04T21:30:00Z",
+  "market_closedTime": "2024-12-29 03:32:43+00",
+  "conditionId": "0xc55c68bf3a087e4d72b4d9821994685aa29e241ce2ccdd270503f29c85552f91",
+  "slug": "nfl-den-cin-2024-12-28",
+  "question": "Broncos vs. Bengals"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T16:50:49.642503Z",
+  "market_createdAt": "2024-07-29T16:50:49.642503Z",
+  "market_updatedAt": "2024-08-03T13:07:04.140003Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-02 15:43:38+00",
+  "conditionId": "0x177cc90be4c24ef556f9633c1f74ffce9d48d968331b02ef5c630489c90544ac",
+  "slug": "will-the-us-gain-between-200k-and-250k-jobs-in-july",
+  "question": "Will the US gain between 200k and 250k jobs in July?"
+}

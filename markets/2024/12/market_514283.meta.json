@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:04:31.745265Z",
+  "market_createdAt": "2024-12-01T05:04:31.745265Z",
+  "market_updatedAt": "2024-12-05T04:01:39.388562Z",
+  "market_startDate": "2024-12-01T05:08:00.860557Z",
+  "market_endDate": "2024-12-11T00:00:00Z",
+  "market_closedTime": "2024-12-04 04:33:46+00",
+  "conditionId": "0x6e53b7439df527961d18c235e638232024108523ae66f67b9eb475b5a2729478",
+  "slug": "nba-was-cle-2024-12-03",
+  "question": "Wizards vs. Cavaliers"
+}

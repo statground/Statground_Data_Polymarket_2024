@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:46:41.126775Z",
+  "market_createdAt": "2024-12-29T18:46:41.126775Z",
+  "market_updatedAt": "2026-01-02T08:33:19.850058Z",
+  "market_startDate": "2024-12-29T22:39:18.322Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:16:23+00",
+  "conditionId": "0x9fcb9901d142b5046467b4ea329508bdb19274eb1fd0fc833ee1916edd11cb73",
+  "slug": "nuclear-weapon-detonation-in-2025",
+  "question": "Nuclear weapon detonation in 2025?"
+}

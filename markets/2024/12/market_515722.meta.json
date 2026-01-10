@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:09:09.593576Z",
+  "market_createdAt": "2024-12-15T07:09:09.593576Z",
+  "market_updatedAt": "2024-12-22T23:21:40.976099Z",
+  "market_startDate": "2024-12-15T07:12:08.37751Z",
+  "market_endDate": "2024-12-28T18:30:00Z",
+  "market_closedTime": "2024-12-21 23:18:20+00",
+  "conditionId": "0x82afd97ab4f9cedbac462188d63efd1dae400f909b37473faea8a250b197b70f",
+  "slug": "nhl-lak-nsh-2024-12-21",
+  "question": "Kings vs. Predators"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:03:02.171333Z",
+  "market_createdAt": "2024-11-11T17:03:02.171333Z",
+  "market_updatedAt": "2024-11-19T06:51:06.707354Z",
+  "market_startDate": "2024-11-11T17:05:34.539771Z",
+  "market_endDate": "2024-11-25T01:20:00Z",
+  "market_closedTime": "2024-11-18 06:54:44+00",
+  "conditionId": "0x64db493b471c6f7a3260b4ec9838233248bc45297b291890316dde8c29b63413",
+  "slug": "nfl-cin-lac-2024-11-17",
+  "question": "Bengals vs. Chargers"
+}

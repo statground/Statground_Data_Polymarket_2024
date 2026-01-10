@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T21:02:33.614128Z",
+  "market_createdAt": "2024-07-02T21:02:33.614128Z",
+  "market_updatedAt": "2024-07-07T05:55:49.178108Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:50:41+00",
+  "conditionId": "0x7b2b5a8118c3cc8ed08cc491b1ce9fd7165e278068eab49eb31a02313510e558",
+  "slug": "will-biden-say-hunter-in-abc-interview",
+  "question": "Will Biden say \"Hunter\" in ABC interview?"
+}

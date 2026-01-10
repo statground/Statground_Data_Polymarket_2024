@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511318",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T17:30:31.037145Z",
+  "market_createdAt": "2024-10-29T17:30:31.037145Z",
+  "market_updatedAt": "2024-11-14T09:41:00.295198Z",
+  "market_startDate": "2024-10-30T01:38:27.258913Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-13 10:20:18+00",
+  "conditionId": "0x058c363b3d1bcbcf451a016ce14d9c835c2dadd88ea100bb464a11ace137e0be",
+  "slug": "will-harris-win-vermont-by-32-points",
+  "question": "Will Harris win Vermont by 32+ points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:35:34.543164Z",
+  "market_createdAt": "2024-03-17T20:35:34.543164Z",
+  "market_updatedAt": "2024-05-07T23:09:48.304779Z",
+  "market_startDate": "2024-03-17T21:14:27.514Z",
+  "market_endDate": "2024-03-22T07:00:00Z",
+  "market_closedTime": "2024-03-22 18:01:55+00",
+  "conditionId": "0xbe6311035b2aace4f0c1acf2da5bc72c7f53342ec341d20c4b22b130f0b19a93",
+  "slug": "bitcoin-above-70000-on-friday",
+  "question": "Bitcoin above $70,000 on Friday?"
+}

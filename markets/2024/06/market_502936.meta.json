@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T23:20:04.238419Z",
+  "market_createdAt": "2024-06-26T23:20:04.238419Z",
+  "market_updatedAt": "2024-06-29T18:21:06.125677Z",
+  "market_startDate": "2024-06-27T00:30:01.712Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:57:49+00",
+  "conditionId": "0x15c7d7407a4adad01d1d0c4251f6016a7803efb02691d6d77af03335024288b6",
+  "slug": "debate-bingo-1",
+  "question": "Debate Bingo - 1"
+}

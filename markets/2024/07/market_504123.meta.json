@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:04:45.250688Z",
+  "market_createdAt": "2024-07-25T17:04:45.250688Z",
+  "market_updatedAt": "2024-07-29T18:07:06.605684Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-28 22:02:58+00",
+  "conditionId": "0xc25c4747e32a573831e70dbb1dc9007ab767e4754ba7ec882d2c3b7c39f2d7f1",
+  "slug": "will-carson-foster-usa-win-gold-in-mens-400m-individual-medley",
+  "question": "Will Carson Foster (USA) win Gold in Men's 400m Individual Medley?"
+}

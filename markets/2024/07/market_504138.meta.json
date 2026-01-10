@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:54:34.546847Z",
+  "market_createdAt": "2024-07-25T17:54:34.546847Z",
+  "market_updatedAt": "2024-08-12T15:40:47.526769Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:10:20+00",
+  "conditionId": "0x30dd420c7e4c88170352ebfd8b76162305c940350a363d527ffc269b0da10f45",
+  "slug": "will-great-britain-win-the-3rd-most-medals",
+  "question": "Will Great Britain win the 3rd most medals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514064",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:36:16.214713Z",
+  "market_createdAt": "2024-11-26T07:36:16.214713Z",
+  "market_updatedAt": "2024-11-28T23:27:28.690055Z",
+  "market_startDate": "2024-11-26T22:25:27.129805Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:18:45+00",
+  "conditionId": "0x0eb7e16833d8313f82d98f1d04ce5fa6cb6941a50212b3e64b1566db815f13b4",
+  "slug": "will-benfica-beat-as-monaco",
+  "question": "Will Benfica beat AS Monaco?"
+}

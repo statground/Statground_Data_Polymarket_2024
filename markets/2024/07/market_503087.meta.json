@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:01:36.127849Z",
+  "market_createdAt": "2024-07-01T21:01:36.127849Z",
+  "market_updatedAt": "2024-07-05T14:05:50.207296Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-04 19:30:46+00",
+  "conditionId": "0x7f8259349e14a1dfb625cf5b6630c5bf14544892e1085d86531eb5f32e4b3ca3",
+  "slug": "will-hubert-hurkacz-win-wimbledon-mens",
+  "question": "Will Hubert Hurkacz win Wimbledon Men's?"
+}

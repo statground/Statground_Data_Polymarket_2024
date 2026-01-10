@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T18:55:10.448200Z",
+  "market_createdAt": "2024-09-19T18:55:10.4482Z",
+  "market_updatedAt": "2024-12-16T04:37:20.641832Z",
+  "market_startDate": "2024-09-19T21:17:15.082746Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:37:09+00",
+  "conditionId": "0x95a502effbc1681281306fa1618302a681fca2e0db2daa44baf7568c634ac5d8",
+  "slug": "will-cam-ward-win-the-heisman-trophy",
+  "question": "Will Cam Ward win the Heisman Trophy?"
+}

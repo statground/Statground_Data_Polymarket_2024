@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:32:50.264375Z",
+  "market_createdAt": "2024-11-18T23:32:50.264375Z",
+  "market_updatedAt": "2025-02-03T22:01:47.807183Z",
+  "market_startDate": "2024-11-19T21:01:24.007Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-02-03 01:03:55+00",
+  "conditionId": "0x2a6af3b2b2cc73fa7cf62986800827f93f98b7a2fe018737fe0cbea4ad391880",
+  "slug": "will-ken-martin-be-the-next-dnc-chair",
+  "question": "Will Ken Martin be the next DNC chair?"
+}

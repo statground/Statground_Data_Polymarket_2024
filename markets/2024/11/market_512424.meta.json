@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:48:01.888514Z",
+  "market_createdAt": "2024-11-08T19:48:01.888514Z",
+  "market_updatedAt": "2024-11-11T01:42:47.759978Z",
+  "market_startDate": "2024-11-08T22:18:02.729Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 01:56:18+00",
+  "conditionId": "0x2b03f30a740189ca92c06b6e99dc7b89855f147993a30d2c2ab36cc5b0813075",
+  "slug": "cfb-army-vs-north-texas",
+  "question": "CFB: Army vs. North Texas"
+}

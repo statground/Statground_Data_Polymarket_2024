@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:17:48.744297Z",
+  "market_createdAt": "2024-11-15T21:17:48.744297Z",
+  "market_updatedAt": "2024-12-19T21:53:18.863979Z",
+  "market_startDate": "2024-11-15T21:42:24.5Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 21:58:40+00",
+  "conditionId": "0xc3ad788d4943f76ed656d2f0d3485d5bf066877035596b0151fe1d614707dc4f",
+  "slug": "will-jerome-powell-say-tariff-during-december-fomc-press-conference",
+  "question": "Will Jerome Powell say \"tariff\" during December FOMC Press Conference?"
+}

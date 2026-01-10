@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:16:54.623000Z",
+  "market_createdAt": "2024-03-01T17:16:54.623Z",
+  "market_updatedAt": "2024-11-08T02:23:06.220039Z",
+  "market_startDate": "2024-03-28T20:12:45.039Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:44:36+00",
+  "conditionId": "0x2fc3f33c5e70eaef5cab84fb09703a7b5b54b1e66aecbce0fcc9714d9cac263c",
+  "slug": "will-a-candidate-from-another-party-win-alaska-presidential-election",
+  "question": "Will a candidate from another party win Alaska Presidential Election?"
+}

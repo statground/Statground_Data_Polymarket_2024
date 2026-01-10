@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:20:41.037718Z",
+  "market_createdAt": "2024-07-01T21:20:41.037718Z",
+  "market_updatedAt": "2024-07-04T17:10:49.130717Z",
+  "market_startDate": "2024-07-02T14:33:00.735Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-03 20:46:13+00",
+  "conditionId": "0xacd7d2d89b7c0c729b9e1083f1b5e6a23d9a6c1f7993752ef59e106fc30ec2ad",
+  "slug": "will-naomi-osaka-win-wimbledon-womens",
+  "question": "Will Naomi Osaka win Wimbledon Women's?"
+}

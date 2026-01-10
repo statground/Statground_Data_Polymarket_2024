@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T20:13:17.294874Z",
+  "market_createdAt": "2024-10-11T20:13:17.294874Z",
+  "market_updatedAt": "2024-10-13T21:40:56.786566Z",
+  "market_startDate": "2024-10-11T20:42:30.657474Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 22:33:01+00",
+  "conditionId": "0x4b48b0bef1923ec376feca1f946daddcb53817e7b93bbf5cd7da8a1cba747bf0",
+  "slug": "will-the-guardians-beat-the-tigers",
+  "question": "Will the Guardians beat the Tigers?"
+}

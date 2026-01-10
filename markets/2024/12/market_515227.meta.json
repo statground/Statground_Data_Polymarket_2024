@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:30:19.933950Z",
+  "market_createdAt": "2024-12-10T02:30:19.93395Z",
+  "market_updatedAt": "2024-12-16T22:52:39.562756Z",
+  "market_startDate": "2024-12-10T02:33:34.782297Z",
+  "market_endDate": "2024-12-22T18:00:00Z",
+  "market_closedTime": "2024-12-15 23:41:32+00",
+  "conditionId": "0x9d3dd3240db46be9558d856f5d82e45b9e86125c3d9fdb507d752e3c447cf779",
+  "slug": "nfl-dal-car-2024-12-15",
+  "question": "Cowboys vs. Panthers"
+}

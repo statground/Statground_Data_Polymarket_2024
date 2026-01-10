@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T16:29:13.783160Z",
+  "market_createdAt": "2024-08-01T16:29:13.78316Z",
+  "market_updatedAt": "2024-09-02T09:57:05.318063Z",
+  "market_startDate": "2024-08-01T16:29:13.78316Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 12:22:53+00",
+  "conditionId": "0x45bc827a9d9dbbff931d78001c8c1933f2663afa75fd280323e40e5b95d09e6c",
+  "slug": "israel-military-action-against-iran-in-august",
+  "question": "Israel military action against Iran in August?"
+}

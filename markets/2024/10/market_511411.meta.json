@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T15:12:08.388048Z",
+  "market_createdAt": "2024-10-30T15:12:08.388048Z",
+  "market_updatedAt": "2024-11-01T01:42:52.578213Z",
+  "market_startDate": "2024-10-30T17:48:08.083885Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 03:38:06+00",
+  "conditionId": "0x01b402a2d9425f6a2744add3c73f4704e712e174168eb36132600fb836eb3f97",
+  "slug": "will-bronny-james-score-a-point-tonight-oct-30",
+  "question": "Will Bronny James score a point tonight?"
+}

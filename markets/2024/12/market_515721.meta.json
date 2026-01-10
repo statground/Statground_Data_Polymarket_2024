@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:08:56.580970Z",
+  "market_createdAt": "2024-12-15T07:08:56.58097Z",
+  "market_updatedAt": "2024-12-22T07:43:38.741486Z",
+  "market_startDate": "2024-12-15T07:11:43.398663Z",
+  "market_endDate": "2024-12-28T03:00:00Z",
+  "market_closedTime": "2024-12-21 07:42:26+00",
+  "conditionId": "0x1fb6489d850c3719826916b30fca767bc1e442e5903c6542c50a855049f4692b",
+  "slug": "nhl-col-ana-2024-12-20",
+  "question": "Avalanche vs. Ducks"
+}

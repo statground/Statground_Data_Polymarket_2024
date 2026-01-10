@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:13:52.604493Z",
+  "market_createdAt": "2024-11-07T17:13:52.604493Z",
+  "market_updatedAt": "2024-11-24T01:48:49.054044Z",
+  "market_startDate": "2024-11-07T18:11:15.641813Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:50:27+00",
+  "conditionId": "0x53b9a08a9424812d628ef306345cee80e9b3733d3bb9c3644941bbb2614be632",
+  "slug": "will-trump-nominate-brian-montgomery-for-hud-secretary",
+  "question": "Will Trump nominate Brian Montgomery for HUD Secretary?"
+}

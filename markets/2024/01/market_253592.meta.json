@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-04T17:35:40.900000Z",
+  "market_createdAt": "2024-01-04T17:35:40.9Z",
+  "market_updatedAt": "2024-11-07T19:39:00.43766Z",
+  "market_startDate": "2024-01-04T22:58:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:31:03+00",
+  "conditionId": "0x14018049e265a2d88f284be9588e2e3542e3a3df08ccdb344d28355dd7fdd8ef",
+  "slug": "will-joe-biden-win-the-2024-us-presidential-election",
+  "question": "Will Joe Biden win the 2024 US Presidential Election?"
+}

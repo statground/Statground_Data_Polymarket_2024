@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:46:57.885109Z",
+  "market_createdAt": "2024-07-18T21:46:57.885109Z",
+  "market_updatedAt": "2024-08-08T07:26:53.459213Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:57:56+00",
+  "conditionId": "0x2088df73f7028bcc98c9c990a767c7a45e01b70023debb9cb179d912ff204363",
+  "slug": "will-daniel-stahl-swe-win-gold-in-discus",
+  "question": "Will Daniel Stahl (SWE) win Gold in Discus?"
+}

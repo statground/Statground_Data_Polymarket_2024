@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-01T16:29:24.872000Z",
+  "market_createdAt": "2024-02-01T16:29:24.872Z",
+  "market_updatedAt": "2024-03-02T07:06:25.514Z",
+  "market_startDate": "2024-02-01T16:46:48.149Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:04:15+00",
+  "conditionId": "0x1aade08d3f4bf510eeb6fb1da05481bc83df3326e8717fa7bcd41987f08cb783",
+  "slug": "us-bank-failure-in-february",
+  "question": "US bank failure in February?"
+}

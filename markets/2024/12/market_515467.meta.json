@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:07:50.619392Z",
+  "market_createdAt": "2024-12-11T23:07:50.619392Z",
+  "market_updatedAt": "2025-01-02T04:59:06.731801Z",
+  "market_startDate": "2024-12-23T19:13:48.886Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 04:55:19+00",
+  "conditionId": "0xce1d713317ab0cf909a3fa17fdecfde1366dbaee59047ecd0d656831cccfc727",
+  "slug": "will-ian-nepomniachtchi-win-the-2024-world-blitz-championship",
+  "question": "Will Ian Nepomniachtchi win the 2024 World Blitz Championship?"
+}

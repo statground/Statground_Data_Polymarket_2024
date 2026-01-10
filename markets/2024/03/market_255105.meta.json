@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:23:22.155000Z",
+  "market_createdAt": "2024-03-01T18:23:22.155Z",
+  "market_updatedAt": "2024-11-06T23:27:09.274936Z",
+  "market_startDate": "2024-03-28T19:33:05.585Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:08:53+00",
+  "conditionId": "0x48f8c358691f81302cdddf500b2e3ee65f9c2748979adf54c347a9f8a5895527",
+  "slug": "will-a-candidate-from-another-party-win-north-dakota-presidential-election",
+  "question": "Will a candidate from another party win North Dakota Presidential Election?"
+}

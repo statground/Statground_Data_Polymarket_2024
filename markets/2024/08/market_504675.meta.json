@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T20:30:10.636323Z",
+  "market_createdAt": "2024-08-07T20:30:10.636323Z",
+  "market_updatedAt": "2024-08-24T06:02:59.075369Z",
+  "market_startDate": "2024-08-08T17:46:47.171Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:59:00+00",
+  "conditionId": "0xf4cef13ee0ed433972e45b5e8a8571f814a3b220870aa9cfefab972ffb32bdd8",
+  "slug": "will-taylor-swift-attend-the-dnc",
+  "question": "Will Taylor Swift attend the DNC?"
+}

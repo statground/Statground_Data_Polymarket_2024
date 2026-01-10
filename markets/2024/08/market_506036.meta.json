@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:53:47.222281Z",
+  "market_createdAt": "2024-08-28T19:53:47.222281Z",
+  "market_updatedAt": "2025-01-28T02:57:31.115003Z",
+  "market_startDate": "2024-08-28T19:53:47.222281Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-27 03:13:53+00",
+  "conditionId": "0x128fcf8ce54619791a6d85c3ae9d2e8b5abcac5e152e95499f4b6b00d0449913",
+  "slug": "will-the-eagles-win-the-nfc-championship",
+  "question": "Will the Eagles win the NFC Championship?"
+}

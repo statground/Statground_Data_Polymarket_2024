@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T17:36:54.014841Z",
+  "market_createdAt": "2024-07-23T17:36:54.014841Z",
+  "market_updatedAt": "2024-07-26T02:10:42.459897Z",
+  "market_startDate": "2024-07-23T20:35:21.922Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:38:47+00",
+  "conditionId": "0x55fc4bcb8b8d4623fba48afe29af09421baa228d47b069b76cb8e743f13b7770",
+  "slug": "will-biden-say-jill-during-drop-out-speech",
+  "question": "Will Biden say \"Jill\" during drop out speech?"
+}

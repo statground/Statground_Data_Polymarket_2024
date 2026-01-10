@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:31:35.139615Z",
+  "market_createdAt": "2024-10-08T19:31:35.139615Z",
+  "market_updatedAt": "2024-10-12T09:06:46.981739Z",
+  "market_startDate": "2024-10-08T22:21:20.795965Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 11:12:43+00",
+  "conditionId": "0x30c41d5ef02f609015e99ebafd7d30b44de6f4c84f672a405718792807b87052",
+  "slug": "will-the-unrwa-win-the-nobel-peace-prize",
+  "question": "Will the UNRWA win the nobel peace prize?"
+}

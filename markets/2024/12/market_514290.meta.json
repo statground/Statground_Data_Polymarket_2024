@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:06:50.524293Z",
+  "market_createdAt": "2024-12-01T05:06:50.524293Z",
+  "market_updatedAt": "2024-12-05T07:11:30.921433Z",
+  "market_startDate": "2024-12-01T05:10:40.226396Z",
+  "market_endDate": "2024-12-11T03:00:00Z",
+  "market_closedTime": "2024-12-04 07:42:44+00",
+  "conditionId": "0x050a6efa9486f16bb8ad51eb8351bc389f96bc29511ef2c8a4f1292622d29770",
+  "slug": "nba-hou-sac-2024-12-03",
+  "question": "Rockets vs. Kings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:55:27.990004Z",
+  "market_createdAt": "2024-08-19T16:55:27.990004Z",
+  "market_updatedAt": "2024-09-06T02:07:11.523234Z",
+  "market_startDate": "2024-08-19T16:55:27.990004Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-05 03:56:09+00",
+  "conditionId": "0x51fb0e8fec81a0e02c74b52fdc68f5ab17ee3c3b227b279cbe70e3ecffeb8371",
+  "slug": "will-iga-swiatek-win-the-us-open",
+  "question": "Will Iga Swiatek win the US Open?"
+}

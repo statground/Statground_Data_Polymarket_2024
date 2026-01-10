@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:07:32.828863Z",
+  "market_createdAt": "2024-06-07T16:07:32.828863Z",
+  "market_updatedAt": "2024-07-06T14:50:47.587788Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 15:43:11+00",
+  "conditionId": "0x110dff796f1edec95caf841e432d7e973f3039c95aa7cdea59087a0f4fb29e51",
+  "slug": "will-us-gain-more-than-300k-jobs-in-june",
+  "question": "Will US gain more than 300k jobs in June?"
+}

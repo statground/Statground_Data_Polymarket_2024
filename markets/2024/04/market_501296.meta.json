@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T22:31:53.899456Z",
+  "market_createdAt": "2024-04-30T22:31:53.899456Z",
+  "market_updatedAt": "2024-06-02T20:01:15.824786Z",
+  "market_startDate": "2024-04-30T23:09:38.061Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 22:32:16+00",
+  "conditionId": "0x2141f4de7fa5f61591e7c50a3761d2cd01793875cbf64ea014fa2a955ec770c7",
+  "slug": "kanye-drops-music-in-may",
+  "question": "Kanye drops music in May?"
+}

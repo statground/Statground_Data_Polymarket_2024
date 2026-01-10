@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T16:33:51.622230Z",
+  "market_createdAt": "2024-03-13T16:33:51.62223Z",
+  "market_updatedAt": "2024-11-08T10:08:57.777073Z",
+  "market_startDate": "2024-04-03T21:55:04.949Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 19:02:32+00",
+  "conditionId": "0x20d95e0fec7d27f3072f4b9b72aeacfc2e54bd70e69ad6e03380feacfb5c6c84",
+  "slug": "will-a-candidate-from-another-party-win-wisconsin-us-senate-election",
+  "question": "Will a candidate from another party win Wisconsin US Senate Election?"
+}

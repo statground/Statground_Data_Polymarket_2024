@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:46:17.369644Z",
+  "market_createdAt": "2024-11-08T23:46:17.369644Z",
+  "market_updatedAt": "2024-11-11T17:22:56.189183Z",
+  "market_startDate": "2024-11-09T02:57:03.964343Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:01:07+00",
+  "conditionId": "0x2cf2b46a5b2ce7df889a6783705f9a495b7bba4d2f5454c8a3c64011f33b9fac",
+  "slug": "will-the-chiefs-and-broncos-combine-for-42-or-more-points",
+  "question": "Will the Chiefs and Broncos combine for 42 or more points?"
+}

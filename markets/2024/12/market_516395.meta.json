@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:25:07.681571Z",
+  "market_createdAt": "2024-12-25T06:25:07.681571Z",
+  "market_updatedAt": "2024-12-27T17:27:11.995087Z",
+  "market_startDate": "2024-12-25T06:27:37.858299Z",
+  "market_endDate": "2024-12-26T12:30:00Z",
+  "market_closedTime": "2024-12-26 17:40:18+00",
+  "conditionId": "0x031543c613c6fabcd7602c39646859189a4f64cfb67dcaf0f05e97d23f064dcf",
+  "slug": "epl-mac-eve-2024-12-26-draw",
+  "question": "Will Manchester City vs. Everton end in a draw?"
+}

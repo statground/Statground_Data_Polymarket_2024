@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:15:10.981346Z",
+  "market_createdAt": "2024-11-01T16:15:10.981346Z",
+  "market_updatedAt": "2024-11-06T09:57:13.102573Z",
+  "market_startDate": "2024-11-01T16:17:52.360296Z",
+  "market_endDate": "2024-11-05T00:45:00Z",
+  "market_closedTime": "2024-11-05 11:01:24+00",
+  "conditionId": "0xc00c11657f499ea12a436a64d7a4c17ac803d1dae1bca578d4bbb1ab41979fe3",
+  "slug": "nba-bos-atl-2024-11-04",
+  "question": "Celtics vs. Hawks"
+}

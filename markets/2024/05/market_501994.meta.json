@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:52:15.947653Z",
+  "market_createdAt": "2024-05-31T21:52:15.947653Z",
+  "market_updatedAt": "2024-07-15T18:34:50.361419Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 19:59:51.609546+00",
+  "conditionId": "0x5c7f5407e4a442219c098d0632c211ee7fa52be0c8211906b461102b2e86da15",
+  "slug": "will-the-netherlands-win-the-2024-euros",
+  "question": "Will the Netherlands win the 2024 Euros?"
+}

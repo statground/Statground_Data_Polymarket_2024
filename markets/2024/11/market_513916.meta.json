@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:56:31.775339Z",
+  "market_createdAt": "2024-11-24T18:56:31.775339Z",
+  "market_updatedAt": "2024-11-30T22:01:22.3231Z",
+  "market_startDate": "2024-11-24T18:59:03.227882Z",
+  "market_endDate": "2024-12-06T17:00:00Z",
+  "market_closedTime": "2024-11-29 22:01:30+00",
+  "conditionId": "0x88b080883c02e8cce6727d5772e4850c3155628b94ae515797cb8a6dbcacbf6d",
+  "slug": "nba-nyk-cha-2024-11-29",
+  "question": "Knicks vs. Hornets"
+}

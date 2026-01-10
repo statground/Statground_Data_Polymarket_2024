@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T00:01:17.682435Z",
+  "market_createdAt": "2024-06-11T00:01:17.682435Z",
+  "market_updatedAt": "2024-06-16T14:36:13.974411Z",
+  "market_startDate": "2024-06-12T17:23:49.387Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-15 19:42:26+00",
+  "conditionId": "0x145528732dd20cba3afb152b1464409b6a572923e44ebfd3e3fc41dee2469f16",
+  "slug": "will-roaring-kitty-profit-from-gme-options",
+  "question": "Will Roaring Kitty Profit from GME options?"
+}

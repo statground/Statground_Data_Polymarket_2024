@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:05:26.663638Z",
+  "market_createdAt": "2024-09-11T16:05:26.663638Z",
+  "market_updatedAt": "2024-09-14T00:23:05.383576Z",
+  "market_startDate": "2024-09-11T17:31:41.497704Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:47:05+00",
+  "conditionId": "0x90c3f5c223576a88a7433fcf820e77b43662afb39beac7ce776d9ac2c6b72cbd",
+  "slug": "will-trump-say-fact-check-during-his-arizona-rally",
+  "question": "Will Trump say \"fact check\" during his Arizona rally?"
+}

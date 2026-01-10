@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-11T16:33:42.678000Z",
+  "market_createdAt": "2024-03-11T16:33:42.678Z",
+  "market_updatedAt": "2024-05-07T23:09:25.602949Z",
+  "market_startDate": "2024-03-11T17:31:44.601Z",
+  "market_endDate": "2024-03-12T00:00:00Z",
+  "market_closedTime": "2024-03-13 04:09:55+00",
+  "conditionId": "0xdc1ced10b38a08434831b88792fa0506815eddc6f171abb6c2ee60e0eb4b51db",
+  "slug": "will-trump-win-mississippi-republican-primary",
+  "question": "Will Trump win Mississippi Republican Primary? "
+}

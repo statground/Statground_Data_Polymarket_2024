@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:30:16.770942Z",
+  "market_createdAt": "2024-09-17T17:30:16.770942Z",
+  "market_updatedAt": "2025-06-02T00:24:32.204077Z",
+  "market_startDate": "2024-09-17T18:26:26.570998Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-05-31 23:58:38+00",
+  "conditionId": "0x6cf8b2ebe77711ab5c32fac330b8d493640cf25d278fa98bf65ddcfcb891171e",
+  "slug": "will-paris-saint-germain-win-the-uefa-champions-league",
+  "question": "Will Paris Saint-Germain win the UEFA Champions League?"
+}

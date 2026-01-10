@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T00:43:10.409529Z",
+  "market_createdAt": "2024-06-19T00:43:10.409529Z",
+  "market_updatedAt": "2024-06-23T03:06:06.878916Z",
+  "market_startDate": "2024-06-19T00:45:24.06Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 06:13:58+00",
+  "conditionId": "0x3658212a0360d1831595c5c3013cc30e6cb9de0fde0ce98979555838be73eb02",
+  "slug": "will-shkreli-escrow-100m",
+  "question": "Will Shkreli escrow $100m?"
+}

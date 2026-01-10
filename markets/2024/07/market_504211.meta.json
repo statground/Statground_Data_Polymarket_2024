@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T16:10:43.893613Z",
+  "market_createdAt": "2024-07-26T16:10:43.893613Z",
+  "market_updatedAt": "2024-08-03T16:10:58.974848Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-02 18:03:28+00",
+  "conditionId": "0xc53ab96e8806b8c719020fe500469eadb78b3420238096b858e055a1730cbe6d",
+  "slug": "solana-above-180-on-august-2",
+  "question": "Solana above $180 on August 2?"
+}

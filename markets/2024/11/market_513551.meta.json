@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:31:07.419512Z",
+  "market_createdAt": "2024-11-20T19:31:07.419512Z",
+  "market_updatedAt": "2025-02-04T07:28:38.885084Z",
+  "market_startDate": "2024-11-20T22:12:06.773Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:37:22+00",
+  "conditionId": "0x2e87bcd620d1c9f16f82e19f626f39047cbf152018461cb7146df27d981cbf1f",
+  "slug": "will-brat-win-album-of-the-year",
+  "question": "Will 'BRAT' win Album of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512289",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:19:20.144119Z",
+  "market_createdAt": "2024-11-07T19:19:20.144119Z",
+  "market_updatedAt": "2024-11-19T23:49:06.146928Z",
+  "market_startDate": "2024-11-07T20:34:42.330797Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 02:17:11+00",
+  "conditionId": "0x808113f396ca0c25c9c9719465acc29967f3f6d06627d7f60d97fd4255bb2b20",
+  "slug": "will-trump-nominate-sam-graves-for-transportation-secretary",
+  "question": "Will Trump nominate Sam Graves for Transportation Secretary?"
+}

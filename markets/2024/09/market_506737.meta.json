@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:30:38.724764Z",
+  "market_createdAt": "2024-09-09T19:30:38.724764Z",
+  "market_updatedAt": "2025-04-02T14:36:32.227036Z",
+  "market_startDate": "2024-09-09T20:56:30.99212Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-02 00:22:32+00",
+  "conditionId": "0x030ffc12d4619622e3d318526e306008bc1fbf982fe95e92b649c9f40a135ad3",
+  "slug": "fulham-wins-the-premier-league",
+  "question": "Fulham wins the Premier League?"
+}

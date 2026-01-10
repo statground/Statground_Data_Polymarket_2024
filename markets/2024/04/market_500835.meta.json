@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T18:45:15.111499Z",
+  "market_createdAt": "2024-04-09T18:45:15.111499Z",
+  "market_updatedAt": "2024-05-07T23:09:45.078629Z",
+  "market_startDate": "2024-04-09T19:25:18.983Z",
+  "market_endDate": "2024-05-05T12:00:00Z",
+  "market_closedTime": "2024-05-06 08:46:47+00",
+  "conditionId": "0x1c581d15d1aa3c1f19a7b97bbf5c0cdf0bb799a5b99df5b584a52f247cba432f",
+  "slug": "panama-presidential-election-will-ricardo-lombana-win",
+  "question": "Panama Presidential Election: Will Ricardo Lombana win?"
+}

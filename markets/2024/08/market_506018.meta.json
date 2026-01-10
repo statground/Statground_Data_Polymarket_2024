@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:46:36.890447Z",
+  "market_createdAt": "2024-08-28T19:46:36.890447Z",
+  "market_updatedAt": "2025-01-06T22:43:24.743762Z",
+  "market_startDate": "2024-08-28T19:46:36.890447Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-06 03:36:15+00",
+  "conditionId": "0xfa3a37e7bf749320420e16628d1b6c10983492140923318b2d9f261939ae21a8",
+  "slug": "will-the-dolphins-win-the-afc-championship",
+  "question": "Will the Dolphins win the AFC Championship?"
+}

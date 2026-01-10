@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507518",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:36:51.225490Z",
+  "market_createdAt": "2024-09-19T20:36:51.22549Z",
+  "market_updatedAt": "2024-12-16T05:43:31.005464Z",
+  "market_startDate": "2024-09-19T21:29:53.384528Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:41:29+00",
+  "conditionId": "0xe78be0e1edb6d6fc05a5b72f7491b34ac3fbee1d22ae2c41aa9c00ccc06139f7",
+  "slug": "will-will-howard-win-the-heisman-trophy",
+  "question": "Will Will Howard win the Heisman Trophy?"
+}

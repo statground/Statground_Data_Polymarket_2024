@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-24T23:47:05.879000Z",
+  "market_createdAt": "2024-01-24T23:47:05.879Z",
+  "market_updatedAt": "2024-02-26T03:02:03.599Z",
+  "market_startDate": "2024-01-25T17:14:00Z",
+  "market_endDate": "2024-02-20T00:00:00Z",
+  "market_closedTime": "2024-02-25 10:45:07+00",
+  "conditionId": "0x25ee65945ec1880c6c62eea7bcd33512d6de23f05ec9a555db332a931a74d22d",
+  "slug": "will-trump-win-the-south-carolina-primary-by-more-than-50-of-the-vote",
+  "question": "Will Trump win the South Carolina Primary by more than 50% of the vote?"
+}

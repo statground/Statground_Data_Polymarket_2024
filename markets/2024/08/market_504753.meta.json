@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:39:26.357999Z",
+  "market_createdAt": "2024-08-08T18:39:26.357999Z",
+  "market_updatedAt": "2024-09-12T03:07:02.087196Z",
+  "market_startDate": "2024-08-08T18:39:26.357999Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:36:38+00",
+  "conditionId": "0x7dfaac4a0c4f46f0bebae182271efb300f45e1e692c20b78baf43992d5f1ec96",
+  "slug": "no-trump-vs-harris-debates-before-election",
+  "question": "No Trump vs. Harris debates before election?"
+}

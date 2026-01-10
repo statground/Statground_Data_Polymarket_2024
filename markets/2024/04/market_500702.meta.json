@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:09:28.676426Z",
+  "market_createdAt": "2024-04-04T17:09:28.676426Z",
+  "market_updatedAt": "2024-11-07T16:09:04.34359Z",
+  "market_startDate": "2024-04-12T19:28:51.4Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 22:45:56+00",
+  "conditionId": "0x23fbb881b850f41f85806d1bf22598990e2c6f45c462370d9960d058ca090849",
+  "slug": "will-a-republican-win-indiana-us-senate-election",
+  "question": "Will a Republican win Indiana US Senate Election?"
+}

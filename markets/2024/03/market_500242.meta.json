@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:27:46.301898Z",
+  "market_createdAt": "2024-03-18T15:27:46.301898Z",
+  "market_updatedAt": "2024-05-07T23:10:01.831771Z",
+  "market_startDate": "2024-03-18T19:02:10.761Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-23 02:09:09+00",
+  "conditionId": "0x5882c929496f18f89c55a6122568ad19b14fae42faef8061fbdc96fafc0d14d9",
+  "slug": "will-florida-win-the-ncaa-tournament",
+  "question": "Will Florida win the NCAA tournament?"
+}

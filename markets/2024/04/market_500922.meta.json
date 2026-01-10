@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-12T15:33:02.449329Z",
+  "market_createdAt": "2024-04-12T15:33:02.449329Z",
+  "market_updatedAt": "2024-06-15T20:46:12.66071Z",
+  "market_startDate": "2024-04-12T16:57:52.478Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 01:17:18+00",
+  "conditionId": "0x6a03a32cd812c8928959daf0a8ea6e3122028c35107e0909b20eaf20ea7317f2",
+  "slug": "will-another-candidate-be-the-next-president-of-south-africa",
+  "question": "Will another non-ANC candidate be the next President of South Africa?"
+}

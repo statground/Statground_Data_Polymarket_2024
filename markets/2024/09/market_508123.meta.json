@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:15:40.538834Z",
+  "market_createdAt": "2024-09-25T18:15:40.538834Z",
+  "market_updatedAt": "2024-09-27T23:46:41.201242Z",
+  "market_startDate": "2024-09-25T18:33:44.334Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-09-27 06:33:20+00",
+  "conditionId": "0x6a179e313f047d60b33a933a42666c2a13bf760af0bee73239e870757a715ed7",
+  "slug": "will-helene-make-landfall-at-category-2",
+  "question": "Will Helene make landfall at category 2?"
+}

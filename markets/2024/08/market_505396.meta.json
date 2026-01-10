@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:07:50.281073Z",
+  "market_createdAt": "2024-08-20T00:07:50.281073Z",
+  "market_updatedAt": "2024-08-23T05:47:03.443155Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:43:06+00",
+  "conditionId": "0xd7a8fb54c6687aa5be75066a76b171d23f463a2c91e3791770b9912ee6675a02",
+  "slug": "will-walz-say-valor-at-dnc-speech",
+  "question": "Will Walz say \"Valor\" at DNC speech?"
+}

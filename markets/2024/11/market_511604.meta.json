@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:11:57.538170Z",
+  "market_createdAt": "2024-11-01T16:11:57.53817Z",
+  "market_updatedAt": "2024-11-05T00:33:09.994322Z",
+  "market_startDate": "2024-11-01T16:14:48.119228Z",
+  "market_endDate": "2024-11-03T20:30:00Z",
+  "market_closedTime": "2024-11-04 01:14:48+00",
+  "conditionId": "0x3b8a9711f98592533a99dd6779408b48ee8d6d66b25e2b70cca1ff3bc9f0d5f7",
+  "slug": "nba-det-bkn-2024-11-03",
+  "question": "Pistons vs. Nets"
+}

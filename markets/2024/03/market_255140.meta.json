@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:48:37.148000Z",
+  "market_createdAt": "2024-03-01T18:48:37.148Z",
+  "market_updatedAt": "2024-11-07T17:13:08.268474Z",
+  "market_startDate": "2024-03-28T20:40:18.821Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 18:04:02+00",
+  "conditionId": "0x67d2bcb7a91e89e038fd81dd724622e7aba4c8db28e18133fc75ba02db1a05a0",
+  "slug": "will-a-republican-win-maryland-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Maryland Presidential Election?"
+}

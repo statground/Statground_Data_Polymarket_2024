@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T19:28:30.765199Z",
+  "market_createdAt": "2024-03-20T19:28:30.765199Z",
+  "market_updatedAt": "2024-05-07T23:09:32.957895Z",
+  "market_startDate": "2024-04-03T18:14:54.469Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 21:09:00+00",
+  "conditionId": "0x7f7acaad0b6132ec2f72ba179eebca814865a2c598705381a8e8aa3acce5b0b5",
+  "slug": "will-the-fed-raise-interest-rates-by-25-bps-after-its-2024-aprilmay-meeting",
+  "question": "Fed raises interest rates by 25+ bps after 2024 May meeting?"
+}

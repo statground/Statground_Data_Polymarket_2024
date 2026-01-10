@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T21:46:54.507869Z",
+  "market_createdAt": "2024-05-29T21:46:54.507869Z",
+  "market_updatedAt": "2024-06-01T21:36:06.300441Z",
+  "market_startDate": "2024-05-31T22:38:48.653Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x98204a75d249c3ebb34b685493a73b02fe99c1eecb934d8fc02b6b4ed215ff95",
+  "slug": "will-peter-be-the-biggest-loser-on-day-4",
+  "question": "Will Peter be the biggest loser on Day 4?"
+}

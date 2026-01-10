@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511914",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:36:37.928482Z",
+  "market_createdAt": "2024-11-04T18:36:37.928482Z",
+  "market_updatedAt": "2025-01-22T04:13:14.201026Z",
+  "market_startDate": "2024-11-06T16:27:21.322Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-01-21 06:20:08+00",
+  "conditionId": "0x5a8029020e5886fc3f2fd51f952b39e467c1deb0e4e7775d2c6115ecb0737f7b",
+  "slug": "trump-deportation-executive-order-in-first-100-days",
+  "question": "Trump deportation executive order in first 100 days?"
+}

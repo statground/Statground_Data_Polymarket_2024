@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:09:29.929713Z",
+  "market_createdAt": "2024-12-04T21:09:29.929713Z",
+  "market_updatedAt": "2024-12-06T07:15:30.144977Z",
+  "market_startDate": "2024-12-04T21:12:47.77165Z",
+  "market_endDate": "2024-12-12T03:00:00Z",
+  "market_closedTime": "2024-12-05 07:43:36+00",
+  "conditionId": "0x2ce55cc5b75b27acd767c4f819301a57d8d252bebb4d8719510739f079e38d01",
+  "slug": "nhl-las-ana-2024-12-04",
+  "question": "Golden Knights vs. Ducks"
+}

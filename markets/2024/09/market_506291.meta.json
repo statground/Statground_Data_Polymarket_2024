@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:38:42.774600Z",
+  "market_createdAt": "2024-09-03T17:38:42.7746Z",
+  "market_updatedAt": "2024-09-12T05:01:07.021316Z",
+  "market_startDate": "2024-09-03T22:24:27.448Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:08:36+00",
+  "conditionId": "0x3273484a3b43ecbaa6c21380d21bab33413ce0836e07254d5369a269be9592e1",
+  "slug": "will-trump-say-fake-news-at-debate",
+  "question": "Will Trump say \"fake news\" at debate?"
+}

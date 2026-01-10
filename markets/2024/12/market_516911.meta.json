@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:00:57.029583Z",
+  "market_createdAt": "2024-12-31T05:00:57.029583Z",
+  "market_updatedAt": "2025-01-01T21:47:22.275347Z",
+  "market_startDate": "2024-12-31T05:04:03.979508Z",
+  "market_endDate": "2025-01-07T17:00:00Z",
+  "market_closedTime": "2024-12-31 22:25:51+00",
+  "conditionId": "0xaa2b61bb8e7f3994c88ed8fac42e8e87afc4f96797c74c460a48746bf3c98285",
+  "slug": "cfb-bama-mich-2024-12-31",
+  "question": "Alabama vs. Michigan"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:08:57.212319Z",
+  "market_createdAt": "2024-11-01T18:08:57.212319Z",
+  "market_updatedAt": "2024-11-03T05:47:04.367712Z",
+  "market_startDate": "2024-11-01T23:03:05.571057Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:15:44+00",
+  "conditionId": "0xaddab94e0363beaa316112cd822d6031adaaf619e4b43cc9d1f56d8d7adf3871",
+  "slug": "will-usc-and-washington-combine-for-56-or-more-points",
+  "question": "Will USC and Washington combine for 56 or more points?"
+}

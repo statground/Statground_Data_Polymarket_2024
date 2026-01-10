@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-02T16:52:14.299000Z",
+  "market_createdAt": "2024-02-02T16:52:14.299Z",
+  "market_updatedAt": "2024-03-09T12:26:00.62Z",
+  "market_startDate": "2024-02-02T22:34:00Z",
+  "market_endDate": "2024-03-05T00:00:00Z",
+  "market_closedTime": "2024-03-08 17:03:30+00",
+  "conditionId": "0x4f0cad7e5504080b120caed8b52c8f5ba113f68fd5c27b060f126b5f0ee73500",
+  "slug": "will-us-gain-250k-300k-jobs-in-february",
+  "question": "Will US gain 250k-300k jobs in February?"
+}

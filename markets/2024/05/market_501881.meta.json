@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:23:52.466683Z",
+  "market_createdAt": "2024-05-29T18:23:52.466683Z",
+  "market_updatedAt": "2024-06-03T11:56:12.418033Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:12:09+00",
+  "conditionId": "0x1aa0febb372f7d20a83b6f038856fff5abbcb5030187b3e10fc433f3e16ecd76",
+  "slug": "will-halla-hrund-logadottir-win-the-iceland-presidential-election",
+  "question": "Will Halla Hrund Logadóttir win the Iceland Presidential Election?"
+}

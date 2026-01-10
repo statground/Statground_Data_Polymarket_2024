@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:36:59.473990Z",
+  "market_createdAt": "2024-12-05T21:36:59.47399Z",
+  "market_updatedAt": "2024-12-17T17:23:25.306783Z",
+  "market_startDate": "2024-12-10T21:03:19.96834Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:34:14+00",
+  "conditionId": "0x7c4b41f6dd545d11e97a9132e246db0a25748bf921995e59d4471773897057a2",
+  "slug": "will-coinbase-announce-neiro-as-next-listing",
+  "question": "Will Coinbase announce Neiro as next listing?"
+}

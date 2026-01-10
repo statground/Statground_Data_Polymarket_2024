@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-27T20:18:32.304133Z",
+  "market_createdAt": "2024-04-27T20:18:32.304133Z",
+  "market_updatedAt": "2024-05-07T23:09:19.59597Z",
+  "market_startDate": "2024-04-27T20:32:05.812Z",
+  "market_endDate": "2024-04-28T12:00:00Z",
+  "market_closedTime": "2024-04-29 00:29:04+00",
+  "conditionId": "0x3aa4f200596ef44666cd594a7bcb7aed31ce3784233826db560056169aa95f02",
+  "slug": "nba-dal-lac-2024-04-28",
+  "question": "NBA: Dallas Mavericks vs. LA Clippers 2024-04-28"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:30:47.386730Z",
+  "market_createdAt": "2024-11-04T18:30:47.38673Z",
+  "market_updatedAt": "2024-11-08T05:49:03.32032Z",
+  "market_startDate": "2024-11-04T18:33:23.555999Z",
+  "market_endDate": "2024-11-07T01:00:00Z",
+  "market_closedTime": "2024-11-07 05:54:02+00",
+  "conditionId": "0x6c5c93dad4892bea1050a9dbbb69662e47b8333ebf809d4296d1d26af1d71ddb",
+  "slug": "nba-cle-nop-2024-11-06",
+  "question": "Cavaliers vs. Pelicans"
+}

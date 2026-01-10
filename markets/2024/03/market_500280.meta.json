@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T19:25:37.761127Z",
+  "market_createdAt": "2024-03-18T19:25:37.761127Z",
+  "market_updatedAt": "2024-05-07T23:09:20.722554Z",
+  "market_startDate": "2024-03-18T21:19:34.237Z",
+  "market_endDate": "2024-04-07T23:00:00Z",
+  "market_closedTime": "2024-03-30 07:18:25+00",
+  "conditionId": "0xf80bf49e2edd6ff6ca018d53cf045894c566f3926b4c9396bc4bc554efcb9d0f",
+  "slug": "march-madness-2024-will-three-1-seeds-make-it-to-the-final-four",
+  "question": "March Madness 2024: Will three #1 seeds make it to the Final Four?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:36:31.668225Z",
+  "market_createdAt": "2024-08-21T01:36:31.668225Z",
+  "market_updatedAt": "2024-08-25T19:10:56.112122Z",
+  "market_startDate": "2024-08-21T16:20:04.71Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:17:08+00",
+  "conditionId": "0x8b49263f81e70b77cc944155cf495c399ff2877d3b9cf229fa23318ddf0318b6",
+  "slug": "will-fulham-beat-leicester-city",
+  "question": "Will Fulham beat Leicester City?"
+}

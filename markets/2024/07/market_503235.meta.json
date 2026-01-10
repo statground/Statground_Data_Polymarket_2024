@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T19:52:04.638170Z",
+  "market_createdAt": "2024-07-05T19:52:04.63817Z",
+  "market_updatedAt": "2024-07-12T17:42:50.507997Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-12T12:00:00Z",
+  "market_closedTime": "2024-07-11 18:16:41+00",
+  "conditionId": "0xc36318051eed7da7b3e5d5e74a739532e231c480c1eee33fa47d53977818e924",
+  "slug": "will-elon-tweet-50-59-times-july-12",
+  "question": "Will Elon tweet 50-59 times?"
+}

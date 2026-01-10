@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T17:25:00.735586Z",
+  "market_createdAt": "2024-11-12T17:25:00.735586Z",
+  "market_updatedAt": "2024-12-05T02:15:34.564011Z",
+  "market_startDate": "2024-11-12T17:41:05.105Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:24:50+00",
+  "conditionId": "0x49001ebd9aa1f84fa24d4a0fad0f8139945a4d997275e6652591bc59166fc5f1",
+  "slug": "will-another-party-win-the-most-seats-in-the-romanian-parliamentary-election",
+  "question": "Will another party win the most seats in the Romanian parliamentary election?"
+}

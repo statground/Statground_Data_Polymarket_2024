@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T19:45:09.634363Z",
+  "market_createdAt": "2024-10-16T19:45:09.634363Z",
+  "market_updatedAt": "2024-10-20T01:50:56.623995Z",
+  "market_startDate": "2024-10-16T21:06:15.371Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 03:23:48+00",
+  "conditionId": "0x57f91ea4238eb224de83fa50d0ea625eb7ccdfd59ca83a9b649b6d6238ae9d94",
+  "slug": "will-trump-say-weave-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"weave\" during Michigan rally on October 18?"
+}

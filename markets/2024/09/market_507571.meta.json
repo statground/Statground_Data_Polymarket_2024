@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:39:03.175249Z",
+  "market_createdAt": "2024-09-20T15:39:03.175249Z",
+  "market_updatedAt": "2024-09-28T18:56:46.401911Z",
+  "market_startDate": "2024-09-20T16:40:22.999741Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-27 19:44:10+00",
+  "conditionId": "0xd607b50c2ff87d0d01212e2460e2a643be83d702472fe9ba87a16490e461809c",
+  "slug": "will-trump-tweet-20-24-times-september-20-27",
+  "question": "Will Trump tweet 20-24 times September 20-27?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T20:11:15.412247Z",
+  "market_createdAt": "2024-10-16T20:11:15.412247Z",
+  "market_updatedAt": "2024-10-20T02:42:44.315521Z",
+  "market_startDate": "2024-10-16T21:18:46.564787Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 02:38:57+00",
+  "conditionId": "0x7f9d2b7e996e58719264fa2d36d0c6510650a96a0ce2d61f82e13f1c741f71a3",
+  "slug": "will-trump-say-elon-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"Elon\" during Michigan rally on October 18?"
+}

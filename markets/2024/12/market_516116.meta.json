@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T16:34:19.661880Z",
+  "market_createdAt": "2024-12-20T16:34:19.66188Z",
+  "market_updatedAt": "2025-02-02T07:29:30.014079Z",
+  "market_startDate": "2024-12-20T17:06:26.833265Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:22:47+00",
+  "conditionId": "0x27f85bd5986e0bee118e8588ae605defd4cd08a5c35f149e8da31cd247755f25",
+  "slug": "abstract-token-launch-by-january-31",
+  "question": "Abstract token launch by January 31?"
+}

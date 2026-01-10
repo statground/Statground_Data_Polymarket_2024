@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T19:53:34.325537Z",
+  "market_createdAt": "2024-06-07T19:53:34.325537Z",
+  "market_updatedAt": "2024-06-19T23:26:13.57958Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-19 04:18:14+00",
+  "conditionId": "0x9fef39f67f5c0f2b973b23da0a4afe61855f98d0cafba898aceee65f7c52ded5",
+  "slug": "will-scott-parkinson-win-the-2024-virginia-senate-republican-primary",
+  "question": "Will Scott Parkinson win the 2024 Virginia Senate Republican Primary?"
+}

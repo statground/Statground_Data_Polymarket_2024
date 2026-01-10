@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T19:02:23.905797Z",
+  "market_createdAt": "2024-12-17T19:02:23.905797Z",
+  "market_updatedAt": "2025-02-25T12:06:32.013296Z",
+  "market_startDate": "2024-12-18T15:05:54.760737Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 13:36:46+00",
+  "conditionId": "0x4411688b128d9652bbad80a99ad722b63e47b4cabd0982f42510971744587c06",
+  "slug": "will-spd-win-the-second-most-seats-in-the-next-german-election",
+  "question": "Will SPD win the second most seats in the next German election?"
+}

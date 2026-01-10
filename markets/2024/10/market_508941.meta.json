@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:32:23.924987Z",
+  "market_createdAt": "2024-10-04T17:32:23.924987Z",
+  "market_updatedAt": "2024-10-07T09:16:34.774878Z",
+  "market_startDate": "2024-10-04T18:41:33.734436Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 09:22:56+00",
+  "conditionId": "0x9de9e17ca91494bc85d17c236ada0ce89b425c569cec66b954313e21a02d5c54",
+  "slug": "will-miami-beat-california-by-11-or-more-points",
+  "question": "Will Miami beat California by 11 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:57:31.528026Z",
+  "market_createdAt": "2024-10-23T21:57:31.528026Z",
+  "market_updatedAt": "2024-10-27T23:52:51.002756Z",
+  "market_startDate": "2024-10-23T22:42:26.039209Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 23:47:03+00",
+  "conditionId": "0x5f8201fa4b4f1118bbd6149ae4069cc1830d8cf995c40d5cb143960e3b8a105f",
+  "slug": "will-trump-say-womens-sports-during-pennsylvania-rally-on-october-26",
+  "question": "Will Trump say \"women's sports\" during Pennsylvania rally on October 26?"
+}

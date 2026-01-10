@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T20:58:47.792891Z",
+  "market_createdAt": "2024-11-02T20:58:47.792891Z",
+  "market_updatedAt": "2024-11-06T08:23:07.262352Z",
+  "market_startDate": "2024-11-02T22:56:51.92Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:21:47+00",
+  "conditionId": "0x83f367b5a3cf60623aea2e1e31bdde1fc4113f0da891b26bbf43905ebb0ead8c",
+  "slug": "will-trump-say-border-30-or-more-times-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"border\" 30 or more times during Michigan rally on Nov 4?"
+}

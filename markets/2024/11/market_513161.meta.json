@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:06:18.869984Z",
+  "market_createdAt": "2024-11-15T19:06:18.869984Z",
+  "market_updatedAt": "2024-11-17T21:19:22.491144Z",
+  "market_startDate": "2024-11-15T22:08:18.93968Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:50:06+00",
+  "conditionId": "0x77b68aa03ac76a95d07e84e6754746fb3ec213b308271d97a4565b11d67f62f4",
+  "slug": "will-colorado-beat-utah-by-11-or-more-points",
+  "question": "Will Colorado beat Utah by 11 or more points?"
+}

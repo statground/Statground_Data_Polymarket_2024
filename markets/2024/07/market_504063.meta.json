@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T16:46:56.230484Z",
+  "market_createdAt": "2024-07-24T16:46:56.230484Z",
+  "market_updatedAt": "2024-07-26T02:28:40.99155Z",
+  "market_startDate": "2024-07-24T17:32:13.302Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:24:03+00",
+  "conditionId": "0x76d3502a07af5bb3be58eab4e09e34312b198f7ca2d54ea3e10605a7af908ad4",
+  "slug": "bidens-dropout-speech-over-15-minutes",
+  "question": "Biden's dropout speech over 15 minutes?"
+}

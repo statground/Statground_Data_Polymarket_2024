@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:38:12.222490Z",
+  "market_createdAt": "2024-12-25T06:38:12.22249Z",
+  "market_updatedAt": "2024-12-31T22:45:38.048653Z",
+  "market_startDate": "2024-12-25T06:40:43.166917Z",
+  "market_endDate": "2024-12-30T19:45:00Z",
+  "market_closedTime": "2024-12-31 01:10:30+00",
+  "conditionId": "0x795eab1e09861d76d7cd04f942cf9eb743b78870a3aa7d7ad8d513676f22609a",
+  "slug": "epl-ips-che-2024-12-30-che",
+  "question": "Will Chelsea win on 2024-12-30?"
+}

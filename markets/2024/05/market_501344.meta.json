@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:47:05.071240Z",
+  "market_createdAt": "2024-05-02T16:47:05.07124Z",
+  "market_updatedAt": "2024-05-07T23:09:26.143583Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:29:48+00",
+  "conditionId": "0x5414b91e75b73ca271a61b56eb816e3219009c53147cff1d50c81714d36e3f6c",
+  "slug": "will-fierceness-win-the-2024-kentucky-derby",
+  "question": "Will Fierceness win the 2024 Kentucky Derby?"
+}

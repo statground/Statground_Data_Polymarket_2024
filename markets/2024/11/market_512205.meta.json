@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:51:38.291434Z",
+  "market_createdAt": "2024-11-06T19:51:38.291434Z",
+  "market_updatedAt": "2025-01-21T06:53:07.735201Z",
+  "market_startDate": "2024-11-06T20:03:09.039883Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:02:26+00",
+  "conditionId": "0x57858d7b061a48238bf51d254f40279a1244e12ba08cc7c3c30a99f668a7102f",
+  "slug": "trump-ends-ukraine-war-before-inauguration",
+  "question": "Trump ends Ukraine war before inauguration?"
+}

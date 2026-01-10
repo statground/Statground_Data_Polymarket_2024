@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T14:29:31.424637Z",
+  "market_createdAt": "2024-07-18T14:29:31.424637Z",
+  "market_updatedAt": "2024-07-20T04:10:41.506239Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 05:01:00+00",
+  "conditionId": "0xc0d25ad0db9fdd200a48a629f29a8d2c96c2b6adfb6dc6b7e69d9ff3081da462",
+  "slug": "will-trump-say-god-during-rnc-speech-1",
+  "question": "Will Trump say \"god\" during RNC speech?"
+}

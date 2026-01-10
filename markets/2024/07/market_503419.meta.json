@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T17:22:45.203161Z",
+  "market_createdAt": "2024-07-12T17:22:45.203161Z",
+  "market_updatedAt": "2024-07-30T15:15:11.403303Z",
+  "market_startDate": "2024-07-12T19:21:39.237Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-29 15:58:13+00",
+  "conditionId": "0xf2830173b5e239e7db0509d4489105107225101cce05b41c1818b4b78e00d6e8",
+  "slug": "will-btc-hit-50k-or-70k-first",
+  "question": "Will $BTC hit $50k or $70k first?"
+}

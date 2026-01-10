@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T18:00:38.380016Z",
+  "market_createdAt": "2024-12-02T18:00:38.380016Z",
+  "market_updatedAt": "2025-01-02T06:31:10.977431Z",
+  "market_startDate": "2024-12-02T18:14:47.492576Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:38:00+00",
+  "conditionId": "0x9ef49201dfc0b51d74b283ffa5f2ce9dcbc301bc36557fc0df71ea957e201d53",
+  "slug": "will-solana-hit-260-in-december",
+  "question": "Will Solana hit $260 in December?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:01:17.765175Z",
+  "market_createdAt": "2024-11-15T18:01:17.765175Z",
+  "market_updatedAt": "2025-02-13T19:42:10.913212Z",
+  "market_startDate": "2024-11-15T18:16:50.854Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-12 19:36:30+00",
+  "conditionId": "0xe8e3ca717d93be1f6fccea2cc168aeea15f2568466f37121d780efe32eae33e1",
+  "slug": "tulsi-gabbard-confirmed-as-dni",
+  "question": "Tulsi Gabbard confirmed as Director of National Intelligence?"
+}

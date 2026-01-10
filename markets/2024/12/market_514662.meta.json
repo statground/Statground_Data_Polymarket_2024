@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T15:22:18.342104Z",
+  "market_createdAt": "2024-12-04T15:22:18.342104Z",
+  "market_updatedAt": "2024-12-13T01:37:09.442955Z",
+  "market_startDate": "2024-12-04T18:03:31.722639Z",
+  "market_endDate": "2025-03-26T12:00:00Z",
+  "market_closedTime": "2024-12-12 02:58:51+00",
+  "conditionId": "0xfd0f05efdbd46ef902dfcdb39bd570aa3aa9afbd2ee42d9c2717698f2e5421f9",
+  "slug": "will-juan-soto-sign-with-the-boston-red-sox",
+  "question": "Will Juan Soto sign with the Boston Red Sox?"
+}

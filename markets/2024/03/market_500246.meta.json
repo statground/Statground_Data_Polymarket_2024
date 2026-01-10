@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:37:10.258391Z",
+  "market_createdAt": "2024-03-18T15:37:10.258391Z",
+  "market_updatedAt": "2024-05-07T23:09:47.754117Z",
+  "market_startDate": "2024-03-18T18:59:40.019Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-23 04:24:49+00",
+  "conditionId": "0xbf8fde13c51c3c3b7dd7e79b51108e0fcf2734b5cabdd8db823d2411fa5284a8",
+  "slug": "will-nebraska-win-the-ncaa-tournament",
+  "question": "Will Nebraska win the NCAA tournament?"
+}

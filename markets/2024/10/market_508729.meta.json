@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:25:49.325509Z",
+  "market_createdAt": "2024-10-02T20:25:49.325509Z",
+  "market_updatedAt": "2024-10-13T18:02:41.733702Z",
+  "market_startDate": "2024-10-02T21:50:24.108954Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:26:53+00",
+  "conditionId": "0x6f2d916aa0e6952e4682fd44be2f552b4f4f851313af14ccc901b1a0ff513c92",
+  "slug": "will-heroic-win-iem-rio-2024",
+  "question": "Will Heroic win IEM Rio 2024?"
+}

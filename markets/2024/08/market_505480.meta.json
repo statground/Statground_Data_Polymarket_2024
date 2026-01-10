@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:25:41.102987Z",
+  "market_createdAt": "2024-08-21T01:25:41.102987Z",
+  "market_updatedAt": "2024-08-25T18:22:49.608791Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:17:12+00",
+  "conditionId": "0xc26cbbf39ccc6b6f8408a1f3b2613606629f82174d76ae68564736f9fad77d74",
+  "slug": "will-tottenham-vs-everton-end-in-a-draw",
+  "question": "Will Tottenham vs Everton end in a draw?"
+}

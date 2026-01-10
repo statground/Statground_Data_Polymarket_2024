@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:06:56.433314Z",
+  "market_createdAt": "2024-12-22T07:06:56.433314Z",
+  "market_updatedAt": "2024-12-30T02:14:12.512024Z",
+  "market_startDate": "2024-12-22T07:09:27.188058Z",
+  "market_endDate": "2025-01-04T21:00:00Z",
+  "market_closedTime": "2024-12-29 02:08:53+00",
+  "conditionId": "0x3af39d76ce671d6cf805d4fa33354231407ef875c38c459eed23bc091b1f5a3d",
+  "slug": "nhl-sea-van-2024-12-28",
+  "question": "Kraken vs. Canucks"
+}

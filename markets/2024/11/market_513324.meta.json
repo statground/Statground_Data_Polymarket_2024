@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:02:43.712979Z",
+  "market_createdAt": "2024-11-18T05:02:43.712979Z",
+  "market_updatedAt": "2024-11-25T23:03:48.778938Z",
+  "market_startDate": "2024-11-18T05:05:16.373336Z",
+  "market_endDate": "2024-12-01T18:00:00Z",
+  "market_closedTime": "2024-11-24 23:01:14+00",
+  "conditionId": "0x8ca4d7a63640411b61740360a140cebbd38da5db6088e7970558668c9e51f1b1",
+  "slug": "nfl-det-ind-2024-11-24",
+  "question": "Lions vs. Colts"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:43:00.220422Z",
+  "market_createdAt": "2024-09-03T04:43:00.220422Z",
+  "market_updatedAt": "2024-09-04T18:33:04.733328Z",
+  "market_startDate": "2024-09-03T05:43:24.458046Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 18:52:59+00",
+  "conditionId": "0x96d6598c5ad7b04f7c59170fc042a51de7eddbbb81069248da07d89c1bd4e141",
+  "slug": "will-trump-say-putin-during-lex-interview",
+  "question": "Will Trump say \"Putin\" during Lex interview?"
+}

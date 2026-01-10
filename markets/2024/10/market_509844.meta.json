@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509844",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T20:10:45.665897Z",
+  "market_createdAt": "2024-10-14T20:10:45.665897Z",
+  "market_updatedAt": "2024-10-25T02:13:03.610531Z",
+  "market_startDate": "2024-10-15T14:59:16.125483Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:24:50+00",
+  "conditionId": "0x032e25a144a7eff1499e875dc9592c6b70407574d1c9bbcd649e747486683820",
+  "slug": "will-wesley-so-win-the-2024-us-chess-championship",
+  "question": "Will Wesley So win the 2024 US Chess Championship?"
+}

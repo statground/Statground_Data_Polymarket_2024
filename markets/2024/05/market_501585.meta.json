@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T15:49:07.689964Z",
+  "market_createdAt": "2024-05-14T15:49:07.689964Z",
+  "market_updatedAt": "2024-11-07T21:53:00.200953Z",
+  "market_startDate": "2024-05-14T15:49:07.689964Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:23:52+00",
+  "conditionId": "0xafde9e890a2db339b6515cd75c2d09574dcaf731b483a1ef6ea0a3abc5ec8abd",
+  "slug": "will-a-democrat-win-the-popular-vote-and-the-presidency",
+  "question": "Will a Democrat win the popular vote and the Presidency? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:21:42.865815Z",
+  "market_createdAt": "2024-10-25T21:21:42.865815Z",
+  "market_updatedAt": "2024-10-29T00:37:09.849783Z",
+  "market_startDate": "2024-10-25T22:04:46.478748Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:28:09+00",
+  "conditionId": "0xaaf9892f7574addf746bd9220bf61d41cbe2d435c5693f94abbc210af7836cc4",
+  "slug": "will-the-49ers-and-cowboys-combine-for-47-or-more-points",
+  "question": "Will the Chiefs and Raiders combine for 42 or more points?"
+}

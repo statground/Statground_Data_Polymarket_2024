@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T20:50:16.698429Z",
+  "market_createdAt": "2024-09-06T20:50:16.698429Z",
+  "market_updatedAt": "2024-09-14T19:03:10.632934Z",
+  "market_startDate": "2024-09-06T22:47:51.184115Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-13 19:21:48+00",
+  "conditionId": "0x84fcb5d81a2e40e6930f89a10d83ad2f4d4a9df236b70f550d5b652811cdd312",
+  "slug": "will-elon-tweet-400-or-more-times",
+  "question": "Will Elon tweet 400 or more times?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:58:24.187557Z",
+  "market_createdAt": "2024-04-10T19:58:24.187557Z",
+  "market_updatedAt": "2024-05-11T15:13:59.62743Z",
+  "market_startDate": "2024-04-11T00:18:27.366Z",
+  "market_endDate": "2024-05-01T12:00:00Z",
+  "market_closedTime": "2024-05-10 18:25:34+00",
+  "conditionId": "0x808fc2450113e86e89787be4bcd033ad198c656fe4d18bd7f48a4443f72acd8c",
+  "slug": "will-april-2024-show-an-increase-of-greater-than-1pt31c",
+  "question": "Will April 2024 show an increase of greater than 1.31°C?"
+}

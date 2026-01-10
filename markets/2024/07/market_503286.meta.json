@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T18:45:23.572288Z",
+  "market_createdAt": "2024-07-08T18:45:23.572288Z",
+  "market_updatedAt": "2024-07-15T18:02:48.215933Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-14 18:04:39+00",
+  "conditionId": "0x10e18bdaa612110b10396533dab1d82a09b0fb065524cb02731c9a72566adc83",
+  "slug": "house-overturns-bidens-sab-121-veto",
+  "question": "House overturns Biden's SAB 121 veto?"
+}

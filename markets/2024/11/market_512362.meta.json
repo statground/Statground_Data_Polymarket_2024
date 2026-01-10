@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T17:06:55.311981Z",
+  "market_createdAt": "2024-11-08T17:06:55.311981Z",
+  "market_updatedAt": "2024-11-14T11:53:00.087167Z",
+  "market_startDate": "2024-11-08T18:04:34.481424Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-13 14:46:52+00",
+  "conditionId": "0x25057f47fd558d29aeadd904c4e24d0c7b567762bd4d5eab1112e068450752ac",
+  "slug": "will-trump-tweet-10-14-times-nov-8-15",
+  "question": "Will Trump tweet 10-14 times Nov 8-15?"
+}

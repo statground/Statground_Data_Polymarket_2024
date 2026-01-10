@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:15:49.732726Z",
+  "market_createdAt": "2024-10-23T18:15:49.732726Z",
+  "market_updatedAt": "2024-10-28T18:42:58.727522Z",
+  "market_startDate": "2024-10-23T20:15:11.0667Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:27:56+00",
+  "conditionId": "0x839354ea9ebc2d17b3e01354cb3585df4aa41b66b81e30540fd820621bc5bfdb",
+  "slug": "will-saw-win-esl-challenger-katowice-2024",
+  "question": "Will SAW win ESL Challenger Katowice 2024?"
+}

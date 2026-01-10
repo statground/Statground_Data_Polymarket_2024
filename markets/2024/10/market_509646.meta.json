@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:53:21.975658Z",
+  "market_createdAt": "2024-10-11T15:53:21.975658Z",
+  "market_updatedAt": "2024-10-14T04:16:47.402783Z",
+  "market_startDate": "2024-10-11T19:11:12.254047Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 05:06:47+00",
+  "conditionId": "0x2687d50ab6aaa413c6a02ca5fff8ea8c855eb4f1a340208c0fdb93d6d62b21ed",
+  "slug": "will-ohio-st-beat-oregon",
+  "question": " Will Ohio St. beat Oregon?"
+}

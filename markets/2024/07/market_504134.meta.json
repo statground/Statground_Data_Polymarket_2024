@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:17:23.509836Z",
+  "market_createdAt": "2024-07-25T17:17:23.509836Z",
+  "market_updatedAt": "2024-07-30T18:39:07.64916Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 21:57:34+00",
+  "conditionId": "0x43802af5d09a998031a6c411a170489b6de143b46085d5782b1dae5605b5a9ae",
+  "slug": "will-another-athlete-win-gold-in-womens-400m-individual-medley",
+  "question": "Will another athlete win Gold in Women's 400m Individual Medley?"
+}

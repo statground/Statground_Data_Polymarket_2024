@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515020",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:57:34.904728Z",
+  "market_createdAt": "2024-12-06T22:57:34.904728Z",
+  "market_updatedAt": "2024-12-09T17:59:13.317991Z",
+  "market_startDate": "2024-12-06T23:23:41.969889Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:15:57+00",
+  "conditionId": "0x174676fd4c207d735309249b54df2f936cc87caad2ffbe8e7d97e5c35bea272b",
+  "slug": "will-the-buccaneers-and-raiders-combine-for-47-or-more-points",
+  "question": "Will the Buccaneers and Raiders combine for 47 or more points?"
+}

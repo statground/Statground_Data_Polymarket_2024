@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:30:15.377435Z",
+  "market_createdAt": "2024-11-21T22:30:15.377435Z",
+  "market_updatedAt": "2024-12-05T01:23:39.862148Z",
+  "market_startDate": "2024-11-25T18:42:09.133626Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-04 06:55:30+00",
+  "conditionId": "0x00ec367309e915b260c4b8318667ef11d86748abf990a451cf11dda935ed47a0",
+  "slug": "will-the-memphis-grizzlies-win-the-2024-nba-cup",
+  "question": "Will the Memphis Grizzlies win the 2024 NBA Cup?"
+}

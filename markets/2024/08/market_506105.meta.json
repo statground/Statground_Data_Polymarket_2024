@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:53:13.923397Z",
+  "market_createdAt": "2024-08-29T19:53:13.923397Z",
+  "market_updatedAt": "2025-01-24T23:23:17.362834Z",
+  "market_startDate": "2024-08-29T19:53:13.923Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:10:06+00",
+  "conditionId": "0x64300d0e8784825451fc7832a2cbdecb34de8baf54d7066f2bd7ac3c241ff1e1",
+  "slug": "will-dak-prescott-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Dak Prescott win NFL MVP for the 2024-25 season?"
+}

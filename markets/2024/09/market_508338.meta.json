@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:38:04.043658Z",
+  "market_createdAt": "2024-09-27T19:38:04.043658Z",
+  "market_updatedAt": "2024-09-30T17:02:41.179988Z",
+  "market_startDate": "2024-09-27T20:53:26.303517Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:20:14+00",
+  "conditionId": "0xd59473b58334baf5a0d7cbf9de579cda359a974b093a7267c7a97437e2f5a983",
+  "slug": "will-the-texans-beat-the-jaguars-by-7-or-more-points",
+  "question": "Will the Texans beat the Jaguars by 7 or more points?"
+}

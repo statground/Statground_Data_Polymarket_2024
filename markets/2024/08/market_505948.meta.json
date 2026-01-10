@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T22:51:28.646253Z",
+  "market_createdAt": "2024-08-27T22:51:28.646253Z",
+  "market_updatedAt": "2024-09-02T02:33:06.473844Z",
+  "market_startDate": "2024-08-27T22:51:28.646253Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 05:30:03+00",
+  "conditionId": "0xa4b0197d6c0baf2985658f7a4748300e69334d83ba248e29f15f9749ab65340e",
+  "slug": "will-texas-am-win-by-3-or-more-points",
+  "question": "Will Texas A&M win by 3 or more points?"
+}

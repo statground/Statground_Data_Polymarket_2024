@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501474",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T19:40:10.918756Z",
+  "market_createdAt": "2024-05-07T19:40:10.918756Z",
+  "market_updatedAt": "2024-06-11T14:36:15.324717Z",
+  "market_startDate": "2024-05-08T04:58:17.809Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 05:57:12+00",
+  "conditionId": "0xd30a1acf914d446c4c1992afb8f6815113629699434a173f94153379566c00bb",
+  "slug": "will-ecolo-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will Ecolo win the most seats in the Belgian federal elections?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T01:18:40.716646Z",
+  "market_createdAt": "2024-08-20T01:18:40.716646Z",
+  "market_updatedAt": "2025-01-11T05:04:45.693134Z",
+  "market_startDate": "2024-08-22T19:00:46.826Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-10 07:39:40+00",
+  "conditionId": "0x9b182b7173e44f239239140b81c4ed5a7a424323532d0e6ab868d3497cd6fecc",
+  "slug": "will-penn-state-win-the-2025-college-football-playoff",
+  "question": "Will Penn State win the 2025 College Football Playoff?"
+}

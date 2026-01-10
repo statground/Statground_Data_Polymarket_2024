@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:21:43.244119Z",
+  "market_createdAt": "2024-10-25T22:21:43.244119Z",
+  "market_updatedAt": "2024-10-30T00:53:06.021118Z",
+  "market_startDate": "2024-10-25T22:50:59.50087Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 02:27:45+00",
+  "conditionId": "0x4c2e39ec072f02612fa27944b0bfb539ef94b933daa6e569f29d0761c2178116",
+  "slug": "will-trump-say-garbage-can-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"garbage can\" during Georgia rally on October 28?"
+}

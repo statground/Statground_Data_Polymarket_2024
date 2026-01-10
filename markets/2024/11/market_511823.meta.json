@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:41:54.158699Z",
+  "market_createdAt": "2024-11-02T21:41:54.158699Z",
+  "market_updatedAt": "2024-11-06T07:57:13.682849Z",
+  "market_startDate": "2024-11-02T23:00:01.505Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:07:26+00",
+  "conditionId": "0x01bf8efc094110ca72f95de6bce234526f105f092e1e2df6940be6a8917210d0",
+  "slug": "will-trump-say-reagan-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"Reagan\" during Michigan rally on Nov 4?"
+}

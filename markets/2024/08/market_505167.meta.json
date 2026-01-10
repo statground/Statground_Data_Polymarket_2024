@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:47:46.841837Z",
+  "market_createdAt": "2024-08-15T17:47:46.841837Z",
+  "market_updatedAt": "2024-08-21T00:11:01.742904Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 02:43:44+00",
+  "conditionId": "0x835132c85eeeb16881577733cb6ae8beda33e644bf74500c7aaaddb1bd6e10d4",
+  "slug": "will-alien-romulus-gross-between-44m-and-50m-opening-weekend",
+  "question": "Will 'Alien: Romulus' gross between $44m and $50m opening weekend?"
+}

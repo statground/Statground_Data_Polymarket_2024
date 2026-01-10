@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T15:39:54.784208Z",
+  "market_createdAt": "2024-10-18T15:39:54.784208Z",
+  "market_updatedAt": "2024-10-19T21:16:42.593932Z",
+  "market_startDate": "2024-10-18T16:59:28.985422Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 00:24:32+00",
+  "conditionId": "0x2daff003dd6553b7007e7ff923c0c8551c7ed6c723ebf9f8ec2985052edc9e13",
+  "slug": "will-the-mets-and-dodgers-combine-for-8-or-more-runs-scored-NLCS-Game-5",
+  "question": "Will the Mets and Dodgers combine for 8 or more runs scored?"
+}

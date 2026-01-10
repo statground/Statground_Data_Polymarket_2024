@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T15:03:15.645993Z",
+  "market_createdAt": "2024-05-02T15:03:15.645993Z",
+  "market_updatedAt": "2024-06-03T02:26:11.241879Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-02 03:27:14+00",
+  "conditionId": "0x59a0fb08ca52db6d14217aa1f08b89e2cb1c914c3673804db494ffe8359be301",
+  "slug": "haney-vs-garcia-ruled-no-contest",
+  "question": "Haney vs Garcia ruled no-contest?"
+}

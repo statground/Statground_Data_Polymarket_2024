@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T23:03:58.057453Z",
+  "market_createdAt": "2024-05-13T23:03:58.057453Z",
+  "market_updatedAt": "2024-06-11T09:36:14.379018Z",
+  "market_startDate": "2024-05-14T18:30:01.398Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 09:40:41+00",
+  "conditionId": "0x492d26ede60f0b5e354e00857c01ff3fe4ee7bf009006b7d4c71f204c9d6f6a8",
+  "slug": "will-the-cducsu-win-more-than-30-of-the-votes",
+  "question": "Will the CDU/CSU receive more than 30% of votes?"
+}

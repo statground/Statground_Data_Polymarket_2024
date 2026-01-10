@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T23:20:15.813739Z",
+  "market_createdAt": "2024-11-21T23:20:15.813739Z",
+  "market_updatedAt": "2024-12-09T05:11:30.198144Z",
+  "market_startDate": "2024-11-22T15:50:15.153114Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 05:45:39+00",
+  "conditionId": "0x31bcdb44fb83be83fee889496916077f8a41fd3ba363995decd5cc2bb52dc2fa",
+  "slug": "landwehr-vs-choi",
+  "question": "Landwehr vs. Choi"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:48:31.854328Z",
+  "market_createdAt": "2024-09-20T15:48:31.854328Z",
+  "market_updatedAt": "2024-09-22T03:36:46.902331Z",
+  "market_startDate": "2024-09-20T16:15:13.495413Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-21 05:58:41+00",
+  "conditionId": "0x963a0f12c81a956d3eec11bb45f2c2ab46718efb1c36a5708e1311e8b6ad8b91",
+  "slug": "will-nebraska-beat-illinois-by-8-or-more-points",
+  "question": "Will Nebraska beat Illinois by 8 or more points?"
+}

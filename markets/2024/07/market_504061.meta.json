@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T16:21:53.504519Z",
+  "market_createdAt": "2024-07-24T16:21:53.504519Z",
+  "market_updatedAt": "2024-07-26T03:10:42.528567Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 03:07:15+00",
+  "conditionId": "0xe71ccf9021c8b688c91fc783a6e92b4ca48fbc766f0dba07f01ef5fe44de3f32",
+  "slug": "biden-escorted-back-from-the-podium-after-withdrawal-speech",
+  "question": "Biden escorted back from podium after dropout speech?"
+}

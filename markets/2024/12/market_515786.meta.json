@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:58:08.575523Z",
+  "market_createdAt": "2024-12-16T19:58:08.575523Z",
+  "market_updatedAt": "2024-12-21T18:10:53.834321Z",
+  "market_startDate": "2024-12-16T21:07:59.587351Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-20 20:29:31+00",
+  "conditionId": "0x359227d03cd758c30c113becb3f48cd702e3215a6e8b1d8f2cc4cbbe13e60aea",
+  "slug": "will-kjp-say-drone-3-or-more-times-during-next-press-briefing",
+  "question": "Will KJP say \"drone\" 3 or more times during next press briefing?"
+}

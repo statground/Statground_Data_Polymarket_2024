@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:19:36.798005Z",
+  "market_createdAt": "2024-12-05T21:19:36.798005Z",
+  "market_updatedAt": "2024-12-09T20:11:33.037386Z",
+  "market_startDate": "2024-12-05T22:53:05.659Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:18:49+00",
+  "conditionId": "0x8ec7102883431f493c7f05f31355cd402bc7eb4129128829244bf8c1accabf45",
+  "slug": "will-trump-say-tariff-3-or-more-times-during-nbc-interview",
+  "question": "Will Trump say \"tariff\" 3 or more times during NBC interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:48:40.868857Z",
+  "market_createdAt": "2024-04-10T19:48:40.868857Z",
+  "market_updatedAt": "2024-05-11T16:39:08.99923Z",
+  "market_startDate": "2024-04-11T00:17:56.693Z",
+  "market_endDate": "2024-05-01T12:00:00Z",
+  "market_closedTime": "2024-05-10 19:19:52+00",
+  "conditionId": "0x0b566f7c936578ed6bccdeacf85919ae01d6e4186081a53b895dd70d95522867",
+  "slug": "will-april-2024-show-an-increase-between-1pt14c-1pt19c",
+  "question": "Will April 2024 show an increase between 1.14°C-1.19°C?"
+}

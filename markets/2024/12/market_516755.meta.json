@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:07:39.722163Z",
+  "market_createdAt": "2024-12-30T05:07:39.722163Z",
+  "market_updatedAt": "2025-01-05T19:15:28.908575Z",
+  "market_startDate": "2024-12-30T05:10:10.010364Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:29:04+00",
+  "conditionId": "0x4c73b5d03913904f64baa213cf4ba49d029f063535c5588e9f9a93933c41ab6a",
+  "slug": "epl-cry-che-2025-01-04-che",
+  "question": "Will Chelsea win on 2025-01-04?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:49:04.270349Z",
+  "market_createdAt": "2024-07-10T16:49:04.270349Z",
+  "market_updatedAt": "2024-07-16T18:04:49.357689Z",
+  "market_startDate": "2024-07-11T18:05:22.353Z",
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 00:24:51+00",
+  "conditionId": "0xb36832daea17610b55b29313a3386711ad41eb07afaf3b47fa5e19aa3e3b9e8f",
+  "slug": "will-trump-announce-vp-pick-before-rnc-convention",
+  "question": "Will Trump announce VP pick before RNC?"
+}

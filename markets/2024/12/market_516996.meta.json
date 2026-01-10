@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T21:09:33.346338Z",
+  "market_createdAt": "2024-12-31T21:09:33.346338Z",
+  "market_updatedAt": "2025-01-03T03:23:04.255872Z",
+  "market_startDate": "2024-12-31T21:48:54.957746Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2025-01-02 04:01:35+00",
+  "conditionId": "0x9b8a06261574d8c8e308cc733b6cedbb7844e382924c307f31afc2c96a1ab00e",
+  "slug": "will-ohio-state-beat-oregon-by-3-or-more-points",
+  "question": "Will Ohio State beat Oregon by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:33:26.491238Z",
+  "market_createdAt": "2024-11-11T21:33:26.491238Z",
+  "market_updatedAt": "2024-11-16T05:52:58.641712Z",
+  "market_startDate": "2024-11-11T22:03:07.993Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 09:53:11+00",
+  "conditionId": "0x1f5351c47a4eff898c49999a61f50285899814b58f9540d7f620c0da5fa97db3",
+  "slug": "will-trump-nominate-joni-ernst-for-defense-secretary",
+  "question": "Will Trump nominate Joni Ernst for Defense Secretary?"
+}

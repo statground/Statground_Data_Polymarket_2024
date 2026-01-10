@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T20:32:47.573079Z",
+  "market_createdAt": "2024-07-31T20:32:47.573079Z",
+  "market_updatedAt": "2024-08-11T02:30:55.963012Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-10 06:09:27+00",
+  "conditionId": "0x87880db1fb138631d6b3ccd9696c395050a5e8ff56cf429172394c5d21e40c98",
+  "slug": "musk-x-maduro-fight-scheduled-by-aug-9",
+  "question": "Musk x Maduro fight scheduled by Aug 9?"
+}

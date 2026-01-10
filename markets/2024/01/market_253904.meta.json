@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253904",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T19:31:59.654000Z",
+  "market_createdAt": "2024-01-16T19:31:59.654Z",
+  "market_updatedAt": "2024-01-22T05:41:22.419Z",
+  "market_startDate": "2024-01-18T00:19:00Z",
+  "market_endDate": "2024-01-18T00:00:00Z",
+  "market_closedTime": "2024-01-21 08:46:26+00",
+  "conditionId": "0x46ab1bf9535480ca2d063a3582751a358079c7f39d12d768a17a6d365e39e07f",
+  "slug": "ufc-297-who-will-win-strickland-or-du-plessis",
+  "question": "UFC 297: Who will win - Strickland or Du Plessis?"
+}

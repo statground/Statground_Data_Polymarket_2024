@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T19:20:37.946345Z",
+  "market_createdAt": "2024-07-16T19:20:37.946345Z",
+  "market_updatedAt": "2024-07-20T06:32:44.145847Z",
+  "market_startDate": "2024-07-16T20:54:47.256Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:39:28+00",
+  "conditionId": "0xbe0ed338ac426dd2a235078b396d114130f3463e75de77af36787370b51b622c",
+  "slug": "will-trump-say-cryptobitcoin-during-rnc-speech",
+  "question": "Will Trump say \"crypto/Bitcoin\" during RNC speech?"
+}

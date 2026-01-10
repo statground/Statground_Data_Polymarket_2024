@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:34:54.797176Z",
+  "market_createdAt": "2024-08-26T18:34:54.797176Z",
+  "market_updatedAt": "2024-08-31T02:27:09.620979Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:55:21+00",
+  "conditionId": "0x3ad068aad88fd63ab1772b5af2f3d4fead4b4492ae397e06a5d087681ec07135",
+  "slug": "cfb-western-carolina-vs-nc-state",
+  "question": "CFB: Western Carolina vs. NC State"
+}

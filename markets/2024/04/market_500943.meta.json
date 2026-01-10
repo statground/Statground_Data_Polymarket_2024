@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T03:26:22.804498Z",
+  "market_createdAt": "2024-04-15T03:26:22.804498Z",
+  "market_updatedAt": "2024-05-07T23:09:39.093672Z",
+  "market_startDate": "2024-04-15T03:30:13.539Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-19 07:07:47+00",
+  "conditionId": "0x043eba4f03731208aa2c2ee1d4eb64b9dc8446f1f991b6bb8ba419f9840d1cc9",
+  "slug": "israel-military-action-against-iran-by-friday",
+  "question": "Israel military action against Iran by Friday?"
+}

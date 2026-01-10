@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:13:14.183903Z",
+  "market_createdAt": "2024-08-22T18:13:14.183903Z",
+  "market_updatedAt": "2024-08-24T06:56:57.570324Z",
+  "market_startDate": "2024-08-22T22:44:39.192Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 07:00:42+00",
+  "conditionId": "0x20a66e6203c62fd90ce7c8f94526381a73dbae2ac5d96f14fa57f1965f8cc261",
+  "slug": "will-trump-post-crazy-on-final-night-of-dnc",
+  "question": "Will Trump post \"Crazy\" on final night of DNC?"
+}

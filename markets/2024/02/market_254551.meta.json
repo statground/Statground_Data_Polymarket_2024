@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:47:29.787000Z",
+  "market_createdAt": "2024-02-20T18:47:29.787Z",
+  "market_updatedAt": "2024-05-12T20:09:08.104095Z",
+  "market_startDate": "2024-02-21T00:33:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:00:13+00",
+  "conditionId": "0x27297770c295bcbb40a64919ff4f16e69ad37e8722a1fdc0e4c5e4fe3fe3afcb",
+  "slug": "will-greece-win-eurovision-2024",
+  "question": "Will Greece win Eurovision 2024?"
+}

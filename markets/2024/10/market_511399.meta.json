@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:28:39.132222Z",
+  "market_createdAt": "2024-10-29T22:28:39.132222Z",
+  "market_updatedAt": "2024-11-04T18:06:59.593764Z",
+  "market_startDate": "2024-10-30T15:07:57.497932Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:22:36+00",
+  "conditionId": "0xe498d606c561c688e34bf2f08d3f6bc77007f0e64c2b9ad09f394824ef98350f",
+  "slug": "will-another-driver-win-the-brazilian-grand-prix",
+  "question": "Will another driver win the Brazilian Grand Prix?"
+}

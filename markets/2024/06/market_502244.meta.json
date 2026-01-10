@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T04:41:15.743730Z",
+  "market_createdAt": "2024-06-10T04:41:15.74373Z",
+  "market_updatedAt": "2024-07-02T04:30:55.672149Z",
+  "market_startDate": "2024-06-10T15:51:05.932Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:15:46+00",
+  "conditionId": "0x1fc53f59947710cb613cd48d2c68f753100b02733cfee816d0194f8b47ee7817",
+  "slug": "israel-election-called-before-july",
+  "question": "Israel election called before July?"
+}

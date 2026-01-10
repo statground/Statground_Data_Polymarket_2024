@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T23:36:11.229176Z",
+  "market_createdAt": "2024-11-13T23:36:11.229176Z",
+  "market_updatedAt": "2024-11-15T23:11:21.754093Z",
+  "market_startDate": "2024-11-14T15:09:47.645566Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:16:39+00",
+  "conditionId": "0x3f64670520a01551de8119d9ac6eafa8ba64e4704a03ae03d18e04f405a73dbe",
+  "slug": "will-brazil-beat-venezuela",
+  "question": "Will Brazil beat Venezuela?"
+}

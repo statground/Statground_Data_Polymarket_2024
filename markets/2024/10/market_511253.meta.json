@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:27:06.982336Z",
+  "market_createdAt": "2024-10-28T21:27:06.982336Z",
+  "market_updatedAt": "2024-11-03T04:23:06.658947Z",
+  "market_startDate": "2024-10-29T00:03:46.758822Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:55:49+00",
+  "conditionId": "0x0bd92b1c8e5089551f4a12def2aff5e5198d105c5f51b9a78e7909ca2eb2aec9",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Wisconsin rally on Nov 1?"
+}

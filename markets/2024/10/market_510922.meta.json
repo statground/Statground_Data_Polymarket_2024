@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T16:23:37.895236Z",
+  "market_createdAt": "2024-10-25T16:23:37.895236Z",
+  "market_updatedAt": "2024-11-02T18:17:04.938882Z",
+  "market_startDate": "2024-10-25T17:00:18.138924Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 18:24:56+00",
+  "conditionId": "0x645cbc764b4ea3d40450f6674afaec8fd9877626923339e16ed3f53b12c1826d",
+  "slug": "bitcoin-above-68000-on-november-1",
+  "question": "Bitcoin above $68,000 on November 1?"
+}

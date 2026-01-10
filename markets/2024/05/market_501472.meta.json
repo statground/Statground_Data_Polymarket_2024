@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501472",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T19:30:52.423679Z",
+  "market_createdAt": "2024-05-07T19:30:52.423679Z",
+  "market_updatedAt": "2024-06-12T02:46:14.178713Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 06:47:34+00",
+  "conditionId": "0x6f9b2be44ad64a56ac05a99b89a95e2729bc9febe49aa44eeb8d806279d714bb",
+  "slug": "will-vb-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will VB win the most seats in the Belgian federal elections?"
+}

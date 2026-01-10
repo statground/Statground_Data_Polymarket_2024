@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:22:00.294654Z",
+  "market_createdAt": "2024-10-18T21:22:00.294654Z",
+  "market_updatedAt": "2024-10-21T16:56:31.711563Z",
+  "market_startDate": "2024-10-18T23:25:55.834748Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:00:52+00",
+  "conditionId": "0xfeca99f4fe9164e33c3901676aa33ffc45165a9c58f271e3e96c6a22fb901107",
+  "slug": "will-the-vikings-and-lions-combine-for-51-or-more-points",
+  "question": "Will the Vikings and Lions combine for 51 or more points?"
+}

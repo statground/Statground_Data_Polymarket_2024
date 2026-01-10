@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T15:50:31.769087Z",
+  "market_createdAt": "2024-11-27T15:50:31.769087Z",
+  "market_updatedAt": "2025-01-01T23:07:26.456937Z",
+  "market_startDate": "2024-11-27T16:14:25.157543Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 01:55:59+00",
+  "conditionId": "0x7e032f3cd896a6e246142ed26f0dc22230eeb61d5ec862a638bdf5081d1ed1b4",
+  "slug": "will-microstrategy-market-cap-dip-to-50b-in-2024",
+  "question": "Will MicroStrategy market cap dip to $50b in 2024?"
+}

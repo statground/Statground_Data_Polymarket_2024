@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T03:37:28.208541Z",
+  "market_createdAt": "2024-11-18T03:37:28.208541Z",
+  "market_updatedAt": "2025-08-01T16:49:21.534051Z",
+  "market_startDate": "2024-11-18T15:49:24.98906Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-08-01 06:03:16+00",
+  "conditionId": "0xc634b556b8f47434d7837594ff59c9daea654c4d5c9c50e2a352736db1d5c656",
+  "slug": "bird-flu-pandemic-before-august-2025",
+  "question": "Bird flu pandemic before August 2025?"
+}

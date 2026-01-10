@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T19:09:46.844322Z",
+  "market_createdAt": "2024-09-24T19:09:46.844322Z",
+  "market_updatedAt": "2025-03-14T21:37:30.028394Z",
+  "market_startDate": "2024-09-25T14:30:06.490525Z",
+  "market_endDate": "2025-05-21T12:00:00Z",
+  "market_closedTime": "2025-03-14 01:23:00+00",
+  "conditionId": "0x228e0e88188e85214af9617667083347b7fc935402794320b4680bfab7806270",
+  "slug": "will-az-alkmaar-win-the-uefa-europa-league",
+  "question": "Will AZ Alkmaar win the UEFA Europa League?"
+}

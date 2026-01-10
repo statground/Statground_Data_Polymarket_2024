@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:11:23.581987Z",
+  "market_createdAt": "2024-11-24T18:11:23.581987Z",
+  "market_updatedAt": "2024-12-01T20:02:03.446369Z",
+  "market_startDate": "2024-11-24T18:13:54.704019Z",
+  "market_endDate": "2024-11-30T15:00:00Z",
+  "market_closedTime": "2024-11-30 20:24:50+00",
+  "conditionId": "0x6c9d0deb95dea7937d5e29fd0af0649fe304a916f462e34f0d720362773e4326",
+  "slug": "epl-wol-bou-2024-11-30-bou",
+  "question": "Will Bournemouth win on 2024-11-30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:13:35.958654Z",
+  "market_createdAt": "2024-06-21T16:13:35.958654Z",
+  "market_updatedAt": "2024-06-28T19:14:12.237871Z",
+  "market_startDate": "2024-06-22T15:48:17.53Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:12:35+00",
+  "conditionId": "0x90a5f66e2bb16ab8a4deabf0361ce37a447e3c3d340b483e0f13ec34aa6f4eac",
+  "slug": "will-elon-post-100-or-more-times-june-28",
+  "question": "Will Elon post 100 or more times?"
+}

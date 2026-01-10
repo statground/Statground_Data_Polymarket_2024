@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:58:09.769685Z",
+  "market_createdAt": "2024-11-18T15:58:09.769685Z",
+  "market_updatedAt": "2024-11-19T21:41:06.996991Z",
+  "market_startDate": "2024-11-18T16:26:38.051275Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 00:51:00+00",
+  "conditionId": "0x82089a0aef33e043634111b02a252b99fd5e819a71bf43d62bcd12493ce3916e",
+  "slug": "will-poland-beat-scotland",
+  "question": "Will Poland beat Scotland?"
+}

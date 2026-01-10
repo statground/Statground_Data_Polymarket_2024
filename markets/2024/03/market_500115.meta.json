@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T17:03:22.398289Z",
+  "market_createdAt": "2024-03-13T17:03:22.398289Z",
+  "market_updatedAt": "2024-11-07T22:13:04.533058Z",
+  "market_startDate": "2024-04-03T21:52:02.658Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 22:09:53+00",
+  "conditionId": "0x25e48d2f5c66a03982f233e67f8131159e884dc186e6a55cc2e413d07e74830c",
+  "slug": "will-a-republican-win-montana-us-senate-election",
+  "question": "Will a Republican win Montana US Senate Election?"
+}

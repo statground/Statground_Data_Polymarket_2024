@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T21:55:15.951657Z",
+  "market_createdAt": "2024-03-20T21:55:15.951657Z",
+  "market_updatedAt": "2024-05-07T23:10:01.84903Z",
+  "market_startDate": "2024-03-22T18:58:37.416Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-08 00:23:06+00",
+  "conditionId": "0x8035aa884e9d0b4b275ba82dbd8c283bdeb7c5c3944e90b7e7b5bf3284d2eb64",
+  "slug": "will-south-carolina-win-the-ncaa-tournament-women",
+  "question": "Will South Carolina win the Women's NCAA tournament?"
+}

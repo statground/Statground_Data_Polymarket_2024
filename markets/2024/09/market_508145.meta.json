@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T18:43:04.878891Z",
+  "market_createdAt": "2024-09-25T18:43:04.878891Z",
+  "market_updatedAt": "2025-05-27T00:26:28.001929Z",
+  "market_startDate": "2024-09-25T21:00:36.62277Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-25 21:23:14+00",
+  "conditionId": "0xc784db73b5d35595086658256bf4db3e8d565a8e935d79cf5a01dabb2286c17d",
+  "slug": "will-aston-villa-finish-in-the-top-4-of-epl",
+  "question": "Will Aston Villa finish in the top 4 of EPL?"
+}

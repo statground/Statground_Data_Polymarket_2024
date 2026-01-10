@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:54:46.740536Z",
+  "market_createdAt": "2024-07-17T19:54:46.740536Z",
+  "market_updatedAt": "2024-08-07T17:10:44.910739Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:37:06+00",
+  "conditionId": "0x0276bcf03d47aa9e7beb5bb35a390edaefe650a5580f23cc12b3aa7d3eecd956",
+  "slug": "will-george-mills-gbr-win-gold-in-1500m",
+  "question": "Will George Mills (GBR) win Gold in 1500m?"
+}

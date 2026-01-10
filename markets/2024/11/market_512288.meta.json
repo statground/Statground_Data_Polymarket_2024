@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:17:12.172010Z",
+  "market_createdAt": "2024-11-07T19:17:12.17201Z",
+  "market_updatedAt": "2024-11-20T00:53:03.366544Z",
+  "market_startDate": "2024-11-07T20:31:33.037212Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 02:37:18+00",
+  "conditionId": "0x1836da44f2b4f3b666da0e29ef53d9301848fb9389d39296ae130eabf8215d83",
+  "slug": "will-trump-nominate-garret-graves-for-transportation-secretary",
+  "question": "Will Trump nominate Garret Graves for Transportation Secretary?"
+}

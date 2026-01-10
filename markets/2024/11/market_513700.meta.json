@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T23:17:14.082686Z",
+  "market_createdAt": "2024-11-21T23:17:14.082686Z",
+  "market_updatedAt": "2024-12-09T08:23:14.404395Z",
+  "market_startDate": "2024-11-22T15:47:56.318539Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 08:19:16+00",
+  "conditionId": "0x6a97440500f43dacf28bb108b2e49aa159bca2bd4ad6de2d5f7d5c2c05920b0f",
+  "slug": "pantoja-vs-asakura",
+  "question": "Pantoja vs. Asakura"
+}

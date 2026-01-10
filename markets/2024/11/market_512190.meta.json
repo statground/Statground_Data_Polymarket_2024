@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:15:55.276581Z",
+  "market_createdAt": "2024-11-06T18:15:55.276581Z",
+  "market_updatedAt": "2024-11-15T23:55:09.993039Z",
+  "market_startDate": "2024-11-06T18:40:37.931Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:26:46+00",
+  "conditionId": "0x861a05a1e1e55421209449091907ec895f8badfbef21dc69de37ade0ed26cbb4",
+  "slug": "will-trump-nominate-robert-obrien-for-secretary-of-state",
+  "question": "Will Trump nominate Robert O'Brien for Secretary of State?"
+}

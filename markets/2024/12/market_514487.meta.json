@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:29:59.757829Z",
+  "market_createdAt": "2024-12-02T20:29:59.757829Z",
+  "market_updatedAt": "2024-12-10T15:51:20.21139Z",
+  "market_startDate": "2024-12-06T00:00:08.422709Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-09 16:05:31+00",
+  "conditionId": "0xa9aa3b21f8dff26c546cd89e19576f1419fec84049424f2051f14eb995e1f2ca",
+  "slug": "will-game-12-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 12 of the World Chess Championship end in a draw?"
+}

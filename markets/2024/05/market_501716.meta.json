@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T18:46:17.899386Z",
+  "market_createdAt": "2024-05-20T18:46:17.899386Z",
+  "market_updatedAt": "2024-06-20T10:11:08.152515Z",
+  "market_startDate": "2024-05-21T02:07:12.483Z",
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 10:09:28+00",
+  "conditionId": "0x03d37822c7028762562cc01896f3ec528d8d426114992789541ffe36a2710121",
+  "slug": "will-hassan-rouhani-be-the-next-president-of-iran",
+  "question": "Will Hassan Rouhani be the next President of Iran?"
+}

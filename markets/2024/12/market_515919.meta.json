@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:32:31.452855Z",
+  "market_createdAt": "2024-12-17T21:32:31.452855Z",
+  "market_updatedAt": "2025-01-07T02:01:27.813191Z",
+  "market_startDate": "2024-12-17T23:46:20.772574Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2025-01-06 05:14:58+00",
+  "conditionId": "0x2808cb32d287132bb8c0678595b855f902ba1c9971e2ff9f2c090eba1d022e7f",
+  "slug": "will-anora-win-the-golden-globe-for-best-screenplay",
+  "question": "Will 'Anora' win the Golden Globe for Best Screenplay?"
+}

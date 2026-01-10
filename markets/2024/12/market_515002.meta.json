@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:12:04.721534Z",
+  "market_createdAt": "2024-12-06T22:12:04.721534Z",
+  "market_updatedAt": "2024-12-09T21:45:23.848454Z",
+  "market_startDate": "2024-12-06T22:27:45.78486Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:46:54+00",
+  "conditionId": "0xc2b4a07f31f576bfe6847824327fef3573ce53d0b9a1ef886a3e7fc6b6281e40",
+  "slug": "scorigami-in-nfl-week-14",
+  "question": "Scorigami in NFL Week 14?"
+}

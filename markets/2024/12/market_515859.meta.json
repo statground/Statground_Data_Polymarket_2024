@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515859",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T19:01:07.193924Z",
+  "market_createdAt": "2024-12-17T19:01:07.193924Z",
+  "market_updatedAt": "2025-02-25T13:23:24.206002Z",
+  "market_startDate": "2024-12-18T15:05:17.322Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 14:07:12+00",
+  "conditionId": "0x59de7d7484f77cefa3f1ad25c1638222db44b927e85c3e324ea0c45594695600",
+  "slug": "will-cducsu-win-the-second-most-seats-in-the-next-german-election",
+  "question": "Will CDU/CSU win the second most seats in the next German election?"
+}

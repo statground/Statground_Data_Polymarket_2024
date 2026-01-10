@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T16:46:01.497274Z",
+  "market_createdAt": "2024-05-29T16:46:01.497274Z",
+  "market_updatedAt": "2024-05-31T21:16:12.690984Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-05-31 01:32:00+00",
+  "conditionId": "0x9e19bb0d5eeaa280be0ad1b362971cc9bfd3a07bfd0bc22529f20ed3b30daa17",
+  "slug": "will-trump-trial-jury-deliberations-end-on-saturday",
+  "question": "Will Trump trial jury deliberations end on Saturday?"
+}

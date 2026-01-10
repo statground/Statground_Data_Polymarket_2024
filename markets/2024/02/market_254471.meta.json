@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T21:26:56.022000Z",
+  "market_createdAt": "2024-02-14T21:26:56.022Z",
+  "market_updatedAt": "2024-03-03T08:17:37.602Z",
+  "market_startDate": "2024-02-14T21:59:00Z",
+  "market_endDate": "2024-02-27T00:00:00Z",
+  "market_closedTime": "2024-03-03 08:15:58+00",
+  "conditionId": "0x256d1ae506cea65e2c207415e04711aac3fa2024056560f702062614a7a8afb1",
+  "slug": "will-the-crypto-market-cap-be-less-than-1pt8-trillion-on-march-1",
+  "question": "Will the crypto market cap be less than 1.8 trillion on March 1?"
+}

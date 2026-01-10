@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:01:20.544952Z",
+  "market_createdAt": "2024-11-24T05:01:20.544952Z",
+  "market_updatedAt": "2024-11-30T21:33:20.48737Z",
+  "market_startDate": "2024-11-24T05:03:50.549647Z",
+  "market_endDate": "2024-12-06T17:00:00Z",
+  "market_closedTime": "2024-11-29 22:46:09+00",
+  "conditionId": "0x13fb38feafc59c1adacb3dff7d5941e5a805ae7c06bb773a3d02fcb48fc952f3",
+  "slug": "cfb-orst-boise-2024-11-29",
+  "question": "Oregon State vs. Boise State"
+}

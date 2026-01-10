@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:29:28.838649Z",
+  "market_createdAt": "2024-09-23T16:29:28.838649Z",
+  "market_updatedAt": "2024-09-25T20:10:51.131928Z",
+  "market_startDate": "2024-09-23T17:46:38.748Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 20:12:16+00",
+  "conditionId": "0xd9ea0651c68e1c000c51c8eb721af134275add732a639a72ef2df57e08b0def8",
+  "slug": "will-donald-trump-say-tip-3-or-more-times-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"Tip\" 3 or more times during his Georgia speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T07:00:46.697766Z",
+  "market_createdAt": "2024-12-30T07:00:46.697766Z",
+  "market_updatedAt": "2025-01-06T23:07:28.906264Z",
+  "market_startDate": "2024-12-30T07:03:17.296763Z",
+  "market_endDate": "2025-01-12T20:00:00Z",
+  "market_closedTime": "2025-01-06 01:02:50+00",
+  "conditionId": "0xdd013f7a0609e82cd932d43958fb78cd07245e5549ff4f7d854f3bd3f41e4c54",
+  "slug": "nhl-nyr-chi-2025-01-05",
+  "question": "Rangers vs. Blackhawks"
+}

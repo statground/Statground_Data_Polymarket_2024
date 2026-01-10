@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:40:08.275947Z",
+  "market_createdAt": "2024-08-09T20:40:08.275947Z",
+  "market_updatedAt": "2024-08-11T19:06:56.836714Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 22:19:59+00",
+  "conditionId": "0x6ff1333540f7baf48e60ab272722fa2820d81c9b7580f3324acfe723234a2acd",
+  "slug": "will-another-team-win-gold-in-the-mens-4x400m-relay",
+  "question": "Will another team win gold in the Men’s 4x400m Relay?"
+}

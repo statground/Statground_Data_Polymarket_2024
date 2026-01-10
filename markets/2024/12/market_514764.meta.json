@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:11:02.098218Z",
+  "market_createdAt": "2024-12-04T21:11:02.098218Z",
+  "market_updatedAt": "2024-12-07T04:55:15.444433Z",
+  "market_startDate": "2024-12-04T21:14:24.430632Z",
+  "market_endDate": "2024-12-13T00:00:00Z",
+  "market_closedTime": "2024-12-06 05:00:18+00",
+  "conditionId": "0x6b3eb80e2791a11ed7cca347ff6cca43ec5542b78c17c3136c6f9cd280b1e337",
+  "slug": "nhl-sj-tb-2024-12-05",
+  "question": "Sharks vs. Lightning"
+}

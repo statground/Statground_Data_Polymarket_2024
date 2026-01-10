@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:38:55.367752Z",
+  "market_createdAt": "2024-10-21T20:38:55.367752Z",
+  "market_updatedAt": "2024-10-30T03:51:06.911854Z",
+  "market_startDate": "2024-10-21T20:41:33.712915Z",
+  "market_endDate": "2024-10-28T23:30:00Z",
+  "market_closedTime": "2024-10-29 04:23:15+00",
+  "conditionId": "0x5be73921c901b7f460365fca6b1b35ed657889cb81f612a48d92ab6e35db1513",
+  "slug": "nba-mil-bos-2024-10-28",
+  "question": "Bucks vs. Celtics"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:39:14.629244Z",
+  "market_createdAt": "2024-10-23T17:39:14.629244Z",
+  "market_updatedAt": "2024-10-29T03:57:01.928914Z",
+  "market_startDate": "2024-10-23T22:26:21.244493Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:15:15+00",
+  "conditionId": "0x3fcd022f7cb9d2827406e773911a6a62b1db8014bd3670d931bad29aed0205bc",
+  "slug": "will-carlos-sainz-win-the-mexico-city-grand-prix",
+  "question": "Will Carlos Sainz win the Mexico City Grand Prix?"
+}

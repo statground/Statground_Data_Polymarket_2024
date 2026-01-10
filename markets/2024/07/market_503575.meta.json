@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:34:00.080185Z",
+  "market_createdAt": "2024-07-16T18:34:00.080185Z",
+  "market_updatedAt": "2024-07-20T04:12:41.724943Z",
+  "market_startDate": "2024-07-16T20:40:36.871Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:19:40+00",
+  "conditionId": "0x231da5f950cccad9b1491cd093e2e2b2bc6d1b14e88599fe5489b0c5dfc9e496",
+  "slug": "will-trump-say-rigged-during-rnc-speech",
+  "question": "Will Trump say \"rigged\" during RNC speech?"
+}

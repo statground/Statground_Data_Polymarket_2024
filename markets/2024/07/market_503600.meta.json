@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T22:42:06.833664Z",
+  "market_createdAt": "2024-07-16T22:42:06.833664Z",
+  "market_updatedAt": "2024-10-16T19:16:56.751904Z",
+  "market_startDate": "2024-07-17T17:24:36.217Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-10-16 17:39:59+00",
+  "conditionId": "0xf21997e78680d5958007c01e5ae965c27dd6a83df0900cf39dc39cb9a4cb7086",
+  "slug": "will-frank-lampard-be-englands-next-manager",
+  "question": "Will Frank Lampard be England's next manager?"
+}

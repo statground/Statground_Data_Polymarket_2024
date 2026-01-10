@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:11:18.155708Z",
+  "market_createdAt": "2024-11-04T23:11:18.155708Z",
+  "market_updatedAt": "2024-11-06T22:03:09.607717Z",
+  "market_startDate": "2024-11-05T00:32:37.214688Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:44:17+00",
+  "conditionId": "0x452a3b0f4c50809b8133546ab517a2bd95b9e160b53539d5d743e157619cbf87",
+  "slug": "will-the-match-between-bologna-and-monaco-end-in-a-draw",
+  "question": "Will the match between Bologna and Monaco end in a draw?"
+}

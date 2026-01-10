@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:44:03.658414Z",
+  "market_createdAt": "2024-07-19T18:44:03.658414Z",
+  "market_updatedAt": "2024-08-04T01:17:00.010781Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-03 03:39:54+00",
+  "conditionId": "0x23dfc85c25a39677ceebc600f939de1d7c3e2b502007fdc061777912a0fafddc",
+  "slug": "cody-ko-address-allegations-in-july",
+  "question": "Cody Ko address allegations in July?"
+}

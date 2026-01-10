@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T16:52:59.489042Z",
+  "market_createdAt": "2024-11-05T16:52:59.489042Z",
+  "market_updatedAt": "2024-11-08T08:52:56.642294Z",
+  "market_startDate": "2024-11-05T17:18:54.506445Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-07 09:12:58+00",
+  "conditionId": "0xcb85ccc540dc1cee0a2fc4add141d6d9be7a23278428a0802baec14b55a877ee",
+  "slug": "will-either-candidate-concede-by-friday",
+  "question": "Will either candidate concede by Friday?"
+}

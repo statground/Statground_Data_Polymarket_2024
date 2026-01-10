@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:32:18.337982Z",
+  "market_createdAt": "2024-11-05T19:32:18.337982Z",
+  "market_updatedAt": "2024-11-11T16:48:40.343032Z",
+  "market_startDate": "2024-11-05T19:34:57.420848Z",
+  "market_endDate": "2024-11-10T14:00:00Z",
+  "market_closedTime": "2024-11-10 19:48:33+00",
+  "conditionId": "0xef1f7f0bd9c057126f18c712aecdd38189171e7ca1551ed94ad23db5b21592f4",
+  "slug": "epl-tot-ips-2024-11-10-draw",
+  "question": "Will Spurs vs. Ipswich end in a draw?"
+}

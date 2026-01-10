@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:08:44.467408Z",
+  "market_createdAt": "2024-06-04T15:08:44.467408Z",
+  "market_updatedAt": "2024-06-18T07:07:22.233699Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:05:42+00",
+  "conditionId": "0x926a52207e1919eb38ec3dc0582fa6841c49c7f0cc611f2cdc10bc48921ff13e",
+  "slug": "will-luka-doncic-have-the-most-assists-in-the-2024-nba-finals-series",
+  "question": "Will Luka Doncic have the most assists in the 2024 NBA Finals series?"
+}

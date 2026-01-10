@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T01:16:53.875345Z",
+  "market_createdAt": "2024-08-20T01:16:53.875345Z",
+  "market_updatedAt": "2025-01-12T04:14:43.527719Z",
+  "market_startDate": "2024-08-22T19:00:16.433Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-11 07:38:17+00",
+  "conditionId": "0x586637db373f72565025580bb8ce79a81b7c9d9804c75a33052d7fb10fdce3d6",
+  "slug": "will-texas-win-the-2025-college-football-playoff",
+  "question": " Will Texas win the 2025 College Football Playoff?"
+}

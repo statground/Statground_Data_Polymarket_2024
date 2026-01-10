@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:40:00.384188Z",
+  "market_createdAt": "2024-10-01T18:40:00.384188Z",
+  "market_updatedAt": "2024-10-06T20:06:42.449487Z",
+  "market_startDate": "2024-10-02T15:22:41.744179Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 21:52:13+00",
+  "conditionId": "0x50d8d9e2f610dc214924c59ba8dabbae773f1fe6ff0fab52f14c0ebc2367c612",
+  "slug": "will-the-match-between-everton-and-newcastle-end-in-a-draw",
+  "question": "Will the match between Everton and Newcastle end in a draw?"
+}

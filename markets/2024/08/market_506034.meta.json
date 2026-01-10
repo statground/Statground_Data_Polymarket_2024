@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:53:18.690367Z",
+  "market_createdAt": "2024-08-28T19:53:18.690367Z",
+  "market_updatedAt": "2024-12-23T23:27:48.341511Z",
+  "market_startDate": "2024-08-28T19:53:18.690367Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-23 01:00:24+00",
+  "conditionId": "0x742aae6cb21426e13f44c569870dc7550b7bf61121abec0b65ac4edb60464a6f",
+  "slug": "will-the-saints-win-the-nfc-championship",
+  "question": "Will the Saints win the NFC Championship?"
+}

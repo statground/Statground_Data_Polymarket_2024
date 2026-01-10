@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-31T17:46:16.116869Z",
+  "market_createdAt": "2024-03-31T17:46:16.116869Z",
+  "market_updatedAt": "2024-05-07T23:09:11.007202Z",
+  "market_startDate": "2024-03-31T18:01:34.849Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-04-27 01:14:54+00",
+  "conditionId": "0x691fe21526d4da13dae0d47d7237dc121ea221f3b68751a9a47e3a33a72464c4",
+  "slug": "will-the-port-of-baltimore-reopen-in-june",
+  "question": "Will the Port of Baltimore reopen in June?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T20:37:38.649892Z",
+  "market_createdAt": "2024-05-29T20:37:38.649892Z",
+  "market_updatedAt": "2024-06-06T19:06:19.675066Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-05T12:00:00Z",
+  "market_closedTime": "2024-06-05 19:20:21+00",
+  "conditionId": "0x2c23c02b0dd7bf471eb037648389c4f2d71230c17998d5cf987da46d5de90461",
+  "slug": "andrew-tate-posts-120-139-times",
+  "question": "Andrew Tate posts 120-139 times?"
+}

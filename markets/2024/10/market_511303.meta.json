@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:04:56.555368Z",
+  "market_createdAt": "2024-10-29T16:04:56.555368Z",
+  "market_updatedAt": "2024-11-01T20:17:13.407109Z",
+  "market_startDate": "2024-10-29T16:59:06.989357Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 20:12:29+00",
+  "conditionId": "0x3074b8994af4f162ceec7a2d7ff148281793d84a5b50f22d9c40cde60a564cc4",
+  "slug": "will-jd-vance-say-fentanyl-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"fentanyl\" during the Joe Rogan podcast?"
+}

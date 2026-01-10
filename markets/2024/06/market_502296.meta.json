@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T22:15:04.177642Z",
+  "market_createdAt": "2024-06-10T22:15:04.177642Z",
+  "market_updatedAt": "2024-07-09T08:30:46.894281Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 09:33:05+00",
+  "conditionId": "0x3e86c7b9d091ffb93edb039f7b83f4e26f59d7ef1d55ae67634453d3bc4cb668",
+  "slug": "will-renaissance-win-the-most-seats-in-the-national-assembly",
+  "question": "Will Renaissance win the most seats in the National Assembly?"
+}

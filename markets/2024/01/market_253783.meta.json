@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253783",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T22:21:10.856000Z",
+  "market_createdAt": "2024-01-10T22:21:10.856Z",
+  "market_updatedAt": "2024-01-21T01:49:23.092Z",
+  "market_startDate": "2024-01-11T01:15:10.791Z",
+  "market_endDate": "2024-01-19T00:00:00Z",
+  "market_closedTime": "2024-01-20 11:00:56+00",
+  "conditionId": "0x9fe78759b4412e42a81e2ada75a35360d14938eb84600eb7dbd7e6f14ddbb19f",
+  "slug": "btc-etfs-first-week-combined-aum-over-60-billion",
+  "question": "BTC ETFs first week combined AUM over $60 billion?"
+}

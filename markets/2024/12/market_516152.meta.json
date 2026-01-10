@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:20:28.191997Z",
+  "market_createdAt": "2024-12-20T19:20:28.191997Z",
+  "market_updatedAt": "2024-12-23T06:47:39.733487Z",
+  "market_startDate": "2024-12-20T21:40:39.45897Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-22 06:44:26+00",
+  "conditionId": "0x0d11dde465eeef0b117f877d90c1925e425246e827027ae91ee909628fcd1185",
+  "slug": "will-ohio-state-beat-tennessee-by-8-or-more-points",
+  "question": "Will Ohio State beat Tennessee by 8 or more points?"
+}

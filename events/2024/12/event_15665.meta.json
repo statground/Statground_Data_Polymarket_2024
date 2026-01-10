@@ -1,0 +1,23 @@
+{
+  "entity": "event",
+  "event_id": "15665",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-18T19:53:42.316019Z",
+  "event_createdAt": "2024-12-18T19:53:42.316019Z",
+  "event_creationDate": "2024-12-18T20:51:27.659686Z",
+  "event_startDate": "2024-12-18T20:51:27.65969Z",
+  "event_endDate": "2025-03-19T12:00:00Z",
+  "event_updatedAt": "2025-03-20T21:41:48.867316Z",
+  "markets_len": 4,
+  "market_ids": [
+    "516008",
+    "516009",
+    "516010",
+    "516011"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "35"
+  ],
+  "series_slug": "fed-interest-rates"
+}

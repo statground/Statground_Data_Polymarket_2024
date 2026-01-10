@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T22:50:34.051264Z",
+  "market_createdAt": "2024-07-05T22:50:34.051264Z",
+  "market_updatedAt": "2024-07-08T16:40:45.551257Z",
+  "market_startDate": "2024-07-05T23:07:34.483Z",
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:24:35+00",
+  "conditionId": "0xd2b52467671d800dce6050a56f15968f83519ecdfaaa486cdd33250b39fa7bba",
+  "slug": "will-lewis-hamilton-win-the-british-grand-prix",
+  "question": "Will Lewis Hamilton win the British Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:18:31.670208Z",
+  "market_createdAt": "2024-08-21T15:18:31.670208Z",
+  "market_updatedAt": "2024-08-23T05:23:07.301659Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:32:30+00",
+  "conditionId": "0x0b5981ff8c87978ea7b43a9d49653a3f240719e59dcb5bf9a611c0b202b131b8",
+  "slug": "will-pete-buttigieg-say-couch-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Couch\" in DNC speech?"
+}

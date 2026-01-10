@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:24:01.258056Z",
+  "market_createdAt": "2024-09-17T17:24:01.258056Z",
+  "market_updatedAt": "2025-03-12T18:34:04.496892Z",
+  "market_startDate": "2024-09-17T18:13:35.266849Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-03-11 23:07:19+00",
+  "conditionId": "0x127721b6a12d0d47c6f9fe7eddebb8af81461374fd89d0ff01d2da76bf7b3668",
+  "slug": "will-benfica-win-the-uefa-champions-league",
+  "question": "Will Benfica win the UEFA Champions League?"
+}

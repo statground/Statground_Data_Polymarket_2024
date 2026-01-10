@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T17:04:57.558575Z",
+  "market_createdAt": "2024-10-08T17:04:57.558575Z",
+  "market_updatedAt": "2024-10-11T14:30:52.925284Z",
+  "market_startDate": "2024-10-08T17:20:50.240673Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:27:36+00",
+  "conditionId": "0x8c954e8d9b1f6856962f1eb8792b6bc33054e4b1f34e49038099978ca9b7b777",
+  "slug": "will-someone-else-win-the-nobel-prize-in-literature",
+  "question": "Will someone else win the Nobel prize in literature?"
+}

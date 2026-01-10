@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T20:13:18.440923Z",
+  "market_createdAt": "2024-09-30T20:13:18.440923Z",
+  "market_updatedAt": "2024-10-03T23:22:41.24325Z",
+  "market_startDate": "2024-09-30T22:25:15.573729Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 00:06:57+00",
+  "conditionId": "0xee5ea7e53b823d7f6f7935abc528a707dd4af96d33068cfe8f81ec18f3a26e33",
+  "slug": "will-bayern-munich-beat-aston-villa",
+  "question": "Will Bayern Munich beat Aston Villa?"
+}

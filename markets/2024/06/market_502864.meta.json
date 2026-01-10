@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T16:01:05.023047Z",
+  "market_createdAt": "2024-06-25T16:01:05.023047Z",
+  "market_updatedAt": "2024-07-15T21:10:52.573743Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:46:50+00",
+  "conditionId": "0x568911912a6e2da8148073a616d2621167c6dbf888c4109b8b62d4e0afc624a8",
+  "slug": "will-cristiano-ronaldo-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Cristiano Ronaldo be Player of the Tournament for Euro 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:42:19.225294Z",
+  "market_createdAt": "2024-10-28T19:42:19.225294Z",
+  "market_updatedAt": "2024-11-01T02:16:56.346027Z",
+  "market_startDate": "2024-10-28T20:58:39.061Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 02:53:58+00",
+  "conditionId": "0x92153a82c20eaf0a365a4aefc9024ae85e756f251add5a96ff3ae3ad65630ae5",
+  "slug": "will-trump-say-fake-news-5-or-more-times-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"fake news\" 5 or more times during Wisconsin rally on Oct 30?"
+}

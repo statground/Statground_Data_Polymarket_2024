@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T17:15:26.709208Z",
+  "market_createdAt": "2024-07-02T17:15:26.709208Z",
+  "market_updatedAt": "2024-11-06T06:31:11.58143Z",
+  "market_startDate": "2024-07-02T17:15:26.709208Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:38:11+00",
+  "conditionId": "0x144d8e39105158f0a1555aeca9166679ac4c1bb29c43e8f4ffe072a094562fc8",
+  "slug": "biden-court-packing",
+  "question": "Biden court packing?"
+}

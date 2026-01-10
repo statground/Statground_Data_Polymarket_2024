@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:02:04.099305Z",
+  "market_createdAt": "2024-12-02T19:02:04.099305Z",
+  "market_updatedAt": "2024-12-05T22:15:30.905851Z",
+  "market_startDate": "2024-12-02T19:05:33.751311Z",
+  "market_endDate": "2024-12-04T19:30:00Z",
+  "market_closedTime": "2024-12-05 00:34:08+00",
+  "conditionId": "0x232e86716562f4a91c9128f4cfb8b29f8603b84b6dbf02bb820c06c6b749aa8d",
+  "slug": "epl-mac-not-2024-12-04-draw",
+  "question": "Will Manchester City vs. Nottingham Forest end in a draw?"
+}

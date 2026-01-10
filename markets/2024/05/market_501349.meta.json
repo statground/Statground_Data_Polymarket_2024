@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:51:13.632616Z",
+  "market_createdAt": "2024-05-02T16:51:13.632616Z",
+  "market_updatedAt": "2024-05-07T23:09:15.411466Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:20:10+00",
+  "conditionId": "0x14eb46fadd682a902bed3363a48e504c9de6e21ae485c7cace94ca8822ceb463",
+  "slug": "will-dornoch-win-the-2024-kentucky-derby",
+  "question": "Will Dornoch win the 2024 Kentucky Derby?"
+}

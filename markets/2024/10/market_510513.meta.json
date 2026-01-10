@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:42:28.885001Z",
+  "market_createdAt": "2024-10-22T03:42:28.885001Z",
+  "market_updatedAt": "2024-10-25T20:07:07.142764Z",
+  "market_startDate": "2024-10-23T15:03:16.884283Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 22:09:43+00",
+  "conditionId": "0x263805a9b78bdb27a1019ef21b3ca814e9bef70186fb49227a5450ba7ff4a380",
+  "slug": "will-qarabag-beat-ajax",
+  "question": "Will Qarabag beat Ajax?"
+}

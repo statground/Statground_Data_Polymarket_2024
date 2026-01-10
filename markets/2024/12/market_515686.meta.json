@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:00:29.984682Z",
+  "market_createdAt": "2024-12-15T07:00:29.984682Z",
+  "market_updatedAt": "2024-12-17T03:29:25.221146Z",
+  "market_startDate": "2024-12-15T07:02:59.613185Z",
+  "market_endDate": "2024-12-22T23:00:00Z",
+  "market_closedTime": "2024-12-16 03:48:09+00",
+  "conditionId": "0x38be58b56d21cb0aa4b371c86033d9e5c3462e5c4db31a578591090b67b98c5f",
+  "slug": "nhl-las-min-2024-12-15",
+  "question": "Golden Knights vs. Wild"
+}

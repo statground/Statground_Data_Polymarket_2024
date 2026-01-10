@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513006",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T00:15:42.545565Z",
+  "market_createdAt": "2024-11-14T00:15:42.545565Z",
+  "market_updatedAt": "2024-11-15T22:41:13.716263Z",
+  "market_startDate": "2024-11-14T15:18:11.667891Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 00:56:34+00",
+  "conditionId": "0xb88877bf4f02469a56829fc1a4d96726bb0d2ea34c1ed4ee40c895c0a5e2c237",
+  "slug": "will-finland-beat-republic-of-ireland",
+  "question": "Will Finland beat Republic of Ireland?"
+}

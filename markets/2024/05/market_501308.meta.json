@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T15:11:12.388994Z",
+  "market_createdAt": "2024-05-01T15:11:12.388994Z",
+  "market_updatedAt": "2024-07-01T06:07:33.808056Z",
+  "market_startDate": "2024-05-01T15:45:21.705Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:05:56+00",
+  "conditionId": "0xda75736cc1229f0809c961f93f2fb541b37947720d965ef5c507c2f55912db97",
+  "slug": "will-lebron-retire-before-july",
+  "question": "Will LeBron retire before July?"
+}

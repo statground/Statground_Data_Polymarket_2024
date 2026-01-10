@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:22:08.562032Z",
+  "market_createdAt": "2024-04-04T18:22:08.562032Z",
+  "market_updatedAt": "2024-11-07T20:53:06.001072Z",
+  "market_startDate": "2024-04-12T19:03:01.462Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:00:50+00",
+  "conditionId": "0x7829bbc06202abf9db6b04e3ac3b9038922392d40b0344a398bb9b3852be29e1",
+  "slug": "will-a-republican-win-massachusetts-us-senate-election",
+  "question": "Will a Republican win Massachusetts US Senate Election?"
+}

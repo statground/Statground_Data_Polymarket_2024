@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504446",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T21:32:02.305584Z",
+  "market_createdAt": "2024-08-01T21:32:02.305584Z",
+  "market_updatedAt": "2024-08-05T00:06:55.480303Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:47:16+00",
+  "conditionId": "0x1c6bb93fe1419e361482d5ed6325eedfa2860a36724e433469e30e7be741eb7c",
+  "slug": "will-trump-say-hannibal-lecter-in-august",
+  "question": "Will Trump say \"Hannibal Lecter\" in August?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:30:32.060153Z",
+  "market_createdAt": "2024-07-16T18:30:32.060153Z",
+  "market_updatedAt": "2024-07-20T05:12:40.410349Z",
+  "market_startDate": "2024-07-16T20:40:36.302Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 05:45:12+00",
+  "conditionId": "0xf9e6d1aa0e10968bec5eac27e844d4d42050bcc427787c358d21316f45564424",
+  "slug": "will-trump-say-jailprison-during-rnc-speech",
+  "question": "Will Trump say \"jail/prison\" during RNC speech?"
+}

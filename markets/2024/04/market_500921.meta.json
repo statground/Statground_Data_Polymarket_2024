@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500921",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-12T15:32:37.649383Z",
+  "market_createdAt": "2024-04-12T15:32:37.649383Z",
+  "market_updatedAt": "2024-05-07T23:09:48.30789Z",
+  "market_startDate": "2024-04-13T00:23:44.313Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-16 09:03:20+00",
+  "conditionId": "0xd8861117b30d1dc2b16c402438604a4b5dec2f1282dd7322322606b1b74e500c",
+  "slug": "drake-track-drops-by-monday",
+  "question": "Drake track drops by Monday?"
+}

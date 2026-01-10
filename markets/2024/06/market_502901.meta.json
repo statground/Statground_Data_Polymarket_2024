@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:09:33.968598Z",
+  "market_createdAt": "2024-06-25T19:09:33.968598Z",
+  "market_updatedAt": "2024-10-02T05:46:51.386549Z",
+  "market_startDate": "2024-06-26T18:44:22.301Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:08:04+00",
+  "conditionId": "0x2f3da88cdb816ffbb4466bfd7666a29ef69d2ef07dd94b54276c847433c58463",
+  "slug": "rabby-airdrop-by-september-30",
+  "question": "Rabby airdrop by September 30?"
+}

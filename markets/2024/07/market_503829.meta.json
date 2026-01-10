@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:40:01.644760Z",
+  "market_createdAt": "2024-07-18T21:40:01.64476Z",
+  "market_updatedAt": "2024-08-05T16:46:49.572569Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:48:27+00",
+  "conditionId": "0xf4df7160c93bf5d52aa103fddf118031adf2557e5c14cb9cea7eeff4f02c35e3",
+  "slug": "will-sarah-sjostrom-swe-win-gold-in-womens-50m-freestyle",
+  "question": "Will Sarah Sjostrom (SWE) win Gold in Women's 50m Freestyle?"
+}

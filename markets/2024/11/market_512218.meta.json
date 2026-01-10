@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:54:56.757123Z",
+  "market_createdAt": "2024-11-06T20:54:56.757123Z",
+  "market_updatedAt": "2025-01-04T14:06:59.590303Z",
+  "market_startDate": "2024-11-06T21:06:19.505131Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:38:01+00",
+  "conditionId": "0x7de9348782747fc1f6a9e4d0ace397e72b5e64b0c62fc0f2150d12cfe90e70ad",
+  "slug": "will-john-barrasso-be-the-next-senate-majority-leader",
+  "question": "Will John Barrasso be the next Senate Majority Leader?"
+}

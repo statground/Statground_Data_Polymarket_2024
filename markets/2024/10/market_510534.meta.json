@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510534",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:24:46.055101Z",
+  "market_createdAt": "2024-10-22T15:24:46.055101Z",
+  "market_updatedAt": "2024-12-18T20:49:26.701187Z",
+  "market_startDate": "2024-10-22T20:22:00.612672Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-17 21:02:41+00",
+  "conditionId": "0x9cb4e70a1ea05eac5e9caabee8e8a016d4a7dc73ff3e17287541d66d521a9470",
+  "slug": "record-turnout-in-2024-presidential-election",
+  "question": "Record turnout in 2024 Presidential election?"
+}

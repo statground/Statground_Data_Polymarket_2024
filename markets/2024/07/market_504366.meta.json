@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:14:35.963111Z",
+  "market_createdAt": "2024-07-31T15:14:35.963111Z",
+  "market_updatedAt": "2024-08-04T19:32:57.278951Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:52:42+00",
+  "conditionId": "0x0869cbbf35795cc87b278452670c4dc05da1bcbbe3995d41219a37a577e3f70b",
+  "slug": "ufc-fight-night-joel-alvarez-vs-elves-brener",
+  "question": "UFC Fight Night: Joel Alvarez vs. Elves Brener"
+}

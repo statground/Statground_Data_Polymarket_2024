@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T22:37:23.066475Z",
+  "market_createdAt": "2024-08-29T22:37:23.066475Z",
+  "market_updatedAt": "2024-08-31T23:37:06.18988Z",
+  "market_startDate": "2024-08-29T22:37:23.066475Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-31 00:25:44+00",
+  "conditionId": "0x09658ccfa103219a7c3c5198467a6c999b20f0a91dc6db35b8cdd21664d30657",
+  "slug": "will-donald-trump-say-pocahontas-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"Pocahontas\" during Pennsylvania rally?"
+}

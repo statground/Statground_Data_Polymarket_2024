@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T21:11:14.725002Z",
+  "market_createdAt": "2024-05-06T21:11:14.725002Z",
+  "market_updatedAt": "2024-07-17T02:18:44.565591Z",
+  "market_startDate": "2024-05-06T23:10:33.232Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 02:47:35+00",
+  "conditionId": "0x94c36af6e044a8cad438dba7db63d413a2ffea10c4681c94cd15734039f8b6e3",
+  "slug": "will-greg-abbott-win-the-2024-republican-vp-nomination",
+  "question": "Will Greg Abbott win the 2024 Republican VP nomination?"
+}

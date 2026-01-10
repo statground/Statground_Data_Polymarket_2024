@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:20:52.529560Z",
+  "market_createdAt": "2024-11-25T22:20:52.52956Z",
+  "market_updatedAt": "2024-11-27T21:29:45.856867Z",
+  "market_startDate": "2024-11-25T23:29:52.205723Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:16:19+00",
+  "conditionId": "0x9ed9dd5dee2d38175a062eaea1903725b525e9a80a2ec677341a43e031734748",
+  "slug": "will-the-match-between-bayer-leverkusen-and-rb-salzburg-end-in-a-draw",
+  "question": "Will the match between Bayer Leverkusen and RB Salzburg end in a draw?"
+}

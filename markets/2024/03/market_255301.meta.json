@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T16:47:28.029000Z",
+  "market_createdAt": "2024-03-05T16:47:28.029Z",
+  "market_updatedAt": "2024-04-26T02:53:59.048685Z",
+  "market_startDate": "2024-03-05T17:00:12.532Z",
+  "market_endDate": "2024-03-10T00:00:00Z",
+  "market_closedTime": "2024-03-11 06:01:54+00",
+  "conditionId": "0x8ab19d92096302f6d9614874f0108f739c4c6344bf678b76a6bcfadf5bf2b0ce",
+  "slug": "facebook-outage-caused-by-hack",
+  "question": "Facebook outage caused by hack?"
+}

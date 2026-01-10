@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:05:40.058365Z",
+  "market_createdAt": "2024-07-26T19:05:40.058365Z",
+  "market_updatedAt": "2024-07-28T22:55:01.023562Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:45:41+00",
+  "conditionId": "0x8b8519f0ea44f939a59694db7e6db417c93925a942e98f34c3dd64ad2c4a47a8",
+  "slug": "will-trump-say-elizabeth-warren-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Elizabeth Warren\" during his Bitcoin Conference speech?"
+}

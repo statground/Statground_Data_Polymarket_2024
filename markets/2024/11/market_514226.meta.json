@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:20:14.034545Z",
+  "market_createdAt": "2024-11-27T19:20:14.034545Z",
+  "market_updatedAt": "2024-12-05T12:51:31.844143Z",
+  "market_startDate": "2024-11-27T19:35:20.463079Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-04 16:19:44+00",
+  "conditionId": "0x802c8f9aa60010be845dd749d3dc7b5956ad741b10b4c26af77c22fe02fc9a05",
+  "slug": "will-someone-else-be-the-top-spotify-artist-for-2024",
+  "question": "Will someone else be the top Spotify artist for 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T00:10:29.474855Z",
+  "market_createdAt": "2024-10-11T00:10:29.474855Z",
+  "market_updatedAt": "2024-12-01T21:15:36.266239Z",
+  "market_startDate": "2024-10-11T16:46:24.9723Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-01 03:57:07+00",
+  "conditionId": "0x5f89649683ca957eeef2fef7dfc2ca743d031b0c9f7746b8055d8859335d70f9",
+  "slug": "will-trump-win-alaska-by-6-points",
+  "question": "Will Trump win Alaska by 6+ points?"
+}

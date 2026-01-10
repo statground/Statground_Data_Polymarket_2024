@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:26:45.926808Z",
+  "market_createdAt": "2024-10-25T18:26:45.926808Z",
+  "market_updatedAt": "2024-10-27T17:52:52.423255Z",
+  "market_startDate": "2024-10-25T22:20:53.92004Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:40:29+00",
+  "conditionId": "0x4de27fd4ecde17815dadcf6921d3ca6591e87d77edb4b0ade34400099b0b635d",
+  "slug": "will-tcu-beat-texas-tech-by-7-or-more-points",
+  "question": "Will TCU beat Texas Tech by 7 or more points?"
+}

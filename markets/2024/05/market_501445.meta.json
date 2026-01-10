@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T22:33:53.752576Z",
+  "market_createdAt": "2024-05-06T22:33:53.752576Z",
+  "market_updatedAt": "2024-07-17T02:16:42.242546Z",
+  "market_startDate": "2024-05-06T23:10:34.726Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 02:47:17+00",
+  "conditionId": "0xce1a96773f2e9c75fb318a636b12543bb3f1f74ed57f53c78922a1952884738f",
+  "slug": "will-mike-lee-win-the-2024-republican-vp-nomination",
+  "question": "Will Mike Lee win the 2024 Republican VP nomination?"
+}

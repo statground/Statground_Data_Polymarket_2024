@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T03:00:24.128748Z",
+  "market_createdAt": "2024-04-07T03:00:24.128748Z",
+  "market_updatedAt": "2024-07-22T02:58:37.226359Z",
+  "market_startDate": "2024-04-07T03:15:03.158Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 03:05:20+00",
+  "conditionId": "0x6b47a7cf70261202fa07032e22e694687edc27f35d61963662e3623e8d94a7ac",
+  "slug": "will-keycat-reach-1b-first",
+  "question": "Will Keycat reach $1b first?"
+}

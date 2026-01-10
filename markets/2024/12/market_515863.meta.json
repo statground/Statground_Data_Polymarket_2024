@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T19:04:09.559826Z",
+  "market_createdAt": "2024-12-17T19:04:09.559826Z",
+  "market_updatedAt": "2025-02-24T17:03:47.971823Z",
+  "market_startDate": "2024-12-18T15:07:27.993644Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 13:32:10+00",
+  "conditionId": "0x1eaf199539629acaedafc165a72d556757babf5f896bd1fce1c9b2247e9f94fc",
+  "slug": "will-the-greens-win-the-second-most-seats-in-the-next-german-election",
+  "question": "Will the Greens win the second most seats in the next German election?"
+}

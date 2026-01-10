@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:02:05.960037Z",
+  "market_createdAt": "2024-12-15T07:02:05.960037Z",
+  "market_updatedAt": "2024-12-19T05:55:23.201635Z",
+  "market_startDate": "2024-12-15T07:04:45.446402Z",
+  "market_endDate": "2024-12-25T01:00:00Z",
+  "market_closedTime": "2024-12-18 06:07:06+00",
+  "conditionId": "0x23c5442177053d239c49f4c1cbc5f29dc3ac5e04f2bc7d96d964b9a00783e5a0",
+  "slug": "nhl-nyr-nsh-2024-12-17",
+  "question": "Rangers vs. Predators"
+}

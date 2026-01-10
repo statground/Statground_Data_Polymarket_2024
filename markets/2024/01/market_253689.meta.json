@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:35:49.842000Z",
+  "market_createdAt": "2024-01-08T21:35:49.842Z",
+  "market_updatedAt": "2024-04-26T03:10:28.366528Z",
+  "market_startDate": "2024-01-08T21:46:12.14Z",
+  "market_endDate": "2024-01-12T00:00:00Z",
+  "market_closedTime": "2024-01-13 07:15:27+00",
+  "conditionId": "0x5b0d7b5bd4c83e129c1918e6a301b910f442297c8ad791a5f80a30dfe941bcb2",
+  "slug": "boeing-max-9-cleared-to-fly-by-friday",
+  "question": "Boeing Max 9 cleared to fly by Friday?"
+}

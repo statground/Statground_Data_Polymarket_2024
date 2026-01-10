@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512378",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T17:45:07.992112Z",
+  "market_createdAt": "2024-11-08T17:45:07.992112Z",
+  "market_updatedAt": "2024-11-14T05:30:59.439812Z",
+  "market_startDate": "2024-11-08T18:12:48.538906Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-13 06:59:51+00",
+  "conditionId": "0x535b7aa870c6bb868333aa3f0642b9a99f7d578b40360af13a0cd24aa3fa8ea3",
+  "slug": "will-elon-tweet-200-224-times-november-8-15",
+  "question": "Will Elon tweet 200-224 times November 8-15?"
+}

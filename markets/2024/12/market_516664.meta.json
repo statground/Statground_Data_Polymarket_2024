@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:03:47.000615Z",
+  "market_createdAt": "2024-12-29T07:03:47.000615Z",
+  "market_updatedAt": "2025-01-01T22:51:11.512188Z",
+  "market_startDate": "2024-12-29T07:06:16.673162Z",
+  "market_endDate": "2025-01-07T18:00:00Z",
+  "market_closedTime": "2024-12-31 23:01:13+00",
+  "conditionId": "0x0b0c65d8b8a47fe72edb731a04ac4ec71f96dd06a49a216ed5bd1fc7d1c7bf0f",
+  "slug": "nhl-nyi-tor-2024-12-31",
+  "question": "Islanders vs. Maple Leafs"
+}

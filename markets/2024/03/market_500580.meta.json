@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-31T17:44:11.493701Z",
+  "market_createdAt": "2024-03-31T17:44:11.493701Z",
+  "market_updatedAt": "2024-05-07T23:10:13.284532Z",
+  "market_startDate": "2024-03-31T18:00:39.398Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-27 01:14:44+00",
+  "conditionId": "0xfe79c5aa2cfaf9c1a2d84bbc57fcfd126a6e4dc7645322a092b0ac2f263677ee",
+  "slug": "will-the-port-of-baltimore-reopen-in-april",
+  "question": "Will the Port of Baltimore reopen in April?"
+}

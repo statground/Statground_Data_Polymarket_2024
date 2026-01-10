@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T15:18:11.410561Z",
+  "market_createdAt": "2024-10-18T15:18:11.410561Z",
+  "market_updatedAt": "2024-10-19T22:56:54.498847Z",
+  "market_startDate": "2024-10-18T16:58:47.01163Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 04:36:48+00",
+  "conditionId": "0x27b3d5a4bab0a31a06a10cf2deb26e13d1c2d7917dee1838b7858088631bc6f1",
+  "slug": "will-there-be-42-or-more-combined-points-scored-Duke-FSU",
+  "question": "Will there be 42 or more combined points scored?"
+}

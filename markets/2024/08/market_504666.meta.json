@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T18:36:12.535597Z",
+  "market_createdAt": "2024-08-07T18:36:12.535597Z",
+  "market_updatedAt": "2024-12-18T23:31:26.059032Z",
+  "market_startDate": "2024-08-08T17:59:16.869Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:51:43+00",
+  "conditionId": "0x5d4e8d237be6d11bb1c5630e41309a25620ed5c649772d9a26ae895beaa724dc",
+  "slug": "gop-wins-popular-vote-by-more-than-7",
+  "question": "GOP wins popular vote by 7% or more?"
+}

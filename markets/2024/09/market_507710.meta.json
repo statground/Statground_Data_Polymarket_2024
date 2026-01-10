@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:10:44.884999Z",
+  "market_createdAt": "2024-09-23T16:10:44.884999Z",
+  "market_updatedAt": "2024-09-25T19:22:45.178341Z",
+  "market_startDate": "2024-09-23T17:44:16.86836Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 20:01:36+00",
+  "conditionId": "0x47aa207c3436031ea85d712def10f049c7dccd17b834d88fd8cdd249980da087",
+  "slug": "will-donald-trump-say-border-15-or-more-times-during-his-georgia-speech-sept-24",
+  "question": "Will Donald Trump say \"border\" 15 or more times during his Georgia speech?"
+}

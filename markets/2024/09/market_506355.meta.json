@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:04:33.189013Z",
+  "market_createdAt": "2024-09-03T20:04:33.189013Z",
+  "market_updatedAt": "2024-09-10T08:27:05.493584Z",
+  "market_startDate": "2024-09-04T00:08:29.747875Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-09 08:26:28+00",
+  "conditionId": "0x00169ae097007cf17a1e0368fc158d860abdff70d4f37a950f7dfd166abae51d",
+  "slug": "will-the-dallas-wings-win-the-2024-wnba-finals",
+  "question": "Will the Dallas Wings win the 2024 WNBA Finals?"
+}

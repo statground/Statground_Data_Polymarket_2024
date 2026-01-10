@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:50:06.861970Z",
+  "market_createdAt": "2024-11-06T20:50:06.86197Z",
+  "market_updatedAt": "2025-01-04T20:06:43.566317Z",
+  "market_startDate": "2024-11-06T21:04:08.388Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:43:13+00",
+  "conditionId": "0x726d7a300f200afe20b93b43b2dd52d45bf57b714b1a81ed31e29ec9771dd24a",
+  "slug": "will-john-cornyn-be-the-next-seante-majority-leader",
+  "question": "Will John Cornyn be the next Senate Majority Leader?"
+}

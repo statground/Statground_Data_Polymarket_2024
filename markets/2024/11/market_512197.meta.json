@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:15:55.129266Z",
+  "market_createdAt": "2024-11-06T19:15:55.129266Z",
+  "market_updatedAt": "2024-11-16T02:48:56.305733Z",
+  "market_startDate": "2024-11-06T19:46:36.048Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:14:19+00",
+  "conditionId": "0xcf7dbeac6d063e2a0ece8ea27bb672598e0ea8fbc5a2c0663df0c4e6c3534f8c",
+  "slug": "will-trump-nominate-todd-blanche-for-attorney-general",
+  "question": "Will Trump nominate Todd Blanche for Attorney General?"
+}

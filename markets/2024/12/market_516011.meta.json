@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T20:03:56.900742Z",
+  "market_createdAt": "2024-12-18T20:03:56.900742Z",
+  "market_updatedAt": "2025-03-20T20:15:50.290114Z",
+  "market_startDate": "2024-12-18T20:51:00.449Z",
+  "market_endDate": "2025-03-19T12:00:00Z",
+  "market_closedTime": "2025-03-19 21:31:45+00",
+  "conditionId": "0xf7050a33a8444389ef1800e4476b43a987ff72668be0b616a4b457f5ba944a00",
+  "slug": "fed-increases-interest-rates-by-25-bps-after-march-2025-meeting",
+  "question": "Fed increases interest rates by 25+ bps after March 2025 meeting?"
+}

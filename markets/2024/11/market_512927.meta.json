@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:28:35.026843Z",
+  "market_createdAt": "2024-11-12T20:28:35.026843Z",
+  "market_updatedAt": "2024-11-19T00:55:15.164639Z",
+  "market_startDate": "2024-11-13T00:19:30.835814Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2024-11-18 02:32:01+00",
+  "conditionId": "0x762eec6d15c52adde5788a3accd48f534b9b758d02c0de85cba2d55a59eb2652",
+  "slug": "will-the-chiefs-go-undefeated",
+  "question": "Will the Chiefs go undefeated?"
+}

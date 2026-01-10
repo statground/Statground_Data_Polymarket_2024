@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T14:20:24.783243Z",
+  "market_createdAt": "2024-05-22T14:20:24.783243Z",
+  "market_updatedAt": "2024-06-06T12:06:13.066881Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-05 13:14:08+00",
+  "conditionId": "0xfec13dcf904124ca4ac8f441cfde963528338a4cf48f2cd3e0eed5debf17d487",
+  "slug": "new-eu-country-recognizes-palestine-before-july",
+  "question": "New EU country recognizes Palestine before July?"
+}

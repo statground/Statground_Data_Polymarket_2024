@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:39:34.617456Z",
+  "market_createdAt": "2024-10-18T20:39:34.617456Z",
+  "market_updatedAt": "2024-10-21T16:40:50.50905Z",
+  "market_startDate": "2024-10-18T23:24:12.115553Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:15:22+00",
+  "conditionId": "0x5191a1bce1544e530ae27c240dd1c74e5441c183f93371b818bcc14680afdddd",
+  "slug": "will-the-colts-beat-the-dolphins-by-3-or-more-points",
+  "question": "Will the Colts beat the Dolphins by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:19:54.650000Z",
+  "market_createdAt": "2024-01-08T21:19:54.65Z",
+  "market_updatedAt": "2024-11-10T19:38:42.617935Z",
+  "market_startDate": "2024-01-10T01:42:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:57:47+00",
+  "conditionId": "0x28f66bed374181b08fa7b7eead51d69a4a1af868f8e7ff6944c649822d76aa03",
+  "slug": "2024-presidential-election-gop-wins-by-5-14",
+  "question": "2024 presidential election: GOP wins by 5-14"
+}

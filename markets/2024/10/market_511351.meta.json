@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:42:23.995541Z",
+  "market_createdAt": "2024-10-29T19:42:23.995541Z",
+  "market_updatedAt": "2024-10-31T03:57:07.570442Z",
+  "market_startDate": "2024-10-29T20:30:57.05818Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:02:02+00",
+  "conditionId": "0xfc3ce294e0466f790ba469268573041972bd4f0d8b56a7c72e0f8af0ecd3e7ab",
+  "slug": "will-kamala-say-coach-walz-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"Coach Walz\" during DC rally on Oct 29?"
+}

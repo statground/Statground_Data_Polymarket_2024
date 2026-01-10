@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:41:49.897237Z",
+  "market_createdAt": "2024-10-22T16:41:49.897237Z",
+  "market_updatedAt": "2024-10-25T20:03:07.040289Z",
+  "market_startDate": "2024-10-22T21:06:22.177379Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:18:24+00",
+  "conditionId": "0x69228ac2ce559adc294cf6b3dd3916d8751951c171ca7b7ac2b7100d9594a5f8",
+  "slug": "will-ludogorets-beat-anderlecht",
+  "question": "Will Ludogorets beat Anderlecht?"
+}

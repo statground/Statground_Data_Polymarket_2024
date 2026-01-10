@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T18:35:24.859073Z",
+  "market_createdAt": "2024-07-01T18:35:24.859073Z",
+  "market_updatedAt": "2024-08-02T17:13:02.124341Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:03:32+00",
+  "conditionId": "0x10bfd2053bfe798aa0fec72fc4aaf465b17b60afb453919ad2f366770042a8d7",
+  "slug": "will-btc-reach-80k-in-july",
+  "question": "Will $BTC reach 80k in July?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:20:29.984669Z",
+  "market_createdAt": "2024-10-11T17:20:29.984669Z",
+  "market_updatedAt": "2024-10-13T23:46:41.413564Z",
+  "market_startDate": "2024-10-11T19:25:50.02363Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 23:53:53+00",
+  "conditionId": "0x07e46c494e4054bccfa88c5a48371927ff7de50494c76edf1c7c15afb1cf52bd",
+  "slug": "will-the-match-between-poland-and-portugal-end-in-a-draw",
+  "question": "Will the match between Poland and Portugal end in a draw?"
+}

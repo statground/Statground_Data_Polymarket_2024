@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:54:26.687107Z",
+  "market_createdAt": "2024-11-12T18:54:26.687107Z",
+  "market_updatedAt": "2024-12-16T19:55:33.182325Z",
+  "market_startDate": "2024-11-12T21:23:38.710011Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:47:43+00",
+  "conditionId": "0x4cb1f05a773c3c56b1cdba4504c1ccaa83a0b683c2686ca950e3c6eb5c7c8fc9",
+  "slug": "will-the-houston-texans-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Houston Texans make the 2024-25 NFL Playoffs?"
+}

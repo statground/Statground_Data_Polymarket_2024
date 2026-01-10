@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T20:27:20.644000Z",
+  "market_createdAt": "2024-01-08T20:27:20.644Z",
+  "market_updatedAt": "2024-01-17T11:29:12.069Z",
+  "market_startDate": "2024-01-08T22:51:06.019Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-16 11:46:54+00",
+  "conditionId": "0xfe0d3ec264bf85733a175841fdc06f89d5292b604892ffd5b8df0a585f50319a",
+  "slug": "will-donald-trump-win-the-2024-republican-iowa-caucus",
+  "question": "Will Donald Trump win the 2024 Republican Iowa Caucus?"
+}

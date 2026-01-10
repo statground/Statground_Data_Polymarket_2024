@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:10:08.366020Z",
+  "market_createdAt": "2024-12-04T21:10:08.36602Z",
+  "market_updatedAt": "2024-12-07T04:53:16.802636Z",
+  "market_startDate": "2024-12-04T21:13:28.814085Z",
+  "market_endDate": "2024-12-13T00:00:00Z",
+  "market_closedTime": "2024-12-06 04:55:48+00",
+  "conditionId": "0x1f5c9cb4cbb0768eaf3f9645a80f7344e744bab6104b9763cdb59663bebfe179",
+  "slug": "nhl-det-ott-2024-12-05",
+  "question": "Red Wings vs. Senators"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:38:26.617000Z",
+  "market_createdAt": "2024-03-01T19:38:26.617Z",
+  "market_updatedAt": "2024-11-07T13:07:04.891834Z",
+  "market_startDate": "2024-03-28T20:06:03.626Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 14:40:43+00",
+  "conditionId": "0x4998a1dad786157c7662c0bf2a3370d4ff510960dcd506e8da769cd677897c4b",
+  "slug": "will-a-candidate-from-another-party-win-utah-presidential-election",
+  "question": "Will a candidate from another party win Utah Presidential Election?"
+}

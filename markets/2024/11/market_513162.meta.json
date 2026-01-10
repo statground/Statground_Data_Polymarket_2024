@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:06:49.940724Z",
+  "market_createdAt": "2024-11-15T19:06:49.940724Z",
+  "market_updatedAt": "2024-11-17T21:43:19.13652Z",
+  "market_startDate": "2024-11-15T22:08:54.97197Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 21:54:50+00",
+  "conditionId": "0x93a01a8bc2e804c7683aad89d6425f7a5f0edf57e66dea126b6214edec1460e3",
+  "slug": "will-colorado-and-utah-combine-for-45-or-more-points",
+  "question": "Will Colorado and Utah combine for 45 or more points?"
+}

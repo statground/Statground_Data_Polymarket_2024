@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:11:04.129797Z",
+  "market_createdAt": "2024-08-07T21:11:04.129797Z",
+  "market_updatedAt": "2024-12-18T20:29:24.921266Z",
+  "market_startDate": "2024-08-08T17:59:20.501Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:07:08+00",
+  "conditionId": "0x3f008ca09147ae7da60bd7ed135f7e9c1a92459ae74253c3f2b897bb31ce5062",
+  "slug": "democrats-win-popular-vote-by-1-2",
+  "question": "Democrats win popular vote by 1-2%?"
+}

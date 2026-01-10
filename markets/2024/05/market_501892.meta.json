@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T20:28:22.725699Z",
+  "market_createdAt": "2024-05-29T20:28:22.725699Z",
+  "market_updatedAt": "2024-11-06T07:57:11.416765Z",
+  "market_startDate": "2024-05-29T20:28:22.725699Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:58:41+00",
+  "conditionId": "0x5d14dd0ce9b47b7fd7bbd7f07c70508f46ff1585de5d0b441eb069dbf3a0733c",
+  "slug": "will-trump-mention-maga-before-election",
+  "question": "Will Trump mention $MAGA before Election?"
+}

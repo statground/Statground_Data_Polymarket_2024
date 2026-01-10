@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:11:58.048484Z",
+  "market_createdAt": "2024-11-05T22:11:58.048484Z",
+  "market_updatedAt": "2024-11-08T22:08:54.787315Z",
+  "market_startDate": "2024-11-07T03:09:10.821823Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:11:05+00",
+  "conditionId": "0xf2bd5c2d080ad7302f016aa02d847bbf29457fce4d6d31da43b63ed7d0c96eb8",
+  "slug": "will-paok-beat-manchester-united",
+  "question": "Will PAOK beat Manchester United?"
+}

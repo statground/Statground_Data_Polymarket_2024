@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:32:51.416061Z",
+  "market_createdAt": "2024-12-10T02:32:51.416061Z",
+  "market_updatedAt": "2024-12-18T06:13:17.530204Z",
+  "market_startDate": "2024-12-10T02:36:16.077827Z",
+  "market_endDate": "2024-12-24T01:30:00Z",
+  "market_closedTime": "2024-12-17 06:39:27+00",
+  "conditionId": "0xbd89d6ed8eef40a72238766a85634e22e205e164d12bb2754089e5a3b3799e08",
+  "slug": "nfl-atl-lv-2024-12-16",
+  "question": "Falcons vs. Raiders"
+}

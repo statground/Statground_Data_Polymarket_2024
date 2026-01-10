@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:38:33.237815Z",
+  "market_createdAt": "2024-09-17T17:38:33.237815Z",
+  "market_updatedAt": "2025-01-22T23:10:54.073649Z",
+  "market_startDate": "2024-09-17T18:43:14.282003Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-01-22 00:10:01+00",
+  "conditionId": "0x9504d1af8c51f94a1d8a2028fc28b59f11a479594407b57bcad8fb28dbf29575",
+  "slug": "will-sturm-graz-win-the-uefa-champions-league",
+  "question": "Will Sturm Graz win the UEFA Champions League?"
+}

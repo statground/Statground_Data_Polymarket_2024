@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:30:01.793174Z",
+  "market_createdAt": "2024-05-22T16:30:01.793174Z",
+  "market_updatedAt": "2024-07-05T18:09:22.128946Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:07:22+00",
+  "conditionId": "0x999bb2d458e5474e2102ee237af3673f9c9545d3a17a0e4364723add23d63c22",
+  "slug": "will-tom-tugendhat-be-next-uk-prime-minister",
+  "question": "Will Tom Tugendhat be next UK prime minister?"
+}

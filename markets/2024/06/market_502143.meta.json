@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502143",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T20:07:41.431009Z",
+  "market_createdAt": "2024-06-05T20:07:41.431009Z",
+  "market_updatedAt": "2024-06-08T18:51:14.018725Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-07 21:55:56+00",
+  "conditionId": "0x1bcfe2a3a3fbf92240989927b1c5c616ef84125da39545e50cf568d24a40a6a5",
+  "slug": "andrew-tate-posts-less-than-100-times-june-5-12",
+  "question": "Andrew Tate posts less than 100 times June 5-12?"
+}

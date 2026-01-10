@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507584",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:05:34.612592Z",
+  "market_createdAt": "2024-09-20T16:05:34.612592Z",
+  "market_updatedAt": "2024-09-23T00:56:49.320407Z",
+  "market_startDate": "2024-09-20T16:18:44.989325Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 01:19:01+00",
+  "conditionId": "0x8469a0419c084f014054578150532a428f6325b527751f07431d1539598e6a2b",
+  "slug": "will-there-be-45-or-more-combined-points-scored-usc-mich",
+  "question": "Will there be 45 or more combined points scored?"
+}

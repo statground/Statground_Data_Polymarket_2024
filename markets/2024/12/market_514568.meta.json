@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:12:44.041556Z",
+  "market_createdAt": "2024-12-03T17:12:44.041556Z",
+  "market_updatedAt": "2024-12-09T17:55:17.625876Z",
+  "market_startDate": "2024-12-03T19:41:47.728342Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:43:28+00",
+  "conditionId": "0xc8bac6558ade59b1cfb36962b47eed4e724ea46899c480c045defe750722f746",
+  "slug": "will-lewis-hamilton-win-the-abu-dhabi-grand-prix",
+  "question": "Will Lewis Hamilton win the Abu Dhabi Grand Prix?"
+}

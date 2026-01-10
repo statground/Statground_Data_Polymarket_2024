@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:09:42.595001Z",
+  "market_createdAt": "2024-11-04T23:09:42.595001Z",
+  "market_updatedAt": "2024-11-07T00:41:15.197172Z",
+  "market_startDate": "2024-11-05T00:31:08.318532Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:39:17+00",
+  "conditionId": "0x7cabcca74f900c9b45ac5f0c7ce31652ee269f7c2b78d65184c8e46c55caae98",
+  "slug": "will-bologna-beat-as-monaco",
+  "question": "Will Bologna beat Monaco?"
+}

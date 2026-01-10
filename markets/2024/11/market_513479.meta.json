@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T19:25:07.832659Z",
+  "market_createdAt": "2024-11-19T19:25:07.832659Z",
+  "market_updatedAt": "2024-12-03T15:15:10.971107Z",
+  "market_startDate": "2024-11-19T23:06:28.036Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-02 15:09:22+00",
+  "conditionId": "0x47ecbba87c08f496f17351dd89e5a41007181992bdb8e2d7d08ab9d97f969b70",
+  "slug": "will-microstrategy-hold-400k-btc-before-2025",
+  "question": "Will MicroStrategy hold 400k+ BTC before 2025?"
+}

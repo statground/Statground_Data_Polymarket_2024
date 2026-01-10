@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T19:11:39.672625Z",
+  "market_createdAt": "2024-07-22T19:11:39.672625Z",
+  "market_updatedAt": "2024-07-27T10:46:58.67367Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-07-26 11:28:26+00",
+  "conditionId": "0xd21428a01924f8591aee94b37c8a257e0fe566a9a94ee50a232bd7d61502a273",
+  "slug": "michelle-obama-endorses-kamala-as-dem-nominee",
+  "question": "Michelle Obama endorses Kamala as Dem Nominee?"
+}

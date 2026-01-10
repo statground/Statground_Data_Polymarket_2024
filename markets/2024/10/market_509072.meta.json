@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T18:08:37.585297Z",
+  "market_createdAt": "2024-10-07T18:08:37.585297Z",
+  "market_updatedAt": "2024-10-11T01:36:45.64986Z",
+  "market_startDate": "2024-10-07T19:22:06.721Z",
+  "market_endDate": "2024-10-09T12:00:00Z",
+  "market_closedTime": "2024-10-10 01:57:27+00",
+  "conditionId": "0x44fce433a32ae401dc4d5745c73af00f083912b250ad21df72aa59ef4f17daa6",
+  "slug": "will-trump-say-trans-during-pennsylvania-rally-on-october-9",
+  "question": "Will Trump say \"trans\" during Pennsylvania rally on October 9?"
+}

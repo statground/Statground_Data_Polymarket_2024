@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T16:25:54.521818Z",
+  "market_createdAt": "2024-12-11T16:25:54.521818Z",
+  "market_updatedAt": "2024-12-31T06:43:38.345917Z",
+  "market_startDate": "2024-12-11T17:35:58.813214Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-12-30 07:08:57+00",
+  "conditionId": "0x26b9b2d6f67733081eed07bdd20c04a533c03fdfdf8184832fe0ea6dadbccb26",
+  "slug": "will-the-los-angeles-rams-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Los Angeles Rams make the 2024-25 NFL Playoffs?"
+}

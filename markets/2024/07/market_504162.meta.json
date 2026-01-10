@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:45:49.212172Z",
+  "market_createdAt": "2024-07-25T18:45:49.212172Z",
+  "market_updatedAt": "2024-07-31T20:47:03.612448Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:40:59+00",
+  "conditionId": "0x3d7e84e805129cb77d215a86b2f78cb240a10df7beeb4baebfcf4fa58499cca5",
+  "slug": "will-gregorio-paltrinieri-ita-win-gold-in-mens-800m-freestyle",
+  "question": "Will Gregorio Paltrinieri (ITA) win Gold in Men's 800m Freestyle?"
+}

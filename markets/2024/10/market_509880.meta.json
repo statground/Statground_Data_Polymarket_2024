@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T16:47:04.658256Z",
+  "market_createdAt": "2024-10-15T16:47:04.658256Z",
+  "market_updatedAt": "2024-10-18T00:16:46.024778Z",
+  "market_startDate": "2024-10-15T18:38:28.514Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 00:38:39+00",
+  "conditionId": "0x832b6d4a24a27b33b15b82663af15b99e52883af9ac5dcfdf7021090a36e3dbe",
+  "slug": "will-kamala-say-inflation-3-or-more-times-during-fox-news-event",
+  "question": "Will Kamala say \"Inflation\" 3 or more times during Fox News interview? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T19:20:29.259045Z",
+  "market_createdAt": "2024-08-08T19:20:29.259045Z",
+  "market_updatedAt": "2024-11-07T08:39:21.905456Z",
+  "market_startDate": "2024-08-10T21:31:13.051Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 08:36:21+00",
+  "conditionId": "0x00398c9f0d307736b4eaa79f62b8b7272e85665417d01923016266c9ba385c9e",
+  "slug": "will-colorados-abortion-protection-measure-pass",
+  "question": "Will Colorado's abortion protection measure pass?"
+}

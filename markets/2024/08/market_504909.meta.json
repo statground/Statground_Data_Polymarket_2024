@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T16:59:13.318424Z",
+  "market_createdAt": "2024-08-12T16:59:13.318424Z",
+  "market_updatedAt": "2024-08-14T03:22:55.685703Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-13 03:25:10+00",
+  "conditionId": "0xd49c3caa3dedf75e00dee9459227ac69823a62379dbadb31e77a9937a861b1ad",
+  "slug": "will-trump-post-1-10-times-this-week",
+  "question": "Will Trump post 1-10 times this week?"
+}

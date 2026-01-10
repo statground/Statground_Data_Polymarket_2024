@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T05:01:13.701077Z",
+  "market_createdAt": "2024-12-02T05:01:13.701077Z",
+  "market_updatedAt": "2024-12-09T03:09:17.738102Z",
+  "market_startDate": "2024-12-02T05:04:37.504137Z",
+  "market_endDate": "2024-12-14T21:00:00Z",
+  "market_closedTime": "2024-12-08 03:05:22+00",
+  "conditionId": "0xb1342c070386df767283519fd34a8b016c1cc33ea0ed457f0568e61100612ac0",
+  "slug": "cfb-uga-tex-2024-12-07",
+  "question": "Georgia vs. Texas"
+}

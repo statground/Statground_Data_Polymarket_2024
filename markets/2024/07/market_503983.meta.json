@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T14:33:45.985555Z",
+  "market_createdAt": "2024-07-22T14:33:45.985555Z",
+  "market_updatedAt": "2024-07-29T00:58:59.618057Z",
+  "market_startDate": "2024-07-22T16:06:57.277Z",
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 01:27:22+00",
+  "conditionId": "0x03f7864ba4217020809522588357940e9f84692e75147f8bed6c3adbac93099a",
+  "slug": "will-elon-speak-at-bitcoin-conference",
+  "question": "Will Elon Musk give a speech at Bitcoin conference? "
+}

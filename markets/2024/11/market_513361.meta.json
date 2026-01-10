@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:33:57.195176Z",
+  "market_createdAt": "2024-11-18T18:33:57.195176Z",
+  "market_updatedAt": "2024-12-07T06:25:09.707939Z",
+  "market_startDate": "2024-11-18T20:05:57.2Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:15:06+00",
+  "conditionId": "0x5929d8edce45917d227fe016d7a8932e55ea9bf414b5603daf3d6294b835fa0b",
+  "slug": "will-trump-say-hell-3-or-more-times-in-his-next-speech",
+  "question": "Will Trump say \"hell\" 3 or more times in his next speech?"
+}

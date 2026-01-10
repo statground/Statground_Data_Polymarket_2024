@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T22:29:46.585000Z",
+  "market_createdAt": "2024-01-08T22:29:46.585Z",
+  "market_updatedAt": "2024-08-07T07:36:49.823352Z",
+  "market_startDate": "2024-01-13T01:32:00Z",
+  "market_endDate": "2024-08-19T00:00:00Z",
+  "market_closedTime": "2024-08-06 07:29:04+00",
+  "conditionId": "0x9e9071636d176562592a98dfede865385ba0cff7864cfa01f0479ca6e9e26e1b",
+  "slug": "will-kamala-harris-win-the-2024-democratic-presidential-nomination",
+  "question": "Will Kamala Harris win the 2024 Democratic Presidential Nomination?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T19:46:20.967294Z",
+  "market_createdAt": "2024-08-22T19:46:20.967294Z",
+  "market_updatedAt": "2024-08-26T22:33:04.100736Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-26 01:36:36+00",
+  "conditionId": "0x99771b651c4abd9c1a58ee8fe89e978f42f2ed1c794b382272ab7e76f71c1e34",
+  "slug": "will-chinese-taipei-win-the-2024-little-league-world-series",
+  "question": "Will Chinese Taipei win the 2024 Little League World Series?"
+}

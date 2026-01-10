@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:48:45.879327Z",
+  "market_createdAt": "2024-10-28T20:48:45.879327Z",
+  "market_updatedAt": "2024-11-02T12:31:18.835521Z",
+  "market_startDate": "2024-10-28T20:51:24.586833Z",
+  "market_endDate": "2024-11-01T02:30:00Z",
+  "market_closedTime": "2024-11-01 12:31:01+00",
+  "conditionId": "0x084faf21dd84fcf28c873195faed69ab93ae614a9082ac3ec69374f99dfef3de",
+  "slug": "nba-phx-lac-2024-10-31",
+  "question": "Suns vs. Clippers"
+}

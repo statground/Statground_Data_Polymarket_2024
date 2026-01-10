@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T17:30:48.814000Z",
+  "market_createdAt": "2024-02-21T17:30:48.814Z",
+  "market_updatedAt": "2024-09-19T19:50:52.147868Z",
+  "market_startDate": "2024-03-21T16:44:26.273Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2024-09-18 21:25:08+00",
+  "conditionId": "0xb3e11395bc67c2ad811de3ea4f58d47778e7a7d209eb73bc04a21c5a7472c186",
+  "slug": "will-fed-cut-interest-rates-1-time-by-dec-meeting",
+  "question": "Will Fed cut interest rates 1 time in 2024?"
+}

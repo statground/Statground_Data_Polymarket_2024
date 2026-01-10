@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:28:21.570357Z",
+  "market_createdAt": "2024-10-08T19:28:21.570357Z",
+  "market_updatedAt": "2024-10-13T00:02:50.768216Z",
+  "market_startDate": "2024-10-09T15:33:30.032567Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 00:17:33+00",
+  "conditionId": "0x1bcabd9782b881cf4aa0d6b48c915333ed6dfbc7caf854976f7805f1df0c8db1",
+  "slug": "will-trump-say-fracking-3-or-more-times-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"fracking\" 3 or more times during Colorado rally on October 11?"
+}

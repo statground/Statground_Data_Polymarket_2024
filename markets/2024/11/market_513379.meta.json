@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513379",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:35:25.408426Z",
+  "market_createdAt": "2024-11-18T19:35:25.408426Z",
+  "market_updatedAt": "2024-12-04T20:29:07.642011Z",
+  "market_startDate": "2024-11-18T20:53:55.17Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-03 23:02:36+00",
+  "conditionId": "0x598a1cbe2c4419a50143dda5fb9c057cddbe6d89121fc9eb2217280856cbc184",
+  "slug": "will-bitcoin-be-listed-first-on-coinbase",
+  "question": "Will $BITCOIN be listed first on Coinbase?"
+}

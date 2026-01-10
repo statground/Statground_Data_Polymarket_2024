@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T17:28:33.791054Z",
+  "market_createdAt": "2024-10-15T17:28:33.791054Z",
+  "market_updatedAt": "2024-10-17T03:52:52.743906Z",
+  "market_startDate": "2024-10-15T19:38:25.291951Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 05:25:38+00",
+  "conditionId": "0xd7b586d0d83fa54c2cb137852eafdf83f38726ddc7fe1e6b001e1999860d101f",
+  "slug": "nba-preseason-nuggets-vs-thunder",
+  "question": "NBA Preseason: Nuggets vs. Thunder"
+}

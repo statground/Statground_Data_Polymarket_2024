@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:40:32.937673Z",
+  "market_createdAt": "2024-10-18T17:40:32.937673Z",
+  "market_updatedAt": "2024-10-20T12:22:54.651897Z",
+  "market_startDate": "2024-10-18T23:11:40.81369Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:58:25+00",
+  "conditionId": "0xaa8a7d431614daafab49090b65f23cf0ba1ad7ec4a02dd64ed2da2018023f5e4",
+  "slug": "will-usc-beat-maryland-by-7-or-more-points",
+  "question": "Will USC beat Maryland by 7 or more points?"
+}

@@ -1,0 +1,31 @@
+{
+  "entity": "event",
+  "event_id": "14998",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-02T17:14:12.137224Z",
+  "event_createdAt": "2024-12-02T17:14:12.137224Z",
+  "event_creationDate": "2024-12-02T17:55:28.794298Z",
+  "event_startDate": "2024-12-02T17:55:28.794303Z",
+  "event_endDate": "2024-12-31T12:00:00Z",
+  "event_updatedAt": "2025-01-31T22:21:27.602735Z",
+  "markets_len": 12,
+  "market_ids": [
+    "514828",
+    "514829",
+    "514382",
+    "514378",
+    "514379",
+    "514380",
+    "514381",
+    "514383",
+    "514384",
+    "514388",
+    "514901",
+    "514903"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10017"
+  ],
+  "series_slug": "eth-monthly-prices"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:02:43.881989Z",
+  "market_createdAt": "2024-12-29T07:02:43.881989Z",
+  "market_updatedAt": "2025-01-01T02:47:40.712337Z",
+  "market_startDate": "2024-12-29T07:05:17.196322Z",
+  "market_endDate": "2025-01-07T00:00:00Z",
+  "market_closedTime": "2024-12-31 04:54:40+00",
+  "conditionId": "0xed1d3e921c5c8819aea429f50d48faa2a635b87d1d455c13517a0b9610a6ade9",
+  "slug": "nhl-nyr-fla-2024-12-30",
+  "question": "Rangers vs. Panthers"
+}

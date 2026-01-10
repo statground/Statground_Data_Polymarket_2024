@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T21:06:05.198458Z",
+  "market_createdAt": "2024-11-18T21:06:05.198458Z",
+  "market_updatedAt": "2025-01-02T08:19:02.914874Z",
+  "market_startDate": "2024-11-18T21:41:29.692Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:58:20+00",
+  "conditionId": "0x116eda85fcc4f5df10e13e6290af9778126a1e5fd62074219addf5da20e3570d",
+  "slug": "will-none-of-the-named-coins-be-listed-on-binance-in-2024",
+  "question": "Will none of the named coins be listed on Binance in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:53:21.473721Z",
+  "market_createdAt": "2024-08-21T14:53:21.473721Z",
+  "market_updatedAt": "2024-08-23T02:57:06.271961Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:26:22+00",
+  "conditionId": "0xa5134b405613788ed8219408e1ab57eee4e78cf306836f7badc7543bac368337",
+  "slug": "will-pelosi-say-israel-at-dnc-speech",
+  "question": "Will Pelosi say \"Israel\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T22:20:08.189567Z",
+  "market_createdAt": "2024-05-02T22:20:08.189567Z",
+  "market_updatedAt": "2024-05-11T14:59:07.269291Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-10 19:14:52+00",
+  "conditionId": "0xd2af8fc90413a4570a149ea51fc85fd124b2581c47f1074d585aa2f1f79868bd",
+  "slug": "will-elon-tweet-120-134-times-may-3",
+  "question": "Will Elon tweet 120-134 times?"
+}

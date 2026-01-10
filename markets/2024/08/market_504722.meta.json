@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T15:09:52.971207Z",
+  "market_createdAt": "2024-08-08T15:09:52.971207Z",
+  "market_updatedAt": "2024-08-14T05:52:59.778538Z",
+  "market_startDate": "2024-08-08T16:25:11.137Z",
+  "market_endDate": "2024-08-12T12:00:00Z",
+  "market_closedTime": "2024-08-13 06:02:45+00",
+  "conditionId": "0x127e9be1498f5aa48bb4c2b3ea34031a7f4fe129821f95fb452b855b4093b27c",
+  "slug": "did-trump-launch-rtr",
+  "question": "Did Trump launch $RTR?"
+}

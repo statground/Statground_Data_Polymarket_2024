@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T01:34:33.771000Z",
+  "market_createdAt": "2024-03-05T01:34:33.771Z",
+  "market_updatedAt": "2024-04-26T03:01:13.460089Z",
+  "market_startDate": "2024-03-06T19:21:16.273Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 05:33:29+00",
+  "conditionId": "0x0d8e3cc5390661ecd29f72223a8b8a565ecd9abfc15ac0bd91c8b069da11534e",
+  "slug": "will-biden-say-chinachinese-three-or-more-times-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"China/Chinese\" three or more times during his State of the Union address?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T18:06:04.435782Z",
+  "market_createdAt": "2024-09-16T18:06:04.435782Z",
+  "market_updatedAt": "2024-09-22T20:12:47.050434Z",
+  "market_startDate": "2024-09-18T17:00:42.240754Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 21:41:35+00",
+  "conditionId": "0x8a0cedc333de0d14504bff87d3f5afd3f7bb9ae336f5f8f8d0fff2cc626a89fd",
+  "slug": "will-donald-trump-say-fake-news-3-or-more-times-during-his-north-carolina-rally",
+  "question": "Will Donald Trump say \"fake news\" 3 or more times during his North Carolina rally?"
+}

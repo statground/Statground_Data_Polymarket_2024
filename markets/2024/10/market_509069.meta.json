@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T18:05:45.735644Z",
+  "market_createdAt": "2024-10-07T18:05:45.735644Z",
+  "market_updatedAt": "2024-10-11T02:46:45.675Z",
+  "market_startDate": "2024-10-07T19:20:27.377Z",
+  "market_endDate": "2024-10-09T12:00:00Z",
+  "market_closedTime": "2024-10-10 03:29:21+00",
+  "conditionId": "0x10e5aaf20bdfd0f5278d8bb5cc2c5cc470d43af224d722f3e9ae259e3b7ccd34",
+  "slug": "will-trump-say-kamala-25-or-more-times-during-pennsylvania-rally-on-october-9",
+  "question": "Will Trump say \"Kamala\" 25 or more times during Pennsylvania rally on October 9?"
+}

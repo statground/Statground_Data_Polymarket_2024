@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510073",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T18:14:48.925346Z",
+  "market_createdAt": "2024-10-17T18:14:48.925346Z",
+  "market_updatedAt": "2024-10-21T02:02:51.578868Z",
+  "market_startDate": "2024-10-17T20:51:36.244Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:08:27+00",
+  "conditionId": "0x7f1754daa4a85356985746551a892ed98487e31ff2f8b80fbbe2379ef4b3d6f1",
+  "slug": "will-trump-say-maga-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"MAGA\" 3 or more times during Pennsylvania rally on October 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:20:45.024000Z",
+  "market_createdAt": "2024-01-08T21:20:45.024Z",
+  "market_updatedAt": "2024-11-11T06:16:42.002758Z",
+  "market_startDate": "2024-01-10T01:42:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:52:37+00",
+  "conditionId": "0x9c9c47de9c871b6cfbae8956f3586f09ae131c44f73e478bc824c106489dd930",
+  "slug": "2024-presidential-election-democrats-win-by-0-4",
+  "question": "2024 presidential election: Democrats win by 0-4"
+}

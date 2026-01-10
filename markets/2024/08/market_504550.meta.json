@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T04:38:22.508928Z",
+  "market_createdAt": "2024-08-05T04:38:22.508928Z",
+  "market_updatedAt": "2024-08-06T19:56:48.147566Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-05 23:09:33+00",
+  "conditionId": "0xe51512fd90fd4212bd8a5e30d70979d3c2f7c6fbcdc5f3c7a5af418845d610cf",
+  "slug": "will-another-athlete-win-gold-in-800m-w",
+  "question": "Will another athlete win gold in 800m W?"
+}

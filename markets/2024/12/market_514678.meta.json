@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T18:45:58.206165Z",
+  "market_createdAt": "2024-12-04T18:45:58.206165Z",
+  "market_updatedAt": "2025-11-05T20:23:09.800049Z",
+  "market_startDate": "2024-12-04T23:57:19.825Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2025-03-01 07:31:40+00",
+  "conditionId": "0xf9700d2d3ae459e4467729f092fb0543b305d9210d011f9b937d2f85c1519b4a",
+  "slug": "nato-article-5-before-march",
+  "question": "NATO article 5 before March?"
+}

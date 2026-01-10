@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T00:58:34.806133Z",
+  "market_createdAt": "2024-11-26T00:58:34.806133Z",
+  "market_updatedAt": "2024-12-03T15:13:12.334178Z",
+  "market_startDate": "2024-11-26T01:10:51.2946Z",
+  "market_endDate": "2024-12-02T12:00:00Z",
+  "market_closedTime": "2024-12-02 18:17:07+00",
+  "conditionId": "0x2fb3f7a9abd86c2eeae89b0ae0bf7144bc05a8900177bd2e51646d17a6d71ebf",
+  "slug": "will-moana-2-have-a-tomatometer-score-of-75-79",
+  "question": "Will \"Moana 2\" have a Tomatometer score of 75-79?"
+}

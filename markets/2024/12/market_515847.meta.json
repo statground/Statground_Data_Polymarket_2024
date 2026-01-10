@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:22:23.469034Z",
+  "market_createdAt": "2024-12-17T17:22:23.469034Z",
+  "market_updatedAt": "2024-12-21T03:36:57.336881Z",
+  "market_startDate": "2024-12-18T20:26:44.461163Z",
+  "market_endDate": "2024-12-19T12:00:00Z",
+  "market_closedTime": "2024-12-20 05:15:43+00",
+  "conditionId": "0x465a791a87dc78bda018dc4cc0b3775103ca6bf9870a19790d97bddde88bfa08",
+  "slug": "will-the-chargers-and-broncos-combine-for-42-or-more-points",
+  "question": "Will the Chargers and Broncos combine for 42 or more points?"
+}

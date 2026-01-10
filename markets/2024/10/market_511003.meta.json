@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:45:49.798930Z",
+  "market_createdAt": "2024-10-25T20:45:49.79893Z",
+  "market_updatedAt": "2024-10-29T01:51:11.010246Z",
+  "market_startDate": "2024-10-25T21:50:54.128905Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 01:47:51+00",
+  "conditionId": "0x04fb9c80db72d3e913999100e73004876be14520c2f6ab22603305ed0b52d2f8",
+  "slug": "will-the-bills-beat-the-seahawks-by-3-or-more-points",
+  "question": "Will the Bills beat the Seahawks by 3 or more points?"
+}

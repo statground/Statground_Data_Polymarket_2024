@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:45:46.482774Z",
+  "market_createdAt": "2024-08-28T19:45:46.482774Z",
+  "market_updatedAt": "2024-12-04T02:55:09.2466Z",
+  "market_startDate": "2024-08-28T19:45:46.482774Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-03 08:10:16+00",
+  "conditionId": "0x81a58e23bb2a6af50c841b7d65dc703175999cd1a0d3e522180823acfc262fcb",
+  "slug": "will-the-jaguars-win-the-afc-championship",
+  "question": "Will the Jaguars win the AFC Championship?"
+}

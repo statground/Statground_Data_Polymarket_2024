@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:26:57.567897Z",
+  "market_createdAt": "2024-10-11T21:26:57.567897Z",
+  "market_updatedAt": "2024-10-14T16:32:43.049636Z",
+  "market_startDate": "2024-10-11T22:25:12.323276Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:18:33+00",
+  "conditionId": "0x5e76fab4e7ca1acde0bb2a49491df82bf585955a769b5d17f6c897c8b61e7c54",
+  "slug": "will-the-titans-beat-the-colts-by-3-or-more-points",
+  "question": "Will the Titans beat the Colts by 3 or more points?"
+}

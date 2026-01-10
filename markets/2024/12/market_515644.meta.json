@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:53:45.168238Z",
+  "market_createdAt": "2024-12-13T22:53:45.168238Z",
+  "market_updatedAt": "2024-12-16T13:35:29.16669Z",
+  "market_startDate": "2024-12-13T23:29:07.987804Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-15 23:17:10+00",
+  "conditionId": "0x09848aab4cb5e742249052d2ae8b28de67f83cb2d26e53c27f8d8d4b08992e27",
+  "slug": "will-the-jets-and-jaguars-combine-for-41-or-more-points",
+  "question": "Will the Jets and Jaguars combine for 41 or more points?"
+}

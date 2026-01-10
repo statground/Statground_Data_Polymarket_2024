@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T21:57:15.978784Z",
+  "market_createdAt": "2024-09-13T21:57:15.978784Z",
+  "market_updatedAt": "2024-09-16T20:50:46.454701Z",
+  "market_startDate": "2024-09-13T22:25:00.757882Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:03:17+00",
+  "conditionId": "0xdc5d85b503a9eb595e0a352f74b338795a9cda946b242ea6728f0a4ba4b8cc01",
+  "slug": "will-there-be-39-or-more-combined-points-scored-lac-car",
+  "question": "Will there be 39 or more combined points scored?"
+}

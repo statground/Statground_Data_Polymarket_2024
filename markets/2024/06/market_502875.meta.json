@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T17:14:18.811162Z",
+  "market_createdAt": "2024-06-25T17:14:18.811162Z",
+  "market_updatedAt": "2024-06-29T07:16:03.381365Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:28:13+00",
+  "conditionId": "0xd326c4b477ca70db84bca0ffc0c075f87fa9ad092c4c2eaa649d0f55c59752d7",
+  "slug": "will-biden-say-january-6-during-the-debate",
+  "question": "Will Biden say \"January 6\" during the debate?"
+}

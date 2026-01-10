@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:48:23.359090Z",
+  "market_createdAt": "2024-07-25T16:48:23.35909Z",
+  "market_updatedAt": "2024-07-28T17:32:59.889387Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:42:03+00",
+  "conditionId": "0xdc15c7536a312733ede5ad14cad0a76b0cb2690cc90136c8d666aa97e1ed4918",
+  "slug": "will-samuel-short-aus-win-gold-in-mens-400m-freestyle",
+  "question": "Will Samuel Short (AUS) win Gold in Men's 400m Freestyle?"
+}

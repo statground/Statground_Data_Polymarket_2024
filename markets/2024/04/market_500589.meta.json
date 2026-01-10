@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T15:06:33.471401Z",
+  "market_createdAt": "2024-04-01T15:06:33.471401Z",
+  "market_updatedAt": "2024-05-07T23:10:06.724432Z",
+  "market_startDate": "2024-04-01T16:47:40.785Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-09 00:23:05+00",
+  "conditionId": "0xffceb718422c907c8e260e3ff8c519fd21813dd9b72e7d7ec4c1d2208bc8b86b",
+  "slug": "will-the-first-omen-gross-more-than-25m-opening-weekend",
+  "question": "Will 'The First Omen' gross more than $11m opening weekend?"
+}

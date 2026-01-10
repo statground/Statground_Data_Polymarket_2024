@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T05:02:16.250629Z",
+  "market_createdAt": "2024-12-16T05:02:16.250629Z",
+  "market_updatedAt": "2024-12-22T22:49:33.271438Z",
+  "market_startDate": "2024-12-16T05:04:47.967154Z",
+  "market_endDate": "2024-12-28T17:00:00Z",
+  "market_closedTime": "2024-12-21 22:47:32+00",
+  "conditionId": "0xcb3eacfbae18685b32e15f198634c7d2024ddca2a3b12affb7891e99a6815e13",
+  "slug": "cfb-smu-psu-2024-12-21",
+  "question": "SMU vs. Penn State"
+}

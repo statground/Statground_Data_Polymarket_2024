@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-06T17:09:51.016000Z",
+  "market_createdAt": "2024-02-06T17:09:51.016Z",
+  "market_updatedAt": "2024-03-02T05:26:17.678Z",
+  "market_startDate": "2024-02-06T17:26:06.922Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:01:45+00",
+  "conditionId": "0x80a14f015b92a8c4b048ddb798fc98b827fbc7118ace5addd7c10af6790d8513",
+  "slug": "will-warpcast-break-top-5-on-the-ios-app-store-in-february",
+  "question": "Will Warpcast break top 5 on the iOS App Store in February?"
+}

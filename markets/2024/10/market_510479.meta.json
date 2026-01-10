@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:37:24.830583Z",
+  "market_createdAt": "2024-10-22T00:37:24.830583Z",
+  "market_updatedAt": "2024-10-28T19:10:54.997601Z",
+  "market_startDate": "2024-10-22T00:40:03.328433Z",
+  "market_endDate": "2024-10-27T14:00:00Z",
+  "market_closedTime": "2024-10-27 19:19:50+00",
+  "conditionId": "0x1ee99955cfad9b30cce0fb98258bc7be6d916a99208d5711831afeb98686d5f3",
+  "slug": "epl-wes-mun-2024-10-27-wes",
+  "question": "Will West Ham win on 2024-10-27?"
+}

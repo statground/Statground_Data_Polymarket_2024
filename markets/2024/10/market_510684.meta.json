@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:11:33.713130Z",
+  "market_createdAt": "2024-10-23T00:11:33.71313Z",
+  "market_updatedAt": "2024-11-25T06:38:03.607262Z",
+  "market_startDate": "2024-10-23T17:52:44.854483Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-24 09:35:41+00",
+  "conditionId": "0x0ae555df599a757ef51ad4d1adf2d7c337b1ff81eca8a1ed8e04e7901d8a9cec",
+  "slug": "will-los-angeles-fc-win-the-mls-cup",
+  "question": "Will Los Angeles FC win the MLS Cup?"
+}

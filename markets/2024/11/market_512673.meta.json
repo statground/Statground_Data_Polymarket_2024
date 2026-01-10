@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:01:21.906449Z",
+  "market_createdAt": "2024-11-11T18:01:21.906449Z",
+  "market_updatedAt": "2024-11-13T05:53:05.964343Z",
+  "market_startDate": "2024-11-11T18:03:53.184702Z",
+  "market_endDate": "2024-11-19T01:00:00Z",
+  "market_closedTime": "2024-11-12 05:49:39+00",
+  "conditionId": "0x9a7d186a3834b678d03b915574b378b16d1d00fadb4ada85483992804707646a",
+  "slug": "nba-was-hou-2024-11-11",
+  "question": "Wizards vs. Rockets"
+}

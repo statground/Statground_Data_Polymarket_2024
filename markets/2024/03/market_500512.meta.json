@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T19:10:53.422995Z",
+  "market_createdAt": "2024-03-28T19:10:53.422995Z",
+  "market_updatedAt": "2024-11-07T15:33:10.796882Z",
+  "market_startDate": "2024-03-28T21:40:08.014Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:59:37+00",
+  "conditionId": "0x661a6d0e875ac492ff936bbe61b899ef0dd48f44936f33438720d484fdfcbc7e",
+  "slug": "will-a-republican-win-new-mexico-presidential-election",
+  "question": "Will a Republican win New Mexico Presidential Election?"
+}

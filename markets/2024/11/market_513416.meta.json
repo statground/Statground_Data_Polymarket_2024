@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:16:15.696811Z",
+  "market_createdAt": "2024-11-18T22:16:15.696811Z",
+  "market_updatedAt": "2024-11-21T02:06:57.005075Z",
+  "market_startDate": "2024-11-19T20:37:33.097987Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 04:09:16+00",
+  "conditionId": "0x13a3f693a2fe6771020af994a0372cc5c37a92ad168a37cfeb0a9d034a4e7a90",
+  "slug": "will-ecuador-beat-colombia",
+  "question": "Will Ecuador beat Colombia?"
+}

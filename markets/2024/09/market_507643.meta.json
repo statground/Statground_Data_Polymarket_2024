@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:31:51.639612Z",
+  "market_createdAt": "2024-09-20T21:31:51.639612Z",
+  "market_updatedAt": "2024-09-23T23:16:45.982459Z",
+  "market_startDate": "2024-09-20T21:45:19.155834Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 01:37:40+00",
+  "conditionId": "0x71b5c4a6261997920b95b7e8d159be8f07803ca0e1c7c7809f8da726931d3edf",
+  "slug": "wnba-lynx-vs-mercury-game-1",
+  "question": "WNBA: Lynx vs. Mercury Game 1"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T18:59:01.201542Z",
+  "market_createdAt": "2024-10-02T18:59:01.201542Z",
+  "market_updatedAt": "2024-10-06T01:26:45.206642Z",
+  "market_startDate": "2024-10-02T21:23:44.547409Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 01:56:53+00",
+  "conditionId": "0xcb2a236614fd91000fa3f0b4843e70e6c240b39a2b9c736fa5f05cfaf04e60d9",
+  "slug": "will-trump-say-trans-during-north-carolina-town-hall",
+  "question": "Will Trump say \"trans\" during North Carolina town hall?"
+}

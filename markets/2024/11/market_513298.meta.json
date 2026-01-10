@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:09:02.657884Z",
+  "market_createdAt": "2024-11-17T05:09:02.657884Z",
+  "market_updatedAt": "2024-11-25T05:34:23.200764Z",
+  "market_startDate": "2024-11-17T05:11:35.073532Z",
+  "market_endDate": "2024-12-01T01:00:00Z",
+  "market_closedTime": "2024-11-24 05:37:15+00",
+  "conditionId": "0x45dd13d53194eb4db655978d62ee5b6020aff6f97745a505d3de794f0c3481fd",
+  "slug": "nba-cha-mil-2024-11-23",
+  "question": "Hornets vs. Bucks"
+}

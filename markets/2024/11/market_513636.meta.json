@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T18:14:32.867643Z",
+  "market_createdAt": "2024-11-21T18:14:32.867643Z",
+  "market_updatedAt": "2024-11-23T04:10:52.400768Z",
+  "market_startDate": "2024-11-21T18:29:34.719443Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:20:11+00",
+  "conditionId": "0x8cdb2a5539aa7acf215526ea3ea4390d0c8aaf1bdb9f8223d12ab948cd9b0673",
+  "slug": "will-trump-pick-jay-clayton-for-attorney-general",
+  "question": "Will Trump pick Jay Clayton for Attorney General?"
+}

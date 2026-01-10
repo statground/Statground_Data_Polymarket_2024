@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:14:21.946857Z",
+  "market_createdAt": "2024-12-01T05:14:21.946857Z",
+  "market_updatedAt": "2024-12-08T07:35:36.639187Z",
+  "market_startDate": "2024-12-01T05:18:15.958366Z",
+  "market_endDate": "2024-12-14T03:00:00Z",
+  "market_closedTime": "2024-12-07 07:40:59+00",
+  "conditionId": "0x91d65f1b6cad9262aeef2113956d97ba8652d1b792ad6e661f49a15df1ef7115",
+  "slug": "nba-min-gsw-2024-12-06",
+  "question": "Timberwolves vs. Warriors"
+}

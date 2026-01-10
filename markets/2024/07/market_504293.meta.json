@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:13:00.962105Z",
+  "market_createdAt": "2024-07-29T20:13:00.962105Z",
+  "market_updatedAt": "2024-08-05T18:10:59.565551Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:06:05+00",
+  "conditionId": "0xc48bd8e372e1c2be97c62dc5cfaa79eb222c8fa4a7ca4bae6b1240ce6ed58cc2",
+  "slug": "will-another-athlete-win-gold-in-mens-golf",
+  "question": "Will another athlete win Gold in Men's Golf?"
+}

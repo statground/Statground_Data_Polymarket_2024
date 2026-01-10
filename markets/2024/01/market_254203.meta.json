@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-30T18:44:18.904000Z",
+  "market_createdAt": "2024-01-30T18:44:18.904Z",
+  "market_updatedAt": "2024-03-07T20:14:10.734Z",
+  "market_startDate": "2024-01-30T23:43:00Z",
+  "market_endDate": "2024-05-30T00:00:00Z",
+  "market_closedTime": "2024-03-07 01:19:09+00",
+  "conditionId": "0x491b5c9caa3e8e042ed51d067132b511521ed56d62ae532e6dff0db16d2727d0",
+  "slug": "will-copenhagen-win-the-2023-24-champions-league",
+  "question": "Will Copenhagen win the 2023-24 Champions League?"
+}

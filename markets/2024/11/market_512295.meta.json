@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:28:44.558693Z",
+  "market_createdAt": "2024-11-07T19:28:44.558693Z",
+  "market_updatedAt": "2024-11-21T02:44:57.243116Z",
+  "market_startDate": "2024-11-07T22:21:38.743Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:59:43+00",
+  "conditionId": "0xf8b56301ef6e79875a783a89dbc4c1fe29be4152858a2f2c2d96fa52e8be5dc1",
+  "slug": "will-trump-nominate-glenn-youngkin-for-education-secretary",
+  "question": "Will Trump nominate Glenn Youngkin for Education Secretary?"
+}

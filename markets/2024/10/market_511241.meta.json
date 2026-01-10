@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511241",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:52:27.846908Z",
+  "market_createdAt": "2024-10-28T20:52:27.846908Z",
+  "market_updatedAt": "2024-11-02T00:33:11.027096Z",
+  "market_startDate": "2024-10-28T23:50:08.213968Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:09:18+00",
+  "conditionId": "0x3d6f66ad1f447fe9afb4934f2c6dff3ebeae08c007446e175f61279304bb66cc",
+  "slug": "will-trump-say-melania-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"Melania\" during Nevada rally on Oct 31?"
+}

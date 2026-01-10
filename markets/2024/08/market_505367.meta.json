@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:29:22.915328Z",
+  "market_createdAt": "2024-08-19T19:29:22.915328Z",
+  "market_updatedAt": "2024-08-22T05:13:00.687455Z",
+  "market_startDate": "2024-08-20T15:21:27Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:10:34+00",
+  "conditionId": "0x8389575ecef199cc2d29db27eb01f1e6682ffd3978fe1124fa2c73ec116d46b9",
+  "slug": "will-obama-say-joe-biden-at-dnc-speech",
+  "question": "Will Obama say \"Joe Biden\" at DNC speech?"
+}

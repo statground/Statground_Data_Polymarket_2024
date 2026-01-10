@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:13:49.880027Z",
+  "market_createdAt": "2024-03-17T20:13:49.880027Z",
+  "market_updatedAt": "2024-05-07T23:10:08.449014Z",
+  "market_startDate": "2024-03-17T20:21:19.357Z",
+  "market_endDate": "2024-03-28T07:00:00Z",
+  "market_closedTime": "2024-03-28 19:10:04+00",
+  "conditionId": "0xed1527fb24485a877b1c20dd4f61a55d33f9c4737d772409c46c51b3495130ae",
+  "slug": "sbf-sentence-between-20-and-30-years",
+  "question": "SBF sentence between 20 and 30 years?"
+}

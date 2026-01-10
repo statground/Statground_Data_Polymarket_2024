@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:04:17.818156Z",
+  "market_createdAt": "2024-08-07T21:04:17.818156Z",
+  "market_updatedAt": "2024-08-21T04:16:59.571911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-20 04:14:00+00",
+  "conditionId": "0xaee4f0e0ff903e832726b6ed402401e4eadd96c9b522419a334ea3c13ffe0edd",
+  "slug": "will-hillary-clinton-speak-at-the-dnc",
+  "question": "Will Hillary Clinton speak at the DNC?"
+}

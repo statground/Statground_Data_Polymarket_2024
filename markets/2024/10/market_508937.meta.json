@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:26:40.740557Z",
+  "market_createdAt": "2024-10-04T17:26:40.740557Z",
+  "market_updatedAt": "2024-10-07T05:56:30.978936Z",
+  "market_startDate": "2024-10-04T18:40:07.342667Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:48:55+00",
+  "conditionId": "0x837d70aad0b7e120248aa605a8a1450dd8fb919c4cbdd6bcbbafbb999ead0b4a",
+  "slug": "will-arizona-state-beat-kansas",
+  "question": "Will Arizona State beat Kansas?"
+}

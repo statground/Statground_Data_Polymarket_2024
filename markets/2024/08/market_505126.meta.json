@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:07:28.457523Z",
+  "market_createdAt": "2024-08-14T21:07:28.457523Z",
+  "market_updatedAt": "2024-09-05T03:53:01.7743Z",
+  "market_startDate": "2024-08-14T21:07:28.457Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-09-04 07:04:13+00",
+  "conditionId": "0x4f6d16afdb38ccd28b97e797ebd589a9c1e5284d1f8a75fc82da470af5239d53",
+  "slug": "will-marcus-shoberg-win",
+  "question": "Will Marcus Shoberg win?"
+}

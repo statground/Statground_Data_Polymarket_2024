@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:03:05.009507Z",
+  "market_createdAt": "2024-12-29T06:03:05.009507Z",
+  "market_updatedAt": "2025-01-07T07:47:17.790438Z",
+  "market_startDate": "2024-12-29T06:05:42.258294Z",
+  "market_endDate": "2025-01-12T05:00:00Z",
+  "market_closedTime": "2025-01-06 07:54:16+00",
+  "conditionId": "0x41c0ac27c997157304bba97588f5db90c72004203777b097f46471d9988f7c04",
+  "slug": "nfl-min-det-2025-01-05",
+  "question": "Vikings vs. Lions"
+}

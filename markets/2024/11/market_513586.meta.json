@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T21:31:11.260101Z",
+  "market_createdAt": "2024-11-20T21:31:11.260101Z",
+  "market_updatedAt": "2025-02-04T04:08:18.63298Z",
+  "market_startDate": "2024-11-20T22:05:47.456Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 07:48:30+00",
+  "conditionId": "0xa72f928d2471593df3ba5b04bc8a3a6acadce1f2e9a7d237c10b61ccc204338c",
+  "slug": "will-360-win-record-of-the-year",
+  "question": "Will '360' win Record of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:03:15.522037Z",
+  "market_createdAt": "2024-08-12T17:03:15.522037Z",
+  "market_updatedAt": "2024-08-19T04:26:56.325637Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 04:20:57+00",
+  "conditionId": "0xd8539357e014b7d3c37786f1a2262c0f898643ba4b1043dfef2764e65a4bd773",
+  "slug": "nfl-mia-wsh-2024-08-17",
+  "question": "Dolphins vs. Commanders"
+}

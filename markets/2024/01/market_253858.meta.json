@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T20:47:59.977000Z",
+  "market_createdAt": "2024-01-12T20:47:59.977Z",
+  "market_updatedAt": "2025-01-11T15:24:46.885417Z",
+  "market_startDate": "2024-01-16T21:50:24.112Z",
+  "market_endDate": "2025-03-01T00:00:00Z",
+  "market_closedTime": "2025-01-10 18:27:54+00",
+  "conditionId": "0x2c1d8f3388f56e1641a57eec4d7645cb1dccb42054cf0d6aacc7e353d778b4f1",
+  "slug": "will-2024-be-the-hottest-year-on-record",
+  "question": "Will 2024 be the hottest year on record?"
+}

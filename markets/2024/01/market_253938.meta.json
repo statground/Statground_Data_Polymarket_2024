@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T01:35:09.150000Z",
+  "market_createdAt": "2024-01-17T01:35:09.15Z",
+  "market_updatedAt": "2024-01-22T01:09:20.845Z",
+  "market_startDate": "2024-01-20T00:00:00Z",
+  "market_endDate": "2024-01-20T00:00:00Z",
+  "market_closedTime": "2024-01-21 02:47:06+00",
+  "conditionId": "0xfc690d5069b296bb9278af0cba42c02666e0999e4a4009ed97ea4a885f045457",
+  "slug": "nfl-bal-hou-2024-01-20",
+  "question": "Ravens vs. Texans"
+}

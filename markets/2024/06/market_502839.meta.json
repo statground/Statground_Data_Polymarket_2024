@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:14:26.089534Z",
+  "market_createdAt": "2024-06-24T23:14:26.089534Z",
+  "market_updatedAt": "2024-06-26T18:41:10.104214Z",
+  "market_startDate": "2024-06-24T23:26:43.205Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-25 21:08:00+00",
+  "conditionId": "0x135865901841ec415ca2f621c8ce58d4aab20fecfc17186c40bcbd500cccdfc7",
+  "slug": "will-the-match-be-a-draw-netherlands-austria",
+  "question": "Will the match be a draw?"
+}

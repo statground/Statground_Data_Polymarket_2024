@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T15:02:52.834755Z",
+  "market_createdAt": "2024-04-01T15:02:52.834755Z",
+  "market_updatedAt": "2024-05-07T23:09:26.155876Z",
+  "market_startDate": "2024-04-01T16:47:37.14Z",
+  "market_endDate": "2024-04-08T12:00:00Z",
+  "market_closedTime": "2024-04-09 00:23:11+00",
+  "conditionId": "0x0973c6e89e68b0baf1825206ff600f983899c224f3342539382fd6978ef64018",
+  "slug": "box-office-april-5-7",
+  "question": "Will 'Monkey Man' gross more than $16m opening weekend?"
+}

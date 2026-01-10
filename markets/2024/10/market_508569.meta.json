@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508569",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:18:13.211842Z",
+  "market_createdAt": "2024-10-01T18:18:13.211842Z",
+  "market_updatedAt": "2024-10-06T19:42:46.45315Z",
+  "market_startDate": "2024-10-02T15:21:18.095819Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:16:36+00",
+  "conditionId": "0x44a05563fd31743a2587833c94d6cbd0b3d78f7715cd9c6f86ab6849e37218e2",
+  "slug": "will-wolverhampton-beat-brentford",
+  "question": "Will Wolverhampton beat Brentford?"
+}

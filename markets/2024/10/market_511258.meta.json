@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511258",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:31:17.268718Z",
+  "market_createdAt": "2024-10-28T21:31:17.268718Z",
+  "market_updatedAt": "2024-11-03T04:11:09.313191Z",
+  "market_startDate": "2024-10-29T00:07:11.964Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:13:59+00",
+  "conditionId": "0xcee16e26356ba3a65012453422bb9e6d4b04a1476ed2fd0de1b9b7d422a3b56a",
+  "slug": "will-trump-say-weave-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"weave\" during Wisconsin rally on Nov 1?"
+}

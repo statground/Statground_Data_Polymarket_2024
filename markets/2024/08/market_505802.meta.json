@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:30:42.608275Z",
+  "market_createdAt": "2024-08-26T18:30:42.608275Z",
+  "market_updatedAt": "2024-08-31T04:33:07.285271Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 06:26:34+00",
+  "conditionId": "0xc76d6981700af387391fb2dfa275a1a7dd99bdc3f74d53cb69988ffe253abfb9",
+  "slug": "cfb-north-carolina-vs-minnesota",
+  "question": "CFB: North Carolina vs. Minnesota"
+}

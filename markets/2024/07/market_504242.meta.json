@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:46:58.094472Z",
+  "market_createdAt": "2024-07-26T23:46:58.094472Z",
+  "market_updatedAt": "2024-07-30T13:57:00.849059Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-07-29 18:19:29+00",
+  "conditionId": "0x9f9cbbc14969dc10912956fc04f187b15883fc1ebd675ce2fd66f92bfcb30f12",
+  "slug": "will-rafael-nadal-esp-win-gold-in-mens-tennis",
+  "question": "Will Rafael Nadal (ESP) win Gold in Men's Tennis?"
+}

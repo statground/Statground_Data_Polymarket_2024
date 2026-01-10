@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:44:01.373002Z",
+  "market_createdAt": "2024-10-18T16:44:01.373002Z",
+  "market_updatedAt": "2024-10-20T19:50:54.294413Z",
+  "market_startDate": "2024-10-18T23:29:48.746928Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:41:42+00",
+  "conditionId": "0x9d1b871874749e48f0dce73dc3ef054703a40a90ff3dd0319c6bc539b7741f53",
+  "slug": "will-missouri-beat-auburn-by-5-or-more-points",
+  "question": "Will Missouri beat Auburn by 5 or more points?"
+}

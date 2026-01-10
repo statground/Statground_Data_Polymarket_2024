@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:28:35.332787Z",
+  "market_createdAt": "2024-10-28T21:28:35.332787Z",
+  "market_updatedAt": "2024-11-03T04:57:04.12313Z",
+  "market_startDate": "2024-10-29T00:05:01.08111Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:40:09+00",
+  "conditionId": "0xa0064fe8005732799e546296ba43679cf0eb40e6da963472aa9a977acb67f9b8",
+  "slug": "will-trump-say-mcdonalds-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"McDonald's\" during Wisconsin rally on Nov 1?"
+}

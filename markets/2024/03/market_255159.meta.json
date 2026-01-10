@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:01:32.017000Z",
+  "market_createdAt": "2024-03-01T19:01:32.017Z",
+  "market_updatedAt": "2024-11-07T11:08:59.405134Z",
+  "market_startDate": "2024-03-28T20:47:24.067Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 13:26:35+00",
+  "conditionId": "0x57744fbda9f7908434164fb7486ce25b28d94ebe281f72e7f129703c086d72bb",
+  "slug": "will-a-candidate-from-another-party-win-missouri-presidential-election",
+  "question": "Will a candidate from another party win Missouri Presidential Election?"
+}

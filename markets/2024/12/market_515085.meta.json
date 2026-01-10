@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:06:26.001653Z",
+  "market_createdAt": "2024-12-08T07:06:26.001653Z",
+  "market_updatedAt": "2024-12-16T04:41:32.661087Z",
+  "market_startDate": "2024-12-08T07:09:46.573992Z",
+  "market_endDate": "2024-12-22T01:00:00Z",
+  "market_closedTime": "2024-12-15 06:04:23+00",
+  "conditionId": "0xaa1e858047ebd12884d3d622b316c28a09ec8b38a6ffc835218f7fbca4ee8d2a",
+  "slug": "nhl-stl-dal-2024-12-14",
+  "question": "Blues vs. Stars"
+}

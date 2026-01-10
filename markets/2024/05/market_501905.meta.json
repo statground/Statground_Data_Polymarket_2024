@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T23:08:51.632639Z",
+  "market_createdAt": "2024-05-29T23:08:51.632639Z",
+  "market_updatedAt": "2024-06-02T04:16:12.363646Z",
+  "market_startDate": "2024-05-29T23:09:15.082Z",
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:10:09+00",
+  "conditionId": "0x4ec301b18a9fa44e8a3876b82c6161fbea04ec253a0177fdb24136b662d51f7a",
+  "slug": "will-paris-hilton-launch-a-memecoin-tomorrow",
+  "question": "Will Paris Hilton launch a memecoin by Friday?"
+}

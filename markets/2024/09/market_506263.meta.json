@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:59:11.098073Z",
+  "market_createdAt": "2024-09-03T04:59:11.098073Z",
+  "market_updatedAt": "2024-09-04T19:03:08.629609Z",
+  "market_startDate": "2024-09-03T05:45:50.606Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 19:02:11+00",
+  "conditionId": "0x343d1c9365f54528456469baa237f53f930221d212cde0efece4be88125adfac",
+  "slug": "will-lex-podcast-with-trump-be-over-90-minutes",
+  "question": "Will Lex podcast with Trump be over 90 minutes?"
+}

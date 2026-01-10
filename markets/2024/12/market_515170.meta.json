@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:23:49.381151Z",
+  "market_createdAt": "2024-12-09T20:23:49.381151Z",
+  "market_updatedAt": "2024-12-12T10:41:08.654341Z",
+  "market_startDate": "2024-12-09T21:01:59.26Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:38:49+00",
+  "conditionId": "0x6779b1fb5b9b8c0e2097b09146c61ba2f8d5ab94b2239ff073ef10707f239ea8",
+  "slug": "will-brian-or-thompson-be-in-the-manifesto",
+  "question": "Will \"Brian\" or \"Thompson\" be in the manifesto?"
+}

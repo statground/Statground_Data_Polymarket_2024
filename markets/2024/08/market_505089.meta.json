@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T00:26:12.928054Z",
+  "market_createdAt": "2024-08-14T00:26:12.928054Z",
+  "market_updatedAt": "2024-11-09T01:59:02.5908Z",
+  "market_startDate": "2024-08-14T00:26:12.928054Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 03:51:32+00",
+  "conditionId": "0x8c95ca3589c4f14415610a1c643056af7911687e1c22827dd920d65c5de1532a",
+  "slug": "ny-04-election-jones-d-vs-desposito-r",
+  "question": "NY-04 election: Gillen (D) vs. D'Esposito (R)"
+}

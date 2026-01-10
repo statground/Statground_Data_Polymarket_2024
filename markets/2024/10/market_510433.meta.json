@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:18:26.350103Z",
+  "market_createdAt": "2024-10-21T22:18:26.350103Z",
+  "market_updatedAt": "2024-10-24T21:21:16.946432Z",
+  "market_startDate": "2024-10-22T00:57:20.502392Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:14:39+00",
+  "conditionId": "0x87d5903041ee76476a9e50e076d826175965a97d2b9c8fdd900d903094bc21bc",
+  "slug": "will-manchester-city-beat-sparta-praha",
+  "question": "Will Manchester City beat Sparta Praha?"
+}

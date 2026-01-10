@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:08:05.889559Z",
+  "market_createdAt": "2024-12-10T19:08:05.889559Z",
+  "market_updatedAt": "2025-01-24T16:14:42.495891Z",
+  "market_startDate": "2024-12-11T19:06:45.403Z",
+  "market_endDate": "2025-01-23T12:00:00Z",
+  "market_closedTime": "2025-01-23 16:32:06+00",
+  "conditionId": "0x8b983af0d3bb4339f809efb01439cf825331c02522c2c70c1b53f13ea4a5432d",
+  "slug": "will-nickel-boys-be-nominated-for-oscar-for-best-picture",
+  "question": "Will 'Nickel Boys' be nominated for Oscar for Best Picture?"
+}

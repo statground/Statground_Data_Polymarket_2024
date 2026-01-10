@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:29:16.634312Z",
+  "market_createdAt": "2024-12-25T06:29:16.634312Z",
+  "market_updatedAt": "2024-12-27T17:47:11.55128Z",
+  "market_startDate": "2024-12-25T06:31:46.890004Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:31:28+00",
+  "conditionId": "0x268c0c748f9dddf54503abb6529e38917ad17857e519559ba2e2eb3df511af57",
+  "slug": "epl-sou-wes-2024-12-26-draw",
+  "question": "Will Southampton vs. West Ham end in a draw?"
+}

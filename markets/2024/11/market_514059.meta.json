@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:30:07.625889Z",
+  "market_createdAt": "2024-11-26T07:30:07.625889Z",
+  "market_updatedAt": "2024-11-28T19:51:44.494982Z",
+  "market_startDate": "2024-11-26T22:21:22.707608Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-27 22:54:43+00",
+  "conditionId": "0xab692a1e8cadd6adfbfe6bbae413831fd892ad88c3a61a8f99cd640142a4bc9f",
+  "slug": "will-the-match-between-red-star-belgrade-and-stuttgart-end-in-a-draw",
+  "question": "Will the match between Red Star Belgrade and Stuttgart end in a draw?"
+}

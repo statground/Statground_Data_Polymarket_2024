@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-26T17:18:26.418754Z",
+  "market_createdAt": "2024-04-26T17:18:26.418754Z",
+  "market_updatedAt": "2024-05-07T23:09:32.964673Z",
+  "market_startDate": "2024-04-26T17:43:00.127Z",
+  "market_endDate": "2024-04-27T12:00:00Z",
+  "market_closedTime": "2024-04-28 02:19:10+00",
+  "conditionId": "0x44696ae25a197497ae0616ab8fc75875b8d2a670060f884eb97cec89c39e2a9b",
+  "slug": "nba-mia-bos-2024-04-27",
+  "question": "NBA: Miami Heat vs. Boston Celtics 2024-04-27"
+}

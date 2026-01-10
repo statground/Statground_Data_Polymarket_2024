@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:12:48.972003Z",
+  "market_createdAt": "2024-09-13T20:12:48.972003Z",
+  "market_updatedAt": "2024-09-18T02:32:43.242421Z",
+  "market_startDate": "2024-09-13T20:56:53.194Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:29:33+00",
+  "conditionId": "0x4d3ff5c408bb638baabf5ace028a649b522394b0a6278630485ddb062aa619d9",
+  "slug": "will-trump-say-barron-during-the-x-space",
+  "question": "Will Trump say \"Barron\" during the X space?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T23:02:19.141129Z",
+  "market_createdAt": "2024-03-28T23:02:19.141129Z",
+  "market_updatedAt": "2024-11-07T21:23:07.047589Z",
+  "market_startDate": "2024-04-10T19:29:40.819Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:03:54+00",
+  "conditionId": "0x636298a285ed01f5dcb08042e6356de9003e36292b66feb341a24d2e18361fc9",
+  "slug": "congressional-district-1st-maine-will-a-candidate-from-another-party-win",
+  "question": "Will a candidate from another party win Maine's 1st congressional district?"
+}

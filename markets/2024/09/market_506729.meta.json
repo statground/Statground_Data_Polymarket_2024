@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:26:26.263206Z",
+  "market_createdAt": "2024-09-09T19:26:26.263206Z",
+  "market_updatedAt": "2025-04-28T16:20:28.916176Z",
+  "market_startDate": "2024-09-09T20:28:43.533604Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-27 21:43:18+00",
+  "conditionId": "0x320045be25e331375755d9126cbe20a319ace7c7d9258227e3ccdc9267d786a0",
+  "slug": "arsenal-wins-the-premier-league",
+  "question": "Arsenal wins the Premier League?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:45:29.015104Z",
+  "market_createdAt": "2024-11-08T23:45:29.015104Z",
+  "market_updatedAt": "2024-11-11T17:22:55.048883Z",
+  "market_startDate": "2024-11-09T02:56:44.848014Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:16:45+00",
+  "conditionId": "0x73fa5f96a8213d96f07e0ae9251cee6e71723094d5212b22efce17d239f3e5b0",
+  "slug": "will-the-bills-and-colts-combine-for-47-or-more-points",
+  "question": "Will the Bills and Colts combine for 47 or more points?"
+}

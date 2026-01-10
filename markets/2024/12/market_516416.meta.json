@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:31:00.161845Z",
+  "market_createdAt": "2024-12-25T06:31:00.161845Z",
+  "market_updatedAt": "2024-12-28T01:03:12.0993Z",
+  "market_startDate": "2024-12-25T06:33:32.744205Z",
+  "market_endDate": "2024-12-26T20:00:00Z",
+  "market_closedTime": "2024-12-27 01:18:26+00",
+  "conditionId": "0x55ea4053803057924c7b2b236e6576bd54639387d344b7b714b96556470dbede",
+  "slug": "epl-liv-lei-2024-12-26-draw",
+  "question": "Will Liverpool vs. Leicester end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:03:28.307412Z",
+  "market_createdAt": "2024-07-26T19:03:28.307412Z",
+  "market_updatedAt": "2024-07-28T23:05:04.978609Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:25:41+00",
+  "conditionId": "0xe1c9527f31aa0b4c79bbbd593b4bb1662dc803c9f440203ba74c1b11857b764f",
+  "slug": "will-trump-say-maga-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"MAGA\" during his Bitcoin Conference speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:02:18.136740Z",
+  "market_createdAt": "2024-12-22T05:02:18.13674Z",
+  "market_updatedAt": "2024-12-25T05:13:26.783391Z",
+  "market_startDate": "2024-12-22T05:05:07.148523Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 05:23:39+00",
+  "conditionId": "0x1cd086b15d2b1466e8ce734999c2e94a569ea72cdb5bed9918cd47905f845990",
+  "slug": "nba-uta-cle-2024-12-23",
+  "question": "Jazz vs. Cavaliers"
+}

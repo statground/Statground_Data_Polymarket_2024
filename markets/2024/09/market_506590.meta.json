@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T21:40:27.914896Z",
+  "market_createdAt": "2024-09-06T21:40:27.914896Z",
+  "market_updatedAt": "2024-09-23T13:30:43.251833Z",
+  "market_startDate": "2024-09-06T22:33:40.423Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 23:57:03+00",
+  "conditionId": "0x6cc611fc77bde2cb2ca9eae0cbb606b2216160828bd974c5740aff1b376b1372",
+  "slug": "will-the-united-states-win-the-2024-womens-chess-olympiad",
+  "question": "Will the United States win the 2024 Women's Chess Olympiad?"
+}

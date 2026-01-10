@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:25:08.019380Z",
+  "market_createdAt": "2024-08-23T16:25:08.01938Z",
+  "market_updatedAt": "2024-08-25T00:06:57.386016Z",
+  "market_startDate": "2024-08-23T16:51:05.597Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 02:08:01+00",
+  "conditionId": "0xcfa23b963982de9fa40079dc46a79024b70dde235d0404b0f602f796e03a6250",
+  "slug": "will-trump-say-nasty-at-his-arizona-speech",
+  "question": "Will Trump say \"nasty\" at his Arizona speech?"
+}

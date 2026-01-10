@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511843",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:07:17.002443Z",
+  "market_createdAt": "2024-11-02T22:07:17.002443Z",
+  "market_updatedAt": "2024-11-05T03:01:17.462155Z",
+  "market_startDate": "2024-11-02T23:25:18.732Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:10:51+00",
+  "conditionId": "0x13688cfa8c158b3555388dd406ad5f3c0f928dae61f6be1c80ef101d8817e1d5",
+  "slug": "will-trump-say-biden-10-or-more-times-during-macon-ga-rally",
+  "question": "Will Trump say \"Biden\" 10 or more times during Macon, GA rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:48:46.530549Z",
+  "market_createdAt": "2024-12-06T22:48:46.530549Z",
+  "market_updatedAt": "2024-12-10T03:31:26.333685Z",
+  "market_startDate": "2024-12-06T23:30:30.899629Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 06:29:59+00",
+  "conditionId": "0x10fc7a1199109c62df59687d699b0e8d687ec41dfece70c038658e235a435a4b",
+  "slug": "will-the-chiefs-beat-the-chargers-by-4-or-more-points",
+  "question": "Will the Chiefs beat the Chargers by 4 or more points?"
+}

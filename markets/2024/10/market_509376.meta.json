@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509376",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:01:40.931973Z",
+  "market_createdAt": "2024-10-09T18:01:40.931973Z",
+  "market_updatedAt": "2025-04-14T04:58:08.659588Z",
+  "market_startDate": "2024-10-10T20:30:30.809Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:55:16+00",
+  "conditionId": "0x3b13e3e4c81a1a87e926906ba47bca3be6705bd2e11c71e53fc4146deff174b3",
+  "slug": "will-another-player-lead-the-nba-in-scoring",
+  "question": "Will another player lead the NBA in scoring?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:35:06.642684Z",
+  "market_createdAt": "2024-12-09T22:35:06.642684Z",
+  "market_updatedAt": "2024-12-13T00:29:09.779703Z",
+  "market_startDate": "2024-12-10T21:57:05.449023Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:27:56+00",
+  "conditionId": "0xa14ee393ae269a456068c7dc8490b9b19509708f74de9ca20c988cc38049dda5",
+  "slug": "will-the-match-between-benfica-and-bologna-end-in-a-draw",
+  "question": "Will the match between Benfica and Bologna end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:27:49.336164Z",
+  "market_createdAt": "2024-10-11T15:27:49.336164Z",
+  "market_updatedAt": "2024-10-14T04:26:45.442094Z",
+  "market_startDate": "2024-10-11T19:00:24.862998Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 05:06:51+00",
+  "conditionId": "0x65363054a7893bead234353a2c5536460a8c4b371f29061962ad401ee7647b71",
+  "slug": "will-notre-dame-beat-stanford",
+  "question": "Will Notre Dame beat Stanford?"
+}

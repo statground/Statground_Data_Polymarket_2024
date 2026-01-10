@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:19:40.179583Z",
+  "market_createdAt": "2024-10-02T20:19:40.179583Z",
+  "market_updatedAt": "2024-10-12T21:26:54.605463Z",
+  "market_startDate": "2024-10-02T21:46:22.532477Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-12 00:42:19+00",
+  "conditionId": "0xde07f282530b36901e79cb045cc947bb38a9dea7fc462f4b9475873cd79f1941",
+  "slug": "will-team-vitality-win-iem-rio-2024",
+  "question": "Will Team Vitality win IEM Rio 2024?"
+}

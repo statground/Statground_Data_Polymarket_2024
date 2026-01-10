@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T15:01:11.154144Z",
+  "market_createdAt": "2024-09-30T15:01:11.154144Z",
+  "market_updatedAt": "2024-10-02T04:06:51.765418Z",
+  "market_startDate": "2024-09-30T15:30:01.359918Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 05:31:40+00",
+  "conditionId": "0xfe95cd6faa5c4799df4d1badad2b9352434811a70344e2ee1bdd67f1fb482f47",
+  "slug": "will-lions-win-by-5-or-more-points-DET-SEA",
+  "question": " Lions vs. Seahawks - Will Lions win by 5 or more points?"
+}

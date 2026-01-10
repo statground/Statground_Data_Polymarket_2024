@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:04:47.913132Z",
+  "market_createdAt": "2024-07-09T15:04:47.913132Z",
+  "market_updatedAt": "2024-12-24T01:55:47.948805Z",
+  "market_startDate": "2024-07-09T15:04:47.913132Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-23 01:50:13+00",
+  "conditionId": "0x381b7b45c22f94e13fac89bf754bf3611414d5f2e739eab374072125e1a716ee",
+  "slug": "will-the-cowboys-win-super-bowl-2025",
+  "question": "Will the Cowboys win Super Bowl 2025?"
+}

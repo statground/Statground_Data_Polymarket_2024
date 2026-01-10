@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:47:17.700081Z",
+  "market_createdAt": "2024-10-18T20:47:17.700081Z",
+  "market_updatedAt": "2024-10-22T00:31:27.004899Z",
+  "market_startDate": "2024-10-18T23:17:17.834445Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:45:20+00",
+  "conditionId": "0x795c371b42686bca1b8904fff28e410bf16d0a7d2f266f61a8bc6ab8e618a5f4",
+  "slug": "will-trump-say-get-out-and-vote-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Get out and vote\" during Pennsylvania town hall on October 20?"
+}

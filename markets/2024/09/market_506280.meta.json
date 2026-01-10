@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:18:19.792348Z",
+  "market_createdAt": "2024-09-03T17:18:19.792348Z",
+  "market_updatedAt": "2024-09-12T03:53:02.38016Z",
+  "market_startDate": "2024-09-03T21:59:41.755Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:43:52+00",
+  "conditionId": "0x98093293654d442fbcc5e40017ca243e1d67c9f2847d700d9eb01ba70ed43d58",
+  "slug": "will-kamala-say-inflation-at-debate",
+  "question": "Will Kamala say \"inflation\" at debate?"
+}

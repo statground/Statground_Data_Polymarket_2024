@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T15:17:17.243126Z",
+  "market_createdAt": "2024-12-02T15:17:17.243126Z",
+  "market_updatedAt": "2025-01-21T14:51:04.814597Z",
+  "market_startDate": "2024-12-02T15:26:46.979Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 14:49:21+00",
+  "conditionId": "0xcb1745eeb2d414a6865e6dd69b9d648e6596c67ff92c778c1eed6b0b43d27055",
+  "slug": "will-biden-pardon-anthony-fauci",
+  "question": "Will Biden pardon Fauci?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:21:04.291279Z",
+  "market_createdAt": "2024-11-05T22:21:04.291279Z",
+  "market_updatedAt": "2024-11-09T01:03:02.244959Z",
+  "market_startDate": "2024-11-05T22:50:02.099247Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:54:41+00",
+  "conditionId": "0x23828a0af34d00f51d4ec29e984cc8426eade2723656c07f6ca190a049b5cec2",
+  "slug": "will-kamala-harris-concede-by-friday",
+  "question": "Will Kamala Harris concede by Friday?"
+}

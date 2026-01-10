@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:47:40.720115Z",
+  "market_createdAt": "2024-07-25T18:47:40.720115Z",
+  "market_updatedAt": "2024-08-12T15:32:49.156523Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:54:38+00",
+  "conditionId": "0x4218169ce79c643ef4b131b828bc8b9f882939b7966b3f36fa1865dcabff876f",
+  "slug": "will-australia-win-the-3rd-most-gold-medals",
+  "question": "Will Australia win the 3rd most gold medals?"
+}

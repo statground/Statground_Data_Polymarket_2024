@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T16:55:26.306332Z",
+  "market_createdAt": "2024-07-01T16:55:26.306332Z",
+  "market_updatedAt": "2024-09-02T04:13:02.129551Z",
+  "market_startDate": "2024-07-01T16:55:26.306332Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:09:26+00",
+  "conditionId": "0xac6fc7aed296069ab29118ed687e2e3ff1c347d5dd2aa220ff082b8a06ed669f",
+  "slug": "us-bank-failure-before-september",
+  "question": "US bank failure before September?"
+}

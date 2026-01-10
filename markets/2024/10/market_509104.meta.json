@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:21:42.055128Z",
+  "market_createdAt": "2024-10-07T19:21:42.055128Z",
+  "market_updatedAt": "2025-05-23T23:01:21.720427Z",
+  "market_startDate": "2024-10-08T14:50:33.224912Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-02 06:12:20+00",
+  "conditionId": "0x789b808459ae07b1fb86866ac43c88379d570cad8e622d75e50208db28390c8c",
+  "slug": "will-the-ottawa-senators-win-the-2025-stanley-cup",
+  "question": "Will the Ottawa Senators win the 2025 Stanley Cup?"
+}

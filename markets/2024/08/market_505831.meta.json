@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:06:07.590117Z",
+  "market_createdAt": "2024-08-26T20:06:07.590117Z",
+  "market_updatedAt": "2024-09-01T21:17:05.434229Z",
+  "market_startDate": "2024-08-26T20:06:07.590117Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 21:33:19+00",
+  "conditionId": "0xcc83fcd841ad88792f3b3d8615479bbff9a86b0504f660b730791d55ae9e5a70",
+  "slug": "will-manchester-city-beat-west-ham",
+  "question": "Will Manchester City beat West Ham?"
+}

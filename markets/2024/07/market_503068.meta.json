@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T19:19:22.444089Z",
+  "market_createdAt": "2024-07-01T19:19:22.444089Z",
+  "market_updatedAt": "2024-07-06T18:00:48.879627Z",
+  "market_startDate": "2024-07-01T21:20:04.417Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:58:00+00",
+  "conditionId": "0x9489b650a3c08bd5ea7cd27afae60aa70905b1aecedd15912c02900b508edb49",
+  "slug": "will-conservative-party-win-between-75-and-99-seats-in-the-next-uk-election",
+  "question": "Will Conservative Party win between 75 and 99 seats in the next UK Election?"
+}

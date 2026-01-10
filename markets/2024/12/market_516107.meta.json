@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T00:25:37.381802Z",
+  "market_createdAt": "2024-12-20T00:25:37.381802Z",
+  "market_updatedAt": "2025-04-30T08:15:27.575254Z",
+  "market_startDate": "2024-12-20T00:36:38.685397Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:12:45+00",
+  "conditionId": "0x98f820e57189ab9d6d45e3bea0a2578f7c82809bb47773083be09bbbe6e674f2",
+  "slug": "chip-roy-announce-he-wont-seek-reelection-by-trumps-first-100-days",
+  "question": "Will Chip Roy announce he won't seek reelection?"
+}

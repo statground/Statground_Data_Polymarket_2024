@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:08:39.178090Z",
+  "market_createdAt": "2024-12-06T22:08:39.17809Z",
+  "market_updatedAt": "2025-05-06T16:20:35.038927Z",
+  "market_startDate": "2024-12-06T23:00:01.202295Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-05-05 13:18:56+00",
+  "conditionId": "0xb8f3dd3f2ba1760aee0ffa9019ca5753e77fa48cbccde9c510997a9e7f12fc24",
+  "slug": "will-george-simion-advance-to-the-romanian-presidential-election-runoff",
+  "question": "Will George Simion advance to the Romanian Presidential Election Runoff?"
+}

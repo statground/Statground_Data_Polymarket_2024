@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:12:34.768260Z",
+  "market_createdAt": "2024-12-10T22:12:34.76826Z",
+  "market_updatedAt": "2024-12-13T22:29:19.628692Z",
+  "market_startDate": "2024-12-11T23:04:23.8315Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:14:17+00",
+  "conditionId": "0x91374ac2e628aba6e63bd124cf2ed44b0279b256f07a6697f1fea28017c6c8ad",
+  "slug": "will-fc-midtjylland-beat-fc-porto",
+  "question": "Will FC Midtjylland beat FC Porto?"
+}

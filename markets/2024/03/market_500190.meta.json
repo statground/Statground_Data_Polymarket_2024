@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-15T17:03:02.287047Z",
+  "market_createdAt": "2024-03-15T17:03:02.287047Z",
+  "market_updatedAt": "2024-04-01T04:38:57.718672Z",
+  "market_startDate": "2024-03-15T22:36:30.224Z",
+  "market_endDate": "2024-12-30T23:00:00Z",
+  "market_closedTime": "2024-04-01 04:35:10+00",
+  "conditionId": "0x460f2853128f12cb9f7867e41d34f448b2edc452473a375a36c64f47f776ee2c",
+  "slug": "archsbf-sentenced-to-more-than-50-years",
+  "question": "archSBF sentenced to more than 50 years?"
+}

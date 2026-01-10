@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T16:25:55.913400Z",
+  "market_createdAt": "2024-04-29T16:25:55.9134Z",
+  "market_updatedAt": "2024-05-17T05:54:05.484148Z",
+  "market_startDate": "2024-04-29T16:37:33.658Z",
+  "market_endDate": "2024-05-15T12:00:00Z",
+  "market_closedTime": "2024-05-16 06:05:09+00",
+  "conditionId": "0x3a9ec4b94c8284b98ae6ff53862299435ee060f91378d113c492649578d82272",
+  "slug": "icc-arrest-warrants-for-israeli-leaders-by-may-15",
+  "question": "ICC arrest warrants for Israeli leaders by May 15?"
+}

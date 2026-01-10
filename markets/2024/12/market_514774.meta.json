@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:13:23.324108Z",
+  "market_createdAt": "2024-12-04T21:13:23.324108Z",
+  "market_updatedAt": "2024-12-08T21:37:30.667321Z",
+  "market_startDate": "2024-12-04T21:16:49.541226Z",
+  "market_endDate": "2024-12-14T18:00:00Z",
+  "market_closedTime": "2024-12-07 22:53:35+00",
+  "conditionId": "0x23eef07a14945ba7a440374164fdea826c9841311f0502d01826c5ee12366873",
+  "slug": "nhl-utah-buf-2024-12-07",
+  "question": "Utah vs. Sabres"
+}

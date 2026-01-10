@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:37:43.780103Z",
+  "market_createdAt": "2024-08-21T14:37:43.780103Z",
+  "market_updatedAt": "2024-08-23T03:21:06.953999Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:21:26+00",
+  "conditionId": "0x7b82d9683f4f68180c6a4510079b650406a526a11c582bd2ff845ddedc66fefc",
+  "slug": "will-pelosi-say-antisemitism-at-dnc-speech",
+  "question": "Will Pelosi say \"Antisemitism\" at DNC speech?"
+}

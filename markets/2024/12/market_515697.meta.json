@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:02:26.365350Z",
+  "market_createdAt": "2024-12-15T07:02:26.36535Z",
+  "market_updatedAt": "2024-12-19T05:47:26.659623Z",
+  "market_startDate": "2024-12-15T07:05:19.221654Z",
+  "market_endDate": "2024-12-25T01:30:00Z",
+  "market_closedTime": "2024-12-18 06:12:34+00",
+  "conditionId": "0xfaa1318a4331023d1ebe1b5846d77e500595d77853f6692cada85dd34a6cafa8",
+  "slug": "nhl-wsh-chi-2024-12-17",
+  "question": "Capitals vs. Blackhawks"
+}

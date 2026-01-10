@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:28:28.824797Z",
+  "market_createdAt": "2024-10-15T20:28:28.824797Z",
+  "market_updatedAt": "2024-10-22T03:57:09.444753Z",
+  "market_startDate": "2024-10-16T17:14:16.975594Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:08:27+00",
+  "conditionId": "0x58cf52794fcbc20d542b7f9073f8c7e49069a15c7c4ad44108368017e741edac",
+  "slug": "will-charles-leclerc-win-the-united-states-grand-prix",
+  "question": "Will Charles Leclerc win the United States Grand Prix?"
+}

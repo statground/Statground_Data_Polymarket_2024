@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:27:59.296923Z",
+  "market_createdAt": "2024-12-10T22:27:59.296923Z",
+  "market_updatedAt": "2024-12-13T23:13:17.602252Z",
+  "market_startDate": "2024-12-11T23:10:48.739449Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:18:53+00",
+  "conditionId": "0x743056a33797fcfb208b8b073bf0f45006436ee8623d94f39e28974d0accdbb0",
+  "slug": "will-the-match-between-rangers-and-tottenham-end-in-a-draw",
+  "question": "Will the match between Rangers and Tottenham end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-29T18:49:27.523000Z",
+  "market_createdAt": "2024-01-29T18:49:27.523Z",
+  "market_updatedAt": "2024-03-02T07:22:18Z",
+  "market_startDate": "2024-01-29T20:36:46.281Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:20:04+00",
+  "conditionId": "0xb639b19ddad1ce837be2c5db544cb97681c3f898ed1a770d42d404565e4e9d68",
+  "slug": "usiran-declare-war-before-march",
+  "question": "US/Iran declare war before March?"
+}

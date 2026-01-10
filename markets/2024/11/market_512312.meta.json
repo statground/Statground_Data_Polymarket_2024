@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:42:38.130400Z",
+  "market_createdAt": "2024-11-07T20:42:38.1304Z",
+  "market_updatedAt": "2025-05-01T00:23:19.555619Z",
+  "market_startDate": "2024-11-07T20:55:44.487052Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 07:53:39+00",
+  "conditionId": "0x2c06a455f698555bf1dcea7e44e4bd6cd8a23c62394e35a55c864009d834adc8",
+  "slug": "will-trump-remove-jerome-powell-in-first-100-days",
+  "question": "Will Trump remove Jerome Powell in first 100 days?"
+}

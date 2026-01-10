@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-15T16:43:09.549672Z",
+  "market_createdAt": "2024-03-15T16:43:09.549672Z",
+  "market_updatedAt": "2024-10-14T18:56:51.372197Z",
+  "market_startDate": "2024-03-20T22:17:37.083Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2024-10-13 20:29:10+00",
+  "conditionId": "0x8ba020facbdb28e70792e5de86005dd98d47f29824ca602c4027b00e0e9a7e5a",
+  "slug": "will-two-spacex-starship-launches-successfully-reach-outer-space-in-2024",
+  "question": "Will two SpaceX Starship launches successfully reach outer space in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:03:21.905355Z",
+  "market_createdAt": "2024-11-15T19:03:21.905355Z",
+  "market_updatedAt": "2024-11-17T22:05:14.749743Z",
+  "market_startDate": "2024-11-15T22:08:25.085383Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:14:42+00",
+  "conditionId": "0x0903a1bbcbbaf03ca4500ab2cdab54701ce9fb7494316aa557f515f37ad50f08",
+  "slug": "will-texas-beat-arkansas-by-13-or-more-points",
+  "question": "Will Texas beat Arkansas by 13 or more points?"
+}

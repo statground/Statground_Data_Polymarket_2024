@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T14:45:01.670830Z",
+  "market_createdAt": "2024-07-23T14:45:01.67083Z",
+  "market_updatedAt": "2024-07-25T05:48:38.985269Z",
+  "market_startDate": "2024-07-23T16:14:07.945Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-24 06:02:34+00",
+  "conditionId": "0xa224beb92bf04f7563812c8f9aea74c14152d0dea2e0e21eff55cc8000bc88dc",
+  "slug": "1000-delta-flight-canceleations-today",
+  "question": "1,000+ Delta flight cancelations today?"
+}

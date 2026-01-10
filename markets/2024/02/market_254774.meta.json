@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T00:11:23.909000Z",
+  "market_createdAt": "2024-02-27T00:11:23.909Z",
+  "market_updatedAt": "2024-03-06T18:14:16.697Z",
+  "market_startDate": "2024-02-27T18:28:00Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-03-05 19:02:37+00",
+  "conditionId": "0x6191de87c292a4aa3c7c4aa8225d1c796bd222503ff315d1554108f51bba7218",
+  "slug": "no-btc-all-time-high-in-2024",
+  "question": "No BTC all time high in 2024?"
+}

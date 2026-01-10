@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T18:52:23.519760Z",
+  "market_createdAt": "2024-06-27T18:52:23.51976Z",
+  "market_updatedAt": "2024-06-29T07:26:03.116916Z",
+  "market_startDate": "2024-06-27T18:59:52.595Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:28:23+00",
+  "conditionId": "0x1b30149a8e1ecdebb077ab08638957b4fe77f52c206f970ad2ecf16eaff8251c",
+  "slug": "will-biden-say-zyn-during-the-debate",
+  "question": "Will Biden say \"Zyn\" during the debate?"
+}

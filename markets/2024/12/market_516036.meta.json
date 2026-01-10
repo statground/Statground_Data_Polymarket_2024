@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T16:04:01.644427Z",
+  "market_createdAt": "2024-12-19T16:04:01.644427Z",
+  "market_updatedAt": "2025-01-30T22:31:08.3934Z",
+  "market_startDate": "2024-12-19T19:54:32.033Z",
+  "market_endDate": "2025-01-29T12:00:00Z",
+  "market_closedTime": "2025-01-29 23:39:06+00",
+  "conditionId": "0x11a4baf2a368331f5c30e2528ff9efe911946d901e9589f653ddbab6b9f29aba",
+  "slug": "will-powell-say-growth-8-or-more-times-during-january-press-conference",
+  "question": "Will Powell say \"growth\" 8 or more times during January press conference?"
+}

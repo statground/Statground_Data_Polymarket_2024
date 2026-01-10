@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:01:04.905542Z",
+  "market_createdAt": "2024-09-13T20:01:04.905542Z",
+  "market_updatedAt": "2024-09-16T16:36:46.927966Z",
+  "market_startDate": "2024-09-13T20:53:06.106Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:13:51+00",
+  "conditionId": "0x11b9d317513b11d1ce1c64227ba99c64c2a57937b50406ee3c252b38ec52f118",
+  "slug": "will-the-colts-beat-the-packers-by-3-or-more-points",
+  "question": "Will the Colts beat the Packers by 3 or more points?"
+}

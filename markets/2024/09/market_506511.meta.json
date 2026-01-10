@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:43:52.093092Z",
+  "market_createdAt": "2024-09-06T15:43:52.093092Z",
+  "market_updatedAt": "2024-10-05T12:46:38.578176Z",
+  "market_startDate": "2024-09-06T19:05:46.040692Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-04 16:01:16+00",
+  "conditionId": "0xb49048083ea92ebf7a9a798f553ccde94ca107acd996dc5dfabc6cc9921055e9",
+  "slug": "us-adds-between-200k-and-250k-jobs-in-september",
+  "question": "US adds between 200k and 250k jobs in September?"
+}

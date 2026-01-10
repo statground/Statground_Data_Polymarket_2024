@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:10:56.875374Z",
+  "market_createdAt": "2024-07-31T15:10:56.875374Z",
+  "market_updatedAt": "2024-08-04T21:36:57.072205Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:47:22+00",
+  "conditionId": "0x2151bf2f63994f79b0a6043ebc8a3be63e4c149178be5a3383e4922ba595c93a",
+  "slug": "ufc-fight-night-marlon-vera-vs-deiveson-figueiredo",
+  "question": "UFC Fight Night: Marlon Vera vs. Deiveson Figueiredo"
+}

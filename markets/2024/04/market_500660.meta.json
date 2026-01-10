@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T14:58:47.347338Z",
+  "market_createdAt": "2024-04-04T14:58:47.347338Z",
+  "market_updatedAt": "2024-11-07T21:23:05.227752Z",
+  "market_startDate": "2024-04-12T20:09:55.622Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:21:50+00",
+  "conditionId": "0x2bd564bdef719d33ddc1c564c80bf0b6da83632e902150e587964a91c1152ec9",
+  "slug": "will-a-republican-win-california-us-senate-election",
+  "question": "Will a Republican win California US Senate Election?"
+}

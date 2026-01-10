@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507526",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:39:40.381389Z",
+  "market_createdAt": "2024-09-19T20:39:40.381389Z",
+  "market_updatedAt": "2024-12-15T16:19:41.820158Z",
+  "market_startDate": "2024-09-19T21:34:27.779416Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:31:45+00",
+  "conditionId": "0x04f5b8254cfbe9212650c7821e63b014f7a6b410d5dbe696d3d59c5d804d68d3",
+  "slug": "will-tetairoa-mcmillan-win-the-heisman-trophy",
+  "question": "Will Tetairoa McMillan win the Heisman Trophy?"
+}

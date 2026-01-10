@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:20:55.139558Z",
+  "market_createdAt": "2024-10-07T22:20:55.139558Z",
+  "market_updatedAt": "2024-10-14T21:26:55.7412Z",
+  "market_startDate": "2024-10-07T22:23:04.549065Z",
+  "market_endDate": "2024-10-13T17:00:00Z",
+  "market_closedTime": "2024-10-13 22:23:45+00",
+  "conditionId": "0x0e9810da2384deb579bd0ceaa58c2bca386bb1ead6c316efed25783c888217c6",
+  "slug": "nfl-ind-ten-2024-10-13",
+  "question": "Colts vs. Titans"
+}

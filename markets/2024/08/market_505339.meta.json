@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:58:04.037364Z",
+  "market_createdAt": "2024-08-19T16:58:04.037364Z",
+  "market_updatedAt": "2024-09-03T17:23:11.341498Z",
+  "market_startDate": "2024-08-19T16:58:04.037364Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-02 19:36:00+00",
+  "conditionId": "0xcc3b6af131ddd9b90d4683e062258ab9a1bea3ac40d2b20197adeac5430a111b",
+  "slug": "will-jasmine-paolini-win-the-us-open",
+  "question": "Will Jasmine Paolini win the US Open?"
+}

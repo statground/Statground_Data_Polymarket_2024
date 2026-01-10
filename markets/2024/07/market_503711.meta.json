@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:33:32.716908Z",
+  "market_createdAt": "2024-07-18T17:33:32.716908Z",
+  "market_updatedAt": "2024-08-09T19:41:03.592889Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-08 21:53:08+00",
+  "conditionId": "0x5dec0de9edc3e3f6aa1552d09a4713bd94ae70f528f70d9dc69ea78498543512",
+  "slug": "will-erriyon-knighton-usa-win-gold-in-200m",
+  "question": "Will Erriyon Knighton (USA) win Gold in 200m?"
+}

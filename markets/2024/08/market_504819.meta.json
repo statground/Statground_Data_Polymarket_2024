@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T16:01:04.856065Z",
+  "market_createdAt": "2024-08-09T16:01:04.856065Z",
+  "market_updatedAt": "2024-08-15T17:26:56.306032Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-14 17:20:53+00",
+  "conditionId": "0x3cfaea923d2f2568c0e9333f0e592c262ac8e3db5bb4828076feb5a9e8190cef",
+  "slug": "will-elon-tweet-120-129-aug-16",
+  "question": "Will Elon tweet 120-129?"
+}

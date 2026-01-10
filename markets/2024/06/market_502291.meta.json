@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T21:16:03.984129Z",
+  "market_createdAt": "2024-06-10T21:16:03.984129Z",
+  "market_updatedAt": "2024-06-14T04:36:14.425083Z",
+  "market_startDate": "2024-06-10T21:24:47.494Z",
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-13 05:04:37+00",
+  "conditionId": "0xc74cb4cfd1d5226bce6b8e94e64bed1ca1ae9b30b2bdf742f420026bf2e74aa3",
+  "slug": "nba-dal-bos-2024-06-12",
+  "question": "NBA Finals Game 3: Mavericks vs. Celtics "
+}

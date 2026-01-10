@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:55:48.179494Z",
+  "market_createdAt": "2024-05-31T14:55:48.179494Z",
+  "market_updatedAt": "2024-06-19T02:51:11.780092Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:49:58+00",
+  "conditionId": "0x7399eda5cd68d31cb95ffb32183ab29110927a466d16155180bb2a904962b8a7",
+  "slug": "jrue-holiday-2024-nba-finals-mvp",
+  "question": "Jrue Holiday 2024 NBA Finals MVP?"
+}

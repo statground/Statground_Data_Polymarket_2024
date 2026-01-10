@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:24:50.181511Z",
+  "market_createdAt": "2024-12-17T17:24:50.181511Z",
+  "market_updatedAt": "2025-01-01T20:13:25.983939Z",
+  "market_startDate": "2024-12-17T18:15:24.268544Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:22:47+00",
+  "conditionId": "0xe9adc4dc5fe6a7c2f952918809b10c56076272ff0fd030d0b347cbfc4f2dd27e",
+  "slug": "will-claude-have-the-top-ai-model-on-december-31",
+  "question": "Will Claude have the top AI model on December 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:40:26.074493Z",
+  "market_createdAt": "2024-11-11T21:40:26.074493Z",
+  "market_updatedAt": "2024-11-13T22:33:07.284677Z",
+  "market_startDate": "2024-11-11T23:25:51.220686Z",
+  "market_endDate": "2024-11-12T12:00:00Z",
+  "market_closedTime": "2024-11-12 23:36:00+00",
+  "conditionId": "0xb5a8cc3d8ae010400a17c685b957ecd94387d3481298f8700c1901920c341a58",
+  "slug": "atp-finals-sinner-vs-fritz",
+  "question": "ATP Finals: Sinner vs. Fritz"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:22:51.190136Z",
+  "market_createdAt": "2024-07-01T21:22:51.190136Z",
+  "market_updatedAt": "2024-07-05T14:45:50.834104Z",
+  "market_startDate": "2024-07-02T14:33:01.655Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-04 19:25:16+00",
+  "conditionId": "0xfb2fcd0af7fb70ba38330c7fe228cbc19d1bcd2ee624ad2b6f75951d4be7f515",
+  "slug": "will-jessica-pegula-win-wimbledon-womens",
+  "question": "Will Jessica Pegula win Wimbledon Women's?"
+}

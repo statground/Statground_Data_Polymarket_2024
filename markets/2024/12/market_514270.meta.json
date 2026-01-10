@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:00:34.839205Z",
+  "market_createdAt": "2024-12-01T05:00:34.839205Z",
+  "market_updatedAt": "2024-12-03T03:23:17.738789Z",
+  "market_startDate": "2024-12-01T05:03:51.287637Z",
+  "market_endDate": "2024-12-08T23:00:00Z",
+  "market_closedTime": "2024-12-02 03:28:34+00",
+  "conditionId": "0x6733751d030057b5ef0cffed55371a4d7e1dbb2928fd883a00ba4e54e2f83eac",
+  "slug": "nba-nop-nyk-2024-12-01",
+  "question": "Pelicans vs. Knicks"
+}

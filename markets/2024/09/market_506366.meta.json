@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T22:46:22.426530Z",
+  "market_createdAt": "2024-09-03T22:46:22.42653Z",
+  "market_updatedAt": "2024-09-12T04:03:01.732999Z",
+  "market_startDate": "2024-09-03T22:49:21.318Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:19:14+00",
+  "conditionId": "0x8e4b42c1446e4420815f2247f5de3422d94a397aea93951e13f3899a3ce7e60d",
+  "slug": "will-kamala-say-unrealized-at-debate",
+  "question": "Will Kamala say \"unrealized\" at debate?"
+}

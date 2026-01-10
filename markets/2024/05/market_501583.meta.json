@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T15:45:22.175365Z",
+  "market_createdAt": "2024-05-14T15:45:22.175365Z",
+  "market_updatedAt": "2024-05-20T17:04:09.756829Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 10:04:33+00",
+  "conditionId": "0xe6245c7bdb873c72d8e4de2e0a6b2f768616373f69526a58ab2bb2875dd536d0",
+  "slug": "will-abel-martinez-win-the-2024-dominican-republic-presidential-election",
+  "question": "Will Abel Martinez win the 2024 Dominican Republic presidential election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:15:21.785034Z",
+  "market_createdAt": "2024-12-20T17:15:21.785034Z",
+  "market_updatedAt": "2024-12-22T07:07:35.751933Z",
+  "market_startDate": "2024-12-20T17:35:06.517Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:12:41+00",
+  "conditionId": "0x70cd8d33fcc8ed0c8735809725bfe9c57b9d4b6836d3c904fc23cbc2ba13a6e5",
+  "slug": "will-house-and-senate-pass-funding-bill-by-midnight",
+  "question": "Will House and Senate pass funding bill by midnight?"
+}

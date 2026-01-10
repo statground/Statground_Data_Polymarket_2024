@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T16:39:22.636517Z",
+  "market_createdAt": "2024-11-18T16:39:22.636517Z",
+  "market_updatedAt": "2024-11-20T00:31:10.103073Z",
+  "market_startDate": "2024-11-18T19:52:29.38318Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 06:09:56+00",
+  "conditionId": "0x991533ec6fe92fb6a1d31de2e606369d57be139da303bdac6d2c130c6e02b3e8",
+  "slug": "will-the-match-between-usa-and-jamaica-end-in-a-draw",
+  "question": "Will the match between USA and Jamaica end in a draw?"
+}

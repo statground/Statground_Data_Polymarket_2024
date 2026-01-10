@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T16:44:47.242164Z",
+  "market_createdAt": "2024-09-03T16:44:47.242164Z",
+  "market_updatedAt": "2024-11-06T08:33:09.375271Z",
+  "market_startDate": "2024-09-03T16:50:02.482Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:28:27+00",
+  "conditionId": "0x6f46c95a0344226ba5a6128970874d42242741e2542b9582e8315bc330238461",
+  "slug": "will-kamala-go-on-lex-fridman-podcast",
+  "question": "Will Kamala go on Lex Fridman podcast?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T14:36:35.928357Z",
+  "market_createdAt": "2024-09-30T14:36:35.928357Z",
+  "market_updatedAt": "2024-10-01T21:16:44.740003Z",
+  "market_startDate": "2024-09-30T14:53:26.257975Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-30 22:21:20+00",
+  "conditionId": "0x072e4b02a01a13ae069a522ede8ac681ae25d2150178863ec28bd8bfdddf919c",
+  "slug": "who-will-win-game-1-of-braves-vs-mets",
+  "question": "Who will win Game 1 of Braves vs. Mets?"
+}

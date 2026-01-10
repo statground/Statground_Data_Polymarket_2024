@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T00:18:34.381956Z",
+  "market_createdAt": "2024-08-14T00:18:34.381956Z",
+  "market_updatedAt": "2024-11-15T19:53:16.41864Z",
+  "market_startDate": "2024-08-14T00:45:40.292Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 21:56:10+00",
+  "conditionId": "0xf341c7dbc7e109a99626220f9eff9252f5b883858a9c6a8a3b49dd73c562f4d4",
+  "slug": "or-05-election-bynum-d-vs-chavez-deremer-r",
+  "question": "OR-05 election: Bynum (D) vs. Chavez-DeRemer (R)"
+}

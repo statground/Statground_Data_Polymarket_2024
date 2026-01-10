@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:39:28.227686Z",
+  "market_createdAt": "2024-11-05T21:39:28.227686Z",
+  "market_updatedAt": "2024-11-08T19:49:01.661015Z",
+  "market_startDate": "2024-11-07T03:02:11.470626Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:13+00",
+  "conditionId": "0x0edbc19547a84764f3efdd27f71a2769772ecaf22b974bc4891743b77bb9abdb",
+  "slug": "will-twente-beat-nice",
+  "question": "Will Twente beat Nice?"
+}

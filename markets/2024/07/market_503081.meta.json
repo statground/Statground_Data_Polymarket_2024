@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:41:28.764891Z",
+  "market_createdAt": "2024-07-01T20:41:28.764891Z",
+  "market_updatedAt": "2024-07-03T03:50:45.869101Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:27:24+00",
+  "conditionId": "0x773fcd556b18b8cefddfb91d6e521ff32dcacf5bfa2229ac28335138121cbee6",
+  "slug": "will-uruguay-win-jul-1",
+  "question": "Will Uruguay win?"
+}

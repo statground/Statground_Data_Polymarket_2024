@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T23:47:08.747748Z",
+  "market_createdAt": "2024-06-12T23:47:08.747748Z",
+  "market_updatedAt": "2024-06-23T06:11:08.522082Z",
+  "market_startDate": "2024-06-13T00:20:50.728Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 06:14:08+00",
+  "conditionId": "0xd2bc2d1aa6b5a839b35c5cd2605b7834db982cc3b3d154733170c56f361e22fe",
+  "slug": "biden-campaign-accepts-crypto-donations-by-next-friday",
+  "question": "Biden accepts crypto donations by Friday?"
+}

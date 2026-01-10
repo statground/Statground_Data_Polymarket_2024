@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T21:54:29.417345Z",
+  "market_createdAt": "2024-07-25T21:54:29.417345Z",
+  "market_updatedAt": "2024-08-12T15:50:50.926788Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:19:56+00",
+  "conditionId": "0x6f8d216531a27e0f36b4a05dfd9f9dc7bc70591c5cbb12be9bab876a88e06808",
+  "slug": "will-leon-marchand-win-the-most-gold-medals",
+  "question": "Will Léon Marchand win the most gold medals?"
+}

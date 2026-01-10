@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:50:09.501616Z",
+  "market_createdAt": "2024-06-11T18:50:09.501616Z",
+  "market_updatedAt": "2024-07-04T02:20:45.763334Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-03 06:15:26+00",
+  "conditionId": "0x81721713bd115ae6152e0e5234f34ec32fad346b0eba1d78d08f897ba14a19b7",
+  "slug": "costa-rica-wins-copa-america-2024",
+  "question": "Costa Rica wins Copa America 2024?"
+}

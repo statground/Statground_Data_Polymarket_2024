@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T22:46:31.050488Z",
+  "market_createdAt": "2024-10-02T22:46:31.050488Z",
+  "market_updatedAt": "2024-10-29T01:31:12.477483Z",
+  "market_startDate": "2024-10-02T22:58:13.372543Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:25:53+00",
+  "conditionId": "0xf07e8d186f77913343ae95526ff8da8522748efda53f80e9361b29d9b805111c",
+  "slug": "will-another-candidate-win-the-2024-porto-alegre-mayoral-election",
+  "question": "Will another candidate win the 2024 Porto Alegre mayoral election?"
+}

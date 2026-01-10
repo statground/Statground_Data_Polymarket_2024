@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:29:57.446907Z",
+  "market_createdAt": "2024-10-22T00:29:57.446907Z",
+  "market_updatedAt": "2024-10-27T17:26:53.76611Z",
+  "market_startDate": "2024-10-22T00:33:40.792Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 19:20:48+00",
+  "conditionId": "0xd586fbe952b8b41112db73506a776f3456df35c76a923fe5ae81f9f5e59afc3f",
+  "slug": "epl-ast-bou-2024-10-26-draw",
+  "question": "Will Villa vs. Bournemouth end in a draw?"
+}

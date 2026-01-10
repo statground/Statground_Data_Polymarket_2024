@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:23:53.201784Z",
+  "market_createdAt": "2024-08-22T15:23:53.201784Z",
+  "market_updatedAt": "2024-08-24T03:27:00.787971Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:32:48+00",
+  "conditionId": "0x5e39ca119b99e5e672d18332a295c0a4b6f6a30bcaa2c1c03daeb2e70191fccb",
+  "slug": "will-gretchen-whitmer-say-convicted-felon-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Convicted Felon\" in DNC speech?"
+}

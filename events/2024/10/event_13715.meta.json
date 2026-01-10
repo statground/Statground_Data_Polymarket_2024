@@ -1,0 +1,24 @@
+{
+  "entity": "event",
+  "event_id": "13715",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-10-23T18:49:14.103182Z",
+  "event_createdAt": "2024-10-23T18:49:14.103182Z",
+  "event_creationDate": "2024-10-30T21:55:18.127109Z",
+  "event_startDate": "2024-10-30T21:55:18.127111Z",
+  "event_endDate": "2024-12-12T12:00:00Z",
+  "event_updatedAt": "2025-02-01T00:35:57.61438Z",
+  "markets_len": 5,
+  "market_ids": [
+    "510729",
+    "510730",
+    "510731",
+    "510732",
+    "511464"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10013"
+  ],
+  "series_slug": "ecb-interest-rates"
+}

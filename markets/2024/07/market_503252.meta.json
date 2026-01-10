@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T21:38:25.599710Z",
+  "market_createdAt": "2024-07-05T21:38:25.59971Z",
+  "market_updatedAt": "2024-07-14T04:47:48.281889Z",
+  "market_startDate": "2024-07-09T20:51:37.387Z",
+  "market_endDate": "2024-07-13T12:00:00Z",
+  "market_closedTime": "2024-07-14 04:45:36+00",
+  "conditionId": "0x5c16763fa2f9f11a7c592a8f492c278ffec4e73d24f3aee0561c6e39bda8f9cc",
+  "slug": "ufc-fight-night-erosa-vs-rodriguez",
+  "question": "UFC Fight Night: Erosa vs. Rodriguez"
+}

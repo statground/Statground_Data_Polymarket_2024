@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T20:43:49.547897Z",
+  "market_createdAt": "2024-05-21T20:43:49.547897Z",
+  "market_updatedAt": "2024-06-16T03:06:12.634631Z",
+  "market_startDate": null,
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 06:23:19+00",
+  "conditionId": "0xff3a96799ec8620dfd1dfc0545820a78810ace084f6ff56ef4cf8d37a6247d68",
+  "slug": "will-biden-nominate-graham-steele-for-fdic-chair",
+  "question": "Will Biden nominate Graham Steele for FDIC Chair?"
+}

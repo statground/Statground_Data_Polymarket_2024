@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:35:17.801254Z",
+  "market_createdAt": "2024-10-04T16:35:17.801254Z",
+  "market_updatedAt": "2024-10-06T23:50:42.415236Z",
+  "market_startDate": "2024-10-04T18:31:19.97042Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:22:13+00",
+  "conditionId": "0xe515281f997746e0dc6588810110dcd220232cbf44bafa4af98f566f595b783d",
+  "slug": "will-oklahoma-state-beat-west-virginia",
+  "question": "Will Oklahoma State beat West Virginia?"
+}

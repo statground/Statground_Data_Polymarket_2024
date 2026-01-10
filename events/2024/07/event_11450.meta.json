@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "11450",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-07-10T16:13:07.286760Z",
+  "event_createdAt": "2024-07-10T16:13:07.28676Z",
+  "event_creationDate": "2024-07-11T16:00:52.385714Z",
+  "event_startDate": "2024-07-11T16:00:52.385716Z",
+  "event_endDate": "2024-08-31T12:00:00Z",
+  "event_updatedAt": "2025-11-05T20:46:03.733158Z",
+  "markets_len": 1,
+  "market_ids": [
+    "503346"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10580"
+  ],
+  "series_slug": "congress-stock-trading-ban"
+}

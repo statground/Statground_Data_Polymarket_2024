@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:34:22.537463Z",
+  "market_createdAt": "2024-09-17T19:34:22.537463Z",
+  "market_updatedAt": "2024-10-01T16:56:47.19779Z",
+  "market_startDate": "2024-09-17T21:20:16.167Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-09-30 17:54:27+00",
+  "conditionId": "0xf7a32ad3e848553228c259c88877bcc1490310b78293b6424c742bd1e2ee4ded",
+  "slug": "will-there-be-less-than-11-named-storms-during-atlantic-hurricane-season",
+  "question": "Will there be less than 11 named storms during Atlantic Hurricane Season?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T05:00:29.873452Z",
+  "market_createdAt": "2024-12-15T05:00:29.873452Z",
+  "market_updatedAt": "2024-12-22T05:01:02.151693Z",
+  "market_startDate": "2024-12-15T05:02:58.123124Z",
+  "market_endDate": "2024-12-28T00:30:00Z",
+  "market_closedTime": "2024-12-21 04:58:21+00",
+  "conditionId": "0x461ee25c7f0c310f6243f9c78b33313e1885d48ae8ff944b28d895325aac1214",
+  "slug": "nba-mil-cle-2024-12-20",
+  "question": "Bucks vs. Cavaliers"
+}

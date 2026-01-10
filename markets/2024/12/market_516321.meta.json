@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T17:35:22.709199Z",
+  "market_createdAt": "2024-12-23T17:35:22.709199Z",
+  "market_updatedAt": "2024-12-29T21:18:16.099929Z",
+  "market_startDate": "2024-12-23T19:02:20.133616Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 04:12:32+00",
+  "conditionId": "0x7acbdf7087ae0aed604b6b0dc2a112c2b22987a206d491d9638d596eeb3ecd48",
+  "slug": "will-levon-aronian-win-the-world-rapid-championship",
+  "question": "Will Levon Aronian win the World Rapid Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-02T04:27:28.213481Z",
+  "market_createdAt": "2024-06-02T04:27:28.213481Z",
+  "market_updatedAt": "2024-06-03T11:26:17.276956Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-02T12:00:00Z",
+  "market_closedTime": "2024-06-02 13:31:46+00",
+  "conditionId": "0x42fd0a95c8ee750f9a1f856addc402b78e94b75d7c355ac1333b61ed13ffb544",
+  "slug": "trumps-first-tiktok-10m-views-by-sunday-night",
+  "question": "Trump’s first TikTok >10M views by Sunday night?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T14:29:26.560755Z",
+  "market_createdAt": "2024-10-21T14:29:26.560755Z",
+  "market_updatedAt": "2024-10-22T22:21:26.704524Z",
+  "market_startDate": "2024-10-21T14:59:44.348836Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 22:39:23+00",
+  "conditionId": "0xed7904917b2214c55c872ff5d510df1cabbfd1e07e85a4b8f9f1a4ee3f9bf871",
+  "slug": "will-trump-say-french-fries-during-north-carolina-rally-on-october-21",
+  "question": "Will Trump say \"French fries\" during North Carolina rally on October 21?"
+}

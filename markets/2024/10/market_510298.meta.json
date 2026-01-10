@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:21:09.405786Z",
+  "market_createdAt": "2024-10-21T16:21:09.405786Z",
+  "market_updatedAt": "2024-10-25T01:57:05.443685Z",
+  "market_startDate": "2024-10-21T21:22:17.043Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:17:58+00",
+  "conditionId": "0x1156e5b73c235a6d0c3230f32ee1c956cdf4a3cb72eff578851c6da3c8701eea",
+  "slug": "will-trump-say-turning-point-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"turning point\" during Georgia rally on October 23?"
+}

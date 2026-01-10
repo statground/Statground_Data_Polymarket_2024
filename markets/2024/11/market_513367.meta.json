@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:44:05.701074Z",
+  "market_createdAt": "2024-11-18T18:44:05.701074Z",
+  "market_updatedAt": "2024-12-07T06:11:12.479899Z",
+  "market_startDate": "2024-11-18T20:04:12.19Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:15:10+00",
+  "conditionId": "0x6b0f786a0fb15c2101b76844c27d17bc9ac9a8d912f79b758d21d8402f6847bd",
+  "slug": "will-trump-say-recess-appointment-in-his-next-speech",
+  "question": "Will Trump say \"recess appointment\" in his next speech?"
+}

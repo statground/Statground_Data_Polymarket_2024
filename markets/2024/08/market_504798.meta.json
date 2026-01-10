@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T22:03:22.355828Z",
+  "market_createdAt": "2024-08-08T22:03:22.355828Z",
+  "market_updatedAt": "2024-08-11T22:56:53.077325Z",
+  "market_startDate": "2024-08-09T22:29:48.326Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 23:23:44+00",
+  "conditionId": "0x4ca3f55e674d0ae4446580db7516d7c8de8cc571b587c2173f8186874747fbab",
+  "slug": "olympic-mens-basketball-final-usa-vs-france",
+  "question": "Olympic Men’s Basketball Final: USA vs. France"
+}

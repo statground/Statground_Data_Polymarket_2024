@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:44:48.113637Z",
+  "market_createdAt": "2024-10-22T03:44:48.113637Z",
+  "market_updatedAt": "2024-10-25T20:37:02.694889Z",
+  "market_startDate": "2024-10-23T15:08:16.75331Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 22:04:31+00",
+  "conditionId": "0x97b8ebb6b15a54e1b8f5b2d60769a8ecfa3481c94199b1a027fb6759ab148619",
+  "slug": "will-paok-beat-viktoria-plzen",
+  "question": "Will PAOK beat Viktoria Plzen?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:24:55.261941Z",
+  "market_createdAt": "2024-10-18T20:24:55.261941Z",
+  "market_updatedAt": "2024-10-21T23:03:10.461773Z",
+  "market_startDate": "2024-10-18T23:14:13.0789Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:28:26+00",
+  "conditionId": "0x7eb7ec987301a938014392ecad0c4b600da5124c204329b0c718ac2a534f7d4d",
+  "slug": "will-trump-say-inflation-5-or-more-times-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"inflation\" 5 or more times during Pennsylvania town hall on October 20?"
+}

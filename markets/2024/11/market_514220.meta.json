@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T18:58:05.854092Z",
+  "market_createdAt": "2024-11-27T18:58:05.854092Z",
+  "market_updatedAt": "2024-11-30T06:47:23.277625Z",
+  "market_startDate": "2024-11-27T20:48:36.757493Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 06:44:05+00",
+  "conditionId": "0xf11948913a5dcffc20a966eb17a4219a87357d9bb4f0741a1c9357a65f4a03ea",
+  "slug": "scorigami-on-thanksgiving",
+  "question": "Scorigami on Thanksgiving?"
+}

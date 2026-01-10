@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T22:56:49.481643Z",
+  "market_createdAt": "2024-12-20T22:56:49.481643Z",
+  "market_updatedAt": "2025-07-02T08:24:49.405888Z",
+  "market_startDate": "2024-12-20T23:04:23.874554Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 08:38:39+00",
+  "conditionId": "0x98f8c3c5ce0af4b45b30b1323e132f1f430cea4df5de4089dade2e23082e1743",
+  "slug": "will-ukraine-join-nato-before-july",
+  "question": "Will Ukraine join NATO before July?"
+}

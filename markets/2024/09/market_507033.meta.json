@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:04:52.212143Z",
+  "market_createdAt": "2024-09-13T20:04:52.212143Z",
+  "market_updatedAt": "2024-09-16T19:52:53.306641Z",
+  "market_startDate": "2024-09-13T20:54:14.668Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:23:27+00",
+  "conditionId": "0x4cc9dd86860091935c788a272be80e6b1959bdfb259ff0f4f6ab916ed64ea322",
+  "slug": "will-the-49ers-beat-the-vikings-by-6-or-more-points",
+  "question": "Will the 49ers beat the Vikings by 6 or more points?"
+}

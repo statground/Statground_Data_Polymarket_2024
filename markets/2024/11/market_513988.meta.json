@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:59:10.288269Z",
+  "market_createdAt": "2024-11-25T19:59:10.288269Z",
+  "market_updatedAt": "2024-12-21T03:26:53.749422Z",
+  "market_startDate": "2024-11-25T22:15:22.576Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:22:32+00",
+  "conditionId": "0x5efa440e8a2eb49c11c426ab8086d50fc9c3504a908aa1ccddc4c686e433ae81",
+  "slug": "will-goat-be-listed-first-on-robinhood",
+  "question": "Will $GOAT be listed first on Robinhood?"
+}

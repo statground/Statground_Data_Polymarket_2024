@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:31:22.796285Z",
+  "market_createdAt": "2024-10-01T23:31:22.796285Z",
+  "market_updatedAt": "2024-10-08T07:06:40.932667Z",
+  "market_startDate": "2024-10-01T23:33:48.123Z",
+  "market_endDate": "2024-10-07T12:00:00Z",
+  "market_closedTime": "2024-10-07 07:02:22+00",
+  "conditionId": "0xc61afd46c5ffa9188ea7ad2ef8693515599cf478005f1645f9871d9753d963b4",
+  "slug": "nfl-dal-pit-2024-10-06",
+  "question": "Cowboys vs. Steelers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T15:40:02.010003Z",
+  "market_createdAt": "2024-10-15T15:40:02.010003Z",
+  "market_updatedAt": "2024-11-06T05:07:08.311881Z",
+  "market_startDate": "2024-10-15T22:08:27.699535Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:58:51+00",
+  "conditionId": "0x0fa46a7ac71c1400020102299f7881948a399fb9a9526db088e215fa255148e4",
+  "slug": "will-trump-release-medical-records-before-the-election",
+  "question": "Will Trump release medical records before the election? "
+}

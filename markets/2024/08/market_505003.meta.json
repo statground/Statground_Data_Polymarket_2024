@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T01:29:59.262724Z",
+  "market_createdAt": "2024-08-13T01:29:59.262724Z",
+  "market_updatedAt": "2024-08-18T04:46:51.1396Z",
+  "market_startDate": "2024-08-13T02:31:17.513Z",
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-17 06:05:40+00",
+  "conditionId": "0x17d5871c8ceef23f14e9618a50ccdd6823e81df0d836c21154273a7abec0e3d8",
+  "slug": "will-elon-blame-a-foreign-actor-for-twitter-crash",
+  "question": "Will Elon blame a foreign actor for Twitter crash?"
+}

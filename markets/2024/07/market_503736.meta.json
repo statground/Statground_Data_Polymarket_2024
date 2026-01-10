@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:13:38.892100Z",
+  "market_createdAt": "2024-07-18T18:13:38.8921Z",
+  "market_updatedAt": "2024-07-31T20:47:02.880101Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:29:57+00",
+  "conditionId": "0x8101964c4670f90cf3fc810a0725062f5dfb43d6586000cf9f52b57f765f300b",
+  "slug": "will-emma-terebo-fra-win-gold-in-100m-womens-backstroke",
+  "question": "Will Emma Terebo (FRA) win Gold in 100m Women's Backstroke?"
+}

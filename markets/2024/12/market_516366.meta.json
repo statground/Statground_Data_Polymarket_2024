@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T20:38:31.363679Z",
+  "market_createdAt": "2024-12-23T20:38:31.363679Z",
+  "market_updatedAt": "2025-02-07T02:11:03.007562Z",
+  "market_startDate": "2024-12-23T21:30:24.589664Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-02-07 00:00:03+00",
+  "conditionId": "0x195282164c4023c238c600fe4e8fef781d8d41fe997fc8af6f27bc198b539866",
+  "slug": "will-lonzo-ball-get-traded-to-the-miami-heat",
+  "question": "Will Lonzo Ball get traded to the Miami Heat?"
+}

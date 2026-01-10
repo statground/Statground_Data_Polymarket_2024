@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T05:00:31.285168Z",
+  "market_createdAt": "2024-12-02T05:00:31.285168Z",
+  "market_updatedAt": "2024-12-08T06:27:24.420072Z",
+  "market_startDate": "2024-12-02T05:03:52.925259Z",
+  "market_endDate": "2024-12-14T01:00:00Z",
+  "market_closedTime": "2024-12-07 06:45:21+00",
+  "conditionId": "0x596225694752725b1a5d9b4b600f4abc906fc79d07d9f46ae0b11659e4541ec0",
+  "slug": "cfb-unlv-boise-2024-12-06",
+  "question": "UNLV vs. Boise State"
+}

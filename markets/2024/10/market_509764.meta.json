@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T19:34:27.800063Z",
+  "market_createdAt": "2024-10-13T19:34:27.800063Z",
+  "market_updatedAt": "2024-10-22T11:01:25.321458Z",
+  "market_startDate": "2024-10-14T14:27:40.297475Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-21 11:06:05+00",
+  "conditionId": "0x0ee5140294560f708fcc27510f4fc8f6919241911aded73ad91e3ed42b0aafcd",
+  "slug": "subway-series",
+  "question": "Subway World Series?"
+}

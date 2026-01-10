@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T16:05:33.958743Z",
+  "market_createdAt": "2024-11-23T16:05:33.958743Z",
+  "market_updatedAt": "2024-11-25T05:28:16.768573Z",
+  "market_startDate": "2024-11-23T17:35:11.069698Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-24 06:02:05+00",
+  "conditionId": "0xb42da151e88e939efc6279e16d96c2ed562b705c037c2a5be5a2331ce23d3584",
+  "slug": "oklahoma-vs-alabama",
+  "question": "Oklahoma vs. Alabama"
+}

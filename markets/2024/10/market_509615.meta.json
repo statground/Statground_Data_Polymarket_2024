@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:26:23.162592Z",
+  "market_createdAt": "2024-10-11T15:26:23.162592Z",
+  "market_updatedAt": "2024-10-13T19:26:49.503753Z",
+  "market_startDate": "2024-10-11T19:00:20.128205Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 00:26:05+00",
+  "conditionId": "0x08e830171242d952a0735caada050caed1d3b0e01726ad9584556f5d95d2ab1b",
+  "slug": "will-illinois-and-purdue-combine-for-49-or-more-points",
+  "question": "Will Illinois and Purdue combine for 49 or more points?"
+}

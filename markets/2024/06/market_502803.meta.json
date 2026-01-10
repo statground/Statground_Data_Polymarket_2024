@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T16:21:24.184700Z",
+  "market_createdAt": "2024-06-24T16:21:24.1847Z",
+  "market_updatedAt": "2024-07-08T13:35:48.477407Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 05:02:48+00",
+  "conditionId": "0x5ca5d256b9460ed15e1ec4d2ba14c6ce945465d3871ccb166116fad56776937f",
+  "slug": "will-another-coalition-win-the-most-seats-in-the-french-election-6dki",
+  "question": "Will another coalition win the most seats in the French election?"
+}

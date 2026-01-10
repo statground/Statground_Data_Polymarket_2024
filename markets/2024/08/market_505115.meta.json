@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T18:12:09.790065Z",
+  "market_createdAt": "2024-08-14T18:12:09.790065Z",
+  "market_updatedAt": "2024-08-16T23:03:02.537359Z",
+  "market_startDate": "2024-08-15T15:46:12.433Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:03:01+00",
+  "conditionId": "0x3f05e4da56f6073178c3b1f71661520b82a16f70af672bb8dd6f6f55ed8463f1",
+  "slug": "will-trump-say-fake-news-at-his-press-conference",
+  "question": "Will Trump say \"Fake News\" at his press conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:14:14.057067Z",
+  "market_createdAt": "2024-10-18T21:14:14.057067Z",
+  "market_updatedAt": "2024-10-27T01:46:54.744445Z",
+  "market_startDate": "2024-10-18T23:03:02.955Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 01:43:43+00",
+  "conditionId": "0x360f2bc551b4c3bbe5ff9b3ccbeef7902dc57c35fda25cb5581b6d8cef9e51f3",
+  "slug": "israel-military-response-against-iran-by-friday-oct-25",
+  "question": "Israel military response against Iran by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515042",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:03:36.776749Z",
+  "market_createdAt": "2024-12-08T05:03:36.776749Z",
+  "market_updatedAt": "2024-12-12T06:45:01.879231Z",
+  "market_startDate": "2024-12-08T05:07:05.404612Z",
+  "market_endDate": "2024-12-18T02:30:00Z",
+  "market_closedTime": "2024-12-11 06:46:37+00",
+  "conditionId": "0xe0883150729211b0b08c47799fe2c5050eb05d5dde7a46028e651604eb090672",
+  "slug": "nba-dal-okc-2024-12-10",
+  "question": "Mavericks vs. Thunder"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:55:03.006291Z",
+  "market_createdAt": "2024-09-30T19:55:03.006291Z",
+  "market_updatedAt": "2024-10-03T18:52:38.918844Z",
+  "market_startDate": "2024-09-30T22:07:47.684858Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-02 21:52:47+00",
+  "conditionId": "0x90200823c8da231c7d2bd09e998a0a87ca24837f15e24dc70f50871571db813b",
+  "slug": "will-girona-beat-feyenoord",
+  "question": "Will Girona beat Feyenoord?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T14:06:36.847788Z",
+  "market_createdAt": "2024-09-03T14:06:36.847788Z",
+  "market_updatedAt": "2024-09-05T02:43:05.865463Z",
+  "market_startDate": "2024-09-03T14:55:43.175705Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-04 02:30:32+00",
+  "conditionId": "0xcd30be8738ac1e4fa979e48f8cc2fa2350b96513f762c70ca2f4452bc226c1b9",
+  "slug": "us-open-sabalenka-vs-qinwen",
+  "question": "US Open: Sabalenka vs. Qinwen"
+}

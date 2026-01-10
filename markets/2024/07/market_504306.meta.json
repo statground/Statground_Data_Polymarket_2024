@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:48:17.097288Z",
+  "market_createdAt": "2024-07-29T20:48:17.097288Z",
+  "market_updatedAt": "2024-08-11T14:40:57.891544Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 20:08:43+00",
+  "conditionId": "0x9ebb8713148c671075234741283fb22525173c7489a1ad13b9dcf156e95d76d5",
+  "slug": "will-leona-maguire-win-gold-in-womens-golf",
+  "question": "Will Leona Maguire win Gold in Women's Golf?"
+}

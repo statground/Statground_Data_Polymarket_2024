@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:14:01.748328Z",
+  "market_createdAt": "2024-10-28T21:14:01.748328Z",
+  "market_updatedAt": "2024-11-03T05:23:06.330576Z",
+  "market_startDate": "2024-10-28T23:58:22.579882Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:56:10+00",
+  "conditionId": "0x6a28c395d97f82388631f7928f1def3ca452120a71e7dff616d3aed475ecbe03",
+  "slug": "will-trump-say-wisconsin-20-or-more-times-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"Wisconsin\" 20 or more times during Wisconsin rally on Nov 1?"
+}

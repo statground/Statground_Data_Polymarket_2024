@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:55:06.738989Z",
+  "market_createdAt": "2024-07-08T16:55:06.738989Z",
+  "market_updatedAt": "2024-07-12T02:54:48.283138Z",
+  "market_startDate": "2024-07-08T17:25:23.105Z",
+  "market_endDate": "2024-07-10T12:00:00Z",
+  "market_closedTime": "2024-07-11 03:24:01.318851+00",
+  "conditionId": "0xfd78eed0f9bbb30b3a7f4194d472e9ae44eee5bf8a45877300a30b29eb53fb9a",
+  "slug": "will-england-win-jul-10",
+  "question": "Will England win?"
+}

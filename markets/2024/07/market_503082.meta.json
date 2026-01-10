@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:42:48.836787Z",
+  "market_createdAt": "2024-07-01T20:42:48.836787Z",
+  "market_updatedAt": "2024-07-03T01:30:45.618666Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:08:06+00",
+  "conditionId": "0xd747b0cc087916be4b1c6e20ec234dbd0449c089013cec13d1d4c7ea4984fb08",
+  "slug": "will-this-match-be-a-draw-usa-uruguay",
+  "question": "Will this match be a draw?"
+}

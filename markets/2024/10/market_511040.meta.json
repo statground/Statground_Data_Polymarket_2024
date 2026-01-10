@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:35:53.004681Z",
+  "market_createdAt": "2024-10-25T22:35:53.004681Z",
+  "market_updatedAt": "2024-10-30T01:41:12.583584Z",
+  "market_startDate": "2024-10-25T22:48:53.133704Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 02:17:43+00",
+  "conditionId": "0x24f67f9d53f2e86cc130b0b2351c0dfd0d9f218b700398c536cc7af2a327fb17",
+  "slug": "will-trump-say-kamala-20-or-more-times-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"Kamala\" 20 or more times during Georgia rally on October 28?"
+}

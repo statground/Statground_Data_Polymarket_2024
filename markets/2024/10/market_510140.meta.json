@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:16:56.796715Z",
+  "market_createdAt": "2024-10-18T17:16:56.796715Z",
+  "market_updatedAt": "2024-10-20T23:56:43.100423Z",
+  "market_startDate": "2024-10-18T23:28:29.752635Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 00:57:39+00",
+  "conditionId": "0x95ce84154391623cc92d2a02f6d01e84fcb049cad0eb2ba1a2aa320e7d45a55a",
+  "slug": "will-notre-dame-beat-georgia-tech",
+  "question": "Will Notre Dame beat Georgia Tech?"
+}

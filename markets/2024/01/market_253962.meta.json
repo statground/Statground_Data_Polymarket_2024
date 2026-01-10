@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253962",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T19:08:46.789000Z",
+  "market_createdAt": "2024-01-17T19:08:46.789Z",
+  "market_updatedAt": "2024-03-11T23:18:02.345Z",
+  "market_startDate": "2024-01-17T23:41:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:18:17+00",
+  "conditionId": "0xb4a7333a23325937904f271aff2dd3c8c5f32d562cce3bfcf68ace986ee4c081",
+  "slug": "will-paul-giamatti-win-the-oscar-for-best-actor",
+  "question": "Will Paul Giamatti win the Oscar for Best Actor?"
+}

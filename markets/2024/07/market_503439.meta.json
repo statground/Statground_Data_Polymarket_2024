@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:49:06.780590Z",
+  "market_createdAt": "2024-07-12T19:49:06.78059Z",
+  "market_updatedAt": "2024-07-15T20:22:50.153258Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:12:02+00",
+  "conditionId": "0x141ba01f4dc5c207fc3e7c62b4c84c807682dc382b4947b191ddf74bb4efa9f9",
+  "slug": "will-harry-kane-score",
+  "question": "Will Harry Kane score?"
+}

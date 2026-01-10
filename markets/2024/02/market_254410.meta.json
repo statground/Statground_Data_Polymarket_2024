@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-08T23:34:05.954000Z",
+  "market_createdAt": "2024-02-08T23:34:05.954Z",
+  "market_updatedAt": "2024-02-27T23:22:03.744Z",
+  "market_startDate": "2024-02-09T20:23:35.657Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-27 00:31:19+00",
+  "conditionId": "0x71fac8584a9cc732879c9bd0af6efe872bbdd90a4f00918cb96bba6dd39921ef",
+  "slug": "will-ether-rock-sell-for-over-600k-at-sothebys",
+  "question": "Will Ether Rock sell for over $600k at Sotheby’s?"
+}

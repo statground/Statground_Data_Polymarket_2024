@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:58:04.192145Z",
+  "market_createdAt": "2024-10-23T18:58:04.192145Z",
+  "market_updatedAt": "2024-12-13T16:21:08.946869Z",
+  "market_startDate": "2024-10-30T21:52:59.095972Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 16:43:33+00",
+  "conditionId": "0xdf9cf0fc9613af282e46d6474822ee56ad61b7031f28de7b8fec06e3e6235997",
+  "slug": "26-50-bps-decrease-in-ecb-interest-rates-after-2024-december-meeting",
+  "question": "26-50 bps decrease in ECB interest rates after 2024 December meeting?"
+}

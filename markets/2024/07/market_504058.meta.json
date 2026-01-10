@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T15:00:23.389898Z",
+  "market_createdAt": "2024-07-24T15:00:23.389898Z",
+  "market_updatedAt": "2024-08-07T17:20:47.545587Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-06 18:28:46+00",
+  "conditionId": "0x46cc571d6892e044c0d5d6209996fb946f54e713c175572d75dcd775e2c37ef4",
+  "slug": "kamala-announce-vp-pick-by-aug-7",
+  "question": "Will Kamala announce VP pick by Aug 7?"
+}

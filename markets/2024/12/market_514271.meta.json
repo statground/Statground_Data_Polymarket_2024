@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:00:49.416595Z",
+  "market_createdAt": "2024-12-01T05:00:49.416595Z",
+  "market_updatedAt": "2024-12-03T03:35:13.325488Z",
+  "market_startDate": "2024-12-01T05:04:14.54624Z",
+  "market_endDate": "2024-12-08T23:00:00Z",
+  "market_closedTime": "2024-12-02 03:33:50+00",
+  "conditionId": "0x73cca5ecbc680953afee726af65038dc35a6f554743c35cf8103a0f07c8da83e",
+  "slug": "nba-bos-cle-2024-12-01",
+  "question": "Celtics vs. Cavaliers"
+}

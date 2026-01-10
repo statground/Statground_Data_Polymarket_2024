@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:57:11.468114Z",
+  "market_createdAt": "2024-11-24T18:57:11.468114Z",
+  "market_updatedAt": "2024-12-01T04:47:11.037132Z",
+  "market_startDate": "2024-11-24T18:59:37.124041Z",
+  "market_endDate": "2024-12-07T00:30:00Z",
+  "market_closedTime": "2024-11-30 05:08:08+00",
+  "conditionId": "0xd734b30e61a17d2948bf3e97551790cf6bf53a5eaa0720a6da9f33706eb4b8cd",
+  "slug": "nba-lac-min-2024-11-29",
+  "question": "Clippers vs. Timberwolves"
+}

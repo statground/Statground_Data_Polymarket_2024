@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:43:58.548430Z",
+  "market_createdAt": "2024-05-03T14:43:58.54843Z",
+  "market_updatedAt": "2024-05-07T23:09:29.083413Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:25:14+00",
+  "conditionId": "0x71c23b4e7ee5fbb95ffd7d253c562861a95c0a20e67482c096c734131712aa57",
+  "slug": "will-society-man-win-the-2024-kentucky-derby",
+  "question": "Will Society Man win the 2024 Kentucky Derby?"
+}

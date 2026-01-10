@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:25:23.898000Z",
+  "market_createdAt": "2024-03-01T17:25:23.898Z",
+  "market_updatedAt": "2024-11-10T14:32:50.818187Z",
+  "market_startDate": "2024-03-07T23:25:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 20:17:00+00",
+  "conditionId": "0x8f20ff6ed2ba1e234f35e701a50c274ffb64fdd8d621254d017db0445486ab79",
+  "slug": "will-a-democrat-win-nevada-presidential-election",
+  "question": "Will a Democrat win Nevada Presidential Election?"
+}

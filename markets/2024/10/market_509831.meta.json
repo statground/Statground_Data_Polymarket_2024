@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509831",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:58:45.013586Z",
+  "market_createdAt": "2024-10-14T18:58:45.013586Z",
+  "market_updatedAt": "2024-10-21T21:53:17.085297Z",
+  "market_startDate": "2024-10-14T19:00:48.589559Z",
+  "market_endDate": "2024-10-20T17:00:00Z",
+  "market_closedTime": "2024-10-20 22:10:28+00",
+  "conditionId": "0xdb7fc8bc231dc119faf8478fcdba3fe249263a4a0ced763e9a954c5a0026bb5b",
+  "slug": "nfl-hou-gb-2024-10-20",
+  "question": "Texans vs. Packers"
+}

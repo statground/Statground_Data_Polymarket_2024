@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:16:22.945307Z",
+  "market_createdAt": "2024-07-25T17:16:22.945307Z",
+  "market_updatedAt": "2024-07-30T18:23:07.232542Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:12:22+00",
+  "conditionId": "0x289dafebeb035e8c7231c17be89214ef320bf51017968627fdd1375fb310ceb3",
+  "slug": "will-katie-grimes-usa-win-gold-in-womens-400m-individual-medley",
+  "question": "Will Katie Grimes (USA) win Gold in Women's 400m Individual Medley?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:47:24.591859Z",
+  "market_createdAt": "2024-09-30T19:47:24.591859Z",
+  "market_updatedAt": "2024-11-02T02:47:04.728166Z",
+  "market_startDate": "2024-10-01T14:48:37.768Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:46:03+00",
+  "conditionId": "0x0bf3a43b291b10a78adf45d7489066d9253b6110ee3d42448fdfe480d0311f4b",
+  "slug": "israel-withdraws-from-gaza-before-november",
+  "question": "Israel withdraws from Gaza before November?"
+}

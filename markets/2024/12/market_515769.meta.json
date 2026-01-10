@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:50:57.759272Z",
+  "market_createdAt": "2024-12-16T18:50:57.759272Z",
+  "market_updatedAt": "2024-12-22T02:30:56.137471Z",
+  "market_startDate": "2024-12-16T19:35:58.732Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 03:10:52+00",
+  "conditionId": "0x748a339a1a251f79baaae8310952e431851d5d1c18b3600ff38c7325fd2ed705",
+  "slug": "btc-dominance-down-by-friday",
+  "question": "BTC dominance down on Friday?"
+}

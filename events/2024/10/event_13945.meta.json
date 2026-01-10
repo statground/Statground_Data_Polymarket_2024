@@ -1,0 +1,38 @@
+{
+  "entity": "event",
+  "event_id": "13945",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-10-31T19:39:08.817285Z",
+  "event_createdAt": "2024-10-31T19:39:08.817285Z",
+  "event_creationDate": "2024-11-01T15:04:59.149908Z",
+  "event_startDate": "2024-11-01T15:04:59.149912Z",
+  "event_endDate": "2024-11-30T12:00:00Z",
+  "event_updatedAt": "2026-01-06T13:05:08.272254Z",
+  "markets_len": 19,
+  "market_ids": [
+    "511581",
+    "511521",
+    "511522",
+    "511582",
+    "511523",
+    "511524",
+    "511525",
+    "511526",
+    "511527",
+    "511528",
+    "512254",
+    "512255",
+    "512649",
+    "512662",
+    "512963",
+    "512964",
+    "512965",
+    "512966",
+    "512967"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10016"
+  ],
+  "series_slug": "btc-monthly-prices"
+}

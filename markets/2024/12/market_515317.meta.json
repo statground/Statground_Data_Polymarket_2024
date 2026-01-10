@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:59:39.112474Z",
+  "market_createdAt": "2024-12-10T21:59:39.112474Z",
+  "market_updatedAt": "2024-12-14T00:57:11.362186Z",
+  "market_startDate": "2024-12-11T22:56:34.255903Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:14:13+00",
+  "conditionId": "0x2ce55cf17c63347b252a899ba33cfd011ffba34cc0b60317146c658b59eb9426",
+  "slug": "will-ajax-beat-lazio",
+  "question": "Will Ajax beat Lazio?"
+}

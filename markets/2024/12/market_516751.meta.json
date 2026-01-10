@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:06:30.876905Z",
+  "market_createdAt": "2024-12-30T05:06:30.876905Z",
+  "market_updatedAt": "2025-01-05T19:33:35.913592Z",
+  "market_startDate": "2024-12-30T05:08:59.400753Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:29:24+00",
+  "conditionId": "0x457448e013a8f7a0d36d029d37f8f6f134adee4a7a3c686c76f85f26d181ce3f",
+  "slug": "epl-mac-wes-2025-01-04-draw",
+  "question": "Will Manchester City vs. West Ham end in a draw?"
+}

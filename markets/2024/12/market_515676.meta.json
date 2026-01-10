@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T06:02:31.880419Z",
+  "market_createdAt": "2024-12-15T06:02:31.880419Z",
+  "market_updatedAt": "2024-12-23T23:21:44.669169Z",
+  "market_startDate": "2024-12-15T06:05:08.560811Z",
+  "market_endDate": "2024-12-29T18:00:00Z",
+  "market_closedTime": "2024-12-22 23:39:54+00",
+  "conditionId": "0x4f61244a916622ca1dcae38c162cebccfa2124f533e9bd3740196183afc20eca",
+  "slug": "nfl-phi-was-2024-12-22",
+  "question": "Eagles vs. Commanders"
+}

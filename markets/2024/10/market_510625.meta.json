@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:17:31.302603Z",
+  "market_createdAt": "2024-10-22T19:17:31.302603Z",
+  "market_updatedAt": "2024-10-27T04:32:53.958542Z",
+  "market_startDate": "2024-10-23T17:34:21.087Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 04:26:43+00",
+  "conditionId": "0x2af66f3d7d36bc2b86d43b013900b40b5ea61042883aad7681b1d3469cb35323",
+  "slug": "will-trump-say-mcdonalds-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"McDonald's\" on The Joe Rogan Experience?"
+}

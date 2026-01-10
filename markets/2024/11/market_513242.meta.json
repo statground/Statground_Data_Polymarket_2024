@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:54:35.678975Z",
+  "market_createdAt": "2024-11-15T21:54:35.678975Z",
+  "market_updatedAt": "2025-01-21T20:11:03.172675Z",
+  "market_startDate": "2024-11-15T22:37:49.982Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:18:38+00",
+  "conditionId": "0x9d6906fd8564bb5ae879247071678f40cd70f3309748f425d4fbbafcbc9d24a0",
+  "slug": "will-trump-say-drill-baby-drill-during-his-inauguration-speech",
+  "question": "Will Trump say \"drill baby drill\" during his inauguration speech?"
+}

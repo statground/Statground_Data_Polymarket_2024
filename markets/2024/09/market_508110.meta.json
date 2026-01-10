@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T17:19:07.845542Z",
+  "market_createdAt": "2024-09-25T17:19:07.845542Z",
+  "market_updatedAt": "2024-10-21T18:10:49.419327Z",
+  "market_startDate": "2024-09-25T17:45:02.36282Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-20 19:44:38+00",
+  "conditionId": "0xc3c3e6e41c0f268a011a611bc8362e28f85e193159c5ab240c4bf17acb369321",
+  "slug": "will-flyquest-win-lol-worlds-2024",
+  "question": "Will FlyQuest win LoL Worlds 2024?"
+}

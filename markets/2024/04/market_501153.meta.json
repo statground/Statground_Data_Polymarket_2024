@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501153",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-24T17:46:42.921641Z",
+  "market_createdAt": "2024-04-24T17:46:42.921641Z",
+  "market_updatedAt": "2025-01-02T01:23:15.133966Z",
+  "market_startDate": "2024-04-24T17:48:00.446Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:32:38+00",
+  "conditionId": "0xd3328f8684b20c8b4be97ef06d55d9543e2669b0c6d9d9187ea4996c8ac03864",
+  "slug": "tiktok-banned-in-the-us-in-2024",
+  "question": "TikTok banned in the US in 2024?"
+}

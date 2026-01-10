@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T15:44:57.839148Z",
+  "market_createdAt": "2024-04-29T15:44:57.839148Z",
+  "market_updatedAt": "2024-05-10T00:29:00.357803Z",
+  "market_startDate": "2024-04-29T17:11:12.81Z",
+  "market_endDate": "2024-05-08T12:00:00Z",
+  "market_closedTime": "2024-05-09 01:14:23+00",
+  "conditionId": "0x152c134a6603134d47643b976b9bcb275b35fa4ac259f5bfce2c9c5c328fa4a7",
+  "slug": "north-macedonia-presidential-election-winner",
+  "question": "North Macedonia Presidential Election Winner"
+}

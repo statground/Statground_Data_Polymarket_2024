@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:03:13.078132Z",
+  "market_createdAt": "2024-11-25T05:03:13.078132Z",
+  "market_updatedAt": "2024-12-02T23:23:20.077625Z",
+  "market_startDate": "2024-11-25T05:05:46.158067Z",
+  "market_endDate": "2024-12-08T18:00:00Z",
+  "market_closedTime": "2024-12-01 23:25:17+00",
+  "conditionId": "0x38a4046f4eff4feea1fc0e506b2768081c0cbcba2dae53cba1a3c8781d3d0607",
+  "slug": "nfl-ten-was-2024-12-01",
+  "question": "Titans vs. Commanders"
+}

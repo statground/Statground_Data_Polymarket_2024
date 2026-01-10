@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:17:45.374037Z",
+  "market_createdAt": "2024-10-23T18:17:45.374037Z",
+  "market_updatedAt": "2024-10-28T16:56:58.534593Z",
+  "market_startDate": "2024-10-23T20:16:15.266587Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:38:54+00",
+  "conditionId": "0x44daa42630bdc6a1bb08f660ab5916911998968cbb7939d168bd5e69fb8c0b2b",
+  "slug": "will-another-team-win-esl-challenger-katowice-2024",
+  "question": "Will another team win ESL Challenger Katowice 2024?"
+}

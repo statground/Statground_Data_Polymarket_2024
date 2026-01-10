@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:52:19.466345Z",
+  "market_createdAt": "2024-10-24T19:52:19.466345Z",
+  "market_updatedAt": "2024-10-27T05:07:06.457962Z",
+  "market_startDate": "2024-10-24T20:21:15.97393Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:51:31+00",
+  "conditionId": "0x960dffd7751d4f6f97bb0e7630b3a068c9897c2431a15a54686eb34378c040d3",
+  "slug": "will-trump-say-beach-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"beach\" during Michigan rally on October 25?"
+}

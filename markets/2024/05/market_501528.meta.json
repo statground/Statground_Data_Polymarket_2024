@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T17:50:22.289035Z",
+  "market_createdAt": "2024-05-10T17:50:22.289035Z",
+  "market_updatedAt": "2024-05-19T08:54:06.276192Z",
+  "market_startDate": "2024-05-11T16:01:52.209Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-18 09:05:25+00",
+  "conditionId": "0xc8dfb3eb50a9eb49fcb4f75912472ad2c8a2f005ea443afaa369a2ea14c7234b",
+  "slug": "kendrick-drops-new-track-by-may-17",
+  "question": "Kendrick drops new track by Friday?"
+}

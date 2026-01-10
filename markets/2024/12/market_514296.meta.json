@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:09:26.893551Z",
+  "market_createdAt": "2024-12-01T05:09:26.893551Z",
+  "market_updatedAt": "2024-12-06T04:15:28.317937Z",
+  "market_startDate": "2024-12-01T05:13:16.35328Z",
+  "market_endDate": "2024-12-12T00:30:00Z",
+  "market_closedTime": "2024-12-05 05:16:28+00",
+  "conditionId": "0x2846f46105db2b81f39e7f662a0b9be73da19c1f1ba31fd2a40b38a6418a7a34",
+  "slug": "nba-orl-phi-2024-12-04",
+  "question": "Magic vs. 76ers"
+}

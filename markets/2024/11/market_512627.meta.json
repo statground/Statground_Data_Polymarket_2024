@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:50:26.851672Z",
+  "market_createdAt": "2024-11-08T23:50:26.851672Z",
+  "market_updatedAt": "2024-11-12T01:03:19.713764Z",
+  "market_startDate": "2024-11-09T02:59:52.58195Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 06:49:35+00",
+  "conditionId": "0xc74ccd381bc2bfb8670250f58ef6a484d0678008942188f3316d62b33267fdf1",
+  "slug": "will-the-lions-and-texans-combine-for-50-or-more-points",
+  "question": "Will the Lions and Texans combine for 50 or more points?"
+}

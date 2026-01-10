@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:05:32.518691Z",
+  "market_createdAt": "2024-12-30T05:05:32.518691Z",
+  "market_updatedAt": "2025-01-05T20:05:48.592617Z",
+  "market_startDate": "2024-12-30T05:08:30.423981Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:13:24+00",
+  "conditionId": "0xeb12460f83e80f213e06e26864e14fb6b79a467f0838912daa0c46d377a09834",
+  "slug": "epl-sou-bre-2025-01-04-bre",
+  "question": "Will Brentford win on 2025-01-04?"
+}

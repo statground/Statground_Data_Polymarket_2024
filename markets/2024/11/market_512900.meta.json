@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:48:21.019380Z",
+  "market_createdAt": "2024-11-12T19:48:21.01938Z",
+  "market_updatedAt": "2024-12-09T16:01:26.962136Z",
+  "market_startDate": "2024-11-25T22:52:07.048012Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:48:25+00",
+  "conditionId": "0x68c4ef1d78af301683ef71e3ef499a8453154ad3b4b25d0cb0819045f8c99fb0",
+  "slug": "will-texas-make-the-college-football-playoff",
+  "question": "Will Texas make the College Football Playoff?"
+}

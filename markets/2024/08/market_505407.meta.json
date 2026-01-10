@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T01:17:07.591213Z",
+  "market_createdAt": "2024-08-20T01:17:07.591213Z",
+  "market_updatedAt": "2024-12-09T20:03:17.41931Z",
+  "market_startDate": "2024-08-22T19:11:06.869Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-12-08 21:54:17+00",
+  "conditionId": "0x40d935cf0a5510530e3bc95eaba373ef481c689c1a87d0ba6f954590a70bfbd6",
+  "slug": "will-alabama-win-the-2025-college-football-playoff",
+  "question": "Will Alabama win the 2025 College Football Playoff?"
+}

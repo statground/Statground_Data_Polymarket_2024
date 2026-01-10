@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:20:35.275620Z",
+  "market_createdAt": "2024-09-20T16:20:35.27562Z",
+  "market_updatedAt": "2024-09-23T04:02:39.608566Z",
+  "market_startDate": "2024-09-20T16:25:26.636081Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 05:32:12+00",
+  "conditionId": "0x197bcca6a453e0cd8d0a0ed0bd57e675eed1df6a2a5044ebd7f0cfcb2edd656b",
+  "slug": "will-tennessee-beat-oklahoma-by-7-or-more-points",
+  "question": "Will Tennessee beat Oklahoma by 7 or more points?"
+}

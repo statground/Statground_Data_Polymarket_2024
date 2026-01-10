@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T23:00:33.739000Z",
+  "market_createdAt": "2024-03-07T23:00:33.739Z",
+  "market_updatedAt": "2024-06-10T16:36:18.370711Z",
+  "market_startDate": "2024-03-08T17:49:19.66Z",
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-06-09 18:25:00+00",
+  "conditionId": "0x99605d2f99ce79a5580b2d6ec86314a07942e4fd03f21992de46feca7887ce8b",
+  "slug": "india-election-modi-reelected",
+  "question": "Indian Election: Modi reelected?"
+}

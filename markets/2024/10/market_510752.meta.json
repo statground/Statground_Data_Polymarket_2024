@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:08:54.144145Z",
+  "market_createdAt": "2024-10-23T21:08:54.144145Z",
+  "market_updatedAt": "2024-10-28T00:42:54.67058Z",
+  "market_startDate": "2024-10-23T22:34:55.421133Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:25:28+00",
+  "conditionId": "0x8c2b4c4ecc6a60720116f9865c0ee5749bf3f168d5ba735121b2548c339e8373",
+  "slug": "will-trump-say-mars-during-pennsylvania-rally-on-october-26",
+  "question": "Will Trump say \"Mars\" during Pennsylvania rally on October 26?"
+}

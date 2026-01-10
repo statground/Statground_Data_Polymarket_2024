@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T19:46:42.005394Z",
+  "market_createdAt": "2024-09-04T19:46:42.005394Z",
+  "market_updatedAt": "2024-09-13T02:17:10.907241Z",
+  "market_startDate": "2024-09-04T22:56:00.457854Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-12 02:15:44+00",
+  "conditionId": "0xaeb8bf45295411665e8d8dc2390563f4636d349e4c18888579621b736beb1d9f",
+  "slug": "will-the-debate-have-50-55-million-viewers",
+  "question": "Will the debate have 50-55 million viewers?"
+}

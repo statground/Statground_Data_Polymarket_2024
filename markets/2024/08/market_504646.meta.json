@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T14:57:39.424577Z",
+  "market_createdAt": "2024-08-07T14:57:39.424577Z",
+  "market_updatedAt": "2024-12-02T00:30:03.607405Z",
+  "market_startDate": "2024-08-08T15:57:38.102Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-02 00:26:56+00",
+  "conditionId": "0xcbb7e5875522e396368ca95aa32970121a8adc24cf7792ba141db57b375bcb5f",
+  "slug": "will-the-jets-win-the-afc-east",
+  "question": "Will the Jets win the AFC East?"
+}

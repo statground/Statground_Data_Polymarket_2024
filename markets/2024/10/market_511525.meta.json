@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T19:47:45.679745Z",
+  "market_createdAt": "2024-10-31T19:47:45.679745Z",
+  "market_updatedAt": "2024-11-13T17:18:18.020375Z",
+  "market_startDate": "2024-11-01T14:59:32.793Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-03 17:54:00+00",
+  "conditionId": "0x3cf39d3134dfe5056fe333089af5dbece583a6ff64a71fe7a53e7c7866a278f0",
+  "slug": "will-bitcoin-reach-67500-in-november",
+  "question": "Will Bitcoin reach $67,500 in November?"
+}

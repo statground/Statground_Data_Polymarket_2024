@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:07:24.174318Z",
+  "market_createdAt": "2024-12-30T05:07:24.174318Z",
+  "market_updatedAt": "2025-01-05T20:21:33.372438Z",
+  "market_startDate": "2024-12-30T05:09:55.982358Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:29:08+00",
+  "conditionId": "0x69d6d46a3b258483b31629439a09147bfeba767eed23e6e05f8608400647eab2",
+  "slug": "epl-cry-che-2025-01-04-draw",
+  "question": "Will Crystal Palace vs. Chelsea end in a draw?"
+}

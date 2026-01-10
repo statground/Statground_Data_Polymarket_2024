@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T20:36:41.413450Z",
+  "market_createdAt": "2024-12-12T20:36:41.41345Z",
+  "market_updatedAt": "2025-04-02T07:42:35.690787Z",
+  "market_startDate": "2024-12-12T23:05:16.981608Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:41:16+00",
+  "conditionId": "0xadde598dced41995a4f96f5c8602608514539ac4467d623ed9f280bcf7c2f9cd",
+  "slug": "will-ethereum-hit-8000pt00-by-march-31",
+  "question": "Will Ethereum hit $8,000.00 by March 31?"
+}

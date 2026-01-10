@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:47:43.747754Z",
+  "market_createdAt": "2024-07-29T20:47:43.747754Z",
+  "market_updatedAt": "2024-08-10T20:32:58.550565Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 20:30:05+00",
+  "conditionId": "0x5a70d7f0828f1721b371c368c0f89b2ec1d9f24d020431adaec9a38f3d2d1bc6",
+  "slug": "will-linn-grant-win-gold-in-womens-golf",
+  "question": "Will Linn Grant win Gold in Women's Golf?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:09:12.928025Z",
+  "market_createdAt": "2024-11-06T19:09:12.928025Z",
+  "market_updatedAt": "2024-11-15T22:57:15.985881Z",
+  "market_startDate": "2024-11-06T19:45:11.593Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:06:53+00",
+  "conditionId": "0xd2d322e357145e5d27bbc32a30b61172866b0b62e632024a469f4289fcb15495",
+  "slug": "will-trump-nominate-mike-lee-for-attorney-general",
+  "question": "Will Trump nominate Mike Lee for Attorney General?"
+}

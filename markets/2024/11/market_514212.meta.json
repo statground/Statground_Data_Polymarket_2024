@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T15:38:44.202123Z",
+  "market_createdAt": "2024-11-27T15:38:44.202123Z",
+  "market_updatedAt": "2025-06-02T08:22:27.722949Z",
+  "market_startDate": "2024-11-27T16:13:35.534369Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-06-01 06:54:07+00",
+  "conditionId": "0x9de8ccd966a84cc73e6c714fb41cae6c7401bc30687a3b5dfc5acc3630d4f5ff",
+  "slug": "will-microstrategy-announce-bankruptcy-by-may-31",
+  "question": "Will MicroStrategy announce bankruptcy by May 31?"
+}

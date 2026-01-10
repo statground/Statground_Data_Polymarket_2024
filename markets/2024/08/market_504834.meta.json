@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T17:57:49.460727Z",
+  "market_createdAt": "2024-08-09T17:57:49.460727Z",
+  "market_updatedAt": "2024-08-11T16:56:55.995211Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 20:50:33+00",
+  "conditionId": "0x9334ab94c391b4ac58d11988f380b2aa2d43c05e126b8df952803b9f02ebf31a",
+  "slug": "will-grace-stark-usa-win-gold-in-the-womens-100m-hurdles",
+  "question": "Will Grace Stark (USA) win gold in the Women’s 100m Hurdles?"
+}

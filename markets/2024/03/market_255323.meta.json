@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T21:01:16.640000Z",
+  "market_createdAt": "2024-03-06T21:01:16.64Z",
+  "market_updatedAt": "2025-01-01T21:13:16.585852Z",
+  "market_startDate": "2024-03-06T21:15:59.569Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:18:10+00",
+  "conditionId": "0xebd09819ef04d3d8c255e4012c96bb7d4e37315d0b96e8d9ec82c1ad010799d4",
+  "slug": "will-ethereum-hit-15k-in-2024",
+  "question": "Will Ethereum hit $15k in 2024?"
+}

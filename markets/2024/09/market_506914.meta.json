@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506914",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T18:16:01.465972Z",
+  "market_createdAt": "2024-09-12T18:16:01.465972Z",
+  "market_updatedAt": "2024-09-18T05:36:44.295023Z",
+  "market_startDate": "2024-09-12T19:13:05.556351Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 06:36:07+00",
+  "conditionId": "0x330657bc74106fc88283cc70f39cb58103f284556d43e41791e19ccabf1d255f",
+  "slug": "will-there-be-less-than-625-points-scored-nfl-week-2",
+  "question": "Will there be less than 625 points scored NFL Week 2?"
+}

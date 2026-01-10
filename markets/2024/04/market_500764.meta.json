@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:45:53.087034Z",
+  "market_createdAt": "2024-04-05T16:45:53.087034Z",
+  "market_updatedAt": "2024-05-07T23:09:10.976826Z",
+  "market_startDate": "2024-04-05T21:17:31.154Z",
+  "market_endDate": "2024-04-12T12:00:00Z",
+  "market_closedTime": "2024-04-12 18:04:29+00",
+  "conditionId": "0x56aedcecc50a0e5eaf6ea092cd0643a11a30056b1879cc1541f3173002584011",
+  "slug": "ethereum-above-3500-on-april-12",
+  "question": "Ethereum above $3,500 on April 12?"
+}

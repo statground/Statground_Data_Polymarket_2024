@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T20:49:32.255967Z",
+  "market_createdAt": "2024-11-20T20:49:32.255967Z",
+  "market_updatedAt": "2025-02-04T07:44:13.444232Z",
+  "market_startDate": "2024-11-20T22:07:27.512207Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:18:22+00",
+  "conditionId": "0x6f461fe732da6bf3ec51c542a166dd1e6ffac1701cacbfcc443f95f5ea728453",
+  "slug": "will-a-bar-song-tipsy-win-song-of-the-year",
+  "question": "Will 'A Bar Song (Tipsy)' win Song of the Year?"
+}

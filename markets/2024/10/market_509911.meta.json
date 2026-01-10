@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:39:35.458499Z",
+  "market_createdAt": "2024-10-15T18:39:35.458499Z",
+  "market_updatedAt": "2025-05-06T00:22:25.367363Z",
+  "market_startDate": "2024-10-15T22:21:32.430452Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-04 22:13:10+00",
+  "conditionId": "0xda4a3949758a6b478f94e46ca2b53792e04832634cf5b14103bdfe7238a5860e",
+  "slug": "will-another-team-win-the-bundesliga",
+  "question": "Will another team win the Bundesliga?"
+}

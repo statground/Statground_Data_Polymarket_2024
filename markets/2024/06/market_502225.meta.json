@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T19:50:53.272274Z",
+  "market_createdAt": "2024-06-07T19:50:53.272274Z",
+  "market_updatedAt": "2024-06-19T23:26:13.585526Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-19 04:07:50+00",
+  "conditionId": "0xcd9e01ff72223c2c55c56c408d8c2dd4693c61bb43de5d80d1b7ae295f6051d2",
+  "slug": "will-jonathan-walker-emord-win-the-2024-virginia-senate-republican-primary",
+  "question": "Will Jonathan Walker Emord win the 2024 Virginia Senate Republican Primary?"
+}

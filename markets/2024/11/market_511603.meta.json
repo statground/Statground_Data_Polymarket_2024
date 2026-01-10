@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:11:26.723053Z",
+  "market_createdAt": "2024-11-01T16:11:26.723053Z",
+  "market_updatedAt": "2024-11-04T06:06:54.224272Z",
+  "market_startDate": "2024-11-01T16:14:06.437984Z",
+  "market_endDate": "2024-11-03T02:30:00Z",
+  "market_closedTime": "2024-11-03 07:05:38+00",
+  "conditionId": "0xecbc3e7b096d21ac5c4a55c016797bcf2f1b932b97e4a673764513d70e44daba",
+  "slug": "nba-okc-lac-2024-11-02",
+  "question": "Thunder vs. Clippers"
+}

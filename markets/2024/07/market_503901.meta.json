@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T17:40:36.126192Z",
+  "market_createdAt": "2024-07-19T17:40:36.126192Z",
+  "market_updatedAt": "2024-08-02T17:13:03.292397Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 22:00:38+00",
+  "conditionId": "0x015815860440723ac5f558033933b9c8d5636a73f4d0ee1b9c6c4a266cb0b9f4",
+  "slug": "will-leon-marchand-fra-win-gold-in-mens-200m-butterfly",
+  "question": "Will Leon Marchand (FRA) win Gold in Men's 200m Butterfly?"
+}

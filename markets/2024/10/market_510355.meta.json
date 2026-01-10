@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510355",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:23:42.255949Z",
+  "market_createdAt": "2024-10-21T20:23:42.255949Z",
+  "market_updatedAt": "2024-11-12T18:19:07.629628Z",
+  "market_startDate": "2024-10-21T21:06:30.797Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:34:32+00",
+  "conditionId": "0x8cbefe55566a8c74f2d2d24500c8b4102973df273381049cc93944a7529b0983",
+  "slug": "who-will-win-women",
+  "question": "Who will win women?"
+}

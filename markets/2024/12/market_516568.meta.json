@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:39:49.293231Z",
+  "market_createdAt": "2024-12-27T21:39:49.293231Z",
+  "market_updatedAt": "2024-12-30T17:59:42.964789Z",
+  "market_startDate": "2024-12-27T22:15:57.029026Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 22:21:20+00",
+  "conditionId": "0xbb82ae0e33c488780d80fd4808ccb223d83966e01aa16e6772f95137c1464515",
+  "slug": "will-the-buccaneers-and-panthers-combine-for-48-or-more-points",
+  "question": "Will the Buccaneers and Panthers combine for 48 or more points?"
+}

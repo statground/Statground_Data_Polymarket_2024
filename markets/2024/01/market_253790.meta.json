@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T00:23:36.329000Z",
+  "market_createdAt": "2024-01-11T00:23:36.329Z",
+  "market_updatedAt": "2024-01-15T04:37:11.895Z",
+  "market_startDate": "2024-01-13T00:00:00Z",
+  "market_endDate": "2024-01-13T00:00:00Z",
+  "market_closedTime": "2024-01-14 06:32:08+00",
+  "conditionId": "0x2a0f6e5e49e15d7e5deb4a2f8122b4ae7df90af065bf34320297e2db8c1ba71b",
+  "slug": "nfl-kc-mia-2024-01-13",
+  "question": "Chiefs vs. Dolphins"
+}

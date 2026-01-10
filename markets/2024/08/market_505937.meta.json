@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T22:03:25.615468Z",
+  "market_createdAt": "2024-08-27T22:03:25.615468Z",
+  "market_updatedAt": "2024-09-08T19:57:09.762331Z",
+  "market_startDate": "2024-08-28T02:24:18.845Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 21:02:38+00",
+  "conditionId": "0x54761a7d3e99ceb4ca84012f0815469a49a6c934c5b18f53998d4f79fed770ae",
+  "slug": "kamala-harris-positive-favorability-by-next-friday",
+  "question": "Kamala positive favorability by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504567",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T19:42:26.437997Z",
+  "market_createdAt": "2024-08-05T19:42:26.437997Z",
+  "market_updatedAt": "2024-08-07T12:26:47.030085Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 12:49:50+00",
+  "conditionId": "0x0b75520dad699b5f498742fb77e8f4002391f041d1b780f9c23cc25d90b8516b",
+  "slug": "olympic-basketball-greece-vs-germany",
+  "question": "Olympic Basketball: Greece vs Germany"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507196",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T18:30:22.525379Z",
+  "market_createdAt": "2024-09-16T18:30:22.525379Z",
+  "market_updatedAt": "2024-09-18T23:32:42.340585Z",
+  "market_startDate": "2024-09-16T19:12:03.513714Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 00:19:24+00",
+  "conditionId": "0xad29e5412f67490411607e34375e097f8ad756f4fa47f9c4c445afa74fe9af18",
+  "slug": "will-liverpool-beat-ac-milan",
+  "question": "Will Liverpool beat AC Milan?"
+}

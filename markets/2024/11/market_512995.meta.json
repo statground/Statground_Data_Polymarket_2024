@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T21:58:03.843814Z",
+  "market_createdAt": "2024-11-13T21:58:03.843814Z",
+  "market_updatedAt": "2024-11-17T08:11:21.854235Z",
+  "market_startDate": "2024-11-14T22:15:28.648779Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 08:05:05+00",
+  "conditionId": "0xcda1fef2d19bd81c86b586f7d59efdba5fd0f79132d5f3cc2b47a4a2ace8c3df",
+  "slug": "will-trump-attend-paul-vs-tyson",
+  "question": "Will Trump attend Paul vs. Tyson?"
+}

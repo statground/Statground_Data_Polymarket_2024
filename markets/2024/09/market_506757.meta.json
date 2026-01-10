@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T22:05:22.964826Z",
+  "market_createdAt": "2024-09-09T22:05:22.964826Z",
+  "market_updatedAt": "2024-09-12T04:33:03.96708Z",
+  "market_startDate": "2024-09-09T22:40:32.92784Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:33:36+00",
+  "conditionId": "0x444ae77f80fd32812ecde5457425245bed9cd0be4cac1261623309fa0d38aed1",
+  "slug": "will-the-debate-finnish-by-1030-pm",
+  "question": "Will the Debate finish by 10:30 PM?"
+}

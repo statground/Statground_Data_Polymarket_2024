@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:12:15.253981Z",
+  "market_createdAt": "2024-12-30T22:12:15.253981Z",
+  "market_updatedAt": "2025-01-01T02:13:56.335754Z",
+  "market_startDate": "2024-12-30T23:04:31.784752Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 02:10:45+00",
+  "conditionId": "0x9aa8d2921d72e35b9cc8deed9a2475b1dfe02f01b527fa9393f738bf538e5bdf",
+  "slug": "will-baylor-beat-lsu-by-4-or-more-points",
+  "question": "Will Baylor beat LSU by 4 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T18:38:05.599925Z",
+  "market_createdAt": "2024-12-27T18:38:05.599925Z",
+  "market_updatedAt": "2025-01-21T21:45:04.637389Z",
+  "market_startDate": "2024-12-30T18:36:09.452Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:55:36+00",
+  "conditionId": "0xc32e15dcd78c7743cb6909d81a3233e302b48512c701f8e4f234d947227dbd95",
+  "slug": "will-biden-issue-a-preemptive-pardon",
+  "question": "Will Biden issue a preemptive pardon?"
+}

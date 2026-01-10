@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:50:56.430270Z",
+  "market_createdAt": "2024-04-04T15:50:56.43027Z",
+  "market_updatedAt": "2024-07-02T08:25:48.713769Z",
+  "market_startDate": "2024-04-04T16:00:26.389Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:23:59+00",
+  "conditionId": "0xb5c103c0e0c9d956c5a066dfc142c43fa8cf74a55db71a23a9a46d1547d4ecb4",
+  "slug": "will-trump-mention-boden-before-july",
+  "question": "Will Trump mention $boden before July?"
+}

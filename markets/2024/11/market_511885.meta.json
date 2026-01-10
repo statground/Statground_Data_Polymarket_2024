@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:53:23.869661Z",
+  "market_createdAt": "2024-11-04T16:53:23.869661Z",
+  "market_updatedAt": "2025-01-02T07:03:14.972928Z",
+  "market_startDate": "2024-11-04T17:08:44.076633Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:32+00",
+  "conditionId": "0xdf0a624463f35cf29a159f8c377de5750b15fd7c162ee64c3f69d8c852d05dc9",
+  "slug": "will-biden-resign-in-2024",
+  "question": "Will Biden resign in 2024?"
+}

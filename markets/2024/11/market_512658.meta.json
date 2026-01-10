@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:02:48.174922Z",
+  "market_createdAt": "2024-11-11T17:02:48.174922Z",
+  "market_updatedAt": "2024-11-19T02:37:10.426411Z",
+  "market_startDate": "2024-11-11T17:05:24.343401Z",
+  "market_endDate": "2024-11-24T21:25:00Z",
+  "market_closedTime": "2024-11-18 02:31:57+00",
+  "conditionId": "0xa21e5fbbbe049e3337ba9b4a4dd5aa15e6b6ed8e7c71344c776364a73e81586a",
+  "slug": "nfl-kc-buf-2024-11-17",
+  "question": "Chiefs vs. Bills"
+}

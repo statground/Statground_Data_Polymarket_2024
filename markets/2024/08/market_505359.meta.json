@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T18:48:47.117037Z",
+  "market_createdAt": "2024-08-19T18:48:47.117037Z",
+  "market_updatedAt": "2024-08-21T02:31:02.318421Z",
+  "market_startDate": "2024-08-19T18:51:24.925Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 04:18:56+00",
+  "conditionId": "0x316ee9e84addefb1d71bfe0179df2b0edb7e0808a00546c4f0b444c0f7f4c5cc",
+  "slug": "will-hillary-clinton-say-pokemon-go-at-dnc-speech",
+  "question": "Will Hillary Clinton say \"Pokemon Go\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:06:53.184675Z",
+  "market_createdAt": "2024-12-08T07:06:53.184675Z",
+  "market_updatedAt": "2024-12-16T07:39:33.767902Z",
+  "market_startDate": "2024-12-08T07:10:21.058525Z",
+  "market_endDate": "2024-12-22T03:00:00Z",
+  "market_closedTime": "2024-12-15 07:59:49+00",
+  "conditionId": "0xd953f7cf5de952fc9c4697349d8fd0361765a610d3d5505eae2bc720f6573795",
+  "slug": "nhl-utah-sj-2024-12-14",
+  "question": "Utah vs. Sharks"
+}

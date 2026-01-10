@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T19:00:28.046197Z",
+  "market_createdAt": "2024-12-05T19:00:28.046197Z",
+  "market_updatedAt": "2024-12-08T02:30:59.523743Z",
+  "market_startDate": "2024-12-05T19:07:08.023Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-07 07:09:48+00",
+  "conditionId": "0xc9a5d17ec912b728661e63aafb2426f340a4cfad561ae3db66fc1d8645dd4f26",
+  "slug": "roaring-kitty-tweets-a-company-tickername-by-friday",
+  "question": "Roaring Kitty tweets company name by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T21:45:04.797000Z",
+  "market_createdAt": "2024-02-26T21:45:04.797Z",
+  "market_updatedAt": "2025-01-02T08:05:09.063417Z",
+  "market_startDate": "2024-02-27T19:09:48.705Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 09:12:52+00",
+  "conditionId": "0xb09684e11fb40f40cfb2fec4a8e08fe2b021a82b0803756a90f04e1364efa94f",
+  "slug": "ethereum-all-time-high-in-q4-2024",
+  "question": "Ethereum all time high in Q4 2024?"
+}

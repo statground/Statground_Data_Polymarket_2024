@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:09:21.383830Z",
+  "market_createdAt": "2024-11-24T05:09:21.38383Z",
+  "market_updatedAt": "2024-12-02T00:41:25.807104Z",
+  "market_startDate": "2024-11-24T05:12:00.500776Z",
+  "market_endDate": "2024-12-07T19:00:00Z",
+  "market_closedTime": "2024-12-01 00:58:21+00",
+  "conditionId": "0xeb52a13d3026078c6ce7d54e75cc02df73973669d9b28e00af8a6c43cfeb43dc",
+  "slug": "cfb-usf-rice-2024-11-30",
+  "question": "South Florida vs. Rice"
+}

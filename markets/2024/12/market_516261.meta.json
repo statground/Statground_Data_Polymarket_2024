@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:01:25.232830Z",
+  "market_createdAt": "2024-12-22T07:01:25.23283Z",
+  "market_updatedAt": "2024-12-24T04:51:42.109671Z",
+  "market_startDate": "2024-12-22T07:04:21.714527Z",
+  "market_endDate": "2024-12-30T01:00:00Z",
+  "market_closedTime": "2024-12-23 05:34:57+00",
+  "conditionId": "0x72619a00429eb05897d8c92e7175bfc26e1639ad18d35b665ad8d45210ae67c6",
+  "slug": "nhl-sea-col-2024-12-22",
+  "question": "Kraken vs. Avalanche"
+}

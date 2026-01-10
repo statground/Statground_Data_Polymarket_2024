@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T15:14:17.256157Z",
+  "market_createdAt": "2024-09-19T15:14:17.256157Z",
+  "market_updatedAt": "2024-09-21T05:02:47.752284Z",
+  "market_startDate": "2024-09-19T15:20:34.069697Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 05:19:15+00",
+  "conditionId": "0x56cad46333e0f83b66ebec03813196b3ca2603ea57ea945b45bca15cc910d13b",
+  "slug": "will-the-jets-win-by-7-or-more-points",
+  "question": "Will the Jets win by 7 or more points?"
+}

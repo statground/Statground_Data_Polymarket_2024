@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:51:52.988210Z",
+  "market_createdAt": "2024-10-28T21:51:52.98821Z",
+  "market_updatedAt": "2024-11-04T01:26:56.582287Z",
+  "market_startDate": "2024-10-29T00:12:53.391Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 01:38:08+00",
+  "conditionId": "0x762477699988d67a006c49ff31a9852cc31eed9216fc31f13546139d6e442190",
+  "slug": "will-trump-say-tax-20-or-more-times-during-virginia-rally-on-nov-2",
+  "question": "Will Trump say \"tax\" 20 or more times during Virginia rally on Nov 2?"
+}

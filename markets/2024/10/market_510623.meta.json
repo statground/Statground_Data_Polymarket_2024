@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:14:56.541649Z",
+  "market_createdAt": "2024-10-22T19:14:56.541649Z",
+  "market_updatedAt": "2024-10-27T06:36:48.222714Z",
+  "market_startDate": "2024-10-23T17:33:39.232Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:45:50+00",
+  "conditionId": "0x61a4709e69c966e531dd99d43b7e61dde4ee686e365ba9e242453b1ff33c3722",
+  "slug": "will-trump-say-crypto-or-bitcoin-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" on The Joe Rogan Experience?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501780",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T18:49:44.561698Z",
+  "market_createdAt": "2024-05-22T18:49:44.561698Z",
+  "market_updatedAt": "2024-07-06T08:41:44.72601Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 08:40:09+00",
+  "conditionId": "0xe355461fcdddcfad31b6126280428cea94ead7367ba0d7a0ae474ac41895be7c",
+  "slug": "labour-wins-35-40-of-votes",
+  "question": "Labour wins 35-40% of votes?"
+}

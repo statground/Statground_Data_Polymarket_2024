@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:15:27.263481Z",
+  "market_createdAt": "2024-12-04T21:15:27.263481Z",
+  "market_updatedAt": "2024-12-09T02:49:31.643773Z",
+  "market_startDate": "2024-12-04T21:18:53.841503Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 04:41:10+00",
+  "conditionId": "0x894517b7efcd05c2288e63f334c4689b21a7623be1c8c0bdbd369dbcde471cde",
+  "slug": "nhl-col-det-2024-12-07",
+  "question": "Avalanche vs. Red Wings"
+}

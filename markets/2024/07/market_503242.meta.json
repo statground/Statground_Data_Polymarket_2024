@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T20:01:03.644091Z",
+  "market_createdAt": "2024-07-05T20:01:03.644091Z",
+  "market_updatedAt": "2024-11-03T15:07:00.630459Z",
+  "market_startDate": "2024-07-05T20:01:03.644091Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:30:12+00",
+  "conditionId": "0x1f67d768903aec8a640b4777c1695e29215b435eb892eb259f3392142f32069f",
+  "slug": "james-cleverly-next-conservative-party-leader",
+  "question": "James Cleverly next Conservative party leader?"
+}

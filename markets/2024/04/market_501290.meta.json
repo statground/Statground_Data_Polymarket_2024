@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T21:49:52.047801Z",
+  "market_createdAt": "2024-04-30T21:49:52.047801Z",
+  "market_updatedAt": "2024-05-07T23:09:34.029319Z",
+  "market_startDate": "2024-04-30T23:09:36.169Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-04 06:09:05+00",
+  "conditionId": "0xc234e0ec2fbb57f836669c29169904776294f8fac5bc30b5f0b7b7f8fff4c04b",
+  "slug": "kendrick-drops-music-in-may",
+  "question": "Kendrick drops music in May?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:16:49.406284Z",
+  "market_createdAt": "2024-10-22T16:16:49.406284Z",
+  "market_updatedAt": "2024-10-29T01:57:07.259027Z",
+  "market_startDate": "2024-10-22T22:29:37.094Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:48:21+00",
+  "conditionId": "0x60b32a81d08d8dca646c11515c9d857881b55e7a0c51f0d8128ea4fe8c26cc17",
+  "slug": "will-trump-say-new-york-30-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"New York\" 30 or more times during New York rally on October 27?"
+}

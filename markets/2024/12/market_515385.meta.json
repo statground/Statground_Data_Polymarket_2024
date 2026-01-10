@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T17:27:06.617234Z",
+  "market_createdAt": "2024-12-11T17:27:06.617234Z",
+  "market_updatedAt": "2025-01-16T16:11:04.676133Z",
+  "market_startDate": "2024-12-11T18:06:03.316Z",
+  "market_endDate": "2025-01-15T12:00:00Z",
+  "market_closedTime": "2025-01-15 16:42:10+00",
+  "conditionId": "0xed3f699d49c03b25f3138d1ffb580e7640be4a032b18073652b36f9db2b25860",
+  "slug": "will-us-annual-inflation-be-2pt6-or-less-in-december",
+  "question": "Will US annual inflation be 2.6% or less in December?"
+}

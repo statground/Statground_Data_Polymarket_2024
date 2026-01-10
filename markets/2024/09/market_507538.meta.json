@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:38:31.069127Z",
+  "market_createdAt": "2024-09-19T21:38:31.069127Z",
+  "market_updatedAt": "2024-09-23T00:02:45.963881Z",
+  "market_startDate": "2024-09-20T00:04:33.566531Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 00:14:11+00",
+  "conditionId": "0x923e97117f62637d2ab4da293eca2c69432e896d7e01757bd1dd0d5dde14d5ef",
+  "slug": "will-g2-esports-win-esl-counter-strike-champion-2024",
+  "question": "Will G2 Esports win ESL Counter-Strike Champion 2024?"
+}

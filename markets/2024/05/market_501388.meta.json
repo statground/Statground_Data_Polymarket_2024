@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T15:18:40.482866Z",
+  "market_createdAt": "2024-05-03T15:18:40.482866Z",
+  "market_updatedAt": "2024-05-07T23:09:15.981554Z",
+  "market_startDate": "2024-05-03T16:17:45.413Z",
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 03:28:37+00",
+  "conditionId": "0x150a3fde92200b63dab2e6bd4909bffe9ef9bfc3a8e5556b8e4d74506d7a57ad",
+  "slug": "nba-den-min-2024-05-04",
+  "question": "Nuggets vs. Timberwolves"
+}

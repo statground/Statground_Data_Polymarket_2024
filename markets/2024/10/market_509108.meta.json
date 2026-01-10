@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:22:55.177134Z",
+  "market_createdAt": "2024-10-07T19:22:55.177134Z",
+  "market_updatedAt": "2025-05-23T23:01:21.693439Z",
+  "market_startDate": "2024-10-08T14:53:24.283779Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-03-30 02:54:08+00",
+  "conditionId": "0x98688bb50142d4531dde904f4d3c478f1a6138507877ebb9b3ad17940fee3045",
+  "slug": "will-the-seattle-kraken-win-the-2025-stanley-cup",
+  "question": "Will the Seattle Kraken win the 2025 Stanley Cup?"
+}

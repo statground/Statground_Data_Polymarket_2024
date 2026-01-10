@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T20:25:03.455000Z",
+  "market_createdAt": "2024-02-27T20:25:03.455Z",
+  "market_updatedAt": "2024-05-01T07:45:37.908224Z",
+  "market_startDate": "2024-03-01T20:00:00Z",
+  "market_endDate": "2024-04-23T00:00:00Z",
+  "market_closedTime": "2024-05-01 07:42:35+00",
+  "conditionId": "0x6f0ce0fb13d31e7268f11d56a7b3601c69e6538d288053411d42d3a4559fe26b",
+  "slug": "will-russell-wilson-be-traded-to-the-falcons",
+  "question": "Will Russell Wilson be traded to the Falcons?"
+}

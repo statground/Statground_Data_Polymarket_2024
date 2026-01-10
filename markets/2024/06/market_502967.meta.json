@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T16:01:15.682378Z",
+  "market_createdAt": "2024-06-28T16:01:15.682378Z",
+  "market_updatedAt": "2024-06-29T22:01:06.628995Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-29 03:06:46+00",
+  "conditionId": "0x0b4eeeb0e54a0f15b6f7d15332db363877ff10c98013dfd1a35c5c16222eda73",
+  "slug": "will-the-match-be-a-draw-colombia-costa-rica",
+  "question": "Will the match be a draw?"
+}

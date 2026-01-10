@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:31:27.360850Z",
+  "market_createdAt": "2024-10-21T20:31:27.36085Z",
+  "market_updatedAt": "2024-10-28T03:56:50.007567Z",
+  "market_startDate": "2024-10-21T20:34:03.175867Z",
+  "market_endDate": "2024-10-26T23:00:00Z",
+  "market_closedTime": "2024-10-27 04:05:12+00",
+  "conditionId": "0xffff3997a2d2f51e2400aa21ad777b8953c9afae42bc73b4393cd53880d65aa3",
+  "slug": "nba-bos-det-2024-10-26",
+  "question": "Celtics vs. Pistons"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T20:47:24.057833Z",
+  "market_createdAt": "2024-08-28T20:47:24.057833Z",
+  "market_updatedAt": "2025-01-01T22:55:11.007207Z",
+  "market_startDate": "2024-08-28T20:47:24.057833Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:42+00",
+  "conditionId": "0x010420699657837535adfcabd913a7b1a30fb133537224c139a7c8a00b363b5e",
+  "slug": "pavel-durov-leaves-france-in-2024",
+  "question": "Pavel Durov leaves France in 2024?"
+}

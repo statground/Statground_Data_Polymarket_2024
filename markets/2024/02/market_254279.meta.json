@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-02T18:56:23.445000Z",
+  "market_createdAt": "2024-02-02T18:56:23.445Z",
+  "market_updatedAt": "2024-02-12T15:37:15.823Z",
+  "market_startDate": "2024-02-02T19:33:00Z",
+  "market_endDate": "2024-02-03T00:00:00Z",
+  "market_closedTime": "2024-02-12 15:32:56+00",
+  "conditionId": "0xf730f168ceeb29d1927290144ad878866af7c49f831cfe4af47560d7bbdaacb6",
+  "slug": "farcaster-unique-users-between-15-20k-on-feb-5",
+  "question": "Farcaster unique users between 15-20k on Feb 5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T03:14:28.257503Z",
+  "market_createdAt": "2024-09-13T03:14:28.257503Z",
+  "market_updatedAt": "2024-09-15T22:22:57.002803Z",
+  "market_startDate": "2024-09-13T16:07:12.071096Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 00:24:54+00",
+  "conditionId": "0xc829328723e28e10d08e4fb9f0e2cdb1f4975c66e7474277350cd6fe3608ae08",
+  "slug": "will-there-be-50-or-more-combined-points-scored-ore-orest",
+  "question": "Will there be 50 or more combined points scored?"
+}

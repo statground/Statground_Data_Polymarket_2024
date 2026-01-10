@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T15:19:12.445941Z",
+  "market_createdAt": "2024-12-04T15:19:12.445941Z",
+  "market_updatedAt": "2024-12-13T01:49:08.054532Z",
+  "market_startDate": "2024-12-04T18:01:57.361735Z",
+  "market_endDate": "2025-03-27T12:00:00Z",
+  "market_closedTime": "2024-12-12 02:59:01+00",
+  "conditionId": "0x3eabab9ce7e7cf6455467369cfbe9cd999bb67d5df5d136ff7866ea1a5fd3d10",
+  "slug": "will-juan-soto-sign-with-the-yankees",
+  "question": "Will Juan Soto sign with the Yankees?"
+}

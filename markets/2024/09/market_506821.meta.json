@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:53:06.132239Z",
+  "market_createdAt": "2024-09-11T15:53:06.132239Z",
+  "market_updatedAt": "2024-09-14T00:07:02.580095Z",
+  "market_startDate": "2024-09-11T17:29:08.032074Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:36:56+00",
+  "conditionId": "0xf1ba175bb82c5048fe9f0498a6773722a1a2ffd53a4af052dd545a6b605668cd",
+  "slug": "will-trump-say-moderator-during-his-arizona-rally",
+  "question": "Will Trump say \"moderator\" during his Arizona rally?"
+}

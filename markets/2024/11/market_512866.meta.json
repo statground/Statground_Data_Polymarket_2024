@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:46:48.457850Z",
+  "market_createdAt": "2024-11-12T18:46:48.45785Z",
+  "market_updatedAt": "2024-12-03T03:17:16.801935Z",
+  "market_startDate": "2024-11-12T21:19:24.826149Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-02 06:12:57+00",
+  "conditionId": "0x515d4f5fa972669a069c159d1125c4e6e822228ab1014ea50c2fd7aa7f4ab9e7",
+  "slug": "will-the-buffalo-bills-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Buffalo Bills make the 2024-25 NFL Playoffs?"
+}

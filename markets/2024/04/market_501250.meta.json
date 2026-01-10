@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:32:55.411584Z",
+  "market_createdAt": "2024-04-29T19:32:55.411584Z",
+  "market_updatedAt": "2024-05-07T23:09:42.333966Z",
+  "market_startDate": "2024-04-29T19:59:20.142Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 00:04:37+00",
+  "conditionId": "0x9ad87a3dcababc8d6962f5e3561c9cc03c2904db3933c0142268cd81f52880b2",
+  "slug": "will-bayern-munich-and-real-madrid-draw",
+  "question": "Will Bayern Munich and Real Madrid Draw?"
+}

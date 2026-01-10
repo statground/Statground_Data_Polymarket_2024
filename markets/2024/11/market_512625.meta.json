@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:48:57.557592Z",
+  "market_createdAt": "2024-11-08T23:48:57.557592Z",
+  "market_updatedAt": "2024-11-11T17:26:52.772141Z",
+  "market_startDate": "2024-11-09T02:58:02.386925Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 02:40:37+00",
+  "conditionId": "0x74019745a4fa4591ad3c62eb04d156b0dd18cb12ff89271179b055672542dbfc",
+  "slug": "will-the-jets-and-cardinals-combine-for-47-or-more-points",
+  "question": "Will the Jets and Cardinals combine for 47 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T22:05:37.626898Z",
+  "market_createdAt": "2024-04-11T22:05:37.626898Z",
+  "market_updatedAt": "2024-06-15T11:56:12.070383Z",
+  "market_startDate": "2024-04-12T16:56:49.628Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-06-15 01:07:52+00",
+  "conditionId": "0xb83bd18d0b24ba3658e615e52d1226d8dfc94fe0ea5e8c82fddf62c7307405a6",
+  "slug": "will-john-steenhuisen-be-the-next-president-of-south-africa",
+  "question": "Will John Steenhuisen be the next President of South Africa?"
+}

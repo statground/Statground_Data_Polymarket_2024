@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:03:28.880425Z",
+  "market_createdAt": "2024-10-15T19:03:28.880425Z",
+  "market_updatedAt": "2025-04-28T01:03:58.619302Z",
+  "market_startDate": "2024-10-15T22:46:20.238477Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-28 01:00:57+00",
+  "conditionId": "0xab61643628e4b5fe365f9fb02969d8ec18d3529f8b0fecf5fc2ba9629803359f",
+  "slug": "will-as-roma-win-the-serie-a",
+  "question": "Will AS Roma win the Serie A?"
+}

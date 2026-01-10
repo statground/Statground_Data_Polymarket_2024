@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:19:43.923748Z",
+  "market_createdAt": "2024-08-27T15:19:43.923748Z",
+  "market_updatedAt": "2024-09-15T12:53:01.653201Z",
+  "market_startDate": "2024-08-27T17:20:17.269Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-14 20:44:04+00",
+  "conditionId": "0x2e2bedbabbc3241af6a0aadce0c148c397b51fe0a7a20f7a47df620e5cc261c2",
+  "slug": "will-the-washington-nationals-win-the-world-series",
+  "question": "Will the Washington Nationals win the World Series?"
+}

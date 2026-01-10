@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516526",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T18:46:06.858300Z",
+  "market_createdAt": "2024-12-27T18:46:06.8583Z",
+  "market_updatedAt": "2024-12-29T00:50:51.081599Z",
+  "market_startDate": "2024-12-27T20:01:41.817912Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 07:04:18+00",
+  "conditionId": "0x9fd449b0f2dcdbe664d5bd0e36885fcc51c475e9c872e2a866480e3863e8ef4c",
+  "slug": "will-syracuse-beat-washington-state-by-18-or-more-points",
+  "question": "Will Syracuse beat Washington State by 18 or more points?"
+}

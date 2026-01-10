@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:39:12.575984Z",
+  "market_createdAt": "2024-12-13T22:39:12.575984Z",
+  "market_updatedAt": "2024-12-16T18:27:33.202418Z",
+  "market_startDate": "2024-12-13T23:35:57.636469Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-15 23:22:06+00",
+  "conditionId": "0x2ab8648204cb8bc3fb6f8adc5495339d2d5201f79eae444567c47f2f02619fc3",
+  "slug": "will-the-ravens-beat-the-giants-by-17-or-more-points",
+  "question": "Will the Ravens beat the Giants by 17 or more points?"
+}

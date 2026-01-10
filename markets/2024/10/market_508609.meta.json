@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:19:39.901209Z",
+  "market_createdAt": "2024-10-01T20:19:39.901209Z",
+  "market_updatedAt": "2024-10-30T00:27:04.863726Z",
+  "market_startDate": "2024-10-01T21:15:09.11976Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-29 00:22:07+00",
+  "conditionId": "0xece4c2362e3a7d44f7c5b59e0a84c162f178d17aec024facf4e452f07012e1f6",
+  "slug": "will-bitcoin-reach-70000-in-october",
+  "question": "Will Bitcoin reach $70,000 in October? "
+}

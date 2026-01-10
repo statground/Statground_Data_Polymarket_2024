@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T15:55:06.643728Z",
+  "market_createdAt": "2024-10-29T15:55:06.643728Z",
+  "market_updatedAt": "2024-11-03T23:31:07.595223Z",
+  "market_startDate": "2024-10-29T16:21:05.805526Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-03 02:03:28+00",
+  "conditionId": "0xd2688bcbb23cff83eb2b12b3a4bf044fa9ea58dd19e5d4cef8ac26866c248545",
+  "slug": "trump-12-in-selzer-iowa-poll",
+  "question": "Trump ≥12% in Selzer Iowa poll?"
+}

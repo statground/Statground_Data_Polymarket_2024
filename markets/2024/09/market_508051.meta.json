@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:24:47.706574Z",
+  "market_createdAt": "2024-09-24T21:24:47.706574Z",
+  "market_updatedAt": "2024-10-10T06:36:44.662484Z",
+  "market_startDate": "2024-09-25T16:20:42.45Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-09 06:29:29+00",
+  "conditionId": "0xa66d14ad94746e868fc81a76d3f67cc4583a2ab08a5056e07e4b3080c4ce04a9",
+  "slug": "who-will-win-the-vp-debate-according-to-polls",
+  "question": "Who will win the VP debate according to polls?"
+}

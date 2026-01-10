@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:25:56.861527Z",
+  "market_createdAt": "2024-10-18T17:25:56.861527Z",
+  "market_updatedAt": "2024-10-20T01:45:56.215434Z",
+  "market_startDate": "2024-10-18T23:12:44.216536Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:42:53+00",
+  "conditionId": "0x3c5d94b5a12d4b4a6d53774fc89232226e155c9829743012e8d36e0712a39d68",
+  "slug": "will-arizona-beat-colorado-by-3-or-more-points",
+  "question": "Will Arizona beat Colorado by 3 or more points?"
+}

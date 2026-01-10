@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255065",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:42:23.728000Z",
+  "market_createdAt": "2024-03-01T17:42:23.728Z",
+  "market_updatedAt": "2024-11-07T14:07:10.102306Z",
+  "market_startDate": "2024-03-28T20:15:05.422Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:36:09+00",
+  "conditionId": "0x846be8b2fc96f1033d715aeedcbcb7459945abef9b87599a9e02c27ee1c66b7f",
+  "slug": "will-a-democrat-win-colorado-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Colorado Presidential Election?"
+}

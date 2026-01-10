@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T17:47:52.291933Z",
+  "market_createdAt": "2024-08-06T17:47:52.291933Z",
+  "market_updatedAt": "2024-09-02T04:43:06.550747Z",
+  "market_startDate": "2024-08-06T17:47:52.291933Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:15:03+00",
+  "conditionId": "0x940e2c2b3957cf856fc0d634c23b796d23ec496cd5962da91b5a4fff23a11249",
+  "slug": "will-ethereum-reach-3000-before-september",
+  "question": "Will Ethereum reach $3,000 before September? "
+}

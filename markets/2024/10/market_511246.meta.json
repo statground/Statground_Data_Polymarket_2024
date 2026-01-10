@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:17:42.891639Z",
+  "market_createdAt": "2024-10-28T21:17:42.891639Z",
+  "market_updatedAt": "2024-11-03T04:53:04.134878Z",
+  "market_startDate": "2024-10-28T23:59:34.549382Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 06:00:24+00",
+  "conditionId": "0x14ca995c4e2e3252b49d4cf9e704922c6fe753bb43c444a1e9d5bfb0370f1897",
+  "slug": "will-trump-say-china-10-or-more-times-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"China\" 10 or more times during Wisconsin rally on Nov 1?"
+}

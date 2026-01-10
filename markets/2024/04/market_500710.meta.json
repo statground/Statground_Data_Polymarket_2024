@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:27:23.497268Z",
+  "market_createdAt": "2024-04-04T17:27:23.497268Z",
+  "market_updatedAt": "2024-11-07T02:01:57.126057Z",
+  "market_startDate": "2024-04-12T19:19:39.413Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:59:00+00",
+  "conditionId": "0xb467b29463dfba230ccb24eca91c03c53665e9febc746cada108c63830b7573d",
+  "slug": "will-a-candidate-from-another-party-win-virginia-us-senate-election",
+  "question": "Will a candidate from another party win Virginia US Senate Election?"
+}

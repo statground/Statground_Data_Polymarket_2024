@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:49:28.780530Z",
+  "market_createdAt": "2024-09-24T04:49:28.78053Z",
+  "market_updatedAt": "2024-09-30T22:36:48.726242Z",
+  "market_startDate": "2024-09-24T04:51:47.15899Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:30:12+00",
+  "conditionId": "0xa4a7aa6dd85b4d4fab1e1f2ba4a4eccf506526db0c8a4433f0e6f225092c0010",
+  "slug": "nfl-car-cin-2024-09-29",
+  "question": "Panthers vs. Bengals"
+}

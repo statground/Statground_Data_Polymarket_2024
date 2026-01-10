@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:28:41.910943Z",
+  "market_createdAt": "2024-12-17T17:28:41.910943Z",
+  "market_updatedAt": "2025-02-02T07:05:08.496953Z",
+  "market_startDate": "2024-12-17T17:35:32.644Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 09:11:29+00",
+  "conditionId": "0x125098fe46aa9aea63a49a4428b960129f9246f97e8b013d1bdc65072f0c65d2",
+  "slug": "will-honda-and-nissan-merge",
+  "question": "Honda and Nissan merger announced before February?"
+}

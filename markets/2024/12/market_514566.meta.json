@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T17:10:40.513356Z",
+  "market_createdAt": "2024-12-03T17:10:40.513356Z",
+  "market_updatedAt": "2024-12-09T20:55:22.73764Z",
+  "market_startDate": "2024-12-03T19:40:32.343174Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:58:59+00",
+  "conditionId": "0x26020883e34bf8763904e23469d76153408cdd232621325a7236c5a59877a0ad",
+  "slug": "will-oscar-piastri-win-the-abu-dhabi-grand-prix",
+  "question": "Will Oscar Piastri win the Abu Dhabi Grand Prix?"
+}

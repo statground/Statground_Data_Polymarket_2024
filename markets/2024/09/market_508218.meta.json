@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T17:30:02.297132Z",
+  "market_createdAt": "2024-09-26T17:30:02.297132Z",
+  "market_updatedAt": "2024-09-29T04:52:40.943205Z",
+  "market_startDate": "2024-09-27T15:49:23.919671Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-28 05:39:49+00",
+  "conditionId": "0x92be26511c64123f595770b92cc96d634ff9b06bfa1602b97f4ce1be33d2e302",
+  "slug": "will-miami-beat-virginia-tech",
+  "question": "Will Miami beat Virginia Tech?"
+}

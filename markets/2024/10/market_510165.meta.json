@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:53:48.773037Z",
+  "market_createdAt": "2024-10-18T17:53:48.773037Z",
+  "market_updatedAt": "2024-10-21T02:46:40.382764Z",
+  "market_startDate": "2024-10-18T23:09:18.871613Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:52:56+00",
+  "conditionId": "0x4d94260099d6bfcc9c84734529322a78be62ec8bcf6797ca5b4399a9c6b622f2",
+  "slug": "will-there-be-57-or-more-combined-points-scored-Texas-Georgia",
+  "question": "Will there be 57 or more combined points scored?"
+}

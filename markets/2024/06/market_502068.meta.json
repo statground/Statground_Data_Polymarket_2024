@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:06:34.828948Z",
+  "market_createdAt": "2024-06-03T23:06:34.828948Z",
+  "market_updatedAt": "2024-06-19T05:51:10.895361Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:19:48+00",
+  "conditionId": "0xf2226e5d8c2b1863594f570da7cae85799c7718b33f8223c0d3d5eeb9e9873bc",
+  "slug": "luka-doncic-top-scorer-in-nba-finals",
+  "question": "Luka Doncic top scorer in NBA Finals? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:17:52.917892Z",
+  "market_createdAt": "2024-12-20T19:17:52.917892Z",
+  "market_updatedAt": "2024-12-23T00:55:41.445942Z",
+  "market_startDate": "2024-12-20T21:40:43.435333Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-22 02:48:47+00",
+  "conditionId": "0xa4b30fb40919d87d555328e0db3ccdf2797cbb414d94ad11953acd29cc1aeb0e",
+  "slug": "will-texas-beat-clemson-by-12-or-more-points",
+  "question": "Will Texas beat Clemson by 12 or more points?"
+}

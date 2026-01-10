@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T17:21:23.477319Z",
+  "market_createdAt": "2024-04-02T17:21:23.477319Z",
+  "market_updatedAt": "2024-11-08T13:38:58.169768Z",
+  "market_startDate": "2024-04-03T21:34:50.931Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 16:48:54+00",
+  "conditionId": "0x6e4832d8bb73fa29bf29848a4687a379a2565a4ced2cb2c87b849fc51da4bcba",
+  "slug": "will-a-democrat-win-maryland-us-senate-election",
+  "question": "Will a Democrat win Maryland US Senate Election?"
+}

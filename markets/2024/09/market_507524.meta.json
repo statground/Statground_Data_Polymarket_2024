@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:38:56.221838Z",
+  "market_createdAt": "2024-09-19T20:38:56.221838Z",
+  "market_updatedAt": "2024-12-15T16:19:42.368905Z",
+  "market_startDate": "2024-09-19T21:33:28.614492Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:31:27+00",
+  "conditionId": "0x6f51684d58cb60270d1ed3a70e29e463c70f817ee102ec1ee1cbe2017875d936",
+  "slug": "will-noah-fifita-win-the-heisman-trophy",
+  "question": "Will Noah Fifita win the Heisman Trophy?"
+}

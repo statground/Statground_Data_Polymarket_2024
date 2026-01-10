@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:09:49.880474Z",
+  "market_createdAt": "2024-04-29T19:09:49.880474Z",
+  "market_updatedAt": "2024-05-23T18:09:15.261144Z",
+  "market_startDate": "2024-04-29T22:52:38.88Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-05-22 21:01:28+00",
+  "conditionId": "0x9af5d39f7a36870c92d191b80b37352100f0981b57fb2f1e48c3a4fa68e7b42d",
+  "slug": "uk-election-in-january-2025-or-later",
+  "question": "UK election in January 2025 or later?"
+}

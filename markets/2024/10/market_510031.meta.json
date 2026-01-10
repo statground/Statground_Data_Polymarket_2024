@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T21:37:02.831123Z",
+  "market_createdAt": "2024-10-16T21:37:02.831123Z",
+  "market_updatedAt": "2025-01-25T01:27:19.697275Z",
+  "market_startDate": "2024-10-24T21:31:38.421694Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:40:42+00",
+  "conditionId": "0x93b8871f65185fc555bed98f57c5f178523acd9c89636ef9dfc1f1fd16e8e786",
+  "slug": "will-xavier-mckinney-win-nfl-defensive-player-of-the-year",
+  "question": "Will Xavier McKinney win NFL Defensive Player of the Year?"
+}

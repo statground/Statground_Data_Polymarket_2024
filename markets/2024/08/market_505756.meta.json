@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-25T14:11:46.216452Z",
+  "market_createdAt": "2024-08-25T14:11:46.216452Z",
+  "market_updatedAt": "2024-08-30T00:07:11.834209Z",
+  "market_startDate": "2024-08-25T15:28:09.15Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-29 00:06:09+00",
+  "conditionId": "0x2fc417b2e4f3be9d8007d48bcab0e9c3015c4e988f0faf3d081f08ffe0317503",
+  "slug": "pavel-durov-released-in-august",
+  "question": "Pavel Durov released in August?"
+}

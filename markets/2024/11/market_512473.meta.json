@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T21:34:05.216631Z",
+  "market_createdAt": "2024-11-08T21:34:05.216631Z",
+  "market_updatedAt": "2024-11-16T05:53:01.709724Z",
+  "market_startDate": "2024-11-11T21:56:11.694Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:56:43+00",
+  "conditionId": "0xb4df1a3e9d6829b3a4a25a414148ec2249172204a963936603c8338262a0a10f",
+  "slug": "will-trump-nominate-another-person-for-defense-secretary",
+  "question": "Will Trump nominate another person for Defense Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:37:12.246930Z",
+  "market_createdAt": "2024-06-12T22:37:12.24693Z",
+  "market_updatedAt": "2024-06-17T01:45:40.850264Z",
+  "market_startDate": "2024-06-12T23:41:20.808Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 01:44:05+00",
+  "conditionId": "0x3e45e8028de95c123d89a064f8df2a54fdd9cd03816105cfb2e64bc75b678d5b",
+  "slug": "will-patrick-cantlay-win-the-us-open",
+  "question": "Will Patrick Cantlay win the U.S. Open? "
+}

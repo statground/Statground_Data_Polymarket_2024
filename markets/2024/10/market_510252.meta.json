@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T14:32:06.728928Z",
+  "market_createdAt": "2024-10-21T14:32:06.728928Z",
+  "market_updatedAt": "2024-10-22T22:27:21.088148Z",
+  "market_startDate": "2024-10-21T15:00:36.854812Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 22:28:48+00",
+  "conditionId": "0x4a2454cd27ef41152942d088d15a5d6e105e143f2e976747554dcff00f4df224",
+  "slug": "will-trump-say-missile-defense-shield-during-north-carolina-rally-on-october-21",
+  "question": "Will Trump say \"Missile defense shield\" during North Carolina rally on October 21?"
+}

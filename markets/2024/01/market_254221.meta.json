@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-30T19:58:02.297000Z",
+  "market_createdAt": "2024-01-30T19:58:02.297Z",
+  "market_updatedAt": "2024-02-02T18:09:48.11Z",
+  "market_startDate": "2024-01-30T20:25:00Z",
+  "market_endDate": "2024-01-30T00:00:00Z",
+  "market_closedTime": "2024-02-01 19:32:49+00",
+  "conditionId": "0x34cfe7d307e94e33e9e7da7bbc7fe4dcc7c031e04fa34df5e24374532f6840bb",
+  "slug": "will-jup-be-between-0pt70-and-1pt00-one-day-after-airdrop",
+  "question": "Will JUP be between $0.70 and $1.00 one day after airdrop?"
+}

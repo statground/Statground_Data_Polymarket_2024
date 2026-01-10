@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:40:45.969156Z",
+  "market_createdAt": "2024-07-01T20:40:45.969156Z",
+  "market_updatedAt": "2024-07-03T03:15:46.78718Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:12:52+00",
+  "conditionId": "0xe0ae9c4a45f813d425d1fcd26bb285b4ef89c3e5e02e1edd0f9e682ba5a13e71",
+  "slug": "will-usa-win-jul-1",
+  "question": "Will USA win?"
+}

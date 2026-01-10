@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:08:14.565436Z",
+  "market_createdAt": "2024-12-22T07:08:14.565436Z",
+  "market_updatedAt": "2024-12-30T04:53:45.975284Z",
+  "market_startDate": "2024-12-22T07:10:31.410514Z",
+  "market_endDate": "2025-01-05T00:00:00Z",
+  "market_closedTime": "2024-12-29 04:51:58+00",
+  "conditionId": "0x5a5cd1f5dcf1fdd12e3deba7927f5a3b0a7d39d8db8b1be2be63d2c4e3c16bc0",
+  "slug": "nhl-nyr-tb-2024-12-28",
+  "question": "Rangers vs. Lightning"
+}

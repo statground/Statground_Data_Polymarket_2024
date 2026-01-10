@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500951",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T17:26:24.030235Z",
+  "market_createdAt": "2024-04-15T17:26:24.030235Z",
+  "market_updatedAt": "2024-05-07T23:09:32.388915Z",
+  "market_startDate": "2024-04-15T18:11:36.894Z",
+  "market_endDate": "2024-04-16T12:00:00Z",
+  "market_closedTime": "2024-04-17 06:37:45+00",
+  "conditionId": "0xa86cd342bc22094315d8f006b2f7fed31bd91361cd1f5ef46e24b4193164d7cb",
+  "slug": "nba-play-in-warriors-vs-kings",
+  "question": "NBA Play-In: Warriors vs Kings"
+}

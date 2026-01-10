@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:57:21.791926Z",
+  "market_createdAt": "2024-08-19T16:57:21.791926Z",
+  "market_updatedAt": "2024-08-31T01:37:07.767004Z",
+  "market_startDate": null,
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-08-30 04:10:47+00",
+  "conditionId": "0x35d8baae7e0773a9f55676945c50ebdf2a171d9d4188d946b2b55490326abe46",
+  "slug": "will-naomi-osaka-win-the-us-open",
+  "question": "Will Naomi Osaka win the US Open?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:47:10.344246Z",
+  "market_createdAt": "2024-05-03T14:47:10.344246Z",
+  "market_updatedAt": "2024-05-07T23:09:32.394591Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-04 16:22:30+00",
+  "conditionId": "0x1af9c028d3c750d87f69d211b1862b9350fe07d4c98c67e1106b6c9186c6d64b",
+  "slug": "will-mugatu-win-the-2024-kentucky-derby",
+  "question": "Will Mugatu win the 2024 Kentucky Derby?"
+}

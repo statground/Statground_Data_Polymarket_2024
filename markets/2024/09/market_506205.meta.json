@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-01T19:59:40.556434Z",
+  "market_createdAt": "2024-09-01T19:59:40.556434Z",
+  "market_updatedAt": "2024-09-03T20:23:09.989575Z",
+  "market_startDate": "2024-09-01T22:09:32.725404Z",
+  "market_endDate": "2024-09-02T12:00:00Z",
+  "market_closedTime": "2024-09-02 20:31:18+00",
+  "conditionId": "0xe52d1c96561d51ad948e2e027f71b200b6a7d3f2636746947c3a6f34015150b3",
+  "slug": "us-open-draper-vs-machac",
+  "question": "US Open: Draper vs. Machac"
+}

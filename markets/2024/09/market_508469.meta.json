@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:57:02.568828Z",
+  "market_createdAt": "2024-09-30T19:57:02.568828Z",
+  "market_updatedAt": "2024-10-03T21:52:41.613935Z",
+  "market_startDate": "2024-09-30T22:10:25.190138Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 00:22:59+00",
+  "conditionId": "0x4d2ba6fb75fa38ef15c2a6ec04b86971181edb29e8711f3ec47c9ada98426635",
+  "slug": "will-benfica-beat-atletico-madrid",
+  "question": "Will Benfica beat Atletico Madrid?"
+}

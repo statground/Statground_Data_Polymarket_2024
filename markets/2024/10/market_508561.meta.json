@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:09:22.242141Z",
+  "market_createdAt": "2024-10-01T18:09:22.242141Z",
+  "market_updatedAt": "2024-11-02T06:37:11.734022Z",
+  "market_startDate": "2024-10-01T18:19:19.206741Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:50:07+00",
+  "conditionId": "0xb655a5eb8829d2aca283da63aa93084031dde0ce729dbe6f07f4fa50b16ce526",
+  "slug": "megaquake-in-october",
+  "question": "Megaquake in October?"
+}

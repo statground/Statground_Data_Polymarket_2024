@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T01:52:37.190925Z",
+  "market_createdAt": "2024-10-08T01:52:37.190925Z",
+  "market_updatedAt": "2024-11-11T04:12:48.029737Z",
+  "market_startDate": "2024-10-08T17:38:19.99427Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:27:49+00",
+  "conditionId": "0x71636521d7c97d55c349b637390fb4497d4f8ce52529ddb6d9a4ff537069d063",
+  "slug": "will-trump-win-7-swing-states",
+  "question": "Will Trump win 7 swing states?"
+}

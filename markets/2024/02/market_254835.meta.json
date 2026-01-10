@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T22:58:11.892000Z",
+  "market_createdAt": "2024-02-27T22:58:11.892Z",
+  "market_updatedAt": "2024-03-09T18:34:02.352Z",
+  "market_startDate": "2024-02-28T15:39:42.951Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-03-08 18:48:51+00",
+  "conditionId": "0xaccba604009082b49817b6a78536d2d568719fc3f75e35fd8c58efde2c400bc1",
+  "slug": "will-btc-hit-70000-in-march",
+  "question": "Will BTC hit $70,000 in March?"
+}

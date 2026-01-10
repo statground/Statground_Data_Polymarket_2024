@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:05:36.247083Z",
+  "market_createdAt": "2024-12-22T05:05:36.247083Z",
+  "market_updatedAt": "2024-12-27T02:31:14.167041Z",
+  "market_startDate": "2024-12-22T05:08:16.423255Z",
+  "market_endDate": "2025-01-01T22:00:00Z",
+  "market_closedTime": "2024-12-26 02:34:04+00",
+  "conditionId": "0x3d8e41b292e5253167502a91ef41011f12d715e67308d77c46381e99d932badc",
+  "slug": "nba-phi-bos-2024-12-25",
+  "question": "76ers vs. Celtics"
+}

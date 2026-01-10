@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504448",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T22:56:30.425505Z",
+  "market_createdAt": "2024-08-01T22:56:30.425505Z",
+  "market_updatedAt": "2024-08-14T01:37:03.231902Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-13 03:36:48+00",
+  "conditionId": "0x5bee69d7f4acf152008cee07068b78dc6ccb86584274f509b8d54ebd60ac7ac6",
+  "slug": "will-bidens-538-approval-reach-40-by-august-9",
+  "question": "Will Biden's 538 approval reach 40% by August 9?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:38:15.966694Z",
+  "market_createdAt": "2024-11-15T21:38:15.966694Z",
+  "market_updatedAt": "2024-11-17T19:55:15.841562Z",
+  "market_startDate": "2024-11-15T23:06:45.340383Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:00:29+00",
+  "conditionId": "0x0c92cad200a4fabee4fef289e4fda18cee67cad633c16bb767d554368f139e49",
+  "slug": "will-the-match-between-montenegro-and-iceland-end-in-a-draw",
+  "question": "Will the match between Montenegro and Iceland end in a draw?"
+}

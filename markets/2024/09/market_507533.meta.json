@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:18:05.011518Z",
+  "market_createdAt": "2024-09-19T21:18:05.011518Z",
+  "market_updatedAt": "2024-11-01T18:53:11.28732Z",
+  "market_startDate": "2024-09-20T14:26:50.112Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-31 21:50:03+00",
+  "conditionId": "0x626436e51a9b7486bf356594f29de0c729ae4e88b4c196e58d2eb9cc8d4105f9",
+  "slug": "will-another-party-win-the-most-seats-in-the-2024-saskatchewan-general-election",
+  "question": "Will another party win the most seats in the 2024 Saskatchewan general election?"
+}

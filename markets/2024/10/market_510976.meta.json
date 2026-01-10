@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:59:32.682405Z",
+  "market_createdAt": "2024-10-25T18:59:32.682405Z",
+  "market_updatedAt": "2024-10-28T02:56:47.314895Z",
+  "market_startDate": "2024-10-25T22:30:52.721716Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 05:16:33+00",
+  "conditionId": "0x5aced73c369af14dcd43a9ad5ef99b60c0eab6dec9b2fe2c086389c888f9858b",
+  "slug": "will-there-be-48-or-more-combined-points-scored-Penn-St-Wisconsin",
+  "question": "Will there be 48 or more combined points scored?"
+}

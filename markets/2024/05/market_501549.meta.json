@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T14:57:57.516334Z",
+  "market_createdAt": "2024-05-13T14:57:57.516334Z",
+  "market_updatedAt": "2024-05-14T19:59:19.938301Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-13T12:00:00Z",
+  "market_closedTime": "2024-05-13 23:14:27+00",
+  "conditionId": "0xea48fc51cd0269c8c54893d563ba52af2c4012342f4cb0033947d618d34dbca4",
+  "slug": "gme-halted-12-times-today",
+  "question": "$GME halted 12 times today?"
+}

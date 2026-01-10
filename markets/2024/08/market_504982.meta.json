@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:50:23.895778Z",
+  "market_createdAt": "2024-08-12T20:50:23.895778Z",
+  "market_updatedAt": "2024-08-15T06:47:02.133467Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 07:56:33+00",
+  "conditionId": "0xbb54f1df7327f15d1f8a1db7ee0daaaf61f4f69cf28ccfdbdcc1cb58fdf03ebe",
+  "slug": "will-another-candidate-win-the-wi-3-democratic-house-primary",
+  "question": "Will another candidate win the WI-3 Democratic House Primary?"
+}

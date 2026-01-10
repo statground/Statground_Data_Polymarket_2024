@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:19:50.081215Z",
+  "market_createdAt": "2024-11-26T08:19:50.081215Z",
+  "market_updatedAt": "2024-11-29T19:27:37.430271Z",
+  "market_startDate": "2024-11-26T22:51:36.641266Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 22:51:42+00",
+  "conditionId": "0x28b0b11a8770bdd89b1d8438371d064702a7e2ba6a87a9dc0626e09751ab8c0e",
+  "slug": "will-athletic-bilbao-beat-if-elfsborg",
+  "question": "Will Athletic Bilbao beat IF Elfsborg?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-22T18:00:44.686000Z",
+  "market_createdAt": "2024-01-22T18:00:44.686Z",
+  "market_updatedAt": "2024-01-30T05:09:33.458Z",
+  "market_startDate": "2024-01-28T00:00:00Z",
+  "market_endDate": "2024-01-28T00:00:00Z",
+  "market_closedTime": "2024-01-29 05:02:10+00",
+  "conditionId": "0x83f7f38f902b05d3193e5d9fad78c602b3cdde2a4d5bd3b0c9c21364b0f828b7",
+  "slug": "nfl-sf-det-2024-01-28",
+  "question": "49ers vs. Lions"
+}

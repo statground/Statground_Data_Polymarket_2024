@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:27:13.662865Z",
+  "market_createdAt": "2024-11-18T19:27:13.662865Z",
+  "market_updatedAt": "2024-12-08T01:31:04.794601Z",
+  "market_startDate": "2024-11-18T20:49:04.25Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-07 01:35:51+00",
+  "conditionId": "0x9120a6aed05b815423a9f121d1d18936fc2a482714b51b79999b3b478da289ce",
+  "slug": "will-moodeng-be-listed-first-on-coinbase",
+  "question": "Will $MOODENG be listed first on Coinbase?"
+}

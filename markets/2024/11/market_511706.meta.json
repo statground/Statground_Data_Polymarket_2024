@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:52:26.717473Z",
+  "market_createdAt": "2024-11-01T18:52:26.717473Z",
+  "market_updatedAt": "2024-11-04T18:06:59.680556Z",
+  "market_startDate": "2024-11-01T22:18:04.935767Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:36:16+00",
+  "conditionId": "0x25bbcfa1198a1304c986873e1c01ae34a7cf396df5c6d500cb0e342d5d32dda9",
+  "slug": "will-the-rams-beat-the-seahawks-by-2-or-more-points",
+  "question": "Will the Rams beat the Seahawks by 2 or more points?"
+}

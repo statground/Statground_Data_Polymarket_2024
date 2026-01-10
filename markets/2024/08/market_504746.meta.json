@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:15:07.461494Z",
+  "market_createdAt": "2024-08-08T18:15:07.461494Z",
+  "market_updatedAt": "2024-12-10T07:35:17.771344Z",
+  "market_startDate": "2024-08-08T18:55:06.327Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-09 07:49:20+00",
+  "conditionId": "0xdb10542b728f31ee446c8512200f4207b85432381a2ab176254472d1158d6a34",
+  "slug": "will-the-kansas-city-chiefs-win-the-afc-west",
+  "question": "Will the Kansas City Chiefs win the AFC West?"
+}

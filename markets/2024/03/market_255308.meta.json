@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T21:01:59.460000Z",
+  "market_createdAt": "2024-03-05T21:01:59.46Z",
+  "market_updatedAt": "2024-05-07T23:09:54.205433Z",
+  "market_startDate": "2024-03-06T20:51:20.721Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:26:22+00",
+  "conditionId": "0xa77fb33b6d08972058e63340923f0f59edf9e5ff7cd6535b96b612d6f8ffec19",
+  "slug": "coinbase-a-top-25-app-in-march",
+  "question": "Coinbase a top 25 app in March?"
+}

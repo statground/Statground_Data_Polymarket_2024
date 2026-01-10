@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:32:07.814857Z",
+  "market_createdAt": "2024-10-21T21:32:07.814857Z",
+  "market_updatedAt": "2024-10-23T21:43:16.892218Z",
+  "market_startDate": "2024-10-22T00:40:48.895396Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-22 22:04:50+00",
+  "conditionId": "0x48f843549e95ecf2674dbbcae3a7829ad314f863cb3aecd210b354e2c0620849",
+  "slug": "will-red-star-belgrade-beat-monaco",
+  "question": "Will Red Star Belgrade beat Monaco?"
+}

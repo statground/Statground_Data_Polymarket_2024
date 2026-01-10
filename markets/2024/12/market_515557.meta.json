@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T17:16:11.313503Z",
+  "market_createdAt": "2024-12-13T17:16:11.313503Z",
+  "market_updatedAt": "2025-04-02T07:52:34.716311Z",
+  "market_startDate": "2024-12-13T17:20:40.399Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:51:54+00",
+  "conditionId": "0x98d9781facbf448a67bd1e1e0d538b2afca6e538d73f278308d0211fbfc87c94",
+  "slug": "will-bitcoin-dip-to-70000-by-march-31",
+  "question": "Will Bitcoin dip to $70,000 by March 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T19:17:30.338373Z",
+  "market_createdAt": "2024-09-16T19:17:30.338373Z",
+  "market_updatedAt": "2024-09-24T05:16:46.296389Z",
+  "market_startDate": "2024-09-17T23:06:59.947358Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 05:22:56+00",
+  "conditionId": "0x05d4740cce1eca97cd4729f8195793bbb086420feddb68b24df1a43fc8d93a2b",
+  "slug": "nfl-atl-kc-2024-09-22",
+  "question": "Falcons vs. Chiefs"
+}

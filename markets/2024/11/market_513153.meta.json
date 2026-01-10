@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513153",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:00:13.155493Z",
+  "market_createdAt": "2024-11-15T19:00:13.155493Z",
+  "market_updatedAt": "2024-11-17T01:50:51.983785Z",
+  "market_startDate": "2024-11-15T22:08:29.017523Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 08:30:12+00",
+  "conditionId": "0x8e8de8e7aa35649b8336968e5f3479a193bf3ba2fb1b5e4d2dd13bc38255fb31",
+  "slug": "will-arizona-beat-houston-by-3-or-more-points",
+  "question": "Will Arizona beat Houston by 3 or more points?"
+}

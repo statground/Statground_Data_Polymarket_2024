@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-27T20:15:15.285027Z",
+  "market_createdAt": "2024-04-27T20:15:15.285027Z",
+  "market_updatedAt": "2024-05-07T23:10:05.64389Z",
+  "market_startDate": "2024-04-27T20:32:05.249Z",
+  "market_endDate": "2024-04-28T12:00:00Z",
+  "market_closedTime": "2024-04-28 21:52:54+00",
+  "conditionId": "0xe038bf35c5a8400b401190961eb89f2dae659ab6d71a891daf56847e8f728fc1",
+  "slug": "nba-phi-nyk-2024-04-28",
+  "question": "NBA: Philadelphia 76ers vs. New York Knicks 2024-04-28"
+}

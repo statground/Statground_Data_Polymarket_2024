@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T16:01:49.928011Z",
+  "market_createdAt": "2024-07-09T16:01:49.928011Z",
+  "market_updatedAt": "2025-01-28T03:19:31.511481Z",
+  "market_startDate": "2024-07-09T16:01:49.928Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-27 03:19:21+00",
+  "conditionId": "0x80b4f6ca982ba1ff550316f725193f5f29761bf65770e37f11fa4b9736f1f7c1",
+  "slug": "will-the-commanders-win-super-bowl-2025",
+  "question": "Will the Commanders win Super Bowl 2025?"
+}

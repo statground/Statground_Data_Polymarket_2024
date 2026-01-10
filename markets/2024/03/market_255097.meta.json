@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:13:56.525000Z",
+  "market_createdAt": "2024-03-01T18:13:56.525Z",
+  "market_updatedAt": "2024-11-07T13:58:59.447481Z",
+  "market_startDate": "2024-03-28T20:20:09.894Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:39:04+00",
+  "conditionId": "0xcb70b74072ac5512db6b9fe14d783a6cd09918aa0663188fcd5e17e459771291",
+  "slug": "will-a-candidate-from-another-party-win-idaho-presidential-election",
+  "question": "Will a candidate from another party win Idaho Presidential Election?"
+}

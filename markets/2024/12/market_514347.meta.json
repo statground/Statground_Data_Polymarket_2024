@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T17:24:50.654820Z",
+  "market_createdAt": "2024-12-01T17:24:50.65482Z",
+  "market_updatedAt": "2024-12-07T20:13:30.349543Z",
+  "market_startDate": "2024-12-02T15:31:22.352591Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 20:14:55+00",
+  "conditionId": "0xe1b72bf7a3c23b6420a156e4414eba33ebadb50888fd8412f1c3822f6d5c3ae8",
+  "slug": "will-trump-tweet-3-4-times-nov-29-dec-6",
+  "question": "Will trump tweet 3-4 times Nov 29-Dec 6?"
+}

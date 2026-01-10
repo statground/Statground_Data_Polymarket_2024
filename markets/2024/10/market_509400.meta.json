@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:31:21.816142Z",
+  "market_createdAt": "2024-10-09T18:31:21.816142Z",
+  "market_updatedAt": "2025-04-14T04:42:59.551514Z",
+  "market_startDate": "2024-10-10T20:45:30.610507Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:40:12+00",
+  "conditionId": "0xeb059ce8cd5b06abd5c0a957074be68b7fbc6ac8b1ec09185a5e14438ed728e5",
+  "slug": "will-fred-vanvleet-lead-the-nba-in-assists",
+  "question": "Will Fred VanVleet lead the NBA in Assists?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T17:23:27.021642Z",
+  "market_createdAt": "2024-05-29T17:23:27.021642Z",
+  "market_updatedAt": "2024-06-03T14:58:11.522183Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x9a63b56fa5e2076fe920e02685bd24c639cffbb24cfe49a62f126d2a46081da3",
+  "slug": "ufc-302-sean-strickland-vs-paulo-costa",
+  "question": "UFC 302: Sean Strickland vs. Paulo Costa"
+}

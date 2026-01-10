@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509957",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:29:19.450304Z",
+  "market_createdAt": "2024-10-15T20:29:19.450304Z",
+  "market_updatedAt": "2024-10-22T01:17:11.138948Z",
+  "market_startDate": "2024-10-16T17:15:19.16452Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:18:40+00",
+  "conditionId": "0x2ea545d6b744417f7e93d0abeebaa2405dae0dc4e379dbfb20881553a1ea161f",
+  "slug": "will-george-russell-win-the-united-states-grand-prix",
+  "question": "Will George Russell win the United States Grand Prix?"
+}

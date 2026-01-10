@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513205",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:07:28.450606Z",
+  "market_createdAt": "2024-11-15T21:07:28.450606Z",
+  "market_updatedAt": "2024-12-19T22:03:35.958033Z",
+  "market_startDate": "2024-11-15T21:39:31.186Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 22:08:40+00",
+  "conditionId": "0x8fbe79f5e5528696e5565bc8ee2b3e15ac66ba69345c6a663f61f8ac7b4bb91c",
+  "slug": "will-jerome-powell-say-inflation-50-or-more-times-during-december-fomc-press-conference",
+  "question": "Will Jerome Powell say \"inflation\" 50 or more times during December FOMC Press Conference?"
+}

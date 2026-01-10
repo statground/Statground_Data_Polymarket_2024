@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T21:07:52.953930Z",
+  "market_createdAt": "2024-07-02T21:07:52.95393Z",
+  "market_updatedAt": "2024-07-07T05:00:48.147974Z",
+  "market_startDate": "2024-07-02T22:57:57.309Z",
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:45:47+00",
+  "conditionId": "0x08796c97fedc10b90696531d6c00ae1c74beba4b875d30b73f15e391b825801e",
+  "slug": "will-biden-say-kamala-in-abc-interview",
+  "question": "Will Biden say \"Kamala\" or \"Harris\" in ABC interview?"
+}

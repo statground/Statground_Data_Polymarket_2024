@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:26:34.729271Z",
+  "market_createdAt": "2024-08-15T17:26:34.729271Z",
+  "market_updatedAt": "2024-09-12T13:27:11.731839Z",
+  "market_startDate": "2024-08-15T17:26:34.729271Z",
+  "market_endDate": "2024-09-11T12:00:00Z",
+  "market_closedTime": "2024-09-11 14:34:13+00",
+  "conditionId": "0xc67c3fa991d07a953cb4a685daae00cc933d9532a121ff51edf9d6656d55c252",
+  "slug": "annual-inflation-under-3-in-august",
+  "question": "Annual inflation under 3% in August?"
+}

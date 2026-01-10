@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500460",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T19:13:17.384262Z",
+  "market_createdAt": "2024-03-26T19:13:17.384262Z",
+  "market_updatedAt": "2024-05-07T23:09:57.13847Z",
+  "market_startDate": "2024-03-26T21:08:49.605Z",
+  "market_endDate": "2024-04-23T12:00:00Z",
+  "market_closedTime": "2024-04-22 03:38:14+00",
+  "conditionId": "0xccf161ffc6874c1c8f5721658b7c4b3322b5332965da3c7d6f2aae193fa95022",
+  "slug": "will-another-player-win-fide-candidates-2024",
+  "question": "Will another player win FIDE Candidates 2024?"
+}

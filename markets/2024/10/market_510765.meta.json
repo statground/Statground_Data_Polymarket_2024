@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:36:32.000725Z",
+  "market_createdAt": "2024-10-23T21:36:32.000725Z",
+  "market_updatedAt": "2024-11-08T08:38:56.290971Z",
+  "market_startDate": "2024-11-01T18:19:13.791Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-07 09:07:34+00",
+  "conditionId": "0xc8fc50c02dc2a4619e5a31bfaaacf193c0085ea52a396131fe2d8e7c4497c9d3",
+  "slug": "will-either-candidate-concede-in-november",
+  "question": "Will either candidate concede in November?"
+}

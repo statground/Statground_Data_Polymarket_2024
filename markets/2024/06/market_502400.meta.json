@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502400",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:28:37.984936Z",
+  "market_createdAt": "2024-06-12T22:28:37.984936Z",
+  "market_updatedAt": "2024-06-17T02:06:14.495854Z",
+  "market_startDate": "2024-06-12T23:41:15Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-16 21:51:44+00",
+  "conditionId": "0x96d037d92bd6b9b8548b3104f99cf61b719f32b09e2e5bae1aea4a911fa4fd9c",
+  "slug": "will-scottie-scheffler-win-the-us-open",
+  "question": "Will Scottie Scheffler win the U.S. Open?"
+}

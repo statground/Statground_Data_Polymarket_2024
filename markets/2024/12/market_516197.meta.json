@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:02:01.371858Z",
+  "market_createdAt": "2024-12-22T05:02:01.371858Z",
+  "market_updatedAt": "2024-12-25T04:35:31.986824Z",
+  "market_startDate": "2024-12-22T05:05:01.016411Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:54:11+00",
+  "conditionId": "0x03aa766f7db70c81b6967436c071372703137c25978178fa9aa67f72ab04e8ed",
+  "slug": "nba-bos-orl-2024-12-23",
+  "question": "Celtics vs. Magic"
+}

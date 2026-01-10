@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501138",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-23T15:42:06.736881Z",
+  "market_createdAt": "2024-04-23T15:42:06.736881Z",
+  "market_updatedAt": "2024-05-07T23:09:35.086123Z",
+  "market_startDate": "2024-04-23T15:45:08.055Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:10:15+00",
+  "conditionId": "0x96b88290cce7cbc3ba3e2891c07d14a5851878801bc0e8351f384d6c1a07bc44",
+  "slug": "retardio-listed-on-coinmarketcap-in-april",
+  "question": "Retardio listed on CoinMarketCap in April?"
+}

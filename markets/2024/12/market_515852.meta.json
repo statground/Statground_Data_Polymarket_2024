@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:25:44.442599Z",
+  "market_createdAt": "2024-12-17T17:25:44.442599Z",
+  "market_updatedAt": "2025-01-01T14:47:12.135584Z",
+  "market_startDate": "2024-12-17T18:15:55.725501Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:56:27+00",
+  "conditionId": "0x3e3d61f477848499d6f5d61b3573cabe2ad8547c5957454e4052f8266003fb9d",
+  "slug": "will-another-model-be-the-top-ai-model-on-december-31",
+  "question": "Will another model be the top AI model on December 31?"
+}

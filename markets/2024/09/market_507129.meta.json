@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T16:51:38.451495Z",
+  "market_createdAt": "2024-09-16T16:51:38.451495Z",
+  "market_updatedAt": "2024-09-19T00:22:46.745242Z",
+  "market_startDate": "2024-09-16T17:34:38.928Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 02:13:39+00",
+  "conditionId": "0xaf6aa5e6bef00b2dfa63e59f1d310769066053eea28f123f0343263a60c78deb",
+  "slug": "will-donald-trump-say-moderator-during-his-michigan-rally",
+  "question": "Will Donald Trump say \"moderator\" during his Michigan town hall?"
+}

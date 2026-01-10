@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:12:29.325662Z",
+  "market_createdAt": "2024-11-01T23:12:29.325662Z",
+  "market_updatedAt": "2024-11-05T00:11:22.16369Z",
+  "market_startDate": "2024-11-02T00:03:05.747Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:20:33+00",
+  "conditionId": "0x2a7b5765e24d134350f2d7733b6118f148b053f388a7c307bf881b7883f89d79",
+  "slug": "will-trump-say-cognitively-impaired-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"cognitively impaired\" during North Carolina rally on Nov 3?"
+}

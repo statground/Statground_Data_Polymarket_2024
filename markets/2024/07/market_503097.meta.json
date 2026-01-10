@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:16:53.321652Z",
+  "market_createdAt": "2024-07-01T21:16:53.321652Z",
+  "market_updatedAt": "2024-07-07T17:35:51.48531Z",
+  "market_startDate": "2024-07-02T14:32:59.915Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-06 20:45:13+00",
+  "conditionId": "0x79cbe4bf801899836f07ede6f3cbdeb800bb6ec75ce3c16ecff16388d71dc7cc",
+  "slug": "will-ons-jabeur-win-wimbledon-womens",
+  "question": "Will Ons Jabeur win Wimbledon Women's?"
+}

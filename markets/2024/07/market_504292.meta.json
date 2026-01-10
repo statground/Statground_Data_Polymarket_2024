@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:11:40.897649Z",
+  "market_createdAt": "2024-07-29T20:11:40.897649Z",
+  "market_updatedAt": "2024-08-05T04:56:58.397724Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:00:41+00",
+  "conditionId": "0x8254e05a602f28d88633f4f787cc8387204437c636e780e0b22f9a56987342f1",
+  "slug": "will-tom-kim-win-gold-in-mens-golf",
+  "question": "Will Tom Kim win Gold in Men's Golf?"
+}

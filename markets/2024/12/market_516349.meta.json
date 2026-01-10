@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T19:48:13.542102Z",
+  "market_createdAt": "2024-12-23T19:48:13.542102Z",
+  "market_updatedAt": "2025-01-02T07:53:01.503293Z",
+  "market_startDate": "2024-12-23T19:58:52.232027Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:48:08+00",
+  "conditionId": "0x97587c58a3407fcc9a8df6396aaa8b66eff8b0c799fdf81880f258755b7d529c",
+  "slug": "will-bitcoin-hit-100k-again-in-2024-dec-23",
+  "question": "Will Bitcoin hit $100k again in 2024?"
+}

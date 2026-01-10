@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:09:55.145660Z",
+  "market_createdAt": "2024-12-29T05:09:55.14566Z",
+  "market_updatedAt": "2025-01-06T07:43:29.705482Z",
+  "market_startDate": "2024-12-29T05:12:21.598112Z",
+  "market_endDate": "2025-01-12T03:30:00Z",
+  "market_closedTime": "2025-01-05 07:53:04+00",
+  "conditionId": "0xb026b8390fa2304296f2820a74e724475d5d9867634029591b514e86f30b1f76",
+  "slug": "nba-atl-lac-2025-01-04",
+  "question": "Hawks vs. Clippers"
+}

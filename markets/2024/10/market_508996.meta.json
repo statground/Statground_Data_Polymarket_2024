@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:07:48.081594Z",
+  "market_createdAt": "2024-10-04T21:07:48.081594Z",
+  "market_updatedAt": "2024-10-07T22:06:33.999138Z",
+  "market_startDate": "2024-10-04T22:30:00.076452Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:57:36+00",
+  "conditionId": "0xe05cb180974ea114dfb96940589d86fcd7bd512ab43fe658ff1ece5814e9befe",
+  "slug": "will-trump-say-missile-defense-shield-during-wisconsin-rally",
+  "question": "Will Trump say \"missile defense shield\" during Wisconsin rally?"
+}

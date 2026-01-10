@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:53:11.746679Z",
+  "market_createdAt": "2024-10-25T18:53:11.746679Z",
+  "market_updatedAt": "2024-10-28T02:46:48.346738Z",
+  "market_startDate": "2024-10-25T22:25:32.823042Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 04:50:39+00",
+  "conditionId": "0x91d1018dce38a6fb63f2bdb42eda72acb696a6ea247e593fcb386d2fb12e2394",
+  "slug": "will-arizona-beat-west-virginia",
+  "question": "Will Arizona beat West Virginia?"
+}

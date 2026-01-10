@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:48:43.861479Z",
+  "market_createdAt": "2024-11-12T18:48:43.861479Z",
+  "market_updatedAt": "2024-12-31T04:41:41.480836Z",
+  "market_startDate": "2024-11-12T21:21:34.654864Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-30 07:03:43+00",
+  "conditionId": "0x1bcac33d0e46c82c43cb1c5acd36ca702be4e61cbcc8760aa523657be3d3e60b",
+  "slug": "will-the-washington-commanders-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Washington Commanders make the 2024-25 NFL Playoffs?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:39:24.821201Z",
+  "market_createdAt": "2024-08-19T16:39:24.821201Z",
+  "market_updatedAt": "2024-08-28T19:16:57.634696Z",
+  "market_startDate": null,
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-08-27 22:15:44+00",
+  "conditionId": "0x0c027bb098f94195c54ab5e868f6b09eccee81b740b4f589413d3d7e51bb14d3",
+  "slug": "will-stefanos-tsitsipas-win-the-us-open",
+  "question": "Will Stefanos Tsitsipas win the US Open?"
+}

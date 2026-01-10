@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T17:00:22.404865Z",
+  "market_createdAt": "2024-08-14T17:00:22.404865Z",
+  "market_updatedAt": "2024-08-16T23:03:02.526405Z",
+  "market_startDate": "2024-08-14T17:27:55.726Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:22:23+00",
+  "conditionId": "0xaac0cacdc31dfb91025cee62dacb6458d07723da72198ed667b117ad026418e3",
+  "slug": "will-trump-say-china-at-his-press-conference",
+  "question": "Will Trump say \"China\" at his press conference?"
+}

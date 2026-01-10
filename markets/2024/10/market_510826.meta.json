@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:53:18.843392Z",
+  "market_createdAt": "2024-10-24T19:53:18.843392Z",
+  "market_updatedAt": "2024-10-27T04:36:52.680045Z",
+  "market_startDate": "2024-10-24T20:21:25.152998Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:16:43+00",
+  "conditionId": "0x6b0d18350e101c662d394d9022dfcd8a05350f26eb059aef9ad1293fd129fb74",
+  "slug": "will-trump-say-wall-street-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"Wall Street\" during Michigan rally on October 25?"
+}

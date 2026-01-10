@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T21:58:44.043212Z",
+  "market_createdAt": "2024-11-06T21:58:44.043212Z",
+  "market_updatedAt": "2025-01-21T20:09:09.100375Z",
+  "market_startDate": "2024-11-06T23:11:22.585Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:05:08+00",
+  "conditionId": "0x66bc5018b4810848734bd2519750e03252fb9617c2d9e057f657efbb03f9a538",
+  "slug": "will-joe-biden-attend-presidential-inauguration",
+  "question": "Will Joe Biden attend presidential inauguration?"
+}

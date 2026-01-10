@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:54:16.151000Z",
+  "market_createdAt": "2024-03-01T17:54:16.151Z",
+  "market_updatedAt": "2024-11-07T08:47:12.955872Z",
+  "market_startDate": "2024-03-28T20:49:45.016Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 14:25:46+00",
+  "conditionId": "0x6c21808d100a7c8f630954536fb3cb1449f13749f380859db4b39c27ba8d18c3",
+  "slug": "will-a-candidate-from-another-party-win-new-jersey-presidential-election",
+  "question": "Will a candidate from another party win New Jersey Presidential Election?"
+}

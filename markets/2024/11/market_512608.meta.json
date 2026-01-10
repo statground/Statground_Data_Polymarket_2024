@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:20:06.658827Z",
+  "market_createdAt": "2024-11-08T23:20:06.658827Z",
+  "market_updatedAt": "2024-11-11T18:02:52.097526Z",
+  "market_startDate": "2024-11-09T02:56:54.72456Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 22:55:57+00",
+  "conditionId": "0x6ff0771b4989a4b0d25fd8db24ee35cf6e782aeda5cbb53950c0a0a11bc68bdc",
+  "slug": "will-the-chiefs-beat-the-broncos-by-8-or-more-points",
+  "question": "Will the Chiefs beat the Broncos by 8 or more points?"
+}

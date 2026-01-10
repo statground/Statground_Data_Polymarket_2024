@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T18:46:22.782696Z",
+  "market_createdAt": "2024-06-17T18:46:22.782696Z",
+  "market_updatedAt": "2024-07-06T17:10:47.812352Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 17:34:38+00",
+  "conditionId": "0xb5994021322e0ab29f8d6330dc729d63621887afdff93e1c97d133657ee9d376",
+  "slug": "will-reform-win-7-seats-in-uk-election",
+  "question": "Will Reform win 7+ seats in UK Election?"
+}

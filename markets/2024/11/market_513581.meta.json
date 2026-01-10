@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T20:59:56.789356Z",
+  "market_createdAt": "2024-11-20T20:59:56.789356Z",
+  "market_updatedAt": "2025-02-04T04:33:58.62206Z",
+  "market_startDate": "2024-11-20T22:11:52.860309Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:22:57+00",
+  "conditionId": "0x01b5d3a30f38fa413aad3c7ac6c25067db7e1ad2f5f71e483529fd200eddc47d",
+  "slug": "will-texas-hold-em-win-song-of-the-year",
+  "question": "Will 'TEXAS HOLD 'EM' win Song of the Year?"
+}

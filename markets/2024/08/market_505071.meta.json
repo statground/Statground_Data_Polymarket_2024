@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:11:25.606107Z",
+  "market_createdAt": "2024-08-13T20:11:25.606107Z",
+  "market_updatedAt": "2024-08-18T17:06:56.183162Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:13:07+00",
+  "conditionId": "0x4692894362114987115657b876070bb7c965c3f652325e88495de2bb55783d19",
+  "slug": "will-nottingham-forest-vs-afc-bournemouth-end-in-a-draw",
+  "question": "Will Nottingham Forest vs. AFC Bournemouth end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T19:59:46.286000Z",
+  "market_createdAt": "2024-01-23T19:59:46.286Z",
+  "market_updatedAt": "2024-03-12T04:21:58.993Z",
+  "market_startDate": "2024-01-23T21:38:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:16:17+00",
+  "conditionId": "0x29d322f2e1c811a1730f27a9a3dfc4f1f16088879779545534c3e834ca72652e",
+  "slug": "will-emma-stone-win-the-oscar-for-best-actress",
+  "question": "Will Emma Stone win the Oscar for Best Actress?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T18:56:40.726170Z",
+  "market_createdAt": "2024-11-05T18:56:40.72617Z",
+  "market_updatedAt": "2024-11-08T00:39:02.695507Z",
+  "market_startDate": "2024-11-05T19:46:19.066Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:38:51+00",
+  "conditionId": "0x535595edf8d19a21f43b6a5de13f96b3773fe128184b443324736e8c4e6f1c94",
+  "slug": "will-kamala-say-doug-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"Doug\" in her speech after the election is called?"
+}

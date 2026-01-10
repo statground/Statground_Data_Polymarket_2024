@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:47:58.674863Z",
+  "market_createdAt": "2024-07-26T23:47:58.674863Z",
+  "market_updatedAt": "2024-08-02T19:02:53.840131Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-01 22:45:18+00",
+  "conditionId": "0xa757808dca2ea0f98828a0ddfc708b9496905a27fba8afc9915ef235bae712b3",
+  "slug": "will-stefanos-tsitsipas-gre-win-gold-in-mens-tennis",
+  "question": "Will Stefanos Tsitsipas (GRE) win Gold in Men's Tennis?"
+}

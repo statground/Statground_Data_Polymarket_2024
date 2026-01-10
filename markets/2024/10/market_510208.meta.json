@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:48:23.741934Z",
+  "market_createdAt": "2024-10-18T20:48:23.741934Z",
+  "market_updatedAt": "2024-10-22T00:37:13.204363Z",
+  "market_startDate": "2024-10-18T23:17:27.826836Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:45:30+00",
+  "conditionId": "0x12a5417a7a34da04272e1ee84e86b429235c282943f4050973c1004b0b2e1f2d",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Pennsylvania town hall on October 20?"
+}

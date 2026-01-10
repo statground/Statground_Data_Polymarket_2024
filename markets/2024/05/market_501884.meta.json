@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:27:25.582448Z",
+  "market_createdAt": "2024-05-29T18:27:25.582448Z",
+  "market_updatedAt": "2024-06-03T11:56:12.40951Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:12:13+00",
+  "conditionId": "0xcf06375f9d340b77afba30a054063015c8eb0baad76abbb6a22035374179e2fb",
+  "slug": "will-another-candidate-win-the-iceland-presidential-election",
+  "question": "Will another candidate win the Iceland Presidential Election?"
+}

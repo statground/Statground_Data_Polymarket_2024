@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:22:38.826465Z",
+  "market_createdAt": "2024-10-07T19:22:38.826465Z",
+  "market_updatedAt": "2025-05-23T23:01:21.701074Z",
+  "market_startDate": "2024-10-08T14:51:54.874345Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-03-18 06:14:33+00",
+  "conditionId": "0xbe18b72dc5fe801642372b31cf9351a9a35799a06773323a7104e97ebf4d4ec9",
+  "slug": "will-the-san-jose-sharks-win-the-2025-stanley-cup",
+  "question": "Will the San Jose Sharks win the 2025 Stanley Cup?"
+}

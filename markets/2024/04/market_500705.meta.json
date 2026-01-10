@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:16:04.337922Z",
+  "market_createdAt": "2024-04-04T17:16:04.337922Z",
+  "market_updatedAt": "2024-11-07T16:09:02.65042Z",
+  "market_startDate": "2024-04-12T19:25:05.896Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:19:18+00",
+  "conditionId": "0x7a3d5478aa01ab2dca4b6321463fe776d462c289194cf5a66ee5cd73f53a09ca",
+  "slug": "will-a-republican-win-west-virginia-us-senate-election",
+  "question": "Will a Republican win West Virginia US Senate Election?"
+}

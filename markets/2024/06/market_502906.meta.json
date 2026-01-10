@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:15:47.886917Z",
+  "market_createdAt": "2024-06-25T19:15:47.886917Z",
+  "market_updatedAt": "2024-06-27T21:46:05.603286Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 00:21:33+00",
+  "conditionId": "0xad500d47757bc35a0dc054338393b0c39731d6de644cd03218e1cbb7ef7559c7",
+  "slug": "will-turkey-win-june-26",
+  "question": "Will Turkey win?"
+}

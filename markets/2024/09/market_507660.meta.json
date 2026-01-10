@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T22:00:22.156667Z",
+  "market_createdAt": "2024-09-20T22:00:22.156667Z",
+  "market_updatedAt": "2024-09-23T21:02:42.802632Z",
+  "market_startDate": "2024-09-20T22:14:21.562832Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-23 00:06:50+00",
+  "conditionId": "0x8cf19f839031e165028a41aa70bd24501b74c50ee005c49b001d372ee7f19cab",
+  "slug": "will-ac-milan-beat-inter-milan",
+  "question": "Will AC Milan beat Inter Milan?"
+}

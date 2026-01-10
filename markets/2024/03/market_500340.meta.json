@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T14:42:04.085237Z",
+  "market_createdAt": "2024-03-20T14:42:04.085237Z",
+  "market_updatedAt": "2024-05-20T16:29:02.563877Z",
+  "market_startDate": "2024-03-20T21:00:07.347Z",
+  "market_endDate": "2024-05-19T04:00:00Z",
+  "market_closedTime": "2024-05-19 20:09:58+00",
+  "conditionId": "0xdf6de8d244138c88f511379504a75b6fa85e2ba7eee72df58ab425129ad7c6e6",
+  "slug": "will-man-city-win-the-premier-league-",
+  "question": "Will Man City win the Premier League?"
+}

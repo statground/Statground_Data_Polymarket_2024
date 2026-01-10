@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T17:08:08.174922Z",
+  "market_createdAt": "2024-08-22T17:08:08.174922Z",
+  "market_updatedAt": "2024-08-23T22:07:05.572131Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 22:33:09+00",
+  "conditionId": "0x9333684e1bf1f8e2b14453ef284af2071c55e4645c3385a09939738ee503208b",
+  "slug": "will-donald-trump-say-maga-in-border-speech",
+  "question": "Will Donald Trump say \"MAGA\" in border speech?"
+}

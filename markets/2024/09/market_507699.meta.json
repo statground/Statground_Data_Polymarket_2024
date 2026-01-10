@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T15:18:34.454460Z",
+  "market_createdAt": "2024-09-23T15:18:34.45446Z",
+  "market_updatedAt": "2024-11-30T10:51:21.189842Z",
+  "market_startDate": "2024-09-23T17:45:48.404511Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-29 10:55:34+00",
+  "conditionId": "0x1a5dbff18745feb9efda07f903126e59c957ca313bf44c819846136609fc6247",
+  "slug": "will-hyperliquid-launch-a-token-in-november",
+  "question": "Will Hyperliquid launch a token in November?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T16:37:51.366813Z",
+  "market_createdAt": "2024-09-03T16:37:51.366813Z",
+  "market_updatedAt": "2024-09-05T18:21:11.725675Z",
+  "market_startDate": "2024-09-03T16:52:40.303633Z",
+  "market_endDate": "2024-09-04T12:00:00Z",
+  "market_closedTime": "2024-09-04 19:42:16+00",
+  "conditionId": "0x1742b8774491aa5241c9ecba412320c1ea76433c8e884b8e3fa95249408d68ff",
+  "slug": "us-open-muchova-vs-haddad-maia",
+  "question": "US Open: Muchova vs. Haddad Maia"
+}

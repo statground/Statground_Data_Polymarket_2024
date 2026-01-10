@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T20:28:44.795978Z",
+  "market_createdAt": "2024-09-24T20:28:44.795978Z",
+  "market_updatedAt": "2024-10-03T04:16:38.67505Z",
+  "market_startDate": "2024-09-25T00:00:08.328Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:54:57+00",
+  "conditionId": "0x0c4c0dacce64630677da458d290cec514d628c3d6f2a82873ef14a73f4ac880e",
+  "slug": "will-jd-vance-say-rig-or-rigged-during-the-debate",
+  "question": "Will JD Vance say \"rig\" or \"rigged\" during the debate?"
+}

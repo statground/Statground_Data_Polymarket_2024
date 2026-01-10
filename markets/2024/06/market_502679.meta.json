@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T15:04:45.419787Z",
+  "market_createdAt": "2024-06-20T15:04:45.419787Z",
+  "market_updatedAt": "2024-06-24T13:41:10.67271Z",
+  "market_startDate": "2024-06-20T19:12:56.665Z",
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:21:03+00",
+  "conditionId": "0x24230a53bf19fedb97fff9092457b703a2754fd646798570c86e6943555dfa45",
+  "slug": "velasco-biggest-loser",
+  "question": "Velasco biggest loser?"
+}

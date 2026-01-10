@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T23:27:01.912626Z",
+  "market_createdAt": "2024-11-17T23:27:01.912626Z",
+  "market_updatedAt": "2025-08-01T00:51:24.192188Z",
+  "market_startDate": "2024-11-18T19:04:51.198Z",
+  "market_endDate": "2025-08-31T12:00:00Z",
+  "market_closedTime": "2025-07-30 17:44:17+00",
+  "conditionId": "0x27619d612e16ba61fd0c60000d6e1e17947f539bbd5fff7d08a1e0ecb3776462",
+  "slug": "will-trump-impose-large-tariffs-in-first-6-months",
+  "question": "Will Trump impose large tariffs in his first 6 months? "
+}

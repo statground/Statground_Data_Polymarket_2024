@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:56:00.178540Z",
+  "market_createdAt": "2024-06-11T18:56:00.17854Z",
+  "market_updatedAt": "2024-07-02T02:00:55.233286Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-01 05:17:22+00",
+  "conditionId": "0xb97bd5f0c9ffd808527ff32e052a3d7812c0dcaadf1f48e2e253b2c3b4a31f0d",
+  "slug": "mexico-wins-copa-america-2024",
+  "question": "Mexico wins Copa America 2024?"
+}

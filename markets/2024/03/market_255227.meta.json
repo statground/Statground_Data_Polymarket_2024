@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T15:48:10.085000Z",
+  "market_createdAt": "2024-03-04T15:48:10.085Z",
+  "market_updatedAt": "2024-03-06T06:42:19.378Z",
+  "market_startDate": "2024-03-04T17:02:37.923Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-05 07:04:08+00",
+  "conditionId": "0x44ef109508d816f18b4f4ad70e2aeb6e456334150323bbf7ef0cf9a50f9e6fd6",
+  "slug": "bitcoin-all-time-high-today",
+  "question": "Bitcoin all time high today?"
+}

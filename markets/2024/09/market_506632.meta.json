@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T16:11:09.726274Z",
+  "market_createdAt": "2024-09-08T16:11:09.726274Z",
+  "market_updatedAt": "2024-09-09T19:27:17.203793Z",
+  "market_startDate": "2024-09-08T16:33:31.232892Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 00:59:23+00",
+  "conditionId": "0x4fbf213ba3621de3e2b8c1e7b0d99c50843c30711489c341fa4804a1dd28659a",
+  "slug": "will-there-be-41-or-more-combined-points-scored-lac-lv",
+  "question": "Will there be 41 or more combined points scored?"
+}

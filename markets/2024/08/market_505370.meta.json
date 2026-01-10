@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:33:36.638413Z",
+  "market_createdAt": "2024-08-19T19:33:36.638413Z",
+  "market_updatedAt": "2024-08-25T01:12:56.596084Z",
+  "market_startDate": "2024-08-23T12:00:00Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 03:54:03+00",
+  "conditionId": "0x43b923284854c7a6b56dd88b855363155c228b6442d1faea064f6daa58c287df",
+  "slug": "nfl-atl-jax-2024-08-23",
+  "question": "Falcons vs. Jaguars"
+}

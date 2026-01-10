@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:52:11.376636Z",
+  "market_createdAt": "2024-09-20T21:52:11.376636Z",
+  "market_updatedAt": "2024-09-22T18:02:51.8195Z",
+  "market_startDate": "2024-09-20T22:12:04.011881Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 21:09:09+00",
+  "conditionId": "0x0eeb538b39d22e53d9ee879e0f1277e25a7b6792539fb9afb686122861d7695f",
+  "slug": "will-napoli-beat-juventus",
+  "question": "Will Napoli beat Juventus?"
+}

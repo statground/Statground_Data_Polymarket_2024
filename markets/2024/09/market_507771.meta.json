@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:06:47.270522Z",
+  "market_createdAt": "2024-09-23T20:06:47.270522Z",
+  "market_updatedAt": "2024-09-29T19:16:44.268576Z",
+  "market_startDate": "2024-09-23T22:30:16.630159Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 19:12:37+00",
+  "conditionId": "0xf49de8b6f857ada46a59104305a040033255dfb3db06bbf1720fc89a5200df33",
+  "slug": "will-chelsea-beat-brighton",
+  "question": "Will Chelsea beat Brighton?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515169",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:21:34.105544Z",
+  "market_createdAt": "2024-12-09T20:21:34.105544Z",
+  "market_updatedAt": "2024-12-12T00:51:08.507161Z",
+  "market_startDate": "2024-12-09T23:37:00.348916Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:16:55+00",
+  "conditionId": "0x7b67da6f674d6e97cd87a47ad22dd175eb52080950bfb5a0039ea536c8362e85",
+  "slug": "will-the-match-between-rb-salzburg-and-psg-end-in-a-draw",
+  "question": "Will the match between RB Salzburg and Paris Saint-Germain end in a draw?"
+}

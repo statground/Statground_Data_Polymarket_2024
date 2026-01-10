@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T18:13:01.400476Z",
+  "market_createdAt": "2024-12-23T18:13:01.400476Z",
+  "market_updatedAt": "2025-01-01T23:09:26.229894Z",
+  "market_startDate": "2024-12-23T19:19:55.838339Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 00:44:15+00",
+  "conditionId": "0x133a0ab961b2fc80d80e073a68e102019b22fb0628ba23251708cf5278a1a512",
+  "slug": "will-jan-krzysztof-duda-win-the-2024-world-blitz-championship-open",
+  "question": "Will Jan-Krzysztof Duda win the 2024 World Blitz Championship?"
+}

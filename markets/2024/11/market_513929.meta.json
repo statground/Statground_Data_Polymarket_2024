@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:59:22.726865Z",
+  "market_createdAt": "2024-11-24T18:59:22.726865Z",
+  "market_updatedAt": "2024-12-02T06:57:14.389862Z",
+  "market_startDate": "2024-11-24T19:01:52.381695Z",
+  "market_endDate": "2024-12-08T02:00:00Z",
+  "market_closedTime": "2024-12-01 06:59:19+00",
+  "conditionId": "0x4533bfdf322e0a0d7087ed5e98b789ff24f6337a12f5121cc861d51649564e82",
+  "slug": "nba-gsw-phx-2024-11-30",
+  "question": "Warriors vs. Suns"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T19:01:00.399316Z",
+  "market_createdAt": "2024-12-18T19:01:00.399316Z",
+  "market_updatedAt": "2024-12-21T02:24:58.46713Z",
+  "market_startDate": "2024-12-18T19:35:09.294875Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 02:53:37+00",
+  "conditionId": "0x678913fdba49c570ba52b508f5dafd759139ac8f6c8161814bcaa6b9bccff94c",
+  "slug": "will-the-first-house-vote-on-cr-funding-bill-fail",
+  "question": "Will the first House vote on CR funding bill pass?"
+}

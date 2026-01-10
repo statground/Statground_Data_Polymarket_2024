@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:37:08.772447Z",
+  "market_createdAt": "2024-11-26T08:37:08.772447Z",
+  "market_updatedAt": "2024-11-29T22:11:29.470105Z",
+  "market_startDate": "2024-11-26T23:07:17.66958Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:09:49+00",
+  "conditionId": "0xbefe2a40e9fddcbb53f9169298d887cfc9d4ebfe7b1a98cea539fa0e33d519b1",
+  "slug": "will-the-match-between-ferencvaros-and-malmo-end-in-a-draw",
+  "question": "Will the match between Ferencvaros and Malmo end in a draw?"
+}

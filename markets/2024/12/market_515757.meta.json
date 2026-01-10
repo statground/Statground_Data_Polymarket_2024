@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T17:24:33.946757Z",
+  "market_createdAt": "2024-12-16T17:24:33.946757Z",
+  "market_updatedAt": "2024-12-18T07:27:19.602141Z",
+  "market_startDate": "2024-12-16T17:29:11.009155Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2024-12-17 09:14:54+00",
+  "conditionId": "0x815702e8457ba42e69c4e9bfae2c84343c83fd686cf24c5e22891e75000e18d0",
+  "slug": "will-trump-sue-ann-selzer-before-inauguration",
+  "question": "Will Trump sue Ann Selzer before inauguration?"
+}

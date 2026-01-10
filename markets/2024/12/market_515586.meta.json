@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:29:36.150895Z",
+  "market_createdAt": "2024-12-13T19:29:36.150895Z",
+  "market_updatedAt": "2024-12-21T03:53:01.256821Z",
+  "market_startDate": "2024-12-13T19:32:04.730338Z",
+  "market_endDate": "2024-12-27T00:00:00Z",
+  "market_closedTime": "2024-12-20 05:00:33+00",
+  "conditionId": "0x0fc20e2e7d1b43059823dab797a936dcb9aced1b2a0b31997f89ec80a56c9430",
+  "slug": "nba-cha-was-2024-12-19",
+  "question": "Hornets vs. Wizards"
+}

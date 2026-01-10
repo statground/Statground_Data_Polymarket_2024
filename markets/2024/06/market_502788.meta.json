@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T14:58:31.608747Z",
+  "market_createdAt": "2024-06-24T14:58:31.608747Z",
+  "market_updatedAt": "2024-06-26T02:21:07.394055Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 06:13:15+00",
+  "conditionId": "0xb422004f807fd50ff123ce8d168df020ab8f91567c7fdc259d1f48d1939057b5",
+  "slug": "will-brazil-win-jun-24",
+  "question": "Will Brazil win?"
+}

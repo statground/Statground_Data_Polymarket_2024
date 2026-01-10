@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509176",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:20:24.719287Z",
+  "market_createdAt": "2024-10-07T22:20:24.719287Z",
+  "market_updatedAt": "2024-10-14T22:46:53.964926Z",
+  "market_startDate": "2024-10-07T22:22:34.461775Z",
+  "market_endDate": "2024-10-13T17:00:00Z",
+  "market_closedTime": "2024-10-13 22:42:31+00",
+  "conditionId": "0xf948de37d9852fda726e5e8fbc5953cd02c4ee9dccdca83d31a5ce1a4d446b28",
+  "slug": "nfl-tb-no-2024-10-13",
+  "question": "Buccaneers vs. Saints"
+}

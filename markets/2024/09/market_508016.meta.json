@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T19:51:44.485795Z",
+  "market_createdAt": "2024-09-24T19:51:44.485795Z",
+  "market_updatedAt": "2024-10-03T03:06:39.474603Z",
+  "market_startDate": "2024-09-24T23:47:51.785464Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 03:39:52+00",
+  "conditionId": "0x3351143487cf80b2d84b73263a7789f1bcf6baaa76b29feb0d246ef07874424c",
+  "slug": "will-jd-vance-say-border-5-or-more-times-during-the-debate",
+  "question": "Will JD Vance say \"border\" 5 or more times during the debate?"
+}

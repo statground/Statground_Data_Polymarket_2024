@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503511",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:31:45.618620Z",
+  "market_createdAt": "2024-07-15T19:31:45.61862Z",
+  "market_updatedAt": "2024-12-18T08:09:17.088929Z",
+  "market_startDate": "2024-07-16T18:05:58.373Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:18:20+00",
+  "conditionId": "0x402b9d8c6e093ac2f8f77a93ee49f9ce0648f139688119fed547acec4d7dec55",
+  "slug": "will-minnesota-be-the-tipping-point-state",
+  "question": "Will Minnesota be the tipping point state?"
+}

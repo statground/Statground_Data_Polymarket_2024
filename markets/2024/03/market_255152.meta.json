@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255152",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:57:20.607000Z",
+  "market_createdAt": "2024-03-01T18:57:20.607Z",
+  "market_updatedAt": "2024-11-07T20:37:12.228748Z",
+  "market_startDate": "2024-03-07T02:47:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:29:57+00",
+  "conditionId": "0xa923afcb8297e3ade170f2f8c088f3c277557fadef2c67054d72cc59f8504b2b",
+  "slug": "will-a-republican-win-pennsylvania-presidential-election",
+  "question": "Will a Republican win Pennsylvania Presidential Election?"
+}

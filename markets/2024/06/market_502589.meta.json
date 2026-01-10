@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T16:12:53.813402Z",
+  "market_createdAt": "2024-06-18T16:12:53.813402Z",
+  "market_updatedAt": "2024-06-21T00:01:16.21981Z",
+  "market_startDate": "2024-06-19T19:02:39.803Z",
+  "market_endDate": "2024-06-19T12:00:00Z",
+  "market_closedTime": "2024-06-20 00:04:58+00",
+  "conditionId": "0x96f4545177fe5a388204fce48fb5bd1409943e5f71bbcab867538c7bfc4e9665",
+  "slug": "will-the-match-be-a-draw-scotland-switzerland",
+  "question": "Will the match be a draw?"
+}

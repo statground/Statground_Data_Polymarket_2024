@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:17:30.327727Z",
+  "market_createdAt": "2024-08-29T16:17:30.327727Z",
+  "market_updatedAt": "2024-09-02T18:47:02.249036Z",
+  "market_startDate": "2024-08-29T16:17:30.327727Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 23:53:10+00",
+  "conditionId": "0xd5a2645e0fcdde4371bd785dfc074c31f91461cea9e65b95c55a9d6907d43b60",
+  "slug": "will-sam-burns-win-the-tour-championship",
+  "question": "Will Sam Burns win the Tour Championship?"
+}

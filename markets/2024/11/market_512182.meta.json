@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:00:02.088800Z",
+  "market_createdAt": "2024-11-06T18:00:02.0888Z",
+  "market_updatedAt": "2024-11-24T02:28:47.154248Z",
+  "market_startDate": "2024-11-06T18:28:17.814Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:40:49+00",
+  "conditionId": "0x268ada694cb4b1a65f88bf6dedce0c08d5aba09621dbe85d9200ced0cac6226b",
+  "slug": "will-trump-nominate-larry-kudlow-for-treasury-secretary",
+  "question": "Will Trump nominate Larry Kudlow for Treasury Secretary?"
+}

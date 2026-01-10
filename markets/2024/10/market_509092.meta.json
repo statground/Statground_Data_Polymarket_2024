@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:13:03.707929Z",
+  "market_createdAt": "2024-10-07T19:13:03.707929Z",
+  "market_updatedAt": "2025-05-23T23:01:21.688805Z",
+  "market_startDate": "2024-10-08T14:26:35.279251Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-17 05:55:55+00",
+  "conditionId": "0x2d7e29af3bba553a336d02292525b67218cfa5a6f123ed0eda1bd44d9981526e",
+  "slug": "will-the-columbus-blue-jackets-win-the-2025-stanley-cup",
+  "question": "Will the Columbus Blue Jackets win the 2025 Stanley Cup?"
+}

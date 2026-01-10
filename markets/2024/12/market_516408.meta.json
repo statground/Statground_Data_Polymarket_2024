@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:28:37.894435Z",
+  "market_createdAt": "2024-12-25T06:28:37.894435Z",
+  "market_updatedAt": "2024-12-27T18:33:12.600695Z",
+  "market_startDate": "2024-12-25T06:31:14.092761Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:20:58+00",
+  "conditionId": "0x88fa8538367c1af90a482f137ae4b8dcc4b8eeb788bd4ede2d8fb88e624f048b",
+  "slug": "epl-new-ast-2024-12-26-ast",
+  "question": "Will Aston Villa win on 2024-12-26?"
+}

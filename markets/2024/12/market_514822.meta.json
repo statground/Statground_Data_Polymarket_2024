@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T23:15:50.709913Z",
+  "market_createdAt": "2024-12-04T23:15:50.709913Z",
+  "market_updatedAt": "2025-01-21T18:21:12.234037Z",
+  "market_startDate": "2024-12-04T23:30:18.86Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 18:20:54+00",
+  "conditionId": "0x0ba6d0a2f35fbb9a38aaee50b4a44b21093f4da96a2c3a3b49704b488a6b6b20",
+  "slug": "will-biden-pardon-liz-cheney",
+  "question": "Will Biden pardon Liz Cheney?"
+}

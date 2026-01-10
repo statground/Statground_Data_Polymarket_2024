@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:34:41.192077Z",
+  "market_createdAt": "2024-06-21T15:34:41.192077Z",
+  "market_updatedAt": "2024-06-23T19:46:11.264914Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 02:51:20+00",
+  "conditionId": "0x7f4894ee9f02c3fe0f4be645e8cea297a0d1051ffbdaae7dcbc6db6cb5e3d658",
+  "slug": "ufc-fight-night-who-will-win-johnny-walker-vs-volkan-oezdemir",
+  "question": "UFC Fight Night: Who will win - Johnny Walker vs. Volkan Oezdemir?"
+}

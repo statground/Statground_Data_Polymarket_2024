@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:02:01.168791Z",
+  "market_createdAt": "2024-12-29T05:02:01.168791Z",
+  "market_updatedAt": "2024-12-31T06:53:37.683679Z",
+  "market_startDate": "2024-12-29T05:04:30.087576Z",
+  "market_endDate": "2025-01-06T01:00:00Z",
+  "market_closedTime": "2024-12-30 06:53:49+00",
+  "conditionId": "0x20969d48986a5ba07f70d341372b91b0fa337aefda89e8e5f679cfec4f14d487",
+  "slug": "nba-sas-min-2024-12-29",
+  "question": "Spurs vs. Timberwolves"
+}

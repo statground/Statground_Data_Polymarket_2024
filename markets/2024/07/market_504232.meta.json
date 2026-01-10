@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:33:45.032638Z",
+  "market_createdAt": "2024-07-26T19:33:45.032638Z",
+  "market_updatedAt": "2024-07-28T21:17:04.412879Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:40:35+00",
+  "conditionId": "0xfc3c016aba83cd8a0b566bdee5a7c51ccc162a3d0c7efda3a6b712c12d2947f7",
+  "slug": "will-trump-say-kamala-harris-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Kamala Harris\" during his Bitcoin Conference speech?"
+}

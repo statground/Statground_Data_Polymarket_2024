@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:27:06.055850Z",
+  "market_createdAt": "2024-10-15T19:27:06.05585Z",
+  "market_updatedAt": "2024-10-23T06:01:22.025018Z",
+  "market_startDate": "2024-10-15T19:29:15.235Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 06:00:18+00",
+  "conditionId": "0x9860936522f10295900b487d0349294f372506d070bb7bab6d417e735d3022a1",
+  "slug": "nfl-lac-ari-2024-10-21",
+  "question": "Chargers vs. Cardinals"
+}

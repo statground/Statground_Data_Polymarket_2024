@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:59:26.830011Z",
+  "market_createdAt": "2024-08-19T16:59:26.830011Z",
+  "market_updatedAt": "2024-09-07T05:47:01.625651Z",
+  "market_startDate": "2024-08-19T16:59:26.830011Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-06 06:34:08+00",
+  "conditionId": "0x380a3ccd687bc1a97dc04775bd424cb19765fcfbad9484c299a0a28a70d41fd2",
+  "slug": "will-karolina-muchova-win-the-us-open",
+  "question": "Will Karolina Muchova win the US Open?"
+}

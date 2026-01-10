@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:51:36.793494Z",
+  "market_createdAt": "2024-11-18T19:51:36.793494Z",
+  "market_updatedAt": "2024-12-11T01:19:17.890426Z",
+  "market_startDate": "2024-11-18T20:21:20.011751Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-10 03:07:42+00",
+  "conditionId": "0x6cc3acc1350dd626ffb1516f1c2fc26fc8a4209b3cf4de9e723e0bc3663d1a71",
+  "slug": "will-someone-else-be-the-next-president-of-ghana",
+  "question": "Will someone else be the next President of Ghana?"
+}

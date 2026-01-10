@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T20:00:02.049314Z",
+  "market_createdAt": "2024-06-19T20:00:02.049314Z",
+  "market_updatedAt": "2024-06-24T14:31:14.154875Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:15:39+00",
+  "conditionId": "0xae4dee65fbcb81aa5f8ba4db1de40ec97b78b3758d9331745a44e3af21cc992d",
+  "slug": "jon-vlogs-biggest-winner",
+  "question": "Jon Vlogs biggest winner?"
+}

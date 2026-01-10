@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T03:34:24.224877Z",
+  "market_createdAt": "2024-10-30T03:34:24.224877Z",
+  "market_updatedAt": "2024-11-01T00:30:56.832339Z",
+  "market_startDate": "2024-10-30T03:37:17.743Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 01:22:51+00",
+  "conditionId": "0xcbf6ac15ca0c3e825df3e508a16c55cae832d5727609dd768488e2d4b51939be",
+  "slug": "will-trump-say-garbage-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"garbage\" during Wisconsin rally on Oct 30?"
+}

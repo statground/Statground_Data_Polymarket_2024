@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T17:49:27.963699Z",
+  "market_createdAt": "2024-12-06T17:49:27.963699Z",
+  "market_updatedAt": "2024-12-14T19:11:04.550453Z",
+  "market_startDate": "2024-12-06T18:48:33.886692Z",
+  "market_endDate": "2024-12-13T12:00:00Z",
+  "market_closedTime": "2024-12-13 19:06:28+00",
+  "conditionId": "0x4944b688ffb46214f596fea3b6f8ad5a3a754dcc0605c190af15b51f52c80c1c",
+  "slug": "ethereum-above-4000-on-december-13",
+  "question": "Ethereum above $4,000 on December 13?"
+}

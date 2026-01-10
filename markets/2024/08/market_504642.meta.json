@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T02:29:59.325533Z",
+  "market_createdAt": "2024-08-07T02:29:59.325533Z",
+  "market_updatedAt": "2025-01-02T07:15:01.181118Z",
+  "market_startDate": "2024-08-07T14:56:54.361Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:12:08+00",
+  "conditionId": "0xb88b4e226ed108c28835808fbd12a1900a73b3151963c862ed64e99505c436e6",
+  "slug": "israel-x-hamas-ceasefire-in-2024",
+  "question": "Israel x Hamas ceasefire in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:52:36.767591Z",
+  "market_createdAt": "2024-07-25T18:52:36.767591Z",
+  "market_updatedAt": "2024-08-04T23:02:54.648659Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 23:01:40+00",
+  "conditionId": "0x799e0a99312e7daca333239e42978ef2e4cc42f4a0e73fe2a749883a064538bf",
+  "slug": "will-katie-ledecky-usa-win-gold-in-womens-800m-freestyle",
+  "question": "Will Katie Ledecky (USA) win Gold in Women's 800m Freestyle?"
+}

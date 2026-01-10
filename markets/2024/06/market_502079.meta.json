@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:46:12.475138Z",
+  "market_createdAt": "2024-06-03T23:46:12.475138Z",
+  "market_updatedAt": "2024-06-08T02:31:16.341274Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:50+00",
+  "conditionId": "0xcf6b43c20db58f8c9790ddd5ecd0271ab8c3b0750dce756d2cd293ff141c968a",
+  "slug": "kyrie-irving-30-points-in-every-game-of-nba-finals",
+  "question": "Kyrie Irving 30+ points in every game of NBA Finals?"
+}

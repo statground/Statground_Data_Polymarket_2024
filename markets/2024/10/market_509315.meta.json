@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T20:44:33.551703Z",
+  "market_createdAt": "2024-10-08T20:44:33.551703Z",
+  "market_updatedAt": "2024-10-12T04:32:45.257437Z",
+  "market_startDate": "2024-10-09T15:27:04.489395Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 05:12:31+00",
+  "conditionId": "0x9001743ace94c01c39454cdbbb53e4f22e5228bbe176f6d012417759356ebbce",
+  "slug": "will-kamala-say-ai-during-univision-town-hall-on-october-10",
+  "question": "Will Kamala say \"AI\" during Univision town hall on October 10?"
+}

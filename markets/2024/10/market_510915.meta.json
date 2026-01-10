@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:41:10.115152Z",
+  "market_createdAt": "2024-10-25T15:41:10.115152Z",
+  "market_updatedAt": "2024-10-27T04:20:59.573716Z",
+  "market_startDate": "2024-10-25T22:40:55.907956Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 08:10:36+00",
+  "conditionId": "0xc00acab81be1858a79683d072cb51f28a623e48911c695313947d68a8177eada",
+  "slug": "will-boise-state-beat-unlv-by-4-or-more-points",
+  "question": "Will Boise State beat UNLV by 4 or more points?"
+}

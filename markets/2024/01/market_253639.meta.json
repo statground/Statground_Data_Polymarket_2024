@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T19:32:19.994000Z",
+  "market_createdAt": "2024-01-06T19:32:19.994Z",
+  "market_updatedAt": "2024-11-07T19:29:10.539008Z",
+  "market_startDate": "2024-01-06T20:12:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-06 20:24:59+00",
+  "conditionId": "0x3120827dc12167d09fd9f08233e2b540054a2ed90aad65c023bc1da9d38b29d9",
+  "slug": "will-elizabeth-warren-win-the-2024-us-presidential-election",
+  "question": "Will Elizabeth Warren win the 2024 US Presidential Election?"
+}

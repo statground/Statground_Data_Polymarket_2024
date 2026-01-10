@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:20:05.439649Z",
+  "market_createdAt": "2024-07-18T18:20:05.439649Z",
+  "market_updatedAt": "2024-08-11T21:26:54.220084Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 21:34:43+00",
+  "conditionId": "0x2ecc1ec0a3f7a00dd88bfa1abdc8d545cf5926c101254e9a1335f60447f13561",
+  "slug": "will-jacob-krop-ken-win-gold-in-5000m",
+  "question": "Will Jacob Krop (KEN) win Gold in 5000m?"
+}

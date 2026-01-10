@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:02:19.356570Z",
+  "market_createdAt": "2024-08-07T21:02:19.35657Z",
+  "market_updatedAt": "2024-08-22T01:36:59.167515Z",
+  "market_startDate": "2024-08-15T17:25:40.423Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-21 04:50:54+00",
+  "conditionId": "0x8a8aaeb18c75fa4a67dda4712c59678e436cf1e1c73be00c6156a74f888c7506",
+  "slug": "will-michelle-obama-speak-at-the-dnc",
+  "question": "Will Michelle Obama speak at the DNC?"
+}

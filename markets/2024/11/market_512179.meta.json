@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T17:41:47.910686Z",
+  "market_createdAt": "2024-11-06T17:41:47.910686Z",
+  "market_updatedAt": "2024-12-11T17:33:17.32093Z",
+  "market_startDate": "2024-11-06T19:01:00.65492Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-10 19:17:21+00",
+  "conditionId": "0xaf26a1f6b41e1642b3422d3134e536cbcebd99f4cd989c2722f56ab22449b77f",
+  "slug": "will-the-november-2024-temperature-increase-be-greater-than-1pt39c",
+  "question": "Will the November 2024 temperature increase be greater than 1.39°C?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:10:05.763543Z",
+  "market_createdAt": "2024-12-16T18:10:05.763543Z",
+  "market_updatedAt": "2025-02-25T12:51:33.608712Z",
+  "market_startDate": "2024-12-16T18:27:09.169Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:45:58+00",
+  "conditionId": "0xcce535ee3d3b54b4f67165ccfa0a60195ff155afdc51db66c6d5f7d4af0f29a8",
+  "slug": "will-fdp-win-the-most-seats-in-the-next-german-election-hksa",
+  "question": "Will FDP win the most seats in the next German election?"
+}

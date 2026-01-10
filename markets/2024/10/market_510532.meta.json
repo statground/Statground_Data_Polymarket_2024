@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:17:20.732045Z",
+  "market_createdAt": "2024-10-22T15:17:20.732045Z",
+  "market_updatedAt": "2024-10-26T06:43:00.552296Z",
+  "market_startDate": "2024-10-22T21:44:08.866Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:32:45+00",
+  "conditionId": "0xc2d03c889e915e058c06728b3dde365ac334ad889e5248f4b9dedb639504e6f7",
+  "slug": "will-trump-say-russia-5-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"Russia\" 5 or more times during Las Vegas rally on October 24?"
+}

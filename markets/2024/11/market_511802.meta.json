@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:48:49.446743Z",
+  "market_createdAt": "2024-11-02T19:48:49.446743Z",
+  "market_updatedAt": "2024-11-06T04:21:18.296214Z",
+  "market_startDate": "2024-11-02T20:53:41.18Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 04:47:18+00",
+  "conditionId": "0x1957865290d0fb430feb92c950e7b67841c9bdbeed1327ee6ff4e775ccf27612",
+  "slug": "will-trump-say-mcdonalds-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"McDonald's\" during Pittsburgh rally on Nov 4?"
+}

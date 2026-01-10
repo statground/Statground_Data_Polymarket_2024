@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:27:48.510875Z",
+  "market_createdAt": "2024-10-11T21:27:48.510875Z",
+  "market_updatedAt": "2024-10-14T16:32:51.437358Z",
+  "market_startDate": "2024-10-11T22:25:48.394406Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:18:37+00",
+  "conditionId": "0xa92ed7daa07f7bbbefc7fbd2467f35aa622d537654a17aec472b3b5ffe6ba7d2",
+  "slug": "will-the-packers-beat-the-cardinals-by-6-or-more-points",
+  "question": "Will the Packers beat the Cardinals by 6 or more points?"
+}

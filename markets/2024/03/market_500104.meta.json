@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500104",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T15:49:23.677636Z",
+  "market_createdAt": "2024-03-13T15:49:23.677636Z",
+  "market_updatedAt": "2024-05-07T23:09:22.871704Z",
+  "market_startDate": "2024-03-13T18:51:44.434Z",
+  "market_endDate": "2024-11-05T05:00:00Z",
+  "market_closedTime": "2024-03-26 22:43:00+00",
+  "conditionId": "0x70c34c93cbb7f0f0dc113df558c0cbc707020f6fdb50a5b14247621e411bbacf",
+  "slug": "will-robert-f-kennedy-jr-announce-tony-robbins-as-running-mate",
+  "question": "Will Robert F. Kennedy Jr. announce Tony Robbins as running mate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:10:57.904015Z",
+  "market_createdAt": "2024-07-25T18:10:57.904015Z",
+  "market_updatedAt": "2024-07-28T21:35:01.829237Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:26:15+00",
+  "conditionId": "0xc94822480810683de6f03dcc0dea15d94ad85c8b1a261276481efc683cfc8296",
+  "slug": "will-canada-win-gold-in-mens-4x100m-freestyle-relay",
+  "question": "Will Canada win Gold in Men's 4x100m Freestyle Relay?"
+}

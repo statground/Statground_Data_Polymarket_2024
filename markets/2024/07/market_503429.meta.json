@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:25:52.821383Z",
+  "market_createdAt": "2024-07-12T19:25:52.821383Z",
+  "market_updatedAt": "2024-07-15T14:44:47.087069Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:57:10+00",
+  "conditionId": "0x34e03646242a6d1c265d2c3d06ce9f9306661d06ba1250d100ac70c95768ea98",
+  "slug": "will-alvaro-morata-score-the-first-goal",
+  "question": "Will Alvaro Morata score the first goal?"
+}

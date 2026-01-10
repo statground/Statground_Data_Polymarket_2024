@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-15T18:28:59.513000Z",
+  "market_createdAt": "2024-01-15T18:28:59.513Z",
+  "market_updatedAt": "2024-04-26T03:05:01.460158Z",
+  "market_startDate": "2024-01-15T18:38:41.076Z",
+  "market_endDate": "2024-01-16T00:00:00Z",
+  "market_closedTime": "2024-01-16 10:01:58+00",
+  "conditionId": "0x0fac900343bb283fad6bbad615adfb1bc71d6b6b4c119b46ca14734b17f9786c",
+  "slug": "will-bob-odenkirk-win-lead-drama-actor-at-the-75th-emmys",
+  "question": "Will Bob Odenkirk win Lead Drama Actor at the 75th Emmys?"
+}

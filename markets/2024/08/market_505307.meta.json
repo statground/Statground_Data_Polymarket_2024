@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:20:20.352014Z",
+  "market_createdAt": "2024-08-19T16:20:20.352014Z",
+  "market_updatedAt": "2024-08-29T00:57:10.235235Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-28 02:40:22+00",
+  "conditionId": "0xc9b111afce2f056e2799d6c467e8cdf4dae7b1176cd0ea60af25dc316ba61f82",
+  "slug": "will-maxime-vachier-lagrave-win-the-2024-sinquefield-cup",
+  "question": "Will Maxime Vachier-Lagrave win the 2024 Sinquefield Cup?"
+}

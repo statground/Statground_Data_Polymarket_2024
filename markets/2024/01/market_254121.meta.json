@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T20:18:55.320000Z",
+  "market_createdAt": "2024-01-25T20:18:55.32Z",
+  "market_updatedAt": "2024-03-11T22:26:00.369Z",
+  "market_startDate": "2024-01-25T21:25:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 02:33:11+00",
+  "conditionId": "0xdeb80599e9ec558ba0e70e1bdc04b4195b0eaece2ca963fd6abb87060e7c9cea",
+  "slug": "will-emily-blunt-win-the-oscar-for-best-supporting-actress",
+  "question": "Will Emily Blunt win the Oscar for Best Supporting Actress?"
+}

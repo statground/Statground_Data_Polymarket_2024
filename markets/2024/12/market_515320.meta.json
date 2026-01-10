@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515320",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:03:57.348433Z",
+  "market_createdAt": "2024-12-10T22:03:57.348433Z",
+  "market_updatedAt": "2024-12-14T00:09:08.812824Z",
+  "market_startDate": "2024-12-11T23:03:33.934346Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:23:14+00",
+  "conditionId": "0x13f8a5d7335b2eb24f53839810f0fe10ddfbb47b469c011d331aa8e3914d4846",
+  "slug": "will-bodo-glimt-beat-besiktas",
+  "question": "Will Bodo Glimt beat Besiktas?"
+}

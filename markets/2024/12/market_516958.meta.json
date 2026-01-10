@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516958",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:41:27.389773Z",
+  "market_createdAt": "2024-12-31T19:41:27.389773Z",
+  "market_updatedAt": "2026-01-02T08:32:30.582803Z",
+  "market_startDate": "2024-12-31T19:45:19.563Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 08:31:59+00",
+  "conditionId": "0xb09e22aadc33b6747756ff9248475e356adcf3b99fbd9d70217e0de350385470",
+  "slug": "supreme-court-vacancy-2025",
+  "question": "Supreme Court vacancy in 2025?"
+}

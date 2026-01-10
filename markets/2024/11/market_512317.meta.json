@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:00:03.518946Z",
+  "market_createdAt": "2024-11-07T21:00:03.518946Z",
+  "market_updatedAt": "2025-01-23T02:14:56.93955Z",
+  "market_startDate": "2024-11-07T22:36:35.997Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-22 05:30:29+00",
+  "conditionId": "0x1e3e76730591049a2bf214bcf90fbd9eb3875884efc0ce1f36876b0c6dec7b7a",
+  "slug": "will-jon-husted-be-appointed-as-the-next-ohio-senator",
+  "question": "Will Jon Husted be appointed as the next Ohio senator?"
+}

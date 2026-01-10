@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:37:46.659409Z",
+  "market_createdAt": "2024-10-01T18:37:46.659409Z",
+  "market_updatedAt": "2024-10-06T16:16:45.669766Z",
+  "market_startDate": "2024-10-02T14:42:46.040292Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:11:47+00",
+  "conditionId": "0x076dc1dc254b68b6671f61f61bbb651041d070241dda58081e98c86a6ef55808",
+  "slug": "will-bournemouth-beat-leicester-city",
+  "question": "Will Bournemouth beat Leicester City?"
+}

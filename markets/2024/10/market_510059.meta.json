@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T16:28:55.255149Z",
+  "market_createdAt": "2024-10-17T16:28:55.255149Z",
+  "market_updatedAt": "2024-10-19T00:16:52.438115Z",
+  "market_startDate": "2024-10-17T22:43:21.638019Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 05:30:33+00",
+  "conditionId": "0xd66e43107e2d3b53a6b8276f7c0ed90bcc95cca2876109cc53b8854fba6a51cf",
+  "slug": "will-the-broncos-and-saints-combine-for-38-or-more-points",
+  "question": "Will the Broncos and Saints combine for 38 or more points?"
+}

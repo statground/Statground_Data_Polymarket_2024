@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-07T18:21:30.202000Z",
+  "market_createdAt": "2024-02-07T18:21:30.202Z",
+  "market_updatedAt": "2024-05-07T23:09:38.502123Z",
+  "market_startDate": "2024-02-07T21:19:00Z",
+  "market_endDate": "2024-05-30T00:00:00Z",
+  "market_closedTime": "2024-04-03 14:59:39+00",
+  "conditionId": "0x6c829ecd47e810fc92a022923ec865cc67bf91ba20817acfa7139c393a614614",
+  "slug": "wormhole-airdrop-in-may",
+  "question": "Wormhole airdrop in May?"
+}

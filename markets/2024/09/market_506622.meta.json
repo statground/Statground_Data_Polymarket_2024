@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:29:23.049616Z",
+  "market_createdAt": "2024-09-08T00:29:23.049616Z",
+  "market_updatedAt": "2024-09-09T22:37:10.442467Z",
+  "market_startDate": "2024-09-08T12:14:50.463Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:40:28+00",
+  "conditionId": "0x81dafa3fc3cbafea596f5fd223794d90907887b72995ebcaf038e6d0a61dcb2f",
+  "slug": "us-open-final-sinner-vs-fritz",
+  "question": "US Open Final: Sinner vs. Fritz"
+}

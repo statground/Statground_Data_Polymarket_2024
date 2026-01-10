@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:29:08.050128Z",
+  "market_createdAt": "2024-07-12T19:29:08.050128Z",
+  "market_updatedAt": "2024-07-15T18:50:48.85345Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:57:00+00",
+  "conditionId": "0x6c978a80763f7b3dc41ee522866a85587fb4756e710e577e8baa4671b9373a88",
+  "slug": "will-lamine-yamal-score-the-first-goal",
+  "question": "Will Lamine Yamal score the first goal?"
+}

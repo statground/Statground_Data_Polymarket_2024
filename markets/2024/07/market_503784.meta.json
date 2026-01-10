@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:51:43.991789Z",
+  "market_createdAt": "2024-07-18T19:51:43.991789Z",
+  "market_updatedAt": "2024-08-04T16:33:02.447701Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:02:32+00",
+  "conditionId": "0x17ae2e182bb90b7ee57278bf93680dc392339b7803ed30a227969f1913e0dbea",
+  "slug": "will-another-athlete-win-gold-in-mens-100m-butterfly",
+  "question": "Will another athlete win Gold in Men's 100m Butterfly?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T15:12:31.409359Z",
+  "market_createdAt": "2024-07-01T15:12:31.409359Z",
+  "market_updatedAt": "2024-07-03T22:40:49.171502Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-02T12:00:00Z",
+  "market_closedTime": "2024-07-02 22:56:10+00",
+  "conditionId": "0x62cfd0731f86ba3a4a7e95b44022e244b4debb680945f92178610f7428b90c65",
+  "slug": "austria-vs-turkey-who-will-advance",
+  "question": "Austria vs. Turkey - Who will advance?"
+}

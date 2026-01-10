@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:12:59.751335Z",
+  "market_createdAt": "2024-03-17T20:12:59.751335Z",
+  "market_updatedAt": "2024-05-07T23:10:14.914742Z",
+  "market_startDate": "2024-03-17T20:21:12.356Z",
+  "market_endDate": "2024-03-28T07:00:00Z",
+  "market_closedTime": "2024-03-28 19:05:52+00",
+  "conditionId": "0x2f9fdafc191e6c028d5ce722abe0cd81e6d1b7d1bdebe443b86aa39a2f5829e6",
+  "slug": "sbf-sentence-between-5-and-10-years",
+  "question": "SBF sentence between 5 and 10 years?"
+}

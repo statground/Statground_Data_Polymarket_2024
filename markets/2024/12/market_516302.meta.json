@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:02:38.862377Z",
+  "market_createdAt": "2024-12-23T05:02:38.862377Z",
+  "market_updatedAt": "2024-12-29T03:07:02.509679Z",
+  "market_startDate": "2024-12-23T05:05:06.074732Z",
+  "market_endDate": "2025-01-03T20:30:00Z",
+  "market_closedTime": "2024-12-28 03:03:44+00",
+  "conditionId": "0x86819a37f04b4b8a087f2fb9741566dec1952cf6e8bddde40e74c14b44b7b177",
+  "slug": "cfb-gt-vand-2024-12-27",
+  "question": "Georgia Tech vs. Vanderbilt"
+}

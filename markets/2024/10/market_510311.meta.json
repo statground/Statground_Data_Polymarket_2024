@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:41:33.663354Z",
+  "market_createdAt": "2024-10-21T16:41:33.663354Z",
+  "market_updatedAt": "2024-10-24T01:01:21.491302Z",
+  "market_startDate": "2024-10-21T18:03:47.028364Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 03:01:43+00",
+  "conditionId": "0xc22709cc42b99542cfd579f20b86e836e6246660fc4d4d3be95814ad30f56e9b",
+  "slug": "will-trump-say-china-10-or-more-times-during-north-carolina-rally-october-22",
+  "question": "Will Trump say \"China\" 10 or more times during North Carolina rally October 22?"
+}

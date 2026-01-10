@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:31:21.683640Z",
+  "market_createdAt": "2024-06-12T22:31:21.68364Z",
+  "market_updatedAt": "2024-06-17T09:46:15.476573Z",
+  "market_startDate": "2024-06-12T23:41:16.419Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 01:53:57+00",
+  "conditionId": "0x85cca4f3a1bac90aecb8bcef4da0398aceacb479c5727dc4cc82aa3cf3ce6a1f",
+  "slug": "will-rory-mcilroy-win-the-us-open",
+  "question": "Will Rory McIlroy win the U.S. Open? "
+}

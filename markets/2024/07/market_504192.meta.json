@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T21:53:36.466635Z",
+  "market_createdAt": "2024-07-25T21:53:36.466635Z",
+  "market_updatedAt": "2024-08-06T18:36:49.285378Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 18:29:03+00",
+  "conditionId": "0x8e76e7f5de0557ef6fe9f52dab0371adbbee4d792766692c9971b194689a7c40",
+  "slug": "will-qin-haiyang-win-the-most-gold-medals",
+  "question": "Will Qin Haiyang win the most gold medals?"
+}

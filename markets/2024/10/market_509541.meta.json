@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509541",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:52:37.896942Z",
+  "market_createdAt": "2024-10-10T19:52:37.896942Z",
+  "market_updatedAt": "2024-10-20T17:32:44.483307Z",
+  "market_startDate": "2024-10-10T19:54:10.458626Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:07:56+00",
+  "conditionId": "0x4fbb8ff4cd386bd94c2a3e4720c64a976cc56184f9045c93a4c2f0d9eef1ad30",
+  "slug": "epl-mun-bre-2024-10-19-bre",
+  "question": "Will Brentford win on 2024-10-19?"
+}

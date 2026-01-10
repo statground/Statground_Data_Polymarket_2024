@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:53:26.998902Z",
+  "market_createdAt": "2024-10-04T16:53:26.998902Z",
+  "market_updatedAt": "2024-10-07T04:46:42.512962Z",
+  "market_startDate": "2024-10-04T18:37:26.488595Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:42:52+00",
+  "conditionId": "0xb3784ba8febeffa3cefc31728fd09408508a40b73834524fcfae6de4c4d83ee0",
+  "slug": "will-clemson-beat-florida-state",
+  "question": "Will Clemson beat Florida State?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:15:54.172416Z",
+  "market_createdAt": "2024-10-01T18:15:54.172416Z",
+  "market_updatedAt": "2024-10-06T15:56:42.522708Z",
+  "market_startDate": "2024-10-02T15:16:17.305095Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:16:41+00",
+  "conditionId": "0xa5b2ab23e10042860d3be104538ca86b95a21ada91c1fd4496f1fe2b88e7f3b1",
+  "slug": "will-southampton-beat-arsenal",
+  "question": "Will Southampton beat Arsenal?"
+}

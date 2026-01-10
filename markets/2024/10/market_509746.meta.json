@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:31:46.025889Z",
+  "market_createdAt": "2024-10-11T22:31:46.025889Z",
+  "market_updatedAt": "2024-10-14T20:31:03.185511Z",
+  "market_startDate": "2024-10-11T23:18:39.352255Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 20:33:20+00",
+  "conditionId": "0x856790ccc453260a799fe87e3dfdbd7c6b7e3b6fe728c3fd3fdebb3f9df7e934",
+  "slug": "will-the-saints-and-buccaneers-combine-for-42-or-more-points",
+  "question": "Will the Saints and Buccaneers combine for 42 or more points?"
+}

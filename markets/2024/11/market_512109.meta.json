@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:11:49.563206Z",
+  "market_createdAt": "2024-11-05T21:11:49.563206Z",
+  "market_updatedAt": "2024-11-08T20:03:07.048716Z",
+  "market_startDate": "2024-11-07T03:00:06.815445Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:23+00",
+  "conditionId": "0x7e8e6480c844f120e72be80a6110f32bd87291c761ceb48221f3593e24b537b7",
+  "slug": "will-the-match-between-galatasaray-and-tottenham-end-in-a-draw",
+  "question": "Will the match between Galatasaray and Tottenham end in a draw?"
+}

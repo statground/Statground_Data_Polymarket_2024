@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:42:51.014207Z",
+  "market_createdAt": "2024-03-28T22:42:51.014207Z",
+  "market_updatedAt": "2024-11-07T05:17:08.422114Z",
+  "market_startDate": "2024-04-10T19:22:50.776Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:30:44+00",
+  "conditionId": "0x4430403d54a2a79a2b3043294f943a4f2717dff024629cf4a3e73f0151fa0df5",
+  "slug": "congressional-district-2nd-nebraska-will-a-republican-win",
+  "question": "Will a Republican win Nebraska's 2nd congressional district?"
+}

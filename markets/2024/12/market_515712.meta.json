@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:06:14.902936Z",
+  "market_createdAt": "2024-12-15T07:06:14.902936Z",
+  "market_updatedAt": "2024-12-21T05:38:50.742228Z",
+  "market_startDate": "2024-12-15T07:09:09.460828Z",
+  "market_endDate": "2024-12-27T02:00:00Z",
+  "market_closedTime": "2024-12-20 06:55:58+00",
+  "conditionId": "0xb1666d2253925dc284c9713e50326802a0d4f80e1dc5ea2df1e492ef3ae26364",
+  "slug": "nhl-ott-cal-2024-12-19",
+  "question": "Senators vs. Flames"
+}

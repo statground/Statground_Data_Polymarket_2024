@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505629",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:25:48.105289Z",
+  "market_createdAt": "2024-08-22T15:25:48.105289Z",
+  "market_updatedAt": "2024-08-24T03:22:56.044759Z",
+  "market_startDate": "2024-08-23T02:21:47.913Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:12:30+00",
+  "conditionId": "0xf72d972732237882151de776a11857a5de4870d938fc3b9a4443c97e9a0c4796",
+  "slug": "will-gretchen-whitmer-say-donald-trump-3-or-more-times-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Donald Trump\" 3 or more times in DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T17:59:26.669471Z",
+  "market_createdAt": "2024-11-06T17:59:26.669471Z",
+  "market_updatedAt": "2024-11-24T03:24:45.993959Z",
+  "market_startDate": "2024-11-06T18:27:40.033Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:25:15+00",
+  "conditionId": "0x27f33ec9a9433a0363086696610683cab7d6faeef195a352f08f2dae88d2b606",
+  "slug": "will-trump-nominate-john-paulsonm-for-treasury-secretary",
+  "question": "Will Trump nominate John Paulson for Treasury Secretary?"
+}

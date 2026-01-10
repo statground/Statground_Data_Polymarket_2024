@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:30:33.217632Z",
+  "market_createdAt": "2024-10-11T17:30:33.217632Z",
+  "market_updatedAt": "2024-10-14T22:16:49.640881Z",
+  "market_startDate": "2024-10-11T19:32:20.803739Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:55:35+00",
+  "conditionId": "0x9f2d253a0956fdbcc56b0d9963ef2358fb21f217aff4a6a7f5a90c94143e2c3c",
+  "slug": "will-austria-beat-norway",
+  "question": "Will Austria beat Norway?"
+}

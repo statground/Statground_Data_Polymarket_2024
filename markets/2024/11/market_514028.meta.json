@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:40:23.035576Z",
+  "market_createdAt": "2024-11-25T22:40:23.035576Z",
+  "market_updatedAt": "2024-11-27T23:49:30.111273Z",
+  "market_startDate": "2024-11-25T23:28:18.482948Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:06:11+00",
+  "conditionId": "0xfdd54282370b0fff00967f270d87b1d5830d2d754fe1a7d3f48bbce823064525",
+  "slug": "will-inter-milan-beat-rb-leipzig",
+  "question": "Will Inter Milan beat RB Leipzig?"
+}

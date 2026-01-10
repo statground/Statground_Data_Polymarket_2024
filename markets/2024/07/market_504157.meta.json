@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:17:35.203182Z",
+  "market_createdAt": "2024-07-25T18:17:35.203182Z",
+  "market_updatedAt": "2024-07-28T21:27:02.664331Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:30:57+00",
+  "conditionId": "0x865312bfc7924376fbc05d640d5192f2deace729acd67cc807af6ede034916fa",
+  "slug": "will-great-britain-win-gold-in-womens-4x100m-freestyle-relay",
+  "question": "Will Great Britain win Gold in Women's 4x100m Freestyle Relay?"
+}

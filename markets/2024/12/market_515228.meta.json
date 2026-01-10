@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:30:34.390007Z",
+  "market_createdAt": "2024-12-10T02:30:34.390007Z",
+  "market_updatedAt": "2024-12-16T23:33:28.495172Z",
+  "market_startDate": "2024-12-10T02:33:51.832145Z",
+  "market_endDate": "2024-12-22T18:00:00Z",
+  "market_closedTime": "2024-12-15 23:36:54+00",
+  "conditionId": "0x942e6592252e11bf733f08652a1177ac1b5f0c1e9c960d4cd370d3aeeaca164a",
+  "slug": "nfl-was-no-2024-12-15",
+  "question": "Commanders vs. Saints"
+}

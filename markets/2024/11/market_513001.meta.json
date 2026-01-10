@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T23:57:53.626872Z",
+  "market_createdAt": "2024-11-13T23:57:53.626872Z",
+  "market_updatedAt": "2024-11-15T21:41:11.897654Z",
+  "market_startDate": "2024-11-14T15:13:22.012226Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 00:46:24+00",
+  "conditionId": "0xcedd19d060697f98448b12a5980612e8f49a66b7e4c379af8f71ca93975a4cd9",
+  "slug": "will-the-match-between-belgium-and-italy-end-in-a-draw",
+  "question": "Will the match between Belgium and Italy end in a draw?"
+}

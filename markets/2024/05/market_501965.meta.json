@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T17:20:08.102803Z",
+  "market_createdAt": "2024-05-31T17:20:08.102803Z",
+  "market_updatedAt": "2024-06-06T17:21:15.174253Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-05 20:28:37+00",
+  "conditionId": "0xd672e1ab9ee1b3ed45b071bf5b6b87bdebf4df02a87f219f8406bb046185713f",
+  "slug": "will-aryna-sabalenka-win-the-2024-french-open-womens-singles",
+  "question": "Will Aryna Sabalenka win the 2024 French Open Women's Singles?"
+}

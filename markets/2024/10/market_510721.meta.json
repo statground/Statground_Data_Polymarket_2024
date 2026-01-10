@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:14:48.278974Z",
+  "market_createdAt": "2024-10-23T18:14:48.278974Z",
+  "market_updatedAt": "2024-10-28T14:06:42.191641Z",
+  "market_startDate": "2024-10-23T20:14:34.57939Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 17:03:02+00",
+  "conditionId": "0x50cd64b31a64a8d1fa09abd5a9dc1c37796490cca2c00fe444f5b374a9cb1266",
+  "slug": "will-monte-win-esl-challenger-katowice-2024",
+  "question": "Will Monte win ESL Challenger Katowice 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:24:18.876773Z",
+  "market_createdAt": "2024-06-03T23:24:18.876773Z",
+  "market_updatedAt": "2024-06-13T13:46:37.165341Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-13 04:59:33+00",
+  "conditionId": "0x580bec37c5f673d230a650c91f900c9e5a2380f431baf53ee9516662b610e693",
+  "slug": "luka-doncic-30-points-in-every-game-of-nba-finals",
+  "question": "Luka Doncic 30+ points in every game of NBA Finals?"
+}

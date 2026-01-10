@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T21:21:09.604306Z",
+  "market_createdAt": "2024-06-10T21:21:09.604306Z",
+  "market_updatedAt": "2024-07-06T03:20:47.917551Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:33:09+00",
+  "conditionId": "0x9726ec95cbe43984b5aaee071352c167cf15026836a8e70658a0532554360378",
+  "slug": "labour-wins-the-second-most-seats-in-next-uk-election",
+  "question": "Labour wins the second most seats in next UK election?"
+}

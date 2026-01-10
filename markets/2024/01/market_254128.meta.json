@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T23:12:20.438000Z",
+  "market_createdAt": "2024-01-25T23:12:20.438Z",
+  "market_updatedAt": "2024-05-07T23:10:08.995134Z",
+  "market_startDate": "2024-01-26T01:07:03.281Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-12 00:33:40+00",
+  "conditionId": "0x3c9d8b8e50e69c48a1882f259db6c492662ce45fd4c019da1abb8ebe3f6cf8e9",
+  "slug": "will-there-be-a-us-government-shutdown-by-mar-9",
+  "question": "US government shutdown by Mar 9?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-10T22:00:04.903400Z",
+  "market_createdAt": "2024-08-10T22:00:04.9034Z",
+  "market_updatedAt": "2024-09-02T02:17:06.71983Z",
+  "market_startDate": "2024-08-12T18:33:24.17Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:19:24+00",
+  "conditionId": "0x43c3c982e6660b4bcf68aa3147b1108bd8573b2c0efd464115b66eba6c4e033a",
+  "slug": "will-ukraine-hold-russian-territory-in-kursk-through-aug-31",
+  "question": "Will Ukraine hold Kursk through Aug 31?"
+}

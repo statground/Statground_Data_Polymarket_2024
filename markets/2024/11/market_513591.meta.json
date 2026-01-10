@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T21:38:41.527226Z",
+  "market_createdAt": "2024-11-20T21:38:41.527226Z",
+  "market_updatedAt": "2025-04-20T00:26:35.931892Z",
+  "market_startDate": "2024-11-20T22:33:17.237Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:18:21+00",
+  "conditionId": "0x006d76dff23c4c1a2ea4bf4d4a111290740b3fc154ca4d19fa54552f26049f86",
+  "slug": "will-jake-paul-fight-speed-next",
+  "question": "Will Jake Paul fight Speed next?"
+}

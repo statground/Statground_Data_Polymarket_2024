@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T19:16:00.945066Z",
+  "market_createdAt": "2024-09-16T19:16:00.945066Z",
+  "market_updatedAt": "2024-09-24T01:42:41.068677Z",
+  "market_startDate": "2024-09-16T19:18:25.51667Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 01:47:52+00",
+  "conditionId": "0x37c117260de106df94b971e3fe99ffde3d3cb58a693aa36fdb881602c942f850",
+  "slug": "nfl-dal-bal-2024-09-22",
+  "question": "Cowboys vs. Ravens"
+}

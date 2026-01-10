@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T22:41:27.374716Z",
+  "market_createdAt": "2024-05-07T22:41:27.374716Z",
+  "market_updatedAt": "2024-11-10T22:36:56.647753Z",
+  "market_startDate": "2024-05-07T22:52:16.954Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 07:02:01+00",
+  "conditionId": "0x4962f97cb1dc4be4382141a45ff1a38ead37ab3d98191b854c0e6cdd52bfca19",
+  "slug": "will-rfk-jr-win-a-state",
+  "question": "RFK Jr. wins a state?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:01:32.003000Z",
+  "market_createdAt": "2024-03-01T19:01:32.003Z",
+  "market_updatedAt": "2024-11-07T03:07:08.857924Z",
+  "market_startDate": "2024-03-28T20:47:18.767Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 13:21:13+00",
+  "conditionId": "0x05dc75d943d79e61217c3e9cbf3d09000759a241d0cb5b89f7cbd5ddb176880b",
+  "slug": "will-a-republican-win-missouri-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Missouri Presidential Election?"
+}

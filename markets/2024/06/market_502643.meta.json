@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:22:01.697827Z",
+  "market_createdAt": "2024-06-19T21:22:01.697827Z",
+  "market_updatedAt": "2024-06-29T07:06:02.304957Z",
+  "market_startDate": "2024-06-20T18:41:56.332Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:02:47+00",
+  "conditionId": "0xa43b884bd183e7af1f1d59d2c1052b100b22f419c54263729c7b4ca408f547a4",
+  "slug": "will-trump-say-hunter-during-the-debate",
+  "question": "Will Trump say \"Hunter\" during the debate?"
+}

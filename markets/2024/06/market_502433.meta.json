@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:20:26.861575Z",
+  "market_createdAt": "2024-06-14T15:20:26.861575Z",
+  "market_updatedAt": "2024-06-25T00:01:16.222831Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:16:21+00",
+  "conditionId": "0x3dc69a2da7f4c9c4c7d558b2c2b884f66000475bce834e884c92eec96d2bf1c3",
+  "slug": "will-germany-win-group-a",
+  "question": "Will Germany win Group A?"
+}

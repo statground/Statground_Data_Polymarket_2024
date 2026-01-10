@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:22:20.959024Z",
+  "market_createdAt": "2024-07-01T21:22:20.959024Z",
+  "market_updatedAt": "2024-07-08T18:50:57.428452Z",
+  "market_startDate": "2024-07-02T14:33:01.186Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-07 21:58:51+00",
+  "conditionId": "0x89420814dd709318b9cc93f54d961276e65f0105291cdf2a441af5567048d96d",
+  "slug": "will-emma-raducanu-win-wimbledon-womens",
+  "question": "Will Emma Raducanu win Wimbledon Women's?"
+}

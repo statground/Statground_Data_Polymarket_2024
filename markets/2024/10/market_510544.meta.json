@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:50:23.494486Z",
+  "market_createdAt": "2024-10-22T15:50:23.494486Z",
+  "market_updatedAt": "2024-10-26T05:56:58.308791Z",
+  "market_startDate": "2024-10-22T21:46:35.145Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:08:15+00",
+  "conditionId": "0x2c2d658c7c76d434801b89d5622b0761a60fe90395829f7a471e6a45c12e82e9",
+  "slug": "will-trump-say-mars-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"Mars\" during Las Vegas rally on October 24?"
+}

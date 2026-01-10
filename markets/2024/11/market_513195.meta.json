@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:33:34.917145Z",
+  "market_createdAt": "2024-11-15T19:33:34.917145Z",
+  "market_updatedAt": "2024-11-18T03:03:19.608357Z",
+  "market_startDate": "2024-11-15T22:19:35.750169Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 08:26:31+00",
+  "conditionId": "0x458344aab21e1815af2a57df9ebba59d9aa88990f6daeee1ea1916f549e16604",
+  "slug": "will-unlv-and-san-diego-state-combine-for-54-or-more-points",
+  "question": "Will UNLV and San Diego State combine for 54 or more points?"
+}

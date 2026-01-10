@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510519",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T13:24:53.379879Z",
+  "market_createdAt": "2024-10-22T13:24:53.379879Z",
+  "market_updatedAt": "2024-12-02T07:01:13.049698Z",
+  "market_startDate": "2024-10-22T14:52:53.785898Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:15+00",
+  "conditionId": "0x04bb2f787e983075d0ef877e0d711bd83affab14a1c22d8c306ff6e1085fde82",
+  "slug": "us-bank-failure-before-december",
+  "question": "US bank failure before December?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:52:58.749212Z",
+  "market_createdAt": "2024-10-03T20:52:58.749212Z",
+  "market_updatedAt": "2024-10-10T04:26:51.823746Z",
+  "market_startDate": "2024-10-03T22:34:29.926Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 04:56:27+00",
+  "conditionId": "0xb43e3086ab0f62a6fb4718494172d3a94a63244f1b10746dcb76f40e306cbc0d",
+  "slug": "will-the-hbo-documentary-identify-wei-dai-as-satoshi",
+  "question": "Will the HBO documentary identify Wei Dai as Satoshi?"
+}

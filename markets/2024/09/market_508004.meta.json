@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T19:18:52.595471Z",
+  "market_createdAt": "2024-09-24T19:18:52.595471Z",
+  "market_updatedAt": "2025-04-19T00:25:29.735956Z",
+  "market_startDate": "2024-09-25T14:48:31.714889Z",
+  "market_endDate": "2025-05-21T12:00:00Z",
+  "market_closedTime": "2025-04-18 00:48:18+00",
+  "conditionId": "0x1e19b295488d5d608ce838384bfa252aa987327a92c02219eb420baf7e1afa47",
+  "slug": "will-rangers-win-the-uefa-europa-league",
+  "question": "Will Rangers win the UEFA Europa League?"
+}

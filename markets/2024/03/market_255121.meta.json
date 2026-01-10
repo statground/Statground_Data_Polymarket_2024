@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:34:24.952000Z",
+  "market_createdAt": "2024-03-01T18:34:24.952Z",
+  "market_updatedAt": "2024-11-07T08:29:05.960779Z",
+  "market_startDate": "2024-03-28T20:31:32.146Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 10:29:58+00",
+  "conditionId": "0x6b89b43695129504b3c3f262ec7aef7d26555e46e010b646f4a567c3f27f780e",
+  "slug": "will-a-democrat-win-kentucky-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win Kentucky Presidential Election?"
+}

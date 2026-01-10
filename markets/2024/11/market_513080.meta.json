@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:00:52.466872Z",
+  "market_createdAt": "2024-11-14T23:00:52.466872Z",
+  "market_updatedAt": "2025-02-14T15:50:08.103244Z",
+  "market_startDate": "2024-11-14T23:22:20.961041Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-13 20:31:19+00",
+  "conditionId": "0xdeee297083dfaaffa9f6b746316ef95bcb3dd82b90c74b252b89b4e584021c0a",
+  "slug": "will-paul-mango-be-trumps-hhs-secretary",
+  "question": "Will Paul Mango be Trump's HHS Secretary?"
+}

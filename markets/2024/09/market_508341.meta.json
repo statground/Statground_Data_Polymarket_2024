@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:40:24.511204Z",
+  "market_createdAt": "2024-09-27T19:40:24.511204Z",
+  "market_updatedAt": "2024-09-30T17:02:40.615295Z",
+  "market_startDate": "2024-09-27T20:54:28.973066Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:01:14+00",
+  "conditionId": "0xdc98144eadfabd76dd8a236338d3150eeff88927bb7b3f79062692808cac3bf5",
+  "slug": "will-the-bears-beat-the-rams-by-3-or-more-points",
+  "question": "Will the Bears beat the Rams by 3 or more points?"
+}

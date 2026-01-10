@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:02:44.466129Z",
+  "market_createdAt": "2024-10-28T20:02:44.466129Z",
+  "market_updatedAt": "2024-11-05T23:21:25.743793Z",
+  "market_startDate": "2024-10-28T20:05:25.171704Z",
+  "market_endDate": "2024-11-04T20:00:00Z",
+  "market_closedTime": "2024-11-05 01:08:43+00",
+  "conditionId": "0x554a66a9875d6448d0290a0a117d2c64b964ab070fd03f2f3cb0c06bb8cb1307",
+  "slug": "epl-ful-bre-2024-11-04-draw",
+  "question": "Will Fulham vs. Brentford end in a draw?"
+}

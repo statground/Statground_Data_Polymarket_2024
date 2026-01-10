@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:50:25.094810Z",
+  "market_createdAt": "2024-10-11T15:50:25.09481Z",
+  "market_updatedAt": "2024-10-14T06:00:56.024158Z",
+  "market_startDate": "2024-10-11T19:11:18.220742Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 06:05:56+00",
+  "conditionId": "0x4244d67b8c06e75754dfb12ac35f7f807d8ad5521e598dc9dc4d925d9afbf96d",
+  "slug": "will-ole-miss-beat-lsu",
+  "question": "Will Ole Miss beat LSU?"
+}

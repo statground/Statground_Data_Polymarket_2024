@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:35:47.029317Z",
+  "market_createdAt": "2024-12-06T22:35:47.029317Z",
+  "market_updatedAt": "2024-12-09T17:57:31.665892Z",
+  "market_startDate": "2024-12-06T23:27:20.77517Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:25:46+00",
+  "conditionId": "0xc56dc936c0ef87f5fe0031b7db83da6b206a146fb5fa702e8f0ee008888db7d4",
+  "slug": "will-the-steelers-beat-the-browns-by-7-or-more-points",
+  "question": "Will the Steelers beat the Browns by 7 or more points?"
+}

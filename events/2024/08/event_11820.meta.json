@@ -1,0 +1,28 @@
+{
+  "entity": "event",
+  "event_id": "11820",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-08-02T15:54:42.345183Z",
+  "event_createdAt": "2024-08-02T15:54:42.345183Z",
+  "event_creationDate": "2024-08-02T17:43:04.89744Z",
+  "event_startDate": "2024-08-02T17:43:04.897449Z",
+  "event_endDate": "2024-08-09T12:00:00Z",
+  "event_updatedAt": "2024-08-10T19:17:05.092795Z",
+  "markets_len": 9,
+  "market_ids": [
+    "504466",
+    "504468",
+    "504469",
+    "504470",
+    "504471",
+    "504472",
+    "504473",
+    "504474",
+    "504475"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10000"
+  ],
+  "series_slug": "elon-tweets"
+}

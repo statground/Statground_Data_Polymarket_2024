@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:07:10.769166Z",
+  "market_createdAt": "2024-12-30T05:07:10.769166Z",
+  "market_updatedAt": "2025-01-05T19:55:38.797209Z",
+  "market_startDate": "2024-12-30T05:09:39.989484Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:29:16+00",
+  "conditionId": "0x2837cdd42e4a3d4445cb80e124f6a15a43cf4822a53877afd96d54ef0c1d76db",
+  "slug": "epl-cry-che-2025-01-04-cry",
+  "question": "Will Crystal Palace win on 2025-01-04?"
+}

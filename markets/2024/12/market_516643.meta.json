@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516643",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:02:05.255621Z",
+  "market_createdAt": "2024-12-29T06:02:05.255621Z",
+  "market_updatedAt": "2025-01-07T03:01:18.478758Z",
+  "market_startDate": "2024-12-29T06:04:41.151554Z",
+  "market_endDate": "2025-01-12T05:00:00Z",
+  "market_closedTime": "2025-01-06 03:07:48+00",
+  "conditionId": "0x165f860cf83d9c90be39bb987d7765ae17622bc8465ef760ea909d77fdd0a95f",
+  "slug": "nfl-sf-ari-2025-01-05",
+  "question": "49ers vs. Cardinals"
+}

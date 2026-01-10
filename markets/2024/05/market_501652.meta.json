@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-17T14:52:40.687354Z",
+  "market_createdAt": "2024-05-17T14:52:40.687354Z",
+  "market_updatedAt": "2024-06-02T14:46:08.103767Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 17:41:14+00",
+  "conditionId": "0x0edaefa10746a00c0f1eee104fa00557881db23bdcf9f5de11fed25c0db20693",
+  "slug": "will-trump-lead-biden-by-1pt6-1pt9-or-more-in-rcp-on-may-31",
+  "question": "Will Trump lead Biden by 1.6-1.9 or more in RCP on May 31?"
+}

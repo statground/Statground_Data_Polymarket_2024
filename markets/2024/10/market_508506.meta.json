@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T15:52:53.149699Z",
+  "market_createdAt": "2024-10-01T15:52:53.149699Z",
+  "market_updatedAt": "2024-10-02T22:00:45.747722Z",
+  "market_startDate": "2024-10-01T16:21:02.536021Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 23:41:22+00",
+  "conditionId": "0xbadfb843a7099975ec5c17dd92ee221afe32a03131eb7bfe0ed376a28605c670",
+  "slug": "al-wildcard-astros-vs-tigers-oct-1",
+  "question": "AL Wildcard: Astros vs. Tigers"
+}

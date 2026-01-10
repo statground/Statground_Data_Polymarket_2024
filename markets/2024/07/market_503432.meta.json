@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:30:26.495711Z",
+  "market_createdAt": "2024-07-12T19:30:26.495711Z",
+  "market_updatedAt": "2024-07-15T16:32:52.374979Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:52:06+00",
+  "conditionId": "0xec41a9a7b16155982052dccafe333dccf6e0dd9cf3ea419b5bdf696eccdb5e7b",
+  "slug": "will-bukayo-saka-score-the-first-goal",
+  "question": "Will Bukayo Saka score the first goal?"
+}

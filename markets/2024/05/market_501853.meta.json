@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T19:41:15.010216Z",
+  "market_createdAt": "2024-05-28T19:41:15.010216Z",
+  "market_updatedAt": "2024-06-07T15:00:17.507675Z",
+  "market_startDate": "2024-05-28T21:02:23.455Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x86f3383c4768fb8c1740d06354b10f58f86092568097722b0af3d5a6967df7ac",
+  "slug": "million-dollar-game-day-4-largest-pot-over-3-million",
+  "question": "Largest pot over $3 million? - Million Dollar Game Day 4"
+}

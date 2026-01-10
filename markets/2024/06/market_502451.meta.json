@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:46:21.570101Z",
+  "market_createdAt": "2024-06-14T15:46:21.570101Z",
+  "market_updatedAt": "2024-06-27T17:51:07.379771Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 21:14:57+00",
+  "conditionId": "0xb4b857ec5062d633f3d19dca5c1a1c06518f3e0d0de212c3fbb78e486f235a3f",
+  "slug": "will-belgium-win-group-e",
+  "question": "Will Belgium win Group E?"
+}

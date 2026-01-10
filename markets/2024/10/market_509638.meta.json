@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509638",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:45:41.781554Z",
+  "market_createdAt": "2024-10-11T15:45:41.781554Z",
+  "market_updatedAt": "2024-10-13T18:26:38.750457Z",
+  "market_startDate": "2024-10-11T19:06:49.471497Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 04:47:51+00",
+  "conditionId": "0x0fa19dd8442b643b3578e0002b27544775eac7e55da64aacbf55dbea853be955",
+  "slug": "will-washington-st-beat-fresno-st-by-4-or-more-points",
+  "question": "Will Washington St. beat Fresno St. by 4 or more points?"
+}

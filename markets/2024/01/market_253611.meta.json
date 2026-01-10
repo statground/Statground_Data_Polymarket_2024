@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T22:02:22.942000Z",
+  "market_createdAt": "2024-01-05T22:02:22.942Z",
+  "market_updatedAt": "2024-04-26T03:05:13.243721Z",
+  "market_startDate": "2024-01-06T00:46:57.528Z",
+  "market_endDate": "2024-01-23T00:00:00Z",
+  "market_closedTime": "2024-01-24 12:17:51+00",
+  "conditionId": "0x3b0aa8cf94d772ef1fb1dab5e094ac39842735ef01bbbf285ac5fea1377dbe84",
+  "slug": "will-ron-desantis-win-the-new-hampshire-republican-primary",
+  "question": "Will Ron DeSantis win the New Hampshire Republican Primary?"
+}

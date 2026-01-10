@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:47:36.998742Z",
+  "market_createdAt": "2024-12-27T16:47:36.998742Z",
+  "market_updatedAt": "2024-12-29T06:23:30.140415Z",
+  "market_startDate": "2024-12-27T17:28:39.079Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 09:22:26+00",
+  "conditionId": "0x8b009b84e05bf3f5c328cf767968470327f569e7453b26339b707b5bddc6f562",
+  "slug": "will-donald-trump-win-cracker-of-the-year",
+  "question": "Will Donald Trump win Cracker of the Year?"
+}

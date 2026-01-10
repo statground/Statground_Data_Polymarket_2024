@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:14:50.259300Z",
+  "market_createdAt": "2024-10-15T19:14:50.2593Z",
+  "market_updatedAt": "2024-10-18T05:12:46.240018Z",
+  "market_startDate": "2024-10-15T20:44:13.605Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:16:41+00",
+  "conditionId": "0xc819cd0e2357170188c429eaf22248c75771da3eb060e536a2b12eb995f74646",
+  "slug": "will-trump-say-taco-during-univision-town-hall",
+  "question": "Will Trump say \"taco\" during Univision town hall?"
+}

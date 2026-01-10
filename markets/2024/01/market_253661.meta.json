@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T19:14:04.794000Z",
+  "market_createdAt": "2024-01-08T19:14:04.794Z",
+  "market_updatedAt": "2024-01-17T09:33:13.444Z",
+  "market_startDate": "2024-01-08T20:37:20.358Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-16 12:17:00+00",
+  "conditionId": "0x4ddf0aa07f795ceb93ed0968ed5508eccf57bf0e7b1b79c204fa71be03a14690",
+  "slug": "will-trump-place-2nd-in-the-2024-iowa-caucus",
+  "question": "Will Trump place 2nd in the 2024 Iowa Caucus?"
+}

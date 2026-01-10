@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:05:23.362277Z",
+  "market_createdAt": "2024-12-22T05:05:23.362277Z",
+  "market_updatedAt": "2024-12-26T23:37:17.638639Z",
+  "market_startDate": "2024-12-22T05:07:50.795194Z",
+  "market_endDate": "2025-01-01T19:30:00Z",
+  "market_closedTime": "2024-12-25 23:58:05+00",
+  "conditionId": "0xaf42e755714e5c5f5a2120efcb19b39c8630dd91ce0143d67ac62bdde6a5d8da",
+  "slug": "nba-min-dal-2024-12-25",
+  "question": "Timberwolves vs. Mavericks"
+}

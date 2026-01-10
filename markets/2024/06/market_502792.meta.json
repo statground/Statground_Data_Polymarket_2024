@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T15:06:27.910449Z",
+  "market_createdAt": "2024-06-24T15:06:27.910449Z",
+  "market_updatedAt": "2024-06-27T06:51:09.562902Z",
+  "market_startDate": "2024-06-24T17:39:56.89Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 10:55:07+00",
+  "conditionId": "0x4f12bab00846e16128dba8408d8f8e904fc67e56dcd26537454999dc423e07eb",
+  "slug": "will-canada-win-jun-24",
+  "question": "Will Canada win?"
+}

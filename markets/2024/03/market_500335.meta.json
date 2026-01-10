@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T20:57:30.316018Z",
+  "market_createdAt": "2024-03-19T20:57:30.316018Z",
+  "market_updatedAt": "2024-05-07T23:09:15.988937Z",
+  "market_startDate": "2024-03-20T17:43:35.936Z",
+  "market_endDate": "2024-03-31T04:00:00Z",
+  "market_closedTime": "2024-04-22 07:11:41+00",
+  "conditionId": "0x80c2b3d122f9efed52e79c05dbf587f850703a8507acfe66f09c9e528b380634",
+  "slug": "will-giannis-antetokounmpo-win-the-202324-nba-mvp",
+  "question": "Will Giannis Antetokounmpo win the 2023-24 NBA MVP?"
+}

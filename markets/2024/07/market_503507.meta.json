@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:26:42.311224Z",
+  "market_createdAt": "2024-07-15T19:26:42.311224Z",
+  "market_updatedAt": "2024-12-18T22:51:23.652117Z",
+  "market_startDate": "2024-07-16T18:05:56.422Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:17:38+00",
+  "conditionId": "0xaf6e5fec3142f0ed3a7617432b9573c72e3b5ca17f87a1ddd65f1f89ae5cb060",
+  "slug": "will-georgia-be-the-tipping-point-state",
+  "question": "Will Georgia be the tipping point state?"
+}

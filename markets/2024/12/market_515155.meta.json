@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:18:13.723345Z",
+  "market_createdAt": "2024-12-09T19:18:13.723345Z",
+  "market_updatedAt": "2024-12-12T00:17:07.375864Z",
+  "market_startDate": "2024-12-09T23:33:31.955903Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:21:36+00",
+  "conditionId": "0x031650160c636920471ba5d9767923662888afe25f3d2410aaa4802981359ea2",
+  "slug": "will-rb-leipzig-beat-aston-villa",
+  "question": "Will RB Leipzig beat Aston Villa?"
+}

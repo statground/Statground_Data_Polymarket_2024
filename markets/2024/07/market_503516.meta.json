@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:38:12.796660Z",
+  "market_createdAt": "2024-07-15T19:38:12.79666Z",
+  "market_updatedAt": "2024-12-18T02:21:32.101936Z",
+  "market_startDate": "2024-07-16T18:06:00.774Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:18:16+00",
+  "conditionId": "0x76a0a87c2636a9428fac314b248efe7d31c6f042acccaed9e714f7ddbf6fb83e",
+  "slug": "will-new-hampshire-be-the-tipping-point-state",
+  "question": "Will New Hampshire be the tipping point state?"
+}

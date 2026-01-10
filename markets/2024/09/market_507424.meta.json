@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:28:36.671923Z",
+  "market_createdAt": "2024-09-18T20:28:36.671923Z",
+  "market_updatedAt": "2024-11-22T05:02:40.098279Z",
+  "market_startDate": "2024-09-19T17:20:42.141883Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:59:41+00",
+  "conditionId": "0xa14b45618ba0b274590314ebed0b59781a0680c8662ed736e9e9db6781f665ef",
+  "slug": "who-will-win-pinellas-county",
+  "question": "Who will win Pinellas county?"
+}

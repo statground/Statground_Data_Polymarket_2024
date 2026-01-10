@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:28:09.918416Z",
+  "market_createdAt": "2024-10-31T15:28:09.918416Z",
+  "market_updatedAt": "2024-11-03T00:41:10.322202Z",
+  "market_startDate": "2024-11-01T16:41:10.458491Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 00:57:30+00",
+  "conditionId": "0xc06287ca928f216c26e3c6132fd19ae339de502f888eb344c87b0b1872a362c6",
+  "slug": "will-trump-say-gamble-during-warren-mi-rally",
+  "question": "Will Trump say \"gamble\" during Warren, MI rally?"
+}

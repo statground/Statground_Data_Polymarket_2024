@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T21:00:14.165124Z",
+  "market_createdAt": "2024-06-10T21:00:14.165124Z",
+  "market_updatedAt": "2024-08-02T17:13:03.295687Z",
+  "market_startDate": "2024-06-10T21:03:46.392Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:24:26+00",
+  "conditionId": "0xeb1c2ca936146f5bcba8b72d833f92df62451d19b6aa5882815d12142db9ad18",
+  "slug": "btc-dips-below-50k-before-august",
+  "question": "$BTC dips below $50k before August?"
+}

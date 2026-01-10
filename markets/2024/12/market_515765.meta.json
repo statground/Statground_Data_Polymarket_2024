@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:27:15.227695Z",
+  "market_createdAt": "2024-12-16T18:27:15.227695Z",
+  "market_updatedAt": "2024-12-19T04:10:28.369434Z",
+  "market_startDate": "2024-12-16T23:34:40.970181Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 06:12:40+00",
+  "conditionId": "0x15bdc4485537019c5b87a216852576d4fc280e6451355c6bdd07cfe93869c679",
+  "slug": "nba-cup-final-sga-vs-giannis-more-points",
+  "question": "NBA Cup Final: Who will score more points?"
+}

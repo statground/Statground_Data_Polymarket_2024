@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:49:06.597466Z",
+  "market_createdAt": "2024-10-21T21:49:06.597466Z",
+  "market_updatedAt": "2024-10-23T22:37:16.150218Z",
+  "market_startDate": "2024-10-22T00:44:51.216243Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:30:13+00",
+  "conditionId": "0xf3c82726e19a3e5d650bc67b7f27f02bc6e40da42ea27741e9efb6094927e524",
+  "slug": "will-the-match-between-real-madrid-and-borussia-dortmund-end-in-a-draw",
+  "question": "Will the match between Real Madrid and Borussia Dortmund end in a draw?"
+}

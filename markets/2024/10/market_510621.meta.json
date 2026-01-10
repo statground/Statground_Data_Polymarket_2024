@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:11:47.773526Z",
+  "market_createdAt": "2024-10-22T19:11:47.773526Z",
+  "market_updatedAt": "2024-10-27T06:06:55.658916Z",
+  "market_startDate": "2024-10-23T17:33:01.149236Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:26:17+00",
+  "conditionId": "0x74df6d7ae84ca5f9bf28450ef97c2e40b34339ea8c6eb61cd7cbcd5f00c55c14",
+  "slug": "will-trump-say-trans-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"trans\" on The Joe Rogan Experience?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T22:15:25.539156Z",
+  "market_createdAt": "2024-09-24T22:15:25.539156Z",
+  "market_updatedAt": "2024-12-10T01:45:16.985981Z",
+  "market_startDate": "2024-09-24T22:19:23.581Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-09 02:28:47+00",
+  "conditionId": "0x7efb38573e83c72d9c96e12b22463d7b98e276641cef0477d5aa98416d27f4fe",
+  "slug": "will-cult-launch-a-coin-in-2024",
+  "question": "Will $cult launch in 2024?"
+}

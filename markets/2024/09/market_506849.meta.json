@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506849",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T17:07:18.285680Z",
+  "market_createdAt": "2024-09-11T17:07:18.28568Z",
+  "market_updatedAt": "2024-09-14T03:23:04.870788Z",
+  "market_startDate": "2024-09-12T18:42:07.684985Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 05:26:18+00",
+  "conditionId": "0xee93dab449a3e4ed0d5f269b7e6c6f033ee655668c1cd96a9ed19a3528cad32d",
+  "slug": "will-arizona-st-beat-texas-st",
+  "question": "Will Arizona St. beat Texas St.?"
+}

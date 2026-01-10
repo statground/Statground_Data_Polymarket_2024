@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512918",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:55:33.443567Z",
+  "market_createdAt": "2024-11-12T19:55:33.443567Z",
+  "market_updatedAt": "2024-12-09T17:19:23.580232Z",
+  "market_startDate": "2024-11-25T22:56:13.623221Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:53:44+00",
+  "conditionId": "0x8a30a0c1d73391913db77fa7dd3d29d9b7186f7fa59f41673cf36f60a0ba633d",
+  "slug": "will-clemson-make-the-college-football-playoff",
+  "question": "Will Clemson make the College Football Playoff?"
+}

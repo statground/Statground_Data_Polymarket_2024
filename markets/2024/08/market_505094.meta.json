@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:00:53.191335Z",
+  "market_createdAt": "2024-08-14T16:00:53.191335Z",
+  "market_updatedAt": "2024-08-16T23:42:59.17015Z",
+  "market_startDate": "2024-08-14T17:27:53.095Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 00:14:25+00",
+  "conditionId": "0x5f7795a24764fe32d0097275ac15e663f69c757826579851c8511f88e698d43c",
+  "slug": "will-trump-say-couch-at-his-press-conference",
+  "question": "Will Trump say \"Couch\" at his press conference?"
+}

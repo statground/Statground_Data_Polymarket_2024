@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512208",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:14:55.985341Z",
+  "market_createdAt": "2024-11-06T20:14:55.985341Z",
+  "market_updatedAt": "2024-11-16T09:36:58.157194Z",
+  "market_startDate": "2024-11-06T20:40:27.839Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 09:53:03+00",
+  "conditionId": "0x5b710ec378c228023a290d5ed335c3a03072e7d6419dab9dcf05d45022923bb5",
+  "slug": "will-trump-nominate-mike-pompeo-for-defense-secretary",
+  "question": "Will Trump nominate Mike Pompeo for Defense Secretary?"
+}

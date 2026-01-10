@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:29:41.705603Z",
+  "market_createdAt": "2024-10-01T17:29:41.705603Z",
+  "market_updatedAt": "2024-10-04T20:52:45.780846Z",
+  "market_startDate": "2024-10-02T15:16:33.500396Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-10-04 00:04:34+00",
+  "conditionId": "0x047b5291987f6a6960ae9d84897a6945a3740349be392891d576f3f2eacf635c",
+  "slug": "will-the-match-between-union-saint-gilloise-and-bodo-glimt-end-in-a-draw",
+  "question": "Will the match between Union Saint-Gilloise and Bodo Glimt end in a Draw?"
+}

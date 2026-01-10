@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T19:40:02.001373Z",
+  "market_createdAt": "2024-08-06T19:40:02.001373Z",
+  "market_updatedAt": "2024-08-08T19:50:56.877503Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:38:12+00",
+  "conditionId": "0xc7a0f6725353639ac07f98014d43f7b72ccf10854911a5890648da5fb579da16",
+  "slug": "will-michael-norman-usa-win-gold-in-the-mens-400m",
+  "question": "Will Michael Norman (USA) win gold in the Men’s 400m?"
+}

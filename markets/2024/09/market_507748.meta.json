@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:44:03.442743Z",
+  "market_createdAt": "2024-09-23T18:44:03.442743Z",
+  "market_updatedAt": "2024-10-02T00:40:57.286774Z",
+  "market_startDate": "2024-09-23T19:00:52.588193Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 03:59:00+00",
+  "conditionId": "0x606b3a3b8fdb83e552e9506d29153fb415b41dc747bb8ab23f50572c30a67a6d",
+  "slug": "will-the-wild-robot-gross-between-24m-and-31m-opening-weekend",
+  "question": "Will 'The Wild Robot' gross between $24m and $31m opening weekend?"
+}

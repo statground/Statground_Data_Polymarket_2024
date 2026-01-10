@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:35:10.423437Z",
+  "market_createdAt": "2024-10-24T17:35:10.423437Z",
+  "market_updatedAt": "2024-10-28T00:16:50.354125Z",
+  "market_startDate": "2024-10-24T21:43:39.906928Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 00:22:20+00",
+  "conditionId": "0x9e47f4fb67df8bfb4341c8eb56207425f48db2d9caca487c06b4a5eaa1877cbf",
+  "slug": "will-barcelona-beat-real-madrid",
+  "question": "Will Barcelona beat Real Madrid?"
+}

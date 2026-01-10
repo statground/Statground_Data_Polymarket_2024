@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:39:08.434814Z",
+  "market_createdAt": "2024-09-20T16:39:08.434814Z",
+  "market_updatedAt": "2024-09-23T17:10:49.321492Z",
+  "market_startDate": "2024-09-20T18:32:36.263491Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-22 22:17:16+00",
+  "conditionId": "0xc244327eb29d03b0240ebe5c42c3219670cd537b58f88a5ef5522462fc73dbb2",
+  "slug": "will-the-texans-beat-the-vikings-by-3-or-more-points",
+  "question": "Will the Texans beat the Vikings by 3 or more points?"
+}

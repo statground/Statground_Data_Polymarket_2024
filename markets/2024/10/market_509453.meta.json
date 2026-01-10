@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509453",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:26:54.167575Z",
+  "market_createdAt": "2024-10-09T21:26:54.167575Z",
+  "market_updatedAt": "2024-10-11T21:32:56.095438Z",
+  "market_startDate": "2024-10-09T22:48:38.313Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 23:59:14+00",
+  "conditionId": "0x16f58ee2d00e8612c62f98881725cd98019ee59a6c20b7fb904e6b6fea225956",
+  "slug": "will-italy-beat-belgium",
+  "question": "Will Italy beat Belgium?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:45:09.311833Z",
+  "market_createdAt": "2024-10-25T20:45:09.311833Z",
+  "market_updatedAt": "2024-10-28T19:50:50.235653Z",
+  "market_startDate": "2024-10-25T21:50:49.993641Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:05:18+00",
+  "conditionId": "0x3e53b4859a85553f693ad45d4758dda6336f5b12467cc751571f85242f23ba15",
+  "slug": "will-the-bengals-beat-the-eagles-by-3-or-more-points",
+  "question": "Will the Bengals beat the Eagles by 3 or more points?"
+}

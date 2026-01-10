@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T21:34:02.728965Z",
+  "market_createdAt": "2024-12-02T21:34:02.728965Z",
+  "market_updatedAt": "2025-07-03T00:26:45.223009Z",
+  "market_startDate": "2024-12-23T17:27:01.826Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-02 00:47:27+00",
+  "conditionId": "0xd100c5d1cfc1de8e6df046b92dbe7aae4bcab6d3212aa6ae3477d59ec724ec0e",
+  "slug": "will-gpt-5-be-released-by-june-30",
+  "question": "Will GPT-5 be released by June 30?"
+}

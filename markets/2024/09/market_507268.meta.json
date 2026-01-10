@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T22:17:10.350085Z",
+  "market_createdAt": "2024-09-16T22:17:10.350085Z",
+  "market_updatedAt": "2025-02-20T21:18:53.456932Z",
+  "market_startDate": "2024-09-17T18:00:48.353491Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-02-20 02:17:24+00",
+  "conditionId": "0x586e7ee86609bd6ea5b71bddff7ea7877100c03d22ece5a336baa98aadacdb1a",
+  "slug": "will-manchester-city-win-the-uefa-champions-league",
+  "question": "Will Manchester City win the UEFA Champions League?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T21:54:55.970604Z",
+  "market_createdAt": "2024-07-03T21:54:55.970604Z",
+  "market_updatedAt": "2024-07-07T20:45:46.597785Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-06 21:00:18+00",
+  "conditionId": "0xd106f668e01612d014b02696cb955206aef0431bd5682a86209e26e19e4963be",
+  "slug": "will-switzerland-win-july-6",
+  "question": "Will Switzerland win?"
+}

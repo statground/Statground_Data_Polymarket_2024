@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:04:57.017010Z",
+  "market_createdAt": "2024-11-11T18:04:57.01701Z",
+  "market_updatedAt": "2024-11-15T05:30:59.224686Z",
+  "market_startDate": "2024-11-11T18:07:33.136558Z",
+  "market_endDate": "2024-11-21T01:00:00Z",
+  "market_closedTime": "2024-11-14 05:26:17+00",
+  "conditionId": "0x1b7bb823840a742340055608c8c05946106b708a7c6183199acf50c6abc8f6d9",
+  "slug": "nba-lac-hou-2024-11-13",
+  "question": "Clippers vs. Rockets"
+}

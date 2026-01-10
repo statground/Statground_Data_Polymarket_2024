@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516539",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T19:58:29.912496Z",
+  "market_createdAt": "2024-12-27T19:58:29.912496Z",
+  "market_updatedAt": "2024-12-29T19:50:50.547559Z",
+  "market_startDate": "2024-12-27T21:30:42.990954Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 02:38:23+00",
+  "conditionId": "0xd6ac726e953800aaedd19920bd10412572ee4ab218fe68844f4334cf3e24a4d9",
+  "slug": "will-miami-beat-iowa-state-by-4-or-more-points",
+  "question": "Will Miami beat Iowa State by 4 or more points?"
+}

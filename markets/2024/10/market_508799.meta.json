@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:35:55.894867Z",
+  "market_createdAt": "2024-10-03T21:35:55.894867Z",
+  "market_updatedAt": "2025-05-18T08:20:28.755603Z",
+  "market_startDate": "2024-10-04T15:16:59.104079Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-05-17 08:02:09+00",
+  "conditionId": "0xc26b4fd76b0b5546bfda17f4303a026d8857fb0780d57715549c714c9c0d7fd9",
+  "slug": "will-the-boston-celtics-win-the-eastern-conference",
+  "question": "Will the Boston Celtics win the Eastern Conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-15T18:45:55.158000Z",
+  "market_createdAt": "2024-02-15T18:45:55.158Z",
+  "market_updatedAt": "2024-05-31T22:41:11.150296Z",
+  "market_startDate": "2024-04-15T21:18:21.794Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-05-30 23:25:47+00",
+  "conditionId": "0x58333181d7a90f6c8b83fec76e727d545188a326e02eeb88298eeba0814f925a",
+  "slug": "trump-found-guilty-in-hush-money-case-before-election-day",
+  "question": "Trump found guilty in hush money case?"
+}

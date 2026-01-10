@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T19:05:20.826337Z",
+  "market_createdAt": "2024-08-01T19:05:20.826337Z",
+  "market_updatedAt": "2024-09-02T06:43:00.476935Z",
+  "market_startDate": "2024-08-01T20:15:11.316Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 13:03:17+00",
+  "conditionId": "0x7edfef311c0e325aba309e51d3d9478438f6bdf0e607752953ab6479bc59e82c",
+  "slug": "will-kamala-say-brat-in-august",
+  "question": "Will Kamala say \"Brat\" in August?"
+}

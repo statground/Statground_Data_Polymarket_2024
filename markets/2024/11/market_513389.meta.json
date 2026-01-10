@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:28:46.868991Z",
+  "market_createdAt": "2024-11-18T20:28:46.868991Z",
+  "market_updatedAt": "2024-12-12T19:25:18.438883Z",
+  "market_startDate": "2024-11-18T20:44:10.459223Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-11 20:54:00+00",
+  "conditionId": "0x09889f121b252d412baf356cb7288ecaaa78fb605676ca7f3c5f1004ace5fad2",
+  "slug": "will-another-party-win-the-most-seats-in-the-ghanaian-parliamentary-election",
+  "question": "Will another party win the most seats in the Ghanaian parliamentary election?"
+}

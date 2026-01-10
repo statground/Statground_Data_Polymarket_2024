@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T16:59:15.489235Z",
+  "market_createdAt": "2024-08-22T16:59:15.489235Z",
+  "market_updatedAt": "2024-08-23T22:17:01.620715Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 22:38:39+00",
+  "conditionId": "0xc084cbfe660b463f98b5775dca546c54860325321022d7e9c56a5cbf7017b4f5",
+  "slug": "will-donald-trump-say-iran-in-border-speech",
+  "question": "Will Donald Trump say \"Iran\" in border speech?"
+}

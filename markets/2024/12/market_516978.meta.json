@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:35:04.476278Z",
+  "market_createdAt": "2024-12-31T20:35:04.476278Z",
+  "market_updatedAt": "2025-07-02T00:26:26.155315Z",
+  "market_startDate": "2024-12-31T20:48:12.18Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:30:16+00",
+  "conditionId": "0x54ae26e70d2ace6369d22d3ea51610a780de3ad0f251fc9f3f1b640520ec69ea",
+  "slug": "will-google-have-the-top-ai-model-on-june-30",
+  "question": "Will Google have the top AI model on June 30?"
+}

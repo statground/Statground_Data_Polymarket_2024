@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:23:11.240608Z",
+  "market_createdAt": "2024-08-21T15:23:11.240608Z",
+  "market_updatedAt": "2024-08-23T05:23:07.12377Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:27:10+00",
+  "conditionId": "0x209bde20c17477bf06e828e2aa0979831104595debe9cabf2b2f874b291b03a4",
+  "slug": "will-pete-buttigieg-say-ceasefire-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Ceasefire\" in DNC speech?"
+}

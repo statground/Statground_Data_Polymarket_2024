@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T15:40:37.814423Z",
+  "market_createdAt": "2024-06-26T15:40:37.814423Z",
+  "market_updatedAt": "2024-06-28T21:56:05.978516Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 03:09:41+00",
+  "conditionId": "0xef969fa6b65d0d5cbab3c8972d4c2cfb1198377d3709d0aaa896a13c7f8b7a69",
+  "slug": "will-usa-win-jun-27",
+  "question": "Will USA win?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:07:49.806246Z",
+  "market_createdAt": "2024-11-05T19:07:49.806246Z",
+  "market_updatedAt": "2024-11-12T07:03:09.588843Z",
+  "market_startDate": "2024-11-05T19:10:25.196662Z",
+  "market_endDate": "2024-11-11T01:20:00Z",
+  "market_closedTime": "2024-11-11 06:54:23+00",
+  "conditionId": "0x7ffab92345d13dc3d2e8f4f0e4eab536bb5b4e944e9a5affe85e97d12e0198ab",
+  "slug": "nfl-det-hou-2024-11-10",
+  "question": "Lions vs. Texans"
+}

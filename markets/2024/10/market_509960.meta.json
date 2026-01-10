@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:48:28.034034Z",
+  "market_createdAt": "2024-10-15T20:48:28.034034Z",
+  "market_updatedAt": "2024-11-06T08:13:16.795583Z",
+  "market_startDate": "2024-10-15T20:58:00.534815Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:08:17+00",
+  "conditionId": "0xe60881d4c7d67a75b124257d5831a6ca6f5e304616f0620c57c0f8cf2e5295ff",
+  "slug": "will-trump-sell-shares-of-djt-before-the-election",
+  "question": "Will Trump sell shares of DJT before the election?"
+}

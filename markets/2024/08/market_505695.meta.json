@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T00:05:11.955881Z",
+  "market_createdAt": "2024-08-23T00:05:11.955881Z",
+  "market_updatedAt": "2024-09-02T07:47:06.375742Z",
+  "market_startDate": "2024-08-23T00:52:34.345Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 07:51:12+00",
+  "conditionId": "0x7555cd6e539135d2ffb061c4772e61d731dc4a104b2a4e882b56b9c41ad0ceaf",
+  "slug": "crimean-bridge-hit-before-september",
+  "question": "Crimean bridge hit before September?"
+}

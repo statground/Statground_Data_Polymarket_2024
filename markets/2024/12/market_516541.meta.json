@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516541",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T20:03:28.213738Z",
+  "market_createdAt": "2024-12-27T20:03:28.213738Z",
+  "market_updatedAt": "2024-12-29T05:57:06.050799Z",
+  "market_startDate": "2024-12-27T21:31:46.609546Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 03:42:09+00",
+  "conditionId": "0x0605d15b47c233d336332372a21253be0732c5ab2b435d63627adc130f7fa584",
+  "slug": "will-miami-oh-beat-colorado-state-by-3-or-more-points",
+  "question": "Will Miami (OH) beat Colorado State by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T17:26:35.679489Z",
+  "market_createdAt": "2024-11-20T17:26:35.679489Z",
+  "market_updatedAt": "2024-12-04T16:25:05.997855Z",
+  "market_startDate": "2024-11-20T19:00:01.055Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:14:38+00",
+  "conditionId": "0x2e3f199ecca55910e28d0ffb6fcec358c63e148cb9a09810caa3a48b81e9dcf0",
+  "slug": "will-the-centre-party-win-the-most-seats-in-the-icelandic-parliamentary-election",
+  "question": "Will the Centre Party win the most seats in the Icelandic parliamentary election?"
+}

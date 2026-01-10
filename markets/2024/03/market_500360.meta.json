@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-20T19:33:08.948528Z",
+  "market_createdAt": "2024-03-20T19:33:08.948528Z",
+  "market_updatedAt": "2024-05-07T23:10:01.757849Z",
+  "market_startDate": "2024-04-03T18:14:43.935Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 21:09:06+00",
+  "conditionId": "0xe92b0c7d4a663200f4464e2547c468ba245e462289f88c7bae660feae8dd281a",
+  "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-its-aprilmay-2024-meeting",
+  "question": "Fed decreases interest rates by 50+ bps after May 2024 meeting?"
+}

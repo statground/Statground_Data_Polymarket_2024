@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:17:19.578324Z",
+  "market_createdAt": "2024-10-01T17:17:19.578324Z",
+  "market_updatedAt": "2024-10-04T22:02:39.23938Z",
+  "market_startDate": "2024-10-02T15:06:17.525925Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:15:14+00",
+  "conditionId": "0x4e16e9b448aeca0285bc33699d655be2cfd9fb1715197a80ee3b8c8b992f879d",
+  "slug": "will-frankfurt-beat-besiktas",
+  "question": "Will Frankfurt beat Besiktas?"
+}

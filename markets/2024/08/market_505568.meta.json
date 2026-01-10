@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T17:26:30.416299Z",
+  "market_createdAt": "2024-08-21T17:26:30.416299Z",
+  "market_updatedAt": "2024-11-07T14:45:43.044271Z",
+  "market_startDate": "2024-08-21T17:26:30.416299Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 14:42:45+00",
+  "conditionId": "0x2d49a84979ced2318f6d78844324e7b50c22dd3ac590e6504f7f412cfeb4eeca",
+  "slug": "will-montanas-abortion-protection-measure-pass",
+  "question": "Will Montana's abortion protection measure pass?"
+}

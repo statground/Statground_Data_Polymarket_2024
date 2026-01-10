@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T21:04:45.611208Z",
+  "market_createdAt": "2024-05-14T21:04:45.611208Z",
+  "market_updatedAt": "2024-05-20T22:59:03.972467Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 02:03:36+00",
+  "conditionId": "0xb867078adeeed8c7dc460e9a4900cedc5713a3fe6f52b95c2ce680d1ac9bd804",
+  "slug": "will-bryson-dechambeau-win-the-2024-pga-championship",
+  "question": "Will Bryson DeChambeau win the 2024 PGA Championship?"
+}

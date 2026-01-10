@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:18:57.744500Z",
+  "market_createdAt": "2024-11-06T18:18:57.7445Z",
+  "market_updatedAt": "2024-11-15T23:55:11.397051Z",
+  "market_startDate": "2024-11-06T18:41:25.866Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:26:54+00",
+  "conditionId": "0x2dd776cc5ef76a0eb8ce0b5726362c33cfaa60d9b878991f88b642bd16645da1",
+  "slug": "will-trump-nominate-mike-waltz-for-secretary-of-state",
+  "question": "Will Trump nominate Mike Waltz for Secretary of State?"
+}

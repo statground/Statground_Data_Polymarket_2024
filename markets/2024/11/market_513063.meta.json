@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:16:44.591816Z",
+  "market_createdAt": "2024-11-14T21:16:44.591816Z",
+  "market_updatedAt": "2024-11-17T00:09:01.965036Z",
+  "market_startDate": "2024-11-14T22:50:44.8327Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 00:58:35+00",
+  "conditionId": "0x49a68f099965f9823785d073fc2bfb41ffb3de5703f1d2b9c26e7560d3a32704",
+  "slug": "will-the-match-between-switzerland-and-serbia-end-in-a-draw",
+  "question": "Will the match between Switzerland and Serbia end in a draw?"
+}

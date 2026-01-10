@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T21:02:06.971662Z",
+  "market_createdAt": "2024-03-19T21:02:06.971662Z",
+  "market_updatedAt": "2024-05-07T23:10:08.998234Z",
+  "market_startDate": "2024-03-20T17:42:59.463Z",
+  "market_endDate": "2024-03-31T04:00:00Z",
+  "market_closedTime": "2024-04-22 07:11:51+00",
+  "conditionId": "0x934da9fd5463894a19c387f3d5c46dd6fd1133077d219a29988927f0426bc108",
+  "slug": "will-another-player-win-the-202324-nba-mvp",
+  "question": "Will another player win the 2023-24 NBA MVP?"
+}

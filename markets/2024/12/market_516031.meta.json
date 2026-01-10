@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T15:50:51.353933Z",
+  "market_createdAt": "2024-12-19T15:50:51.353933Z",
+  "market_updatedAt": "2025-01-30T21:23:05.214699Z",
+  "market_startDate": "2024-12-19T19:51:02.314008Z",
+  "market_endDate": "2025-01-29T12:00:00Z",
+  "market_closedTime": "2025-01-29 22:24:18+00",
+  "conditionId": "0xf753191a0ecf02044455f863c8dfebd9ad5b5fda7229d73637bb5a1150042bda",
+  "slug": "will-powell-say-good-afternoon-during-january-press-conference",
+  "question": "Will Powell say \"good afternoon\" during January press conference?"
+}

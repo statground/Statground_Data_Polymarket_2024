@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T17:17:46.013755Z",
+  "market_createdAt": "2024-08-30T17:17:46.013755Z",
+  "market_updatedAt": "2024-09-08T15:21:04.505944Z",
+  "market_startDate": "2024-08-30T17:17:46.013755Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-07 17:10:56+00",
+  "conditionId": "0x08046047b3c4926ac7e59a2c249fbeef2a94c33d8b0d806006b3c88081d6e41b",
+  "slug": "national-guard-deployed-to-aurora-by-next-friday",
+  "question": "National Guard deployed to Aurora by next Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T18:45:28.660881Z",
+  "market_createdAt": "2024-09-24T18:45:28.660881Z",
+  "market_updatedAt": "2024-10-10T22:56:47.461154Z",
+  "market_startDate": "2024-09-24T19:33:24.946Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-10 00:20:57+00",
+  "conditionId": "0x8dbd92acc13a6f37030ded322be9678032d07029a1ca93d1e215ba377b20d35d",
+  "slug": "kamala-harris-538-odds-60-next-friday",
+  "question": "Kamala Harris 538 odds >60% Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:45:47.832352Z",
+  "market_createdAt": "2024-11-04T18:45:47.832352Z",
+  "market_updatedAt": "2024-11-12T02:19:18.601263Z",
+  "market_startDate": "2024-11-04T18:48:29.464385Z",
+  "market_endDate": "2024-11-10T23:00:00Z",
+  "market_closedTime": "2024-11-11 03:55:40+00",
+  "conditionId": "0x84f6581dfb763cda4c88dba4a5a13fc7e9ab684400ba33b258fd9b40930111c1",
+  "slug": "nba-was-orl-2024-11-10",
+  "question": "Wizards vs. Magic"
+}

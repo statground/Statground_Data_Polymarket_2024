@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T14:54:27.997679Z",
+  "market_createdAt": "2024-10-28T14:54:27.997679Z",
+  "market_updatedAt": "2024-10-31T02:57:04.22876Z",
+  "market_startDate": "2024-10-28T15:39:09.95367Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 03:25:12+00",
+  "conditionId": "0xdd0d4c47b88bfa2e9999157f50f6b4effb01bc9460bf4b9f0c57b976a3c7d6aa",
+  "slug": "will-trump-say-rogan-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"Rogan\" during Pennsylvania rally on Oct 29?"
+}

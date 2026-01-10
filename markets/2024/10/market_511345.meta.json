@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:37:52.938627Z",
+  "market_createdAt": "2024-10-29T19:37:52.938627Z",
+  "market_updatedAt": "2024-10-31T04:03:13.082355Z",
+  "market_startDate": "2024-10-29T20:28:35.180395Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:07:14+00",
+  "conditionId": "0x56ddcab85a814dd11d40840ee9deb18b5d4bc0082514ed3a4cdb9129228f4b62",
+  "slug": "will-kamala-say-puerto-rico-during-dc-rally-on-oct-29",
+  "question": "Will Kamala say \"Puerto Rico\" during DC rally on Oct 29?"
+}

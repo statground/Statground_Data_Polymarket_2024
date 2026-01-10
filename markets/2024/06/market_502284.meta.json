@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T20:50:20.435044Z",
+  "market_createdAt": "2024-06-10T20:50:20.435044Z",
+  "market_updatedAt": "2025-01-01T19:27:16.651777Z",
+  "market_startDate": "2024-06-10T23:34:01.074Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:08:34+00",
+  "conditionId": "0x969e08d4c0aef660cb54cb7e54e3571e50ce14e69f83f040ade77bf2d2719387",
+  "slug": "elon-musk-bans-apple-devices-at-his-companies",
+  "question": "Elon Musk bans Apple devices at his companies?"
+}

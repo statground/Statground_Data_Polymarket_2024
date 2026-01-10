@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512016",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T16:46:17.274738Z",
+  "market_createdAt": "2024-11-05T16:46:17.274738Z",
+  "market_updatedAt": "2024-11-08T13:22:55.322382Z",
+  "market_startDate": "2024-11-05T22:49:36.184764Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 05:23:09+00",
+  "conditionId": "0x69a5ac1c6a7d4fa3370416f598aebc8909dfbc6f32c7d9bd9d4913a2556f87ae",
+  "slug": "will-trump-concede-by-midnight",
+  "question": "Will Trump concede by midnight? "
+}

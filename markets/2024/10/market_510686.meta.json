@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:14:10.426132Z",
+  "market_createdAt": "2024-10-23T00:14:10.426132Z",
+  "market_updatedAt": "2024-11-11T16:22:40.25871Z",
+  "market_startDate": "2024-10-23T17:53:41.726077Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:08:12+00",
+  "conditionId": "0x0f8cb9b6de30300633d0bb4289af04afd296357d6ad46083beb0280e65e6280a",
+  "slug": "will-fc-cincinnati-win-the-mls-cup",
+  "question": "Will FC Cincinnati win the MLS Cup?"
+}

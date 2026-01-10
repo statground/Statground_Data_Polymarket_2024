@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T00:17:19.219934Z",
+  "market_createdAt": "2024-10-25T00:17:19.219934Z",
+  "market_updatedAt": "2024-11-05T19:33:18.721998Z",
+  "market_startDate": "2024-10-25T15:40:41.609576Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-04 20:15:49+00",
+  "conditionId": "0x4301716db71ad729aef3e798d4e39f70a7343f7b6fb30baff6fc728df0c03ca7",
+  "slug": "will-trump-lead-in-rcp-by-2pt5-or-more-on-nov-4",
+  "question": "Will Trump lead in RCP by 2.5 or more on Nov 4?"
+}

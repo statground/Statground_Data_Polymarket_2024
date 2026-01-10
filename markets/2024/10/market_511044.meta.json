@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T21:28:57.911545Z",
+  "market_createdAt": "2024-10-27T21:28:57.911545Z",
+  "market_updatedAt": "2025-01-02T08:29:03.523811Z",
+  "market_startDate": "2024-10-28T14:14:57.104914Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:41:56+00",
+  "conditionId": "0xacb222d877953d15539b66743500d421db46c7e3b9bb429007489c25f23f3fad",
+  "slug": "will-russia-capture-pokrovsk-in-2024",
+  "question": "Will Russia capture Pokrovsk in 2024?"
+}

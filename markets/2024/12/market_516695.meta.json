@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:12:19.461231Z",
+  "market_createdAt": "2024-12-29T07:12:19.461231Z",
+  "market_updatedAt": "2025-01-06T01:43:14.839191Z",
+  "market_startDate": "2024-12-29T07:15:01.504723Z",
+  "market_endDate": "2025-01-11T21:00:00Z",
+  "market_closedTime": "2025-01-05 01:49:30+00",
+  "conditionId": "0xf868937b72831dbbdf6f7386c8639c97b16c6eff29d524a3eee592d8d19a2519",
+  "slug": "nhl-nj-sj-2025-01-04",
+  "question": "Devils vs. Sharks"
+}

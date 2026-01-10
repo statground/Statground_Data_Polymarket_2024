@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T21:43:25.007768Z",
+  "market_createdAt": "2024-12-11T21:43:25.007768Z",
+  "market_updatedAt": "2025-02-10T05:57:16.714989Z",
+  "market_startDate": "2024-12-11T21:56:37.478133Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-02-09 06:17:48+00",
+  "conditionId": "0x0828fb562474c6c4647fb3471db0e85ce5c1f65c0765817ebd456b85aa306ba2",
+  "slug": "will-russia-recognize-syrian-government-by-march-31",
+  "question": "Will Russia recognize Syrian government by March 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:19:51.351698Z",
+  "market_createdAt": "2024-10-07T19:19:51.351698Z",
+  "market_updatedAt": "2025-05-23T23:01:21.67274Z",
+  "market_startDate": "2024-10-08T14:47:20.076266Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-01 06:19:27+00",
+  "conditionId": "0xf0f0189519f8b6a4a96677ade840c6a39b3d1df83205c143f998cc4c2e87f59f",
+  "slug": "will-the-montreal-canadiens-win-the-2025-stanley-cup",
+  "question": "Will the Montreal Canadiens win the 2025 Stanley Cup?"
+}

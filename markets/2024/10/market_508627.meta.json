@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T21:47:37.163913Z",
+  "market_createdAt": "2024-10-01T21:47:37.163913Z",
+  "market_updatedAt": "2024-10-03T04:56:40.77853Z",
+  "market_startDate": "2024-10-01T21:55:14.806225Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:54:47+00",
+  "conditionId": "0x758ddcec5d21b3e9c37940035c76eb1bcd5f1fdf92225d91ad2c6b9b60d48614",
+  "slug": "will-either-candidate-say-a-slur-at-the-vp-debate",
+  "question": "Will either candidate say a slur at the VP debate?"
+}

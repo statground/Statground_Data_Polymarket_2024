@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:50:57.047836Z",
+  "market_createdAt": "2024-11-05T21:50:57.047836Z",
+  "market_updatedAt": "2024-11-08T20:32:54.45562Z",
+  "market_startDate": "2024-11-07T03:06:55.774669Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:21:33+00",
+  "conditionId": "0x4017691e31271faa436c541d7c7122547dc69778e4ec6c6bd4e2b7309a7b015d",
+  "slug": "will-the-match-between-ajax-and-maccabi-tlv-end-in-a-draw",
+  "question": "Will the match between Ajax and Maccabi TLV end in a draw?"
+}

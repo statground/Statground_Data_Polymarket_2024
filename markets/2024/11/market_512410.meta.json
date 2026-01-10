@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512410",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:32:58.787786Z",
+  "market_createdAt": "2024-11-08T19:32:58.787786Z",
+  "market_updatedAt": "2024-11-10T21:02:45.895605Z",
+  "market_startDate": "2024-11-08T22:16:17.981695Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-09 22:43:23+00",
+  "conditionId": "0x571b777a6bd446a3de6791c208b1c054b2ab9f2b5f6c028e0715aceba977ceb2",
+  "slug": "cfb-cincinnati-vs-west-virginia",
+  "question": "CFB: Cincinnati vs. West Virginia"
+}

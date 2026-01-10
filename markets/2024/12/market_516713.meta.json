@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T18:16:39.258800Z",
+  "market_createdAt": "2024-12-29T18:16:39.2588Z",
+  "market_updatedAt": "2026-01-04T22:42:52.771326Z",
+  "market_startDate": "2024-12-29T22:40:52.581438Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:17:23+00",
+  "conditionId": "0x416316490efec1038ce09ec0184f82f1f7921876ee0594a30c783635ea6983d0",
+  "slug": "usdt-depeg-in-2025",
+  "question": "USDT depeg in 2025?"
+}

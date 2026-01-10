@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:48:54.442791Z",
+  "market_createdAt": "2024-05-02T16:48:54.442791Z",
+  "market_updatedAt": "2024-05-07T23:09:25.068559Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:24:44+00",
+  "conditionId": "0x737cff567e062af207cd823c43dfbe3c3da4830b10ad63a3b8442ff249759e6f",
+  "slug": "will-catching-freedom-win-the-2024-kentucky-derby",
+  "question": "Will Catching Freedom win the 2024 Kentucky Derby?"
+}

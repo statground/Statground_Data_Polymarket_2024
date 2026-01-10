@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:08:03.040048Z",
+  "market_createdAt": "2024-08-22T18:08:03.040048Z",
+  "market_updatedAt": "2024-08-24T19:06:56.655836Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:53:57+00",
+  "conditionId": "0xd0dc8bd083c27ec3acf3e3c22e40c5667babdc9657a5be47bf099ae531596803",
+  "slug": "trump-mentioned-between-40-and-59-times-at-the-dnc-on-day-4",
+  "question": "Trump mentioned between 40 and 59 times at the DNC on day 4?"
+}

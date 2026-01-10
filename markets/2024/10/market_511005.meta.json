@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:48:38.965393Z",
+  "market_createdAt": "2024-10-25T20:48:38.965393Z",
+  "market_updatedAt": "2024-10-29T01:51:11.017564Z",
+  "market_startDate": "2024-10-25T21:51:43.268571Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:12:39+00",
+  "conditionId": "0xcbe9d841e932cf827ad20e46a03bfd166034f62ff38eb2570eee241049315be9",
+  "slug": "will-the-bears-beat-the-commanders-by-4-or-more-points",
+  "question": "Will the Bears beat the Commanders by 4 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:23:09.808321Z",
+  "market_createdAt": "2024-07-18T19:23:09.808321Z",
+  "market_updatedAt": "2024-07-29T23:09:09.855275Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:06:08+00",
+  "conditionId": "0xd5c3ae1e6d52ab92e4697311ee714b0d76b650ef150e99a59393c338c33d5a5c",
+  "slug": "will-sophie-hansson-swe-win-gold-in-womens-100m-breaststroke",
+  "question": "Will Sophie Hansson (SWE) win Gold in Women's 100m Breaststroke?"
+}

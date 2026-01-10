@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T18:14:51.949005Z",
+  "market_createdAt": "2024-04-09T18:14:51.949005Z",
+  "market_updatedAt": "2024-06-06T02:46:15.369007Z",
+  "market_startDate": "2024-04-10T22:08:18.774Z",
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-05 02:55:41+00",
+  "conditionId": "0x7c3a0678edb1278cf44b8a4a5c1a4cb13ad66622ac2abebed51186654423c19c",
+  "slug": "india-election-will-bjp-win-a-majority-of-seats",
+  "question": "Indian Election: Will BJP win a majority of seats?"
+}

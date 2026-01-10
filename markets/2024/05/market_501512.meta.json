@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T19:58:07.718606Z",
+  "market_createdAt": "2024-05-09T19:58:07.718606Z",
+  "market_updatedAt": "2024-05-12T08:38:55.539436Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-11 08:34:59+00",
+  "conditionId": "0xef977eb1ccb9266eeffbeb5611f89eb8d3326b29c2e206ff4cc42639583b9ebb",
+  "slug": "will-andrew-tate-post-retard-tomorrow",
+  "question": "Will Andrew Tate post \"retard\" tomorrow? "
+}

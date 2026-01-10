@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:05:00.038571Z",
+  "market_createdAt": "2024-12-29T07:05:00.038571Z",
+  "market_updatedAt": "2025-01-02T03:25:12.160907Z",
+  "market_startDate": "2024-12-29T07:07:42.756644Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 07:12:14+00",
+  "conditionId": "0x7c86416e25db1a385b7596eb34b8fcd80307c6fb727d5bafec0206558699101e",
+  "slug": "nhl-wpg-col-2024-12-31",
+  "question": "Jets vs. Avalanche"
+}

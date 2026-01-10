@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:33:54.632160Z",
+  "market_createdAt": "2024-10-22T16:33:54.63216Z",
+  "market_updatedAt": "2024-10-25T23:37:00.075116Z",
+  "market_startDate": "2024-10-22T20:58:31.293734Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:12:46+00",
+  "conditionId": "0xfe4ce6cb0af9d8f58901bd0a2f073c3cc9b61efc8d56e473ee7da91c4a0e14ce",
+  "slug": "will-manchester-united-beat-fenerbahce",
+  "question": "Will Manchester United beat Fenerbahce?"
+}

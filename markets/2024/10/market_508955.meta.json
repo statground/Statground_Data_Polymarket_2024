@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:05:35.519669Z",
+  "market_createdAt": "2024-10-04T18:05:35.519669Z",
+  "market_updatedAt": "2024-10-07T20:26:39.959638Z",
+  "market_startDate": "2024-10-04T21:53:39.235003Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-07 01:27:23+00",
+  "conditionId": "0xe34ddfccf2e423609ffeb449f162419bbd0ce289327112cfbfbb4dfb12c32886",
+  "slug": "will-the-seahawks-beat-the-giants-by-7-or-more-points",
+  "question": "Will the Seahawks beat the Giants by 7 or more points?"
+}

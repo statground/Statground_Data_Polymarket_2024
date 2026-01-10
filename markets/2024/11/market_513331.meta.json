@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:04:10.621563Z",
+  "market_createdAt": "2024-11-18T05:04:10.621563Z",
+  "market_updatedAt": "2024-11-27T06:21:47.517916Z",
+  "market_startDate": "2024-11-18T05:06:41.177Z",
+  "market_endDate": "2024-12-02T12:00:00Z",
+  "market_closedTime": "2024-11-26 06:29:27+00",
+  "conditionId": "0x9e0273e66a75f2093622cc94329c4c0f6f66c99b4b09668b0f22c50740582b7b",
+  "slug": "nfl-bal-lac-2024-11-25",
+  "question": "Ravens vs. Chargers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T17:37:11.320774Z",
+  "market_createdAt": "2024-08-19T17:37:11.320774Z",
+  "market_updatedAt": "2024-08-22T05:22:57.527895Z",
+  "market_startDate": "2024-08-20T15:21:23.314Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:40:36+00",
+  "conditionId": "0xd77595736f63a779601e52fecea90fe8566a765c38ecc584bc00524d6ac9a032",
+  "slug": "will-obama-say-pelosi-at-dnc-speech",
+  "question": "Will Obama say \"Pelosi\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T15:19:17.304275Z",
+  "market_createdAt": "2024-06-03T15:19:17.304275Z",
+  "market_updatedAt": "2024-06-09T03:46:12.196028Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:12:56+00",
+  "conditionId": "0x543587e64d1b176ac5609c69399c6002071e5d6a6a158aebe82dac7ddfd37e5e",
+  "slug": "infowars-shuttered-by-friday",
+  "question": "Infowars shuttered by Friday?"
+}

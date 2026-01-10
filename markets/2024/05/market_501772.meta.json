@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:35:54.218480Z",
+  "market_createdAt": "2024-05-22T16:35:54.21848Z",
+  "market_updatedAt": "2024-07-05T17:53:18.316467Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 17:51:42+00",
+  "conditionId": "0x8cbe7ed53c15557150ff86b7cac54cbb469fed06e2afb82990c1d364b2b0b442",
+  "slug": "will-suella-braverman-be-next-uk-prime-minister",
+  "question": "Will Suella Braverman be next UK prime minister?"
+}

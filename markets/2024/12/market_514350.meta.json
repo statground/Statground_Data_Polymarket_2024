@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T17:26:38.631904Z",
+  "market_createdAt": "2024-12-01T17:26:38.631904Z",
+  "market_updatedAt": "2024-12-07T16:47:09.395854Z",
+  "market_startDate": "2024-12-02T15:33:06.101264Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 20:20:01+00",
+  "conditionId": "0x6892fc71f406b77d6b726070a5721c568ac512a83d1adf26e53f474d10b48281",
+  "slug": "will-trump-tweet-9-10-times-nov-29-dec-6",
+  "question": "Will trump tweet 9-10 times Nov 29-Dec 6?"
+}

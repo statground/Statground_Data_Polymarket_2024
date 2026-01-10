@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:01:27.537107Z",
+  "market_createdAt": "2024-12-08T07:01:27.537107Z",
+  "market_updatedAt": "2024-12-14T03:09:16.463856Z",
+  "market_startDate": "2024-12-08T07:04:57.268417Z",
+  "market_endDate": "2024-12-20T00:30:00Z",
+  "market_closedTime": "2024-12-13 05:19:27+00",
+  "conditionId": "0x837ee3da90a63ef4c96da8e774bb66bab22223e67bab65c1901959e19e3469c4",
+  "slug": "nhl-chi-nyi-2024-12-12",
+  "question": "Blackhawks vs. Islanders"
+}

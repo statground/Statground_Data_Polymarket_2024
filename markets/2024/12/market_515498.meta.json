@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T18:36:11.629102Z",
+  "market_createdAt": "2024-12-12T18:36:11.629102Z",
+  "market_updatedAt": "2025-01-22T07:34:54.98803Z",
+  "market_startDate": "2024-12-12T23:40:32.336859Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 07:30:59+00",
+  "conditionId": "0x66fb0ba23866510d57392232eabc676915b0e00fa87220c652035c32f46105e1",
+  "slug": "will-trump-pardon-anyone-on-day-1",
+  "question": "Will Trump pardon January 6 protestors on Day 1?"
+}

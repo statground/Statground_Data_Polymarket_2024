@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500756",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:08:55.314771Z",
+  "market_createdAt": "2024-04-05T16:08:55.314771Z",
+  "market_updatedAt": "2024-08-07T22:20:49.973942Z",
+  "market_startDate": "2024-05-02T21:33:52.312Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-07 07:00:15+00",
+  "conditionId": "0x82da6cc7916ad724737b54a71be458f32f52c19e304ee77cfc25a793247a2970",
+  "slug": "will-ron-harshaw-win-the-mo-1-democratic-house-primary",
+  "question": "Will Ron Harshaw win the MO-1 Democratic House Primary?"
+}

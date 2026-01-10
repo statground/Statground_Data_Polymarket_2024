@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:30:13.648380Z",
+  "market_createdAt": "2024-11-05T21:30:13.64838Z",
+  "market_updatedAt": "2024-11-08T23:08:55.326238Z",
+  "market_startDate": "2024-11-07T03:00:00.778807Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:00:12+00",
+  "conditionId": "0x149e84090f304d642ea12036f0c1cbd53a89e922e7b60f32ee82dcee07640cda",
+  "slug": "will-the-match-between-if-elfsborg-and-braga-end-in-a-draw",
+  "question": "Will the match between IF Elfsborg and Braga end in a draw?"
+}

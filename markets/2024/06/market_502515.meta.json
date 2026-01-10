@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T03:46:35.657925Z",
+  "market_createdAt": "2024-06-17T03:46:35.657925Z",
+  "market_updatedAt": "2024-06-17T18:05:36.811634Z",
+  "market_startDate": "2024-06-17T03:51:22.665Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-06-17 18:03:55+00",
+  "conditionId": "0x1458571753ae26062fd7687f3bbddaf4c4e06e7fa47e2dfe5238880ed73a416c",
+  "slug": "arch-will-romania-win",
+  "question": "ARCH Will Romania win?"
+}

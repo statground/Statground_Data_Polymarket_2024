@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T20:46:18.879266Z",
+  "market_createdAt": "2024-08-01T20:46:18.879266Z",
+  "market_updatedAt": "2024-09-02T13:27:09.874959Z",
+  "market_startDate": "2024-08-01T20:55:03.091Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 13:23:49+00",
+  "conditionId": "0xb6879ee1d3dd0a5d9b7ba795c1b5a3de7277cba3a55883d91fa28a63a79c2959",
+  "slug": "will-kamala-say-weirdo-in-august",
+  "question": "Will Kamala say \"Weirdo\" in August?"
+}

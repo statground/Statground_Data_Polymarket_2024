@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T20:42:53.623301Z",
+  "market_createdAt": "2024-11-21T20:42:53.623301Z",
+  "market_updatedAt": "2025-04-22T07:11:48.308048Z",
+  "market_startDate": "2024-11-21T23:11:32.101Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-03-05 06:53:02+00",
+  "conditionId": "0x4a2ed17061b028cc8f9fc8f98837a33bc04e2a42d5613798c9717ba8b1c8ecda",
+  "slug": "will-joel-embiid-win-the-2024-25-nba-mvp-1",
+  "question": "Will Joel Embiid win the 2024-25 NBA MVP?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T06:00:43.462109Z",
+  "market_createdAt": "2024-12-08T06:00:43.462109Z",
+  "market_updatedAt": "2024-12-16T23:25:24.786122Z",
+  "market_startDate": "2024-12-08T06:04:11.651855Z",
+  "market_endDate": "2024-12-22T18:00:00Z",
+  "market_closedTime": "2024-12-15 23:22:16+00",
+  "conditionId": "0x536e68a1aebc38b85058962eee12a7323fdab96ad6c1d2a3d8c60bee8130db26",
+  "slug": "nfl-cin-ten-2024-12-15",
+  "question": "Bengals vs. Titans"
+}

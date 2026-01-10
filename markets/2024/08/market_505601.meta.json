@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T23:03:08.714966Z",
+  "market_createdAt": "2024-08-21T23:03:08.714966Z",
+  "market_updatedAt": "2024-08-23T09:37:08.128578Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-22 13:19:39+00",
+  "conditionId": "0xbc14a620cc73cc8c4adc2c64d822d6b2e775118f8323fde3740c466a8e908794",
+  "slug": "will-speed-kai-have-90-99-deaths-by-end-of-minecraft-challenge",
+  "question": "Will Speed/Kai have 90-99 deaths by end of Minecraft challenge?"
+}

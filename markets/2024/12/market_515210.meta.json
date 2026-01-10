@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:31:07.928389Z",
+  "market_createdAt": "2024-12-09T22:31:07.928389Z",
+  "market_updatedAt": "2024-12-13T00:43:09.121398Z",
+  "market_startDate": "2024-12-10T21:54:36.199456Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:07:31+00",
+  "conditionId": "0x52ca7de0c6a0680bd1c941e55fcc5e92435e122c8407e56d92b743264dd270a1",
+  "slug": "will-arsenal-beat-monaco",
+  "question": "Will Arsenal beat Monaco?"
+}

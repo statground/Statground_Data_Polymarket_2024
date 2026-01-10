@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:33:08.211000Z",
+  "market_createdAt": "2024-02-20T18:33:08.211Z",
+  "market_updatedAt": "2024-05-10T21:19:02.639036Z",
+  "market_startDate": "2024-02-21T00:32:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-10 00:25:34+00",
+  "conditionId": "0x96555b85d0040ec8e93ec0e249e3e12607b216b1a5801bb10ecdbc4069d643b2",
+  "slug": "will-belgium-win-eurovision-2024",
+  "question": "Will Belgium win Eurovision 2024?"
+}

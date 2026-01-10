@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:11:45.568844Z",
+  "market_createdAt": "2024-12-02T17:11:45.568844Z",
+  "market_updatedAt": "2025-01-01T23:07:29.149211Z",
+  "market_startDate": "2024-12-02T17:23:16.972Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-01-01 08:08:08+00",
+  "conditionId": "0x5c389ecffb3862919bda4fb88ffb9b33d7e24179049a3e2a104a988bb0d54c52",
+  "slug": "will-xrp-flip-eth-in-2024",
+  "question": "Will XRP flip ETH in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:27:30.646374Z",
+  "market_createdAt": "2024-08-26T19:27:30.646374Z",
+  "market_updatedAt": "2024-09-04T22:47:13.447736Z",
+  "market_startDate": "2024-08-26T19:27:30.646374Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-04 00:46:50+00",
+  "conditionId": "0x2dc21d55db6a6074fbb630b08fa1fa7ee51b94a687661364dd7124d77aa62271",
+  "slug": "deadpool-wolverine-over-600m-by-labor-day",
+  "question": "'Deadpool & Wolverine' over $600m by Labor Day? "
+}

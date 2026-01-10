@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:03:28.243620Z",
+  "market_createdAt": "2024-11-17T05:03:28.24362Z",
+  "market_updatedAt": "2024-11-21T05:29:03.29555Z",
+  "market_startDate": "2024-11-17T05:05:56.116209Z",
+  "market_endDate": "2024-11-27T01:30:00Z",
+  "market_closedTime": "2024-11-20 05:56:27+00",
+  "conditionId": "0x2aebf41161117ea9f162676db77330683d9618efe0bb4f4f7951e12b4a4ddb59",
+  "slug": "nba-nop-dal-2024-11-19",
+  "question": "Pelicans vs. Mavericks"
+}

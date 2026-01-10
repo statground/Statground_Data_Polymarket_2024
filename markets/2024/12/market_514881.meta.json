@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514881",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:30:07.911460Z",
+  "market_createdAt": "2024-12-05T21:30:07.91146Z",
+  "market_updatedAt": "2024-12-09T18:31:22.885016Z",
+  "market_startDate": "2024-12-05T22:56:15.173Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:13:22+00",
+  "conditionId": "0x840e99e722ea1949cfd80ae95e45554a4160d11c4600391d4fafcd11030ca2f0",
+  "slug": "will-trump-say-hunter-during-nbc-interview",
+  "question": "Will Trump say \"Hunter\" during NBC interview?"
+}

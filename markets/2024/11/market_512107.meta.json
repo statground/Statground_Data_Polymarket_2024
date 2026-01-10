@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:10:52.983564Z",
+  "market_createdAt": "2024-11-05T21:10:52.983564Z",
+  "market_updatedAt": "2024-11-08T22:42:59.917797Z",
+  "market_startDate": "2024-11-07T02:58:51.915576Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:35+00",
+  "conditionId": "0xf686859a2d0e6446ad460927564b537aa655b6dd2a4418354f1e0864c87c1f30",
+  "slug": "will-galatasaray-beat-tottenham",
+  "question": "Will Galatasaray beat Tottenham?"
+}

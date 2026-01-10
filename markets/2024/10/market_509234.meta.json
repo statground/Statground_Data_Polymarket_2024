@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T06:27:27.333419Z",
+  "market_createdAt": "2024-10-08T06:27:27.333419Z",
+  "market_updatedAt": "2024-11-29T18:53:30.314927Z",
+  "market_startDate": "2024-10-08T21:36:16.118Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 06:50:03+00",
+  "conditionId": "0xa9ee4b2082d3620e077ede9d17d722caa4ed54b102c0d45eb5fbd4ba429ac0cd",
+  "slug": "will-arizona-be-the-closest-state",
+  "question": "Will Arizona be the closest state?"
+}

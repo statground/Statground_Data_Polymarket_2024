@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:23:08.708090Z",
+  "market_createdAt": "2024-11-05T19:23:08.70809Z",
+  "market_updatedAt": "2024-11-10T18:02:55.227778Z",
+  "market_startDate": "2024-11-05T19:25:53.754459Z",
+  "market_endDate": "2024-11-09T15:00:00Z",
+  "market_closedTime": "2024-11-09 20:36:22+00",
+  "conditionId": "0x9f23cc18798b41dacef58a53cc8744b7d73de0d5cfa78e8a1c73c9c11d53fd61",
+  "slug": "epl-cry-ful-2024-11-09-draw",
+  "question": "Will Crystal Palace vs. Fulham end in a draw?"
+}

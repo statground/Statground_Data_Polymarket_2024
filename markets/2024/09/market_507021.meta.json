@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T19:46:04.139111Z",
+  "market_createdAt": "2024-09-13T19:46:04.139111Z",
+  "market_updatedAt": "2024-09-18T02:36:39.815761Z",
+  "market_startDate": "2024-09-13T20:52:23.567Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:44:15+00",
+  "conditionId": "0xfb6c8f322801cdff78fd740b7acba58968bd343ec4180570f9584dd98193e1c1",
+  "slug": "will-trump-say-crypto-5-times-during-the-x-space",
+  "question": "Will Trump say \"Crypto\" 5+ times during the X space?"
+}

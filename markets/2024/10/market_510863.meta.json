@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T23:24:28.986142Z",
+  "market_createdAt": "2024-10-24T23:24:28.986142Z",
+  "market_updatedAt": "2024-10-31T22:12:58.333371Z",
+  "market_startDate": "2024-10-25T16:32:26.070269Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-10-30 23:06:55+00",
+  "conditionId": "0x8da6d144d81051a71aada236b901ce557ce385c4b586559548cd7708a8f88d67",
+  "slug": "will-trump-tweet-50-59-times-oct-25-nov-1",
+  "question": "Will Trump tweet 50-59 times Oct 25 - Nov 1?"
+}

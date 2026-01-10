@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505382",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:37:10.517035Z",
+  "market_createdAt": "2024-08-19T19:37:10.517035Z",
+  "market_updatedAt": "2024-08-26T05:22:52.237735Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-25 07:21:47+00",
+  "conditionId": "0xc2e3c69f9509b28c8b1fa36914541acc372dbbd9be23ad943db18b5d51b0e57d",
+  "slug": "nfl-sea-cle-2024-08-24",
+  "question": "Seahawks vs. Browns"
+}

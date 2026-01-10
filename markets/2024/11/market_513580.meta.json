@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T20:58:56.179854Z",
+  "market_createdAt": "2024-11-20T20:58:56.179854Z",
+  "market_updatedAt": "2025-02-04T07:30:59.136067Z",
+  "market_startDate": "2024-11-20T22:11:12.930877Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:22:53+00",
+  "conditionId": "0x789d75113959f24aecf43855f4328da25ce399b2b51bef8b55eb4137d8df397b",
+  "slug": "will-please-please-please-win-song-of-the-year",
+  "question": "Will 'Please Please Please' win Song of the Year?"
+}

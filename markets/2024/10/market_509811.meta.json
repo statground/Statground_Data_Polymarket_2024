@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509811",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:13:40.088874Z",
+  "market_createdAt": "2024-10-14T18:13:40.088874Z",
+  "market_updatedAt": "2024-10-17T03:36:53.597766Z",
+  "market_startDate": "2024-10-14T23:56:15.373Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 04:21:02+00",
+  "conditionId": "0x7163f6c2951c3b72cc02b49c2438d8198aeafb0492f55a1733b5fa6ef5951bb1",
+  "slug": "will-trump-say-mcdonalds-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say \"McDonald's\" during Georgia speech on Oct 15?"
+}

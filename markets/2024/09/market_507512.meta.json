@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:34:37.042617Z",
+  "market_createdAt": "2024-09-19T20:34:37.042617Z",
+  "market_updatedAt": "2024-12-16T03:37:20.588364Z",
+  "market_startDate": "2024-09-19T21:25:02.770019Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:36:45+00",
+  "conditionId": "0xc3ad505747ba63e4624349646fc03334191bbbfd01c9bd9e485fa52e310d9fb4",
+  "slug": "will-dillon-gabriel-win-the-heisman-trophy",
+  "question": "Will Dillon Gabriel win the Heisman Trophy?"
+}

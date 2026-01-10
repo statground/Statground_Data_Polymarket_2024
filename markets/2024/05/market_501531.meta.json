@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T19:09:37.866389Z",
+  "market_createdAt": "2024-05-10T19:09:37.866389Z",
+  "market_updatedAt": "2024-06-12T17:06:16.038403Z",
+  "market_startDate": "2024-05-10T20:53:03.545Z",
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-11 21:05:00+00",
+  "conditionId": "0x07954fd1965dea6b78eaa5f6823d3546b8219a284fd89b27454b7f05f4098340",
+  "slug": "will-may-2024-show-an-increase-of-less-than-1pt03c",
+  "question": "Will May 2024 show an increase of less than 1.03C?"
+}

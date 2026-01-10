@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T17:20:29.201505Z",
+  "market_createdAt": "2024-09-25T17:20:29.201505Z",
+  "market_updatedAt": "2024-09-29T02:16:43.785046Z",
+  "market_startDate": "2024-09-25T19:00:55.986091Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-28 02:12:31+00",
+  "conditionId": "0x9da3d8c2725cdf55316e9a9db56c599e95635019889da2ba80a2be94a3ad45fa",
+  "slug": "will-donald-trump-say-reagan-during-his-michigan-town-hall",
+  "question": "Will Donald Trump say \"Reagan\" during his Michigan town hall?"
+}

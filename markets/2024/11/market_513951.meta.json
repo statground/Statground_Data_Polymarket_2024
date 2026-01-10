@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513951",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T09:26:08.479889Z",
+  "market_createdAt": "2024-11-25T09:26:08.479889Z",
+  "market_updatedAt": "2025-05-01T00:23:19.456725Z",
+  "market_startDate": "2024-11-25T20:27:05.369Z",
+  "market_endDate": "2025-05-05T12:00:00Z",
+  "market_closedTime": "2025-04-30 03:26:01+00",
+  "conditionId": "0x1d18fd82acb4b0dec5d490499fbd067ae493c49f43fb9f79e122b5846f235274",
+  "slug": "will-stephon-castle-win-nba-rookie-of-the-year",
+  "question": "Will Stephon Castle win NBA Rookie of the Year?"
+}

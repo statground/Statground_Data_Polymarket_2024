@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502460",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T16:52:10.582072Z",
+  "market_createdAt": "2024-06-14T16:52:10.582072Z",
+  "market_updatedAt": "2024-06-22T16:21:11.398784Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 18:07:23+00",
+  "conditionId": "0x2904489abeae6a1aeeb4bee7bf9fe219454f7b49efdd13a8b8f63224633c6278",
+  "slug": "bitcoin-above-65000-on-june-21",
+  "question": "Bitcoin above $65,000 on June 21?"
+}

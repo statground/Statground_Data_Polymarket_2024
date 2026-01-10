@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508813",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:02:46.101791Z",
+  "market_createdAt": "2024-10-03T22:02:46.101791Z",
+  "market_updatedAt": "2025-03-23T01:01:01.756833Z",
+  "market_startDate": "2024-10-04T15:24:27.383251Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-03-22 04:46:41+00",
+  "conditionId": "0x28624023f5d4a16e390ea851cb59ee009552043dacc5498eea2fdfd149826073",
+  "slug": "will-the-washington-wizards-win-the-eastern-conference",
+  "question": "Will the Washington Wizards win the Eastern Conference?"
+}

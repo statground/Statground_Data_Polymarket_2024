@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501259",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T15:52:00.493655Z",
+  "market_createdAt": "2024-04-30T15:52:00.493655Z",
+  "market_updatedAt": "2024-07-06T09:05:46.008658Z",
+  "market_startDate": "2024-04-30T16:51:28.029Z",
+  "market_endDate": "2025-01-28T12:00:00Z",
+  "market_closedTime": "2024-07-05 19:23:13+00",
+  "conditionId": "0xc1dc17ab738b0d5a92279a53f59e84d60af29165863e645cfa861849cd19bf06",
+  "slug": "conservatives-wins-the-most-seats-in-next-uk-election",
+  "question": "Conservatives wins the most seats in next UK election? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T15:50:03.520870Z",
+  "market_createdAt": "2024-11-23T15:50:03.52087Z",
+  "market_updatedAt": "2024-11-24T20:45:59.804893Z",
+  "market_startDate": "2024-11-23T17:38:25.715041Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 22:32:59+00",
+  "conditionId": "0x71e2d66ed838e6ceb8cb75dfd88edfab9a65e86afbede539333fd4e21286eca8",
+  "slug": "ohio-st-vs-indiana",
+  "question": "Ohio State vs. Indiana"
+}

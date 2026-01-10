@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T15:50:50.517270Z",
+  "market_createdAt": "2024-12-16T15:50:50.51727Z",
+  "market_updatedAt": "2024-12-22T07:21:42.815122Z",
+  "market_startDate": "2024-12-16T16:49:00.914298Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:16:55+00",
+  "conditionId": "0x48de21688a54d822dffe181f3a667bf4478c06c85f97aa9e0c727ca77c49e836",
+  "slug": "runway-closures-due-to-mystery-drones-by-friday",
+  "question": "Runway closures due to Mystery Drones by Friday?"
+}

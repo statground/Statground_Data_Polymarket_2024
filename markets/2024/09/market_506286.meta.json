@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:25:29.604164Z",
+  "market_createdAt": "2024-09-03T17:25:29.604164Z",
+  "market_updatedAt": "2024-09-12T04:03:01.753439Z",
+  "market_startDate": "2024-09-03T22:10:36.084Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:19:00+00",
+  "conditionId": "0x8277de2c803e4c09ab475b386158d268eea215a96791882557b7bb6d7713aa14",
+  "slug": "will-kamala-say-wall-at-debate",
+  "question": "Will Kamala say \"wall\" at debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:37:00.815877Z",
+  "market_createdAt": "2024-07-17T20:37:00.815877Z",
+  "market_updatedAt": "2024-08-05T23:02:49.538764Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:19:29+00",
+  "conditionId": "0x16638709abbdd7209e7a244ece68fa62f246ced9cae5536f759278ac0a3dbac7",
+  "slug": "will-noah-lyles-usa-win-gold-in-100m",
+  "question": "Will Noah Lyles (USA) win Gold in 100m?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:27:30.173624Z",
+  "market_createdAt": "2024-10-01T23:27:30.173624Z",
+  "market_updatedAt": "2024-10-07T20:42:37.102735Z",
+  "market_startDate": "2024-10-01T23:29:44.672096Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:31:50+00",
+  "conditionId": "0x5996331b3e590b911eeb06462c0f2136c9b045f571d6993c2fbbaff6e4327924",
+  "slug": "nfl-ind-jax-2024-10-06",
+  "question": "Colts vs. Jaguars"
+}

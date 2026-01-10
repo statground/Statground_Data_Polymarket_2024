@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T19:29:49.445766Z",
+  "market_createdAt": "2024-05-30T19:29:49.445766Z",
+  "market_updatedAt": "2024-06-08T18:11:14.880603Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 18:17:52+00",
+  "conditionId": "0x29062f0a63400395f93a719ac02d0a1a7a83aa3d92eec733ea5d0187ee56859e",
+  "slug": "ethereum-above-3800-on-june-7",
+  "question": "Ethereum above $3,800 on June 7?"
+}

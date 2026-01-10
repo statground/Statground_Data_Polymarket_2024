@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T17:25:18.881250Z",
+  "market_createdAt": "2024-03-18T17:25:18.88125Z",
+  "market_updatedAt": "2024-05-07T23:09:29.086719Z",
+  "market_startDate": "2024-03-19T16:08:59.01Z",
+  "market_endDate": "2024-03-25T07:00:00Z",
+  "market_closedTime": "2024-03-26 17:04:58+00",
+  "conditionId": "0x71f3460fa5f38597f71a238d9642ae1eee33bfd787ae5b40dc3f8ca0b703ee17",
+  "slug": "will-trump-make-bond-by-march-25",
+  "question": "Will Trump make bond by March 25?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:23:41.214463Z",
+  "market_createdAt": "2024-10-25T22:23:41.214463Z",
+  "market_updatedAt": "2024-10-30T01:27:01.726255Z",
+  "market_startDate": "2024-10-25T22:52:01.47032Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 01:47:29+00",
+  "conditionId": "0x26d2be616f747be217fb114aa7e503cc5d2b233ebc8dde839cc8aa4213e2e025",
+  "slug": "will-trump-say-elon-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"Elon\" during Georgia rally on October 28?"
+}

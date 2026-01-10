@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:29:04.763743Z",
+  "market_createdAt": "2024-10-21T16:29:04.763743Z",
+  "market_updatedAt": "2024-10-25T03:01:08.352727Z",
+  "market_startDate": "2024-10-21T21:28:17.311Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:48:20+00",
+  "conditionId": "0xe2bc0a9c60edd082414cdebd9437c78c94f00e36198f9d0a62c97b6b5285dfbe",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Georgia rally on October 23?"
+}

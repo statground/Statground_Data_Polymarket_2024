@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T01:53:46.060878Z",
+  "market_createdAt": "2024-07-22T01:53:46.060878Z",
+  "market_updatedAt": "2024-08-07T18:42:46.026565Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:17:44+00",
+  "conditionId": "0xceab7a42131f7b315aef27a5ba8dc9c850afc0a86ed5010e895192496812c116",
+  "slug": "will-mark-cuban-be-the-2024-democratic-vp-nominee",
+  "question": "Will Mark Cuban be the 2024 Democratic VP nominee?"
+}

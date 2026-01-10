@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:01:25.862669Z",
+  "market_createdAt": "2024-09-03T19:01:25.862669Z",
+  "market_updatedAt": "2024-10-29T21:47:09.118013Z",
+  "market_startDate": "2024-09-04T00:17:23.505229Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 01:09:51+00",
+  "conditionId": "0x063077dfaacebe2cf14a9289911741efb1f45299bcab69752a9ffb63e3f45210",
+  "slug": "will-dani-carvajal-win-the-ballon-dor",
+  "question": "Will Dani Carvajal win the Ballon d’Or?"
+}

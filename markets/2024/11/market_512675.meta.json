@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512675",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:01:45.243218Z",
+  "market_createdAt": "2024-11-11T18:01:45.243218Z",
+  "market_updatedAt": "2024-11-14T04:43:01.78261Z",
+  "market_startDate": "2024-11-11T18:04:14.001233Z",
+  "market_endDate": "2024-11-20T00:00:00Z",
+  "market_closedTime": "2024-11-13 05:06:38+00",
+  "conditionId": "0x35903c81b3bff791fe900211bf9cc89790bc17da0f99960a940b63e85e9ff9f1",
+  "slug": "nba-mia-det-2024-11-12",
+  "question": "Heat vs. Pistons"
+}

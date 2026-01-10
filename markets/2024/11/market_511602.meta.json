@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:10:59.956222Z",
+  "market_createdAt": "2024-11-01T16:10:59.956222Z",
+  "market_updatedAt": "2024-11-04T05:16:54.954427Z",
+  "market_startDate": "2024-11-01T16:13:39.608483Z",
+  "market_endDate": "2024-11-03T02:00:00Z",
+  "market_closedTime": "2024-11-03 08:15:13+00",
+  "conditionId": "0x20e734fdd0525af9edf56d1eacd498b60bf7859f6175a96801297c24366da610",
+  "slug": "nba-uta-den-2024-11-02",
+  "question": "Jazz vs. Nuggets"
+}

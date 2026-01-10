@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:18:59.980750Z",
+  "market_createdAt": "2024-10-03T22:18:59.98075Z",
+  "market_updatedAt": "2025-04-10T08:24:16.135475Z",
+  "market_startDate": "2024-10-04T15:36:13.963053Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-10 08:21:25+00",
+  "conditionId": "0x65b8250c57c734a06ccf66996c42816332ac85ea821d98d05011c49aba24b64e",
+  "slug": "will-the-phoenix-suns-win-the-western-conference",
+  "question": "Will the Phoenix Suns win the Western Conference?"
+}

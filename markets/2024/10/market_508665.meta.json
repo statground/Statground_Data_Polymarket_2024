@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T14:46:28.189447Z",
+  "market_createdAt": "2024-10-02T14:46:28.189447Z",
+  "market_updatedAt": "2024-10-14T23:22:54.604527Z",
+  "market_startDate": "2024-10-02T15:39:52.879Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:27:51+00",
+  "conditionId": "0xf15912dbc3a9b3c8d6c49aec2fedca7c57d695aa98cd3b66bacc61c2f6793390",
+  "slug": "jd-vance-favorability-40-on-election",
+  "question": "JD Vance favorability >40% by Friday Oct 11?"
+}

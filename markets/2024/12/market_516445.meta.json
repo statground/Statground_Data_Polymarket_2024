@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:39:02.617726Z",
+  "market_createdAt": "2024-12-25T06:39:02.617726Z",
+  "market_updatedAt": "2024-12-31T23:19:40.660079Z",
+  "market_startDate": "2024-12-25T06:41:32.175423Z",
+  "market_endDate": "2024-12-30T19:45:00Z",
+  "market_closedTime": "2024-12-31 01:15:42+00",
+  "conditionId": "0xfacbf39cb919ea9ad38445c7c52c7e0fb624c06210aa00c229d48d3b4acd10c2",
+  "slug": "epl-ast-bri-2024-12-30-bri",
+  "question": "Will Brighton win on 2024-12-30?"
+}

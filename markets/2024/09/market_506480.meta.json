@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T16:24:21.432637Z",
+  "market_createdAt": "2024-09-05T16:24:21.432637Z",
+  "market_updatedAt": "2024-09-08T20:07:11.493605Z",
+  "market_startDate": "2024-09-05T19:28:46.806751Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 23:46:26+00",
+  "conditionId": "0xd5e1827a023b8d005657b311764673fd4f9e550142d3772400d128146e97ea9c",
+  "slug": "will-the-match-end-in-a-draw-ger-hun",
+  "question": "Will the match end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T19:38:32.208000Z",
+  "market_createdAt": "2024-01-16T19:38:32.208Z",
+  "market_updatedAt": "2024-01-22T02:45:27.516Z",
+  "market_startDate": "2024-01-18T00:58:18.728Z",
+  "market_endDate": "2024-01-19T00:00:00Z",
+  "market_closedTime": "2024-01-21 06:00:20+00",
+  "conditionId": "0xce4ebe603f79f67d216d144e102c49b55e3bfd94e846473b166a0a3e078b1dcb",
+  "slug": "ufc-297-who-will-win-allen-or-evloev",
+  "question": "UFC 297: Who will win - Allen or Evloev?"
+}

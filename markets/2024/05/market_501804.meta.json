@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T14:39:17.315474Z",
+  "market_createdAt": "2024-05-24T14:39:17.315474Z",
+  "market_updatedAt": "2024-11-07T22:43:03.357296Z",
+  "market_startDate": "2024-08-07T15:48:03.577Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:52:47+00",
+  "conditionId": "0xed19e48134b14b0188c49c7071c08c5dbe1a18804a4ab92baa7f8f4091408322",
+  "slug": "florida-amendment-to-legalize-weed-passes",
+  "question": "Will Florida legalize weed?"
+}

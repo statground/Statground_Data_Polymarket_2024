@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "517001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T21:17:44.713064Z",
+  "market_createdAt": "2024-12-31T21:17:44.713064Z",
+  "market_updatedAt": "2025-01-04T02:18:55.099249Z",
+  "market_startDate": "2024-12-31T21:49:45.849316Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2025-01-03 02:52:00+00",
+  "conditionId": "0xf643b8a1a6f851faa8a16ec025874149cf27f9c6a2b81130050a70773c339aa4",
+  "slug": "will-georgia-beat-notre-dame-by-2-or-more-points",
+  "question": "Will Georgia beat Notre Dame by 2 or more points?"
+}

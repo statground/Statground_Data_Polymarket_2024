@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:49:50.650634Z",
+  "market_createdAt": "2024-10-24T17:49:50.650634Z",
+  "market_updatedAt": "2024-11-21T01:06:57.383269Z",
+  "market_startDate": "2024-10-24T18:42:56.715496Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-20 02:25:45+00",
+  "conditionId": "0x4fbb104725b6c6404ff031414ed981cdf1b6f89a519106a318ae6d8ac7aa9007",
+  "slug": "will-trump-win-florida-by-12-points",
+  "question": "Will Trump win Florida by 12+ points?"
+}

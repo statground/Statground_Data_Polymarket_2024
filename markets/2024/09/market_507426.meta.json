@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507426",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:34:18.738182Z",
+  "market_createdAt": "2024-09-18T20:34:18.738182Z",
+  "market_updatedAt": "2024-11-17T08:05:15.526439Z",
+  "market_startDate": "2024-09-19T17:22:12.846924Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-16 10:05:16+00",
+  "conditionId": "0xe6975a1ea6db3165aa24e02f9a6f2f509732ba7a75861d93a5e4ddf005420684",
+  "slug": "who-will-win-kent-county",
+  "question": "Who will win Kent county?"
+}

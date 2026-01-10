@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T16:04:20.730388Z",
+  "market_createdAt": "2024-04-16T16:04:20.730388Z",
+  "market_updatedAt": "2024-05-07T23:10:09.541101Z",
+  "market_startDate": "2024-04-16T16:51:19.099Z",
+  "market_endDate": "2024-06-17T12:00:00Z",
+  "market_closedTime": "2024-04-29 05:54:04+00",
+  "conditionId": "0x43a5e6ddd8569222d8eb4736517b73967cb6285267abf2499b4b218103161c3b",
+  "slug": "washington-capitals-win-the-2024-stanley-cup",
+  "question": "Washington Capitals win the 2024 Stanley Cup"
+}

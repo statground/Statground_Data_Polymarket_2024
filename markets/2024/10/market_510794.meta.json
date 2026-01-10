@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:31:25.658767Z",
+  "market_createdAt": "2024-10-24T17:31:25.658767Z",
+  "market_updatedAt": "2024-11-28T16:51:33.812603Z",
+  "market_startDate": "2024-10-24T18:39:51.978029Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-27 18:55:41+00",
+  "conditionId": "0xa57bb75cdecd6273fda54fdbc1effab11afd22063b3ea61b94f0b642c6014f5c",
+  "slug": "will-trump-win-alabama-by-30-points",
+  "question": "Will Trump win Alabama by 30+ points?"
+}

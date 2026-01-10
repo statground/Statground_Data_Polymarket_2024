@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T17:30:06.811009Z",
+  "market_createdAt": "2024-05-13T17:30:06.811009Z",
+  "market_updatedAt": "2024-05-16T01:14:16.631788Z",
+  "market_startDate": "2024-05-13T19:18:24.995Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-15 04:19:04+00",
+  "conditionId": "0x65d172ef296761643c3a3f8fc4f20f8844f1950e066f6314b20527317d84d1de",
+  "slug": "will-roaring-kitty-tweet-less-than-25-times",
+  "question": "Will Roaring Kitty tweet less than 25 times?"
+}

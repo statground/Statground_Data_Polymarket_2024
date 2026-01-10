@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:27:33.329080Z",
+  "market_createdAt": "2024-09-17T17:27:33.32908Z",
+  "market_updatedAt": "2025-02-20T22:42:45.309921Z",
+  "market_startDate": "2024-09-17T18:20:16.423567Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-02-20 03:06:56+00",
+  "conditionId": "0x1459fcca779f3b97a765d02ac9a881892244aad836604fa8a534b4e365ae5b4b",
+  "slug": "will-juventus-win-the-uefa-champions-league",
+  "question": "Will Juventus win the UEFA Champions League?"
+}

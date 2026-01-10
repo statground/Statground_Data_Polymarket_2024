@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:08:05.903072Z",
+  "market_createdAt": "2024-12-01T05:08:05.903072Z",
+  "market_updatedAt": "2024-12-06T04:35:25.687311Z",
+  "market_startDate": "2024-12-01T05:11:36.701301Z",
+  "market_endDate": "2024-12-12T00:30:00Z",
+  "market_closedTime": "2024-12-05 05:06:14+00",
+  "conditionId": "0x9c564707802bbdeee387bb106f01224bd33797e38499615ae0deaac9c2d59b75",
+  "slug": "nba-det-bos-2024-12-04",
+  "question": "Pistons vs. Celtics"
+}

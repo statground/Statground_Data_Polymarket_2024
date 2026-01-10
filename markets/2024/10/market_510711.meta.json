@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:38:56.217945Z",
+  "market_createdAt": "2024-10-23T17:38:56.217945Z",
+  "market_updatedAt": "2024-10-28T23:01:10.515354Z",
+  "market_startDate": "2024-10-23T22:25:48.841992Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:31:05+00",
+  "conditionId": "0x104382b636ebdd85f720e1ed740b604759891439bd2e83dbedba3683141b252d",
+  "slug": "will-max-verstappen-win-the-mexico-city-grand-prix",
+  "question": "Will Max Verstappen win the Mexico City Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511883",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:33:38.013093Z",
+  "market_createdAt": "2024-11-04T16:33:38.013093Z",
+  "market_updatedAt": "2024-11-06T08:23:08.384098Z",
+  "market_startDate": "2024-11-04T16:36:56.355533Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:16:51+00",
+  "conditionId": "0xe7fa95d8e81e0a1e3f0d064eb839915a9eda110f12bb7a32fb89966148464092",
+  "slug": "will-trump-say-peanut-or-squirrel-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"Peanut\" or \"squirrel\" during Michigan rally on Nov 4?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T21:33:35.708435Z",
+  "market_createdAt": "2024-12-02T21:33:35.708435Z",
+  "market_updatedAt": "2025-04-02T07:28:35.259333Z",
+  "market_startDate": "2024-12-23T17:26:41.750649Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 09:57:35+00",
+  "conditionId": "0xc4580a189fbfa3c70907f21ff4343b64c63913c3a10c033ba1dcca2f1bd35606",
+  "slug": "will-gpt-5-be-released-by-march-31",
+  "question": "Will GPT-5 be released by March 31?"
+}

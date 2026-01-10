@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T20:06:46.426061Z",
+  "market_createdAt": "2024-04-01T20:06:46.426061Z",
+  "market_updatedAt": "2024-05-07T23:09:26.157911Z",
+  "market_startDate": "2024-04-02T01:21:21.25Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-16 06:04:34+00",
+  "conditionId": "0x9de1235d0b7e4be55172dc7895e8be44d5272f8666f4f8eb9b6269aa925c78be",
+  "slug": "diddy-flees-us-by-april-15",
+  "question": "Diddy flees US by April 15?"
+}

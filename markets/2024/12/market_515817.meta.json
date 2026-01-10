@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T20:43:23.827941Z",
+  "market_createdAt": "2024-12-16T20:43:23.827941Z",
+  "market_updatedAt": "2024-12-19T04:03:59.454037Z",
+  "market_startDate": "2024-12-16T21:00:03.744Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-18 06:53:52+00",
+  "conditionId": "0x53b54d7b4c7ebd2c45ba759a5282da738e2146fbe424c20f0c7387ca305d93c9",
+  "slug": "cryptocom-showdown-who-will-win",
+  "question": "The Showdown: Scheffler/McIlroy vs. DeChambeau/Koepka"
+}

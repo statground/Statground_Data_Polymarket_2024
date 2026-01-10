@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:50:38.114963Z",
+  "market_createdAt": "2024-10-23T18:50:38.114963Z",
+  "market_updatedAt": "2024-12-13T16:11:04.687733Z",
+  "market_startDate": "2024-10-30T21:51:49.40845Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 16:28:16+00",
+  "conditionId": "0x9b676d23387bb38b6265fdc0a3756631bf78d729867d32dd55acb9b1049d4e64",
+  "slug": "no-change-in-ecb-interest-rates-after-2024-december-meeting",
+  "question": "No change in ECB interest rates after 2024 December meeting?"
+}

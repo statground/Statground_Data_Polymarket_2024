@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T21:03:48.690534Z",
+  "market_createdAt": "2024-12-19T21:03:48.690534Z",
+  "market_updatedAt": "2025-01-13T02:45:28.062152Z",
+  "market_startDate": "2024-12-20T00:00:29.468861Z",
+  "market_endDate": "2025-01-11T12:00:00Z",
+  "market_closedTime": "2025-01-12 03:33:41+00",
+  "conditionId": "0x0e98031c9ebfeb48d63485c2f68515e41c01fa7a282672a413091bd0d0b5f338",
+  "slug": "curtis-vs-kopylov",
+  "question": "Curtis vs. Kopylov"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:03:36.691724Z",
+  "market_createdAt": "2024-12-01T05:03:36.691724Z",
+  "market_updatedAt": "2024-12-04T03:49:11.606153Z",
+  "market_startDate": "2024-12-01T05:06:56.147308Z",
+  "market_endDate": "2024-12-10T01:00:00Z",
+  "market_closedTime": "2024-12-03 05:29:24+00",
+  "conditionId": "0x7c591c76117a9d7c8792d7b1467daf850677504e57f03845c848bfa32a241e0d",
+  "slug": "nba-bkn-chi-2024-12-02",
+  "question": "Nets vs. Bulls"
+}

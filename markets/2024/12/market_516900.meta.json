@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:13:12.975319Z",
+  "market_createdAt": "2024-12-30T22:13:12.975319Z",
+  "market_updatedAt": "2025-01-01T01:49:01.208394Z",
+  "market_startDate": "2024-12-30T23:04:42.109827Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 01:45:55+00",
+  "conditionId": "0x965a1f687dc174b0ff6128807406dd6d07b7d4bae1f5d5a19eec167e086acf8d",
+  "slug": "will-baylor-and-lsu-combine-for-60-or-more-points",
+  "question": "Will Baylor and LSU combine for 60 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T22:35:34.924173Z",
+  "market_createdAt": "2024-09-13T22:35:34.924173Z",
+  "market_updatedAt": "2024-09-16T20:50:48.951979Z",
+  "market_startDate": "2024-09-13T22:38:44.150338Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 01:06:21+00",
+  "conditionId": "0x8bda6808a6059d9eaf4c1ef27b0b0c86c249211fa8cc9eeb15da3ed28420dfd6",
+  "slug": "will-there-be-48-or-more-combined-points-scored-kc-cin",
+  "question": "Will there be 48 or more combined points scored? "
+}

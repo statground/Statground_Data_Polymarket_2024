@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:04:16.140443Z",
+  "market_createdAt": "2024-09-03T19:04:16.140443Z",
+  "market_updatedAt": "2024-10-29T20:37:08.335248Z",
+  "market_startDate": "2024-09-04T00:30:13.059678Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-28 22:02:10+00",
+  "conditionId": "0xbb8a26b72efb465ee4f3e21651c5984bd7cc7664af09becb349a6c242e36281d",
+  "slug": "will-phil-foden-win-the-ballon-dor",
+  "question": "Will Phil Foden win the Ballon d’Or?"
+}

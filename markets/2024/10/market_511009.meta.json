@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:00:20.274081Z",
+  "market_createdAt": "2024-10-25T21:00:20.274081Z",
+  "market_updatedAt": "2024-10-29T04:23:10.685294Z",
+  "market_startDate": "2024-10-25T21:52:40.901469Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 05:56:44+00",
+  "conditionId": "0x32e2ef73b60e8e24ee82bfbed68f29055e5fa07f5b5a70926b2b7adc73ff71fe",
+  "slug": "will-the-49ers-beat-the-cowboys-by-4-or-more-points",
+  "question": "Will the 49ers beat the Cowboys by 4 or more points?"
+}

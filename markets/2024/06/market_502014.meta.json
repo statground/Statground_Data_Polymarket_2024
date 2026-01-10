@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T02:14:08.694724Z",
+  "market_createdAt": "2024-06-03T02:14:08.694724Z",
+  "market_updatedAt": "2024-06-09T04:16:13.561215Z",
+  "market_startDate": "2024-06-03T03:12:08.831Z",
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:02:02+00",
+  "conditionId": "0x999fa13cc3bc7ecf0a07cd374180bc1b6680e89e3c882892184dd1fd0b394156",
+  "slug": "roaring-kitty-fake",
+  "question": "Was Roaring Kitty GME YOLO update fake?"
+}

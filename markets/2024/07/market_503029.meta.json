@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T04:56:24.745901Z",
+  "market_createdAt": "2024-07-01T04:56:24.745901Z",
+  "market_updatedAt": "2024-07-02T23:00:47.303051Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-01 23:46:45+00",
+  "conditionId": "0x44a4df098405e32bbd8a2cd8fd96258f59c099ffe645f354d743a5a68bc5c11d",
+  "slug": "portugal-vs-slovenia-who-will-advance",
+  "question": "Portugal vs. Slovenia - Who will advance?"
+}

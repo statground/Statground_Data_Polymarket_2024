@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510611",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T18:28:34.097183Z",
+  "market_createdAt": "2024-10-22T18:28:34.097183Z",
+  "market_updatedAt": "2024-10-27T21:20:53.828541Z",
+  "market_startDate": "2024-10-22T21:25:31.012727Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 21:32:45+00",
+  "conditionId": "0x58da5f3885556afc9ba1029325ee82ad13fbed050856d6974e5e262fb3136ead",
+  "slug": "murphy-vs-ige",
+  "question": "Murphy vs. Ige"
+}

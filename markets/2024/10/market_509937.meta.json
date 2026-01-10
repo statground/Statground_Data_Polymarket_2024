@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:21:51.962897Z",
+  "market_createdAt": "2024-10-15T19:21:51.962897Z",
+  "market_updatedAt": "2025-04-30T00:22:29.523672Z",
+  "market_startDate": "2024-10-15T22:46:52.055069Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-29 00:50:48+00",
+  "conditionId": "0xd2f7e89f40398eaee7f1eb271de7cb32ff32377122c9272f41115a77f91b24c3",
+  "slug": "will-lazio-win-the-serie-a",
+  "question": "Will Lazio win the Serie A?"
+}

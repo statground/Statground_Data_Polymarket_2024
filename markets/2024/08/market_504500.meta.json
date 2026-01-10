@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T20:00:09.545740Z",
+  "market_createdAt": "2024-08-02T20:00:09.54574Z",
+  "market_updatedAt": "2024-09-07T12:31:06.979444Z",
+  "market_startDate": "2024-08-02T20:00:09.54574Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 15:49:48+00",
+  "conditionId": "0x308b41cc4a474399dae93c047b50e5b46a36c891b14a98b3d0a75825459b8916",
+  "slug": "us-adds-more-than-300k-jobs-in-august",
+  "question": "US adds more than 300k jobs in August?"
+}

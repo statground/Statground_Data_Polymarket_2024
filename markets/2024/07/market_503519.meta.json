@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503519",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:46:09.443271Z",
+  "market_createdAt": "2024-07-15T19:46:09.443271Z",
+  "market_updatedAt": "2024-12-18T02:21:32.104777Z",
+  "market_startDate": "2024-07-16T18:06:04.002Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:18:24+00",
+  "conditionId": "0x7d0e291c0951c54a70f98ebc1849a20e35811f9990ddaaffcc435483264a25dc",
+  "slug": "will-there-be-another-tipping-point-state",
+  "question": "Will there be another tipping point state?"
+}

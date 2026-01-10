@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:15:53.964231Z",
+  "market_createdAt": "2024-10-28T21:15:53.964231Z",
+  "market_updatedAt": "2024-11-03T04:17:04.887275Z",
+  "market_startDate": "2024-10-28T23:58:58.016322Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 06:00:28+00",
+  "conditionId": "0xcefcff1630952baafbb5e34e5c65a37458fe38cf38288c5c3b67c38a2955bdb4",
+  "slug": "will-trump-say-tax-20-or-more-times-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"tax\" 20 or more times during Wisconsin rally on Nov 1?"
+}

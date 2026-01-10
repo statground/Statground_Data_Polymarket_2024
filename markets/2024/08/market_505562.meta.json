@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T16:36:18.997619Z",
+  "market_createdAt": "2024-08-21T16:36:18.997619Z",
+  "market_updatedAt": "2024-08-23T04:11:05.490942Z",
+  "market_startDate": "2024-08-21T16:50:54.156Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:11:12+00",
+  "conditionId": "0xb695b6ce215af8e12f4421eb40a25c0343c9e7adc3285643d17a3dafdbd4fd06",
+  "slug": "will-bill-clinton-say-democracy-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Democracy\" at DNC speech?"
+}

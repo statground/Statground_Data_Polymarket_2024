@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T21:18:38.529426Z",
+  "market_createdAt": "2024-04-19T21:18:38.529426Z",
+  "market_updatedAt": "2024-05-07T23:09:10.992469Z",
+  "market_startDate": "2024-04-19T21:54:44.829Z",
+  "market_endDate": "2024-05-25T12:00:00Z",
+  "market_closedTime": "2024-04-21 20:40:21+00",
+  "conditionId": "0x2a2b7722a97ef48f1f9b47bde228f0dcc5d5f7d20edeb88bff5a24d41e55ab70",
+  "slug": "will-coventry-city-fc-win-the-fa-cupp",
+  "question": "Will Coventry City F.C. win the FA Cup?"
+}

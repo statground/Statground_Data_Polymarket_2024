@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T19:35:21.485744Z",
+  "market_createdAt": "2024-04-11T19:35:21.485744Z",
+  "market_updatedAt": "2024-06-05T05:51:11.400054Z",
+  "market_startDate": "2024-04-12T15:37:21.437Z",
+  "market_endDate": "2024-05-29T12:00:00Z",
+  "market_closedTime": "2024-06-04 07:04:46+00",
+  "conditionId": "0xf57b75268f434d9b46033691208a43b56b9ab27ad56e1f0ab5f41323bafb60aa",
+  "slug": "south-africa-election-will-anc-win-a-majority-of-seats",
+  "question": "South Africa Election: Will ANC win a majority of seats?"
+}

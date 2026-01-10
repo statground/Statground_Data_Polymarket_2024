@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:03:11.944726Z",
+  "market_createdAt": "2024-09-03T19:03:11.944726Z",
+  "market_updatedAt": "2024-10-29T20:27:08.808927Z",
+  "market_startDate": "2024-09-04T00:29:05.106299Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-28 23:53:00+00",
+  "conditionId": "0x45f56ddbd65f2d6203fdacbc827a6dbd61f2ba6f7530d6792c18a8f7c3e22c86",
+  "slug": "will-toni-kroos-win-the-ballon-dor",
+  "question": "Will Toni Kroos win the Ballon d’Or?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:04:51.396622Z",
+  "market_createdAt": "2024-09-13T20:04:51.396622Z",
+  "market_updatedAt": "2024-09-16T16:46:43.397734Z",
+  "market_startDate": "2024-09-13T20:53:27.995Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:24:07+00",
+  "conditionId": "0xf1d03a1806b760cb72c1b1c8949259cee255ef2b6d89ca623fc37c87613d6c56",
+  "slug": "will-the-jaguars-beat-the-browns-by-3-or-more-points",
+  "question": "Will the Jaguars beat the Browns by 3 or more points?"
+}

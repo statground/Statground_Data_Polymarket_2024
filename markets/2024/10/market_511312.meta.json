@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T17:13:20.068852Z",
+  "market_createdAt": "2024-10-29T17:13:20.068852Z",
+  "market_updatedAt": "2024-11-15T01:58:59.960859Z",
+  "market_startDate": "2024-10-30T01:34:41.004233Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 04:07:21+00",
+  "conditionId": "0x13f0366409643076c8211693e8c8a35a40b18e26dfa0d69f4d419b8ed1e359d2",
+  "slug": "will-trump-win-wyoming-by-50-points",
+  "question": "Will Trump win Wyoming by 50+ points?"
+}

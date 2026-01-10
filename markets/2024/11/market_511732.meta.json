@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:33:05.259621Z",
+  "market_createdAt": "2024-11-01T19:33:05.259621Z",
+  "market_updatedAt": "2024-11-04T20:57:20.916882Z",
+  "market_startDate": "2024-11-02T21:35:10.884969Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:01:28+00",
+  "conditionId": "0x226e2844d6d1cf5fd3a132657082817303c0f25f98ae1742b47690638eb294ec",
+  "slug": "will-the-packers-and-lions-combine-for-48-or-more-points",
+  "question": "Will the Packers and Lions combine for 48 or more points?"
+}

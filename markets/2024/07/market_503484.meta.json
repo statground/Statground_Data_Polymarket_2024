@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503484",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T15:54:34.813438Z",
+  "market_createdAt": "2024-07-15T15:54:34.813438Z",
+  "market_updatedAt": "2024-07-18T02:56:44.608384Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-17 04:13:50+00",
+  "conditionId": "0xe3dcbbd7e800fe7a8dde86d7e63027f383df548f7c0d1d0c8d24440683123010",
+  "slug": "will-brian-kim-win-the-wsop-main-event",
+  "question": "Will Brian Kim win the WSOP main event?"
+}

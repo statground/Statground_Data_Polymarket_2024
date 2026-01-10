@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:23:30.785511Z",
+  "market_createdAt": "2024-12-17T17:23:30.785511Z",
+  "market_updatedAt": "2025-01-01T15:53:09.848129Z",
+  "market_startDate": "2024-12-17T18:15:03.419915Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:22:37+00",
+  "conditionId": "0x5d28003556995083ad8f5a09eb6461e8b41c0f6af8d1c2269374e2cc83d8bb80",
+  "slug": "will-grok-have-the-top-ai-model-on-december-31",
+  "question": "Will Grok have the top AI model on December 31?"
+}

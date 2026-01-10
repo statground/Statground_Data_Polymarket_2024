@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:33:10.207355Z",
+  "market_createdAt": "2024-12-25T06:33:10.207355Z",
+  "market_updatedAt": "2024-12-29T01:07:10.179479Z",
+  "market_startDate": "2024-12-25T06:35:42.591269Z",
+  "market_endDate": "2024-12-27T20:15:00Z",
+  "market_closedTime": "2024-12-28 01:25:50+00",
+  "conditionId": "0xd56cfc5903265518077b6acb045fbfdf266b04cd30d157d6e01efeeb2e78c2a5",
+  "slug": "epl-ars-ips-2024-12-27-ips",
+  "question": "Will Ipswich win on 2024-12-27?"
+}

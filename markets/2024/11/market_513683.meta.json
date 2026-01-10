@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:31:25.683079Z",
+  "market_createdAt": "2024-11-21T22:31:25.683079Z",
+  "market_updatedAt": "2024-11-27T22:47:43.447797Z",
+  "market_startDate": "2024-11-25T18:44:48.097229Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-27 08:08:14+00",
+  "conditionId": "0xc7608b87acd3c4ce3fb2768b8b8389ace418fb97d1e99dbc1dc6cf71cdf2c445",
+  "slug": "will-the-new-orleans-pelicans-win-the-2024-nba-cup",
+  "question": "Will the New Orleans Pelicans win the 2024 NBA Cup?"
+}

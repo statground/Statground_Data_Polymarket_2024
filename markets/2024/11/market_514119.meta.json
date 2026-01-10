@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:35:37.443990Z",
+  "market_createdAt": "2024-11-26T08:35:37.44399Z",
+  "market_updatedAt": "2024-11-29T21:55:27.889368Z",
+  "market_startDate": "2024-11-26T23:01:41.47258Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:25:54+00",
+  "conditionId": "0x5cb4a733176cabcbbebc5c3c48a3027d562d7d41c25e8334702960632f4ba805",
+  "slug": "will-the-match-between-fcsb-and-olympiacos-end-in-a-draw",
+  "question": "Will the match between FCSB and Olympiacos end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511844",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:08:23.839392Z",
+  "market_createdAt": "2024-11-02T22:08:23.839392Z",
+  "market_updatedAt": "2024-11-05T03:23:11.037907Z",
+  "market_startDate": "2024-11-02T23:25:29.766Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:15:37+00",
+  "conditionId": "0x99c1ef2158ca92f53aa850dc652712b8d0b1e929e0e777b95cbd7011003d710b",
+  "slug": "will-trump-say-pocahontas-during-macon-ga-rally",
+  "question": "Will Trump say \"Pocahontas\" during Macon, GA rally?"
+}

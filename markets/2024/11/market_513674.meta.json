@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:28:47.512692Z",
+  "market_createdAt": "2024-11-21T22:28:47.512692Z",
+  "market_updatedAt": "2024-12-16T07:43:23.421901Z",
+  "market_startDate": "2024-11-25T18:39:33.292407Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-15 07:41:07+00",
+  "conditionId": "0x6e522c1b6bc65c597d1fb61653aa3e5a42f3c95aec735023e78b362ec28f2ebf",
+  "slug": "will-the-houston-rockets-win-the-2024-nba-cup",
+  "question": "Will the Houston Rockets win the 2024 NBA Cup?"
+}

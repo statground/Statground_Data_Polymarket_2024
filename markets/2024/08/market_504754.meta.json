@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:42:24.401649Z",
+  "market_createdAt": "2024-08-08T18:42:24.401649Z",
+  "market_updatedAt": "2025-01-05T23:43:23.142059Z",
+  "market_startDate": "2024-08-08T19:12:33.724Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2025-01-05 04:04:14+00",
+  "conditionId": "0xc7bd89eaca30607da434e10d699422f6ee52145f2101bfc0949b0687d8e48933",
+  "slug": "will-the-pittsburgh-steelers-win-the-afc-north",
+  "question": "Will the Pittsburgh Steelers win the AFC North?"
+}

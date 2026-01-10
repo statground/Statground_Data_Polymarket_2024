@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509095",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:17:04.892386Z",
+  "market_createdAt": "2024-10-07T19:17:04.892386Z",
+  "market_updatedAt": "2025-06-19T08:24:33.792608Z",
+  "market_startDate": "2024-10-08T14:44:03.979107Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-06-18 07:08:48+00",
+  "conditionId": "0x1b3f3f9a32da3ef3839f7ea2296c8b681ac58b88a19db50dd66de39e113556ef",
+  "slug": "will-the-edmonton-oilers-win-the-2025-stanley-cup",
+  "question": "Will the Edmonton Oilers win the 2025 Stanley Cup?"
+}

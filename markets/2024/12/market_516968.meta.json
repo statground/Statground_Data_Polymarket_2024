@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:00:29.232583Z",
+  "market_createdAt": "2024-12-31T20:00:29.232583Z",
+  "market_updatedAt": "2026-01-01T00:35:22.874931Z",
+  "market_startDate": "2024-12-31T20:22:12.346Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:41:09+00",
+  "conditionId": "0x5f8c3f31e7c3f5470f016e036848ff7495031bd45aec804b9bef539490866fd7",
+  "slug": "will-mistral-ai-have-the-top-ai-model-on-december-31",
+  "question": "Will Mistral AI have the top AI model on December 31?"
+}

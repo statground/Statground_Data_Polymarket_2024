@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:01:41.719516Z",
+  "market_createdAt": "2024-12-16T19:01:41.719516Z",
+  "market_updatedAt": "2025-03-24T18:35:37.657088Z",
+  "market_startDate": "2024-12-16T19:09:49.144Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-03-23 19:53:42+00",
+  "conditionId": "0xb0001fc97aa9b65190d6fec2ac6accb0dedcf823b5848b321560ca14c159893b",
+  "slug": "canada-election-called-before-april",
+  "question": "Canada election called before April?"
+}

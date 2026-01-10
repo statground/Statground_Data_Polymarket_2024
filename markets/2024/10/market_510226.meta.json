@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:20:25.503074Z",
+  "market_createdAt": "2024-10-18T21:20:25.503074Z",
+  "market_updatedAt": "2024-10-21T16:56:34.045328Z",
+  "market_startDate": "2024-10-18T23:24:39.259254Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:10:32+00",
+  "conditionId": "0x5cbd49f78e28eb2b5ed1018d3d07aa865a131af63b9ff43c28201797841420a9",
+  "slug": "will-the-packers-and-texans-combine-for-48-or-more-points",
+  "question": "Will the Packers and Texans combine for 48 or more points?"
+}

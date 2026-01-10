@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-16T16:02:38.975310Z",
+  "market_createdAt": "2024-04-16T16:02:38.97531Z",
+  "market_updatedAt": "2024-05-07T23:09:17.166196Z",
+  "market_startDate": "2024-04-16T16:51:24.135Z",
+  "market_endDate": "2024-06-17T12:00:00Z",
+  "market_closedTime": "2024-04-17 05:14:15+00",
+  "conditionId": "0x735079d894762ddf6bf38b7d12ebfdcc8b16f5b199c745edf09e123cec544833",
+  "slug": "detroit-red-wings-win-the-2024-stanley-cup",
+  "question": "Detroit Red Wings win the 2024 Stanley Cup"
+}

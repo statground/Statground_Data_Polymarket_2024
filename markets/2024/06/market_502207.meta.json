@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:07:12.238752Z",
+  "market_createdAt": "2024-06-07T16:07:12.238752Z",
+  "market_updatedAt": "2024-07-06T09:15:46.036125Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 15:48:17+00",
+  "conditionId": "0xaf47e74c8018f94380c5d3baa0a6a93dbdc063e4b8fa754d31dbb1d6ad6341ed",
+  "slug": "will-us-gain-between-250k-and-300k-jobs-in-june",
+  "question": "Will US gain between 250k and 300k jobs in June?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:14:31.854891Z",
+  "market_createdAt": "2024-12-29T07:14:31.854891Z",
+  "market_updatedAt": "2025-01-06T08:03:43.267417Z",
+  "market_startDate": "2024-12-29T07:17:00.774603Z",
+  "market_endDate": "2025-01-12T03:00:00Z",
+  "market_closedTime": "2025-01-05 08:02:59+00",
+  "conditionId": "0xe9b82e7f3647fc5452d715778ae3616325c5659c169c29edd25eb16709ebf1ff",
+  "slug": "nhl-nsh-cal-2025-01-04",
+  "question": "Predators vs. Flames"
+}

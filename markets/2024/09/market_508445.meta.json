@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:33:01.173612Z",
+  "market_createdAt": "2024-09-30T19:33:01.173612Z",
+  "market_updatedAt": "2024-10-02T21:00:46.076681Z",
+  "market_startDate": "2024-09-30T21:40:15.062918Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:19:50+00",
+  "conditionId": "0xc1471989d9d1aa4922b8d3e2e0b4705c5438d7037c7dc56763f14ddda32ec453",
+  "slug": "will-the-match-between-psv-and-sporting-cp-end-in-a-draw",
+  "question": "Will the match between PSV and Sporting CP end in a draw?"
+}

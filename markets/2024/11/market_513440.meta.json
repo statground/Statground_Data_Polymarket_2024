@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T00:03:10.608638Z",
+  "market_createdAt": "2024-11-19T00:03:10.608638Z",
+  "market_updatedAt": "2025-02-03T07:11:28.256259Z",
+  "market_startDate": "2024-11-19T21:03:03.963793Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-02-03 01:09:27+00",
+  "conditionId": "0x09202a0180a652409254d723fab45033fba12b992e068bc095ecf799d2b97669",
+  "slug": "will-sherrod-brown-be-the-next-dnc-chair",
+  "question": "Will Sherrod Brown be the next DNC chair?"
+}

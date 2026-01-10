@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:47:37.962462Z",
+  "market_createdAt": "2024-10-11T15:47:37.962462Z",
+  "market_updatedAt": "2024-10-14T04:06:49.348313Z",
+  "market_startDate": "2024-10-11T19:11:18.217554Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 04:52:31+00",
+  "conditionId": "0x9a0a164cbb0a52ed32c6d7c9e9024584545fa7a350b6a98e92e2216d65c9cf6b",
+  "slug": "will-tennessee-beat-florida",
+  "question": "Will Tennessee beat Florida?"
+}

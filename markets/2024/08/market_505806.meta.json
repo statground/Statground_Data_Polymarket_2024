@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:40:24.494216Z",
+  "market_createdAt": "2024-08-26T18:40:24.494216Z",
+  "market_updatedAt": "2024-08-31T06:23:04.969552Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 06:26:38+00",
+  "conditionId": "0x37d51d8fdead31498f76956c77587748f6fd9fa591796e0e08ead3a9a4ee4159",
+  "slug": "cfb-southern-utah-vs-utah",
+  "question": "CFB: Southern Utah vs. Utah"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T17:10:07.437965Z",
+  "market_createdAt": "2024-09-11T17:10:07.437965Z",
+  "market_updatedAt": "2024-09-14T01:57:02.739443Z",
+  "market_startDate": "2024-09-12T18:46:08.747526Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 05:26:30+00",
+  "conditionId": "0x0478202d0882859d04956ae28a313764c107bff254cf124427b6efb35e9dc266",
+  "slug": "will-there-be-60-or-more-combined-points-scored-asu-txst",
+  "question": "Will there be 60 or more combined points scored?"
+}

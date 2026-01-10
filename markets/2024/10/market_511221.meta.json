@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:43:18.859575Z",
+  "market_createdAt": "2024-10-28T20:43:18.859575Z",
+  "market_updatedAt": "2024-11-02T03:07:11.989602Z",
+  "market_startDate": "2024-10-28T23:46:48.972072Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 02:59:30+00",
+  "conditionId": "0x380ad6cafca9d07ffd7a87b85d42073da7458c3c77b96058a808791b38dd7aa6",
+  "slug": "will-trump-say-womens-sports-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"women's sports\" during Nevada rally on Oct 31?"
+}

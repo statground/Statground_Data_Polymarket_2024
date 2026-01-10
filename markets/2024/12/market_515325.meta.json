@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:13:12.036391Z",
+  "market_createdAt": "2024-12-10T22:13:12.036391Z",
+  "market_updatedAt": "2024-12-13T22:39:22.173516Z",
+  "market_startDate": "2024-12-11T23:05:23.70136Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:13:43+00",
+  "conditionId": "0x13dd2a6a743fb8d17582978ba4f3d157976a653659c2a1078a062fb44cbfdfae",
+  "slug": "will-the-match-between-fc-porto-and-fc-midtjylland-end-in-a-draw",
+  "question": "Will the match between FC Porto and FC Midtjylland end in a draw?"
+}

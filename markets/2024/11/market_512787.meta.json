@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:42:16.317237Z",
+  "market_createdAt": "2024-11-11T21:42:16.317237Z",
+  "market_updatedAt": "2024-11-25T19:22:28.509279Z",
+  "market_startDate": "2024-11-11T21:44:53.874374Z",
+  "market_endDate": "2024-11-24T14:00:00Z",
+  "market_closedTime": "2024-11-24 19:21:14+00",
+  "conditionId": "0xaa9d78540df620ce99f5fe8cf015b264f49a26f5be7879ecf5b534df461e4a76",
+  "slug": "epl-sou-liv-2024-11-24-draw",
+  "question": "Will Southampton vs. Liverpool end in a draw?"
+}

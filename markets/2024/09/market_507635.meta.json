@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507635",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:03:54.521326Z",
+  "market_createdAt": "2024-09-20T21:03:54.521326Z",
+  "market_updatedAt": "2024-09-22T21:32:50.059064Z",
+  "market_startDate": "2024-09-20T21:43:51.524426Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 00:20:45+00",
+  "conditionId": "0xd5803a29b20836b757b2badb480f509bc39034d6c3986f14996710a5108ea5c6",
+  "slug": "will-the-fight-reach-the-8th-round",
+  "question": "Will the fight reach the 8th round?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T21:28:42.789434Z",
+  "market_createdAt": "2024-06-15T21:28:42.789434Z",
+  "market_updatedAt": "2024-06-17T17:56:18.205262Z",
+  "market_startDate": "2024-06-15T21:37:22.044Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-16 18:05:36+00",
+  "conditionId": "0x69c5fd3c6a0e9e9a93e95a1c4816f8fc1829c3318a8f93468d5e18d075874018",
+  "slug": "will-the-netherlands-win",
+  "question": "Will the Netherlands win?"
+}

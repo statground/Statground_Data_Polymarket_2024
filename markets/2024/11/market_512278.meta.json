@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512278",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:51:34.821916Z",
+  "market_createdAt": "2024-11-07T18:51:34.821916Z",
+  "market_updatedAt": "2024-11-20T21:41:01.233566Z",
+  "market_startDate": "2024-11-07T20:37:21.536787Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 23:01:26+00",
+  "conditionId": "0xc48a07993d7072b21aa35e297efc0b6799932c6bd027c3f7f19b7661bc938e93",
+  "slug": "will-trump-nominate-robert-lighthizer-for-commerce-secretary",
+  "question": "Will Trump nominate Robert Lighthizer for Commerce Secretary?"
+}

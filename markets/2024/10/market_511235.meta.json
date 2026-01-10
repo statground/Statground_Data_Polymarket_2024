@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:47:43.906999Z",
+  "market_createdAt": "2024-10-28T20:47:43.906999Z",
+  "market_updatedAt": "2024-11-02T11:37:11.629047Z",
+  "market_startDate": "2024-10-28T20:50:21.406505Z",
+  "market_endDate": "2024-11-01T00:30:00Z",
+  "market_closedTime": "2024-11-01 12:41:21+00",
+  "conditionId": "0x4d17c677faf24402363ccbd515722128adcc2b0bb63938f592bc46ec36483064",
+  "slug": "nba-hou-dal-2024-10-31",
+  "question": "Rockets vs. Mavericks"
+}

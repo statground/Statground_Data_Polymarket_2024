@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:44:57.663411Z",
+  "market_createdAt": "2024-07-18T19:44:57.663411Z",
+  "market_updatedAt": "2024-08-03T20:10:58.930652Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:28:54+00",
+  "conditionId": "0x7315b803317a4b9fb6ad497f62e72128237071dc464525af0a33600614ef1e16",
+  "slug": "will-caeleb-dressel-usa-win-gold-in-mens-100m-butterfly",
+  "question": "Will Caeleb Dressel (USA) win Gold in Men's 100m Butterfly?"
+}

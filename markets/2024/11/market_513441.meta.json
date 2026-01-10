@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T00:05:02.101652Z",
+  "market_createdAt": "2024-11-19T00:05:02.101652Z",
+  "market_updatedAt": "2025-02-03T01:12:22.293781Z",
+  "market_startDate": "2024-11-19T21:03:24.201321Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-02-03 01:09:31+00",
+  "conditionId": "0x8baa4c4f222dde9dc99bd223c46a44ac8b8a5974f5069c7f8b029a947d1172cf",
+  "slug": "will-michael-blake-be-the-next-dnc-chair",
+  "question": "Will Michael Blake be the next DNC chair?"
+}

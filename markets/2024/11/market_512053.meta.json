@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:06:13.114938Z",
+  "market_createdAt": "2024-11-05T19:06:13.114938Z",
+  "market_updatedAt": "2024-11-12T02:23:16.038524Z",
+  "market_startDate": "2024-11-05T19:08:51.233741Z",
+  "market_endDate": "2024-11-10T21:05:00Z",
+  "market_closedTime": "2024-11-11 02:25:40+00",
+  "conditionId": "0x516f348befef713462d2360ab14bb8c7af925c1c65a005afebdb0e382a0b702a",
+  "slug": "nfl-ten-lac-2024-11-10",
+  "question": "Titans vs. Chargers"
+}

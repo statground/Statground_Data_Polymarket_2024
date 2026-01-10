@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503554",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:15:47.268605Z",
+  "market_createdAt": "2024-07-16T16:15:47.268605Z",
+  "market_updatedAt": "2024-07-22T16:06:37.893845Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:10:18+00",
+  "conditionId": "0x4e2231b52c9529a3db1f6b907c50e783e85505b2b77b870faca74c15e334a52d",
+  "slug": "will-jon-rahm-win-the-british-open",
+  "question": "Will Jon Rahm win the British Open?"
+}

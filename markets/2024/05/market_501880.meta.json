@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:23:20.746766Z",
+  "market_createdAt": "2024-05-29T18:23:20.746766Z",
+  "market_updatedAt": "2024-06-03T13:41:13.07016Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:21:41+00",
+  "conditionId": "0x3dce536c467d7aadb7c4d940c9d8e8311e070a548836a3bdf14da5c9e991f066",
+  "slug": "will-halla-tmasdttir-win-the-iceland-presidential-election",
+  "question": "Will Halla Tómasdóttir win the Iceland Presidential Election?"
+}

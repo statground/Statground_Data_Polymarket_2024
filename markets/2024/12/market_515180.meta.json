@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:43:32.006207Z",
+  "market_createdAt": "2024-12-09T20:43:32.006207Z",
+  "market_updatedAt": "2024-12-12T10:11:14.655315Z",
+  "market_startDate": "2024-12-09T21:04:33.652Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:24:01+00",
+  "conditionId": "0x6754fe03abf3dfdc1bc6770664be99bbc56d27f10c4615505dc56145876cacf0",
+  "slug": "will-university-of-pennsylvania-be-in-the-manifesto",
+  "question": "Will \"University of Pennsylvania\" be in the manifesto?"
+}

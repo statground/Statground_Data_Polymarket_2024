@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T16:59:41.941752Z",
+  "market_createdAt": "2024-08-16T16:59:41.941752Z",
+  "market_updatedAt": "2024-08-19T02:46:51.328536Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-18 05:11:40+00",
+  "conditionId": "0xad9e03f3001539ed8685a7cbcb2c0ede64156d063b8d0517418533a6a19338a2",
+  "slug": "will-trump-tweet-5-times-this-week",
+  "question": "Will Trump tweet 5 times this week?"
+}

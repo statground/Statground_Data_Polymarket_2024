@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T20:59:39.605473Z",
+  "market_createdAt": "2024-05-01T20:59:39.605473Z",
+  "market_updatedAt": "2024-05-07T23:09:57.713574Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-06 17:54:10+00",
+  "conditionId": "0xb1129eb0ad5f6af97e9c46aeb8094a425fcf8a55a7515d516fc8e96c0ac4593d",
+  "slug": "will-wisconsin-be-the-next-university-to-cancel-commencement",
+  "question": "Will Wisconsin be the next university to cancel commencement?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:36:51.238991Z",
+  "market_createdAt": "2024-10-21T20:36:51.238991Z",
+  "market_updatedAt": "2024-10-29T02:43:01.460979Z",
+  "market_startDate": "2024-10-21T20:39:31.174949Z",
+  "market_endDate": "2024-10-27T23:00:00Z",
+  "market_closedTime": "2024-10-28 06:23:34+00",
+  "conditionId": "0x207b495f40ed8947beb83869e75667699f477c1aa3fc9a413e41ae1819b1771c",
+  "slug": "nba-atl-okc-2024-10-27",
+  "question": "Hawks vs. Thunder"
+}

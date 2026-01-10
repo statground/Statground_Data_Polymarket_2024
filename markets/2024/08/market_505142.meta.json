@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T23:26:20.456597Z",
+  "market_createdAt": "2024-08-14T23:26:20.456597Z",
+  "market_updatedAt": "2024-09-02T05:56:59.132278Z",
+  "market_startDate": "2024-08-15T20:03:16.58Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:14:57+00",
+  "conditionId": "0x5d472b70e7591081c886efea8fff32887305b7484f9fa1f011f8ad3a83e22adb",
+  "slug": "confirmed-case-of-monkeypox-in-us-by-aug-31",
+  "question": "Confirmed case of monkeypox in US by Aug 31?"
+}

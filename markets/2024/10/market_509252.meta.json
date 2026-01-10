@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:40:27.509875Z",
+  "market_createdAt": "2024-10-08T16:40:27.509875Z",
+  "market_updatedAt": "2024-10-11T09:36:49.526029Z",
+  "market_startDate": "2024-10-08T17:18:48.352819Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:27:26+00",
+  "conditionId": "0x2d347e03599f444cd4aade4656c54507a5de5ab9a883f329bbba69a8df7e0d5f",
+  "slug": "will-ngugi-wa-thiongo-win-the-nobel-prize-in-literature",
+  "question": "Will Ngũgĩ wa Thiong'o win the Nobel prize in literature?"
+}

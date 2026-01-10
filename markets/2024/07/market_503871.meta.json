@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503871",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:18:09.832791Z",
+  "market_createdAt": "2024-07-19T16:18:09.832791Z",
+  "market_updatedAt": "2024-07-31T13:32:08.820574Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-31 13:28:47+00",
+  "conditionId": "0xd00a85b54a03b0d9c31db80e3a8def6f280ca6284f21cb21bd46e37e355a23f3",
+  "slug": "will-oleksandr-zheltiakov-ukr-win-gold-in-mens-200m-backstroke",
+  "question": "Will Oleksandr Zheltiakov (UKR) win Gold in Men's 200m Backstroke?"
+}

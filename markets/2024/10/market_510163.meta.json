@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510163",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:52:36.404628Z",
+  "market_createdAt": "2024-10-18T17:52:36.404628Z",
+  "market_updatedAt": "2024-10-21T04:22:49.811501Z",
+  "market_startDate": "2024-10-18T23:09:35.701613Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:37:57+00",
+  "conditionId": "0xd2d3c4cc9ac9dd2e0fc5f1eb8337cf482da2af7b63cc1cbc9dfd9b158430f1f1",
+  "slug": "will-texas-beat-georgia",
+  "question": "Will Texas beat Georgia?"
+}

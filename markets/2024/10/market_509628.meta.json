@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:36:26.609570Z",
+  "market_createdAt": "2024-10-11T15:36:26.60957Z",
+  "market_updatedAt": "2024-10-13T21:20:54.403089Z",
+  "market_startDate": "2024-10-11T19:07:42.306793Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:10:55+00",
+  "conditionId": "0x361d1b753cdd2d67d1d1011d29c0e697a753775790051fcd2d14f8fc239ee4a2",
+  "slug": "will-texas-and-oklahoma-combine-for-49-or-more-points",
+  "question": "Will Texas and Oklahoma combine for 49 or more points?"
+}

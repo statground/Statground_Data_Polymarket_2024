@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505778",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:35:11.971629Z",
+  "market_createdAt": "2024-08-26T16:35:11.971629Z",
+  "market_updatedAt": "2024-08-28T18:17:08.402941Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:54:27+00",
+  "conditionId": "0x17c3af132454efd11ef6786d81842cbf8c57deca568e678dd0faf1abddf08a76",
+  "slug": "will-jd-vance-say-china-3-or-more-times-during-michigan-rally",
+  "question": "Will J.D. Vance say \"China\" 3 or more times during Michigan rally?"
+}

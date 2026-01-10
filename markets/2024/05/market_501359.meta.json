@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:30:08.051008Z",
+  "market_createdAt": "2024-05-02T18:30:08.051008Z",
+  "market_updatedAt": "2024-08-08T21:40:54.521897Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-08 01:43:28+00",
+  "conditionId": "0xd269c384f710cde817f4f208d9087f596de60d27524d2ca509e0ef3be7dd6cc3",
+  "slug": "will-rashida-tlaib-win-the-mi-12-democratic-house-primary",
+  "question": "Will Rashida Tlaib win the MI-12 Democratic House Primary?"
+}

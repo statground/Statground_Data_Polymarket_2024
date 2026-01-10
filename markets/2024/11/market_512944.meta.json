@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T22:17:57.556002Z",
+  "market_createdAt": "2024-11-12T22:17:57.556002Z",
+  "market_updatedAt": "2024-11-16T15:50:57.042391Z",
+  "market_startDate": "2024-11-12T22:34:08.708183Z",
+  "market_endDate": "2024-11-13T12:00:00Z",
+  "market_closedTime": "2024-11-15 17:44:32+00",
+  "conditionId": "0xffac6ad2fc65e37cf21f3e2b08b8857528437bb1cb930625f5e8347b0ba66724",
+  "slug": "atp-finals-zverev-vs-ruud",
+  "question": "ATP Finals: Zverev vs. Ruud"
+}

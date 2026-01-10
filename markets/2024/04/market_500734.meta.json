@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:35:35.091045Z",
+  "market_createdAt": "2024-04-04T18:35:35.091045Z",
+  "market_updatedAt": "2025-01-02T06:15:00.732429Z",
+  "market_startDate": "2024-04-04T18:36:20.181Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:07:56+00",
+  "conditionId": "0xb36d9c4fb1fac427ee93c27730c7c2b88c8e6000c7ff693bbcab68458b658f6c",
+  "slug": "will-ukraine-join-nato-in-2024",
+  "question": "Will Ukraine join NATO in 2024?"
+}

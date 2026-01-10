@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503299",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T14:56:31.518667Z",
+  "market_createdAt": "2024-07-09T14:56:31.518667Z",
+  "market_updatedAt": "2025-01-21T04:50:56.648997Z",
+  "market_startDate": "2024-07-09T14:56:31.518Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-20 05:53:26+00",
+  "conditionId": "0x0e73cc6c999f4fc1e3692905fc99fe7eb98beb16a284c4be762e3e64c42d1544",
+  "slug": "will-the-ravens-win-super-bowl-2025",
+  "question": "Will the Ravens win Super Bowl 2025?"
+}

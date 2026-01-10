@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:37:05.025857Z",
+  "market_createdAt": "2024-12-25T06:37:05.025857Z",
+  "market_updatedAt": "2024-12-30T20:10:17.96224Z",
+  "market_startDate": "2024-12-25T06:39:43.337639Z",
+  "market_endDate": "2024-12-29T17:15:00Z",
+  "market_closedTime": "2024-12-29 22:22:54+00",
+  "conditionId": "0x7cb38850094621627eb2a6acb4114545456eb28de9c713cf1499b955bb6b89c0",
+  "slug": "epl-wes-liv-2024-12-29-draw",
+  "question": "Will West Ham vs. Liverpool end in a draw?"
+}

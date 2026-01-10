@@ -1,0 +1,33 @@
+{
+  "entity": "event",
+  "event_id": "13948",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-10-31T20:12:16.679745Z",
+  "event_createdAt": "2024-10-31T20:12:16.679745Z",
+  "event_creationDate": "2024-11-01T14:44:54.045097Z",
+  "event_startDate": "2024-11-01T14:44:54.045099Z",
+  "event_endDate": "2024-11-30T12:00:00Z",
+  "event_updatedAt": "2025-02-03T02:33:03.857229Z",
+  "markets_len": 14,
+  "market_ids": [
+    "511580",
+    "512251",
+    "512252",
+    "512253",
+    "511537",
+    "511536",
+    "511538",
+    "511539",
+    "511540",
+    "511541",
+    "512663",
+    "512664",
+    "512665",
+    "512666"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10032"
+  ],
+  "series_slug": "sol-monthly-prices"
+}

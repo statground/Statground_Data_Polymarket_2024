@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T22:08:20.335000Z",
+  "market_createdAt": "2024-02-29T22:08:20.335Z",
+  "market_updatedAt": "2024-04-22T22:22:24.143431Z",
+  "market_startDate": "2024-02-29T23:12:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 03:45:12+00",
+  "conditionId": "0x3c89bca9ceb8cc7011b5e908d73a8fd477e8adcb16089d7de5c8d3809a28a2cd",
+  "slug": "will-virginia-be-trumps-worst-state-on-super-tuesday",
+  "question": "Will Virginia be Trump's worst state on Super Tuesday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501937",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T03:25:52.528728Z",
+  "market_createdAt": "2024-05-31T03:25:52.528728Z",
+  "market_updatedAt": "2024-11-07T12:53:06.806013Z",
+  "market_startDate": "2024-05-31T03:25:52.528728Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 03:07:46+00",
+  "conditionId": "0x49f0885490b71856a2535d5deb1dca2a970bb0a84f7a9cba9934a3fdbd3b17c0",
+  "slug": "trump-eligible-to-vote-in-the-election",
+  "question": "Trump eligible to vote in the election?"
+}

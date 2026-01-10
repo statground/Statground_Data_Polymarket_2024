@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T19:57:52.669261Z",
+  "market_createdAt": "2024-08-02T19:57:52.669261Z",
+  "market_updatedAt": "2024-09-07T15:27:12.565733Z",
+  "market_startDate": "2024-08-02T19:57:52.669261Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 15:50:10+00",
+  "conditionId": "0x287691ef015e94db805a833d9a51101fd2a8199f6b59c20101a909ed969a9f72",
+  "slug": "us-adds-between-200k-and-250k-jobs-in-august",
+  "question": "US adds between 200k and 250k jobs in August?"
+}

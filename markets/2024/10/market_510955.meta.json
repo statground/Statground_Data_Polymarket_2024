@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:12:38.809091Z",
+  "market_createdAt": "2024-10-25T18:12:38.809091Z",
+  "market_updatedAt": "2024-10-27T19:26:46.780713Z",
+  "market_startDate": "2024-10-25T22:21:03.939895Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:15:20+00",
+  "conditionId": "0x8940794ba05ac88a0e4e04289377d810e98b62dd35d175c4bfa2a9daa81e17c4",
+  "slug": "will-oregon-beat-illinois-by-22-or-more-points",
+  "question": "Will Oregon beat Illinois by 22 or more points?"
+}

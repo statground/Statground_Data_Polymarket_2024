@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T20:30:56.310055Z",
+  "market_createdAt": "2024-06-13T20:30:56.310055Z",
+  "market_updatedAt": "2024-06-27T02:41:09.155868Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 07:55:55+00",
+  "conditionId": "0x01f996d8c7a851028ec125e307ccc1d87fdb79622264f60e07c397a060c9d79d",
+  "slug": "will-brad-r-wilson-win-the-utah-republican-primary",
+  "question": "Will Brad R. Wilson win the Utah Republican Primary?"
+}

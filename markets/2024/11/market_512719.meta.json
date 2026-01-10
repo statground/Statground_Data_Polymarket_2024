@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:11:10.973466Z",
+  "market_createdAt": "2024-11-11T18:11:10.973466Z",
+  "market_updatedAt": "2024-11-18T07:29:13.811724Z",
+  "market_startDate": "2024-11-11T18:13:42.844478Z",
+  "market_endDate": "2024-11-24T03:00:00Z",
+  "market_closedTime": "2024-11-17 07:50:14+00",
+  "conditionId": "0x3631714b208868397c25a58bce4d7ea5bc87955436e4d5f28cc5cb4f832560d8",
+  "slug": "nba-uta-sac-2024-11-16",
+  "question": "Jazz vs. Kings"
+}

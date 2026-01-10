@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:14:05.534401Z",
+  "market_createdAt": "2024-09-24T17:14:05.534401Z",
+  "market_updatedAt": "2025-04-22T07:11:47.916219Z",
+  "market_startDate": "2024-11-21T23:10:48.654Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 03:34:13+00",
+  "conditionId": "0x92d46fc5e0f2d91a5175e8620f07a42daf2881f96d2066f691c0bae4db70570b",
+  "slug": "will-lebron-james-win-the-2024-25-nba-mvp",
+  "question": "Will LeBron James win the 2024-25 NBA MVP?"
+}

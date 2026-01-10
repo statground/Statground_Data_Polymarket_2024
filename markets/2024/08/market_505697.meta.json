@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T02:59:10.571303Z",
+  "market_createdAt": "2024-08-23T02:59:10.571303Z",
+  "market_updatedAt": "2024-08-26T15:40:56.711998Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:40:36+00",
+  "conditionId": "0x85c51dbbc85829d25ae32b3addea252f57c10ff7471558b05a241a2f3d3bbb41",
+  "slug": "will-max-verstappen-win-the-dutch-grand-prix",
+  "question": "Will Max Verstappen win the Dutch Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503894",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T17:21:24.516197Z",
+  "market_createdAt": "2024-07-19T17:21:24.516197Z",
+  "market_updatedAt": "2024-08-02T17:13:02.08786Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:51:44+00",
+  "conditionId": "0x070aa1e9052ec480b9bfd05bc23ab5ce64c84713e8dceded4c313c6f4669e93e",
+  "slug": "will-another-athlete-win-gold-in-mens-200m-breaststroke",
+  "question": "Will another athlete win Gold in Men's 200m Breaststroke?"
+}

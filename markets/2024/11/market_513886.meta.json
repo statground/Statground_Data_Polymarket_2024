@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:49:59.366805Z",
+  "market_createdAt": "2024-11-24T18:49:59.366805Z",
+  "market_updatedAt": "2024-11-26T05:07:41.871697Z",
+  "market_startDate": "2024-11-24T18:52:26.892226Z",
+  "market_endDate": "2024-12-02T00:30:00Z",
+  "market_closedTime": "2024-11-25 05:03:21+00",
+  "conditionId": "0x5c75227c365e605b6723ee3937dd875381aa530b0bae5dcbe35e674388c00ed1",
+  "slug": "nba-tor-cle-2024-11-24",
+  "question": "Raptors vs. Cavaliers"
+}

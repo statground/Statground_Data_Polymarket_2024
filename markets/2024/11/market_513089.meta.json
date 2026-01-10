@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:17:31.805784Z",
+  "market_createdAt": "2024-11-14T23:17:31.805784Z",
+  "market_updatedAt": "2025-01-22T02:43:03.566616Z",
+  "market_startDate": "2024-11-14T23:44:58.857743Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-01-21 04:41:19+00",
+  "conditionId": "0x468797aa45311333245fb730cf170b058d7e56f4c244e411c00e5ab92d931f4c",
+  "slug": "will-trump-formally-nominate-rfk-jr-to-the-cabinet",
+  "question": "Will Trump formally nominate RFK Jr. to the cabinet?"
+}

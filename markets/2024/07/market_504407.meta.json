@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T21:52:08.792437Z",
+  "market_createdAt": "2024-07-31T21:52:08.792437Z",
+  "market_updatedAt": "2024-08-05T11:32:57.431602Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 17:44:49+00",
+  "conditionId": "0x0582f24d38747dc121d5e323755432e79c125bf69f6a34c7e379e4c90994ac09",
+  "slug": "will-alice-damato-ita-win-gold-in-womens-uneven-bar-final",
+  "question": "Will Alice D’Amato (ITA) win Gold in Women’s Uneven Bar Final?"
+}

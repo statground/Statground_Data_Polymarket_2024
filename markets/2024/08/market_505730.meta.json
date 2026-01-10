@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:14:53.836364Z",
+  "market_createdAt": "2024-08-23T16:14:53.836364Z",
+  "market_updatedAt": "2024-08-24T23:40:57.40447Z",
+  "market_startDate": "2024-08-23T16:51:08.731Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 01:48:38+00",
+  "conditionId": "0xf314ae58ba357b41e195628179e9239686e9b09d438215173404376f7a2b39b3",
+  "slug": "will-trump-say-debate-at-his-arizona-speech",
+  "question": "Will Trump say \"debate\" at his Arizona speech?"
+}

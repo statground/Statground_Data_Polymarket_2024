@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:20:23.994161Z",
+  "market_createdAt": "2024-11-01T16:20:23.994161Z",
+  "market_updatedAt": "2024-11-06T05:57:11.009875Z",
+  "market_startDate": "2024-11-01T16:23:03.96718Z",
+  "market_endDate": "2024-11-05T03:15:00Z",
+  "market_closedTime": "2024-11-05 11:06:50+00",
+  "conditionId": "0x3adaa68da04d1aaed97db93a45ca95b3e0bd6fda18b2d0e928b21fccb583b861",
+  "slug": "nba-phi-phx-2024-11-04",
+  "question": "76ers vs. Suns"
+}

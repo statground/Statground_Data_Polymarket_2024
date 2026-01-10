@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:13:29.266000Z",
+  "market_createdAt": "2024-03-01T20:13:29.266Z",
+  "market_updatedAt": "2024-11-08T00:08:58.944633Z",
+  "market_startDate": "2024-03-08T00:06:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:20:15+00",
+  "conditionId": "0xa59e2e79dc1a564477c8d77dc32c30b37c0f4c8782c8cc062a7f788295cd91bb",
+  "slug": "will-a-republican-win-wisconsin-presidential-election",
+  "question": "Will a Republican win Wisconsin Presidential Election?"
+}

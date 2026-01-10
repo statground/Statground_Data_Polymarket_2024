@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:28:35.369603Z",
+  "market_createdAt": "2024-08-29T15:28:35.369603Z",
+  "market_updatedAt": "2024-09-01T00:13:03.637556Z",
+  "market_startDate": "2024-08-29T18:29:35.765Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-31 00:20:48+00",
+  "conditionId": "0x10b137ba0c614ddf1c50a0ee7d8b492b57efb9ccfbeb4f4df3c58ae056a3d08e",
+  "slug": "will-donald-trump-say-alien-5-or-more-times-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"alien\" 5 or more times during Pennsylvania rally?"
+}

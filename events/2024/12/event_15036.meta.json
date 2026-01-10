@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "15036",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-02T20:50:41.908254Z",
+  "event_createdAt": "2024-12-02T20:50:41.908254Z",
+  "event_creationDate": "2024-12-02T23:39:25.422598Z",
+  "event_startDate": "2024-12-02T23:39:25.422601Z",
+  "event_endDate": "2025-06-30T12:00:00Z",
+  "event_updatedAt": "2025-07-02T08:24:53.806993Z",
+  "markets_len": 1,
+  "market_ids": [
+    "514497"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10126"
+  ],
+  "series_slug": "khamenei-out"
+}

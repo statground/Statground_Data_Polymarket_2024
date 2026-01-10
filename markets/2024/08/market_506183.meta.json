@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T18:46:46.028608Z",
+  "market_createdAt": "2024-08-30T18:46:46.028608Z",
+  "market_updatedAt": "2024-10-02T05:56:52.786544Z",
+  "market_startDate": "2024-08-30T22:24:45.500936Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:11:54+00",
+  "conditionId": "0xdbccd87992f132f6682a7f496ab99745f206b004b791afd72e6b63b264e8e20e",
+  "slug": "btc-dips-below-50k-before-october",
+  "question": "$BTC dips below $50k before October?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516280",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:05:52.096984Z",
+  "market_createdAt": "2024-12-22T07:05:52.096984Z",
+  "market_updatedAt": "2024-12-29T04:08:53.955383Z",
+  "market_startDate": "2024-12-22T07:08:16.412497Z",
+  "market_endDate": "2025-01-04T01:00:00Z",
+  "market_closedTime": "2024-12-28 05:54:30+00",
+  "conditionId": "0x554498a0c45903bd8c1f8516cb2c5cdc3f7fb55d68719f6e162fe875b345d0ed",
+  "slug": "nhl-min-dal-2024-12-27",
+  "question": "Wild vs. Stars"
+}

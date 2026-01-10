@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:22:47.968449Z",
+  "market_createdAt": "2024-10-18T17:22:47.968449Z",
+  "market_updatedAt": "2024-10-20T22:12:48.529662Z",
+  "market_startDate": "2024-10-18T23:26:23.186344Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:07:15+00",
+  "conditionId": "0x5b03158253b5fd530fb2c28d005bfb7db7d3f6a4774716b25af5f96a2bcf569e",
+  "slug": "will-michigan-beat-illinois-by-4-or-more-points",
+  "question": "Will Michigan beat Illinois by 4 or more points?"
+}

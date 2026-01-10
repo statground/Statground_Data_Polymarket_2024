@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:19:06.022830Z",
+  "market_createdAt": "2024-11-18T23:19:06.02283Z",
+  "market_updatedAt": "2024-11-24T14:25:27.237861Z",
+  "market_startDate": "2024-11-19T20:51:01.877441Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 15:02:02+00",
+  "conditionId": "0x9252850919a1b7524d60aac2ecf5b2d249930b292bf336fc66e3e8dd155a20c8",
+  "slug": "song-vs-salikhov",
+  "question": "Song vs. Salikhov"
+}

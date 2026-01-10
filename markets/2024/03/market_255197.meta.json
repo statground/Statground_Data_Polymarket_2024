@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:51:05.504000Z",
+  "market_createdAt": "2024-03-01T19:51:05.504Z",
+  "market_updatedAt": "2024-05-07T23:09:32.953957Z",
+  "market_startDate": "2024-03-01T20:07:33.124Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 08:26:45+00",
+  "conditionId": "0xd029d1e0cdcab01b5e0361956074fa3d0732e262e0bd8f7271d61616fb55c7af",
+  "slug": "more-hostages-in-gaza-freed-before-april",
+  "question": "More hostages in Gaza freed before April?"
+}

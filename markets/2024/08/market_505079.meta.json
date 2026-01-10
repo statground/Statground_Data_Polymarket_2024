@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:25:41.058769Z",
+  "market_createdAt": "2024-08-13T20:25:41.058769Z",
+  "market_updatedAt": "2024-08-20T21:27:07.313621Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 00:06:41+00",
+  "conditionId": "0xc509136b3356b2de94b2d4df915ba27c0e91a4bcc5d20df64980004df8978331",
+  "slug": "will-tottenham-hotspur-beat-leicester-city",
+  "question": "Will Tottenham Hotspur beat Leicester City?"
+}

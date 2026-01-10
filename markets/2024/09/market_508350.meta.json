@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508350",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:57:46.334623Z",
+  "market_createdAt": "2024-09-27T19:57:46.334623Z",
+  "market_updatedAt": "2025-01-01T22:43:27.355681Z",
+  "market_startDate": "2024-09-27T21:00:52.320878Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:57:20+00",
+  "conditionId": "0x64c6e8a25da4eb6fd0c56f8c153bb70b532bc1b3c836ffa3eb682cdc8d187ef4",
+  "slug": "partydao-airdrop-in-2024",
+  "question": "PartyDAO airdrop in 2024?"
+}

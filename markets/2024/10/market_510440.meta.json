@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:32:04.745339Z",
+  "market_createdAt": "2024-10-21T22:32:04.745339Z",
+  "market_updatedAt": "2024-10-24T22:07:05.265661Z",
+  "market_startDate": "2024-10-22T01:02:45.75693Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:29:32+00",
+  "conditionId": "0x94c21bdeabd9edc3602175e4ab8f785badbfe5c804bf7fdb71a6170a67d27c58",
+  "slug": "will-losc-lille-beat-atletico-madrid",
+  "question": "Will LOSC Lille beat Atletico Madrid?"
+}

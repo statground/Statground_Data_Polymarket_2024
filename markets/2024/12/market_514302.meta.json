@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:11:26.020863Z",
+  "market_createdAt": "2024-12-01T05:11:26.020863Z",
+  "market_updatedAt": "2024-12-07T04:57:17.267247Z",
+  "market_startDate": "2024-12-01T05:15:04.757402Z",
+  "market_endDate": "2024-12-13T00:30:00Z",
+  "market_closedTime": "2024-12-06 05:00:31+00",
+  "conditionId": "0xabc79eeb9427842bd60fe8b25a8d7e10ae70f259ac2ac6ca572d961d626b2e63",
+  "slug": "nba-okc-tor-2024-12-05",
+  "question": "Thunder vs. Raptors"
+}

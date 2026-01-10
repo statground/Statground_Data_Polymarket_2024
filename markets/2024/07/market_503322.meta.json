@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:37:44.526787Z",
+  "market_createdAt": "2024-07-09T15:37:44.526787Z",
+  "market_updatedAt": "2025-02-11T07:15:37.704366Z",
+  "market_startDate": "2024-07-09T15:37:44.526Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-02-10 07:15:05+00",
+  "conditionId": "0x399b3e538eae06db62ba0e166cf3772276dabf75862c938119d17d59684c7e40",
+  "slug": "will-the-eagles-win-super-bowl-2025",
+  "question": "Will the Eagles win Super Bowl 2025?"
+}

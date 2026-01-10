@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:54:30.076367Z",
+  "market_createdAt": "2024-12-13T22:54:30.076367Z",
+  "market_updatedAt": "2024-12-16T20:55:27.979348Z",
+  "market_startDate": "2024-12-13T23:30:27.020057Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-16 02:33:13+00",
+  "conditionId": "0x2d8338243175e9b1a41137ddc5f7aecaefc0b360c095a4047c69a5f777b5df6c",
+  "slug": "will-the-eagles-and-steelers-combine-for-43-or-more-points",
+  "question": "Will the Eagles and Steelers combine for 43 or more points?"
+}

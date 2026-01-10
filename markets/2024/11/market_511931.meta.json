@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:45:16.973749Z",
+  "market_createdAt": "2024-11-04T18:45:16.973749Z",
+  "market_updatedAt": "2024-11-12T02:03:16.162465Z",
+  "market_startDate": "2024-11-04T18:48:03.091594Z",
+  "market_endDate": "2024-11-10T22:00:00Z",
+  "market_closedTime": "2024-11-11 03:05:32+00",
+  "conditionId": "0x8b2d1dde38145a89287f2255ee8390a3e2ceacd397cdbfc34cbba9dbed11aa86",
+  "slug": "nba-nyk-ind-2024-11-10",
+  "question": "Knicks vs. Pacers"
+}

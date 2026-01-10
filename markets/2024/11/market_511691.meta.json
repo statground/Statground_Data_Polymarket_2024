@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:17:24.497234Z",
+  "market_createdAt": "2024-11-01T18:17:24.497234Z",
+  "market_updatedAt": "2024-11-04T04:12:53.381181Z",
+  "market_startDate": "2024-11-01T23:14:03.036853Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 07:00:50+00",
+  "conditionId": "0x415be0e4015ab4657d7c306081cca027d2b69585fab4ec19c53368774def1207",
+  "slug": "will-smu-beat-pitt-by-7-or-more-points",
+  "question": "Will SMU beat Pitt by 7 or more points?"
+}

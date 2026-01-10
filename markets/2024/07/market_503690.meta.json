@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T00:04:27.421819Z",
+  "market_createdAt": "2024-07-18T00:04:27.421819Z",
+  "market_updatedAt": "2024-07-24T19:58:38.052417Z",
+  "market_startDate": "2024-07-19T08:47:29.163Z",
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-23 20:17:41+00",
+  "conditionId": "0x3af8649c178f907f762baaa3c81c00f0dd4dabe8b1de9cd4dc9c42cd1707ecb4",
+  "slug": "biden-covid-free-by-next-friday",
+  "question": "Biden COVID free by next Friday?"
+}

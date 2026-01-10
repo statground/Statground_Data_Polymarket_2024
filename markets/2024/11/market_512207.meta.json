@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T20:14:17.055350Z",
+  "market_createdAt": "2024-11-06T20:14:17.05535Z",
+  "market_updatedAt": "2024-11-16T05:50:53.825202Z",
+  "market_startDate": "2024-11-06T20:39:55.457Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 09:53:19+00",
+  "conditionId": "0x0e69c0af6557b886c1afb982d903d06ed75a7d3e2f97b8ed98b9197ce4447d9a",
+  "slug": "will-trump-nominate-tom-cotton-for-defense-secretary",
+  "question": "Will Trump nominate Tom Cotton for Defense Secretary?"
+}

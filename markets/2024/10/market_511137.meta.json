@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:52:35.115403Z",
+  "market_createdAt": "2024-10-28T19:52:35.115403Z",
+  "market_updatedAt": "2024-11-03T19:17:02.591821Z",
+  "market_startDate": "2024-10-28T19:55:08.258155Z",
+  "market_endDate": "2024-11-02T15:00:00Z",
+  "market_closedTime": "2024-11-02 20:06:45+00",
+  "conditionId": "0xb3347de109d7908bc2d8fdaa723f52e713f6a3885ff5cb1d98b1c2d06be85637",
+  "slug": "epl-bou-mac-2024-11-02-draw",
+  "question": "Will Bournemouth vs. Man City end in a draw?"
+}

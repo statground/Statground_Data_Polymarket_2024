@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:03:11.892001Z",
+  "market_createdAt": "2024-11-02T22:03:11.892001Z",
+  "market_updatedAt": "2024-11-05T03:23:11.577463Z",
+  "market_startDate": "2024-11-02T23:24:32.114Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:05:11+00",
+  "conditionId": "0xcc6f42f05e39d0032dcc943150e9eb25b7ce4b7bdf3ece86a07322e9483142dd",
+  "slug": "will-trump-say-rig-or-rigged-during-macon-ga-rally",
+  "question": "Will Trump say \"rig\" or \"rigged\" during Macon, GA rally?"
+}

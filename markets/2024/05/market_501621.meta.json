@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:51:34.481935Z",
+  "market_createdAt": "2024-05-15T14:51:34.481935Z",
+  "market_updatedAt": "2024-06-05T20:51:16.368182Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-05 00:01:27+00",
+  "conditionId": "0x78d55c9655636233d750658ff369ae481d1fc6d2a72407c146d9ab6499f43c71",
+  "slug": "will-stefanos-tsitsipas-win-the-2024-french-open-mens-singles",
+  "question": "Will Stefanos Tsitsipas win the 2024 French Open Men's Singles?"
+}

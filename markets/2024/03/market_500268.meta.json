@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T16:49:37.168460Z",
+  "market_createdAt": "2024-03-18T16:49:37.16846Z",
+  "market_updatedAt": "2024-05-07T23:10:16.52073Z",
+  "market_startDate": "2024-03-18T19:00:12.175Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-04-09 06:46:20+00",
+  "conditionId": "0x85f204e0e4540465c0409164902e5f43e3cc493a32328d5f2742c12fff6354a5",
+  "slug": "will-purdue-win-the-ncaa-tournament",
+  "question": "Will Purdue win the NCAA tournament?"
+}

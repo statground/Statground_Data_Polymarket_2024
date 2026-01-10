@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:27:51.020256Z",
+  "market_createdAt": "2024-11-04T23:27:51.020256Z",
+  "market_updatedAt": "2024-11-07T00:47:09.859461Z",
+  "market_startDate": "2024-11-05T00:44:45.146077Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:34:01+00",
+  "conditionId": "0x67299e35a5bc897b954aef98a6b73ed7be39cbd23e1fea244c4650dc1177b87e",
+  "slug": "will-sporting-cp-beat-manchester-city",
+  "question": "Will Sporting CP beat Manchester City?"
+}

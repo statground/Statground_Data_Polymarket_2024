@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T20:18:05.958489Z",
+  "market_createdAt": "2024-12-27T20:18:05.958489Z",
+  "market_updatedAt": "2024-12-30T00:06:07.332095Z",
+  "market_startDate": "2024-12-27T21:34:42.372971Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 06:18:00+00",
+  "conditionId": "0x25e5d464376f68752f1a83497fd6c61e6c77cb21d73ff1eba7db5f1cd8df0698",
+  "slug": "will-colorado-beat-byu-by-3-or-more-points",
+  "question": "Will Colorado beat BYU by 3 or more points?"
+}

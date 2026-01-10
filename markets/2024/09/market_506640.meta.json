@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T05:13:29.458199Z",
+  "market_createdAt": "2024-09-09T05:13:29.458199Z",
+  "market_updatedAt": "2024-09-16T20:36:48.517281Z",
+  "market_startDate": "2024-09-09T05:14:48.547251Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:24:03+00",
+  "conditionId": "0xe65e20750773b7d1d006b90697b0affc8946cbc673c4f921b08f14f8fc70ad3e",
+  "slug": "nfl-ne-sea-2024-09-15",
+  "question": "Patriots vs. Seahawks"
+}

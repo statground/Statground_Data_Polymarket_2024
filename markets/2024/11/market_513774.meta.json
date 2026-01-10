@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:01:52.224189Z",
+  "market_createdAt": "2024-11-24T05:01:52.224189Z",
+  "market_updatedAt": "2024-12-01T01:05:10.900748Z",
+  "market_startDate": "2024-11-24T05:04:25.864113Z",
+  "market_endDate": "2024-12-06T20:30:00Z",
+  "market_closedTime": "2024-11-30 02:12:48+00",
+  "conditionId": "0x1fa4b48313be1db0dfa56e7d7d36caa8378d27c9919ccb68d36e96328acd2256",
+  "slug": "cfb-txst-sbama-2024-11-29",
+  "question": "Texas State vs. South Alabama"
+}

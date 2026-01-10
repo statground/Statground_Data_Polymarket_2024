@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T16:17:17.378000Z",
+  "market_createdAt": "2024-03-04T16:17:17.378Z",
+  "market_updatedAt": "2024-04-26T03:02:13.294643Z",
+  "market_startDate": "2024-03-04T17:51:08.648Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-09 07:02:24+00",
+  "conditionId": "0x763e66da46b87b702e0a9899dacc813c79167efc688b884360da295c90865205",
+  "slug": "shib-all-time-high-by-friday",
+  "question": "SHIB all time high by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502782",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T04:51:26.187421Z",
+  "market_createdAt": "2024-06-24T04:51:26.187421Z",
+  "market_updatedAt": "2024-06-25T21:06:11.609582Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 00:25:45+00",
+  "conditionId": "0x5017ce0e8a83cdc7d4c42bc41b4c9664bdba96a6c44474c606e4dd94c4a37b5e",
+  "slug": "will-croatia-win-june-24",
+  "question": "Will Croatia win?"
+}

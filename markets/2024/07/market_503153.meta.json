@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503153",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T22:03:09.880694Z",
+  "market_createdAt": "2024-07-02T22:03:09.880694Z",
+  "market_updatedAt": "2024-07-16T18:54:48.487349Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-15 23:22:13+00",
+  "conditionId": "0xa84d663260999655a6de1bf94dd5d74962edc97ed4e0b20a54a1382a4226542e",
+  "slug": "berhalter-sacked-before-august",
+  "question": "Berhalter sacked before August?"
+}

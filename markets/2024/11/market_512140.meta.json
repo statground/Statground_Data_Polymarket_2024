@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:12:17.453156Z",
+  "market_createdAt": "2024-11-05T22:12:17.453156Z",
+  "market_updatedAt": "2024-11-08T21:53:03.22189Z",
+  "market_startDate": "2024-11-07T03:09:37.104121Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:10:57+00",
+  "conditionId": "0x59af2860f5c0f2fe04140f8b94798893f23e9fc1b92eb41d0f792d8a9669373c",
+  "slug": "will-the-match-between-manchester-united-and-paok-end-in-a-draw",
+  "question": "Will the match between Manchester United and PAOK end in a draw?"
+}

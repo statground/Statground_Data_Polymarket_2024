@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T20:58:12.344787Z",
+  "market_createdAt": "2024-05-06T20:58:12.344787Z",
+  "market_updatedAt": "2024-07-17T03:02:43.93426Z",
+  "market_startDate": "2024-05-07T02:08:41.926Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:02:31+00",
+  "conditionId": "0x72ecc5173bf5e4b886e2389435e9a12c2d7b075fa925672b870b6e7dd7ee36f5",
+  "slug": "will-michael-flynn-win-the-2024-republican-vp-nomination",
+  "question": "Will Michael Flynn win the 2024 Republican VP nomination?"
+}

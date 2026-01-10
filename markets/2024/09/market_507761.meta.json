@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T19:11:34.121681Z",
+  "market_createdAt": "2024-09-23T19:11:34.121681Z",
+  "market_updatedAt": "2024-09-26T23:36:45.06488Z",
+  "market_startDate": "2024-09-23T22:27:14.1999Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 00:26:13+00",
+  "conditionId": "0x74f8e8efbb9cef9bfecd7bc608a9101049b3caaabf4902fc17fcb3543fc2a231",
+  "slug": "will-ludogorets-beat-slavia-prague",
+  "question": "Will Ludogorets beat Slavia Prague?"
+}

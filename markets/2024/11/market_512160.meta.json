@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512160",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T07:25:38.004420Z",
+  "market_createdAt": "2024-11-06T07:25:38.00442Z",
+  "market_updatedAt": "2025-05-01T08:20:32.877692Z",
+  "market_startDate": "2024-11-06T16:15:19.643Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:12:43+00",
+  "conditionId": "0x3724888af3107c46ac749a7d1eff85d685fc5518db4983f354d21a15b4998559",
+  "slug": "will-trump-pardon-diddy-in-his-first-100-days",
+  "question": "Will Trump pardon Diddy in his first 100 days?"
+}

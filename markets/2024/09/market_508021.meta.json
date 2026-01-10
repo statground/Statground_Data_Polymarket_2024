@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508021",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T20:02:18.886292Z",
+  "market_createdAt": "2024-09-24T20:02:18.886292Z",
+  "market_updatedAt": "2024-10-03T04:16:42.589218Z",
+  "market_startDate": "2024-09-24T23:52:55.833Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:54:51+00",
+  "conditionId": "0x36929937b838d484db654dcd3eed75ecd71cec5369fdc7bbb0392ac84b8ce222",
+  "slug": "will-jd-vance-say-trans-during-the-debate",
+  "question": "Will JD Vance say \"Trans\" during the debate?"
+}

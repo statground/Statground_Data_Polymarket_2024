@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T18:32:01.836878Z",
+  "market_createdAt": "2024-06-07T18:32:01.836878Z",
+  "market_updatedAt": "2024-07-06T05:15:45.929233Z",
+  "market_startDate": "2024-06-07T18:59:36.251Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 06:02:55+00",
+  "conditionId": "0x42164a5a57cbb1d68b26b4cd4866a7e6574fdc0ec65d881a6d6cecbac8aa2a3f",
+  "slug": "biden-drops-out-after-debate",
+  "question": "Biden drops out by July 4? "
+}

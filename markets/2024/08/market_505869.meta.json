@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505869",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:21:01.331857Z",
+  "market_createdAt": "2024-08-27T13:21:01.331857Z",
+  "market_updatedAt": "2024-11-01T06:46:47.660274Z",
+  "market_startDate": "2024-08-27T13:21:01.331857Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-31 07:17:52+00",
+  "conditionId": "0x835f8d053046b9ef189c3216b75d46a2d2fb8a27a7e65d4ff09ef7c14699e73e",
+  "slug": "will-the-new-york-yankees-win-the-world-series",
+  "question": "Will the New York Yankees win the World Series?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:05:37.658111Z",
+  "market_createdAt": "2024-12-29T05:05:37.658111Z",
+  "market_updatedAt": "2025-01-03T07:13:00.667888Z",
+  "market_startDate": "2024-12-29T05:08:10.295835Z",
+  "market_endDate": "2025-01-09T03:00:00Z",
+  "market_closedTime": "2025-01-02 07:40:22+00",
+  "conditionId": "0x6608d33a9dd0ec44e7644454a67bf885746a8c5c1252ed8767c300e3f4e9ec3a",
+  "slug": "nba-phi-sac-2025-01-01",
+  "question": "76ers vs. Kings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:08:31.527441Z",
+  "market_createdAt": "2024-11-15T21:08:31.527441Z",
+  "market_updatedAt": "2024-12-19T22:21:20.947757Z",
+  "market_startDate": "2024-11-15T21:39:31.181Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 22:33:50+00",
+  "conditionId": "0x8dcbaf3df0083c2a68a7509079b8275595708ba53ca5e083028d125f88be2093",
+  "slug": "will-jerome-powell-say-growth-10-or-more-times-during-december-fomc-press-conference",
+  "question": "Will Jerome Powell say \"growth\" 10 or more times during December FOMC Press Conference?"
+}

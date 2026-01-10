@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509054",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T17:33:59.840602Z",
+  "market_createdAt": "2024-10-07T17:33:59.840602Z",
+  "market_updatedAt": "2024-11-07T16:43:07.756736Z",
+  "market_startDate": "2024-10-07T18:23:09.502534Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 16:55:32+00",
+  "conditionId": "0xfe5c422d022ffa3f685bad7d89edd46f9a5b90af322f471eb98759eb110bebf8",
+  "slug": "will-either-florida-minnesota-new-hampshire-or-texas-flip-in-2024",
+  "question": "Will either FL, MN, NH, or TX flip in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T19:22:46.753321Z",
+  "market_createdAt": "2024-03-28T19:22:46.753321Z",
+  "market_updatedAt": "2024-11-07T08:47:02.496543Z",
+  "market_startDate": "2024-03-28T20:52:53.025Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:29:25+00",
+  "conditionId": "0x20eb5023dbcb09d0dda6fe89885b6951c33c3378cbfabfb6f584d3d0bc048a7a",
+  "slug": "will-a-candidate-from-another-party-win-new-york-presidential-election-2024",
+  "question": "Will a candidate from another party win New York Presidential Election?"
+}

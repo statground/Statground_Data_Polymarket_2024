@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T15:54:27.955835Z",
+  "market_createdAt": "2024-10-30T15:54:27.955835Z",
+  "market_updatedAt": "2024-11-07T16:32:58.251295Z",
+  "market_startDate": "2024-10-30T16:37:36.391Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 22:25:24+00",
+  "conditionId": "0xec287ed6c15e49a3b8f8be7ff082eb0db16b6871bf2bb8aa8f945d8ad9ffb9bd",
+  "slug": "trump-rust-belt-swing-state-sweep",
+  "question": "Trump Rust Belt swing state sweep?"
+}

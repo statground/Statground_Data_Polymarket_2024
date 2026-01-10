@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:43:45.916304Z",
+  "market_createdAt": "2024-11-07T17:43:45.916304Z",
+  "market_updatedAt": "2024-11-09T04:57:01.885312Z",
+  "market_startDate": "2024-11-07T18:20:57.161633Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-08 06:42:50+00",
+  "conditionId": "0x56b4d0b89e8204c837bd15e2cf4183978c78806f22783e05bd266db5bb0614a4",
+  "slug": "will-the-ravens-beat-the-bengals-by-6-or-more-points",
+  "question": "Will the Ravens beat the Bengals by 6 or more points?"
+}

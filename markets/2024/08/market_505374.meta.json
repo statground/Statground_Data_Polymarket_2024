@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:34:39.677095Z",
+  "market_createdAt": "2024-08-19T19:34:39.677095Z",
+  "market_updatedAt": "2024-08-25T21:46:50.137686Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 21:59:06+00",
+  "conditionId": "0x6bfc0bc891c69a2bdb32cbd9712df1a3401b63e30f3d689013606248b88308bf",
+  "slug": "nfl-gb-bal-2024-08-24",
+  "question": "Packers vs. Ravens"
+}

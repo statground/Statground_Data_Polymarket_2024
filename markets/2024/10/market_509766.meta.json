@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:18:51.477317Z",
+  "market_createdAt": "2024-10-13T20:18:51.477317Z",
+  "market_updatedAt": "2024-10-15T21:46:46.685439Z",
+  "market_startDate": "2024-10-14T14:30:09.359166Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-14 23:58:24+00",
+  "conditionId": "0xabe66f8e2fe86ee55bd8c4758adae8480a6227498b156cd137059e9d59f7c728",
+  "slug": "will-turkey-beat-iceland",
+  "question": "Will Turkey beat Iceland?"
+}

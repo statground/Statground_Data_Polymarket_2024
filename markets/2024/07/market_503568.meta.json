@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:27:38.249582Z",
+  "market_createdAt": "2024-07-16T18:27:38.249582Z",
+  "market_updatedAt": "2024-07-20T05:22:41.865151Z",
+  "market_startDate": "2024-07-16T20:40:34.015Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:49:50+00",
+  "conditionId": "0xd076c78cb0b353688595c0ed30a37be15bd9ad0f8bce1992bb09c8ae1fa09f5a",
+  "slug": "will-trump-say-fake-news-during-rnc-speech",
+  "question": "Will Trump say \"fake news\" during RNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:17:44.114881Z",
+  "market_createdAt": "2024-08-26T18:17:44.114881Z",
+  "market_updatedAt": "2024-08-31T02:51:02.978691Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 02:55:39+00",
+  "conditionId": "0x265d4dc54d7c3fedb5127422ebaf9c36bdd6d5cd8d92191d1d7d0625402ca12d",
+  "slug": "will-donald-trump-say-pavel-or-durov-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"Pavel\" or \"Durov\" during Michigan town hall?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:07:54.109406Z",
+  "market_createdAt": "2024-11-06T22:07:54.109406Z",
+  "market_updatedAt": "2025-01-04T23:28:48.174892Z",
+  "market_startDate": "2024-11-06T23:01:53.229173Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-03 23:38:05+00",
+  "conditionId": "0x64a87c7559aef832f6630af3e501919fb47a5d0107dbb1eb2236f71f910e5bdf",
+  "slug": "will-mike-johnson-be-the-first-elected-speaker-of-the-house-for-the-119th-congress",
+  "question": "Will Mike Johnson be the first elected Speaker of the House for the 119th congress?"
+}

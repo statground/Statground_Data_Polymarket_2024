@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:04:13.997867Z",
+  "market_createdAt": "2024-07-26T19:04:13.997867Z",
+  "market_updatedAt": "2024-07-28T22:23:02.980182Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:45:37+00",
+  "conditionId": "0x61af60313ba3a16668513eb6e314e9a9a3ce658d07e7b2878c19ed91787264e9",
+  "slug": "will-trump-say-ethereum-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Ethereum\" during his Bitcoin Conference speech?"
+}

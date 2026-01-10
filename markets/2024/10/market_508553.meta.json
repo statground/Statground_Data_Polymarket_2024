@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:27:05.116702Z",
+  "market_createdAt": "2024-10-01T17:27:05.116702Z",
+  "market_updatedAt": "2024-10-04T21:10:44.203406Z",
+  "market_startDate": "2024-10-02T15:06:37.719052Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-04 00:15:18+00",
+  "conditionId": "0xf4551bafbc36e28a19e6b2cd5bdf83d3e2c1ffcbfbd5bdc30919e500821e7df0",
+  "slug": "will-fcsb-beat-paok",
+  "question": "Will FCSB beat PAOK?"
+}

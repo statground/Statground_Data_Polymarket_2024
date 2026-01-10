@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508744",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T00:01:27.229501Z",
+  "market_createdAt": "2024-10-03T00:01:27.229501Z",
+  "market_updatedAt": "2024-12-02T06:11:13.158314Z",
+  "market_startDate": "2024-10-03T15:56:14.898838Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:04:59+00",
+  "conditionId": "0x86fad715b3b6b73709bf402b7182696ca5760cd7353b8374733890f2b8daf37d",
+  "slug": "will-russia-capture-siversk-before-december",
+  "question": "Will Russia capture Siversk before December?"
+}

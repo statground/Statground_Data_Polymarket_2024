@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T04:00:48.061751Z",
+  "market_createdAt": "2024-08-05T04:00:48.061751Z",
+  "market_updatedAt": "2024-08-06T18:50:49.369638Z",
+  "market_startDate": "2024-08-05T13:10:01.923Z",
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-05 22:54:17+00",
+  "conditionId": "0x9370f458e266b37b7c350bd7744545bf0d7bb5d71d3dce4290019058737c165c",
+  "slug": "will-any-other-athlete-win-gold-in-5000m-w",
+  "question": "Will any other athlete win gold in 5000m W?"
+}

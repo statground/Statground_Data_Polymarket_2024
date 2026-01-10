@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512025",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:24:52.535792Z",
+  "market_createdAt": "2024-11-05T17:24:52.535792Z",
+  "market_updatedAt": "2024-11-16T15:52:59.986387Z",
+  "market_startDate": "2024-11-05T18:20:34.883865Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 16:33:25+00",
+  "conditionId": "0x6cf574789afedda24fa0e14abd2a3db8f223743c81d52e42f4acc6f6a33d8bbf",
+  "slug": "will-trump-say-elon-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"Elon\" in his speech after the election is called?"
+}

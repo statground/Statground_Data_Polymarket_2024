@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255163",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:04:34.609000Z",
+  "market_createdAt": "2024-03-01T19:04:34.609Z",
+  "market_updatedAt": "2024-11-06T21:27:11.393198Z",
+  "market_startDate": "2024-03-28T19:42:03.397Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:44:16+00",
+  "conditionId": "0x6c0ddc17f6f525151e6d5175eae71ce884384893778bf2c5adcd15475564b578",
+  "slug": "will-a-candidate-from-another-party-win-rhode-island-presidential-election",
+  "question": "Will a candidate from another party win Rhode Island Presidential Election?"
+}

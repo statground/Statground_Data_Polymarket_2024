@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:37:54.957143Z",
+  "market_createdAt": "2024-04-15T20:37:54.957143Z",
+  "market_updatedAt": "2024-05-07T23:09:26.150817Z",
+  "market_startDate": "2024-04-16T16:50:36.518Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-02 08:06:44+00",
+  "conditionId": "0xbabfe9d98d5e25792bc5cd27cde44bdfa94200101163ff5e53d607a6db8c3e29",
+  "slug": "los-angeles-kings-win-the-2024-stanley-cup",
+  "question": "Los Angeles Kings win the 2024 Stanley Cup?"
+}

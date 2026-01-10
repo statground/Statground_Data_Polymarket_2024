@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T20:07:19.438340Z",
+  "market_createdAt": "2024-05-14T20:07:19.43834Z",
+  "market_updatedAt": "2024-06-02T01:31:14.301111Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:10:03+00",
+  "conditionId": "0xd5b54c596c447e171bafd462d14c32c5ee5c3a4bd73fbeabf3fbb2e2c83242d7",
+  "slug": "another-state-bans-lab-grown-meat-in-may",
+  "question": "Another state bans lab-grown meat in May?"
+}

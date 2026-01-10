@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514045",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T23:28:57.933421Z",
+  "market_createdAt": "2024-11-25T23:28:57.933421Z",
+  "market_updatedAt": "2024-11-27T14:21:44.102913Z",
+  "market_startDate": "2024-11-25T23:46:39.299Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-26 14:19:19+00",
+  "conditionId": "0x419fa91a8bf1146301f562eb92d0afbeb5a71d88b9f5e0d92c93e9c570cf7128",
+  "slug": "world-chess-championship-game-2",
+  "question": "World Chess Championship - Game 2"
+}

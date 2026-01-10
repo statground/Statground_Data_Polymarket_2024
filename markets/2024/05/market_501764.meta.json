@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:18:53.099057Z",
+  "market_createdAt": "2024-05-22T16:18:53.099057Z",
+  "market_updatedAt": "2024-07-05T18:28:58.990626Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:27:30+00",
+  "conditionId": "0x8ce108abb02936b3a5b76a80d0eb7192586189cfd75dd5d254ecf2828260fdb1",
+  "slug": "will-priti-patel-be-next-uk-prime-minister",
+  "question": "Will Priti Patel be next UK prime minister?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:57:13.853164Z",
+  "market_createdAt": "2024-07-08T16:57:13.853164Z",
+  "market_updatedAt": "2024-07-12T00:16:46.375134Z",
+  "market_startDate": "2024-07-08T17:25:23.7Z",
+  "market_endDate": "2024-07-10T12:00:00Z",
+  "market_closedTime": "2024-07-11 03:24:01.320142+00",
+  "conditionId": "0x96189971bfd6342ca85ddecb000a2187f1c2f2c431fc08cf9a8998f6b15eeefd",
+  "slug": "will-the-match-be-a-draw-netherlands-england",
+  "question": "Will the match be a draw?"
+}

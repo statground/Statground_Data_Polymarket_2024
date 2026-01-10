@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T22:08:57.877755Z",
+  "market_createdAt": "2024-09-13T22:08:57.877755Z",
+  "market_updatedAt": "2024-09-16T16:42:40.638308Z",
+  "market_startDate": "2024-09-13T22:33:19.282665Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:14:01+00",
+  "conditionId": "0x35d1bba941ce44fa208217028acc4dbac1b3f83b91a72390180cc7e94fc87213",
+  "slug": "will-there-be-44-or-more-combined-points-scored-wash-nyg",
+  "question": "Will there be 44 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507797",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:26:38.910041Z",
+  "market_createdAt": "2024-09-23T20:26:38.910041Z",
+  "market_updatedAt": "2024-10-01T23:46:53.329018Z",
+  "market_startDate": "2024-09-24T01:29:35.802288Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 00:11:16+00",
+  "conditionId": "0x66d4f920af473f2e7b8e7f95bf3dea6802bfa44ab4982ce3023f069bb7ba28b4",
+  "slug": "will-bournemouth-beat-southampton",
+  "question": "Will Bournemouth beat Southampton?"
+}

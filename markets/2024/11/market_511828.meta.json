@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:53:46.987841Z",
+  "market_createdAt": "2024-11-02T21:53:46.987841Z",
+  "market_updatedAt": "2024-11-05T05:21:16.118497Z",
+  "market_startDate": "2024-11-02T23:23:03.678Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:15:57+00",
+  "conditionId": "0xe8ab98f2e936f82c39d6b52b8302a2ee4808b474cc60b096b0f24e9044dabd07",
+  "slug": "will-trump-say-kamala-25-or-more-times-during-macon-ga-rally",
+  "question": "Will Trump say \"Kamala\" 25 or more times during Macon, GA rally?"
+}

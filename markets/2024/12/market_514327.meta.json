@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514327",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:01:04.271380Z",
+  "market_createdAt": "2024-12-01T06:01:04.27138Z",
+  "market_updatedAt": "2024-12-09T23:11:17.979441Z",
+  "market_startDate": "2024-12-01T06:04:36.638119Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:11:23+00",
+  "conditionId": "0x95ab5756b943bf8146f588e462877ccf03e5364ac564a9601470760234b5bff2",
+  "slug": "nfl-car-phi-2024-12-08",
+  "question": "Panthers vs. Eagles"
+}

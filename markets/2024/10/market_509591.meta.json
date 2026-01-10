@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:00:06.596059Z",
+  "market_createdAt": "2024-10-11T15:00:06.596059Z",
+  "market_updatedAt": "2024-10-13T03:26:39.418843Z",
+  "market_startDate": "2024-10-11T18:45:55.817669Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 05:36:52+00",
+  "conditionId": "0x959d486540666bcc584791a647548527a8aad45fe0ac7e4663c6a2a4d244dd33",
+  "slug": "will-maryland-beat-northwestern",
+  "question": "Will Maryland beat Northwestern?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T17:55:43.851772Z",
+  "market_createdAt": "2024-04-18T17:55:43.851772Z",
+  "market_updatedAt": "2024-05-27T21:14:20.199413Z",
+  "market_startDate": "2024-04-18T19:00:04.441Z",
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-05-27 00:16:57+00",
+  "conditionId": "0x9b602ecbe834311041642c20f3eb9bd93a288c7bf709c5ec12045d43f0f48d26",
+  "slug": "taylor-swift-1-album-for-4-weeks",
+  "question": "Taylor Swift #1 album for 4 weeks?"
+}

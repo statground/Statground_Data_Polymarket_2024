@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:45:36.987804Z",
+  "market_createdAt": "2024-11-11T18:45:36.987804Z",
+  "market_updatedAt": "2025-01-21T06:19:00.40862Z",
+  "market_startDate": "2024-11-11T21:56:49.8306Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:02:12+00",
+  "conditionId": "0x5bfeb95e1197817ad38e723e15a0b62dfaa5fca3664106acc93f6d01cc91f0a2",
+  "slug": "will-biden-resign-before-inauguration",
+  "question": "Will Biden resign before inauguration?"
+}

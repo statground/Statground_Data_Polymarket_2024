@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:33:33.566941Z",
+  "market_createdAt": "2024-12-09T19:33:33.566941Z",
+  "market_updatedAt": "2024-12-21T23:00:56.663547Z",
+  "market_startDate": "2024-12-09T19:42:23.117Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-21 00:22:07+00",
+  "conditionId": "0x3e112c97d857d9b2de646589c3b5a11a10639031ba387741dc18783bbf5a58c3",
+  "slug": "fact-check-did-brian-thompson-perp-use-3d-printed-gun",
+  "question": "Fact check: Did Luigi Mangione use 3D printed gun?"
+}

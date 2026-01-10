@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T20:58:23.848334Z",
+  "market_createdAt": "2024-05-01T20:58:23.848334Z",
+  "market_updatedAt": "2024-05-07T23:09:19.597423Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-06 17:49:28+00",
+  "conditionId": "0xd2c3d91484e13f81c007d5002c208cf7830009ab95e66de3383e2b5fbcd549a6",
+  "slug": "will-nyu-be-the-next-university-to-cancel-commencement",
+  "question": "Will NYU be the next university to cancel commencement?"
+}

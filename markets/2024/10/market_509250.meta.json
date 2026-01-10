@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:38:55.940087Z",
+  "market_createdAt": "2024-10-08T16:38:55.940087Z",
+  "market_updatedAt": "2024-10-11T09:50:53.56901Z",
+  "market_startDate": "2024-10-08T17:17:34.942585Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:27:22+00",
+  "conditionId": "0x6d2cef19109f4ce67aae5901e1d4cafea424485f4d33f4b523faa397c8eab604",
+  "slug": "will-anne-carson-win-the-nobel-prize-in-literature",
+  "question": "Will Anne Carson win the Nobel prize in literature?"
+}

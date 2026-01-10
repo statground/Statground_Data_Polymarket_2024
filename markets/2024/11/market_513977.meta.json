@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:04:10.121776Z",
+  "market_createdAt": "2024-11-25T19:04:10.121776Z",
+  "market_updatedAt": "2024-12-20T21:54:57.884845Z",
+  "market_startDate": "2024-11-25T22:11:32.302Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:08:07+00",
+  "conditionId": "0x89b9ef892ca41292b4159468375c779bd7ca456a4606ed6314eca75c7afaa8fb",
+  "slug": "will-neiro-be-listed-first-on-robinhood",
+  "question": "Will $NEIRO be listed first on Robinhood?"
+}

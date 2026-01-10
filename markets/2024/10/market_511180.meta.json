@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:12:38.796457Z",
+  "market_createdAt": "2024-10-28T20:12:38.796457Z",
+  "market_updatedAt": "2024-11-04T23:43:12.583379Z",
+  "market_startDate": "2024-10-28T20:15:16.948741Z",
+  "market_endDate": "2024-11-03T18:00:00Z",
+  "market_closedTime": "2024-11-03 23:55:07+00",
+  "conditionId": "0x45fc777937f3b36150bdcac509ce74006ebf0b26916dc4a525d4ec83896f0ab5",
+  "slug": "nfl-ne-ten-2024-11-03",
+  "question": "Patriots vs. Titans"
+}

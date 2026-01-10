@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515168",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:20:41.043486Z",
+  "market_createdAt": "2024-12-09T20:20:41.043486Z",
+  "market_updatedAt": "2024-12-12T00:51:06.811008Z",
+  "market_startDate": "2024-12-09T23:36:21.970859Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:11:39+00",
+  "conditionId": "0xfe226c830cc2bc1651512d00334107428dd32ce3b805485fed270198878562b0",
+  "slug": "will-psg-beat-rb-salzburg",
+  "question": "Will Paris Saint-Germain beat RB Salzburg?"
+}

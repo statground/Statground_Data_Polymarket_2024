@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501991",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:48:44.080128Z",
+  "market_createdAt": "2024-05-31T21:48:44.080128Z",
+  "market_updatedAt": "2024-07-06T22:55:45.379466Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-06 00:54:57+00",
+  "conditionId": "0x2872724760317eef3a1c4aa18b64ed3bf633bbdb656ec1fd34fd65b876672c5a",
+  "slug": "will-portugal-win-the-2024-euros",
+  "question": "Will Portugal win the 2024 Euros?"
+}

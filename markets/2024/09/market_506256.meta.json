@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:37:41.828740Z",
+  "market_createdAt": "2024-09-03T04:37:41.82874Z",
+  "market_updatedAt": "2024-09-04T18:47:10.295005Z",
+  "market_startDate": "2024-09-03T05:41:56.378391Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 19:02:35+00",
+  "conditionId": "0x4691bf457dba17745703be395d67fbfd57d23020c98e0ff8690a82e4030aaf9c",
+  "slug": "will-trump-say-civil-warduring-lex-interview",
+  "question": "Will Trump say \"Civil war\" during Lex interview?"
+}

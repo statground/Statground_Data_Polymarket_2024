@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:54:42.814996Z",
+  "market_createdAt": "2024-07-18T18:54:42.814996Z",
+  "market_updatedAt": "2024-07-29T19:55:03.921545Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-28 23:18:23+00",
+  "conditionId": "0x5d3bd7274749e5223bac41997e4ead09245e453728692c4f4306e144ff008715",
+  "slug": "will-arno-kamminga-ned-win-gold-in-mens-100m-breaststroke",
+  "question": "Will Arno Kamminga (NED) win Gold in Men's 100m Breaststroke?"
+}

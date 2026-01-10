@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:23:42.142077Z",
+  "market_createdAt": "2024-11-07T20:23:42.142077Z",
+  "market_updatedAt": "2025-05-01T08:20:33.03119Z",
+  "market_startDate": "2024-11-07T20:26:54.597Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:03:11+00",
+  "conditionId": "0x7c753b012d53e4a70167ad6a41e0b909f269874c0297c6d383b1f1f3be505b51",
+  "slug": "will-trump-pardon-eric-adams-in-his-first-100-days",
+  "question": "Will Trump pardon Eric Adams in his first 100 days?"
+}

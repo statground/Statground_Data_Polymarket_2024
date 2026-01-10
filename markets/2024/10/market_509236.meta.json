@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T06:29:28.908386Z",
+  "market_createdAt": "2024-10-08T06:29:28.908386Z",
+  "market_updatedAt": "2024-11-30T09:13:15.282465Z",
+  "market_startDate": "2024-10-08T21:37:07.932Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 09:10:59+00",
+  "conditionId": "0x57013fd52a3b754711535398cde9a28516cefbf0a2215675234df55d17eabd6e",
+  "slug": "will-minnesota-be-the-closest-state",
+  "question": "Will Minnesota be the closest state?"
+}

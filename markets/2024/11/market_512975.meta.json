@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T19:26:57.493127Z",
+  "market_createdAt": "2024-11-13T19:26:57.493127Z",
+  "market_updatedAt": "2024-11-24T04:10:48.170788Z",
+  "market_startDate": "2024-11-14T16:39:23.009Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:50:01+00",
+  "conditionId": "0x021a85b36233b8ebb39dbf429c67f4319b43b0078618463fe91e1fb95c24262b",
+  "slug": "will-trump-nominate-joseph-gulfo-for-fda-commissioner",
+  "question": "Will Trump nominate Joseph Gulfo for FDA Commissioner?"
+}

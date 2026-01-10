@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:33:39.156853Z",
+  "market_createdAt": "2024-12-04T20:33:39.156853Z",
+  "market_updatedAt": "2024-12-07T02:23:20.752457Z",
+  "market_startDate": "2024-12-04T22:00:08.022Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 02:44:36+00",
+  "conditionId": "0xe44918bfc281ba90fd51163f97c828fb84a071b0f19b3714f1036709c4491ecc",
+  "slug": "will-tucker-say-west-5-or-more-times-during-lavrov-interview",
+  "question": "Will Tucker say \"West\" 5 or more times during Lavrov interview?"
+}

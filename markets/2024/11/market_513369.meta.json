@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:45:59.548957Z",
+  "market_createdAt": "2024-11-18T18:45:59.548957Z",
+  "market_updatedAt": "2024-12-07T06:25:09.707051Z",
+  "market_startDate": "2024-11-18T20:04:35.603Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:09:41+00",
+  "conditionId": "0x1b01848ccaa5751d3ed47ef09903f5c6f93b021b3befb0330b724085aafb6916",
+  "slug": "will-trump-say-venezuela-in-his-next-speech",
+  "question": "Will Trump say \"Venezuela\" in his next speech?"
+}

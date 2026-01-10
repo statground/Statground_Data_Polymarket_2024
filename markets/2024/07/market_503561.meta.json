@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:25:40.981923Z",
+  "market_createdAt": "2024-07-16T16:25:40.981923Z",
+  "market_updatedAt": "2024-07-22T16:56:35.739595Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:05:16+00",
+  "conditionId": "0xfd8400a46fbf1e04f137128cbf0170f816acacdc2b164c1d3d34175828b1ed65",
+  "slug": "will-another-golfer-win-the-british-open",
+  "question": "Will another golfer win the British Open?"
+}

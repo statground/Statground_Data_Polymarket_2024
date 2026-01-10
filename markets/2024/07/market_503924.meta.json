@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:17:02.768194Z",
+  "market_createdAt": "2024-07-19T18:17:02.768194Z",
+  "market_updatedAt": "2024-07-27T19:13:05.529422Z",
+  "market_startDate": "2024-07-19T18:38:31.776Z",
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-26 19:14:52+00",
+  "conditionId": "0x35c24b88177d7311d9ac084e47632e44a3ae6dad04de55768a5dbd5ea253f94a",
+  "slug": "will-elon-tweet-120-or-more-times-july-26",
+  "question": "Will Elon tweet 120 or more times?"
+}

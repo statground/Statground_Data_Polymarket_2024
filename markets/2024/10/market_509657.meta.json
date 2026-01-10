@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T16:10:38.187438Z",
+  "market_createdAt": "2024-10-11T16:10:38.187438Z",
+  "market_updatedAt": "2024-10-14T08:10:36.882601Z",
+  "market_startDate": "2024-10-11T19:14:43.73395Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 08:49:34+00",
+  "conditionId": "0x01d7999973452401529d72699cb8697a537b2621d3f33444b1aaf900ea923f5a",
+  "slug": "will-boise-st-beat-hawaii",
+  "question": "Will Boise St. beat Hawaii?"
+}

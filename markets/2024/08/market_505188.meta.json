@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:29:04.282373Z",
+  "market_createdAt": "2024-08-16T00:29:04.282373Z",
+  "market_updatedAt": "2024-08-19T00:26:56.847201Z",
+  "market_startDate": "2024-08-16T21:18:09.773Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 00:30:19+00",
+  "conditionId": "0x8b0f77a07bc049e63114a67f7cd95e91f7af787f9d358da48f1932d4db890e02",
+  "slug": "will-trump-say-gag-at-his-rally",
+  "question": "Will Trump say \"Gag\" at his rally?"
+}

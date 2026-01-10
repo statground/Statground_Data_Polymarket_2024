@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T21:20:36.199207Z",
+  "market_createdAt": "2024-03-17T21:20:36.199207Z",
+  "market_updatedAt": "2024-05-07T23:09:35.091556Z",
+  "market_startDate": "2024-03-17T21:21:53.382Z",
+  "market_endDate": "2024-03-22T07:00:00Z",
+  "market_closedTime": "2024-03-22 18:02:01+00",
+  "conditionId": "0xe632056902781a72d079f384fb0b80db53c88d21e7f0cb4a21b02322fbebcf59",
+  "slug": "eth-above-4000-on-friday",
+  "question": "ETH above $4,000 on Friday?"
+}

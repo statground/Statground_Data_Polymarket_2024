@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:44:35.872724Z",
+  "market_createdAt": "2024-11-11T20:44:35.872724Z",
+  "market_updatedAt": "2024-11-18T18:43:19.308447Z",
+  "market_startDate": "2024-11-12T01:09:51.762418Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 21:58:15+00",
+  "conditionId": "0x1fdf23d00f60173d3be3a4fb22233bed58ed45bc556ac8c3bfad272950b9a252",
+  "slug": "will-taylor-fritz-win-the-2024-nitto-atp-finals",
+  "question": "Will Taylor Fritz win the 2024 Nitto ATP Finals?"
+}

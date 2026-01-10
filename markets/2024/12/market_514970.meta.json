@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T19:12:50.329787Z",
+  "market_createdAt": "2024-12-06T19:12:50.329787Z",
+  "market_updatedAt": "2024-12-20T22:57:00.196354Z",
+  "market_startDate": "2024-12-13T23:20:05.715013Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2024-12-20 02:27:03+00",
+  "conditionId": "0x065aae9b93ba1507546d012f521d6dad9441930daac6957bdf2115af4b76a5af",
+  "slug": "will-michael-smith-win-the-2024-25-pdc-world-championship",
+  "question": "Will Michael Smith win the 2024-25 PDC World Championship?"
+}

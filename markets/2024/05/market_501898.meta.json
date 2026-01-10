@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T21:19:18.868771Z",
+  "market_createdAt": "2024-05-29T21:19:18.868771Z",
+  "market_updatedAt": "2024-07-01T23:45:57.040172Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 07:49:44+00",
+  "conditionId": "0x80d9e846edc6d0492c65931dfe71df1250b5d57d88f7dd94c40190e6d87cc395",
+  "slug": "will-trump-tweet-before-july",
+  "question": "Will Trump post 😹🫵 before July?"
+}

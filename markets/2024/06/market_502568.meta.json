@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T22:25:44.151281Z",
+  "market_createdAt": "2024-06-17T22:25:44.151281Z",
+  "market_updatedAt": "2024-07-10T20:55:49.328094Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-10 00:03:34+00",
+  "conditionId": "0xfe80cfd532f85f4a17e25673a2d8d7d6ae3dcb2e755dc9512ef6eea9c7e229e8",
+  "slug": "will-antoine-griezmann-be-euro-2024-top-scorer",
+  "question": "Will Antoine Griezmann be Euro 2024 top scorer?"
+}

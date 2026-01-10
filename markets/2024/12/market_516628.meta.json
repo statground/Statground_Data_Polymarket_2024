@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:08:51.251424Z",
+  "market_createdAt": "2024-12-29T05:08:51.251424Z",
+  "market_updatedAt": "2025-01-06T03:47:14.54537Z",
+  "market_startDate": "2024-12-29T05:11:14.333239Z",
+  "market_endDate": "2025-01-12T00:00:00Z",
+  "market_closedTime": "2025-01-05 04:54:39+00",
+  "conditionId": "0x31821d3deadfedd43772c70ac0d735c8a0890cbc7d132b57d28515d7f92ef24d",
+  "slug": "nba-min-det-2025-01-04",
+  "question": "Timberwolves vs. Pistons"
+}

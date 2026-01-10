@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:38:17.960259Z",
+  "market_createdAt": "2024-09-03T17:38:17.960259Z",
+  "market_updatedAt": "2024-09-12T04:13:03.641349Z",
+  "market_startDate": "2024-09-03T22:24:13.812Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:12:48+00",
+  "conditionId": "0x4378240374a1fea11c1bd4bd3fbfeb76b72db9478a6666bbf0df15664e31c16f",
+  "slug": "will-trump-say-border-czar-at-debate",
+  "question": "Will Trump say \"border czar\" at debate?"
+}

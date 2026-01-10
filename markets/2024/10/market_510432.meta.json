@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510432",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:15:27.227326Z",
+  "market_createdAt": "2024-10-21T22:15:27.227326Z",
+  "market_updatedAt": "2024-10-24T20:47:07.377871Z",
+  "market_startDate": "2024-10-22T00:58:06.798356Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:19:46+00",
+  "conditionId": "0x31b1b98862410e815278868753b366a8c8b8cdeb4c1cd90f4d21e46e648ff048",
+  "slug": "will-the-match-between-rb-leipzig-and-liverpool-end-in-a-draw",
+  "question": "Will the match between RB Leipzig and Liverpool end in a draw?"
+}

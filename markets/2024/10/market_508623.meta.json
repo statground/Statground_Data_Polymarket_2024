@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:36:27.291474Z",
+  "market_createdAt": "2024-10-01T20:36:27.291474Z",
+  "market_updatedAt": "2024-10-21T02:02:43.440062Z",
+  "market_startDate": "2024-10-01T21:12:36.063129Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:18:39+00",
+  "conditionId": "0x6dafdc97617a6451e0ba98565e0cb7c07cffd87ac80cab4a00462eb7aba4adbc",
+  "slug": "will-solana-reach-160-in-october",
+  "question": "Will Solana reach $160 in October? "
+}

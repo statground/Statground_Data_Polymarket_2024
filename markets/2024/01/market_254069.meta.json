@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254069",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T19:57:07.369000Z",
+  "market_createdAt": "2024-01-23T19:57:07.369Z",
+  "market_updatedAt": "2024-03-12T03:33:57.41Z",
+  "market_startDate": "2024-01-23T21:38:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:30:12+00",
+  "conditionId": "0x9ae978a8bc3b245e2db7776d102aaa3a7a1e9778e36b28a40bac56892fcd3c42",
+  "slug": "will-lily-gladstone-win-the-oscar-for-best-actress",
+  "question": "Will Lily Gladstone win the Oscar for Best Actress?"
+}

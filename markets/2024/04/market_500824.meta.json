@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T15:01:35.750304Z",
+  "market_createdAt": "2024-04-09T15:01:35.750304Z",
+  "market_updatedAt": "2024-05-07T23:09:46.676637Z",
+  "market_startDate": "2024-04-10T15:06:18.704Z",
+  "market_endDate": "2024-04-14T12:00:00Z",
+  "market_closedTime": "2024-04-15 02:17:11+00",
+  "conditionId": "0x894a5caabdd247c7b9c9b93c5e90fbe8edee719b0f8499b6bd70cffcc5a911ad",
+  "slug": "will-tiger-woods-win-the-2024-masters-tournament",
+  "question": "Will Tiger Woods win the 2024 Masters Tournament?"
+}

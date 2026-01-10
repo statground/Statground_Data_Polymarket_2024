@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T03:55:40.998651Z",
+  "market_createdAt": "2024-07-01T03:55:40.998651Z",
+  "market_updatedAt": "2024-07-02T19:35:48.495738Z",
+  "market_startDate": "2024-07-01T04:01:00.703Z",
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-01 19:55:24+00",
+  "conditionId": "0xaca57f9b413cb9911d2aa6a06e311f79f88e12819a5183c4bb850d474553f021",
+  "slug": "france-vs-belgium-who-will-advance",
+  "question": " France vs. Belgium - Who will advance? "
+}

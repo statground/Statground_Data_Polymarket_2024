@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-22T21:13:34.700467Z",
+  "market_createdAt": "2024-06-22T21:13:34.700467Z",
+  "market_updatedAt": "2024-06-24T21:06:15.17064Z",
+  "market_startDate": "2024-06-22T21:16:02.898Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:20:47+00",
+  "conditionId": "0x57badf7944e18e1cee11719268a5cc3610c441ed1a659189615a6cff80194f23",
+  "slug": "will-the-match-be-a-draw-soctland-hungary",
+  "question": "Will the match be a draw?"
+}

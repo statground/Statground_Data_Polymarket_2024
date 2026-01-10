@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:50:50.388902Z",
+  "market_createdAt": "2024-10-15T19:50:50.388902Z",
+  "market_updatedAt": "2024-10-21T02:06:37.528359Z",
+  "market_startDate": "2024-10-16T16:56:18.633861Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 02:59:44+00",
+  "conditionId": "0x80ab39f1741a7d134c8a7dbc23b1099e4b75bf276ebbea2390e59bc742f84032",
+  "slug": "johnson-vs-sumudaerji",
+  "question": "Johnson vs. Sumudaerji"
+}

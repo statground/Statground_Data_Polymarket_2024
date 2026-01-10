@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-10T21:33:37.129192Z",
+  "market_createdAt": "2024-08-10T21:33:37.129192Z",
+  "market_updatedAt": "2024-11-07T18:53:04.568943Z",
+  "market_startDate": "2024-08-10T21:33:37.129Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:41:22+00",
+  "conditionId": "0xab9e5e0621918f6d4d8cb0430cef4d16e8d964e8c10cda60fcb48673e1e8476f",
+  "slug": "will-kamala-harris-win-every-swing-state",
+  "question": "Will Kamala Harris win all 6 swing states?"
+}

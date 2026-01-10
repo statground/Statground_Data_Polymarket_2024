@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500870",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T19:06:34.993006Z",
+  "market_createdAt": "2024-04-10T19:06:34.993006Z",
+  "market_updatedAt": "2024-07-02T05:25:53.577725Z",
+  "market_startDate": "2024-04-10T20:16:03.392Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 08:09:18+00",
+  "conditionId": "0xa4638c9f6ce85c1b58b8dc67129fc00cce76d619d958d9e3bb49e880b1ec7083",
+  "slug": "foundation-airdrop-by-june-30",
+  "question": "Foundation airdrop by June 30?"
+}

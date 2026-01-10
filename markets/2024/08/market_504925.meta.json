@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:02:54.612022Z",
+  "market_createdAt": "2024-08-12T17:02:54.612022Z",
+  "market_updatedAt": "2024-08-19T02:06:56.892212Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 03:55:25+00",
+  "conditionId": "0xb6c45df45afa17cc21abd3af127d0540c4c51204342ae69eac432f0d178ae0cf",
+  "slug": "nfl-pit-buf-2024-08-17",
+  "question": "Steelers vs. Bills"
+}

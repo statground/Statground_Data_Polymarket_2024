@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:14:06.085387Z",
+  "market_createdAt": "2024-12-29T07:14:06.085387Z",
+  "market_updatedAt": "2025-01-06T06:33:21.525528Z",
+  "market_startDate": "2024-12-29T07:16:37.561486Z",
+  "market_endDate": "2025-01-12T02:00:00Z",
+  "market_closedTime": "2025-01-05 07:02:51+00",
+  "conditionId": "0x1481c16e615f000d5667746c90e17f2725242aa5d5248c1d555fd234d147e51d",
+  "slug": "nhl-tb-lak-2025-01-04",
+  "question": "Lightning vs. Kings"
+}

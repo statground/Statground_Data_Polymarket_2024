@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:15:51.343484Z",
+  "market_createdAt": "2024-11-24T18:15:51.343484Z",
+  "market_updatedAt": "2024-12-02T15:53:26.827201Z",
+  "market_startDate": "2024-11-24T18:18:54.191237Z",
+  "market_endDate": "2024-12-01T13:30:00Z",
+  "market_closedTime": "2024-12-01 18:43:45+00",
+  "conditionId": "0x0b4f30c5d28c1deb3c0804b089b4d7a300f323b738fc0814276a2f44b761e1e1",
+  "slug": "epl-che-ast-2024-12-01-draw",
+  "question": "Will Chelsea vs. Aston Villa end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511061",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T22:42:39.515904Z",
+  "market_createdAt": "2024-10-27T22:42:39.515904Z",
+  "market_updatedAt": "2024-11-11T01:30:01.563708Z",
+  "market_startDate": "2024-10-28T16:09:34.96842Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 01:27:00+00",
+  "conditionId": "0xd573632a29b4b0307614904a5b744beaf3ba2b101cab8ad2eacddaeaee9af911",
+  "slug": "will-538-call-45-states-correctly",
+  "question": "Will 538 call 45 states correctly?"
+}

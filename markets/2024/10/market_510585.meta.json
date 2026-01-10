@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:49:36.439398Z",
+  "market_createdAt": "2024-10-22T16:49:36.439398Z",
+  "market_updatedAt": "2024-10-25T19:57:15.212031Z",
+  "market_startDate": "2024-10-22T21:18:03.35802Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:18:04+00",
+  "conditionId": "0x1348d9c18c4bfd8a1fdb459d4d3824cc609065d80f72f087326c749d9de5d57e",
+  "slug": "will-hoffenheim-beat-porto",
+  "question": "Will Hoffenheim beat Porto?"
+}

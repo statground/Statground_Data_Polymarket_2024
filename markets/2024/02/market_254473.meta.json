@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254473",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T21:34:44.857000Z",
+  "market_createdAt": "2024-02-14T21:34:44.857Z",
+  "market_updatedAt": "2024-03-03T08:33:35.29Z",
+  "market_startDate": "2024-02-14T21:59:00Z",
+  "market_endDate": "2024-02-27T00:00:00Z",
+  "market_closedTime": "2024-03-03 08:30:51+00",
+  "conditionId": "0x1b980a85c0d0ed5cbd9c44c22cb72a4ddd8af01b59b2a99b396aad5b8daf41ab",
+  "slug": "will-the-crypto-market-cap-be-between-1pt9-trillion-and-2-trillion-on-march-1",
+  "question": "Will the crypto market cap be between 1.9 trillion and 2 trillion on March 1?"
+}

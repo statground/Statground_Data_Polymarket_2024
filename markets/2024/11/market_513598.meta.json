@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:06:40.702640Z",
+  "market_createdAt": "2024-11-20T22:06:40.70264Z",
+  "market_updatedAt": "2025-04-20T00:26:35.863867Z",
+  "market_startDate": "2024-11-20T22:36:57.046Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:18:25+00",
+  "conditionId": "0x0be2d653603cdc486162f6361b62896cee0ec6820386dca6c6ac47f91d787c5c",
+  "slug": "will-jake-paul-fight-conor-mcgregor-next",
+  "question": "Will Jake Paul fight Conor McGregor next?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:56:56.792135Z",
+  "market_createdAt": "2024-08-26T19:56:56.792135Z",
+  "market_updatedAt": "2024-09-01T18:23:02.707942Z",
+  "market_startDate": "2024-08-26T19:56:56.792135Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:07:16+00",
+  "conditionId": "0x05893fe83cfa17acf8144505497a6441797c5fe2a6b35b8f7efa5b4e298096c9",
+  "slug": "will-leicester-city-vs-aston-villa-end-in-a-draw",
+  "question": "Will Leicester City vs. Aston Villa end in a draw?"
+}

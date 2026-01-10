@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T20:57:08.449905Z",
+  "market_createdAt": "2024-06-17T20:57:08.449905Z",
+  "market_updatedAt": "2024-06-19T23:46:15.246879Z",
+  "market_startDate": "2024-06-17T21:18:52.816Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-06-19 02:09:37+00",
+  "conditionId": "0x5eb88d245e058095f94fc03a001b66be7c8c4a72c7e6073e49b2565d6ab36ff2",
+  "slug": "will-the-presidential-election-be-called-on-nov-4",
+  "question": "Will the Presidential election be called on Nov 4?"
+}

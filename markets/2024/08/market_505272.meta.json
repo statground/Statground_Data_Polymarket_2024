@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505272",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-17T22:13:26.469640Z",
+  "market_createdAt": "2024-08-17T22:13:26.46964Z",
+  "market_updatedAt": "2024-08-24T13:40:58.878593Z",
+  "market_startDate": "2024-08-17T23:30:59.407Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:22:43+00",
+  "conditionId": "0xaa895397b00a3cdfe851aecc131189c25d330048a74e2f8062761e74210c8fe3",
+  "slug": "trump-posts-100-or-more-times-on-x",
+  "question": "Trump posts 100 or more times on X?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T17:37:01.248633Z",
+  "market_createdAt": "2024-10-15T17:37:01.248633Z",
+  "market_updatedAt": "2024-10-17T17:36:46.509531Z",
+  "market_startDate": "2024-10-15T17:55:28.934938Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-16 18:12:03+00",
+  "conditionId": "0x69c4a8c04bc551e51eda4cc5c79cdf07956cf1fe1813de4544fa530a154d007e",
+  "slug": "will-trump-say-roe-or-wade-during-all-female-town-hall",
+  "question": "Will Trump say \"Roe\" or \"Wade\" during all female town hall?"
+}

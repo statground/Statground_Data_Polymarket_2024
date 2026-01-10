@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T22:36:10.510407Z",
+  "market_createdAt": "2024-10-16T22:36:10.510407Z",
+  "market_updatedAt": "2024-11-12T18:23:10.414814Z",
+  "market_startDate": "2024-10-17T22:44:14.169Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:49:10+00",
+  "conditionId": "0x0c030d2c004d18928065001ac973ef5ab44e70998ea1cf600501f719bbcb3076",
+  "slug": "will-trump-do-better-with-men-in-2024-than-2020",
+  "question": "Will Trump do better with men than in 2020 election?"
+}

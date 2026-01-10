@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T17:56:02.005000Z",
+  "market_createdAt": "2024-01-18T17:56:02.005Z",
+  "market_updatedAt": "2024-03-06T00:50:11.547Z",
+  "market_startDate": "2024-01-18T19:30:00Z",
+  "market_endDate": "2024-03-01T00:00:00Z",
+  "market_closedTime": "2024-03-05 03:48:52+00",
+  "conditionId": "0x4d293ab1b2f7b68c0eb7106e827f9210e54ebf007de7b15c6216ebc0eb95de42",
+  "slug": "will-dune-part-two-gross-under-70m-opening-weekend",
+  "question": "Will 'Dune: Part Two' gross under $70m opening weekend?"
+}

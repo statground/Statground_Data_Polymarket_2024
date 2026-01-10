@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T17:00:32.698759Z",
+  "market_createdAt": "2024-07-11T17:00:32.698759Z",
+  "market_updatedAt": "2024-08-05T03:46:58.364444Z",
+  "market_startDate": "2024-07-12T04:00:33.303Z",
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-04 04:30:10+00",
+  "conditionId": "0x3589ecdf5855745d466ea6985f87e11b60eb585066ba6c728367b2242d469a36",
+  "slug": "will-any-country-medal-for-the-first-time-in-paris-olympics",
+  "question": "Country gets medal for first time in Paris Olympics?"
+}

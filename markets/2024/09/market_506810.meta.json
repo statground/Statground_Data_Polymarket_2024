@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T03:34:07.307734Z",
+  "market_createdAt": "2024-09-11T03:34:07.307734Z",
+  "market_updatedAt": "2024-09-12T16:27:09.36358Z",
+  "market_startDate": "2024-09-11T04:12:20.039Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-11 16:21:53+00",
+  "conditionId": "0x71b01f9eee4eba783b6742c306058fd5f788894f6ebd9599884dad28df73af72",
+  "slug": "will-trump-claim-the-debate-was-rigged",
+  "question": "Will Trump claim the debate was \"rigged\"?"
+}

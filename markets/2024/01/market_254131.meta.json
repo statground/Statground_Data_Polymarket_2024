@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-26T02:00:18.997000Z",
+  "market_createdAt": "2024-01-26T02:00:18.997Z",
+  "market_updatedAt": "2024-02-05T20:13:53.296Z",
+  "market_startDate": "2024-01-26T17:01:00Z",
+  "market_endDate": "2024-02-02T00:00:00Z",
+  "market_closedTime": "2024-02-05 06:45:17+00",
+  "conditionId": "0xebcec8fbe15071622869a14e479b9a31e32551430bf234f2c369554c754b0c8c",
+  "slug": "grammys-2024-will-butterfly-by-jon-batiste-win-song-of-the-year",
+  "question": "GRAMMYs 2024: Will \"Butterfly\" by Jon Batiste win Song of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T18:09:53.736430Z",
+  "market_createdAt": "2024-09-26T18:09:53.73643Z",
+  "market_updatedAt": "2024-09-29T18:56:45.833481Z",
+  "market_startDate": "2024-09-27T15:56:25.868752Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 21:45:00+00",
+  "conditionId": "0x359d4aa9588cae0f7ae74e9bb61bea9874408e0066b50b78c4d76f28858075e9",
+  "slug": "will-michigan-beat-minnesota-by-10-or-more-points",
+  "question": "Will Michigan beat Minnesota by 10 or more points?"
+}

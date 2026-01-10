@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:39:49.042943Z",
+  "market_createdAt": "2024-11-07T20:39:49.042943Z",
+  "market_updatedAt": "2024-11-10T01:58:39.719678Z",
+  "market_startDate": "2024-11-07T22:58:11.415291Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-09 07:47:40+00",
+  "conditionId": "0x65644e1aaad30298243db980b24625b53ebbc0d5c2d7c4d3cb01ed573bc9b704",
+  "slug": "will-iowa-and-ucla-combine-for-45-or-more-points",
+  "question": "Will Iowa and UCLA combine for 45 or more points?"
+}

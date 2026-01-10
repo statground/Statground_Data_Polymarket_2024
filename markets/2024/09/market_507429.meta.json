@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:50:27.757574Z",
+  "market_createdAt": "2024-09-18T20:50:27.757574Z",
+  "market_updatedAt": "2024-11-17T09:55:13.333766Z",
+  "market_startDate": "2024-09-19T17:22:59.171557Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-16 10:00:38+00",
+  "conditionId": "0xd16710ea782cabed2336862882ded5774be2564e0ceb760dad42f4e730b08cbc",
+  "slug": "who-will-win-clark-county",
+  "question": "Who will win Clark county?"
+}

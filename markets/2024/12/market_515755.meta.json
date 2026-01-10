@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T17:13:41.458190Z",
+  "market_createdAt": "2024-12-16T17:13:41.45819Z",
+  "market_updatedAt": "2024-12-19T06:27:17.534234Z",
+  "market_startDate": "2024-12-16T18:42:38.21456Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-18 07:14:40+00",
+  "conditionId": "0x6282c5942bd77010eb7b3a08b598a681b407afed27f112aa73a1cf52952c1e91",
+  "slug": "nba-cup-final-thunder-vs-bucks",
+  "question": "NBA Cup Final: Thunder vs. Bucks"
+}

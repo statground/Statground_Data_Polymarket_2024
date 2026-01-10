@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T22:31:13.721192Z",
+  "market_createdAt": "2024-11-07T22:31:13.721192Z",
+  "market_updatedAt": "2024-11-16T16:19:01.140599Z",
+  "market_startDate": "2024-11-07T22:53:30.229Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 16:58:33+00",
+  "conditionId": "0x6ab85c2c207bb28c6fbaaa35f6437018a455486d2a9aab291ed609da0e057b6d",
+  "slug": "will-the-npp-win-the-most-seats-in-the-2024-sri-lankan-parliamentary-elections",
+  "question": "Will the NPP win the most seats in the 2024 Sri Lankan Parliamentary elections?"
+}

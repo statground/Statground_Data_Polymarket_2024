@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T20:00:13.564351Z",
+  "market_createdAt": "2024-09-20T20:00:13.564351Z",
+  "market_updatedAt": "2024-11-06T11:23:09.487767Z",
+  "market_startDate": "2024-09-20T20:08:15.002819Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 13:17:07+00",
+  "conditionId": "0x65621d4737e18fb9dc35863c9dfe59a8f29dad2751bd9dde3572806b8e4f09e6",
+  "slug": "will-nebraska-switch-to-winner-take-all",
+  "question": "Will Nebraska switch to winner-take-all?"
+}

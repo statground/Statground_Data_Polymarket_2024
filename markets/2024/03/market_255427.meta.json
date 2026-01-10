@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-11T19:03:43.714000Z",
+  "market_createdAt": "2024-03-11T19:03:43.714Z",
+  "market_updatedAt": "2024-05-07T23:10:01.120376Z",
+  "market_startDate": "2024-03-11T22:31:00Z",
+  "market_endDate": "2024-03-22T00:00:00Z",
+  "market_closedTime": "2024-03-28 04:47:49+00",
+  "conditionId": "0x602901d518b7b4c5d278493a16db3118aa5c0dc535c64f8295311218d87bd3a6",
+  "slug": "senegal-presidential-election-idrissa-seck-wins",
+  "question": "Senegal Presidential Election: Idrissa Seck wins?"
+}

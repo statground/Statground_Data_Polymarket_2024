@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:08:06.868126Z",
+  "market_createdAt": "2024-11-24T05:08:06.868126Z",
+  "market_updatedAt": "2024-12-01T20:57:33.359781Z",
+  "market_startDate": "2024-11-24T05:10:46.801001Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:56:07+00",
+  "conditionId": "0xbb6b6c85b2c492275a5fac30d7e6221288f7dc4d1c04bfd08dd33abcd11b86cb",
+  "slug": "cfb-conn-umass-2024-11-30",
+  "question": "UConn vs. Massachusetts"
+}

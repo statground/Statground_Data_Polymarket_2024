@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T18:28:49.777429Z",
+  "market_createdAt": "2024-10-22T18:28:49.777429Z",
+  "market_updatedAt": "2024-10-27T21:36:53.496151Z",
+  "market_startDate": "2024-10-22T21:25:10.974299Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 21:47:03+00",
+  "conditionId": "0xafd2802604aefb2b16441920317b65c2c03f778d169cc3526030b71e3f21f5fb",
+  "slug": "ankalaev-vs-rakic",
+  "question": "Ankalaev vs. Rakic"
+}

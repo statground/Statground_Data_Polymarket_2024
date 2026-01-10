@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:23:55.547536Z",
+  "market_createdAt": "2024-08-08T18:23:55.547536Z",
+  "market_updatedAt": "2024-12-09T20:39:12.942558Z",
+  "market_startDate": "2024-08-08T18:23:55.547536Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:57:28+00",
+  "conditionId": "0xc7e6d306687f1a85a19a13a606bde7557583f8ec1a0101489e255ae829e7cd6c",
+  "slug": "will-the-tennessee-titans-win-the-afc-south",
+  "question": "Will the Tennessee Titans win the AFC south?"
+}

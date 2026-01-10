@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:31:46.452273Z",
+  "market_createdAt": "2024-11-01T17:31:46.452273Z",
+  "market_updatedAt": "2024-11-04T01:41:02.61561Z",
+  "market_startDate": "2024-11-01T22:54:00.137291Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 02:49:33+00",
+  "conditionId": "0xd19fdde134d6c2e73d2580dcdade9bce75ede4abc613e56459d28b225f5a89bb",
+  "slug": "will-georgia-beat-spread-georgia",
+  "question": "Will Georgia beat Florida by 15 or more points?"
+}

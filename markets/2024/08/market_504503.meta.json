@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T20:30:42.239467Z",
+  "market_createdAt": "2024-08-02T20:30:42.239467Z",
+  "market_updatedAt": "2024-08-04T20:50:59.079688Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:51:48+00",
+  "conditionId": "0x4302bbb1b7eed4d1c673e9d11d3069e8f73d57f5b58326e46225b262a1a00ade",
+  "slug": "will-julien-alfred-lca-win-gold-in-100m-w",
+  "question": "Will Julien Alfred (LCA) win gold in 100m W?"
+}

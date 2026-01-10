@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:39:13.767590Z",
+  "market_createdAt": "2024-08-27T19:39:13.76759Z",
+  "market_updatedAt": "2024-08-29T21:41:12.585863Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:37:14+00",
+  "conditionId": "0xeaca1da5de9478aeb68fdaec166d88b9fff7363e3a633ee9df8d9c87323531a6",
+  "slug": "will-jd-vance-say-fentanyl-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"fentanyl\" during Pennsylvania rally?"
+}

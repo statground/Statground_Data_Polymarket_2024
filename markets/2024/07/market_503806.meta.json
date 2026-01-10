@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:56:10.839071Z",
+  "market_createdAt": "2024-07-18T20:56:10.839071Z",
+  "market_updatedAt": "2024-08-02T17:13:01.862192Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:56:50+00",
+  "conditionId": "0xadd24347a8646fdab86cb109f067468ad5cb5228900148927d5e60e8041d1843",
+  "slug": "will-chris-guiliano-usa-win-gold-in-mens-100m-freestyle",
+  "question": "Will Chris Guiliano (USA) win Gold in Men's 100m Freestyle?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:23:40.172258Z",
+  "market_createdAt": "2024-11-18T22:23:40.172258Z",
+  "market_updatedAt": "2024-11-21T02:10:59.646102Z",
+  "market_startDate": "2024-11-19T20:43:03.575028Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:54:23+00",
+  "conditionId": "0xc5009e005d7d2de53cddd6e3276357ec753ff7c9fb0aca6af589bdd125bff4d4",
+  "slug": "will-brazil-beat-uruguay",
+  "question": "Will Brazil beat Uruguay?"
+}

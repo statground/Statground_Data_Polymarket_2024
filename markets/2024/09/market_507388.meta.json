@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T23:20:12.190794Z",
+  "market_createdAt": "2024-09-17T23:20:12.190794Z",
+  "market_updatedAt": "2024-09-23T15:02:42.175158Z",
+  "market_startDate": "2024-09-18T03:29:54.408674Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 03:30:18+00",
+  "conditionId": "0x6ec7241d69f82c4bef15aef7fed788f5c36d85694a576de999ad09a067f3f497",
+  "slug": "will-lewis-hamilton-win-the-singapore-grand-prix",
+  "question": "Will Lewis Hamilton win the Singapore Grand Prix?"
+}

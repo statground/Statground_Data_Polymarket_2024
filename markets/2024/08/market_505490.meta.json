@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:38:31.317828Z",
+  "market_createdAt": "2024-08-21T01:38:31.317828Z",
+  "market_updatedAt": "2024-08-25T19:16:51.020866Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:17:02+00",
+  "conditionId": "0xd5c7f5bf1b5f77ce7ed34ab95e0d2e3e1c9feb18b3640e2b7ac256de0fcc885f",
+  "slug": "will-manchester-city-beat-ipswich-town",
+  "question": "Will Manchester City beat Ipswich Town?"
+}

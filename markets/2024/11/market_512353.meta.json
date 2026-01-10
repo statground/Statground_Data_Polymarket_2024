@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T15:45:43.449562Z",
+  "market_createdAt": "2024-11-08T15:45:43.449562Z",
+  "market_updatedAt": "2024-11-24T21:19:56.584085Z",
+  "market_startDate": "2024-11-15T19:17:46.269584Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:42:17+00",
+  "conditionId": "0xf0ddc28f57d5c4bc35425f4cf43244bc535064cbbd251613e5723f17526e9048",
+  "slug": "will-trump-nominate-cindy-hyde-smith-for-agriculture-secretary",
+  "question": "Will Trump nominate Cindy Hyde-Smith for Agriculture Secretary?"
+}

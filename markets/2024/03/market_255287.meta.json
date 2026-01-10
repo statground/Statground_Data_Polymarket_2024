@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:28:22.274000Z",
+  "market_createdAt": "2024-03-05T05:28:22.274Z",
+  "market_updatedAt": "2024-04-26T02:53:06.398105Z",
+  "market_startDate": "2024-03-05T06:03:34.602Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:31:54+00",
+  "conditionId": "0x04864dde0c59b195c4ae8146ca94f53010aa3bd88178684a2ff4fc5864e0fb5a",
+  "slug": "will-trump-win-maine-republican-primary",
+  "question": "Will Trump win Maine Republican Primary?"
+}

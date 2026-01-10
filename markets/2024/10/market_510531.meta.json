@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:09:41.899477Z",
+  "market_createdAt": "2024-10-22T15:09:41.899477Z",
+  "market_updatedAt": "2024-10-26T05:43:00.904474Z",
+  "market_startDate": "2024-10-22T21:42:18.202Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:03:03+00",
+  "conditionId": "0xa12622c330922a03f81fbb0cf7166fe231105c451d97d5286087912cbd17904b",
+  "slug": "will-trump-say-tax-30-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"tax\" 30 or more times during Las Vegas rally on October 24?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T18:29:28.278548Z",
+  "market_createdAt": "2024-10-08T18:29:28.278548Z",
+  "market_updatedAt": "2024-10-13T00:52:39.645909Z",
+  "market_startDate": "2024-10-09T15:31:38.823942Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 00:55:59+00",
+  "conditionId": "0x3ee52d2dbebb59db8b854094dd8c563e6f5f8ead0db3ccff8d4b70ecab383a76",
+  "slug": "will-trump-say-border-30-or-more-times-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"border\" 30 or more times during Colorado rally on October 11?"
+}

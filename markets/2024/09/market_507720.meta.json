@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:33:23.528262Z",
+  "market_createdAt": "2024-09-23T16:33:23.528262Z",
+  "market_updatedAt": "2024-09-25T18:32:47.821337Z",
+  "market_startDate": "2024-09-23T17:47:52.423Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 20:21:52+00",
+  "conditionId": "0x5ca42f91366549faf100d27430cb70bf1393331b4aa0037dbd80955fe7ecaac6",
+  "slug": "will-donald-trump-say-social-security-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"Social Security\" during his Georgia speech?"
+}

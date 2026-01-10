@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504070",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T14:48:32.558007Z",
+  "market_createdAt": "2024-07-25T14:48:32.558007Z",
+  "market_updatedAt": "2024-09-19T21:10:45.260802Z",
+  "market_startDate": "2024-08-02T20:44:00.334Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 21:24:56+00",
+  "conditionId": "0x70357debf15a956d82d8b2022aaf5f868763d1d0716d2c6e5ce35712e49a3b0f",
+  "slug": "fed-decreases-interest-rates-by-25-bps-after-september-2024-meeting",
+  "question": "Fed decreases interest rates by 25 bps after September 2024 meeting?"
+}

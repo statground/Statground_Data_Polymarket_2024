@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T20:48:22.562707Z",
+  "market_createdAt": "2024-05-01T20:48:22.562707Z",
+  "market_updatedAt": "2024-05-07T23:09:48.834262Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-06 17:54:20+00",
+  "conditionId": "0x31640557e7e72216017e0b19d93b35e3772ea982c914c55f1332a3344c5a24b5",
+  "slug": "will-harvard-be-the-next-university-to-cancel-commencement",
+  "question": "Will Harvard be the next university to cancel commencement?"
+}

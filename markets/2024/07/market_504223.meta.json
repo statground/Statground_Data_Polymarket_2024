@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T17:15:50.362378Z",
+  "market_createdAt": "2024-07-26T17:15:50.362378Z",
+  "market_updatedAt": "2024-08-06T00:02:25.109895Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 23:59:29+00",
+  "conditionId": "0x6bde7784b1ee44ad789d49eb4f25c5d0198ee0f00f7ab9bc25dc102ea75154ac",
+  "slug": "will-joshua-cheptegei-win-the-most-gold-medals",
+  "question": "Will Joshua Cheptegei win the most gold medals?"
+}

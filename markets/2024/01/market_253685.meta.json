@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:25:28.425000Z",
+  "market_createdAt": "2024-01-08T21:25:28.425Z",
+  "market_updatedAt": "2024-11-10T22:52:48.047361Z",
+  "market_startDate": "2024-01-10T01:43:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:47:41+00",
+  "conditionId": "0xba8ded3f29006bb62e05590ebe5e04dc24e129e5c9d01e66e2943def1f780806",
+  "slug": "2024-presidential-election-democrats-win-by-35-64",
+  "question": "2024 presidential election: Democrats win by 35-64"
+}

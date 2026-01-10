@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T20:48:49.582000Z",
+  "market_createdAt": "2024-02-21T20:48:49.582Z",
+  "market_updatedAt": "2024-11-23T02:38:52.397121Z",
+  "market_startDate": "2024-02-21T22:15:29.648Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-22 02:57:04+00",
+  "conditionId": "0x1b43e21dc696e34154ba0d0a9b351264a86d773bf381ffd0eb5d2124ee783b33",
+  "slug": "house-control-after-2024-election",
+  "question": "House control after 2024 election?"
+}

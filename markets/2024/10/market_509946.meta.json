@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:49:10.362666Z",
+  "market_createdAt": "2024-10-15T19:49:10.362666Z",
+  "market_updatedAt": "2024-10-21T04:22:50.394612Z",
+  "market_startDate": "2024-10-16T16:55:20.101631Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 04:20:51+00",
+  "conditionId": "0xa88e36259e8a7129787e9c7002fc5e2de0a44e2fee4ece95d154b9610e9f23bc",
+  "slug": "hernandez-vs-pereira",
+  "question": "Hernandez vs. Pereira"
+}

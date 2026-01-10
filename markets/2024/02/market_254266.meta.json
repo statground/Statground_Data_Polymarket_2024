@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-01T23:25:18.133000Z",
+  "market_createdAt": "2024-02-01T23:25:18.133Z",
+  "market_updatedAt": "2024-02-13T05:29:39.698Z",
+  "market_startDate": "2024-02-02T00:09:00Z",
+  "market_endDate": "2024-02-09T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:30:07+00",
+  "conditionId": "0xb7dabc480bae5609ef11cd105f0b5ec2dbb1b083e0af6c680211efd438fa3bdb",
+  "slug": "will-the-gatorade-shower-at-2024-super-bowl-be-yellowgreen",
+  "question": "Will the Gatorade shower at 2024 Super Bowl be yellow/green?"
+}

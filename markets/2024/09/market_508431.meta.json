@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:15:58.477533Z",
+  "market_createdAt": "2024-09-30T19:15:58.477533Z",
+  "market_updatedAt": "2024-11-02T06:17:09.768725Z",
+  "market_startDate": "2024-10-01T15:07:42.054764Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 08:20:07+00",
+  "conditionId": "0x3d316b02bc2ee0175e022c399ed2b5411f6bf38911c70a503b15e72b34a81e67",
+  "slug": "israel-military-action-against-yemen-before-november-2024",
+  "question": "Israel military action against Yemen before November?"
+}

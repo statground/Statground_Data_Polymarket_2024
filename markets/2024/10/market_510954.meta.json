@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:12:00.088472Z",
+  "market_createdAt": "2024-10-25T18:12:00.088472Z",
+  "market_updatedAt": "2024-10-27T20:56:52.437821Z",
+  "market_startDate": "2024-10-25T22:20:41.493708Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:20:26+00",
+  "conditionId": "0x11c31a51ac53103ceaf169f4bd9f6f768798f6540e51eaa1c79965b18e1aa5fa",
+  "slug": "will-oregon-beat-illinois",
+  "question": "Will Oregon beat Illinois?"
+}

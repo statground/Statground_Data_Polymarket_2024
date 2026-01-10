@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514462",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:28:18.390306Z",
+  "market_createdAt": "2024-12-02T19:28:18.390306Z",
+  "market_updatedAt": "2025-01-21T20:15:06.031281Z",
+  "market_startDate": "2024-12-02T19:33:13.971Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:09:37+00",
+  "conditionId": "0x6a248e9e979d3b94ee8555166df52c3bd42af298c3b2a035fa2765910852e506",
+  "slug": "will-biden-pardon-edward-snowden",
+  "question": "Will Biden pardon Edward Snowden?"
+}

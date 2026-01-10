@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T16:01:46.508509Z",
+  "market_createdAt": "2024-11-23T16:01:46.508509Z",
+  "market_updatedAt": "2024-11-25T00:43:46.861228Z",
+  "market_startDate": "2024-11-23T17:35:51.749428Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-24 02:02:47+00",
+  "conditionId": "0x0980ff93f139b9c555efb6409c0ecc9a147e9c61f7392b8fc3da00ca8a3af51f",
+  "slug": "kansas-vs-colorado",
+  "question": "Kansas vs Colorado"
+}

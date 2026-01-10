@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T20:04:50.096320Z",
+  "market_createdAt": "2024-04-02T20:04:50.09632Z",
+  "market_updatedAt": "2024-11-15T01:37:04.914175Z",
+  "market_startDate": "2024-04-24T19:25:02.314Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 07:04:54+00",
+  "conditionId": "0xbee3dba85ba4622e2e1c215adcbdc8f012dc59f904c52ac539db7ad26b20b6d3",
+  "slug": "2024-election-democratic-presidency-and-house-republican-senate",
+  "question": "2024 Balance of Power: D Prez, R Senate, D House"
+}

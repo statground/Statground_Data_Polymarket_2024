@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T21:17:47.908121Z",
+  "market_createdAt": "2024-10-29T21:17:47.908121Z",
+  "market_updatedAt": "2024-12-17T22:35:26.251032Z",
+  "market_startDate": "2024-10-29T22:02:59.667056Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-17 22:32:29+00",
+  "conditionId": "0x5d7aae2086ed7e3ea82b65f5d8ed17ac4fa241c92a0a167bee0b356ae498f802",
+  "slug": "will-trump-get-less-than-68m-votes-in-the-2024-us-presidential-election",
+  "question": "Will Kamala Harris get less than 68m votes in the 2024 U.S. Presidential Election?"
+}

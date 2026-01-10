@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T15:46:04.296161Z",
+  "market_createdAt": "2024-11-08T15:46:04.296161Z",
+  "market_updatedAt": "2024-11-24T21:19:56.008546Z",
+  "market_startDate": "2024-11-16T22:21:19.706521Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:41:51+00",
+  "conditionId": "0x45af7cbf55c17e8d08c1045d96675478cb5a153b5f5039abe409f3ebc2600a02",
+  "slug": "will-trump-nominate-charles-herbster-for-agriculture-secretary",
+  "question": "Will Trump nominate Charles Herbster for Agriculture Secretary?"
+}

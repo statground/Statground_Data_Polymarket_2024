@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:24:22.972092Z",
+  "market_createdAt": "2024-07-18T19:24:22.972092Z",
+  "market_updatedAt": "2024-07-30T02:43:05.83146Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:57:20+00",
+  "conditionId": "0x770ac905aa8f94021e1c7a843e564b46a780d7caf1818f4ab6adf4da055d2a69",
+  "slug": "will-emma-webber-usa-win-gold-in-womens-100m-breaststroke",
+  "question": "Will Emma Webber (USA) win Gold in Women's 100m Breaststroke?"
+}

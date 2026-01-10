@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255275",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T01:38:41.185000Z",
+  "market_createdAt": "2024-03-05T01:38:41.185Z",
+  "market_updatedAt": "2024-04-22T22:38:29.496082Z",
+  "market_startDate": "2024-03-06T19:22:13.226Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 04:45:44+00",
+  "conditionId": "0x95d9cdb850874733647ec418ef0a871979708ef3221e2db80c8295682c965e74",
+  "slug": "will-biden-say-putin-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"Putin\" during his State of the Union address?"
+}

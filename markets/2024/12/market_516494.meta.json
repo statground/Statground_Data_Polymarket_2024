@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T15:55:55.283577Z",
+  "market_createdAt": "2024-12-27T15:55:55.283577Z",
+  "market_updatedAt": "2024-12-27T22:31:02.538764Z",
+  "market_startDate": "2024-12-27T16:20:55.38463Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 22:28:04+00",
+  "conditionId": "0x57601d33191035d79986c3beff98221c30cbe1ad09d00144e496f76cd2c8be99",
+  "slug": "will-oklahoma-beat-navy-by-2-or-more-points",
+  "question": "Will Oklahoma beat Navy by 2 or more points?"
+}

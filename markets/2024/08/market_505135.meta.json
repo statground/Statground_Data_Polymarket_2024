@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:39:49.716199Z",
+  "market_createdAt": "2024-08-14T21:39:49.716199Z",
+  "market_updatedAt": "2024-08-19T21:31:03.165686Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-19 01:22:35+00",
+  "conditionId": "0x5c6645fb77f6a9f0d9f46ca064a185be677f86e846c9e6d4ce1abd2aadefab04",
+  "slug": "will-patrick-reed-win-the-2024-liv-greenbrier-tournament",
+  "question": "Will Patrick Reed win the 2024 LIV Greenbrier Tournament?"
+}

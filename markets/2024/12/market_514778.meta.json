@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514778",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:14:26.238640Z",
+  "market_createdAt": "2024-12-04T21:14:26.23864Z",
+  "market_updatedAt": "2024-12-09T04:09:32.028021Z",
+  "market_startDate": "2024-12-04T21:17:48.646579Z",
+  "market_endDate": "2024-12-14T23:00:00Z",
+  "market_closedTime": "2024-12-08 04:05:03+00",
+  "conditionId": "0x38b387bc2b35ebe2e55d422f62b0804834046e4fdf8bacde12e83e6e32e0007f",
+  "slug": "nhl-sj-fla-2024-12-07",
+  "question": "Sharks vs. Panthers"
+}

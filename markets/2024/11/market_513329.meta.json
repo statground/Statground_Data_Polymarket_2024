@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:03:43.723229Z",
+  "market_createdAt": "2024-11-18T05:03:43.723229Z",
+  "market_updatedAt": "2024-11-26T02:19:43.435744Z",
+  "market_startDate": "2024-11-18T05:06:04.682818Z",
+  "market_endDate": "2024-12-01T21:25:00Z",
+  "market_closedTime": "2024-11-25 02:25:33+00",
+  "conditionId": "0xc8ea9a0cc7d4f014df9943e95559501ae398131a9dc5bdb113513a20a9825374",
+  "slug": "nfl-ari-sea-2024-11-24",
+  "question": "Cardinals vs. Seahawks"
+}

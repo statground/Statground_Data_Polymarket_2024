@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-09T21:15:04.103765Z",
+  "market_createdAt": "2024-11-09T21:15:04.103765Z",
+  "market_updatedAt": "2025-08-01T16:51:48.01371Z",
+  "market_startDate": "2024-11-10T00:05:44.363Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-08-01 08:50:40+00",
+  "conditionId": "0x290e8e125c5f8523f21500cc59c186f2c23762da51eec212c9dd956e5dabae3b",
+  "slug": "will-trump-repeal-presidential-term-limits",
+  "question": "Will Trump repeal Presidential term limits?"
+}

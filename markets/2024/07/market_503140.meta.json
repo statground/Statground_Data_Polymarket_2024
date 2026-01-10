@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503140",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T19:39:11.587465Z",
+  "market_createdAt": "2024-07-02T19:39:11.587465Z",
+  "market_updatedAt": "2024-07-16T05:54:50.309411Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 06:42:35+00",
+  "conditionId": "0xe3c44752315e44c3530660470f1e68cc6639391f9b9d4497d09377de3a17afda",
+  "slug": "will-biden-still-have-a-cold-next-week",
+  "question": "Will Biden still have a cold next week?"
+}

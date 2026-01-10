@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T05:03:48.959650Z",
+  "market_createdAt": "2024-12-15T05:03:48.95965Z",
+  "market_updatedAt": "2024-12-23T06:06:13.104811Z",
+  "market_startDate": "2024-12-15T05:06:24.154539Z",
+  "market_endDate": "2024-12-29T02:00:00Z",
+  "market_closedTime": "2024-12-22 06:34:26+00",
+  "conditionId": "0x0121522a8f80065813d079af7eae93e347937bfade894e1c021097b17d30e531",
+  "slug": "nba-det-phx-2024-12-21",
+  "question": "Pistons vs. Suns"
+}

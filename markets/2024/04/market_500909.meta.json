@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T20:55:31.248612Z",
+  "market_createdAt": "2024-04-11T20:55:31.248612Z",
+  "market_updatedAt": "2024-05-07T23:09:52.62209Z",
+  "market_startDate": "2024-04-11T21:19:50.062Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-19 23:07:05+00",
+  "conditionId": "0x33024d86944cb360f3ebca57e22ecd0c3ac516677f34ba4a0342229b3ffb4f17",
+  "slug": "will-ansem-ko-barney",
+  "question": "Will Ansem KO Barney?"
+}

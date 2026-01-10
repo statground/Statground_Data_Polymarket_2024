@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516460",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T16:48:52.748427Z",
+  "market_createdAt": "2024-12-26T16:48:52.748427Z",
+  "market_updatedAt": "2024-12-28T04:11:20.005939Z",
+  "market_startDate": "2024-12-26T18:02:17.879447Z",
+  "market_endDate": "2024-12-26T12:00:00Z",
+  "market_closedTime": "2024-12-27 06:19:27+00",
+  "conditionId": "0x1a7849d27edb3879dac41a21d2b2035ca5fb966470db003d9ce9d8bab2b852b9",
+  "slug": "will-the-seahawks-beat-the-bears-by-4-or-more-points",
+  "question": "Will the Seahawks beat the Bears by 4 or more points?"
+}

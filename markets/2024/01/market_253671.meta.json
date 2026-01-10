@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253671",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T20:23:55.778000Z",
+  "market_createdAt": "2024-01-08T20:23:55.778Z",
+  "market_updatedAt": "2024-01-16T11:48:49.786Z",
+  "market_startDate": "2024-01-09T00:29:20.841Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-16 11:45:34+00",
+  "conditionId": "0xdd9416a1ca64e689cd0787a801176885f65219a6c3cccb7faa0af66be6e1ce75",
+  "slug": "will-another-candidate-win-the-2024-republican-iowa-caucus",
+  "question": "Will another candidate win the 2024 Republican Iowa Caucus?"
+}

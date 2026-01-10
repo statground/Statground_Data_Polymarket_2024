@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504726",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T16:25:12.053322Z",
+  "market_createdAt": "2024-08-08T16:25:12.053322Z",
+  "market_updatedAt": "2024-09-02T06:46:59.473123Z",
+  "market_startDate": "2024-08-08T16:25:12.053322Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 06:49:23+00",
+  "conditionId": "0x39bcda5ab563e2b4e306224015e6bfa43e52b47615074d569ee45c5259b3bfbd",
+  "slug": "carles-puigdemont-arrested-in-august",
+  "question": "Carles Puigdemont arrested in August?"
+}

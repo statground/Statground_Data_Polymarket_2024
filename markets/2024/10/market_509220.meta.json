@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T01:29:38.325911Z",
+  "market_createdAt": "2024-10-08T01:29:38.325911Z",
+  "market_updatedAt": "2024-12-18T21:35:25.137098Z",
+  "market_startDate": "2024-10-08T18:01:31.041589Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-17 23:19:21+00",
+  "conditionId": "0xc51daa1f18bea47b204cca742892884941350dd065e5110a2c82b63adcb0da46",
+  "slug": "will-jill-stein-get-1-of-the-popular-vote",
+  "question": "Will Jill Stein get >1% of the popular vote?"
+}

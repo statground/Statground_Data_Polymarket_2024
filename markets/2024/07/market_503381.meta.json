@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T21:09:40.522017Z",
+  "market_createdAt": "2024-07-10T21:09:40.522017Z",
+  "market_updatedAt": "2024-07-15T23:14:48.631568Z",
+  "market_startDate": "2024-07-11T17:54:24.135Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:11:54+00",
+  "conditionId": "0xe25eeab19a443c49ee1d5251c57bec3f17929e5b7ac82ac14bc0fa0f54d97276",
+  "slug": "euro-finals-spain-vs-england",
+  "question": "Euro Finals: Spain vs. England"
+}

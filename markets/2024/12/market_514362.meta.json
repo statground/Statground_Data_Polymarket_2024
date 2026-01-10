@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T05:02:04.253391Z",
+  "market_createdAt": "2024-12-02T05:02:04.253391Z",
+  "market_updatedAt": "2024-12-09T07:03:09.434482Z",
+  "market_startDate": "2024-12-02T05:05:43.036954Z",
+  "market_endDate": "2024-12-15T01:00:00Z",
+  "market_closedTime": "2024-12-08 07:05:06+00",
+  "conditionId": "0xe272265d70f62c24ef619898f0f57d0a7fc75f05daa11335e47c31cf7c403a87",
+  "slug": "cfb-clem-smu-2024-12-07",
+  "question": "Clemson vs. SMU"
+}

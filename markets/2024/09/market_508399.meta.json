@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T16:32:38.885223Z",
+  "market_createdAt": "2024-09-30T16:32:38.885223Z",
+  "market_updatedAt": "2024-10-03T09:02:39.332172Z",
+  "market_startDate": "2024-09-30T16:46:06.764Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 09:07:16+00",
+  "conditionId": "0x674250fe1d8a641bf2e4d69232f8c7758c6d30c8180c953b5ed9f41ac814f902",
+  "slug": "will-jd-vance-say-trump-30-or-more-times-during-the-debate",
+  "question": "Will JD Vance say \"Trump\" 30 or more times during the debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508989",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T20:59:35.390661Z",
+  "market_createdAt": "2024-10-04T20:59:35.390661Z",
+  "market_updatedAt": "2024-10-07T22:26:41.981601Z",
+  "market_startDate": "2024-10-04T22:16:43.302601Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:26:40+00",
+  "conditionId": "0x75f1ac1082e6c34bbc75937b794abde6efb5358c3dfc7dec2db3628b67ae026b",
+  "slug": "will-trump-say-kamala-20-or-more-times-during-wisconsin-rally",
+  "question": "Will Trump say \"Kamala\" 20 or more times during Wisconsin rally?"
+}

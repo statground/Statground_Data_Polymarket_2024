@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T16:50:24.661560Z",
+  "market_createdAt": "2024-12-26T16:50:24.66156Z",
+  "market_updatedAt": "2024-12-28T03:31:14.070429Z",
+  "market_startDate": "2024-12-26T18:02:28.016401Z",
+  "market_endDate": "2024-12-26T12:00:00Z",
+  "market_closedTime": "2024-12-27 05:59:23+00",
+  "conditionId": "0x03108f8c77326ef66082d33bd29a628010865e4c2a0760ebe1a567e9167c25df",
+  "slug": "will-the-seahawks-and-bears-combine-for-42-or-more-points",
+  "question": "Will the Seahawks and Bears combine for 42 or more points?"
+}

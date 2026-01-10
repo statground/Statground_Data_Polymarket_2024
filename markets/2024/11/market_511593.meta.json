@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511593",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:06:25.490372Z",
+  "market_createdAt": "2024-11-01T16:06:25.490372Z",
+  "market_updatedAt": "2024-11-03T04:57:04.058733Z",
+  "market_startDate": "2024-11-01T16:08:59.33576Z",
+  "market_endDate": "2024-11-02T02:00:00Z",
+  "market_closedTime": "2024-11-02 07:10:26+00",
+  "conditionId": "0xb13c955d17d3eabfce98e7264a667f333b3165458b51e1d9abd38ac5eac78609",
+  "slug": "nba-okc-por-2024-11-01",
+  "question": "Thunder vs. Trail Blazers"
+}

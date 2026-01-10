@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:49:20.943738Z",
+  "market_createdAt": "2024-07-18T17:49:20.943738Z",
+  "market_updatedAt": "2024-07-30T13:49:04.300191Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:56:48+00",
+  "conditionId": "0x4c3f1f9d8d6b7d0c4c3e4f5cab47b565f96774ad2e8a7bf8d0a8f89d46c1e8cb",
+  "slug": "will-hugo-gonzalez-esp-win-gold-in-mens-100m-backstroke",
+  "question": "Will Hugo Gonzalez (ESP) win Gold in Men's 100m Backstroke?"
+}

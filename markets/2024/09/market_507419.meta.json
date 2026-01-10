@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T18:17:39.371819Z",
+  "market_createdAt": "2024-09-18T18:17:39.371819Z",
+  "market_updatedAt": "2024-12-19T22:13:20.779282Z",
+  "market_startDate": "2024-09-18T18:22:55.051895Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 22:29:58+00",
+  "conditionId": "0x3a5d8047acd8aa377956e65bd40bfafd47ff6d528559b22530fb3822bc1afbbe",
+  "slug": "will-the-fed-change-rates-to-another-level-after-december-meeting",
+  "question": "Will the FED change rates to another level after December meeting?"
+}

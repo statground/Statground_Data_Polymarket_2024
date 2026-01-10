@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T16:57:29.711314Z",
+  "market_createdAt": "2024-07-12T16:57:29.711314Z",
+  "market_updatedAt": "2024-07-20T17:14:41.362866Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-19T12:00:00Z",
+  "market_closedTime": "2024-07-19 18:04:16+00",
+  "conditionId": "0xb66e97bfd3326ac2e9112299cc7e63a0433cfb74d4cd4e540f9c24d20d324938",
+  "slug": "ethereum-above-3100-on-july-19",
+  "question": "Ethereum above $3,100 on July 19?"
+}

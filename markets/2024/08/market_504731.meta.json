@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T16:58:29.178094Z",
+  "market_createdAt": "2024-08-08T16:58:29.178094Z",
+  "market_updatedAt": "2024-12-16T22:52:36.199965Z",
+  "market_startDate": "2024-08-08T16:58:29.178094Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-16 00:54:40+00",
+  "conditionId": "0x42ccca5e843d2c6869a965f267933ccae7c18d05d4ddbebdf2f6154697c0aeda",
+  "slug": "will-the-panthers-win-the-nfc-south",
+  "question": "Will the Panthers win the NFC South?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:05:46.063531Z",
+  "market_createdAt": "2024-12-08T07:05:46.063531Z",
+  "market_updatedAt": "2024-12-16T04:45:20.95815Z",
+  "market_startDate": "2024-12-08T07:09:06.971962Z",
+  "market_endDate": "2024-12-22T00:00:00Z",
+  "market_closedTime": "2024-12-15 04:45:07+00",
+  "conditionId": "0x1ac8b8b60718a12b2b4c01fc024cd13bd4b984c32bce8b5b36398cba4e993070",
+  "slug": "nhl-pit-ott-2024-12-14",
+  "question": "Penguins vs. Senators"
+}

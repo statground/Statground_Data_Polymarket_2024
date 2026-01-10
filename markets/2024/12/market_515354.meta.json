@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T23:17:16.042839Z",
+  "market_createdAt": "2024-12-10T23:17:16.042839Z",
+  "market_updatedAt": "2025-05-05T20:47:50.274189Z",
+  "market_startDate": "2024-12-11T00:24:20.865118Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-05-05 20:46:19+00",
+  "conditionId": "0x3c150fa0ef3cf13a2d316620a70d205de6f97d4248cd4a98dcd899b7155cda74",
+  "slug": "will-mircea-geoan-win-the-most-votes-in-the-1st-round-of-the-romanian-presidential-election",
+  "question": "Will Mircea Geoană win the most votes in the 1st round of the Romanian presidential election?"
+}

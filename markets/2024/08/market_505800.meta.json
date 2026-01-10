@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:19:23.623565Z",
+  "market_createdAt": "2024-08-26T18:19:23.623565Z",
+  "market_updatedAt": "2024-08-31T03:03:12.671626Z",
+  "market_startDate": "2024-08-27T18:35:31.743Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 03:40:23+00",
+  "conditionId": "0x92ab1e438bde7c06b6bf240616bebafa451bb2211a6bde0692b560e440cb53c4",
+  "slug": "will-donald-trump-say-border-10-or-more-times-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"border\" 10 or more times during Michigan town hall?"
+}

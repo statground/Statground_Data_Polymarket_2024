@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T20:25:05.255339Z",
+  "market_createdAt": "2024-10-29T20:25:05.255339Z",
+  "market_updatedAt": "2024-12-18T09:39:16.531326Z",
+  "market_startDate": "2024-10-29T22:05:21.350955Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:27:23+00",
+  "conditionId": "0x0a006c3843ea6b6959b46a46b7a0cdc52ed8773ba19d769b71d0d8b2650476b5",
+  "slug": "will-trump-get-70-72m-votes-in-the-2024-us-presidential-election",
+  "question": "Will Trump get 70-72m votes in the 2024 U.S. Presidential Election?"
+}

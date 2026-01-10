@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:21:53.921629Z",
+  "market_createdAt": "2024-05-29T18:21:53.921629Z",
+  "market_updatedAt": "2024-06-03T13:11:11.402421Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:21:45+00",
+  "conditionId": "0x5d055b588ecdd8dc6eaaaf314788162eac45d0e0a57b599143c3d1836b7a0bf1",
+  "slug": "will-katrin-jakobsdottir-win-the-iceland-presidential-election",
+  "question": "Will Katrín Jakobsdóttir win the Iceland Presidential Election?"
+}

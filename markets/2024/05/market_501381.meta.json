@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:42:24.025026Z",
+  "market_createdAt": "2024-05-03T14:42:24.025026Z",
+  "market_updatedAt": "2024-05-07T23:10:12.751872Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:14:54+00",
+  "conditionId": "0xf81b0b0667ad9ba96cb397842fd4c09177cb69050341f6cbf7788178106cc79a",
+  "slug": "will-domestic-product-win-the-2024-kentucky-derby",
+  "question": "Will Domestic Product win the 2024 Kentucky Derby?"
+}

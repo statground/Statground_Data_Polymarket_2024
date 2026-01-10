@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501914",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T18:39:06.171242Z",
+  "market_createdAt": "2024-05-30T18:39:06.171242Z",
+  "market_updatedAt": "2024-06-10T15:26:17.170992Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-09 15:26:37+00",
+  "conditionId": "0xc05a58469e9c032ff5b06b44e21d2790cf97c1c8358846893e5e26b53097e55d",
+  "slug": "will-trump-talk-about-crypto-by-next-friday",
+  "question": "Will Trump talk about crypto by next Friday?"
+}

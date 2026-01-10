@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501495",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T14:44:17.290760Z",
+  "market_createdAt": "2024-05-09T14:44:17.29076Z",
+  "market_updatedAt": "2024-05-12T00:34:01.531754Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-11 03:43:15+00",
+  "conditionId": "0x81b666669af4a9cb8cf19520d3feaf65a9cd99eda3e38f333ee18213ca998f49",
+  "slug": "will-og-anunoby-return-for-game-3-of-knicks-vs-pacers",
+  "question": "Will OG Anunoby return for Game 3 vs. Pacers?"
+}

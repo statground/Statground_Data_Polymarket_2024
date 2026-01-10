@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:40:30.863959Z",
+  "market_createdAt": "2024-10-13T20:40:30.863959Z",
+  "market_updatedAt": "2024-10-15T22:20:49.436369Z",
+  "market_startDate": "2024-10-14T14:56:50.285361Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 01:39:43+00",
+  "conditionId": "0x602ca634549e8af9e9d4359380c30f9177122c494cca0baebb5e9330ce063ebf",
+  "slug": "will-the-match-between-italy-and-israel-end-in-a-draw",
+  "question": "Will the match between Italy and Israel end in a draw?"
+}

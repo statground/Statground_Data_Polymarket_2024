@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T17:14:57.972651Z",
+  "market_createdAt": "2024-09-23T17:14:57.972651Z",
+  "market_updatedAt": "2024-09-25T19:36:49.731632Z",
+  "market_startDate": "2024-09-23T17:48:07.501Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 20:32:08+00",
+  "conditionId": "0xc2f35a879c695d6d639254d6cca447112c43f0720d2a0a499847c120b11cafd0",
+  "slug": "will-donald-trump-say-trans-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"Trans\" during his Georgia speech?"
+}

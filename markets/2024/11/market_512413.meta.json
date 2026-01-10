@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:37:57.606871Z",
+  "market_createdAt": "2024-11-08T19:37:57.606871Z",
+  "market_updatedAt": "2024-11-11T01:42:47.757586Z",
+  "market_startDate": "2024-11-08T22:16:34.355679Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:33:20+00",
+  "conditionId": "0xcad2c69d54ffcc1ab9c2f8306bcc39f11fdba70bb5c86586e0c207034b315460",
+  "slug": "cfb-clemson-vs-virginia-tech",
+  "question": "CFB: Clemson vs. Virginia Tech"
+}

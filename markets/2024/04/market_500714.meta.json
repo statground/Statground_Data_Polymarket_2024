@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:43:56.592065Z",
+  "market_createdAt": "2024-04-04T17:43:56.592065Z",
+  "market_updatedAt": "2024-05-07T23:09:20.146886Z",
+  "market_startDate": "2024-04-04T19:41:39.884Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:20:45+00",
+  "conditionId": "0x30f00f2fca4de333258307049bdcb2c69ef9d3ba0f8a8d9763dd87817e4bd34e",
+  "slug": "will-boden-hit-1b-fdv-in-april",
+  "question": "Will $boden hit $1b FDV in April?"
+}

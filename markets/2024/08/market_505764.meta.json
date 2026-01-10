@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:21:33.360315Z",
+  "market_createdAt": "2024-08-26T16:21:33.360315Z",
+  "market_updatedAt": "2024-08-28T19:47:10.066591Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:49:07+00",
+  "conditionId": "0xef612159e6b5bbbfa6f694d92d5469ff7922a0b3f80b119b7a3013576043c666",
+  "slug": "will-jd-vance-say-couch-during-michigan-rally",
+  "question": "Will J.D. Vance say \"couch\" during Michigan rally?"
+}

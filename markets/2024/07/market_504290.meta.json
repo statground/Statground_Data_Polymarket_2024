@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:11:01.656768Z",
+  "market_createdAt": "2024-07-29T20:11:01.656768Z",
+  "market_updatedAt": "2024-08-04T21:46:56.519075Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:00:57+00",
+  "conditionId": "0x163de1a4739a03769bd5ed511ec640d6633ce3f225851eb22483c50c60fd0ab8",
+  "slug": "will-joaquin-niemann-win-gold-in-mens-golf",
+  "question": "Will Joaquin Niemann win Gold in Men's Golf?"
+}

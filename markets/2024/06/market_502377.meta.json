@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T16:51:20.637308Z",
+  "market_createdAt": "2024-06-12T16:51:20.637308Z",
+  "market_updatedAt": "2024-07-11T15:05:49.7409Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-10 18:57:01+00",
+  "conditionId": "0xaa30423bb63967ac86033ff5920f06691e99acbea7b4aee24272c52a127e7b9b",
+  "slug": "will-june-2024-have-a-temperature-increase-of-between-1pt09c-and-1pt15c",
+  "question": "Will June 2024 have a temperature increase of between 1.09°C and 1.15°C?"
+}

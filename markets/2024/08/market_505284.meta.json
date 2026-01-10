@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T14:59:03.096693Z",
+  "market_createdAt": "2024-08-19T14:59:03.096693Z",
+  "market_updatedAt": "2024-08-21T04:37:02.991568Z",
+  "market_startDate": "2024-08-19T16:30:10.53Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 05:46:56+00",
+  "conditionId": "0x21552bdde980cd6d6a050084bd50a3835905e940f919857220cf6215d4143444",
+  "slug": "will-biden-say-hunter-at-dnc-speech",
+  "question": "Will Biden say \"Hunter\" at DNC speech?"
+}

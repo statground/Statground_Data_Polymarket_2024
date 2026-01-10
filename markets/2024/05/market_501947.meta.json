@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501947",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:54:29.604036Z",
+  "market_createdAt": "2024-05-31T14:54:29.604036Z",
+  "market_updatedAt": "2024-06-18T06:57:04.898664Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:55:34+00",
+  "conditionId": "0x19ea67a491b3b5ab1263c22112271465c1d364d2dcc2796b225ded5bac56d7fe",
+  "slug": "kristaps-porzingis-2024-nba-finals-mvp-naw8",
+  "question": "Kristaps Porzingis 2024 NBA Finals MVP?"
+}

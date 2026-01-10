@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T23:34:41.518439Z",
+  "market_createdAt": "2024-10-07T23:34:41.518439Z",
+  "market_updatedAt": "2024-11-29T09:37:32.270855Z",
+  "market_startDate": "2024-10-08T16:27:45.494164Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 09:42:52+00",
+  "conditionId": "0x8167d59f6c0fb65817fd49770a7ded38ad34c6bffd2e1a8f35bc4980dd64ccc5",
+  "slug": "will-the-democratic-candidate-win-north-carolina-by-0-1pt0",
+  "question": "Will the Democratic candidate win North Carolina by 0%-1.0%?"
+}

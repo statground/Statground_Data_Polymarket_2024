@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-12T21:16:29.825990Z",
+  "market_createdAt": "2024-10-12T21:16:29.82599Z",
+  "market_updatedAt": "2024-10-15T00:02:53.88625Z",
+  "market_startDate": "2024-10-13T18:15:32.530021Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 02:38:52+00",
+  "conditionId": "0xc5d65bf122c57beaf8f31dd884730055d0991fbc0e8c029cf358d2585355979a",
+  "slug": "will-there-be-at-least-1-run-scored-in-the-first-inning-nlcs-game-1",
+  "question": "Will there be at least 1 run scored in the first inning?"
+}

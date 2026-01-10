@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T03:05:28.836532Z",
+  "market_createdAt": "2024-04-07T03:05:28.836532Z",
+  "market_updatedAt": "2024-07-22T02:58:37.406508Z",
+  "market_startDate": "2024-04-07T03:15:16.904Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 03:05:08+00",
+  "conditionId": "0x6102f6b038bfeff39a2e6f0ebf35ea841c4ded4120855b1cb8e9f68b8df0224a",
+  "slug": "will-toshi-reach-1b-first",
+  "question": "Will TOSHI reach $1b first?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T22:00:13.197238Z",
+  "market_createdAt": "2024-12-03T22:00:13.197238Z",
+  "market_updatedAt": "2025-05-01T00:23:19.622887Z",
+  "market_startDate": "2024-12-03T23:53:29.284691Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:12:39+00",
+  "conditionId": "0x4a41eba8bd729f6c93e1fe66524168fd2a65ecccd3a88e6a1501a8635f00bdb7",
+  "slug": "will-trump-eliminate-daylight-saving-time-in-first-100-days",
+  "question": "Will Trump eliminate daylight saving time in first 100 days?"
+}

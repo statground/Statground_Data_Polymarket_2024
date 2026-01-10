@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T19:18:33.508000Z",
+  "market_createdAt": "2024-01-18T19:18:33.508Z",
+  "market_updatedAt": "2024-07-17T02:58:47.142319Z",
+  "market_startDate": "2024-01-18T21:14:00Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:12:27+00",
+  "conditionId": "0x57b8a07a436c48ba108848bd3197e1109257dd93b38669b8250bd98f45d71af6",
+  "slug": "will-ron-desantis-win-the-2024-republican-vp-nomination",
+  "question": "Will Ron DeSantis win the 2024 Republican VP nomination?"
+}

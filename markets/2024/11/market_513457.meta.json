@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513457",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T17:44:24.858785Z",
+  "market_createdAt": "2024-11-19T17:44:24.858785Z",
+  "market_updatedAt": "2025-06-02T08:22:27.906537Z",
+  "market_startDate": "2024-11-19T22:04:31.791556Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-06-01 07:09:53+00",
+  "conditionId": "0x079df2834ed662a254f5cff36dbf2a7185c56f7a584d17ba353925f1a31c9d66",
+  "slug": "google-forced-to-sell-chrome",
+  "question": "Google forced to sell Chrome?"
+}

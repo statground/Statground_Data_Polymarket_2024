@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:19:18.545681Z",
+  "market_createdAt": "2024-10-21T20:19:18.545681Z",
+  "market_updatedAt": "2024-10-25T04:43:07.796812Z",
+  "market_startDate": "2024-10-21T20:21:52.008649Z",
+  "market_endDate": "2024-10-23T23:30:00Z",
+  "market_closedTime": "2024-10-24 04:43:06+00",
+  "conditionId": "0x10774570544a025448691388dc6ac005053d7f6e5acfe8261e8c02c72071bd8c",
+  "slug": "nba-bkn-atl-2024-10-23",
+  "question": "Nets vs. Hawks"
+}

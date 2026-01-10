@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T18:02:47.070407Z",
+  "market_createdAt": "2024-09-06T18:02:47.070407Z",
+  "market_updatedAt": "2024-09-08T08:03:10.963115Z",
+  "market_startDate": "2024-09-06T19:02:47.764Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-07 08:20:38+00",
+  "conditionId": "0xfc4738ae02d0018431ba21843f01fe98543304978c8fc021facb74db8b9a71bc",
+  "slug": "will-boeing-starliner-successfully-retrun-to-earth",
+  "question": "Will Boeing Starliner successfully return to Earth?"
+}

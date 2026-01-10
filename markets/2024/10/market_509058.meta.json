@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T17:41:01.970450Z",
+  "market_createdAt": "2024-10-07T17:41:01.97045Z",
+  "market_updatedAt": "2024-11-11T00:48:47.099322Z",
+  "market_startDate": "2024-10-07T17:58:53.023952Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:30:20+00",
+  "conditionId": "0xaeb7388b31fc48c9845bc05d2260b419a9df81ee5ae7208662ca307b4fbb0e26",
+  "slug": "rabois-parlay-trump-wins-pa-mi-ga-az",
+  "question": "Rabois Parlay: Trump wins PA, MI, GA and AZ?"
+}

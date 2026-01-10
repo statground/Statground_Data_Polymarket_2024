@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:17:31.104911Z",
+  "market_createdAt": "2024-10-28T20:17:31.104911Z",
+  "market_updatedAt": "2024-11-05T06:11:17.55043Z",
+  "market_startDate": "2024-10-28T20:20:07.161645Z",
+  "market_endDate": "2024-11-04T01:20:00Z",
+  "market_closedTime": "2024-11-04 06:19:40+00",
+  "conditionId": "0x869e83a48153e35b1e1a7c2219a578b336fd63ca69570b0c51507697a2841a59",
+  "slug": "nfl-ind-min-2024-11-03",
+  "question": "Colts vs. Vikings"
+}

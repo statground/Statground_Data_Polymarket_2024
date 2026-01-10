@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T16:03:15.012628Z",
+  "market_createdAt": "2024-06-18T16:03:15.012628Z",
+  "market_updatedAt": "2024-06-20T17:51:16.750149Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-19T12:00:00Z",
+  "market_closedTime": "2024-06-19 21:03:31+00",
+  "conditionId": "0x8ceb51a70de4eb8c22eabfd76a8e74d4fdf84138288b9af88d802b5418131fc6",
+  "slug": "will-the-match-be-a-draw-germany-hungary",
+  "question": "Will the match be a draw?"
+}

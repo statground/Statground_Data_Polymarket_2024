@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505380",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:36:46.756962Z",
+  "market_createdAt": "2024-08-19T19:36:46.756962Z",
+  "market_updatedAt": "2024-08-22T05:16:53.286902Z",
+  "market_startDate": "2024-08-20T15:21:27.819Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:20:08+00",
+  "conditionId": "0xdbef486d2b3cbef1611066c959f5e1a66cc9ce12fb746c263a8b24c7ebe49271",
+  "slug": "will-obama-say-donald-trump-at-dnc-speech",
+  "question": "Will Obama say \"Donald Trump\" at DNC speech?"
+}

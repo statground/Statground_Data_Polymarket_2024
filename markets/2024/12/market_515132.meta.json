@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:33:21.089915Z",
+  "market_createdAt": "2024-12-09T17:33:21.089915Z",
+  "market_updatedAt": "2024-12-16T20:25:28.815428Z",
+  "market_startDate": "2024-12-09T17:36:44.170837Z",
+  "market_endDate": "2024-12-15T19:00:00Z",
+  "market_closedTime": "2024-12-16 00:13:42+00",
+  "conditionId": "0xf194cec52cb848e1448b1914a899ff7abb9c170ecc2a23aa61f0e2fda9cbb10a",
+  "slug": "epl-sou-tot-2024-12-15-draw",
+  "question": "Will Southampton vs. Tottenham end in a draw?"
+}

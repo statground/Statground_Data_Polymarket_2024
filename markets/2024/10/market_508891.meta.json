@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508891",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:31:10.342033Z",
+  "market_createdAt": "2024-10-04T16:31:10.342033Z",
+  "market_updatedAt": "2024-10-06T23:32:34.929204Z",
+  "market_startDate": "2024-10-04T18:31:56.463508Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:47:31+00",
+  "conditionId": "0x83a6144c11b63138801935d9473821a3220476b4941ee8482fa6cccf2f4d5543",
+  "slug": "will-nebraska-beat-rutgers",
+  "question": "Will Nebraska beat Rutgers?"
+}

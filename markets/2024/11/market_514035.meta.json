@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:48:06.923659Z",
+  "market_createdAt": "2024-11-25T22:48:06.923659Z",
+  "market_updatedAt": "2024-11-27T23:47:38.869037Z",
+  "market_startDate": "2024-11-25T23:33:57.913403Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:15:59+00",
+  "conditionId": "0x4bc32f3e6fcdb3cb6dd118861a63742f5b003f8faaf3643575c4ab3ea68f49e1",
+  "slug": "will-atalanta-beat-young-boys",
+  "question": "Will Atalanta beat Young Boys?"
+}

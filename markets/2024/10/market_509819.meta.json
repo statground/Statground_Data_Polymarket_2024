@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:51:20.643260Z",
+  "market_createdAt": "2024-10-14T18:51:20.64326Z",
+  "market_updatedAt": "2024-10-16T20:42:56.709952Z",
+  "market_startDate": "2024-10-15T00:05:19.354811Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 00:06:37+00",
+  "conditionId": "0x22c649f2e4ec1884b97dabb1bafaed0184b4844c92adf34a32f9f0045ca1d179",
+  "slug": "will-serbia-beat-spain",
+  "question": "Will Serbia beat Spain?"
+}

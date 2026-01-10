@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510526",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:01:46.984060Z",
+  "market_createdAt": "2024-10-22T15:01:46.98406Z",
+  "market_updatedAt": "2024-10-26T05:47:00.938282Z",
+  "market_startDate": "2024-10-22T21:41:33.755Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:08:25+00",
+  "conditionId": "0x6a9fb657848c1e4f404ddb007d41ceabe6ba51b2e65abdc23632e165ab245f3b",
+  "slug": "will-trump-say-border-25-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"border\" 25 or more times during Las Vegas rally on October 24?"
+}

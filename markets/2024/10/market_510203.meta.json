@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:45:31.804383Z",
+  "market_createdAt": "2024-10-18T20:45:31.804383Z",
+  "market_updatedAt": "2024-10-21T19:16:56.413391Z",
+  "market_startDate": "2024-10-18T23:27:42.386112Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 01:30:56+00",
+  "conditionId": "0x65400e84caf5ed85c61976401752343abe2c6404629eda6d04e8b10c464cfcc4",
+  "slug": "will-the-rams-beat-the-raiders-by-7-or-more-points",
+  "question": "Will the Rams beat the Raiders by 7 or more points?"
+}

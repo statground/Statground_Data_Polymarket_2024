@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:51:29.063231Z",
+  "market_createdAt": "2024-07-08T16:51:29.063231Z",
+  "market_updatedAt": "2024-07-10T20:55:51.94803Z",
+  "market_startDate": "2024-07-08T17:12:07.269Z",
+  "market_endDate": "2024-07-09T12:00:00Z",
+  "market_closedTime": "2024-07-10 00:08:38+00",
+  "conditionId": "0x9d025e08116bdebccf99fdff9eb7de1468216093b7b3a3f3c402290c5fb42c02",
+  "slug": "will-the-match-be-a-draw-spain-france",
+  "question": "Will the match be a draw?"
+}

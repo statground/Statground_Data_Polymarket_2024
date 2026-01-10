@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:01:17.304619Z",
+  "market_createdAt": "2024-08-26T20:01:17.304619Z",
+  "market_updatedAt": "2024-09-01T13:57:04.778744Z",
+  "market_startDate": "2024-08-26T20:01:17.304619Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:07:22+00",
+  "conditionId": "0x45f85ccfff088551db3165314f69241f0c9464fa587b805239175f7d67b7ee63",
+  "slug": "will-brentford-vs-southampton-end-in-a-draw",
+  "question": "Will Brentford vs. Southampton end in a draw?"
+}

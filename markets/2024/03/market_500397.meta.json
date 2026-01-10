@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T17:31:12.717927Z",
+  "market_createdAt": "2024-03-22T17:31:12.717927Z",
+  "market_updatedAt": "2024-07-02T02:45:56.100136Z",
+  "market_startDate": "2024-03-22T17:47:18.702Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:18:41+00",
+  "conditionId": "0x6907bca007592e83e7d3d33012d1eb9ce9837bf6eaf17d28f3c6d69a4b66abd5",
+  "slug": "initia-airdrop-by-june-30",
+  "question": "Initia airdrop by June 30?"
+}

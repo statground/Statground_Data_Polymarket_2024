@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:14:57.419624Z",
+  "market_createdAt": "2024-10-09T20:14:57.419624Z",
+  "market_updatedAt": "2024-11-28T10:31:32.565329Z",
+  "market_startDate": "2024-10-09T21:24:01.763559Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 03:08:02+00",
+  "conditionId": "0xd42f3635e8d63aafc6e836b88c07565f3fd4e8c796d2214aed5fb280e5c8d21a",
+  "slug": "will-trump-win-idaho-by-the-largest-margin",
+  "question": "Will Trump win Idaho by the largest margin?"
+}

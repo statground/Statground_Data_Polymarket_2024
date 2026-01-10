@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T16:08:40.606570Z",
+  "market_createdAt": "2024-09-18T16:08:40.60657Z",
+  "market_updatedAt": "2024-10-01T21:56:47.093038Z",
+  "market_startDate": "2024-09-18T18:30:11.034279Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-30 23:56:06+00",
+  "conditionId": "0x3788e5ad3a0c78e0b3dc42ff2d4dfa64c9403e230151e2a2fa65d491d3dadc6a",
+  "slug": "will-another-company-be-the-largest-company-by-mcap-on-september-30",
+  "question": "Will another company be the largest company by mcap on September 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505124",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T20:39:58.214429Z",
+  "market_createdAt": "2024-08-14T20:39:58.214429Z",
+  "market_updatedAt": "2024-09-02T08:57:02.824841Z",
+  "market_startDate": "2024-08-15T02:02:31.321Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 09:11:21+00",
+  "conditionId": "0xee49a9c0a000a4fcb79e223b347707a51e1d5a7def4bbd24f0c933a65f4ba1c1",
+  "slug": "grok-bans-image-generation-of-trump-in-august",
+  "question": "Grok bans image generation of Trump in August?"
+}

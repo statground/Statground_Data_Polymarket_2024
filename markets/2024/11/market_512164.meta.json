@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T15:18:12.599008Z",
+  "market_createdAt": "2024-11-06T15:18:12.599008Z",
+  "market_updatedAt": "2024-11-08T00:03:02.641893Z",
+  "market_startDate": "2024-11-06T15:25:18.424613Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:59:22+00",
+  "conditionId": "0xc3e90644a9cf004ddc13fc683eb073ebc49a39d93e63bab4012430ddb7357cb5",
+  "slug": "will-kamala-say-thank-you-5-times-in-her-speech-after-the-election-is-called",
+  "question": "Will Kamala say \"Thank you\" 5+ times in her speech after the election is called?"
+}

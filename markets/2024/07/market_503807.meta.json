@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:56:35.582575Z",
+  "market_createdAt": "2024-07-18T20:56:35.582575Z",
+  "market_updatedAt": "2024-08-02T17:13:04.320642Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-08-01 00:06:44+00",
+  "conditionId": "0xb96b9a2647cd5bb72b03c7b722a8f73bcfb4a005fbd923166f28604121d1da65",
+  "slug": "will-maxime-grousset-fra-win-gold-in-mens-100m-freestyle",
+  "question": "Will Maxime Grousset (FRA) win Gold in Men's 100m Freestyle?"
+}

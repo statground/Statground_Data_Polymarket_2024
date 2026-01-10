@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:33:00.813685Z",
+  "market_createdAt": "2024-12-16T19:33:00.813685Z",
+  "market_updatedAt": "2024-12-19T21:27:19.80181Z",
+  "market_startDate": "2024-12-16T23:27:24.86519Z",
+  "market_endDate": "2025-03-17T12:00:00Z",
+  "market_closedTime": "2024-12-19 00:53:41+00",
+  "conditionId": "0xdacc54f636286428ef9b76b151e9c4441a147231fd7dc970a12b19d1ca520b8d",
+  "slug": "will-brentford-win-the-2024-carabao-cup",
+  "question": "Will Brentford win the 2024 Carabao Cup?"
+}

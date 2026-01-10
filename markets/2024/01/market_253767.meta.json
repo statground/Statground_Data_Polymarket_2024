@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T19:06:27.076000Z",
+  "market_createdAt": "2024-01-10T19:06:27.076Z",
+  "market_updatedAt": "2024-01-21T07:49:21.683Z",
+  "market_startDate": "2024-01-11T00:46:33.603Z",
+  "market_endDate": "2024-01-20T00:00:00Z",
+  "market_closedTime": "2024-01-20 19:01:51+00",
+  "conditionId": "0x55f069932dd8b7553b98e6285a81594edf33f2699756280cf7ddeac90eab79ec",
+  "slug": "will-there-be-a-us-government-shutdown-by-jan-20",
+  "question": "Will there be a US government shutdown by Jan 20?"
+}

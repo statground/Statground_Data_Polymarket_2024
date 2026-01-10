@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:00:09.452877Z",
+  "market_createdAt": "2024-10-15T18:00:09.452877Z",
+  "market_updatedAt": "2024-10-18T20:02:43.387728Z",
+  "market_startDate": "2024-10-15T19:30:38.476455Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-17 22:27:47+00",
+  "conditionId": "0xd7b8fc0d15093f6a022c90991557a126cff29d1a7c6ac079d240eedba2fc2be7",
+  "slug": "will-novak-djokovic-win-the-six-kings-slam",
+  "question": "Will Novak Djokovic win the Six Kings Slam?"
+}

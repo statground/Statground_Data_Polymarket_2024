@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504190",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T21:43:40.626415Z",
+  "market_createdAt": "2024-07-25T21:43:40.626415Z",
+  "market_updatedAt": "2024-08-06T16:22:58.451815Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 19:04:45+00",
+  "conditionId": "0xa5982ec19e65576e2524cf11e11ef1b6331af1af5b55a925e318d8ad1ea00bfd",
+  "slug": "will-simone-biles-win-the-most-gold-medals",
+  "question": "Will Simone Biles win the most gold medals?"
+}

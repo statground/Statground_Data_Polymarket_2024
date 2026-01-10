@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255054",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:26:31.530000Z",
+  "market_createdAt": "2024-03-01T17:26:31.53Z",
+  "market_updatedAt": "2024-11-10T19:38:43.963339Z",
+  "market_startDate": "2024-03-07T23:25:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 19:28:44+00",
+  "conditionId": "0xdd2f4921a562fc4d18c0bde327d2a9315352a3ba4137656112b9b1770fd1f2a9",
+  "slug": "will-a-republican-win-nevada-presidential-election",
+  "question": "Will a Republican win Nevada Presidential Election?"
+}

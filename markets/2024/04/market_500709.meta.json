@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:25:53.764974Z",
+  "market_createdAt": "2024-04-04T17:25:53.764974Z",
+  "market_updatedAt": "2024-11-08T01:13:07.090186Z",
+  "market_startDate": "2024-04-12T19:19:44.891Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:03:32+00",
+  "conditionId": "0xfd17ee27498ae7f11983620f9e7377a25d94a9046dd75eaa00b8b30b600b0bef",
+  "slug": "will-a-republican-win-virginia-us-senate-election",
+  "question": "Will a Republican win Virginia US Senate Election?"
+}

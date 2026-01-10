@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514084",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:04:23.273384Z",
+  "market_createdAt": "2024-11-26T08:04:23.273384Z",
+  "market_updatedAt": "2024-11-29T19:19:31.249367Z",
+  "market_startDate": "2024-11-26T22:31:31.712715Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:06:21+00",
+  "conditionId": "0x2a1a87ff059761472b764cfe601ec60bcca60e1eeb44485abe05ca3becabaca3",
+  "slug": "will-anderlecht-beat-fc-porto",
+  "question": "Will Anderlecht beat FC Porto?"
+}

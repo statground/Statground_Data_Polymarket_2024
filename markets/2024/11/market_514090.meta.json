@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:10:42.361614Z",
+  "market_createdAt": "2024-11-26T08:10:42.361614Z",
+  "market_updatedAt": "2024-11-29T21:23:34.629867Z",
+  "market_startDate": "2024-11-26T22:31:56.649231Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:01:32+00",
+  "conditionId": "0xda7a95af4a0a81a58c452269e5df4dc5e175bd0aa015c8c7b217e3b1fc2f7cb7",
+  "slug": "will-dynamo-kyiv-beat-viktoria-plzen",
+  "question": "Will Dynamo Kyiv beat Viktoria Plzen?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T20:48:31.179286Z",
+  "market_createdAt": "2024-08-07T20:48:31.179286Z",
+  "market_updatedAt": "2024-12-18T18:19:23.868466Z",
+  "market_startDate": "2024-08-08T17:59:18.545Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:02:58+00",
+  "conditionId": "0x117e99b2f41a10df9e5d1df85e05f96fac445976ab5da2cf2ec968660bb281ae",
+  "slug": "gop-wins-popular-vote-by-4-5",
+  "question": "GOP wins popular vote by 4-5%?"
+}

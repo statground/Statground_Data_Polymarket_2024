@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:08:52.459763Z",
+  "market_createdAt": "2024-04-29T19:08:52.459763Z",
+  "market_updatedAt": "2024-05-22T20:43:33.43802Z",
+  "market_startDate": "2024-04-29T22:52:38.45Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-05-22 20:42:01+00",
+  "conditionId": "0xbc5f9c535d98fc58d0b2c0a7cd8db0b01f8d82b14cb17d2a0573bbb635645725",
+  "slug": "uk-election-in-december",
+  "question": "UK election in December?"
+}

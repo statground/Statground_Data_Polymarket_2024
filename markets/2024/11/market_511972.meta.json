@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:23:12.683680Z",
+  "market_createdAt": "2024-11-04T23:23:12.68368Z",
+  "market_updatedAt": "2024-11-06T22:31:13.433445Z",
+  "market_startDate": "2024-11-05T00:42:12.439591Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:13:27+00",
+  "conditionId": "0xd075edd935b6a0ad5b6111ae4d185e58912f93d42bfe8f64ef551e7b445e78e3",
+  "slug": "will-real-madrid-beat-ac-milan",
+  "question": "Will Real Madrid beat AC Milan?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:23:04.207966Z",
+  "market_createdAt": "2024-08-23T16:23:04.207966Z",
+  "market_updatedAt": "2024-08-25T02:56:59.666331Z",
+  "market_startDate": "2024-08-23T16:51:10.784Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 03:10:01+00",
+  "conditionId": "0x3a46f236811befa0fb6215e34ea0d1e762bf93f1dfb9073336261d8900410f59",
+  "slug": "will-trump-say-insane-asylum-at-his-arizona-speech",
+  "question": "Will Trump say \"insane asylum\" at his Arizona speech?"
+}

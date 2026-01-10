@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T16:18:54.106670Z",
+  "market_createdAt": "2024-11-13T16:18:54.10667Z",
+  "market_updatedAt": "2024-11-15T22:47:11.826039Z",
+  "market_startDate": "2024-11-13T17:21:58.564Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:16:33+00",
+  "conditionId": "0x53a24b15928b0d56c5e89697662c6337ec4274a6d7a1dae15bac02f00ccb94a0",
+  "slug": "will-trump-nominate-andrew-bailey-for-attorney-general",
+  "question": "Will Trump nominate Andrew Bailey for Attorney General?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T00:26:16.057757Z",
+  "market_createdAt": "2024-06-05T00:26:16.057757Z",
+  "market_updatedAt": "2025-01-21T21:05:14.673902Z",
+  "market_startDate": "2024-06-05T00:26:16.057Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:14:25+00",
+  "conditionId": "0x296c9bdd15f0d09806f025b146dd14fe27f6ef624b83c5302f47a980669633c0",
+  "slug": "will-biden-pardon-ross-ulbricht",
+  "question": "Will Biden pardon Ross Ulbricht?"
+}

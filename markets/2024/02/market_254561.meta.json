@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T01:09:29.576000Z",
+  "market_createdAt": "2024-02-21T01:09:29.576Z",
+  "market_updatedAt": "2024-03-02T16:42:13.208Z",
+  "market_startDate": "2024-02-21T01:14:32.84Z",
+  "market_endDate": "2024-03-01T00:00:00Z",
+  "market_closedTime": "2024-03-01 19:02:15+00",
+  "conditionId": "0x88d1f0bcae5608371e66908020e2e6824fc44384d56f3a1eae023a81011ca414",
+  "slug": "eth-above-3000-on-march-1",
+  "question": "ETH above $3,000 on March 1?"
+}

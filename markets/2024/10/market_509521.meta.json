@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T02:01:44.407105Z",
+  "market_createdAt": "2024-10-10T02:01:44.407105Z",
+  "market_updatedAt": "2025-01-25T01:25:13.468741Z",
+  "market_startDate": "2024-10-24T21:30:06.102791Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:41:08+00",
+  "conditionId": "0x986b7d109329f64ae93818243d63c663ac30181c518f0b443cb769999db9edd2",
+  "slug": "will-will-anderson-win-nfl-defensive-player-of-the-year",
+  "question": "Will Will Anderson win NFL Defensive Player of the Year?"
+}

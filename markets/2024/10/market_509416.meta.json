@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T18:36:24.546087Z",
+  "market_createdAt": "2024-10-09T18:36:24.546087Z",
+  "market_updatedAt": "2024-10-21T22:43:27.273272Z",
+  "market_startDate": "2024-10-09T21:13:14.92479Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:46:14+00",
+  "conditionId": "0xb0800a2359e72319963230933927de69591856d3ea51369c51dd45f08e945335",
+  "slug": "will-heroic-win-the-elisa-masters-espoo-2024",
+  "question": "Will HEROIC win the Elisa Masters Espoo 2024?"
+}

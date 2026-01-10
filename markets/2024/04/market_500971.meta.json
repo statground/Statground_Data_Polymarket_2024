@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:37:01.407640Z",
+  "market_createdAt": "2024-04-15T20:37:01.40764Z",
+  "market_updatedAt": "2024-06-26T02:56:07.637979Z",
+  "market_startDate": "2024-04-16T16:50:31.694Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-25 06:13:25+00",
+  "conditionId": "0xde56ef83e8d09aaca1e226e493ae19436505214f8568eb6b25c446f9cf393a80",
+  "slug": "edmonton-oilers-win-the-2024-stanley-cup",
+  "question": "Edmonton Oilers win the 2024 Stanley Cup?"
+}

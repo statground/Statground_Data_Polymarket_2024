@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255335",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T18:53:28.276000Z",
+  "market_createdAt": "2024-03-07T18:53:28.276Z",
+  "market_updatedAt": "2024-09-19T20:10:48.854221Z",
+  "market_startDate": "2024-03-08T18:55:46.214Z",
+  "market_endDate": "2024-09-18T00:00:00Z",
+  "market_closedTime": "2024-09-18 20:17:10+00",
+  "conditionId": "0xa0811c97f529d627b7774a5b188e605736b745a1f892c39e16c5a022fdb84b8b",
+  "slug": "fed-rate-cut-by-september-18",
+  "question": "Fed rate cut by September 18?"
+}

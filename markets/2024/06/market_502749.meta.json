@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T18:40:15.488232Z",
+  "market_createdAt": "2024-06-21T18:40:15.488232Z",
+  "market_updatedAt": "2024-07-09T01:30:44.141944Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-08 04:52:07+00",
+  "conditionId": "0x91594fcd5835298d43267d5f8eda000d34d857498b68bd972ad3f504bb232574",
+  "slug": "will-ensemble-win-less-than-50-seats-in-the-french-election",
+  "question": "Will Ensemble win less than 50 seats in the French election?"
+}

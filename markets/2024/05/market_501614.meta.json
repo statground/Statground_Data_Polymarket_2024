@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:44:47.757053Z",
+  "market_createdAt": "2024-05-15T14:44:47.757053Z",
+  "market_updatedAt": "2024-06-05T18:31:19.166961Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-04 18:38:30+00",
+  "conditionId": "0xe1fd73970fd85a71f4da2e9f1cb2b7dcc5109ec204747e502752d693b0f12ee4",
+  "slug": "will-novak-djokovic-win-the-2024-french-open-mens-singles",
+  "question": "Will Novak Djokovic win the 2024 French Open Men's Singles?"
+}

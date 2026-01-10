@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:39:56.598622Z",
+  "market_createdAt": "2024-10-18T17:39:56.598622Z",
+  "market_updatedAt": "2024-10-21T01:40:38.549289Z",
+  "market_startDate": "2024-10-18T23:11:20.542291Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:58:41+00",
+  "conditionId": "0x769a3c9cba0a4e1fca8a39e44777ff7fdb65f44f7b95ab89c33bc117ba0e588f",
+  "slug": "will-usc-beat-maryland",
+  "question": "Will USC beat Maryland?"
+}

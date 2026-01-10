@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:53:46.928284Z",
+  "market_createdAt": "2024-08-23T16:53:46.928284Z",
+  "market_updatedAt": "2024-08-27T12:23:09.728151Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-27 01:08:30+00",
+  "conditionId": "0xe6616e3cb2287f7ae698f4217e7cf676d3751b532ac44ffb0a48072bf1093f67",
+  "slug": "will-elon-tweet-between-80-89-times-aug-30",
+  "question": "Will Elon tweet between 80-89 times?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:26:42.847000Z",
+  "market_createdAt": "2024-01-08T21:26:42.847Z",
+  "market_updatedAt": "2024-11-10T18:18:49.762076Z",
+  "market_startDate": "2024-01-10T01:44:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:42:29+00",
+  "conditionId": "0x23df7c359c5641fceed71bd62edda6a4a4997b66566d137a5e639434c8444b2c",
+  "slug": "2024-presidential-election-democrats-win-by-105-154",
+  "question": "2024 presidential election: Democrats win by 105-154"
+}

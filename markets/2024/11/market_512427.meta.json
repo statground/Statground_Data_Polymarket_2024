@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:49:20.007265Z",
+  "market_createdAt": "2024-11-08T19:49:20.007265Z",
+  "market_updatedAt": "2024-11-15T07:20:13.874588Z",
+  "market_startDate": "2024-11-14T17:12:27.448Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 07:16:43+00",
+  "conditionId": "0x49394cf0e3d6b27d337f782102f8da46e0b89fd4f8a29070aabd515ca55a3505",
+  "slug": "will-trump-nominate-another-candidate-for-administrator-of-the-us-environmental-protection-agency",
+  "question": "Will Trump nominate another candidate for Administrator of the US Environmental Protection Agency?"
+}

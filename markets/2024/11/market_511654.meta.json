@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:22:49.939133Z",
+  "market_createdAt": "2024-11-01T17:22:49.939133Z",
+  "market_updatedAt": "2024-11-03T16:03:05.511622Z",
+  "market_startDate": "2024-11-01T22:51:44.476294Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 21:12:02+00",
+  "conditionId": "0xe34891cf796b70dce6df5315867f2078c9a432690f570e2e7fe12774ccf7700a",
+  "slug": "will-air-force-beat-army-by-22-or-more-points",
+  "question": "Will Army beat Air Force by 22 or more points?"
+}

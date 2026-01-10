@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:03:31.737925Z",
+  "market_createdAt": "2024-10-21T19:03:31.737925Z",
+  "market_updatedAt": "2024-10-29T01:37:04.715212Z",
+  "market_startDate": "2024-10-21T19:06:09.221769Z",
+  "market_endDate": "2024-10-27T20:25:00Z",
+  "market_closedTime": "2024-10-28 01:37:32+00",
+  "conditionId": "0xdbe658c8255e05fc9fdd1ae1889a01a48b511b4f5ffd291858a1ecd8b514afea",
+  "slug": "nfl-kc-las-2024-10-27",
+  "question": "Chiefs vs. Raiders"
+}

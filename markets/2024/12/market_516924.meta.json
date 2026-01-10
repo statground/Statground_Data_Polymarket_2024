@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T15:29:41.885627Z",
+  "market_createdAt": "2024-12-31T15:29:41.885627Z",
+  "market_updatedAt": "2025-09-20T00:47:47.772695Z",
+  "market_startDate": "2024-12-31T18:50:59.285Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-09-18 17:40:04+00",
+  "conditionId": "0xb643afacc478a059b67089ac1bca30cda972a006784ed51bae2241ce87d884d0",
+  "slug": "doge-etf-approved-in-2025",
+  "question": "Doge ETF approved in 2025?"
+}

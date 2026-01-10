@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T18:08:00.277685Z",
+  "market_createdAt": "2024-08-09T18:08:00.277685Z",
+  "market_updatedAt": "2024-08-11T08:06:48.178766Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 11:59:18+00",
+  "conditionId": "0x83f365211b79e3ca5e1f82b8a9a7c9f460b5d64c0d4fa7cfcab57377d0a2efb2",
+  "slug": "will-eliud-kipchoge-ken-win-gold-in-the-mens-marathon",
+  "question": "Will Eliud Kipchoge (KEN) win gold in the Men’s Marathon?"
+}

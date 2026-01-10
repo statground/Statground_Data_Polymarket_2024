@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:32:09.693444Z",
+  "market_createdAt": "2024-10-22T16:32:09.693444Z",
+  "market_updatedAt": "2024-10-25T19:03:13.285846Z",
+  "market_startDate": "2024-10-22T20:58:47.238788Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 22:09:27+00",
+  "conditionId": "0x6d7231e240dc821db4ae8beb67e6416664b605e10c2373a4bb5a7dfa8f08cfe9",
+  "slug": "will-the-match-between-ferencvaros-and-nice-end-in-a-draw",
+  "question": "Will the match between Ferencvaros and Nice end in a draw?"
+}

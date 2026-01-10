@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-15T22:12:11.856112Z",
+  "market_createdAt": "2024-06-15T22:12:11.856112Z",
+  "market_updatedAt": "2024-06-17T20:56:14.338694Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-17 00:05:20+00",
+  "conditionId": "0x32f4f9d3841767cae58bbccbd0f8180cfc2d4a5625cf8129043a011cc4e8aa87",
+  "slug": "will-the-match-end-in-a-draw",
+  "question": "Will the match end in a draw?"
+}

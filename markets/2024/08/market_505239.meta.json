@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T20:20:31.570343Z",
+  "market_createdAt": "2024-08-16T20:20:31.570343Z",
+  "market_updatedAt": "2024-11-07T15:07:15.180043Z",
+  "market_startDate": "2024-08-16T23:04:19.587Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 03:46:51+00",
+  "conditionId": "0xa14aec41870d6fb0bb2d2ec6c6c4dff2abd71de6cfd33912a39de30f0eededf7",
+  "slug": "will-538-correctly-call-the-presidential-election",
+  "question": "Will 538 correctly call the Presidential Election?"
+}

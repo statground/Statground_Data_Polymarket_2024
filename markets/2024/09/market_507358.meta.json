@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T21:55:33.433782Z",
+  "market_createdAt": "2024-09-17T21:55:33.433782Z",
+  "market_updatedAt": "2024-09-22T16:10:54.248525Z",
+  "market_startDate": "2024-09-17T22:49:57.883994Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 19:06:22+00",
+  "conditionId": "0x8eb8f24d79a48415c3f4c8a1fa9d08c6abce6a5e99a6a684e817f4c9a68d6923",
+  "slug": "will-southampton-beat-ipswich-town",
+  "question": "Will Southampton beat Ipswich Town?"
+}

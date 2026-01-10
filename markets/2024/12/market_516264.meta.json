@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516264",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:01:53.281418Z",
+  "market_createdAt": "2024-12-22T07:01:53.281418Z",
+  "market_updatedAt": "2024-12-24T23:23:34.049433Z",
+  "market_startDate": "2024-12-22T07:04:52.631843Z",
+  "market_endDate": "2024-12-30T19:00:00Z",
+  "market_closedTime": "2024-12-23 23:50:25+00",
+  "conditionId": "0xb66126ef6846fe8d3ab18b3ea4c89cd7084ecf4123f2e80578aec4c37d423cca",
+  "slug": "nhl-wpg-tor-2024-12-23",
+  "question": "Jets vs. Maple Leafs"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:38:29.661954Z",
+  "market_createdAt": "2024-06-19T21:38:29.661954Z",
+  "market_updatedAt": "2024-06-29T07:16:03.38395Z",
+  "market_startDate": "2024-06-20T23:27:59.342Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:23:23+00",
+  "conditionId": "0x0075f011c67cd76c108a1f6b9a994a399ed4e3ace3fa85939bee0e25aa659b68",
+  "slug": "will-biden-say-malarkey-during-the-debate",
+  "question": "Will Biden say \"Malarkey\"  during the debate?"
+}

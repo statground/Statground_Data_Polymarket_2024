@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:36:12.066875Z",
+  "market_createdAt": "2024-08-21T20:36:12.066875Z",
+  "market_updatedAt": "2024-08-24T22:01:03.266776Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 21:59:07+00",
+  "conditionId": "0xc0a143860aeef90e8760e2491b861fa8d488bf48bffdcebd811e59d9794bb15c",
+  "slug": "will-rfk-jr-say-parasite-during-friday-address",
+  "question": "Will RFK Jr. say \"Parasite\" during Friday address?"
+}

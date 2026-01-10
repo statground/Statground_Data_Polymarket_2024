@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T18:50:13.878950Z",
+  "market_createdAt": "2024-11-13T18:50:13.87895Z",
+  "market_updatedAt": "2025-01-02T08:33:02.491869Z",
+  "market_startDate": "2024-11-13T19:18:08.585Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:52:06+00",
+  "conditionId": "0xf374025204f151d0e6696984b3c682f525974bfe88ea5ea3a3e3ae9b6d397d08",
+  "slug": "pnut-listed-on-coinbase-in-2024",
+  "question": "$PNUT listed on Coinbase in 2024?"
+}

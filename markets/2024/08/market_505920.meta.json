@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:32:28.588112Z",
+  "market_createdAt": "2024-08-27T19:32:28.588112Z",
+  "market_updatedAt": "2024-08-29T21:33:13.166286Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:26:38+00",
+  "conditionId": "0x77bdfb5a4553ff35a91bcaf8cfac3c078b9a4b0ebf08ba75486390ff1fc4d993",
+  "slug": "will-jd-vance-say-debate-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"debate\" during Pennsylvania rally?"
+}

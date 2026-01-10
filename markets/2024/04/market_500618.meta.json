@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T17:16:40.649891Z",
+  "market_createdAt": "2024-04-02T17:16:40.649891Z",
+  "market_updatedAt": "2024-11-08T00:18:56.068512Z",
+  "market_startDate": "2024-04-03T21:37:39.208Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 16:09:12+00",
+  "conditionId": "0x2d75f221ec38a3c8a5c43507bc44e68073a69cc26e249afa37bf97d7dd207512",
+  "slug": "will-a-democrat-win-texas-us-senate-election",
+  "question": "Will a Democrat win Texas US Senate Election?"
+}

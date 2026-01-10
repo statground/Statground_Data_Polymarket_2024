@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:39:54.218510Z",
+  "market_createdAt": "2024-10-25T20:39:54.21851Z",
+  "market_updatedAt": "2024-10-28T20:06:59.37988Z",
+  "market_startDate": "2024-10-25T21:49:25.392771Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:19:56+00",
+  "conditionId": "0x260af2d4578aefe256f9df48051f4f0596ca6d81b41e3d7865fc2c4b26723827",
+  "slug": "will-the-falcons-beat-the-buccaneers-by-3-or-more-points-oct-27",
+  "question": "Will the Falcons beat the Buccaneers by 3 or more points?"
+}

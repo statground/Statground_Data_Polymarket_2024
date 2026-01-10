@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:10:02.607456Z",
+  "market_createdAt": "2024-11-11T18:10:02.607456Z",
+  "market_updatedAt": "2024-11-13T01:49:10.762436Z",
+  "market_startDate": "2024-11-11T22:05:48.883268Z",
+  "market_endDate": "2024-11-11T12:00:00Z",
+  "market_closedTime": "2024-11-12 06:40:20+00",
+  "conditionId": "0x337e7b3018a19a667192e5194bda3a7e02fbdb284c7bc44ece3e520c6b056a11",
+  "slug": "will-the-rams-and-dolphins-combine-for-49-or-more-points",
+  "question": "Will the Rams and Dolphins combine for 49 or more points?"
+}

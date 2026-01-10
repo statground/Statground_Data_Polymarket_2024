@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T16:08:08.902665Z",
+  "market_createdAt": "2024-10-24T16:08:08.902665Z",
+  "market_updatedAt": "2024-10-29T09:43:11.29548Z",
+  "market_startDate": "2024-10-24T17:04:17.634945Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-28 09:42:12+00",
+  "conditionId": "0x6336991c609da9f5ca97082c75adbe64937da006fd7412aa1795918b9be2f3ee",
+  "slug": "will-gd-win-a-majority-in-georgia-parliamentary-election",
+  "question": "Will GD win a majority in Georgia parliamentary election?"
+}

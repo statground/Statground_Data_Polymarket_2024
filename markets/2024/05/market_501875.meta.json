@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T17:25:18.076558Z",
+  "market_createdAt": "2024-05-29T17:25:18.076558Z",
+  "market_updatedAt": "2024-06-03T03:41:09.785142Z",
+  "market_startDate": "2024-05-29T18:11:01.362Z",
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 05:31:53+00",
+  "conditionId": "0x0d8e96f3d19e7915952f4084d497c99d40e2735edf327900dd6a2e8ce38ac6ae",
+  "slug": "ufc-302-kevin-holland-vs-michael-oleksiejczuk",
+  "question": "UFC 302: Kevin Holland vs. Michael Oleksiejczuk"
+}

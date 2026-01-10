@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:01:00.492017Z",
+  "market_createdAt": "2024-10-21T19:01:00.492017Z",
+  "market_updatedAt": "2024-10-28T22:07:16.002223Z",
+  "market_startDate": "2024-10-21T19:03:40.384748Z",
+  "market_endDate": "2024-10-27T17:00:00Z",
+  "market_closedTime": "2024-10-27 22:19:52+00",
+  "conditionId": "0x9318f1ba3d826acf2952f02e3ab02190d3ce30cc7afa2b7b97b1424cdffade51",
+  "slug": "nfl-ari-mia-2024-10-27",
+  "question": "Cardinals vs. Dolphins"
+}

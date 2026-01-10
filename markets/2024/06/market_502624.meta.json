@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T18:04:04.982817Z",
+  "market_createdAt": "2024-06-19T18:04:04.982817Z",
+  "market_updatedAt": "2024-06-30T18:31:06.548962Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-29 21:21:26+00",
+  "conditionId": "0x1635837b5b48f105ae538c5958d31e2edce3bd2386bc2e5bb9cb9f91ed437200",
+  "slug": "will-india-win-the-icc-t20-cricket-world-cup",
+  "question": "Will India win the ICC T20 Cricket World Cup "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510685",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:13:49.324883Z",
+  "market_createdAt": "2024-10-23T00:13:49.324883Z",
+  "market_updatedAt": "2024-12-02T05:07:16.985307Z",
+  "market_startDate": "2024-10-23T17:53:11.352371Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-01 08:45:02+00",
+  "conditionId": "0xcc4f953a3576b2c3d464262f5138e2f2ab66f7b052afc910f48aa63f811872d4",
+  "slug": "will-seattle-sounders-win-the-mls-cup",
+  "question": "Will the Seattle Sounders win the MLS Cup?"
+}

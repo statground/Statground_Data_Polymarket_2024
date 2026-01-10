@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510533",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:24:06.226726Z",
+  "market_createdAt": "2024-10-22T15:24:06.226726Z",
+  "market_updatedAt": "2024-10-26T06:16:55.56761Z",
+  "market_startDate": "2024-10-22T21:44:41.027Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:17:43+00",
+  "conditionId": "0x2aefbe2e258a7b9bdbe97bde2c4a1a9fd24bcf6abbd9d890a9d7765c59b45f4c",
+  "slug": "will-trump-say-hispanic-3-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"hispanic\" 3 or more times during Las Vegas rally on October 24?"
+}

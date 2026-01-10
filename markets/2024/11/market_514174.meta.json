@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:23:46.388487Z",
+  "market_createdAt": "2024-11-26T22:23:46.388487Z",
+  "market_updatedAt": "2024-12-02T21:55:21.621031Z",
+  "market_startDate": "2024-11-27T15:08:08.079627Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-02 00:02:24+00",
+  "conditionId": "0x615b15dd4f324931b241a4761a8549ec22cd0379c417c0387c4844c4907c5bbe",
+  "slug": "will-oscar-piastri-win-the-qatar-grand-prix",
+  "question": "Will Oscar Piastri win the Qatar Grand Prix?"
+}

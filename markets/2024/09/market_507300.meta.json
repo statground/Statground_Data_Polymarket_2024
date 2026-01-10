@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:27:16.600626Z",
+  "market_createdAt": "2024-09-17T17:27:16.600626Z",
+  "market_updatedAt": "2025-06-02T00:24:31.937445Z",
+  "market_startDate": "2024-09-17T18:19:37.243795Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-06-01 00:05:52+00",
+  "conditionId": "0x7beceb04f7b1d4f0dde80b58c6f43c23b8ad54b21c693e172c974f480b46483c",
+  "slug": "will-inter-milan-win-the-uefa-champions-league",
+  "question": "Will Inter Milan win the UEFA Champions League?"
+}

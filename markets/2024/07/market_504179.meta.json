@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:58:38.933416Z",
+  "market_createdAt": "2024-07-25T18:58:38.933416Z",
+  "market_updatedAt": "2024-08-12T14:40:55.254911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:50:21+00",
+  "conditionId": "0x429f0c1ebe3c29cf6ba49c64c07ba4b8720d338e061d8321b62b98f756017d11",
+  "slug": "will-germany-win-the-3rd-most-gold-medals",
+  "question": "Will Germany win the 3rd most gold medals?"
+}

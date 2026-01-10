@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T19:52:46.056646Z",
+  "market_createdAt": "2024-10-10T19:52:46.056646Z",
+  "market_updatedAt": "2024-10-20T16:26:43.617334Z",
+  "market_startDate": "2024-10-10T19:54:26.436779Z",
+  "market_endDate": "2024-10-19T14:00:00Z",
+  "market_closedTime": "2024-10-19 19:13:06+00",
+  "conditionId": "0xa0ba4ee2472bd0f77aa21f973de5dd6a678c98e2bfed09c1c7677e70437ae664",
+  "slug": "epl-mun-bre-2024-10-19-draw",
+  "question": "Will Man Utd vs. Brentford end in a draw?"
+}

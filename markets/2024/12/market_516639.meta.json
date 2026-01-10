@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516639",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:01:03.740700Z",
+  "market_createdAt": "2024-12-29T06:01:03.7407Z",
+  "market_updatedAt": "2025-01-06T23:17:22.13744Z",
+  "market_startDate": "2024-12-29T06:03:42.614923Z",
+  "market_endDate": "2025-01-12T05:00:00Z",
+  "market_closedTime": "2025-01-05 23:19:29+00",
+  "conditionId": "0xa86c081244ef4d4ee4d9e7eb618f2b1b36e9856f34a4f33ac277e867e5d1ced3",
+  "slug": "nfl-nyg-phi-2025-01-05",
+  "question": "Giants vs. Eagles"
+}

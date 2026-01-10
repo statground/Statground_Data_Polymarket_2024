@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T01:35:40.396000Z",
+  "market_createdAt": "2024-01-17T01:35:40.396Z",
+  "market_updatedAt": "2024-01-23T00:57:31.973Z",
+  "market_startDate": "2024-01-21T00:00:00Z",
+  "market_endDate": "2024-01-21T00:00:00Z",
+  "market_closedTime": "2024-01-22 01:17:57+00",
+  "conditionId": "0xd170ab0ce9d2bce050d84387508315e226a231943593eb06767c85ec596f58e2",
+  "slug": "nfl-det-tb-2024-01-21",
+  "question": "Lions vs. Buccaneers"
+}

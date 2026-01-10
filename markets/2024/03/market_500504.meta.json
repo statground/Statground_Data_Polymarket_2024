@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T16:47:56.487860Z",
+  "market_createdAt": "2024-03-28T16:47:56.48786Z",
+  "market_updatedAt": "2024-11-06T23:57:06.457985Z",
+  "market_startDate": "2024-04-10T19:20:15.66Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:09:37+00",
+  "conditionId": "0x1ac42f552c368e9356a5442152f2248511719c161c62556532d15ec1df288047",
+  "slug": "congressional-district-1st-nebraska-will-a-candidate-from-another-party-win",
+  "question": "Will a candidate from another party win Nebraska's 1st congressional district?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T19:21:58.368003Z",
+  "market_createdAt": "2024-09-24T19:21:58.368003Z",
+  "market_updatedAt": "2025-05-23T08:20:22.49249Z",
+  "market_startDate": "2024-09-25T14:52:13.452102Z",
+  "market_endDate": "2025-05-21T12:00:00Z",
+  "market_closedTime": "2025-05-22 02:19:32+00",
+  "conditionId": "0xb1a42218492f54115d709abc909d34ab472255b7cb9293e42f6dbdf17529f3d6",
+  "slug": "will-tottenham-hotspur-win-the-uefa-europa-league",
+  "question": "Will Tottenham Hotspur win the UEFA Europa League?"
+}

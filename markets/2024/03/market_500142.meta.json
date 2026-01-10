@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T23:20:14.551346Z",
+  "market_createdAt": "2024-03-13T23:20:14.551346Z",
+  "market_updatedAt": "2024-05-07T23:09:25.619344Z",
+  "market_startDate": "2024-04-17T22:03:39.313Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 04:11:53+00",
+  "conditionId": "0xcd1f7702a1a669d4a64e2785e4e016be2daef113804f0275a96fa43090e90430",
+  "slug": "will-5-qbs-be-taken-with-the-first-5-picks-of-the-2024-nfl-draft",
+  "question": "Will 5 QBs be taken with the first 5 picks of the 2024 NFL Draft?"
+}

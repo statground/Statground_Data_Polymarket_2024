@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T16:31:54.321514Z",
+  "market_createdAt": "2024-12-18T16:31:54.321514Z",
+  "market_updatedAt": "2024-12-26T00:35:29.983159Z",
+  "market_startDate": "2024-12-18T16:49:12.755Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-25 00:32:57+00",
+  "conditionId": "0xbc132a82b2cb740fa3b2aeb5c0148401073cf5d9df1337d10ac1685f32b09a3d",
+  "slug": "will-congress-pay-raise-be-removed-in-cr-by-friday",
+  "question": "Congress pay raise removed from funding bill by Friday?"
+}

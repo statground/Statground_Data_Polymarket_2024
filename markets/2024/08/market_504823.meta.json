@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T16:11:16.946114Z",
+  "market_createdAt": "2024-08-09T16:11:16.946114Z",
+  "market_updatedAt": "2024-08-13T01:46:53.800837Z",
+  "market_startDate": "2024-08-11T12:00:00Z",
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-12 01:39:09+00",
+  "conditionId": "0x50b55c2f36de0c195b944b569824f1e6239d8a16905c8e85dee272a7514e96ac",
+  "slug": "nfl-lar-dal-2024-08-11",
+  "question": "Rams vs. Cowboys"
+}

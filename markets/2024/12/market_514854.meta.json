@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T18:58:10.082560Z",
+  "market_createdAt": "2024-12-05T18:58:10.08256Z",
+  "market_updatedAt": "2024-12-07T22:35:13.747542Z",
+  "market_startDate": "2024-12-05T19:23:49.227Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 23:10:30+00",
+  "conditionId": "0xab9c2af6e1b4455fa8fabca6fe17b460df9714a13f39698280b30163c4f6e6e8",
+  "slug": "gme-halted-tomorrow-12-6",
+  "question": "GME halted today?"
+}

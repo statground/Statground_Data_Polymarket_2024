@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:04:59.011611Z",
+  "market_createdAt": "2024-12-30T05:04:59.011611Z",
+  "market_updatedAt": "2025-01-05T19:21:40.558435Z",
+  "market_startDate": "2024-12-30T05:08:09.942919Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:03:25+00",
+  "conditionId": "0x45358fbb69c758be2e6b5a2154e7c49d9f20203844bac0f88aa5e70cb2ade744",
+  "slug": "epl-sou-bre-2025-01-04-sou",
+  "question": "Will Southampton win on 2025-01-04?"
+}

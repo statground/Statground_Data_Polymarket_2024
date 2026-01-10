@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T17:37:39.803446Z",
+  "market_createdAt": "2024-08-29T17:37:39.803446Z",
+  "market_updatedAt": "2024-08-31T08:01:13.194849Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 07:54:32+00",
+  "conditionId": "0x3f4ec299f6fbccfdf0d4854c8f38eb4e7218852dfa6339f97d393df0511571a1",
+  "slug": "will-the-harriswalz-interview-be-less-than-30-mins-in-length",
+  "question": "Will the Harris/Walz interview be less than 30 mins in length?"
+}

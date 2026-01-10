@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T08:25:39.543701Z",
+  "market_createdAt": "2024-07-19T08:25:39.543701Z",
+  "market_updatedAt": "2024-07-28T03:05:03.990206Z",
+  "market_startDate": "2024-07-19T08:27:17.237Z",
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-27 06:05:21+00",
+  "conditionId": "0xba45f46aa40597de61176499443a716fb02d6d6ece98d35640853075bec04d63",
+  "slug": "crowdstrike-caused-by-a-hack",
+  "question": "CrowdStrike caused by a hack?"
+}

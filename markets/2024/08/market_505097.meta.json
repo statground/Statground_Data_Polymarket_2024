@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:06:33.226515Z",
+  "market_createdAt": "2024-08-14T16:06:33.226515Z",
+  "market_updatedAt": "2024-08-16T23:17:03.11873Z",
+  "market_startDate": "2024-08-14T17:27:55.21Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:12:29+00",
+  "conditionId": "0x58d3710de452ba8882b9c65b5f3aed4e22f3e478c807d756d5864eb13ce14a2c",
+  "slug": "will-trump-say-ai-or-artificial-intelligence-at-his-press-conference",
+  "question": "Will Trump say \"AI\" or \"Artificial Intelligence\" at his press conference?"
+}

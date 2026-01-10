@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-13T00:04:25.133787Z",
+  "market_createdAt": "2024-04-13T00:04:25.133787Z",
+  "market_updatedAt": "2024-05-07T23:09:10.416703Z",
+  "market_startDate": "2024-04-13T00:19:36.553Z",
+  "market_endDate": "2024-04-16T12:00:00Z",
+  "market_closedTime": "2024-04-17 00:14:20+00",
+  "conditionId": "0x0b0037d4e7fa5a7fec65a34393c75493aa76a8797727de21406094ef29fc5ee7",
+  "slug": "will-barcelona-vs-psg-be-a-draw-4162024",
+  "question": "Will Barcelona vs PSG be a draw?"
+}

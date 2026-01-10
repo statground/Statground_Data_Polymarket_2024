@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T20:55:22.963263Z",
+  "market_createdAt": "2024-04-08T20:55:22.963263Z",
+  "market_updatedAt": "2024-05-07T23:09:47.207038Z",
+  "market_startDate": "2024-04-10T15:06:25.042Z",
+  "market_endDate": "2024-04-14T12:00:00Z",
+  "market_closedTime": "2024-04-15 02:17:25+00",
+  "conditionId": "0x2f8e213c5d613829de845a0907b97253482858079caa713cccf14d90a5540376",
+  "slug": "will-another-golfer-win-the-2024-masters-tournament",
+  "question": "Will another golfer win the 2024 Masters Tournament?"
+}

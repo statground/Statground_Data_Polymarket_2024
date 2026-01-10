@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:06:09.436584Z",
+  "market_createdAt": "2024-12-29T05:06:09.436584Z",
+  "market_updatedAt": "2025-01-04T07:30:53.738212Z",
+  "market_startDate": "2024-12-29T05:08:41.185087Z",
+  "market_endDate": "2025-01-10T01:00:00Z",
+  "market_closedTime": "2025-01-03 07:28:01+00",
+  "conditionId": "0x67a496ff9e9c6f9d1f87a657532c1131d6d1ad750326c8b5e4d54ed175a698d2",
+  "slug": "nba-bkn-mil-2025-01-02",
+  "question": "Nets vs. Bucks"
+}

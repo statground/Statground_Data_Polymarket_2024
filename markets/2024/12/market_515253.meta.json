@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:46:42.011291Z",
+  "market_createdAt": "2024-12-10T16:46:42.011291Z",
+  "market_updatedAt": "2025-01-06T20:53:27.627683Z",
+  "market_startDate": "2024-12-11T17:18:34.481709Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2025-01-06 03:52:38+00",
+  "conditionId": "0xf8444097d611b24ad7f70e6335c53f03a14f0c39c1e9e58040eca36664886e25",
+  "slug": "will-saquon-barkley-rush-for-2000-yards",
+  "question": "Will Saquon Barkley rush for 2,000 yards?"
+}

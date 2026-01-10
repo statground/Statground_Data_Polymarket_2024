@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T14:43:49.794978Z",
+  "market_createdAt": "2024-05-01T14:43:49.794978Z",
+  "market_updatedAt": "2024-06-13T20:26:15.377385Z",
+  "market_startDate": "2024-05-01T15:56:27.426Z",
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-12 21:22:25+00",
+  "conditionId": "0x86797195cdde3c3a30e2b1b9503bc727fe787845228e9876ed9bc380aa021148",
+  "slug": "fed-decreases-interest-rates-by-25-bps-after-june-2024-meeting",
+  "question": "Fed decreases interest rates by 25 bps after June 2024 meeting?"
+}

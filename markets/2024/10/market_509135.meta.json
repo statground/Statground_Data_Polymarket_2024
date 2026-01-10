@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T21:33:03.681462Z",
+  "market_createdAt": "2024-10-07T21:33:03.681462Z",
+  "market_updatedAt": "2024-11-26T22:42:59.131707Z",
+  "market_startDate": "2024-10-08T16:56:55.462681Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-26 22:39:56+00",
+  "conditionId": "0x08a131664f87229dbecab1af132999fff2f4da146c7e6c07423827996af5bdb0",
+  "slug": "will-the-democratic-candidate-win-arizona-by-2pt0-3pt0",
+  "question": "Will the Democratic candidate win Arizona by 2.0%-3.0%?"
+}

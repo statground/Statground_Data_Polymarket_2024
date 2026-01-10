@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:03:06.933918Z",
+  "market_createdAt": "2024-10-04T21:03:06.933918Z",
+  "market_updatedAt": "2024-10-07T22:06:34.567457Z",
+  "market_startDate": "2024-10-04T22:29:12.987602Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 23:36:56+00",
+  "conditionId": "0x906d2c7dda076777b1663d56e8f34792c2cb46170993961e9e25aeaae34b3fb6",
+  "slug": "will-trump-say-million-10-or-more-times-during-wisconsin-rally",
+  "question": "Will Trump say \"million\" 10 or more times during Wisconsin rally?"
+}

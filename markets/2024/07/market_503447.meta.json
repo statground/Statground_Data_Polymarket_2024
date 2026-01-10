@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T20:01:34.939226Z",
+  "market_createdAt": "2024-07-12T20:01:34.939226Z",
+  "market_updatedAt": "2024-07-15T20:54:52.112154Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:27:07+00",
+  "conditionId": "0x686466858682342ec9aab8a56c56a814b363810bdee37d54b9c797af03a1eea4",
+  "slug": "will-england-win-on-penalties",
+  "question": "Will England win on penalties?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:06:57.285385Z",
+  "market_createdAt": "2024-11-14T21:06:57.285385Z",
+  "market_updatedAt": "2024-11-16T23:22:52.01864Z",
+  "market_startDate": "2024-11-15T14:09:16.414248Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 00:58:45+00",
+  "conditionId": "0x73f28a507f6c442ad5414f96481c03b328b4ee8d15e881118aa351611882f7bd",
+  "slug": "will-the-match-between-denmark-and-spain-end-in-a-draw",
+  "question": "Will the match between Denmark and Spain end in a draw?"
+}

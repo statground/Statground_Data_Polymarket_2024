@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:15:00.506394Z",
+  "market_createdAt": "2024-10-11T15:15:00.506394Z",
+  "market_updatedAt": "2024-10-19T19:12:43.136713Z",
+  "market_startDate": "2024-10-11T16:36:26.621952Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-18 19:08:21+00",
+  "conditionId": "0x40f542d6ee264ac6bd75b1176247aaded129104ef4ff480ae04cdb4cadb2166b",
+  "slug": "ethereum-above-2400-on-october-18",
+  "question": "Ethereum above $2,400 on October 18?"
+}

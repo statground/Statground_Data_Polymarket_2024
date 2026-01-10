@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:00:06.542783Z",
+  "market_createdAt": "2024-11-04T16:00:06.542783Z",
+  "market_updatedAt": "2025-01-22T08:17:01.074398Z",
+  "market_startDate": "2024-11-06T16:10:23.04Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-21 08:16:02+00",
+  "conditionId": "0xa05938a26bfa984743198f9366737d3b4f3fcb73fe0df6d00a7b360049b3f5d1",
+  "slug": "will-rfk-be-a-member-of-the-trump-administration",
+  "question": "Will RFK be a member of the Trump administration? "
+}

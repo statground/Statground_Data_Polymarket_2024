@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:23:29.127759Z",
+  "market_createdAt": "2024-10-02T20:23:29.127759Z",
+  "market_updatedAt": "2024-10-09T20:36:46.381858Z",
+  "market_startDate": "2024-10-02T21:47:58.03401Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-08 23:58:00+00",
+  "conditionId": "0x4cee86f1ef318023dd0f376f86e9794d70a390eca1396cf016a9d42b23174fed",
+  "slug": "will-team-liquid-win-iem-rio-2024",
+  "question": "Will Team Liquid win IEM Rio 2024?"
+}

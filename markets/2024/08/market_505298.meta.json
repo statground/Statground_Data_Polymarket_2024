@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:27:34.951655Z",
+  "market_createdAt": "2024-08-19T15:27:34.951655Z",
+  "market_updatedAt": "2024-08-21T06:16:58.231599Z",
+  "market_startDate": "2024-08-19T15:51:02.595Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 06:25:48+00",
+  "conditionId": "0x0d68769995c8636c132443d0348b94533f5d8bcf0036ee899417f0ec59c3cad0",
+  "slug": "will-biden-say-israel-at-dnc-speech",
+  "question": "Will Biden say \"Israel\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:45:29.857153Z",
+  "market_createdAt": "2024-10-01T18:45:29.857153Z",
+  "market_updatedAt": "2024-10-06T19:00:52.427383Z",
+  "market_startDate": "2024-10-02T15:27:09.119752Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:16:55+00",
+  "conditionId": "0x72d1f8f2af0af9731f4eb224c3b217627d47f3c6722560bf6ee4e35d3648859d",
+  "slug": "will-manchester-city-beat-fulham",
+  "question": "Will Manchester City beat Fulham?"
+}

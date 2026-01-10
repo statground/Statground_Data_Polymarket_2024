@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:57:20.753468Z",
+  "market_createdAt": "2024-07-10T16:57:20.753468Z",
+  "market_updatedAt": "2024-11-08T23:23:00.912876Z",
+  "market_startDate": "2024-07-22T05:34:44.189Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:38:36+00",
+  "conditionId": "0xa4c6117c3e921e491139cbebedb9c411ac39893c59ff8d16a7c74ea48d223dfd",
+  "slug": "trump-blowout-victory",
+  "question": "Trump blowout victory?"
+}

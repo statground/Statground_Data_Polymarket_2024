@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:43:40.121991Z",
+  "market_createdAt": "2024-10-04T21:43:40.121991Z",
+  "market_updatedAt": "2024-10-07T03:22:42.496011Z",
+  "market_startDate": "2024-10-04T22:37:35.371651Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:22:24+00",
+  "conditionId": "0x7a167589eb4236633f37ef85a2ba75fac59d37b174f4544d38cd154fe4afa236",
+  "slug": "alds-yankees-vs-royals-game-1",
+  "question": "ALDS: Yankees vs. Royals Game 1"
+}

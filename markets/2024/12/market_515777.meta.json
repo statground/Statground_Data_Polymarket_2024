@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:33:37.429327Z",
+  "market_createdAt": "2024-12-16T19:33:37.429327Z",
+  "market_updatedAt": "2024-12-19T21:57:10.451558Z",
+  "market_startDate": "2024-12-16T23:27:50.784461Z",
+  "market_endDate": "2025-03-17T12:00:00Z",
+  "market_closedTime": "2024-12-19 01:02:58+00",
+  "conditionId": "0xa839b0cf19d09358ee0f9905b562eb3e6c5b6d7400a84834e77f24b516329ffc",
+  "slug": "will-southampton-win-the-2024-carabao-cup",
+  "question": "Will Southampton win the 2024 Carabao Cup?"
+}

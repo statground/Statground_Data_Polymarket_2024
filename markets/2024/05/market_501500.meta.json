@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T17:19:42.325425Z",
+  "market_createdAt": "2024-05-09T17:19:42.325425Z",
+  "market_updatedAt": "2024-06-16T05:28:56.797073Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:27:17+00",
+  "conditionId": "0x66331ef531a8a205a62c8d4bedfef6f5176d885cd6eb81f243dbcd1769b970ae",
+  "slug": "will-id-win-the-most-seats-in-european-parliament",
+  "question": "Will ID win the most seats in European Parliament?"
+}

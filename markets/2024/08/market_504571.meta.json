@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504571",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T20:03:56.401611Z",
+  "market_createdAt": "2024-08-05T20:03:56.401611Z",
+  "market_updatedAt": "2024-10-31T13:27:08.497807Z",
+  "market_startDate": "2024-08-26T14:21:54.64Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-30 14:36:14+00",
+  "conditionId": "0x6d32c5bce4996f995dd0c9930889e898fb0442395e0a6b4fc3ffce06a331327b",
+  "slug": "us-gdp-declines-in-q3-2024",
+  "question": "US GDP declines in Q3 2024?"
+}

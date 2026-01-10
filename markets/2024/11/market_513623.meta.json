@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:52:58.834605Z",
+  "market_createdAt": "2024-11-21T17:52:58.834605Z",
+  "market_updatedAt": "2024-11-23T04:24:52.294692Z",
+  "market_startDate": "2024-11-21T18:30:16.225Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:20:25+00",
+  "conditionId": "0x21c4ed93cba2c4e9ece886879875fa1f9e87ea5f27f706589a1e304d22f10747",
+  "slug": "will-trump-pick-robert-giuffra-for-attorney-general",
+  "question": "Will Trump pick Robert Giuffra for Attorney General?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:47:42.994660Z",
+  "market_createdAt": "2024-11-02T19:47:42.99466Z",
+  "market_updatedAt": "2024-11-06T04:43:07.08853Z",
+  "market_startDate": "2024-11-02T20:48:22.950701Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 04:47:28+00",
+  "conditionId": "0xa1101f3388edae1f3cc6dff0c89a3250169d726dd15b1dc55a84486d87c45c70",
+  "slug": "will-trump-say-saudi-arabia-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"Saudi Arabia\" during Pittsburgh rally on Nov 4?"
+}

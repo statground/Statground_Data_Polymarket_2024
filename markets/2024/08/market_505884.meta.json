@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:18:40.171597Z",
+  "market_createdAt": "2024-08-27T15:18:40.171597Z",
+  "market_updatedAt": "2024-09-26T21:32:49.471651Z",
+  "market_startDate": "2024-08-27T15:18:40.171597Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-26 04:50:26+00",
+  "conditionId": "0xe17c9f4b3e34152136f7c2b164760acc8ac403b01ff99367819ad51bb469e5d8",
+  "slug": "will-the-tampa-bay-rays-win-the-world-series",
+  "question": "Will the Tampa Bay Rays win the World Series?"
+}

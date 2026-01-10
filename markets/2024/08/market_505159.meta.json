@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:00:52.753276Z",
+  "market_createdAt": "2024-08-15T17:00:52.753276Z",
+  "market_updatedAt": "2024-11-13T22:49:06.828954Z",
+  "market_startDate": "2024-08-15T17:00:52.753276Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-12 23:55:10+00",
+  "conditionId": "0x9cf718b17d291f13ca0a1485afd425e9b64067695ed66f996aab41c21bab5307",
+  "slug": "az-01-election-shah-d-vs-schweikert-r",
+  "question": "AZ-01 election: Shah (D) vs. Schweikert (R)"
+}

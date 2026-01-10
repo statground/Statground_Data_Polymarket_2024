@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T22:30:27.054520Z",
+  "market_createdAt": "2024-05-03T22:30:27.05452Z",
+  "market_updatedAt": "2024-06-25T00:37:13.954294Z",
+  "market_startDate": null,
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-06-25 00:35:37+00",
+  "conditionId": "0x097b46b90f24a94be0bc1205c0d1ab7bdef623e7cdafe75061db845e464e9383",
+  "slug": "kenny-atkinson-next-lakers-head-coach",
+  "question": "Kenny Atkinson next Lakers head coach?"
+}

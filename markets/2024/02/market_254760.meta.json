@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T21:45:04.802000Z",
+  "market_createdAt": "2024-02-26T21:45:04.802Z",
+  "market_updatedAt": "2025-01-02T08:55:07.145091Z",
+  "market_startDate": "2024-02-27T19:09:57.986Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:58:24+00",
+  "conditionId": "0xc7599c7b33b64f891750b57439384d163f547600fed4a6007918751f8f37740d",
+  "slug": "no-ethereum-all-time-high-in-2024",
+  "question": "No Ethereum all time high in 2024?"
+}

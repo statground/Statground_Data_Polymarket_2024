@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:16:07.469834Z",
+  "market_createdAt": "2024-10-18T16:16:07.469834Z",
+  "market_updatedAt": "2024-10-26T18:07:02.964425Z",
+  "market_startDate": "2024-10-18T17:07:48.47351Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-25 18:07:33+00",
+  "conditionId": "0x52bf959ee07a19fe177c726eb2eb1a637930f429b4c787b80186922c997b6220",
+  "slug": "bitcoin-above-69000-on-october-25",
+  "question": "Bitcoin above $69,000 on October 25?"
+}

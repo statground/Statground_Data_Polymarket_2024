@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T15:31:05.061489Z",
+  "market_createdAt": "2024-10-30T15:31:05.061489Z",
+  "market_updatedAt": "2024-11-01T05:46:47.00792Z",
+  "market_startDate": "2024-10-30T17:44:05.625481Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 06:14:43+00",
+  "conditionId": "0x7520d0850fb37a0b1c93a9fd478078424fd33b5f2765693d3d7f6cdb0ba64249",
+  "slug": "world-series-yankees-vs-dodgers-game-5",
+  "question": "World Series: Yankees vs. Dodgers Game 5"
+}

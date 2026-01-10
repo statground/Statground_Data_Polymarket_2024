@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:02:06.244577Z",
+  "market_createdAt": "2024-12-31T20:02:06.244577Z",
+  "market_updatedAt": "2026-01-01T00:35:20.435024Z",
+  "market_startDate": "2024-12-31T20:23:42.461Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:32:27+00",
+  "conditionId": "0x552c0807e8b239ef4e7ecb9d9e192519ba283acb731c5bd89b6b1cda658a2f8c",
+  "slug": "will-tencent-have-the-top-ai-model-on-december-31",
+  "question": "Will Tencent have the top AI model on December 31?"
+}

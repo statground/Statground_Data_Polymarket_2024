@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T21:15:21.316110Z",
+  "market_createdAt": "2024-04-19T21:15:21.31611Z",
+  "market_updatedAt": "2024-05-26T18:04:41.78672Z",
+  "market_startDate": "2024-04-19T21:54:44.351Z",
+  "market_endDate": "2024-05-25T12:00:00Z",
+  "market_closedTime": "2024-05-25 19:06:46+00",
+  "conditionId": "0x8d75cdd4345f3b8233d5ee2e281d15b008f774bf0ef06b2e6bf431ed4dea951f",
+  "slug": "will-manchester-united-win-the-fa-cup",
+  "question": "Will Manchester United win the FA Cup?"
+}

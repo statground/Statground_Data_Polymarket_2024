@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:07:30.856118Z",
+  "market_createdAt": "2024-12-09T19:07:30.856118Z",
+  "market_updatedAt": "2024-12-11T22:53:12.746358Z",
+  "market_startDate": "2024-12-09T23:29:11.166949Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:21:44+00",
+  "conditionId": "0x2119abdd8c8efb3b82dd3ec971951101cbedf439e81fe9894e6a17cea5a2a778",
+  "slug": "will-psv-beat-stade-brestois",
+  "question": "Will PSV beat Stade Brestois?"
+}

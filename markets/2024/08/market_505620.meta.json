@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:00:10.531756Z",
+  "market_createdAt": "2024-08-22T15:00:10.531756Z",
+  "market_updatedAt": "2024-08-24T02:11:02.745093Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:27:58+00",
+  "conditionId": "0x511a4769f951713c7b7e22efc67591cb586be93c1f8693448eda2c36efc74077",
+  "slug": "will-gretchen-whitmer-say-abortion-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Abortion\" in DNC speech?"
+}

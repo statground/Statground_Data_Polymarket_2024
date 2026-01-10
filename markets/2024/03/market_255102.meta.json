@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:20:28.162000Z",
+  "market_createdAt": "2024-03-01T18:20:28.162Z",
+  "market_updatedAt": "2024-11-07T14:07:08.094764Z",
+  "market_startDate": "2024-03-28T20:20:46.778Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:54:28+00",
+  "conditionId": "0xdce82e4e00b4b158b255af3f176dbf67130f1910381857b9ce882b0a4f4788f2",
+  "slug": "will-a-republican-win-illinois-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Illinois Presidential Election?"
+}

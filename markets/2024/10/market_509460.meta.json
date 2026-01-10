@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509460",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:45:14.614650Z",
+  "market_createdAt": "2024-10-09T21:45:14.61465Z",
+  "market_updatedAt": "2024-10-11T15:36:43.462322Z",
+  "market_startDate": "2024-10-09T22:44:26.742276Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 01:09:09+00",
+  "conditionId": "0x8504d8f0cdccf8877ce6afd0c5b7dd29f84c3512ebbdb2c9add3d59996242709",
+  "slug": "will-bolivia-beat-colombia",
+  "question": "Will Bolivia beat Colombia?"
+}

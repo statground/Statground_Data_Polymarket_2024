@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T18:51:32.160281Z",
+  "market_createdAt": "2024-11-08T18:51:32.160281Z",
+  "market_updatedAt": "2024-11-16T19:11:06.110487Z",
+  "market_startDate": "2024-11-08T20:38:27.473873Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:06:47+00",
+  "conditionId": "0x464f5c11d602edfc469894257adc3c22c8ca715f3a2fb43d3a96f28c482a97de",
+  "slug": "solana-above-200-on-november-15",
+  "question": "Solana above $200 on November 15?"
+}

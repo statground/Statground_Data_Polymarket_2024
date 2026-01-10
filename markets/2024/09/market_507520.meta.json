@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:37:35.712691Z",
+  "market_createdAt": "2024-09-19T20:37:35.712691Z",
+  "market_updatedAt": "2024-12-16T01:07:30.553495Z",
+  "market_startDate": "2024-09-19T21:31:12.411848Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:36:39+00",
+  "conditionId": "0x79f358f667d959012d912ab4e3f311db338f20a5a1d7648f8946feaa13f27a6d",
+  "slug": "will-drew-allar-win-the-heisman-trophy",
+  "question": "Will Drew Allar win the Heisman Trophy?"
+}

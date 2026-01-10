@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:39:53.891244Z",
+  "market_createdAt": "2024-11-15T21:39:53.891244Z",
+  "market_updatedAt": "2024-11-17T19:03:21.429804Z",
+  "market_startDate": "2024-11-15T23:09:06.896716Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:14:32+00",
+  "conditionId": "0xd626f85b805357172a82f04cfda8bfdd3694558beb4fa8c20205503c8815e618",
+  "slug": "will-turkey-beat-wales",
+  "question": "Will Turkey beat Wales?"
+}

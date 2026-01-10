@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507500",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T19:32:20.758504Z",
+  "market_createdAt": "2024-09-19T19:32:20.758504Z",
+  "market_updatedAt": "2024-10-23T01:21:15.095138Z",
+  "market_startDate": "2024-09-19T22:25:39.534Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 04:34:03+00",
+  "conditionId": "0x1365234d58e2cdfe0204d15431db0bd6d53d8a3093f154b762544a10db49179d",
+  "slug": "will-pc-win-the-most-in-the-2024-new-brunswick-general-election",
+  "question": "Will PC win the most in the 2024 New Brunswick general election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:49:39.662172Z",
+  "market_createdAt": "2024-08-08T17:49:39.662172Z",
+  "market_updatedAt": "2024-12-23T21:29:45.508583Z",
+  "market_startDate": "2024-08-08T17:49:39.662172Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-23 00:54:54+00",
+  "conditionId": "0xc0421f6e80f8067bda0a9aa06954b025f24cfc8a6c98a966a98c35ea0e1ea2a6",
+  "slug": "will-the-arizona-cardinals-win-the-nfc-west",
+  "question": "Will the Arizona Cardinals win the NFC West?"
+}

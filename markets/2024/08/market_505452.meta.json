@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505452",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:46:45.485755Z",
+  "market_createdAt": "2024-08-20T19:46:45.485755Z",
+  "market_updatedAt": "2024-08-22T21:17:05.328374Z",
+  "market_startDate": "2024-08-20T20:37:35.462Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:27:09+00",
+  "conditionId": "0x6752e0cb20f7c4d5e612f7b2172838414def6f53a20dc5b7acf07ce88b55321a",
+  "slug": "will-trump-say-venezuela-3-or-more-times-during-wednesday-speech",
+  "question": "Will Trump say \"Venezuela\" 3 or more times during Wednesday speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504802",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T14:21:53.049512Z",
+  "market_createdAt": "2024-08-09T14:21:53.049512Z",
+  "market_updatedAt": "2024-08-17T21:43:00.6067Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-16 21:34:42+00",
+  "conditionId": "0xd4a596d28068a82144ce80ec3707455a236b8b3810c0192643f1cd32f7aad9ec",
+  "slug": "solana-above-150-on-august-16",
+  "question": "Solana above $150 on August 16?"
+}

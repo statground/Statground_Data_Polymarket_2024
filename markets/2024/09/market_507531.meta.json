@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507531",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:15:05.136792Z",
+  "market_createdAt": "2024-09-19T21:15:05.136792Z",
+  "market_updatedAt": "2024-11-01T20:41:23.799529Z",
+  "market_startDate": "2024-09-20T14:24:15.04Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-31 23:45:08+00",
+  "conditionId": "0x15176850f899c1587a2cc9d21f11a055834fe9f6d3199e3d482ad5c69f0441ea",
+  "slug": "will-ndp-win-a-plurality-in-the-2024-saskatchewan-general-election",
+  "question": "Will NDP win the most seats in the 2024 Saskatchewan general election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:23:55.977362Z",
+  "market_createdAt": "2024-09-03T04:23:55.977362Z",
+  "market_updatedAt": "2024-09-04T18:47:10.288726Z",
+  "market_startDate": "2024-09-03T05:05:43.581919Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 18:57:29+00",
+  "conditionId": "0xc31e9073efc2f3a138d0887174c4dfd1699f4aed7965a1a25971c5f22a1ab0ec",
+  "slug": "will-trump-say-bitcoin-during-lex-interview",
+  "question": "Will Trump say \"Bitcoin\" during Lex interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507428",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:40:35.519719Z",
+  "market_createdAt": "2024-09-18T20:40:35.519719Z",
+  "market_updatedAt": "2024-12-06T05:31:25.052481Z",
+  "market_startDate": "2024-09-19T17:22:49.313517Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-05 07:33:18+00",
+  "conditionId": "0x6e5cbb183a0525eb7b7d262b5ae3281cc073173b92b37bab7fa4a21d1bd889f8",
+  "slug": "who-will-win-bucks-county",
+  "question": "Who will win Bucks county?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:18:00.129465Z",
+  "market_createdAt": "2024-11-06T18:18:00.129465Z",
+  "market_updatedAt": "2024-11-15T23:25:10.261685Z",
+  "market_startDate": "2024-11-06T18:40:54.046Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-14 23:30:00+00",
+  "conditionId": "0xe4203ed6ad791708297e37e1e2df7a51b0355fb357afbcb85d7f5c60faa8c7c5",
+  "slug": "will-trump-nominate-marco-rubio-for-secretary-of-state",
+  "question": "Will Trump nominate Marco Rubio for Secretary of State?"
+}

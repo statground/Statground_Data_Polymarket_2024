@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T18:00:49.587518Z",
+  "market_createdAt": "2024-04-29T18:00:49.587518Z",
+  "market_updatedAt": "2024-05-08T02:13:57.819153Z",
+  "market_startDate": "2024-04-29T22:15:18.975Z",
+  "market_endDate": "2024-05-06T12:00:00Z",
+  "market_closedTime": "2024-05-07 03:35:14+00",
+  "conditionId": "0x30603c9e0c74c1031bc7ef1d2b92c114a35c9211bb61d677039a4bc091fb5b3b",
+  "slug": "will-the-fall-guy-gross-more-than-28m-opening-weekend",
+  "question": "Will 'The Fall Guy' gross more than $28m opening weekend?"
+}

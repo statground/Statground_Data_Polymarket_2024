@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:58:18.106379Z",
+  "market_createdAt": "2024-05-31T14:58:18.106379Z",
+  "market_updatedAt": "2024-06-18T06:56:45.09822Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:55:14+00",
+  "conditionId": "0xfad1878fbed27daa36279dcb7bc095c8b629d10a7ca5a7de033ba833faeaa3a1",
+  "slug": "pj-washington-2024-nba-finals-mvp",
+  "question": "P.J. Washington 2024 NBA Finals MVP?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:04:11.590270Z",
+  "market_createdAt": "2024-11-11T18:04:11.59027Z",
+  "market_updatedAt": "2024-11-15T04:58:58.60547Z",
+  "market_startDate": "2024-11-11T18:06:46.528286Z",
+  "market_endDate": "2024-11-21T00:30:00Z",
+  "market_closedTime": "2024-11-14 05:01:48+00",
+  "conditionId": "0x04a4f05ca4f2c9ae2b16a246c288adc6676c4f35764d5744d88f469b8cd995ec",
+  "slug": "nba-chi-nyk-2024-11-13",
+  "question": "Bulls vs. Knicks"
+}

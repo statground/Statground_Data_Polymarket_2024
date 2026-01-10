@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:57:26.256684Z",
+  "market_createdAt": "2024-11-08T22:57:26.256684Z",
+  "market_updatedAt": "2024-11-16T00:34:58.531357Z",
+  "market_startDate": "2024-11-14T16:55:16.785Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:19:19+00",
+  "conditionId": "0xef5be9d90dd9d52b55574b601e703610044b6fed2c831d55496054a29fe439fe",
+  "slug": "will-trump-nominate-another-candidate-for-secretary-of-veterans-affairs",
+  "question": "Will Trump nominate another candidate for Secretary of Veterans Affairs?"
+}

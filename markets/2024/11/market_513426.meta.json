@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513426",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:24:31.184223Z",
+  "market_createdAt": "2024-11-18T22:24:31.184223Z",
+  "market_updatedAt": "2024-11-21T02:46:55.229013Z",
+  "market_startDate": "2024-11-19T20:44:17.435609Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 06:04:47+00",
+  "conditionId": "0xb61850615d9b2f37dc5e39298c720236b8b3035b56f676975d9862d34982e8c0",
+  "slug": "will-the-match-between-brazil-and-uruguay-end-in-a-draw",
+  "question": "Will the match between Brazil and Uruguay end in a draw?"
+}

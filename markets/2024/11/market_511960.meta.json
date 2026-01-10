@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:05:46.581423Z",
+  "market_createdAt": "2024-11-04T23:05:46.581423Z",
+  "market_updatedAt": "2024-11-06T22:17:05.548598Z",
+  "market_startDate": "2024-11-05T00:27:06.913036Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-05 22:48:20+00",
+  "conditionId": "0xf629dfd47f504fa80877592b7a04a8a2b3698099a132a045afe3952b36bcc98c",
+  "slug": "will-slovan-bratislava-beat-dinamo-zagreb",
+  "question": "Will Slovan Bratislava beat Dinamo Zagreb?"
+}

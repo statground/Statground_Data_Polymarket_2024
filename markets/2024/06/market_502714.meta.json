@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T22:54:42.338477Z",
+  "market_createdAt": "2024-06-20T22:54:42.338477Z",
+  "market_updatedAt": "2024-06-29T06:06:02.973431Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:28:19+00",
+  "conditionId": "0x0cf23346cc20e516ecc169a1f9c481c0634c89155a5020a31080f3346f3cb202",
+  "slug": "will-biden-say-obama-during-the-debate",
+  "question": "Will Biden say \"Obama\" during the debate?"
+}

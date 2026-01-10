@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510213",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:54:30.797512Z",
+  "market_createdAt": "2024-10-18T20:54:30.797512Z",
+  "market_updatedAt": "2024-10-21T23:57:10.234794Z",
+  "market_startDate": "2024-10-18T23:13:20.932885Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:54:00+00",
+  "conditionId": "0x6a3eaa683df6e3b47a1774e1a7fe45f1375addbd3d44993a68541c353018f082",
+  "slug": "will-trump-say-womens-sports-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Women's sports\" during Pennsylvania town hall on October 20?"
+}

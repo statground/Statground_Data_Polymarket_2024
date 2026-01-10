@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502126",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T16:36:18.355926Z",
+  "market_createdAt": "2024-06-05T16:36:18.355926Z",
+  "market_updatedAt": "2024-06-15T05:56:11.572192Z",
+  "market_startDate": "2024-06-05T22:42:14.759Z",
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-14 06:54:48+00",
+  "conditionId": "0x7ae6330905fe0b680e270c62c12bb57764e560a037de9d6cfe6e4398641688e0",
+  "slug": "mcgregor-vs-chandler-cancelled",
+  "question": "McGregor vs. Chandler canceled?"
+}

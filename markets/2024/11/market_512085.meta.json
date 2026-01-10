@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512085",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:31:49.079801Z",
+  "market_createdAt": "2024-11-05T19:31:49.079801Z",
+  "market_updatedAt": "2024-11-11T19:23:15.935284Z",
+  "market_startDate": "2024-11-05T19:34:25.708883Z",
+  "market_endDate": "2024-11-10T14:00:00Z",
+  "market_closedTime": "2024-11-10 19:43:57+00",
+  "conditionId": "0x47ae26645cc7d8df99be59bf00895499c254362609186159f96cb90b42bba3fb",
+  "slug": "epl-tot-ips-2024-11-10-tot",
+  "question": "Will Spurs win on 2024-11-10?"
+}

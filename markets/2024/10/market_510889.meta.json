@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T00:29:40.460098Z",
+  "market_createdAt": "2024-10-25T00:29:40.460098Z",
+  "market_updatedAt": "2024-11-05T17:11:10.341383Z",
+  "market_startDate": "2024-10-25T15:47:15.147349Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-04 20:10:50+00",
+  "conditionId": "0x7c32ff18720870f3f5a9023998d8fa57bab1375e2c34a6598d319c6471aa98c5",
+  "slug": "will-harris-lead-in-rcp-by-1pt0-1pt4-on-nov-4",
+  "question": "Will Harris lead in RCP by 1.0-1.4 on Nov 4?"
+}

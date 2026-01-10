@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:31:59.095004Z",
+  "market_createdAt": "2024-07-18T17:31:59.095004Z",
+  "market_updatedAt": "2024-08-09T21:57:00.736339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-08 21:58:56+00",
+  "conditionId": "0xae4735f6e896b3fb25faf0ee7bbc548f11908161c1640bd6fa82179b4ff8c6de",
+  "slug": "will-noah-lyles-usa-win-gold-in-200m",
+  "question": "Will Noah Lyles (USA) win Gold in 200m?"
+}

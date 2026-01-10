@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-11T14:47:05.185325Z",
+  "market_createdAt": "2024-07-11T14:47:05.185325Z",
+  "market_updatedAt": "2024-07-13T05:56:50.181493Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-11T12:00:00Z",
+  "market_closedTime": "2024-07-12 06:01:03+00",
+  "conditionId": "0xf24a5206bb93e13fe0dff07caf08989799af4d55e19964796965c739b1c979f6",
+  "slug": "biden-drops-out-today",
+  "question": "Biden drops out today? "
+}

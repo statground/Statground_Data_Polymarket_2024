@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:08:09.348632Z",
+  "market_createdAt": "2024-11-01T18:08:09.348632Z",
+  "market_updatedAt": "2024-11-04T04:06:56.620338Z",
+  "market_startDate": "2024-11-01T23:02:30.114111Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:20:42+00",
+  "conditionId": "0x9e5ced1c82e4c64d5435cac7914d41b01e30f124ab54189c9411903cf99b554a",
+  "slug": "will-usc-beat-washington",
+  "question": "Will USC beat Washington?"
+}

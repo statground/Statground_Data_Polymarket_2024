@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T16:47:32.544262Z",
+  "market_createdAt": "2024-06-14T16:47:32.544262Z",
+  "market_updatedAt": "2024-06-23T18:36:10.832155Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-22 21:12:37+00",
+  "conditionId": "0x49c59fa88e5bd128625874684f054a8e180f88477c0afe6e6ad7c2fbb7b052f6",
+  "slug": "will-turkiye-win-group-f",
+  "question": "Will Turkiye win Group F?"
+}

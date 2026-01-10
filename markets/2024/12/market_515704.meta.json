@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:04:16.053203Z",
+  "market_createdAt": "2024-12-15T07:04:16.053203Z",
+  "market_updatedAt": "2024-12-20T06:11:13.885974Z",
+  "market_startDate": "2024-12-15T07:07:00.615643Z",
+  "market_endDate": "2024-12-26T03:00:00Z",
+  "market_closedTime": "2024-12-19 07:57:46+00",
+  "conditionId": "0xe46ee7db7b72b676efd772c5f6bb52c6f65b99e45dd3925823c2f7f08ea6c05d",
+  "slug": "nhl-van-utah-2024-12-18",
+  "question": "Canucks vs. Utah"
+}

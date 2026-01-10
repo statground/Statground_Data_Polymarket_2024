@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:34:29.671909Z",
+  "market_createdAt": "2024-11-11T18:34:29.671909Z",
+  "market_updatedAt": "2024-11-24T02:18:49.52153Z",
+  "market_startDate": "2024-11-12T00:26:28.117937Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:40:07+00",
+  "conditionId": "0x3158010ab2d1c3f7a70549f2b1e74f95e7f393271437b92c7f65fa19039c4599",
+  "slug": "will-trump-nominate-balaji-srinivasan-for-fda-commissioner",
+  "question": "Will Trump nominate Balaji Srinivasan for FDA Commissioner?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-27T20:23:02.447610Z",
+  "market_createdAt": "2024-04-27T20:23:02.44761Z",
+  "market_updatedAt": "2024-05-07T23:09:11.602457Z",
+  "market_startDate": "2024-04-27T20:32:06.629Z",
+  "market_endDate": "2024-04-28T12:00:00Z",
+  "market_closedTime": "2024-04-29 06:30:38+00",
+  "conditionId": "0x3aec2cc2f1ab2d3acf67a69ed498e6389169f7c25fd4ef0a063edf37d87fb808",
+  "slug": "nba-phx-min-2024-04-28",
+  "question": "NBA: Phoenix Suns vs. Minnesota Timberwolves 2024-04-28"
+}

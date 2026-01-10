@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:26:05.121728Z",
+  "market_createdAt": "2024-10-13T20:26:05.121728Z",
+  "market_updatedAt": "2024-10-15T20:36:48.253239Z",
+  "market_startDate": "2024-10-14T14:50:35.592774Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 00:03:34+00",
+  "conditionId": "0x20d9d2f90a5c085aa3c8716b95725ac0291b6ddda6ba169715ac80fe0161e7da",
+  "slug": "will-czech-republic-beat-ukraine",
+  "question": "Will Czech Republic beat Ukraine?"
+}

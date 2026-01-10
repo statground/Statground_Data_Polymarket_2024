@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:39:13.635415Z",
+  "market_createdAt": "2024-08-16T00:39:13.635415Z",
+  "market_updatedAt": "2024-08-19T00:32:59.301544Z",
+  "market_startDate": "2024-08-16T03:18:52.781Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 00:30:09+00",
+  "conditionId": "0x5bc5eafe1b779cfd678424637834ab9ef48c06684d072e7d3e17ec72d7f55269",
+  "slug": "will-trump-say-secret-service-at-his-rally",
+  "question": "Will Trump say \"Secret Service\" at his rally?"
+}

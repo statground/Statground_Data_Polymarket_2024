@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T17:52:45.690647Z",
+  "market_createdAt": "2024-12-30T17:52:45.690647Z",
+  "market_updatedAt": "2025-04-02T02:06:37.206742Z",
+  "market_startDate": "2024-12-30T20:28:35.436787Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:35:04+00",
+  "conditionId": "0xfd77de0aa822710b91adc76bcf04eee11f536f7b70d55ffc6dc60a013fb1b1e7",
+  "slug": "base-airdrop-in-q1-2025",
+  "question": "Base airdrop in Q1 2025?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:43:16.092724Z",
+  "market_createdAt": "2024-11-04T23:43:16.092724Z",
+  "market_updatedAt": "2024-11-06T22:17:05.513757Z",
+  "market_startDate": "2024-11-05T00:48:15.280028Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:39:07+00",
+  "conditionId": "0xd3a91d43a9fe7c7ea6c9817dc09fdeec178be3c9dea5cdd0a712d4c9af5a2adf",
+  "slug": "will-the-match-between-losc-lille-and-juventus-end-in-a-draw",
+  "question": "Will the match between LOSC Lille and Juventus end in a draw?"
+}

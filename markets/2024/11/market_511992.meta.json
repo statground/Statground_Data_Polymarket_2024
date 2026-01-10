@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:08:38.405802Z",
+  "market_createdAt": "2024-11-05T04:08:38.405802Z",
+  "market_updatedAt": "2024-11-08T01:23:08.279491Z",
+  "market_startDate": "2024-11-05T20:10:43.13284Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:39:02+00",
+  "conditionId": "0x51056a6d3f120811ecf772bdedbd16aec9da447e253869748c7146e6f4349c0e",
+  "slug": "will-bayern-munich-beat-benfica",
+  "question": "Will Bayern Munich beat Benfica?"
+}

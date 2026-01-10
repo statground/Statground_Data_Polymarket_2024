@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:17:24.616716Z",
+  "market_createdAt": "2024-10-23T21:17:24.616716Z",
+  "market_updatedAt": "2024-10-27T23:03:02.431425Z",
+  "market_startDate": "2024-10-23T22:35:31.540899Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 00:45:40+00",
+  "conditionId": "0x08de58e3d23b82a1d49e4c694e04e1292cbfc1868accd63b9646133b7d8810ed",
+  "slug": "will-trump-say-sanctuary-city-during-pennsylvania-rally-on-october-26",
+  "question": "Will Trump say \"sanctuary city\" during Pennsylvania rally on October 26?"
+}

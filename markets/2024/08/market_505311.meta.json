@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505311",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:23:35.078725Z",
+  "market_createdAt": "2024-08-19T16:23:35.078725Z",
+  "market_updatedAt": "2024-08-29T02:17:06.456423Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-28 02:40:42+00",
+  "conditionId": "0x0a7b370969c8998a90b777a19c9697abb0ce9195e90bed9f2297d8519e3bc96c",
+  "slug": "will-gukesh-dommaraju-win-the-2024-sinquefield-cup",
+  "question": "Will Gukesh Dommaraju win the 2024 Sinquefield Cup?"
+}

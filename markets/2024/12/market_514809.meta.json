@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:39:00.589397Z",
+  "market_createdAt": "2024-12-04T21:39:00.589397Z",
+  "market_updatedAt": "2024-12-07T01:31:17.274402Z",
+  "market_startDate": "2024-12-04T21:58:43.590335Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 01:45:32+00",
+  "conditionId": "0xf74f5c2d576b050a5cbd4f14b0a70fd63afc8374b923c4d166f882ab8852c5f4",
+  "slug": "will-tucker-say-assad-during-lavrov-interview",
+  "question": "Will Tucker say \"Assad\" during Lavrov interview?"
+}

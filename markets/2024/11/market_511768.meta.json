@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:40:48.256613Z",
+  "market_createdAt": "2024-11-01T23:40:48.256613Z",
+  "market_updatedAt": "2024-11-05T00:07:07.893587Z",
+  "market_startDate": "2024-11-02T00:11:08.281Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:20:03+00",
+  "conditionId": "0x9b0d54b2cebdb17988df96026561d9c83333a5d2d78ab484bb5ebe345b6f2751",
+  "slug": "will-trump-say-garbage-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"garbage\" during North Carolina rally on Nov 3?"
+}

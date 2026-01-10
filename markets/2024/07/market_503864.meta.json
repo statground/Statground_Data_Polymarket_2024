@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T15:25:54.734881Z",
+  "market_createdAt": "2024-07-19T15:25:54.734881Z",
+  "market_updatedAt": "2024-07-27T17:53:07.929943Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-26T12:00:00Z",
+  "market_closedTime": "2024-07-26 18:05:40+00",
+  "conditionId": "0x06340e5b2f9f2bfc7b522d4fabd48f8a792799c9d41124712e53133957a1779b",
+  "slug": "solana-above-165-on-july-26",
+  "question": "Solana above $165 on July 26?"
+}

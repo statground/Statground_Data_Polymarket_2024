@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:03:08.535941Z",
+  "market_createdAt": "2024-12-09T17:03:08.535941Z",
+  "market_updatedAt": "2024-12-15T17:17:40.310995Z",
+  "market_startDate": "2024-12-09T17:06:28.823405Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:08:39+00",
+  "conditionId": "0xcb717c91e0ffd1a21ecd7569b07103d44681d0692e9208ac85d82272190ae0ea",
+  "slug": "epl-new-lei-2024-12-14-draw",
+  "question": "Will Newcastle vs. Leicester end in a draw?"
+}

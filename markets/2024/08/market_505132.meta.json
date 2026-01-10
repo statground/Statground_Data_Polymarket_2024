@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:38:16.286362Z",
+  "market_createdAt": "2024-08-14T21:38:16.286362Z",
+  "market_updatedAt": "2024-08-19T21:31:02.424309Z",
+  "market_startDate": "2024-08-15T23:11:18.378Z",
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-19 01:22:39+00",
+  "conditionId": "0x8ba1aa9eea29db8253a1d8ce17369333d333884446a9aaf7aaa60e59a62d2fef",
+  "slug": "will-joaquin-niemann-win-the-2024-liv-greenbrier-tournament",
+  "question": "Will Joaquin Niemann win the 2024 LIV Greenbrier Tournament?"
+}

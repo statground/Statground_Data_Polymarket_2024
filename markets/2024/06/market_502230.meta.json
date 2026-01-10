@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T19:56:54.682376Z",
+  "market_createdAt": "2024-06-07T19:56:54.682376Z",
+  "market_updatedAt": "2024-06-20T04:01:21.493068Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-19 04:12:32+00",
+  "conditionId": "0xe32b348950232c0a58f24541119718f00ef73a11acb359280a17740e8a5f592b",
+  "slug": "will-another-person-win-the-2024-virginia-senate-republican-primary",
+  "question": "Will another person win the 2024 Virginia Senate Republican Primary?"
+}

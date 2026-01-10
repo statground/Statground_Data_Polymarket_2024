@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T19:05:39.721911Z",
+  "market_createdAt": "2024-12-27T19:05:39.721911Z",
+  "market_updatedAt": "2024-12-29T02:27:00.325217Z",
+  "market_startDate": "2024-12-27T20:00:20.659477Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 09:03:00+00",
+  "conditionId": "0xaf54b2581caf62dcd3ad716c25d70942cf161a8cba7e09c95c8aecfe83cb8a5e",
+  "slug": "will-texas-am-and-usc-combine-for-54-or-more-points",
+  "question": "Will Texas A&M and USC combine for 54 or more points?"
+}

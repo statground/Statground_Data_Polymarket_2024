@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-21T23:58:13.634580Z",
+  "market_createdAt": "2024-07-21T23:58:13.63458Z",
+  "market_updatedAt": "2024-07-24T05:56:42.059613Z",
+  "market_startDate": "2024-07-22T00:14:43.221Z",
+  "market_endDate": "2024-07-22T12:00:00Z",
+  "market_closedTime": "2024-07-23 06:05:28+00",
+  "conditionId": "0x7e31627cdba8fe6e9ff410b2d8c5510eceaa2f57aaa04e9194baa1289d3900f8",
+  "slug": "joe-biden-video-statement-by-tomorrow",
+  "question": "Joe Biden video statement today?"
+}

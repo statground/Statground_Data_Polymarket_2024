@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:03:09.932875Z",
+  "market_createdAt": "2024-12-29T07:03:09.932875Z",
+  "market_updatedAt": "2025-01-01T05:35:33.215266Z",
+  "market_startDate": "2024-12-29T07:05:45.567171Z",
+  "market_endDate": "2025-01-07T01:00:00Z",
+  "market_closedTime": "2024-12-31 06:01:48+00",
+  "conditionId": "0x9a72982504dc898255dbf74c334cecd5a7ba4efe7f9464711356c73500de0025",
+  "slug": "nhl-utah-sea-2024-12-30",
+  "question": "Utah vs. Kraken"
+}

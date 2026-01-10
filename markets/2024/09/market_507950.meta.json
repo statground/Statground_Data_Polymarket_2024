@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T18:06:58.327099Z",
+  "market_createdAt": "2024-09-24T18:06:58.327099Z",
+  "market_updatedAt": "2024-09-27T22:46:44.683509Z",
+  "market_startDate": "2024-09-25T15:58:36.366195Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-27 00:27:09+00",
+  "conditionId": "0x6ea7d8068480299ef8bf631ebd2046b3df62726ec5a8d66dec8fa4496290263c",
+  "slug": "will-braga-beat-maccabi-tlv",
+  "question": "Will Braga beat Maccabi TLV?"
+}

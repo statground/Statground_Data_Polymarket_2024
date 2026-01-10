@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:08:58.968482Z",
+  "market_createdAt": "2024-07-09T15:08:58.968482Z",
+  "market_updatedAt": "2025-01-14T03:13:17.820246Z",
+  "market_startDate": "2024-07-09T15:08:58.968482Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-13 03:58:29+00",
+  "conditionId": "0xeb12fb23c56c8d690c51f6b2501c62fa0dcf25f8af04c0f92c68f94167a1f43b",
+  "slug": "will-the-packers-win-super-bowl-2025",
+  "question": "Will the Packers win Super Bowl 2025?"
+}

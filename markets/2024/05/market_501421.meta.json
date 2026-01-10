@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T15:11:50.342847Z",
+  "market_createdAt": "2024-05-06T15:11:50.342847Z",
+  "market_updatedAt": "2024-05-17T01:34:09.49203Z",
+  "market_startDate": "2024-05-06T15:13:12.415Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-16 03:25:03+00",
+  "conditionId": "0xe0998c146eaf75b2f75fe09bb25ccac309b23933afe41e296580ab2c08378894",
+  "slug": "celtics-vs-cavaliers-series-winner",
+  "question": "Celtics vs. Cavaliers Series Winner"
+}

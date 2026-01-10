@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:49:38.810647Z",
+  "market_createdAt": "2024-08-16T00:49:38.810647Z",
+  "market_updatedAt": "2024-08-19T00:32:55.478431Z",
+  "market_startDate": "2024-08-16T03:02:45.5Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 00:29:59+00",
+  "conditionId": "0x187e8f0dbb1344b1866415698b35a2a980842417cdd30abc5aea1af304512e2a",
+  "slug": "will-trump-say-ear-3-or-more-times-at-his-rally",
+  "question": "Will Trump say \"Ear\" 3 or more times at his rally?"
+}

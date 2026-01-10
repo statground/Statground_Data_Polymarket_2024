@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T20:14:42.768787Z",
+  "market_createdAt": "2024-10-11T20:14:42.768787Z",
+  "market_updatedAt": "2024-10-13T19:50:40.299082Z",
+  "market_startDate": "2024-10-11T20:42:34.706813Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:07:31+00",
+  "conditionId": "0x0c86a77b32d75dd8b433fe94db06129529e2cc16286267089a35f3af35dd6064",
+  "slug": "will-the-guardians-and-tigers-combine-for-6-or-more-runs",
+  "question": "Will the Guardians and Tigers combine for 6 or more runs?"
+}

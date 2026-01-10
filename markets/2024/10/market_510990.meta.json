@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:28:31.658864Z",
+  "market_createdAt": "2024-10-25T19:28:31.658864Z",
+  "market_updatedAt": "2024-10-28T05:46:44.439004Z",
+  "market_startDate": "2024-10-25T22:33:34.888585Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 09:33:20+00",
+  "conditionId": "0x08ee129709dd29ae6da4c3704ea25c1b6145fa8c04a2b4992612341f88ea0af2",
+  "slug": "will-hawaii-beat-nevada",
+  "question": "Will Hawaii beat Nevada?"
+}

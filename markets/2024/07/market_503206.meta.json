@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T23:08:49.985189Z",
+  "market_createdAt": "2024-07-03T23:08:49.985189Z",
+  "market_updatedAt": "2024-07-05T17:05:49.013544Z",
+  "market_startDate": "2024-07-03T23:32:42.829Z",
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-04 20:40:12+00",
+  "conditionId": "0x74ded21a9a02cf393b31bb49219887e01b8eb95e70743536aa166a8625931d5d",
+  "slug": "will-geoffrey-esper-eat-the-most-hot-dogs",
+  "question": "Will Geoffrey Esper eat the most hot dogs?"
+}

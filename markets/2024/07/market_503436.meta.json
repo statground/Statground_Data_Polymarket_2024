@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:34:54.061709Z",
+  "market_createdAt": "2024-07-12T19:34:54.061709Z",
+  "market_updatedAt": "2024-07-15T16:58:49.897719Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:12:08+00",
+  "conditionId": "0xc3dc642013824b232871d121e937c7910978bc26e2927d7b6a335d126a2dbe14",
+  "slug": "will-jude-bellingham-score-the-first-goal",
+  "question": "Will Jude Bellingham score the first goal?"
+}

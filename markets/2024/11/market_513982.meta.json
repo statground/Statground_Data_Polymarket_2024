@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513982",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:37:32.288230Z",
+  "market_createdAt": "2024-11-25T19:37:32.28823Z",
+  "market_updatedAt": "2024-12-20T22:09:07.079078Z",
+  "market_startDate": "2024-11-25T22:14:26.271Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:03:05+00",
+  "conditionId": "0x961a04fc0389e301c2241f4c320a3aff8b94cc401b37878cd1c7d4e25f23f6a3",
+  "slug": "will-mog-be-listed-first-on-robinhood",
+  "question": "Will $MOG be listed first on Robinhood?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502426",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T20:28:29.761107Z",
+  "market_createdAt": "2024-06-13T20:28:29.761107Z",
+  "market_updatedAt": "2024-06-27T02:41:10.444081Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 07:56:01+00",
+  "conditionId": "0x5176759112ce3c406397982f9fb30fec26734107d6ac4c1c18705c6fb08f0633",
+  "slug": "will-jason-walton-win-the-utah-republican-primary",
+  "question": "Will Jason Walton win the Utah Republican Primary?"
+}

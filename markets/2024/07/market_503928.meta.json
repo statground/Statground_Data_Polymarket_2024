@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T18:45:43.024893Z",
+  "market_createdAt": "2024-07-19T18:45:43.024893Z",
+  "market_updatedAt": "2024-08-07T13:32:53.731798Z",
+  "market_startDate": "2024-07-19T19:08:51.748Z",
+  "market_endDate": "2024-07-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 21:43:58+00",
+  "conditionId": "0x91507e165f300d4a2841e89cac4149d19ba5d92087c8e6d3c9b66a2dc7cf5437",
+  "slug": "will-the-democratic-ticket-be-all-male",
+  "question": "Will the Democratic ticket be all male?"
+}

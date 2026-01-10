@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T19:36:14.667675Z",
+  "market_createdAt": "2024-07-30T19:36:14.667675Z",
+  "market_updatedAt": "2024-08-04T16:23:01.646567Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-12T12:00:00Z",
+  "market_closedTime": "2024-08-03 19:48:32+00",
+  "conditionId": "0x5f0e67fb53d30a03a4b94e6a2781ca4b7495b638dd4c44ac2586b983769aba11",
+  "slug": "will-qinwen-zheng-chn-win-gold-in-womens-tennis",
+  "question": "Will Qinwen Zheng (CHN) win Gold in Women’s Tennis?"
+}

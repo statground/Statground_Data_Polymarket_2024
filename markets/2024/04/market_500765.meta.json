@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:49:06.010590Z",
+  "market_createdAt": "2024-04-05T16:49:06.01059Z",
+  "market_updatedAt": "2024-05-07T23:10:00.559254Z",
+  "market_startDate": "2024-04-05T21:18:23.717Z",
+  "market_endDate": "2024-04-12T12:00:00Z",
+  "market_closedTime": "2024-04-12 18:04:19+00",
+  "conditionId": "0x2e7d01f5959e3d235dac034e13f4f26237eb59b9d06f181e0ec66fae4073df6e",
+  "slug": "solana-above-175-on-april-12",
+  "question": "Solana above $175 on April 12?"
+}

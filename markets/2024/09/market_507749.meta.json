@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:44:30.861109Z",
+  "market_createdAt": "2024-09-23T18:44:30.861109Z",
+  "market_updatedAt": "2024-11-02T06:53:08.82485Z",
+  "market_startDate": "2024-09-23T19:45:30.593Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:55:05+00",
+  "conditionId": "0xf55d2f81238a7cca0879dc152c4a5a51566c7a27f5fa4e65f7a04ce2ec039492",
+  "slug": "us-military-action-against-iran-before-november",
+  "question": "U.S. military action against Iran before November?"
+}

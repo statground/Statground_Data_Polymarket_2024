@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T19:01:55.485185Z",
+  "market_createdAt": "2024-10-18T19:01:55.485185Z",
+  "market_updatedAt": "2024-10-22T00:37:13.221858Z",
+  "market_startDate": "2024-10-18T23:18:36.587504Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:50:20+00",
+  "conditionId": "0x650067380fff9d8f2505a6811f849f36d601666a3a034c34aa5b3fbe8cebf061",
+  "slug": "will-trump-say-hamas-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Hamas\" during Pennsylvania town hall on October 20?"
+}

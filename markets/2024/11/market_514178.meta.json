@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:25:16.417728Z",
+  "market_createdAt": "2024-11-26T22:25:16.417728Z",
+  "market_updatedAt": "2024-12-02T21:59:22.382769Z",
+  "market_startDate": "2024-11-27T15:10:08.765604Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 23:57:30+00",
+  "conditionId": "0xc1392de4c30f32f1da9ee09b3c42eba3706a331111c9a06ee09ae8d486252a50",
+  "slug": "will-carlos-sainz-win-the-qatar-grand-prix",
+  "question": "Will Carlos Sainz win the Qatar Grand Prix?"
+}

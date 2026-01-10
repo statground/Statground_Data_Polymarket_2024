@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:25:36.921198Z",
+  "market_createdAt": "2024-10-11T22:25:36.921198Z",
+  "market_updatedAt": "2024-10-14T21:36:54.016258Z",
+  "market_startDate": "2024-10-11T23:17:38.53587Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:08:52+00",
+  "conditionId": "0x2d401698f9827895afdf967f029c033a58d6b418828e38642167e5842cd9cd52",
+  "slug": "will-the-eagles-and-browns-combine-for-43-or-more-points",
+  "question": "Will the Eagles and Browns combine for 43 or more points?"
+}

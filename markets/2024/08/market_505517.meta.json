@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:42:39.981829Z",
+  "market_createdAt": "2024-08-21T14:42:39.981829Z",
+  "market_updatedAt": "2024-08-23T02:17:06.753443Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:41:34+00",
+  "conditionId": "0x78cd5a34cd0c3e33cf6a143fb5b584758b5b83a4a218e847f38a006772de1a75",
+  "slug": "will-pelosi-say-ceasefire-at-dnc-speech",
+  "question": "Will Pelosi say \"Ceasefire\" at DNC speech?"
+}

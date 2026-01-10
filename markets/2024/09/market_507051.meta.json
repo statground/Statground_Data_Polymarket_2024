@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:17:45.282628Z",
+  "market_createdAt": "2024-09-13T20:17:45.282628Z",
+  "market_updatedAt": "2024-09-18T02:16:47.90863Z",
+  "market_startDate": "2024-09-13T20:57:50.376Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:24:01+00",
+  "conditionId": "0x568740033ad95b8ac9f47be255eca226e542bc0504a3b50dc073f325040b8883",
+  "slug": "will-trump-say-border-during-the-x-space",
+  "question": "Will Trump say \"Border\" during the X space?"
+}

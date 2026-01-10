@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514867",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:09:30.364262Z",
+  "market_createdAt": "2024-12-05T21:09:30.364262Z",
+  "market_updatedAt": "2024-12-17T20:43:27.467876Z",
+  "market_startDate": "2024-12-10T21:01:29.183763Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:39:41+00",
+  "conditionId": "0x1c04a40cf07c1588d676bf43f07400d0f57d95e0ed51f77c271db3db004a3676",
+  "slug": "will-coinbase-announce-peanut-the-squirrel-as-next-listing",
+  "question": "Will Coinbase announce Peanut the Squirrel as next listing?"
+}

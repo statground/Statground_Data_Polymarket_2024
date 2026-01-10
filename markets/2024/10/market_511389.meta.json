@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:21:58.750132Z",
+  "market_createdAt": "2024-10-29T22:21:58.750132Z",
+  "market_updatedAt": "2024-11-05T03:47:11.993996Z",
+  "market_startDate": "2024-10-30T15:02:56.007517Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:52:14+00",
+  "conditionId": "0x3c4d9e3264298d608794285ad360e0874f0eb08facb90ad653f3f8228cac1700",
+  "slug": "will-lando-norris-win-the-brazilian-grand-prix",
+  "question": "Will Lando Norris win the Brazilian Grand Prix?"
+}

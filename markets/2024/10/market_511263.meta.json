@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:35:49.815748Z",
+  "market_createdAt": "2024-10-28T21:35:49.815748Z",
+  "market_updatedAt": "2024-11-03T03:41:13.735889Z",
+  "market_startDate": "2024-10-29T00:08:41.439888Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 06:00:14+00",
+  "conditionId": "0x2dbe36c55a0bb75beefff96fdedae3f090b9bb3edb8c1ab2120c7325bc30d785",
+  "slug": "will-trump-say-unrealized-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"unrealized\" during Wisconsin rally on Nov 1?"
+}

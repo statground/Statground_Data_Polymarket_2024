@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:24:11.097808Z",
+  "market_createdAt": "2024-07-18T19:24:11.097808Z",
+  "market_updatedAt": "2024-08-04T19:02:59.30371Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:22:30+00",
+  "conditionId": "0x0ae2b816e65fb58ec5abe4e767a1a90141521454b529698ea3f927ab934532fe",
+  "slug": "will-another-athlete-win-gold-in-shot-put",
+  "question": "Will another athlete win Gold in Shot Put?"
+}

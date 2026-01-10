@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:06:57.393045Z",
+  "market_createdAt": "2024-11-06T18:06:57.393045Z",
+  "market_updatedAt": "2024-11-24T04:32:48.469004Z",
+  "market_startDate": "2024-11-06T18:30:01.82Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:40:33+00",
+  "conditionId": "0x75f3339b115d3a948712a68736c2e6e7dd2c3835453258b258c4592225386407",
+  "slug": "will-trump-nominate-bill-hagerty-for-treasury-secretary",
+  "question": "Will Trump nominate Bill Hagerty for Treasury Secretary?"
+}

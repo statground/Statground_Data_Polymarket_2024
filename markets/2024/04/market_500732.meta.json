@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:34:21.018413Z",
+  "market_createdAt": "2024-04-04T18:34:21.018413Z",
+  "market_updatedAt": "2024-11-07T20:13:07.807444Z",
+  "market_startDate": "2024-04-12T19:00:44.42Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:55:56+00",
+  "conditionId": "0x6281da0c3cee2da5dfbdbaa9489b535f2295bc5d65159c4718d7f95738ddebc8",
+  "slug": "will-a-republican-win-vermont-us-senate-election",
+  "question": "Will a Republican win Vermont US Senate Election?"
+}

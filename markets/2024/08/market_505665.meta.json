@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:31:39.728815Z",
+  "market_createdAt": "2024-08-22T18:31:39.728815Z",
+  "market_updatedAt": "2024-08-24T08:01:01.739764Z",
+  "market_startDate": "2024-08-22T20:10:46.451Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:11:04+00",
+  "conditionId": "0x98488fa3889e371e97d905792abce01975cc61da4948108da07629d5b08d83a4",
+  "slug": "will-trump-post-bitcoin-or-btc-on-final-night-of-dnc",
+  "question": "Will Trump post \"Bitcoin\" or \"BTC\" on final night of DNC?"
+}

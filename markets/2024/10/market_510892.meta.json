@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T00:31:23.734344Z",
+  "market_createdAt": "2024-10-25T00:31:23.734344Z",
+  "market_updatedAt": "2024-11-05T16:43:08.727413Z",
+  "market_startDate": "2024-10-25T15:48:50.198581Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-04 20:10:54+00",
+  "conditionId": "0x3a03adaf2d2c2c8b66728c7b001c01e406f508b89178d9ecf0cfa6c37eeff0dc",
+  "slug": "will-harris-lead-in-rcp-by-2pt5-or-more-on-nov-4",
+  "question": "Will Harris lead in RCP by 2.5 or more on Nov 4?"
+}

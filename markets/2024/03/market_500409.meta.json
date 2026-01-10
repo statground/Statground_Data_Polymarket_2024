@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T18:58:57.152288Z",
+  "market_createdAt": "2024-03-22T18:58:57.152288Z",
+  "market_updatedAt": "2024-05-07T23:09:17.141671Z",
+  "market_startDate": "2024-03-22T19:39:38.308Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:20:33+00",
+  "conditionId": "0x695b7deb22887c3630080154e23762c9cef487a02ade6504ed78391fd7c37027",
+  "slug": "israel-x-hamas-ceasefire-before-may",
+  "question": "Israel x Hamas ceasefire before May?"
+}

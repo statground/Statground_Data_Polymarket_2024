@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T18:41:46.737822Z",
+  "market_createdAt": "2024-07-12T18:41:46.737822Z",
+  "market_updatedAt": "2024-07-15T22:48:46.227283Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:12:08+00",
+  "conditionId": "0x15ab2b1e785f1d0ce23bb72229604cde39bc7f3028c10cbbfb21158f0b76b039",
+  "slug": "euro-finals-extra-time",
+  "question": "Euro Finals extra time?"
+}

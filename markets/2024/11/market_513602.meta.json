@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:22:31.392513Z",
+  "market_createdAt": "2024-11-20T22:22:31.392513Z",
+  "market_updatedAt": "2024-12-02T04:45:15.054082Z",
+  "market_startDate": "2024-11-21T16:37:41.927907Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:29:57+00",
+  "conditionId": "0x66542fea09de637409dbd93e76da96f10e4e7e811465fe5af1ce75a30eb87360",
+  "slug": "will-lebron-tweet-again-in-november",
+  "question": "Will Lebron tweet again in November?"
+}

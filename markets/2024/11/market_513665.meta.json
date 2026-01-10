@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:25:51.655620Z",
+  "market_createdAt": "2024-11-21T22:25:51.65562Z",
+  "market_updatedAt": "2024-11-30T19:53:27.427508Z",
+  "market_startDate": "2024-11-25T18:32:44.41069Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-29 23:02:24+00",
+  "conditionId": "0x0d0d06421ec33321b9295a522103929df5a97bd1e223ec209132e1fb8b95b970",
+  "slug": "will-the-charlotte-hornets-win-the-2024-nba-cup",
+  "question": "Will the Charlotte Hornets win the 2024 NBA Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516728",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T19:59:42.523614Z",
+  "market_createdAt": "2024-12-29T19:59:42.523614Z",
+  "market_updatedAt": "2025-12-12T00:34:00.511005Z",
+  "market_startDate": "2024-12-29T22:47:57.16237Z",
+  "market_endDate": "2025-12-10T12:00:00Z",
+  "market_closedTime": "2025-12-10 22:20:58+00",
+  "conditionId": "0x6ee22365b6602d928aa7136f549cc0d718bb16b044a6d15191041b84b5f1f43d",
+  "slug": "will-5-fed-rate-cuts-happen-in-2025",
+  "question": "Will 5 Fed rate cuts happen in 2025?"
+}

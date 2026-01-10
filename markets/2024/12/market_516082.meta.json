@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T21:04:14.196844Z",
+  "market_createdAt": "2024-12-19T21:04:14.196844Z",
+  "market_updatedAt": "2025-01-13T02:31:28.358653Z",
+  "market_startDate": "2024-12-20T00:01:03.898745Z",
+  "market_endDate": "2025-01-11T12:00:00Z",
+  "market_closedTime": "2025-01-12 03:03:03+00",
+  "conditionId": "0xc10628777069dc0266dd77fddd87381fbde17e59a47892a354b87c228f4144a2",
+  "slug": "rodriguez-vs-bashi",
+  "question": "Rodriguez vs. Bashi"
+}

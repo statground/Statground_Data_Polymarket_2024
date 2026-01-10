@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T16:31:08.979000Z",
+  "market_createdAt": "2024-02-14T16:31:08.979Z",
+  "market_updatedAt": "2024-02-22T16:01:52.581Z",
+  "market_startDate": "2024-02-14T17:43:00Z",
+  "market_endDate": "2024-02-16T00:00:00Z",
+  "market_closedTime": "2024-02-21 23:01:13+00",
+  "conditionId": "0x3f508a5ec375334c84911388ed2846aabf708668ef2e4dd17bc3a4c5ec446872",
+  "slug": "will-strk-be-below-1-one-day-after-airdrop",
+  "question": "Will STRK be below $1 one day after airdrop?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:24:18.682351Z",
+  "market_createdAt": "2024-10-18T21:24:18.682351Z",
+  "market_updatedAt": "2024-10-22T01:37:15.168265Z",
+  "market_startDate": "2024-10-18T23:26:49.516706Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 01:35:22+00",
+  "conditionId": "0x9e6e688e1107d262dc9590bbed83cb633f759f8c8d8f9736bea7537a4ba85f98",
+  "slug": "will-the-rams-and-raiders-combine-for-44-or-more-points",
+  "question": "Will the Rams and Raiders combine for 44 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515587",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:29:47.964578Z",
+  "market_createdAt": "2024-12-13T19:29:47.964578Z",
+  "market_updatedAt": "2024-12-21T05:07:01.236884Z",
+  "market_startDate": "2024-12-13T19:32:14.667169Z",
+  "market_endDate": "2024-12-27T00:30:00Z",
+  "market_closedTime": "2024-12-20 05:15:39+00",
+  "conditionId": "0xcd54944be362c966902eb0d368f46e8c044e6595f71a76f480497816ff80c503",
+  "slug": "nba-chi-bos-2024-12-19",
+  "question": "Bulls vs. Celtics"
+}

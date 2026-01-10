@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:16:47.791023Z",
+  "market_createdAt": "2024-11-01T16:16:47.791023Z",
+  "market_updatedAt": "2024-11-06T10:53:10.361269Z",
+  "market_startDate": "2024-11-01T16:19:21.416289Z",
+  "market_endDate": "2024-11-05T01:30:00Z",
+  "market_closedTime": "2024-11-05 11:01:38+00",
+  "conditionId": "0xab0078cb9b35a25f0edfade82d6471de4afca9abf523c3ae80d68cc1b4c53f28",
+  "slug": "nba-uta-chi-2024-11-04",
+  "question": "Jazz vs. Bulls"
+}

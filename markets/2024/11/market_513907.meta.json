@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:54:25.558594Z",
+  "market_createdAt": "2024-11-24T18:54:25.558594Z",
+  "market_updatedAt": "2024-11-29T04:17:26.859511Z",
+  "market_startDate": "2024-11-24T18:57:22.337639Z",
+  "market_endDate": "2024-12-05T00:00:00Z",
+  "market_closedTime": "2024-11-28 04:58:04+00",
+  "conditionId": "0xbfc6f626bcfb96b59534ec232d54c79afc4a379db2078ffa14bcaeb5bcef0679",
+  "slug": "nba-hou-phi-2024-11-27",
+  "question": "Rockets vs. 76ers"
+}

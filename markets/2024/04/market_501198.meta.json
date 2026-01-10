@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T19:47:39.206888Z",
+  "market_createdAt": "2024-04-25T19:47:39.206888Z",
+  "market_updatedAt": "2024-05-29T23:56:10.69613Z",
+  "market_startDate": "2024-04-25T19:57:32.924Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-29 00:27:19+00",
+  "conditionId": "0x4dcd86e503db974a04da4ef751671e357ef9b96719c0e64861431048dd100d96",
+  "slug": "will-nikki-haley-endorse-trump-before-june",
+  "question": "Will Nikki Haley endorse Trump before June?"
+}

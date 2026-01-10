@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:02:44.250642Z",
+  "market_createdAt": "2024-12-15T07:02:44.250642Z",
+  "market_updatedAt": "2024-12-19T07:27:20.606294Z",
+  "market_startDate": "2024-12-15T07:05:29.389792Z",
+  "market_endDate": "2024-12-25T03:00:00Z",
+  "market_closedTime": "2024-12-18 07:34:37+00",
+  "conditionId": "0x7b39a3d7437cfeda0ab690268acced49b7c387f7afd3db905fa332602541879c",
+  "slug": "nhl-ott-sea-2024-12-17",
+  "question": "Senators vs. Kraken"
+}

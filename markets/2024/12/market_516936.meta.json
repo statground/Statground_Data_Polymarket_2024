@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T16:37:48.622117Z",
+  "market_createdAt": "2024-12-31T16:37:48.622117Z",
+  "market_updatedAt": "2025-02-02T05:21:12.25386Z",
+  "market_startDate": "2024-12-31T16:47:04.421649Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:41:14+00",
+  "conditionId": "0x9275d673250e74063977c97f6de626a899e960ac2dc56d0bea0364c6e825126f",
+  "slug": "will-siqi-chen-refund-500000-in-zero-losses",
+  "question": "Will Siqi Chen refund >$500,000 in $ZERO losses?"
+}

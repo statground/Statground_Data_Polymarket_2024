@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:47:26.776864Z",
+  "market_createdAt": "2024-07-26T23:47:26.776864Z",
+  "market_updatedAt": "2024-08-02T18:02:57.912754Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-01 21:07:33+00",
+  "conditionId": "0x2ddc7f4d119cc7ece2b9e4306d4642a1d62337a56b69a0c4102fb894245c1f24",
+  "slug": "will-casper-ruud-nor-win-gold-in-mens-tennis",
+  "question": "Will Casper Ruud (NOR) win Gold in Men's Tennis?"
+}

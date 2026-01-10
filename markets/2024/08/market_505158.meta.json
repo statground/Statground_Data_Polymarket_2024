@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:00:06.005979Z",
+  "market_createdAt": "2024-08-15T17:00:06.005979Z",
+  "market_updatedAt": "2024-08-25T05:02:59.708495Z",
+  "market_startDate": "2024-08-20T14:56:57.135Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 06:05:01+00",
+  "conditionId": "0xa01f8c4d49984b0274eaf328df98fc50899870c1f977875bc7075ffd6b3292bd",
+  "slug": "iran-military-response-by-august-23",
+  "question": "Iran military response by Friday?"
+}

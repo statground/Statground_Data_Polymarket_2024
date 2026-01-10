@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512652",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:01:22.298963Z",
+  "market_createdAt": "2024-11-11T17:01:22.298963Z",
+  "market_updatedAt": "2024-11-18T23:39:17.172963Z",
+  "market_startDate": "2024-11-11T17:03:54.664712Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:32:08+00",
+  "conditionId": "0x3c46eff5ba4360c0a376488421ca2bc39ceb3272e6c7b6042d593390eedbdcc3",
+  "slug": "nfl-bal-pit-2024-11-17",
+  "question": "Ravens vs. Steelers"
+}

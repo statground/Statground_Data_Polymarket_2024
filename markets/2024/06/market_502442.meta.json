@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:35:41.327933Z",
+  "market_createdAt": "2024-06-14T15:35:41.327933Z",
+  "market_updatedAt": "2024-06-26T20:56:14.000076Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:14:57+00",
+  "conditionId": "0x145ba1b287f8b1f17d3299356993560c8a55ad11f88b7a9e0ce2f4a06aef3546",
+  "slug": "will-denmark-win-group-c",
+  "question": "Will Denmark win Group C?"
+}

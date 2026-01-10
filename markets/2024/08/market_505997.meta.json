@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:24:03.882582Z",
+  "market_createdAt": "2024-08-28T19:24:03.882582Z",
+  "market_updatedAt": "2024-08-31T04:47:02.98586Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:21:06+00",
+  "conditionId": "0x30e4fcc6c4594e7d7c2884aec94a0c89a0b8dffe424c194e2e48bbc1660431d8",
+  "slug": "will-tim-walz-say-coach-during-cnn-interview",
+  "question": "Will Tim Walz say \"Coach\" during CNN interview?"
+}

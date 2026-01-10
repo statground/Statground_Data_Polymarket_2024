@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510406",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:34:12.055620Z",
+  "market_createdAt": "2024-10-21T21:34:12.05562Z",
+  "market_updatedAt": "2024-10-23T21:07:16.687268Z",
+  "market_startDate": "2024-10-22T00:40:13.245451Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-22 21:59:28+00",
+  "conditionId": "0x710aba2c61e16b197e3dc0a2e1c8682f5af286e1de249170f381eda6123dbed1",
+  "slug": "will-ac-milan-beat-club-brugge",
+  "question": "Will AC Milan beat Club Brugge?"
+}

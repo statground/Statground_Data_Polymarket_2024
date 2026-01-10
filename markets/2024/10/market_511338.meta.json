@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:29:16.528057Z",
+  "market_createdAt": "2024-10-29T19:29:16.528057Z",
+  "market_updatedAt": "2024-11-01T03:22:56.568973Z",
+  "market_startDate": "2024-10-29T20:09:06.821399Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-31 04:14:06+00",
+  "conditionId": "0xfa95e87e98973dfcdf821d12f7c3b8b671f27e727bef913cf110ccdc1b1e008f",
+  "slug": "will-trump-say-mail-in-ballot-during-hannity-interview",
+  "question": "Will Trump say \"Mail-In Ballot\" during Hannity interview?"
+}

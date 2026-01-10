@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508819",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:17:17.073531Z",
+  "market_createdAt": "2024-10-03T22:17:17.073531Z",
+  "market_updatedAt": "2025-05-02T08:20:35.424997Z",
+  "market_startDate": "2024-10-04T15:29:34.347978Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-05-01 10:38:07+00",
+  "conditionId": "0x605e3f184a0993ecf5eba4837342c40d6e6e39ca9ffb57ebce925d2b10f65f14",
+  "slug": "will-the-los-angeles-lakers-win-the-western-conference",
+  "question": "Will the Los Angeles Lakers win the Western Conference?"
+}

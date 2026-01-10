@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T22:31:37.101046Z",
+  "market_createdAt": "2024-11-06T22:31:37.101046Z",
+  "market_updatedAt": "2024-11-17T21:45:17.27269Z",
+  "market_startDate": "2024-11-06T22:46:40.17636Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-17 01:01:16+00",
+  "conditionId": "0x621a9686b7e78dc98cc2a6bdabf5f315a8edee49359b7e6cf3fd0b603a864c6d",
+  "slug": "will-trump-nominate-paul-dabbar-for-energy-secretary",
+  "question": "Will Trump nominate Paul Dabbar for Energy Secretary?"
+}

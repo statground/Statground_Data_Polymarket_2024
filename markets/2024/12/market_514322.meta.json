@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:00:12.234158Z",
+  "market_createdAt": "2024-12-01T06:00:12.234158Z",
+  "market_updatedAt": "2024-12-09T23:33:23.401396Z",
+  "market_startDate": "2024-12-01T06:03:20.504361Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:30:46+00",
+  "conditionId": "0x6b4968a4e7fcaf7179b825d87c108683cc3086eecaebaefd7d7bc47b9ec7ebf7",
+  "slug": "nfl-cle-pit-2024-12-08",
+  "question": "Browns vs. Steelers"
+}

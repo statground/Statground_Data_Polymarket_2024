@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T23:18:36.089155Z",
+  "market_createdAt": "2024-09-17T23:18:36.089155Z",
+  "market_updatedAt": "2024-09-23T19:06:48.694568Z",
+  "market_startDate": "2024-09-18T03:22:18.479391Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 03:30:28+00",
+  "conditionId": "0xd2827f3767400cb33b8ed82e6a3513a7311a24ce52e4fce039636fa280aeba8b",
+  "slug": "will-oscar-piastri-win-the-singapore-grand-prix",
+  "question": "Will Oscar Piastri win the Singapore Grand Prix?"
+}

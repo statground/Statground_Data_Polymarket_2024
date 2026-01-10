@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:47:11.119695Z",
+  "market_createdAt": "2024-09-13T20:47:11.119695Z",
+  "market_updatedAt": "2024-09-16T20:50:42.784045Z",
+  "market_startDate": "2024-09-13T20:51:20.733Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 22:03:23+00",
+  "conditionId": "0x8587cd25a238992ccc4cb59d4f95a49cb0dc15c9b6a393dc7d4f8b0eb0f838ed",
+  "slug": "will-the-chargers-beat-the-panthers-by-5-or-more-points",
+  "question": "Will the Chargers beat the Panthers by 5 or more points? "
+}

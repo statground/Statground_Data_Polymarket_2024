@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:36:00.678026Z",
+  "market_createdAt": "2024-10-09T21:36:00.678026Z",
+  "market_updatedAt": "2024-11-06T06:47:08.702253Z",
+  "market_startDate": "2024-10-09T22:41:53.460677Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:48:33+00",
+  "conditionId": "0xfe93e51fb62a364b63ecedabdce6ec478e8305fe44c065cb58a4e12a0d4a1934",
+  "slug": "category-5-hurricane-hits-us-before-election",
+  "question": "Category 5 hurricane hits US before election?"
+}

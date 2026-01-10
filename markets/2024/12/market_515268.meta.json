@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:04:36.010865Z",
+  "market_createdAt": "2024-12-10T19:04:36.010865Z",
+  "market_updatedAt": "2024-12-12T19:37:17.2249Z",
+  "market_startDate": "2024-12-11T00:13:12.092315Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 20:39:22+00",
+  "conditionId": "0x97bcff41aaecd56e82e1fb63043683e1122979c032a2723531e8985317470c64",
+  "slug": "will-fenerbahce-beat-athletic-bilbao",
+  "question": "Will Fenerbahce beat Athletic Bilbao?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508790",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:57:22.282447Z",
+  "market_createdAt": "2024-10-03T20:57:22.282447Z",
+  "market_updatedAt": "2024-10-10T05:00:48.324108Z",
+  "market_startDate": "2024-10-03T22:35:54.308Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 05:01:03+00",
+  "conditionId": "0x53b4da15104f1869b7648857f484eaa19049c2dbb9203bbe911aa29883da2fc1",
+  "slug": "will-the-hbo-documentary-identify-elon-musk-as-satoshi",
+  "question": "Will the HBO documentary identify Elon Musk as Satoshi?"
+}

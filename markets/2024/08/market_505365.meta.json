@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:18:15.069293Z",
+  "market_createdAt": "2024-08-19T19:18:15.069293Z",
+  "market_updatedAt": "2024-08-22T05:36:57.772933Z",
+  "market_startDate": "2024-08-20T15:21:26.489Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:30:34+00",
+  "conditionId": "0x7e41c93255ad64a022a9573aaedaf213d811e44f1e2781af889124a80d12752b",
+  "slug": "will-obama-say-democracy-3-or-more-times-at-dnc-speech",
+  "question": "Will Obama say \"Democracy\" 3 or more times at DNC speech?"
+}

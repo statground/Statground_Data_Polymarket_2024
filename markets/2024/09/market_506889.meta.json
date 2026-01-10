@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T15:13:46.093766Z",
+  "market_createdAt": "2024-09-12T15:13:46.093766Z",
+  "market_updatedAt": "2024-09-14T03:41:08.461032Z",
+  "market_startDate": "2024-09-12T15:37:12.615066Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 05:16:34+00",
+  "conditionId": "0x4f8d34d2f601caa4459995e5b03e523a5094c783eb3dfc62c26add0b028f1fd6",
+  "slug": "will-there-be-49-or-more-combined-points-scored-mia-buf",
+  "question": "Will there be 49 or more combined points scored?"
+}

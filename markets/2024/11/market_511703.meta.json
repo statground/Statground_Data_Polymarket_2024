@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:50:24.581842Z",
+  "market_createdAt": "2024-11-01T18:50:24.581842Z",
+  "market_updatedAt": "2024-11-05T00:47:13.294007Z",
+  "market_startDate": "2024-11-01T22:16:34.621322Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:49:03+00",
+  "conditionId": "0x30c4f499071b57522c13abedf4fab2cb8debe9517b8385161deb8cc8487033cf",
+  "slug": "will-the-saints-beat-the-panthers-by-7-or-more-points",
+  "question": "Will the Saints beat the Panthers by 7 or more points?"
+}

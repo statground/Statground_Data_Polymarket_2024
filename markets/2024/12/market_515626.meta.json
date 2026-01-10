@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:32:50.623284Z",
+  "market_createdAt": "2024-12-13T22:32:50.623284Z",
+  "market_updatedAt": "2024-12-16T18:13:32.558067Z",
+  "market_startDate": "2024-12-13T23:33:43.176219Z",
+  "market_endDate": "2024-12-15T12:00:00Z",
+  "market_closedTime": "2024-12-15 23:16:46+00",
+  "conditionId": "0x5d1c80ebebda87365355fa210ee2a6ab8f118a8f73ed9c00d3b14638d9b98e17",
+  "slug": "will-the-chiefs-beat-the-browns-by-5-or-more-points",
+  "question": "Will the Chiefs beat the Browns by 5 or more points?"
+}

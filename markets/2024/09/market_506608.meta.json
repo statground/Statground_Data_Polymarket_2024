@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506608",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-07T18:45:44.148052Z",
+  "market_createdAt": "2024-09-07T18:45:44.148052Z",
+  "market_updatedAt": "2024-09-09T00:56:58.377402Z",
+  "market_startDate": "2024-09-07T19:57:10.007628Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:56:10+00",
+  "conditionId": "0x2de7710c0be542e8ea6238c8df1e28e15ff5e01c93b00efbc7035ec266e32d11",
+  "slug": "schnell-vs-durden",
+  "question": "Schnell vs. Durden"
+}

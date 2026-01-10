@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:55:45.735223Z",
+  "market_createdAt": "2024-11-08T22:55:45.735223Z",
+  "market_updatedAt": "2024-11-19T23:07:05.778131Z",
+  "market_startDate": "2024-11-13T23:34:40.643Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 02:37:08+00",
+  "conditionId": "0x56081e10d34d9157622b02d8ff61d269906f0baf84058de92a839c0fe848b011",
+  "slug": "will-trump-nominate-another-candidate-for-transportation-secretary",
+  "question": "Will Trump nominate another candidate for Transportation Secretary?"
+}

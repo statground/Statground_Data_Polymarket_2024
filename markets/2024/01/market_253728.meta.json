@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253728",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T18:29:49.174000Z",
+  "market_createdAt": "2024-01-09T18:29:49.174Z",
+  "market_updatedAt": "2024-11-13T09:03:09.43639Z",
+  "market_startDate": "2024-01-09T23:44:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-12 09:03:05+00",
+  "conditionId": "0x037c9d29c04a2f6a5373ae7db7779cb40a751ca372de1e55999397a8f571c67e",
+  "slug": "will-ron-desantis-win-the-popular-vote-in-the-2024-presidential-election",
+  "question": "Will Ron DeSantis win the popular vote in the 2024 Presidential Election?"
+}

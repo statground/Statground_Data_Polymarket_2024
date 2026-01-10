@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T22:34:41.615595Z",
+  "market_createdAt": "2024-07-01T22:34:41.615595Z",
+  "market_updatedAt": "2024-07-02T23:55:45.861205Z",
+  "market_startDate": "2024-07-01T22:52:01.233Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-02 02:46:35+00",
+  "conditionId": "0x7917d305da381997d544093ee3feacd5726041ca565637c227719999ed603f7f",
+  "slug": "will-biden-say-impeach-during-his-speech",
+  "question": "Will Biden say \"Impeach\" during his speech?"
+}

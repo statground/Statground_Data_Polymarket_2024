@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:01:48.772406Z",
+  "market_createdAt": "2024-12-17T21:01:48.772406Z",
+  "market_updatedAt": "2025-03-15T13:07:28.680647Z",
+  "market_startDate": "2024-12-18T15:06:47.402371Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-03-14 14:57:43+00",
+  "conditionId": "0x5f060d4e55f2bff3b50212beb080beaf6623e440b096aa60301d49b61cf82cfb",
+  "slug": "will-the-afd-win-15-20-of-the-vote-in-the-german-election",
+  "question": "Will the AfD win 15-20% of the vote in the German election?"
+}

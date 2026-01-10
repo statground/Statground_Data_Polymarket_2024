@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502480",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T21:17:51.829729Z",
+  "market_createdAt": "2024-06-14T21:17:51.829729Z",
+  "market_updatedAt": "2024-06-17T00:01:16.240984Z",
+  "market_startDate": "2024-06-14T21:45:00.394Z",
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-16 00:25:42+00",
+  "conditionId": "0x5284015b661ac0368d828917217e663da1ba32e3f5c78b23452a75c915fd8c82",
+  "slug": "ben-armstrong-bitboy-knocked-out",
+  "question": "Bitboy KO'd?"
+}

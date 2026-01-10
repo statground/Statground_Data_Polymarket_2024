@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:02:54.299806Z",
+  "market_createdAt": "2024-07-26T19:02:54.299806Z",
+  "market_updatedAt": "2024-07-28T21:35:01.831472Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:35:29+00",
+  "conditionId": "0xb50e4eb3b151f97e8656e814953c818b12347e71a3924a62e19ef9d7ff4bb339",
+  "slug": "will-trump-say-bitcoin-5-times-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Bitcoin\" 5+ times during his Bitcoin Conference speech?"
+}

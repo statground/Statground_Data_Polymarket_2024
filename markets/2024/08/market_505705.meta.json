@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T03:22:53.200811Z",
+  "market_createdAt": "2024-08-23T03:22:53.200811Z",
+  "market_updatedAt": "2024-08-26T05:30:53.218696Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-25 06:36:41+00",
+  "conditionId": "0x687aa3eda2294c2c92d8536193990bc1f43f713152ace365f6a8a617c61a8b25",
+  "slug": "hill-vs-ricci",
+  "question": "Hill vs. Ricci"
+}

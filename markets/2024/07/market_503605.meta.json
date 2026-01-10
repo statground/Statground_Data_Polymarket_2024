@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T16:23:40.441116Z",
+  "market_createdAt": "2024-07-17T16:23:40.441116Z",
+  "market_updatedAt": "2024-09-02T13:31:03.570212Z",
+  "market_startDate": "2024-07-17T16:23:40.441116Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 13:28:47+00",
+  "conditionId": "0xbe453e2646482373c289fe485ef7bb0d76c92ae3aa50a720c38533e9814dd49e",
+  "slug": "fact-check-foreign-government-behind-attempt-on-trump",
+  "question": "Fact Check: Foreign government behind attempt on Trump?"
+}

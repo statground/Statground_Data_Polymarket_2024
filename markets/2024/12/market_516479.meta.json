@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T20:41:08.411921Z",
+  "market_createdAt": "2024-12-26T20:41:08.411921Z",
+  "market_updatedAt": "2025-02-01T23:48:40.946155Z",
+  "market_startDate": "2024-12-30T17:57:21.547152Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 00:48:49+00",
+  "conditionId": "0x5eeeda882e8c5408beade42868709dc3d2569d0b1b73983e6ccfefbcd338721e",
+  "slug": "will-another-company-be-the-largest-company-in-the-world-by-market-cap-on-january-31",
+  "question": "Will another company be the largest company in the world by market cap on January 31?"
+}

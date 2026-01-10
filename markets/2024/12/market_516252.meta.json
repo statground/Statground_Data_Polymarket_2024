@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:03:54.635743Z",
+  "market_createdAt": "2024-12-22T06:03:54.635743Z",
+  "market_updatedAt": "2024-12-30T23:09:49.293561Z",
+  "market_startDate": "2024-12-22T06:06:28.017016Z",
+  "market_endDate": "2025-01-05T18:00:00Z",
+  "market_closedTime": "2024-12-29 23:21:09+00",
+  "conditionId": "0x5f18896851d6fabcaacbf03d8e6b3a04cf07a809ece78a1d86cd59c84cf6f9f2",
+  "slug": "nfl-nyj-buf-2024-12-29",
+  "question": "Jets vs. Bills"
+}

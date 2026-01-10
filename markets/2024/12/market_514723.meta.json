@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:32:33.683952Z",
+  "market_createdAt": "2024-12-04T20:32:33.683952Z",
+  "market_updatedAt": "2024-12-07T00:37:20.100217Z",
+  "market_startDate": "2024-12-04T21:58:13.646776Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 01:55:31+00",
+  "conditionId": "0x331700fed650dab82d9ae1bc8086f0bfb1fdb85958e67948d970cf99af7cda7e",
+  "slug": "will-tucker-say-ukraine-10-or-more-times-during-lavrov-interview",
+  "question": "Will Tucker say \"Ukraine\" 10 or more times during Lavrov interview?"
+}

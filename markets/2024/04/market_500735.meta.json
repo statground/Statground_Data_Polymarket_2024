@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500735",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:38:42.891097Z",
+  "market_createdAt": "2024-04-04T18:38:42.891097Z",
+  "market_updatedAt": "2024-11-09T21:28:50.174679Z",
+  "market_startDate": "2024-04-12T18:58:01.088Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 01:05:21+00",
+  "conditionId": "0x7f1f8a4728c54dd23057ddd2f690651375539ae7fea37a00f42c6f1890cd52c4",
+  "slug": "will-a-democrat-win-maine-us-senate-election",
+  "question": "Will a Democrat win Maine US Senate Election?"
+}

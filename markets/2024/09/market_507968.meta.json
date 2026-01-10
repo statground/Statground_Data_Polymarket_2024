@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T18:33:18.092817Z",
+  "market_createdAt": "2024-09-24T18:33:18.092817Z",
+  "market_updatedAt": "2024-09-27T21:12:52.589198Z",
+  "market_startDate": "2024-09-25T15:30:00.41897Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-27 00:22:31+00",
+  "conditionId": "0xfa47dd107e2882a2d0161424e1a56d883e66b7ff23da2d580c4c26421b9a8e69",
+  "slug": "will-olympiacos-beat-lyon",
+  "question": "Will Olympiacos beat Lyon?"
+}

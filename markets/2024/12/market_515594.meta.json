@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:31:30.283448Z",
+  "market_createdAt": "2024-12-13T19:31:30.283448Z",
+  "market_updatedAt": "2024-12-21T06:10:56.086561Z",
+  "market_startDate": "2024-12-13T19:34:00.074754Z",
+  "market_endDate": "2024-12-27T02:30:00Z",
+  "market_closedTime": "2024-12-20 06:56:02+00",
+  "conditionId": "0xa8cdb8a327998e080180df6fd5626495b565d118f372edac89971ab0a6545fb8",
+  "slug": "nba-nyk-min-2024-12-19",
+  "question": "Knicks vs. Timberwolves"
+}

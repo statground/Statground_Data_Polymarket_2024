@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510484",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:40:18.003462Z",
+  "market_createdAt": "2024-10-22T00:40:18.003462Z",
+  "market_updatedAt": "2024-10-28T19:11:01.871514Z",
+  "market_startDate": "2024-10-22T00:43:00.859Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:20:06+00",
+  "conditionId": "0x1ef8856ad6fad61ece10b294307896db019cace89c8130115e34e0ddf34eeb97",
+  "slug": "epl-che-new-2024-10-27-draw",
+  "question": "Will Chelsea vs. Newcastle end in a draw?"
+}

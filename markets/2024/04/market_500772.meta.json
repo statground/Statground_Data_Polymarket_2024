@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T18:04:06.879973Z",
+  "market_createdAt": "2024-04-05T18:04:06.879973Z",
+  "market_updatedAt": "2024-05-07T23:10:01.855617Z",
+  "market_startDate": "2024-04-08T16:45:47.522Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-20 02:37:46+00",
+  "conditionId": "0xb03b86475a958a8b062b251a319d410c855b0b783017525f816fc16363c84439",
+  "slug": "will-civil-war-gross-less-than-23m-opening-weekend",
+  "question": "Will 'Civil War' gross more than $23m opening weekend?"
+}

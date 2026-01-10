@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T15:22:42.478711Z",
+  "market_createdAt": "2024-08-01T15:22:42.478711Z",
+  "market_updatedAt": "2024-08-02T23:17:02.352465Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-01 23:30:24+00",
+  "conditionId": "0xa0ac353b64c8b50456f220b325ff579642d97034b7e693f68938fbce39e197d3",
+  "slug": "will-australia-win-gold-in-the-womens-4x200m-freestyle-relay-at-the-2024-summer-olympics",
+  "question": "Will Australia win Gold in the Women’s 4x200m Freestyle Relay at the 2024 Summer Olympics?"
+}

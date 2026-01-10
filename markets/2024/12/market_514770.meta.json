@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:12:29.423770Z",
+  "market_createdAt": "2024-12-04T21:12:29.42377Z",
+  "market_updatedAt": "2024-12-08T03:43:07.072872Z",
+  "market_startDate": "2024-12-04T21:15:58.767857Z",
+  "market_endDate": "2024-12-14T00:30:00Z",
+  "market_closedTime": "2024-12-07 05:15:34+00",
+  "conditionId": "0x21ca62c569af96a09caacfba32067cbc30129419b37713b6ce3426c92b166605",
+  "slug": "nhl-pit-nyr-2024-12-06",
+  "question": "Penguins vs. Rangers"
+}

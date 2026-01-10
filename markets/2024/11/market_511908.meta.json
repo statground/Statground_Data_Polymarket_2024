@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:33:52.633253Z",
+  "market_createdAt": "2024-11-04T18:33:52.633253Z",
+  "market_updatedAt": "2024-11-09T04:42:52.860401Z",
+  "market_startDate": "2024-11-04T18:37:06.179403Z",
+  "market_endDate": "2024-11-08T01:00:00Z",
+  "market_closedTime": "2024-11-08 05:33:23+00",
+  "conditionId": "0xb37e76356ee6779bc6118e6a767af020a46f787745c4382fcaa795853cc5eb2c",
+  "slug": "nba-uta-mil-2024-11-07",
+  "question": "Jazz vs. Bucks"
+}

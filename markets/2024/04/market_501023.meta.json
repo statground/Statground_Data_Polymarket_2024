@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-17T17:34:04.664251Z",
+  "market_createdAt": "2024-04-17T17:34:04.664251Z",
+  "market_updatedAt": "2024-05-07T23:09:14.875488Z",
+  "market_startDate": "2024-04-23T20:22:25.502Z",
+  "market_endDate": "2024-04-29T12:00:00Z",
+  "market_closedTime": "2024-04-30 01:13:09+00",
+  "conditionId": "0xd6b789415f690f657b53e4dd42065023bbc1f230861d5f740bec09394cd8acb6",
+  "slug": "will-challengers-gross-between-16m-and-19m-opening-weekend",
+  "question": "Will 'Challengers' gross between $16m and $19m opening weekend?"
+}

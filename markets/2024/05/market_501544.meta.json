@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T14:21:23.799670Z",
+  "market_createdAt": "2024-05-13T14:21:23.79967Z",
+  "market_updatedAt": "2024-05-15T05:54:18.411201Z",
+  "market_startDate": "2024-05-13T14:35:16.931Z",
+  "market_endDate": "2024-05-13T12:00:00Z",
+  "market_closedTime": "2024-05-14 06:01:15+00",
+  "conditionId": "0x5b502043d04aff8836ec1ebc0ae0607d2cf5260f843712ebc246a05d95b09e4b",
+  "slug": "will-theroaringkitty-tweet-about-gamestop-today",
+  "question": "Will Roaring Kitty tweet about GameStop today?"
+}

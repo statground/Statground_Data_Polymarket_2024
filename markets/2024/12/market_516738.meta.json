@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516738",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:02:17.013330Z",
+  "market_createdAt": "2024-12-30T05:02:17.01333Z",
+  "market_updatedAt": "2025-01-05T17:49:30.145455Z",
+  "market_startDate": "2024-12-30T05:04:50.508511Z",
+  "market_endDate": "2025-01-04T12:30:00Z",
+  "market_closedTime": "2025-01-04 17:48:32+00",
+  "conditionId": "0x46d2f51c680c3ecb92d7f8c8f04f488f88a6abebef179a72a382a37930df4b27",
+  "slug": "epl-tot-new-2025-01-04-tot",
+  "question": "Will Tottenham win on 2025-01-04?"
+}

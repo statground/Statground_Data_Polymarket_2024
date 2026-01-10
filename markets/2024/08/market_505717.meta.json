@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505717",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T15:05:04.268759Z",
+  "market_createdAt": "2024-08-23T15:05:04.268759Z",
+  "market_updatedAt": "2024-08-31T16:57:15.824843Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 18:09:26+00",
+  "conditionId": "0x1178b9bfa66b44178a201c4c096c49159364dcd61a7c35e31e7337e18c1214c8",
+  "slug": "solana-above-145-on-august-30",
+  "question": "Solana above $145 on August 30?"
+}

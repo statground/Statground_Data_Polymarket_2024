@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T14:57:38.294096Z",
+  "market_createdAt": "2024-08-20T14:57:38.294096Z",
+  "market_updatedAt": "2024-12-23T00:33:33.940381Z",
+  "market_startDate": "2024-08-22T19:02:23.487Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2024-12-22 03:54:14+00",
+  "conditionId": "0xf8b59fb8be8d6290203c841e7b6c7b1f8610f44402213fd9f7d612d972dc9733",
+  "slug": "will-clemson-win-the-2025-college-football-playoff",
+  "question": "Will Clemson win the 2025 College Football Playoff?"
+}

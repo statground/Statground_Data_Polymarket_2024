@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:52:08.615944Z",
+  "market_createdAt": "2024-10-09T20:52:08.615944Z",
+  "market_updatedAt": "2024-10-14T22:56:51.609362Z",
+  "market_startDate": "2024-10-10T23:10:06.149726Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:22:47+00",
+  "conditionId": "0x3591c074ecb66520d775070965c8189b122128c116dddf71288c00918e396276",
+  "slug": "will-trump-say-insane-asylum-during-arizona-rally-on-october-13",
+  "question": "Will Trump say \"insane asylum\" during Arizona rally on October 13?"
+}

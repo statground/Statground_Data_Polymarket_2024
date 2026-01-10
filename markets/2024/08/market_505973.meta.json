@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T15:50:20.913912Z",
+  "market_createdAt": "2024-08-28T15:50:20.913912Z",
+  "market_updatedAt": "2024-09-13T23:11:04.13158Z",
+  "market_startDate": "2024-09-05T20:27:29.668Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-12 23:06:14+00",
+  "conditionId": "0x57dac01cc866bc75c238fcc14f8a0d2dbc524a4d3378f800d640c15d11d7c545",
+  "slug": "who-will-win-the-debate-according-to-polls",
+  "question": "Who will win the debate according to polls?"
+}

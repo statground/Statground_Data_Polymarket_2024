@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T18:34:17.535187Z",
+  "market_createdAt": "2024-07-08T18:34:17.535187Z",
+  "market_updatedAt": "2024-08-02T17:13:04.512332Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 07:24:22+00",
+  "conditionId": "0x69c0ab82e4f2b041aa48bcd5587158b9d5e689b4d32dccfa6e1b0c3fb28d72f7",
+  "slug": "new-french-government-formed-in-july",
+  "question": "New French government formed in July?"
+}

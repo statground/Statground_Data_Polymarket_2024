@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515908",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:09:33.226117Z",
+  "market_createdAt": "2024-12-17T21:09:33.226117Z",
+  "market_updatedAt": "2025-03-14T15:25:42.672877Z",
+  "market_startDate": "2024-12-17T22:20:21.224Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-03-14 15:22:43+00",
+  "conditionId": "0x8958c6464359ba927b09a2f03663a6f450e2f1eeae66edadc697a541d73bd458",
+  "slug": "will-the-spd-win-over-30-of-the-vote-in-the-german-election",
+  "question": "Will the SPD win over 30% of the vote in the German election?"
+}

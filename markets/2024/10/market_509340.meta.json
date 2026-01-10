@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:12:30.122074Z",
+  "market_createdAt": "2024-10-09T17:12:30.122074Z",
+  "market_updatedAt": "2025-04-14T16:20:27.381559Z",
+  "market_startDate": "2024-10-10T20:12:09.843285Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 03:53:42+00",
+  "conditionId": "0x7cb5a53b9e9306030718bc0a3906b40e32a415d4081e7604d969cde3e73c4493",
+  "slug": "will-jayson-tatum-lead-the-nba-in-scoring",
+  "question": "Will Jayson Tatum lead the NBA in scoring?"
+}

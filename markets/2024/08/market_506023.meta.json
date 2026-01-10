@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:47:47.161148Z",
+  "market_createdAt": "2024-08-28T19:47:47.161148Z",
+  "market_updatedAt": "2024-12-09T21:09:32.90977Z",
+  "market_startDate": "2024-08-28T19:47:47.161148Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:57:38+00",
+  "conditionId": "0xc97776ba22ead07065d7fa6062b89e82a5537f9ec3f852676e38aa322434a17c",
+  "slug": "will-the-titans-win-the-afc-championship",
+  "question": "Will the Titans win the AFC Championship?"
+}

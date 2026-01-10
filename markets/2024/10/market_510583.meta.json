@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:46:25.870402Z",
+  "market_createdAt": "2024-10-22T16:46:25.870402Z",
+  "market_updatedAt": "2024-10-25T18:53:12.956242Z",
+  "market_startDate": "2024-10-22T21:18:55.805515Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:08:06+00",
+  "conditionId": "0xa9ba190f563255c04f8c99f4f32ee704089bf9bf00e24923a0b85a85a190f26c",
+  "slug": "will-the-match-between-malmo-and-olympiacos-end-in-a-draw",
+  "question": "Will the match between Malmo and Olympiacos end in a draw?"
+}

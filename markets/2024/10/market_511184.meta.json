@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:14:03.185438Z",
+  "market_createdAt": "2024-10-28T20:14:03.185438Z",
+  "market_updatedAt": "2024-11-04T23:21:21.289876Z",
+  "market_startDate": "2024-10-28T20:16:41.885289Z",
+  "market_endDate": "2024-11-03T18:00:00Z",
+  "market_closedTime": "2024-11-03 23:35:22+00",
+  "conditionId": "0x88ceb60ec5d99c63bc202afcdf31571e9d52b72aa35a9b517c87826523c8ea1d",
+  "slug": "nfl-den-bal-2024-11-03",
+  "question": "Broncos vs. Ravens"
+}

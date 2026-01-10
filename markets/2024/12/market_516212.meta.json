@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:05:48.173160Z",
+  "market_createdAt": "2024-12-22T05:05:48.17316Z",
+  "market_updatedAt": "2024-12-27T05:31:12.821944Z",
+  "market_startDate": "2024-12-22T05:08:22.433479Z",
+  "market_endDate": "2025-01-02T01:00:00Z",
+  "market_closedTime": "2024-12-26 05:33:43+00",
+  "conditionId": "0x175d4b07e0a9da41bfeaaa970818fc1a6a66f4159b9ee635857f494273ae4b78",
+  "slug": "nba-lal-gsw-2024-12-25",
+  "question": "Lakers vs. Warriors"
+}

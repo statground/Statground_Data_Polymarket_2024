@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:03:07.097846Z",
+  "market_createdAt": "2024-12-29T05:03:07.097846Z",
+  "market_updatedAt": "2025-01-01T07:27:35.361566Z",
+  "market_startDate": "2024-12-29T05:05:36.175014Z",
+  "market_endDate": "2025-01-07T03:00:00Z",
+  "market_closedTime": "2024-12-31 07:43:54+00",
+  "conditionId": "0xcfd380aff2b673cfbba39b9e8d5b95d7148f7255540663a0578ab49c8d74487d",
+  "slug": "nba-cle-gsw-2024-12-30",
+  "question": "Cavaliers vs. Warriors"
+}

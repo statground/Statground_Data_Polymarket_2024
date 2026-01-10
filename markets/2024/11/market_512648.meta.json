@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:00:35.071968Z",
+  "market_createdAt": "2024-11-11T17:00:35.071968Z",
+  "market_updatedAt": "2024-11-18T23:09:20.444361Z",
+  "market_startDate": "2024-11-11T17:03:06.633942Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:11:44+00",
+  "conditionId": "0xc4eeb9c54d28bc7975e309a299fbefc4b189ef5ed242ee66853032e109a5caec",
+  "slug": "nfl-gb-chi-2024-11-17",
+  "question": "Packers vs. Bears"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:11:06.517496Z",
+  "market_createdAt": "2024-11-24T05:11:06.517496Z",
+  "market_updatedAt": "2024-12-02T02:05:26.354237Z",
+  "market_startDate": "2024-11-24T05:13:41.904293Z",
+  "market_endDate": "2024-12-07T20:30:00Z",
+  "market_closedTime": "2024-12-01 02:30:25+00",
+  "conditionId": "0x711610870ac0bbf75875a61912debeb4062edf745d40287d0e78db7c993f0b08",
+  "slug": "cfb-aub-bama-2024-11-30",
+  "question": "Auburn vs. Alabama"
+}

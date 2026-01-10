@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T16:43:05.541508Z",
+  "market_createdAt": "2024-10-01T16:43:05.541508Z",
+  "market_updatedAt": "2024-10-04T19:26:46.099945Z",
+  "market_startDate": "2024-10-02T14:27:13.05984Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:00:08+00",
+  "conditionId": "0x4020a644e4b6d1b695ac5efd70e1dd97e6e09246302e8deaf30aa16540be94c4",
+  "slug": "will-olympiacos-beat-braga",
+  "question": "Will Olympiacos beat Braga?"
+}

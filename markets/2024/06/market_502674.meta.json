@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T14:55:32.299319Z",
+  "market_createdAt": "2024-06-20T14:55:32.299319Z",
+  "market_updatedAt": "2024-06-24T13:06:12.845695Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 15:15:49+00",
+  "conditionId": "0x4e4e1bfae9b6c21bc87c0516d8403a296fcacb3d2a6a16c4ae11b8378681f9b8",
+  "slug": "ninja-biggest-loser",
+  "question": "Ryan Garcia biggest loser?"
+}

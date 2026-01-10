@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:27:10.601629Z",
+  "market_createdAt": "2024-11-05T21:27:10.601629Z",
+  "market_updatedAt": "2024-11-08T21:28:57.185302Z",
+  "market_startDate": "2024-11-07T02:58:42.924845Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:59:48+00",
+  "conditionId": "0x23ae04b08d8662152524dc2094ff7ee8633d831e6487a1f6d7cd83d0e694dea3",
+  "slug": "will-if-elfsborg-beat-braga",
+  "question": "Will IF Elfsborg beat Braga?"
+}

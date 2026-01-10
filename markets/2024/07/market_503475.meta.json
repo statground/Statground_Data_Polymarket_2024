@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T14:44:18.998167Z",
+  "market_createdAt": "2024-07-15T14:44:18.998167Z",
+  "market_updatedAt": "2024-07-17T03:14:48.481874Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:26:29+00",
+  "conditionId": "0x30e502ee835493db3cc05ccabedc19e6374c211721e3c13379c8c54cfe8acd59",
+  "slug": "will-biden-say-democracy-during-lester-holt-interview",
+  "question": "Will Biden say \"Democracy\" during Lester Holt interview?"
+}

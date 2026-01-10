@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T23:19:30.886000Z",
+  "market_createdAt": "2024-03-05T23:19:30.886Z",
+  "market_updatedAt": "2024-05-07T23:09:48.300689Z",
+  "market_startDate": "2024-03-06T04:51:23.343Z",
+  "market_endDate": "2024-04-20T00:00:00Z",
+  "market_closedTime": "2024-04-21 08:24:45+00",
+  "conditionId": "0x747d6f055dd7cbc797b595fe55a9f69b0ac23a40ea64a27fd132eb8e638481ae",
+  "slug": "will-garcia-vs-haney-be-canceled",
+  "question": "Will Garcia vs. Haney be canceled?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T15:52:11.312834Z",
+  "market_createdAt": "2024-09-17T15:52:11.312834Z",
+  "market_updatedAt": "2024-09-20T12:52:44.618114Z",
+  "market_startDate": "2024-09-18T14:53:03.675989Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-19 13:03:59+00",
+  "conditionId": "0x6969a6eab31e019e2c68aeac65d72a749f823262453ad94046de8deb57b8c45a",
+  "slug": "bank-of-england-rate-cut-in-september-meeting",
+  "question": "Bank of England rate cut in September meeting?"
+}

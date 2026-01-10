@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:52:46.774133Z",
+  "market_createdAt": "2024-12-11T23:52:46.774133Z",
+  "market_updatedAt": "2024-12-16T03:33:28.527431Z",
+  "market_startDate": "2024-12-13T23:11:45.663659Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 03:50:42+00",
+  "conditionId": "0x7d80c89b1c599a552017bff98205b7694dfe8fe8fc1a784cfc650a9bff860b3d",
+  "slug": "maverick-vs-horth",
+  "question": "Maverick vs. Horth"
+}

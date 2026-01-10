@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T18:49:26.232346Z",
+  "market_createdAt": "2024-05-07T18:49:26.232346Z",
+  "market_updatedAt": "2024-07-06T18:45:47.147345Z",
+  "market_startDate": null,
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:43:10+00",
+  "conditionId": "0x0e923e93a9174928f1de00c93969b45e2215beb9823ac26e0640b5786d2bbe6a",
+  "slug": "will-labour-win-450-or-more-seats-in-the-next-uk-election",
+  "question": "Will Labour win 450 or more seats in the next UK Election?"
+}

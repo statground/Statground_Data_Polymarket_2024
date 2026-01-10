@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:28:50.521680Z",
+  "market_createdAt": "2024-10-11T17:28:50.52168Z",
+  "market_updatedAt": "2024-11-05T19:07:08.725613Z",
+  "market_startDate": "2024-10-11T22:34:44.060844Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-11-04 19:12:35+00",
+  "conditionId": "0xa9f4fa64f12ad8debd9f2576a6ff31d599ff9d17fda3c38f97c17c647f6f2ca5",
+  "slug": "will-another-candidate-win-the-2024-moldova-presidential-election",
+  "question": "Will another candidate win the 2024 Moldova presidential election?"
+}

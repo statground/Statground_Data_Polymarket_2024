@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:43:53.480004Z",
+  "market_createdAt": "2024-10-22T00:43:53.480004Z",
+  "market_updatedAt": "2024-10-28T21:17:14.075465Z",
+  "market_startDate": "2024-10-22T00:46:35.27Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 21:43:10+00",
+  "conditionId": "0x2f328fb1f2c9f927ae84c4c8455afe85cec11a984ac341a73bfb1811a87f5be2",
+  "slug": "epl-ars-liv-2024-10-27-draw",
+  "question": "Will Arsenal vs. Liverpool end in a draw?"
+}

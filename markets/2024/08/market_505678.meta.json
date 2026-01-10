@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T19:45:22.853181Z",
+  "market_createdAt": "2024-08-22T19:45:22.853181Z",
+  "market_updatedAt": "2024-08-25T22:40:55.367306Z",
+  "market_startDate": "2024-08-23T16:27:00.674Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 01:50:02+00",
+  "conditionId": "0xa9ce3bac5c59356dbe179fa4b65a802f5a0afe836289f4d42097786b2fb16984",
+  "slug": "will-texas-win-the-2024-little-league-world-series",
+  "question": "Will Texas win the 2024 Little League World Series?"
+}

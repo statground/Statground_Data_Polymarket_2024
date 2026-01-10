@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:07:43.256058Z",
+  "market_createdAt": "2024-08-13T20:07:43.256058Z",
+  "market_updatedAt": "2024-08-18T18:32:59.245713Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:12:36+00",
+  "conditionId": "0xd5feb8f17ec897270dad51c115d2f0eb1fad7209cce87c353567f1c9eb4d1c11",
+  "slug": "will-southampton-beat-newcastle-united",
+  "question": "Will Southampton beat Newcastle United?"
+}

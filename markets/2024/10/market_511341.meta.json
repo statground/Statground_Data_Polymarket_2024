@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:30:11.202158Z",
+  "market_createdAt": "2024-10-29T19:30:11.202158Z",
+  "market_updatedAt": "2024-10-31T01:51:15.590907Z",
+  "market_startDate": "2024-10-29T20:05:51.134509Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:01:56+00",
+  "conditionId": "0x4e121eed8aaa4aa1d9cd66c14eb510b2382ba2b37a8e7cd71acff58fd5e397d3",
+  "slug": "will-trump-say-trans-during-hannity-interview",
+  "question": "Will Trump say \"Trans\" during Hannity interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T14:53:43.135775Z",
+  "market_createdAt": "2024-06-04T14:53:43.135775Z",
+  "market_updatedAt": "2025-01-01T19:05:20.501062Z",
+  "market_startDate": "2024-06-04T17:45:52.643Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:57:52+00",
+  "conditionId": "0x07d5f808a8fc01adcd2e45f9d198657ad542ff9f208d8213cd25a5e5fd5926d7",
+  "slug": "roaring-kitty-jail-in-2024",
+  "question": "Roaring Kitty jail in 2024?"
+}

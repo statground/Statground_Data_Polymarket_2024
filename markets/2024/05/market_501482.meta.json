@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501482",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T22:10:04.762547Z",
+  "market_createdAt": "2024-05-07T22:10:04.762547Z",
+  "market_updatedAt": "2024-10-02T06:10:53.809696Z",
+  "market_startDate": "2024-05-07T22:19:07.43Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:32:18+00",
+  "conditionId": "0x687b8358ae0cbc82595c58a9f00ab1f12ab447c63a8940eaa3f522f10685dfcd",
+  "slug": "will-zelensky-remain-president-of-ukraine-through-september",
+  "question": "Zelensky remains President of Ukraine through September?"
+}

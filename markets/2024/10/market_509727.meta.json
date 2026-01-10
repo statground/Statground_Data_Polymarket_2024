@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:25:28.437922Z",
+  "market_createdAt": "2024-10-11T21:25:28.437922Z",
+  "market_updatedAt": "2024-10-14T20:40:57.815387Z",
+  "market_startDate": "2024-10-11T22:23:58.908984Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:13:38+00",
+  "conditionId": "0x29d2047e4afb37af2e50bbedf8b652803a943a6e136ce638d860e43994620d8e",
+  "slug": "will-the-ravens-beat-the-commanders-by-8-or-more-points",
+  "question": "Will the Ravens beat the Commanders by 8 or more points?"
+}

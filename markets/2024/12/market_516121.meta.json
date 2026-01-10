@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T17:09:01.883638Z",
+  "market_createdAt": "2024-12-20T17:09:01.883638Z",
+  "market_updatedAt": "2024-12-28T19:05:03.539138Z",
+  "market_startDate": "2024-12-20T17:39:06.487682Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-27 19:06:53+00",
+  "conditionId": "0xe8c2b93ac2887b255cc0021631f5ee72e7045bfd22e9331c940c48ad2f6a3f6b",
+  "slug": "solana-above-190-on-december-27",
+  "question": "Solana above $190 on December 27?"
+}

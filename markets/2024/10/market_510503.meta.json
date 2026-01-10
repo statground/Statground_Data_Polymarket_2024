@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:29:03.678749Z",
+  "market_createdAt": "2024-10-22T03:29:03.678749Z",
+  "market_updatedAt": "2024-10-25T19:31:19.559052Z",
+  "market_startDate": "2024-10-23T14:57:53.63136Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 21:59:11+00",
+  "conditionId": "0x04d6bd3e70ae20c92134e9f0a86829f2fa37d97158176b5eb1f96cb8127ece3a",
+  "slug": "will-the-match-between-frankfurt-and-fk-rfs-end-in-a-draw",
+  "question": "Will the match between Frankfurt and FK RFS end in a draw?"
+}

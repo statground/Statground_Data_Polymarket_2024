@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:18:39.071188Z",
+  "market_createdAt": "2024-05-14T23:18:39.071188Z",
+  "market_updatedAt": "2024-06-02T00:56:17.991573Z",
+  "market_startDate": "2024-05-15T00:03:30.409Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:22:21+00",
+  "conditionId": "0x29e04473370b42b5bc6e01a5c3f1a9e50da7c697de85d66d27faaacd8e593e17",
+  "slug": "will-ilya-join-x",
+  "question": "Will Ilya join X?"
+}

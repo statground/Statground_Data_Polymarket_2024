@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:30:06.929095Z",
+  "market_createdAt": "2024-12-02T20:30:06.929095Z",
+  "market_updatedAt": "2025-01-11T19:02:42.828861Z",
+  "market_startDate": "2024-12-02T23:10:20.213283Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 19:37:37+00",
+  "conditionId": "0x4221fc378c148f0320a06d636d1335418207c23df410a54f98897b02c9cb7a21",
+  "slug": "will-the-december-2024-temperature-increase-be-between-1pt30-1pt34c",
+  "question": "Will the December 2024 temperature increase be between 1.30-1.34°C?"
+}

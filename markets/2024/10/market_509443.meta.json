@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:51:43.910615Z",
+  "market_createdAt": "2024-10-09T20:51:43.910615Z",
+  "market_updatedAt": "2024-10-15T00:22:46.568868Z",
+  "market_startDate": "2024-10-10T23:09:54.063685Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:53:57+00",
+  "conditionId": "0xe949351ada22f275a0f5772e08290ca0324b76ed1ef30cc6461028fbe1e41362",
+  "slug": "will-trump-say-hispanic-during-arizona-rally-on-october-13",
+  "question": "Will Trump say \"hispanic\" during Arizona rally on October 13?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:39:12.773779Z",
+  "market_createdAt": "2024-12-09T21:39:12.773779Z",
+  "market_updatedAt": "2024-12-12T20:15:18.236566Z",
+  "market_startDate": "2024-12-10T21:50:00.139402Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 22:53:49+00",
+  "conditionId": "0xd4c74fa0fee603e6531afacf1d9f5282a26f314aefb73a2efdac7808b6091c74",
+  "slug": "will-slovan-bratislava-beat-atletico-madrid",
+  "question": "Will Slovan Bratislava beat Atletico Madrid?"
+}

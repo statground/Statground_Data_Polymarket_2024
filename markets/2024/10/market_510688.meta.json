@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:15:12.312339Z",
+  "market_createdAt": "2024-10-23T00:15:12.312339Z",
+  "market_updatedAt": "2024-11-11T18:02:50.826942Z",
+  "market_startDate": "2024-10-23T17:54:29.149367Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:12:56+00",
+  "conditionId": "0xb3566ca4be424e359cc36e2cf5ea069b5bf392461305a871b7a6e4b12996dd8a",
+  "slug": "will-houston-dynamo-win-the-mls-cup",
+  "question": "Will the Houston Dynamo win the MLS Cup?"
+}

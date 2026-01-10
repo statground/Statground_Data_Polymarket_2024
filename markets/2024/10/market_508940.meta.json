@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:31:41.658120Z",
+  "market_createdAt": "2024-10-04T17:31:41.65812Z",
+  "market_updatedAt": "2024-10-07T07:06:34.760892Z",
+  "market_startDate": "2024-10-04T18:39:13.266785Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 08:42:32+00",
+  "conditionId": "0xccd94d600c65432fc09c7fdb73ca086b56703633d8d2c96b5f2aedc069c42b7b",
+  "slug": "will-miami-beat-california",
+  "question": "Will Miami beat California?"
+}

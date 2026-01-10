@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512929",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:34:07.541874Z",
+  "market_createdAt": "2024-11-12T20:34:07.541874Z",
+  "market_updatedAt": "2024-11-19T23:25:07.45783Z",
+  "market_startDate": "2024-11-13T00:24:03.674Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 00:12:04+00",
+  "conditionId": "0x8d456befb20facba8f2d3df02fdca74064745bf0ab28eba3bc8c95e1e9ac9cbe",
+  "slug": "will-red-one-gross-between-21-24m-on-opening-weekend",
+  "question": "Will 'Red One' gross between $21-24m on opening weekend?"
+}

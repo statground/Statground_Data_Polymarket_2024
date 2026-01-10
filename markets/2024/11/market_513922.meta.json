@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:57:52.727155Z",
+  "market_createdAt": "2024-11-24T18:57:52.727155Z",
+  "market_updatedAt": "2024-12-01T05:29:21.790782Z",
+  "market_startDate": "2024-11-24T19:00:27.226028Z",
+  "market_endDate": "2024-12-07T01:00:00Z",
+  "market_closedTime": "2024-11-30 05:37:25+00",
+  "conditionId": "0xc019dc596e3fdb08cccdfc2af95d9bb3803c10e6ca5f3a463f4f2508b63b7596",
+  "slug": "nba-tor-mia-2024-11-29",
+  "question": "Raptors vs. Heat"
+}

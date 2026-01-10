@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T18:07:49.561415Z",
+  "market_createdAt": "2024-12-31T18:07:49.561415Z",
+  "market_updatedAt": "2025-03-15T14:04:00.796129Z",
+  "market_startDate": "2024-12-31T18:56:24.373Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-03-14 20:43:07+00",
+  "conditionId": "0x1a05d87b40023e148287b5b8075fc33c1496e486fda81265494554115814c4a2",
+  "slug": "trudeau-out-in-2025",
+  "question": "Trudeau out in 2025?"
+}

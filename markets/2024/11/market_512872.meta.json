@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512872",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T18:54:12.548486Z",
+  "market_createdAt": "2024-11-12T18:54:12.548486Z",
+  "market_updatedAt": "2024-12-17T02:47:23.295917Z",
+  "market_startDate": "2024-11-12T21:23:19.392723Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-16 06:26:15+00",
+  "conditionId": "0x8993564d86347f8808e61fba5b770f43b723f4bc2c145aaa00e28cc61739a7fb",
+  "slug": "will-the-minnesota-vikings-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Minnesota Vikings make the 2024-25 NFL Playoffs?"
+}

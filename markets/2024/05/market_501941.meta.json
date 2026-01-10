@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:42:47.098086Z",
+  "market_createdAt": "2024-05-31T14:42:47.098086Z",
+  "market_updatedAt": "2024-06-19T03:46:15.693339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:50:14+00",
+  "conditionId": "0xa4fded06ce8e8f064357bd2833b72a2204f73b3b14e651da8ec58ea1d0adcd32",
+  "slug": "jayson-tatum-2024-nba-finals-mvp",
+  "question": "Jayson Tatum  2024 NBA Finals MVP?"
+}

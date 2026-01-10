@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:59:22.383523Z",
+  "market_createdAt": "2024-06-25T15:59:22.383523Z",
+  "market_updatedAt": "2024-07-15T21:18:47.976554Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:47:00+00",
+  "conditionId": "0x328a31a7a1f8444fcf10b467d2fa20f9eba3d900bda7db49695de8f7a20b1bb2",
+  "slug": "will-lamine-yamal-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Lamine Yamal be Player of the Tournament for Euro 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T18:40:30.549645Z",
+  "market_createdAt": "2024-04-09T18:40:30.549645Z",
+  "market_updatedAt": "2024-05-07T23:09:42.336203Z",
+  "market_startDate": "2024-04-09T19:25:23.497Z",
+  "market_endDate": "2024-05-05T12:00:00Z",
+  "market_closedTime": "2024-05-06 08:03:00+00",
+  "conditionId": "0x23a28690a44b5f15dfdb52a7d5990946b03cdc94a0bb0b684aaaa6e0974f21f0",
+  "slug": "panama-presidential-election-will-jose-raul-mulino-win",
+  "question": "Panama Presidential Election: Will Jose Raul Mulino win?"
+}

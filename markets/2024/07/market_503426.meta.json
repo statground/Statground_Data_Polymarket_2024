@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503426",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:23:59.629374Z",
+  "market_createdAt": "2024-07-12T19:23:59.629374Z",
+  "market_updatedAt": "2024-07-15T17:46:53.723078Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:57:06+00",
+  "conditionId": "0xf34180d3321f866f129664595d31fb902fdfe9d193f7024b4e48477e545f1271",
+  "slug": "will-ollie-watkins-score-the-first-goal",
+  "question": "Will Ollie Watkins score the first goal?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-15T18:45:59.537000Z",
+  "market_createdAt": "2024-02-15T18:45:59.537Z",
+  "market_updatedAt": "2024-02-19T20:09:45.868Z",
+  "market_startDate": "2024-02-16T00:50:00Z",
+  "market_endDate": "2024-02-16T00:00:00Z",
+  "market_closedTime": "2024-02-18 23:17:02+00",
+  "conditionId": "0x21b6d0cb5436c5c4b7eb21a54d5c5ad41352ba67036ed26b11e9ce3fb4f3edd1",
+  "slug": "will-cillian-murphy-win-the-bafta-for-best-actor",
+  "question": "Will Cillian Murphy win the BAFTA for Best Actor?"
+}

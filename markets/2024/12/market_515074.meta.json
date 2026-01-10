@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:03:30.291270Z",
+  "market_createdAt": "2024-12-08T07:03:30.29127Z",
+  "market_updatedAt": "2024-12-14T07:33:10.499082Z",
+  "market_startDate": "2024-12-08T07:06:56.633834Z",
+  "market_endDate": "2024-12-20T03:00:00Z",
+  "market_closedTime": "2024-12-13 07:35:24+00",
+  "conditionId": "0x57770af8821384a3eac06a0b304832189a0d9f3f2db459abf5f8cb2404853f3a",
+  "slug": "nhl-fla-van-2024-12-12",
+  "question": "Panthers vs. Canucks"
+}

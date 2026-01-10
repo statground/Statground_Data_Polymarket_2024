@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:20:30.445979Z",
+  "market_createdAt": "2024-09-13T20:20:30.445979Z",
+  "market_updatedAt": "2024-09-18T03:46:39.907976Z",
+  "market_startDate": "2024-09-13T20:59:31.266Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 04:26:35+00",
+  "conditionId": "0x29df9fd6c1a3417a04ce06552de0238596991d9e45c92eed17ef010d3e72eea3",
+  "slug": "will-trump-say-twitter-during-the-x-space",
+  "question": "Will Trump say \"Twitter\" during the X space?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514096",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:14:51.809782Z",
+  "market_createdAt": "2024-11-26T08:14:51.809782Z",
+  "market_updatedAt": "2024-11-29T22:35:29.404303Z",
+  "market_startDate": "2024-11-26T22:43:31.807546Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:01:56+00",
+  "conditionId": "0xbfab60eeee86594c65aa2bcdf0d02a70a8919ad08185cbeee8f6140634a4883f",
+  "slug": "will-lazio-beat-ludogorets",
+  "question": "Will Lazio beat Ludogorets?"
+}

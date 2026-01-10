@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-30T17:45:31.762000Z",
+  "market_createdAt": "2024-01-30T17:45:31.762Z",
+  "market_updatedAt": "2024-06-01T23:37:25.031855Z",
+  "market_startDate": "2024-01-30T17:54:52.923Z",
+  "market_endDate": "2024-06-01T00:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x25c698987a1021d6cc0ec4a0300d9e2134226bdfefac242b2a1b455e2980c3eb",
+  "slug": "will-joe-biden-be-president-of-the-united-states-on-june-1-2024",
+  "question": "Will Joe Biden be President of the United States on June 1, 2024?"
+}

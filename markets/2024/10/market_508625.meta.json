@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:38:12.116312Z",
+  "market_createdAt": "2024-10-01T20:38:12.116312Z",
+  "market_updatedAt": "2024-11-02T03:47:09.527426Z",
+  "market_startDate": "2024-10-01T21:13:24.327867Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:04:55+00",
+  "conditionId": "0xf26507f58471e15c7d75bd85bfc1538fd6ebd0b298b2cc1244a66444fbc5c0b2",
+  "slug": "will-solana-dip-to-130-in-october",
+  "question": "Will Solana dip to $130 in October?"
+}

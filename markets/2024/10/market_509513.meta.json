@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T01:59:32.656192Z",
+  "market_createdAt": "2024-10-10T01:59:32.656192Z",
+  "market_updatedAt": "2025-01-24T23:21:16.137883Z",
+  "market_startDate": "2024-10-24T21:25:31.991596Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:40:56+00",
+  "conditionId": "0x7969f93938a56cafe504bd2a541bc19c3a783fa23994a1a9d4089dd90281c034",
+  "slug": "will-chris-jones-win-nfl-defensive-player-of-the-year",
+  "question": "Will Chris Jones win NFL Defensive Player of the Year?"
+}

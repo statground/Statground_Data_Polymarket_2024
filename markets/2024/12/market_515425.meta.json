@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515425",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T21:25:18.088908Z",
+  "market_createdAt": "2024-12-11T21:25:18.088908Z",
+  "market_updatedAt": "2025-01-11T16:44:48.513857Z",
+  "market_startDate": "2024-12-11T21:33:07.904233Z",
+  "market_endDate": "2025-01-10T12:00:00Z",
+  "market_closedTime": "2025-01-10 16:45:40+00",
+  "conditionId": "0x760e4165cd9fd3f0a9aa8ab2d9f406550765a36a61490b7da9ffaf5bd0656f97",
+  "slug": "will-us-unemployment-be-4pt4-or-higher-in-december-2024",
+  "question": "Will US unemployment be 4.4% or higher in December 2024?"
+}

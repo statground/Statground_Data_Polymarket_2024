@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:45:34.398585Z",
+  "market_createdAt": "2024-09-27T19:45:34.398585Z",
+  "market_updatedAt": "2024-09-30T20:02:35.317795Z",
+  "market_startDate": "2024-09-27T20:55:38.775418Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:03:54+00",
+  "conditionId": "0x6e81f1b9d2e3869006ef744555faa8d11a5cd5f6181818cbb12d682e091b2903",
+  "slug": "will-the-cardinals-beat-the-commanders-by-4-or-more-points",
+  "question": "Will the Cardinals beat the Commanders by 4 or more points?"
+}

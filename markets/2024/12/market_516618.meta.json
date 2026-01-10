@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516618",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:07:05.051059Z",
+  "market_createdAt": "2024-12-29T05:07:05.051059Z",
+  "market_updatedAt": "2025-01-05T04:38:42.628153Z",
+  "market_startDate": "2024-12-29T05:09:31.260576Z",
+  "market_endDate": "2025-01-11T00:30:00Z",
+  "market_closedTime": "2025-01-04 05:05:42+00",
+  "conditionId": "0xc4964e9c6574bb0c03c7b0ab4fc35f161729f5bc55bc3352dede68940c24807c",
+  "slug": "nba-orl-tor-2025-01-03",
+  "question": "Magic vs. Raptors"
+}

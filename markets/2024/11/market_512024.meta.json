@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:23:46.090091Z",
+  "market_createdAt": "2024-11-05T17:23:46.090091Z",
+  "market_updatedAt": "2024-11-16T04:03:01.338187Z",
+  "market_startDate": "2024-11-05T18:15:06.476664Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:59:46+00",
+  "conditionId": "0xb2b3083134c9606d34134aa6f81a64b25fa97dc8924adb39ef49278f425865cb",
+  "slug": "will-trump-say-crypto-or-bitcoin-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" in his speech after the election is called?"
+}

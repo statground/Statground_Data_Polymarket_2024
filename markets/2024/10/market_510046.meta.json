@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T22:56:05.254038Z",
+  "market_createdAt": "2024-10-16T22:56:05.254038Z",
+  "market_updatedAt": "2024-11-12T19:23:14.20808Z",
+  "market_startDate": "2024-10-17T23:56:03.133Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:19:13+00",
+  "conditionId": "0x3eb853038ea49f13025119d7980547e2b41cf428023d5148c4f65ec79cf7ceaa",
+  "slug": "will-trump-win-30-or-more-of-black-men",
+  "question": "Will Trump win 30% of Black men?"
+}

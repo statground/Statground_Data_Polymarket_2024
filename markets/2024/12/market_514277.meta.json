@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:02:40.300265Z",
+  "market_createdAt": "2024-12-01T05:02:40.300265Z",
+  "market_updatedAt": "2024-12-03T07:19:12.550944Z",
+  "market_startDate": "2024-12-01T05:05:59.476418Z",
+  "market_endDate": "2024-12-09T03:00:00Z",
+  "market_closedTime": "2024-12-02 07:33:12+00",
+  "conditionId": "0xab324d9b84978af12837a662f85dd1be4eeb7ce10c03ae83d411d866423982bd",
+  "slug": "nba-den-lac-2024-12-01",
+  "question": "Nuggets vs. Clippers"
+}

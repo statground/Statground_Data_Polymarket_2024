@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:18:29.646957Z",
+  "market_createdAt": "2024-12-17T17:18:29.646957Z",
+  "market_updatedAt": "2025-05-08T00:22:22.939999Z",
+  "market_startDate": "2024-12-18T15:11:47.493227Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:45:18+00",
+  "conditionId": "0xf379802b7062e7054167a393f1bcb7c3eb01b9db56cbe04c63044c54bced14ea",
+  "slug": "will-the-spd-be-part-of-the-next-german-government",
+  "question": "Will the SPD be part of the next German government?"
+}

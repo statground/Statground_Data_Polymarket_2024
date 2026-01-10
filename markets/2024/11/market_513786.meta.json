@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:04:14.887596Z",
+  "market_createdAt": "2024-11-24T05:04:14.887596Z",
+  "market_updatedAt": "2024-12-02T07:43:20.766388Z",
+  "market_startDate": "2024-11-24T05:07:11.498156Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 08:33:52+00",
+  "conditionId": "0xaa2a5170c1061136d521bdbc56b5f3c32ae0bb924cc3a6f26c306ccc82fba4a1",
+  "slug": "cfb-af-sdsu-2024-11-30",
+  "question": "Air Force vs. San Diego State"
+}

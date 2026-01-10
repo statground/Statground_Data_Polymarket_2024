@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-24T18:46:38.340896Z",
+  "market_createdAt": "2024-04-24T18:46:38.340896Z",
+  "market_updatedAt": "2024-05-07T23:09:39.087002Z",
+  "market_startDate": "2024-04-24T19:01:29.119Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-26 03:26:30+00",
+  "conditionId": "0xd81e757414df5d45e20eb203100f3ef8dadf2fcdca14ef7322088f5b0553ee95",
+  "slug": "nba-orl-cle-2024-04-25",
+  "question": "NBA: Orlando Magic vs. Cleveland Cavaliers 2024-04-25"
+}

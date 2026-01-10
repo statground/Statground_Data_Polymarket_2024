@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:51:28.415621Z",
+  "market_createdAt": "2024-09-11T15:51:28.415621Z",
+  "market_updatedAt": "2024-09-13T22:43:04.863981Z",
+  "market_startDate": "2024-09-11T17:27:21.234762Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-12 23:45:56+00",
+  "conditionId": "0x182b6f374118ad6acbc9f681bd29b455f808906d97962e91f7cbc63b5676bf83",
+  "slug": "will-trump-say-springfield-during-his-arizona-rally",
+  "question": "Will Trump say \"Springfield\" during his Arizona rally?"
+}

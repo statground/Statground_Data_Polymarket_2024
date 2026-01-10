@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:47:49.743729Z",
+  "market_createdAt": "2024-11-18T18:47:49.743729Z",
+  "market_updatedAt": "2024-12-07T06:27:12.279359Z",
+  "market_startDate": "2024-11-18T20:05:21.997Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:15:00+00",
+  "conditionId": "0x48cd36900fa73694ddada298f2f03adaadc9100b7686f5de8d4244a3cd70023c",
+  "slug": "will-trump-say-deport-in-his-next-speech",
+  "question": "Will Trump say \"deport\" in his next speech?"
+}

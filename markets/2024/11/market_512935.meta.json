@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:58:42.245602Z",
+  "market_createdAt": "2024-11-12T20:58:42.245602Z",
+  "market_updatedAt": "2025-05-27T00:26:28.212431Z",
+  "market_startDate": "2024-12-17T17:01:03.558053Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-25 21:12:52+00",
+  "conditionId": "0xa98284a87e97931bed95d06bee22c68aac45b5d37d7c8e5e0112e072a167bb31",
+  "slug": "will-manchester-city-finish-in-the-top-4-of-the-epl",
+  "question": "Will Manchester City finish in the top 4 of the EPL?"
+}

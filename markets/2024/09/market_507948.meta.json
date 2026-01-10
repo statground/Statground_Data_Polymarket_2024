@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T18:04:02.811911Z",
+  "market_createdAt": "2024-09-24T18:04:02.811911Z",
+  "market_updatedAt": "2024-09-27T18:46:45.613126Z",
+  "market_startDate": "2024-09-25T16:03:01.294014Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-26 21:52:45+00",
+  "conditionId": "0x6b101f5d71f46f20ddee2cbc5f64a9a8af39b37555d2cb907648a721eb728ec9",
+  "slug": "will-the-match-between-malmo-vs-rangers-end-in-a-draw",
+  "question": "Will the match between Malmo vs. Rangers end in a draw?"
+}

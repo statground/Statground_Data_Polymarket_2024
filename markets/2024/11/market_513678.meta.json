@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513678",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:29:51.449292Z",
+  "market_createdAt": "2024-11-21T22:29:51.449292Z",
+  "market_updatedAt": "2024-12-01T05:39:36.853297Z",
+  "market_startDate": "2024-11-25T18:41:33.167041Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-30 18:37:13+00",
+  "conditionId": "0xd780580812f7b9edbc6d1601d67d1f11ba065b79b61a1c3a5b029d7f0ef7260f",
+  "slug": "will-the-los-angeles-lakers-win-the-2024-nba-cup",
+  "question": "Will the Los Angeles Lakers win the 2024 NBA Cup?"
+}

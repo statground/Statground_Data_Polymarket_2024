@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:20:20.644480Z",
+  "market_createdAt": "2024-08-27T15:20:20.64448Z",
+  "market_updatedAt": "2024-09-16T18:46:42.979498Z",
+  "market_startDate": "2024-08-27T15:20:20.64448Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-16 07:47:51+00",
+  "conditionId": "0x8e304e019a60c2ce4073855201e7222a9ef3050369c81673c53be2dd02191b12",
+  "slug": "will-the-oakland-athletics-win-the-world-series",
+  "question": "Will the Oakland Athletics win the World Series?"
+}

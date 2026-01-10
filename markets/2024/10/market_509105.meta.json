@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:22:00.208202Z",
+  "market_createdAt": "2024-10-07T19:22:00.208202Z",
+  "market_updatedAt": "2025-05-23T23:01:21.733985Z",
+  "market_startDate": "2024-10-08T14:50:55.459985Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-06 05:39:32+00",
+  "conditionId": "0xbc67af13da50b8d9282d5f332b8835f8ab039c8f584a78695fddf1450a1c8679",
+  "slug": "will-the-philadelphia-flyers-win-the-2025-stanley-cup",
+  "question": "Will the Philadelphia Flyers win the 2025 Stanley Cup?"
+}

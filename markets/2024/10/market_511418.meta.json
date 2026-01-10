@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511418",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:01:24.973179Z",
+  "market_createdAt": "2024-10-30T16:01:24.973179Z",
+  "market_updatedAt": "2024-11-01T02:36:47.029298Z",
+  "market_startDate": "2024-10-30T17:46:49.241167Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 04:33:37+00",
+  "conditionId": "0xfa63a2342425d1d182e235318306ce9a5e57b5d6e4bd3f1de004743dbc0ade94",
+  "slug": "will-the-yankees-and-dodgers-combine-for-9-or-more-runs-scored-oct-30",
+  "question": "Will the Yankees and Dodgers combine for 9 or more runs scored?"
+}

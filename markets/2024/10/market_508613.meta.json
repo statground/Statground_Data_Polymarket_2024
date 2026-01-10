@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:25:40.389737Z",
+  "market_createdAt": "2024-10-01T20:25:40.389737Z",
+  "market_updatedAt": "2024-11-02T05:43:09.717868Z",
+  "market_startDate": "2024-10-01T21:17:42.231833Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 06:19:37+00",
+  "conditionId": "0xcb2e6347a623ae0cf6ec1631c7058cd60e4a6930d6088033c144b4ed3e7439d2",
+  "slug": "will-bitcoin-dip-to-57500-in-october",
+  "question": "Will Bitcoin dip to $57,500 in October?"
+}

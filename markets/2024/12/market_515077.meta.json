@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:04:33.854951Z",
+  "market_createdAt": "2024-12-08T07:04:33.854951Z",
+  "market_updatedAt": "2024-12-15T22:27:38.372501Z",
+  "market_startDate": "2024-12-08T07:07:46.896334Z",
+  "market_endDate": "2024-12-21T18:00:00Z",
+  "market_closedTime": "2024-12-14 22:26:17+00",
+  "conditionId": "0x172f9328b5c9aa37a85580422b6f8058546b3ecba38578347f58b1cca2f1674b",
+  "slug": "nhl-chi-nj-2024-12-14",
+  "question": "Blackhawks vs. Devils"
+}

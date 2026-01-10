@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T06:02:43.795686Z",
+  "market_createdAt": "2024-12-15T06:02:43.795686Z",
+  "market_updatedAt": "2024-12-23T23:01:42.166196Z",
+  "market_startDate": "2024-12-15T06:05:14.725082Z",
+  "market_endDate": "2024-12-29T18:00:00Z",
+  "market_closedTime": "2024-12-22 22:59:00+00",
+  "conditionId": "0x64ab3c8589a3100296c5f60f6215761ba45de5f8930f7767559ba1226eaca6ed",
+  "slug": "nfl-cle-cin-2024-12-22",
+  "question": "Browns vs. Bengals"
+}

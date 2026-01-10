@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T23:40:16.145067Z",
+  "market_createdAt": "2024-04-10T23:40:16.145067Z",
+  "market_updatedAt": "2024-05-16T12:39:23.689566Z",
+  "market_startDate": "2024-04-11T00:26:45.601Z",
+  "market_endDate": "2024-05-15T12:00:00Z",
+  "market_closedTime": "2024-05-15 14:34:52+00",
+  "conditionId": "0x7df5350a4663cad59efea596589ea9fcfc5f5fecec8a107bbc9f2fd037165295",
+  "slug": "us-inflation-0pt3-from-march-to-april-2024",
+  "question": "US inflation >0.3% from March to April 2024?"
+}

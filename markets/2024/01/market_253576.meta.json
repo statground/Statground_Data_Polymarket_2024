@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-02T21:18:25.856000Z",
+  "market_createdAt": "2024-01-02T21:18:25.856Z",
+  "market_updatedAt": "2024-04-26T03:11:06.539808Z",
+  "market_startDate": "2024-01-02T21:28:23.143Z",
+  "market_endDate": "2024-01-13T00:00:00Z",
+  "market_closedTime": "2024-01-13 14:45:15+00",
+  "conditionId": "0x6fb88518d3d4799cf90f25dd2479580a636b8a74994a80aac6d3aa1d42cf7bf9",
+  "slug": "who-will-get-more-votes-in-taiwan-election-hou-yu-ih-or-ko-wen-je",
+  "question": "Who will get more votes in Taiwan Election: Hou Yu-ih (侯友宜) or Ko Wen-je (柯文哲)?"
+}

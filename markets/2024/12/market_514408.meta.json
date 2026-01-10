@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514408",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:01:20.122683Z",
+  "market_createdAt": "2024-12-02T19:01:20.122683Z",
+  "market_updatedAt": "2024-12-05T00:01:30.911603Z",
+  "market_startDate": "2024-12-02T19:04:42.5387Z",
+  "market_endDate": "2024-12-03T20:15:00Z",
+  "market_closedTime": "2024-12-04 01:44:08+00",
+  "conditionId": "0x3f52542ab07c23985f900090ef14ec80db086ff9a8831fa623f0d9fd826d8301",
+  "slug": "epl-lei-wes-2024-12-03-draw",
+  "question": "Will Leicester vs. West Ham end in a draw?"
+}

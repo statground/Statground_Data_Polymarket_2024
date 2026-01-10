@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:53:21.834338Z",
+  "market_createdAt": "2024-07-17T17:53:21.834338Z",
+  "market_updatedAt": "2024-08-10T17:16:59.586852Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-09 20:25:35+00",
+  "conditionId": "0xd29f58cfa231655a89d3bf2abf2897199105c92fd91a19cb664a6e98b4663fcd",
+  "slug": "will-australia-win-gold-in-womens-basketball",
+  "question": "Will Australia win Gold in Women's Basketball?"
+}

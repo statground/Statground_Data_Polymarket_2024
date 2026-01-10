@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T16:35:51.889000Z",
+  "market_createdAt": "2024-01-05T16:35:51.889Z",
+  "market_updatedAt": "2024-11-06T09:37:07.068985Z",
+  "market_startDate": "2024-01-05T16:44:58.177Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:37:31+00",
+  "conditionId": "0x5605bc5d7557217f5ebb00d00f639ac8b9da949016b8cabcd7e9183ea1cac060",
+  "slug": "trump-jail-before-election-day",
+  "question": "Trump in jail before election day?"
+}

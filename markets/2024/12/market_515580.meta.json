@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:28:15.567322Z",
+  "market_createdAt": "2024-12-13T19:28:15.567322Z",
+  "market_updatedAt": "2024-12-18T05:19:18.766241Z",
+  "market_startDate": "2024-12-13T19:30:39.535762Z",
+  "market_endDate": "2024-12-24T00:30:00Z",
+  "market_closedTime": "2024-12-17 05:13:48+00",
+  "conditionId": "0xe8d828509d37dbe31969df369609c35198bc0a35cb45353f78fe6e294d20e6ab",
+  "slug": "nba-chi-tor-2024-12-16",
+  "question": "Bulls vs. Raptors"
+}

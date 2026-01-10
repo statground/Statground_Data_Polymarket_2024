@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:45:18.330443Z",
+  "market_createdAt": "2024-10-28T20:45:18.330443Z",
+  "market_updatedAt": "2024-11-01T05:00:59.226045Z",
+  "market_startDate": "2024-10-28T20:47:53.009345Z",
+  "market_endDate": "2024-10-31T00:00:00Z",
+  "market_closedTime": "2024-10-31 04:58:37+00",
+  "conditionId": "0x1ed1f79347faf23ba31eac156bfc87e7117abde7d47a2f1b3befd7cd9e6a0915",
+  "slug": "nba-orl-chi-2024-10-30",
+  "question": "Magic vs. Bulls"
+}

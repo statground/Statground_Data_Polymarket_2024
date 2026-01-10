@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513554",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:37:01.288894Z",
+  "market_createdAt": "2024-11-20T19:37:01.288894Z",
+  "market_updatedAt": "2025-02-04T08:20:41.990436Z",
+  "market_startDate": "2024-11-20T22:13:28.106Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 08:32:41+00",
+  "conditionId": "0x55a0f111cc16487013ff5f93e3351f3acfceae55d9bcc2f32a17eb77310d54aa",
+  "slug": "will-the-rise-and-fall-of-a-midwest-princess-win-album-of-the-year",
+  "question": "Will 'The Rise and Fall of a Midwest Princess' win Album of the Year?"
+}

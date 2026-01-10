@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:46:49.005217Z",
+  "market_createdAt": "2024-12-06T22:46:49.005217Z",
+  "market_updatedAt": "2024-12-09T10:47:17.591793Z",
+  "market_startDate": "2024-12-06T23:29:11.072997Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 02:23:23+00",
+  "conditionId": "0x601b270c7c9a82c94097567ef61e77b6813ed4bccb90b2910b299512dec6b3d3",
+  "slug": "will-the-49ers-beat-the-bears-by-4-or-more-points",
+  "question": "Will the 49ers beat the Bears by 4 or more points?"
+}

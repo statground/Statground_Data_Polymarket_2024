@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T15:00:34.708744Z",
+  "market_createdAt": "2024-10-16T15:00:34.708744Z",
+  "market_updatedAt": "2024-10-29T03:23:02.885128Z",
+  "market_startDate": "2024-10-16T18:49:48.561018Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:25:43+00",
+  "conditionId": "0x848b24eb35c6c6cddfa569091a1b6f2144d4a198af5e044c5777404fde21a7d3",
+  "slug": "will-eduardo-pimentel-win-the-2024-curitiba-mayoral-election",
+  "question": "Will Eduardo Pimentel win the 2024 Curitiba mayoral election?"
+}

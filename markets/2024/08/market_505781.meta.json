@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505781",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:38:55.460108Z",
+  "market_createdAt": "2024-08-26T16:38:55.460108Z",
+  "market_updatedAt": "2024-08-28T20:01:10.950154Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:54:11+00",
+  "conditionId": "0xa87aaefc40f5a93e2edea855d732ba8dbb53e594c5da71e5383b556c1d4a8894",
+  "slug": "will-jd-vance-say-riot-during-michigan-rally",
+  "question": "Will J.D. Vance say \"riot\" during Michigan rally?"
+}

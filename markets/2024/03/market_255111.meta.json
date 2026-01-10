@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:27:25.864000Z",
+  "market_createdAt": "2024-03-01T18:27:25.864Z",
+  "market_updatedAt": "2024-11-07T12:47:08.772323Z",
+  "market_startDate": "2024-03-28T20:28:23.06Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 13:32:01+00",
+  "conditionId": "0x557202657489eee484b3e31fd65efbb21c2e57381c238ba4698991e882f8eebf",
+  "slug": "will-a-candidate-from-another-party-win-iowa-presidential-election",
+  "question": "Will a candidate from another party win Iowa Presidential Election?"
+}

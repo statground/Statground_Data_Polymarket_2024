@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512056",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:07:18.826119Z",
+  "market_createdAt": "2024-11-05T19:07:18.826119Z",
+  "market_updatedAt": "2024-11-12T02:37:20.179431Z",
+  "market_startDate": "2024-11-05T19:09:59.625088Z",
+  "market_endDate": "2024-11-10T21:25:00Z",
+  "market_closedTime": "2024-11-11 02:40:45+00",
+  "conditionId": "0x125174db5a13ddf665c5844be06a2ef614a99b1a457a15826bf42614e4e03958",
+  "slug": "nfl-nyj-ari-2024-11-10",
+  "question": "Jets vs. Cardinals"
+}

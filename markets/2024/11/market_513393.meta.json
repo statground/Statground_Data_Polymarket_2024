@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T20:57:35.279712Z",
+  "market_createdAt": "2024-11-18T20:57:35.279712Z",
+  "market_updatedAt": "2025-01-02T01:29:09.855983Z",
+  "market_startDate": "2024-11-18T21:34:55.78212Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:03:46+00",
+  "conditionId": "0x3d1121c423b3a5b2b961d131dddd00169ef0619487e8afd78a89e0c55855a7e7",
+  "slug": "will-goat-be-listed-first-on-binance",
+  "question": "Will $GOAT be listed first on Binance?"
+}

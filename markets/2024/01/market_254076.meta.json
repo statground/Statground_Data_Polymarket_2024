@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254076",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T21:06:12.996000Z",
+  "market_createdAt": "2024-01-23T21:06:12.996Z",
+  "market_updatedAt": "2024-03-12T03:18:05.892Z",
+  "market_startDate": "2024-01-24T19:48:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:17:47+00",
+  "conditionId": "0x0f0e6e9c4737e8ebe6f34047a2e7323276bb5b096407f94ecd7770b2b7f94c42",
+  "slug": "will-christopher-nolan-win-the-oscar-for-best-director",
+  "question": "Will Christopher Nolan win the Oscar for Best Director?"
+}

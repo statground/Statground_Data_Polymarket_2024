@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:38:36.572385Z",
+  "market_createdAt": "2024-10-25T18:38:36.572385Z",
+  "market_updatedAt": "2024-10-27T19:06:56.815131Z",
+  "market_startDate": "2024-10-25T22:26:02.923968Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:55:37+00",
+  "conditionId": "0xbb397062a5bc7f988a2bd4bec03f9be2c63399a62317d28bc9ead868c2f028a3",
+  "slug": "will-texas-beat-vanderbilt-by-18-or-more-points",
+  "question": "Will Texas beat Vanderbilt by 18 or more points?"
+}

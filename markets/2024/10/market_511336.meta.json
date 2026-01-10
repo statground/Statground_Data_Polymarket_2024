@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:24:54.009816Z",
+  "market_createdAt": "2024-10-29T19:24:54.009816Z",
+  "market_updatedAt": "2024-11-01T03:26:54.734765Z",
+  "market_startDate": "2024-10-29T20:08:40.578853Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-31 04:14:02+00",
+  "conditionId": "0x632d71310864ac91dc6c76ae39812f34ead51e02e8a32aad543533625c4425fa",
+  "slug": "will-trump-say-rogan-during-hannity-interview",
+  "question": "Will Trump say \"Rogan\" during Hannity interview?"
+}

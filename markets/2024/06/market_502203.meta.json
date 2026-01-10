@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502203",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T16:04:54.340951Z",
+  "market_createdAt": "2024-06-07T16:04:54.340951Z",
+  "market_updatedAt": "2024-07-06T09:05:47.088002Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 15:48:11+00",
+  "conditionId": "0x4718873f961929ef4117b3d84ebbccd340ebc9eff1dc54440aba5143ea3d03cb",
+  "slug": "will-us-gain-less-than-150k-jobs-in-june",
+  "question": "Will US gain less than 150k jobs in June?"
+}

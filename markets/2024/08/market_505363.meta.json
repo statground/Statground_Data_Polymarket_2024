@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505363",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:16:10.143699Z",
+  "market_createdAt": "2024-08-19T19:16:10.143699Z",
+  "market_updatedAt": "2024-08-22T04:26:58.871122Z",
+  "market_startDate": "2024-08-20T15:21:25.575Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:25:24+00",
+  "conditionId": "0xc91ee3c82b3325a5cec8dcc4699be71fda85751e1fd72c401a1a71aa60ea1df3",
+  "slug": "will-obama-say-obamacare-or-affordable-care-act-at-dnc-speech",
+  "question": "Will Obama say \"Obamacare\" or \"Affordable Care Act\" at DNC speech?"
+}

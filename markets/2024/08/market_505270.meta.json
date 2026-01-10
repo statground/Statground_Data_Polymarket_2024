@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-17T22:12:30.376366Z",
+  "market_createdAt": "2024-08-17T22:12:30.376366Z",
+  "market_updatedAt": "2024-08-24T18:37:01.586223Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 19:27:49+00",
+  "conditionId": "0x23cd677a845c77d8661d1eac9f4a637d19c0db4e1300ac6ce5f21c1278772123",
+  "slug": "trump-posts-30-39-times-on-x",
+  "question": "Trump posts 30-39 times on X?"
+}

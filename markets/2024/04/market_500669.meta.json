@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:32:57.214832Z",
+  "market_createdAt": "2024-04-04T15:32:57.214832Z",
+  "market_updatedAt": "2024-11-07T17:13:08.512131Z",
+  "market_startDate": "2024-04-12T20:01:07.286Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:55:00+00",
+  "conditionId": "0x98cc92b3a58956d37b23d223b9b67a3359a729026ae7c6dec86a8c0557120513",
+  "slug": "will-a-democrat-win-utah-us-senate-election",
+  "question": "Will a Democrat win Utah US Senate Election?"
+}

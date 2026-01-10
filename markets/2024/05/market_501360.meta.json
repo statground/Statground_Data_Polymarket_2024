@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:31:49.319058Z",
+  "market_createdAt": "2024-05-02T18:31:49.319058Z",
+  "market_updatedAt": "2024-08-08T17:22:55.898561Z",
+  "market_startDate": "2024-05-02T21:30:14.308Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-08 01:38:38+00",
+  "conditionId": "0x13dc03f86c5e6166927ab23c05dacdff3010eb806f53b6966aa2be1045253aab",
+  "slug": "will-ryan-foster-win-the-mi-12-democratic-house-primary",
+  "question": "Will Ryan Foster win the MI-12 Democratic House Primary?"
+}

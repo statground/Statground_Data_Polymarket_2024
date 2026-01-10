@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254014",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-18T21:37:45.949000Z",
+  "market_createdAt": "2024-01-18T21:37:45.949Z",
+  "market_updatedAt": "2024-05-07T23:09:12.14601Z",
+  "market_startDate": "2024-01-18T22:51:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2024-03-21 23:12:40+00",
+  "conditionId": "0x57e5d3a9bebef2dbd91931a9013ef1748bbdfc525d2c37bb3325c7a69609366d",
+  "slug": "will-reddit-ipo-at-a-greater-than-15b-valuation",
+  "question": "Will Reddit IPO at a greater than $15b valuation?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T19:05:06.216941Z",
+  "market_createdAt": "2024-12-27T19:05:06.216941Z",
+  "market_updatedAt": "2024-12-28T21:46:58.822301Z",
+  "market_startDate": "2024-12-27T20:00:00.842033Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-28 09:18:26+00",
+  "conditionId": "0x721d4df33a27b62d646a685c3427da468049079a198b5a88013377d9d967d10a",
+  "slug": "will-texas-am-beat-usc-by-4-or-more-points",
+  "question": "Will Texas A&M beat USC by 4 or more points?"
+}

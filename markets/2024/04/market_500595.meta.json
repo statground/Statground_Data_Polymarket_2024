@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500595",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T16:42:26.461679Z",
+  "market_createdAt": "2024-04-01T16:42:26.461679Z",
+  "market_updatedAt": "2024-05-11T12:09:03.591431Z",
+  "market_startDate": "2024-04-04T20:52:44.685Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-10 18:36:24+00",
+  "conditionId": "0xf57940e4ae65cf49cd3aa3618ab227404843ed529996f506788bbd6613b2f307",
+  "slug": "will-2024-have-the-hottest-april-on-record",
+  "question": "Will 2024 have the hottest April on record?"
+}

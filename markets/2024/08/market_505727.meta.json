@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:12:14.971224Z",
+  "market_createdAt": "2024-08-23T16:12:14.971224Z",
+  "market_updatedAt": "2024-08-25T00:16:53.718225Z",
+  "market_startDate": "2024-08-23T16:51:07.089Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 02:03:17+00",
+  "conditionId": "0x9adb151bce8068a3b376d1c06d2283ddc771ee7bac17c9a1951d0e7ace198392",
+  "slug": "will-trump-say-border-5-or-more-times-at-his-arizona-speech",
+  "question": "Will Trump say \"border\" 5 or more times at his Arizona speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:15:23.862494Z",
+  "market_createdAt": "2024-10-09T17:15:23.862494Z",
+  "market_updatedAt": "2024-10-14T02:26:42.436857Z",
+  "market_startDate": "2024-10-09T22:26:41.506558Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 03:07:31+00",
+  "conditionId": "0xc7dd50816788a8740b85bd30933ebe71787f822aa56df5f3928a64cf419d1562",
+  "slug": "will-trump-say-border-20-or-more-times-during-california-rally-on-october-12",
+  "question": "Will Trump say \"border\" 20 or more times during California rally on October 12?"
+}

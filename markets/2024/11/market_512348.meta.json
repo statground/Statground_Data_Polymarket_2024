@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T15:41:00.726782Z",
+  "market_createdAt": "2024-11-08T15:41:00.726782Z",
+  "market_updatedAt": "2024-12-19T01:10:47.152932Z",
+  "market_startDate": "2024-11-08T16:02:55.555Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:07:24+00",
+  "conditionId": "0x5d3043a139333b19234315dee7abe7543109c7a423ee0c98990e7eb28da2571f",
+  "slug": "gop-wins-popular-vote-by-1pt75-2pt0",
+  "question": "GOP wins popular vote by 1.75-2.0%?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T16:52:24.610841Z",
+  "market_createdAt": "2024-11-04T16:52:24.610841Z",
+  "market_updatedAt": "2024-12-01T23:59:30.505465Z",
+  "market_startDate": "2024-11-04T17:08:34.056811Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:20:03+00",
+  "conditionId": "0x6231a19e509cec71b551bcf2a94692fbab48d7458d247752070abf1279ea2797",
+  "slug": "will-biden-resign-in-november",
+  "question": "Will Biden resign in November?"
+}

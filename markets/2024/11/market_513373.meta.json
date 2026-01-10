@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513373",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:11:08.616495Z",
+  "market_createdAt": "2024-11-18T19:11:08.616495Z",
+  "market_updatedAt": "2024-12-04T22:47:34.361081Z",
+  "market_startDate": "2024-11-18T20:48:19.359666Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-03 22:52:42+00",
+  "conditionId": "0x3ca956d4a7cbfc2309474b6a1b7cacfd86136cdcd04935cd899f1fb78cb904ca",
+  "slug": "will-popcat-be-listed-first-on-coinbase",
+  "question": "Will $POPCAT be listed first on Coinbase?"
+}

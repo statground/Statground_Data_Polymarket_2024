@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:08:55.555455Z",
+  "market_createdAt": "2024-11-24T05:08:55.555455Z",
+  "market_updatedAt": "2024-12-01T23:23:24.854654Z",
+  "market_startDate": "2024-11-24T05:11:36.454324Z",
+  "market_endDate": "2024-12-07T18:30:00Z",
+  "market_closedTime": "2024-11-30 23:48:09+00",
+  "conditionId": "0xd40fdd693a03c28db1e5407d14433f7275a81bac7b71d0ac7e1f242a748bbcea",
+  "slug": "cfb-emu-wmu-2024-11-30",
+  "question": "Eastern Michigan vs. Western Michigan"
+}

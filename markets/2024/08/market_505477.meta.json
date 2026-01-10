@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:15:13.982795Z",
+  "market_createdAt": "2024-08-21T01:15:13.982795Z",
+  "market_updatedAt": "2024-08-25T15:32:55.256284Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 16:45:10+00",
+  "conditionId": "0x45c040e84c54cc481adfafefd0391893e737f9841ab904ddc736150b652023b8",
+  "slug": "will-brighton-vs-manchester-united-end-in-a-draw",
+  "question": "Will Brighton vs Manchester United end in a draw?"
+}

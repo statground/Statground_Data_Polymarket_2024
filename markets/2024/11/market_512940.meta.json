@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T21:03:19.966016Z",
+  "market_createdAt": "2024-11-12T21:03:19.966016Z",
+  "market_updatedAt": "2024-12-07T16:21:12.47861Z",
+  "market_startDate": "2024-11-12T21:39:36.232475Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 16:50:38+00",
+  "conditionId": "0x624d5fed5c4d89d4375f95c003c6bb9475f549f834ef9f96891a24e069ced66c",
+  "slug": "will-the-us-gain-between-200-250k-jobs-in-november",
+  "question": "Will the US gain between 200-250k jobs in November?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513339",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:47:27.411530Z",
+  "market_createdAt": "2024-11-18T15:47:27.41153Z",
+  "market_updatedAt": "2024-11-19T21:39:11.14655Z",
+  "market_startDate": "2024-11-18T16:28:02.915494Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 01:00:36+00",
+  "conditionId": "0x7d5ffdc91541d85d9a157f2f02772c80804c0b56cc47d83aca1837172db37039",
+  "slug": "will-denmark-beat-serbia",
+  "question": "Will Denmark beat Serbia?"
+}

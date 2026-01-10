@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T18:35:46.259674Z",
+  "market_createdAt": "2024-09-23T18:35:46.259674Z",
+  "market_updatedAt": "2024-09-26T21:02:52.762045Z",
+  "market_startDate": "2024-09-23T22:20:25.863633Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 00:20:55+00",
+  "conditionId": "0xe1f774801279ffe5c97017ccd363177a41ff6f40086f8d580a054283249c6fd6",
+  "slug": "will-lazio-beat-dynamo-kiev",
+  "question": "Will Lazio beat Dynamo Kiev?"
+}

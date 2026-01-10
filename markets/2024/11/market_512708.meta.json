@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:09:29.017779Z",
+  "market_createdAt": "2024-11-11T18:09:29.017779Z",
+  "market_updatedAt": "2024-11-17T07:13:21.780777Z",
+  "market_startDate": "2024-11-11T18:11:56.49076Z",
+  "market_endDate": "2024-11-23T03:00:00Z",
+  "market_closedTime": "2024-11-16 07:54:47+00",
+  "conditionId": "0x272146278d2fd07a0a52d8b543febae5a3c0a6325c7bb1ca4d41b661cd6a2ab2",
+  "slug": "nba-mem-gsw-2024-11-15",
+  "question": "Grizzlies vs. Warriors"
+}

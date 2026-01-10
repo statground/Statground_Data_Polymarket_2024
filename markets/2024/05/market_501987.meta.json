@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501987",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:44:10.169152Z",
+  "market_createdAt": "2024-05-31T21:44:10.169152Z",
+  "market_updatedAt": "2024-07-16T00:26:49.352126Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:22:33+00",
+  "conditionId": "0x678acf697c2fc5c9e8a08fd21246fe51bf63530dc680037e118212f7691ea887",
+  "slug": "will-spain-win-the-2024-euros",
+  "question": "Will Spain win the 2024 Euros?"
+}

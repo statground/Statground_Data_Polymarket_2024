@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:48:07.823003Z",
+  "market_createdAt": "2024-11-12T19:48:07.823003Z",
+  "market_updatedAt": "2024-12-09T17:31:22.729595Z",
+  "market_startDate": "2024-11-25T22:51:48.005622Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:08:20+00",
+  "conditionId": "0x26a80264b61bc6cb77f899e0377d751899ff2d592ebfe862abb9662ca3396b6a",
+  "slug": "will-miami-make-the-college-football-playoff",
+  "question": "Will Miami make the College Football Playoff?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:19:26.090672Z",
+  "market_createdAt": "2024-09-08T00:19:26.090672Z",
+  "market_updatedAt": "2024-09-08T22:22:41.240283Z",
+  "market_startDate": "2024-09-08T01:54:07.064726Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:19:48+00",
+  "conditionId": "0x1197871622bc8214b0f6e54995005e1d994da86d0adf767d2ae3b5e0d44049da",
+  "slug": "will-the-saints-win-by-4-or-more-points",
+  "question": "Will the Saints win by 4 or more points?"
+}

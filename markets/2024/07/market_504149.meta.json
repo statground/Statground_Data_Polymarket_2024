@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:10:35.988097Z",
+  "market_createdAt": "2024-07-25T18:10:35.988097Z",
+  "market_updatedAt": "2024-07-28T21:37:04.465532Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:20:49+00",
+  "conditionId": "0x32b0e9f554ee13ed30dcd0af5e4b86e0bb4aa02376521b727ac72bb3b1688aec",
+  "slug": "will-france-win-gold-in-mens-4x100m-freestyle-relay",
+  "question": "Will France win Gold in Men's 4x100m Freestyle Relay?"
+}

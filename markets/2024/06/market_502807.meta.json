@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T17:03:25.253141Z",
+  "market_createdAt": "2024-06-24T17:03:25.253141Z",
+  "market_updatedAt": "2024-10-29T14:57:11.644725Z",
+  "market_startDate": "2024-06-24T17:03:25.253141Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-10-28 15:33:36+00",
+  "conditionId": "0xbc22ac8122208f8bb6bc8ae52e9ab82cffdeb407f76496a0178b123791f4fb4b",
+  "slug": "will-carlos-sainz-win-the-2024-f1-season",
+  "question": "Will Carlos Sainz win the 2024 F1 season?"
+}

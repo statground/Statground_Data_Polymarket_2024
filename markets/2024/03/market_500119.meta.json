@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T17:18:57.087994Z",
+  "market_createdAt": "2024-03-13T17:18:57.087994Z",
+  "market_updatedAt": "2024-07-02T08:50:49.971076Z",
+  "market_startDate": "2024-03-14T21:11:08.679Z",
+  "market_endDate": "2024-06-30T07:00:00Z",
+  "market_closedTime": "2024-07-01 08:58:46+00",
+  "conditionId": "0x42e05cfadfd2ec7b8f43470b1abbe0904058770166a8d4251dde9660870219f9",
+  "slug": "mh370-underwater-wreckage-found-before-july",
+  "question": "MH370 underwater wreckage found before July?"
+}

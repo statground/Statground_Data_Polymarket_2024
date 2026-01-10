@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T20:38:42.134630Z",
+  "market_createdAt": "2024-05-14T20:38:42.13463Z",
+  "market_updatedAt": "2024-05-19T23:05:50.780641Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-19 23:03:58+00",
+  "conditionId": "0xbd12aacb004d20490a0a104f079882e828a345183dea921e4a1add08c77571be",
+  "slug": "will-brooks-koepka-win-the-2024-pga-championship",
+  "question": "Will Brooks Koepka win the 2024 PGA Championship?"
+}

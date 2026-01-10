@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-23T20:18:17.928000Z",
+  "market_createdAt": "2024-02-23T20:18:17.928Z",
+  "market_updatedAt": "2025-01-01T22:59:19.273812Z",
+  "market_startDate": "2024-02-27T20:44:22.874Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:48:10+00",
+  "conditionId": "0xa47e90f1232464539a75336de9fa41856285bc2dd5250ee509084ee90cf2d26e",
+  "slug": "will-satoshi-nakamotos-identity-be-proven-in-q4-2024",
+  "question": "Will Satoshi Nakamoto's identity be proven in Q4 2024?"
+}

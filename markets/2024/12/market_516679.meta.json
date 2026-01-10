@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:07:16.935815Z",
+  "market_createdAt": "2024-12-29T07:07:16.935815Z",
+  "market_updatedAt": "2025-01-04T05:08:49.736197Z",
+  "market_startDate": "2024-12-29T07:09:50.81967Z",
+  "market_endDate": "2025-01-10T00:00:00Z",
+  "market_closedTime": "2025-01-03 05:18:29+00",
+  "conditionId": "0x6db92acf02da726d08ed9ba0216dd469080f411bef727472b10b9dbcf48a3afe",
+  "slug": "nhl-bos-nyr-2025-01-02",
+  "question": "Bruins vs. Rangers"
+}

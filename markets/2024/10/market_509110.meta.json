@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:23:35.525546Z",
+  "market_createdAt": "2024-10-07T19:23:35.525546Z",
+  "market_updatedAt": "2025-05-23T23:01:21.72022Z",
+  "market_startDate": "2024-10-08T14:53:48.99Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-01 06:49:13+00",
+  "conditionId": "0xea6add66b06dfdd20b051f6dea7e3ed6e5087a22686f1f65feb8ed14b60e9c2a",
+  "slug": "will-the-tampa-bay-lightning-win-the-2025-stanley-cup",
+  "question": "Will the Tampa Bay Lightning win the 2025 Stanley Cup?"
+}

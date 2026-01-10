@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T17:28:23.291800Z",
+  "market_createdAt": "2024-08-23T17:28:23.2918Z",
+  "market_updatedAt": "2024-08-25T19:16:51.027069Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 21:18:54+00",
+  "conditionId": "0x0b445216d61254581264f9619b97df5e9df4543feaf96f0f19a2582e094da385",
+  "slug": "cfb-florida-st-10pt5-vs-georgia-tech",
+  "question": "CFB: Florida St. (-10.5) vs. Georgia Tech"
+}

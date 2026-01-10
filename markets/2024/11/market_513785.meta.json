@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:04:00.928660Z",
+  "market_createdAt": "2024-11-24T05:04:00.92866Z",
+  "market_updatedAt": "2024-12-02T08:23:14.262537Z",
+  "market_startDate": "2024-11-24T05:07:01.473337Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 08:48:44+00",
+  "conditionId": "0x5027f1606f3d46767e07070e2ad07eb95209fdeab270cbd053333aad1a4c148b",
+  "slug": "cfb-hou-byu-2024-11-30",
+  "question": "Houston vs. BYU"
+}

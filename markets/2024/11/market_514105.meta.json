@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:21:32.347059Z",
+  "market_createdAt": "2024-11-26T08:21:32.347059Z",
+  "market_updatedAt": "2024-11-29T20:47:35.393868Z",
+  "market_startDate": "2024-11-26T22:51:30.834366Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:11:37+00",
+  "conditionId": "0x25bb549b3c61043e67ed960becdb0ffef13fcfcd20336674abbc2e1ee4c11a2f",
+  "slug": "will-besiktas-beat-maccabi-tlv",
+  "question": "Will Besiktas beat Maccabi TLV?"
+}

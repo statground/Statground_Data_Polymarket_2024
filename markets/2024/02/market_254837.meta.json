@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254837",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T22:58:11.952000Z",
+  "market_createdAt": "2024-02-27T22:58:11.952Z",
+  "market_updatedAt": "2024-05-07T23:09:18.263007Z",
+  "market_startDate": "2024-02-28T15:39:42.952Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:31:30+00",
+  "conditionId": "0x8657be23cc69d2fb42695f4dbfe525ed3903f2694487e53b4a72a25bcc3d8838",
+  "slug": "will-btc-hit-90000-in-march",
+  "question": "Will BTC hit $90,000 in March?"
+}

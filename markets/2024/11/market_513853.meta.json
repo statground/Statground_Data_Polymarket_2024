@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:10:28.982910Z",
+  "market_createdAt": "2024-11-24T18:10:28.98291Z",
+  "market_updatedAt": "2024-12-01T00:49:16.723931Z",
+  "market_startDate": "2024-11-24T18:12:59.878112Z",
+  "market_endDate": "2024-11-29T20:00:00Z",
+  "market_closedTime": "2024-11-30 01:16:00+00",
+  "conditionId": "0x27423fc8f03dac8daa9548f0a706c1409ce720a3db01a1e88ef0ca8a41346e7f",
+  "slug": "epl-bri-sou-2024-11-29-draw",
+  "question": "Will Brighton vs. Southampton end in a draw?"
+}

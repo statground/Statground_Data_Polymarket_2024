@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T22:24:19.735887Z",
+  "market_createdAt": "2024-06-24T22:24:19.735887Z",
+  "market_updatedAt": "2024-07-18T11:44:43.579429Z",
+  "market_startDate": "2024-07-17T21:39:30.755Z",
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-17 23:50:17+00",
+  "conditionId": "0x92e4b1b8e0621fab0537486e7d527322569d7a8fd394b3098ff4bb1d6e1c0bbd",
+  "slug": "will-the-doj-charge-boeing",
+  "question": "Will the DOJ charge Boeing?"
+}

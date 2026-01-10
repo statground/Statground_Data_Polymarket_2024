@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T17:17:43.529999Z",
+  "market_createdAt": "2024-12-13T17:17:43.529999Z",
+  "market_updatedAt": "2024-12-21T20:36:53.24848Z",
+  "market_startDate": "2024-12-13T17:43:04.402747Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 20:32:51+00",
+  "conditionId": "0x577564a04dfac32e245b7768a3cc38a8b892837dde1d15ce608afa8da0d7e876",
+  "slug": "will-elon-tweet-500-or-more-times-dec-13-20",
+  "question": "Will Elon tweet 500 or more times Dec 13-20?"
+}

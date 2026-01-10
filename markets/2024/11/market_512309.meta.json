@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512309",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:38:34.370342Z",
+  "market_createdAt": "2024-11-07T20:38:34.370342Z",
+  "market_updatedAt": "2024-11-10T05:32:52.760791Z",
+  "market_startDate": "2024-11-07T22:57:33.924647Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-09 07:47:34+00",
+  "conditionId": "0xde574d5ece06b659eba2d28f0a69636d3f167b089bca7662a0e1673c2545ae2c",
+  "slug": "will-iowa-beat-ucla",
+  "question": "Will Iowa beat UCLA?"
+}

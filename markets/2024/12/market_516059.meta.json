@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516059",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T17:30:15.022947Z",
+  "market_createdAt": "2024-12-19T17:30:15.022947Z",
+  "market_updatedAt": "2025-01-30T23:31:13.526012Z",
+  "market_startDate": "2024-12-19T19:54:03.035Z",
+  "market_endDate": "2025-01-29T12:00:00Z",
+  "market_closedTime": "2025-01-29 23:48:28+00",
+  "conditionId": "0x955365e8aa835120da56d9947f60f0c8a83af20e31a94f7dc485ecbfc34ec039",
+  "slug": "will-powell-say-inflation-60-or-more-times-during-january-press-conference",
+  "question": "Will Powell say \"inflation\" 60 or more times during January press conference?"
+}

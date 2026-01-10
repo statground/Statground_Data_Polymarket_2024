@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T01:38:04.504005Z",
+  "market_createdAt": "2024-06-19T01:38:04.504005Z",
+  "market_updatedAt": "2024-06-25T06:21:14.328646Z",
+  "market_startDate": "2024-06-19T22:59:01.155Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 06:23:49+00",
+  "conditionId": "0x3e2c7e5886931fb635ae0b2ebdac7fa6bbfe1128c761bc8df3cc90e6dd87751b",
+  "slug": "did-barron-trump-launch-djt",
+  "question": "Did Barron Trump launch $DJT?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:31:12.524427Z",
+  "market_createdAt": "2024-10-11T17:31:12.524427Z",
+  "market_updatedAt": "2024-10-14T20:46:55.077212Z",
+  "market_startDate": "2024-10-11T19:33:02.814459Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 23:55:29+00",
+  "conditionId": "0x30ddcdd33e76164f88156aebff1b2a98e86d1dd6e4b09adbda715d74a8d96265",
+  "slug": "will-the-match-between-austria-and-norway-end-in-a-draw",
+  "question": "Will the match between Austria and Norway end in a draw?"
+}

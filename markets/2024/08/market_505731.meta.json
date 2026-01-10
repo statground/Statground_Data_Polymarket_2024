@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:19:02.127907Z",
+  "market_createdAt": "2024-08-23T16:19:02.127907Z",
+  "market_updatedAt": "2024-08-25T00:26:59.508248Z",
+  "market_startDate": "2024-08-23T16:51:09.303Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-24 02:28:47+00",
+  "conditionId": "0x8575d852e102e37dbe363779cd7debdaf0d49563a95ede47fb9f7f6edc5fa212",
+  "slug": "will-trump-say-orban-at-his-arizona-speech",
+  "question": "Will Trump say \"Orbán\" at his Arizona speech?"
+}

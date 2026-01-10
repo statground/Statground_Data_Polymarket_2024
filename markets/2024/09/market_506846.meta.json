@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T16:56:22.300732Z",
+  "market_createdAt": "2024-09-11T16:56:22.300732Z",
+  "market_updatedAt": "2024-09-15T06:13:01.56031Z",
+  "market_startDate": "2024-09-12T22:54:30.90738Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 06:20:09+00",
+  "conditionId": "0x1e60cf117b226067a37164a1c1803b9e9dd5a390fffbc8b8343fcbfcc475a852",
+  "slug": "will-trump-say-haitian-5-times-during-his-nevada-rally",
+  "question": "Will Trump say \"Haitian\" 5+ times during his Nevada rally?"
+}

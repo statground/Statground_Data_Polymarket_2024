@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:34:40.724422Z",
+  "market_createdAt": "2024-11-21T22:34:40.724422Z",
+  "market_updatedAt": "2024-11-29T15:09:30.038833Z",
+  "market_startDate": "2024-11-25T18:50:49.164148Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-28 21:12:44+00",
+  "conditionId": "0x287d0f55b338c1cbe4d6c467f8bd23e72c80341a3843a751d3bfce16a81f8b3d",
+  "slug": "will-the-washington-wizards-win-the-2024-nba-cup",
+  "question": "Will the Washington Wizards win the 2024 NBA Cup?"
+}

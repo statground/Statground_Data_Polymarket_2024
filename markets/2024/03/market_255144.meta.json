@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:52:06.662000Z",
+  "market_createdAt": "2024-03-01T18:52:06.662Z",
+  "market_updatedAt": "2024-11-08T06:19:02.184377Z",
+  "market_startDate": "2024-03-07T23:56:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:21:40+00",
+  "conditionId": "0xbb01eefb24a38a9aa1921ec168d3049e7374b28a2540937d06b3ff2524d66627",
+  "slug": "will-a-republican-win-michigan-presidential-election",
+  "question": "Will a Republican win Michigan Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516656",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:01:47.024585Z",
+  "market_createdAt": "2024-12-29T07:01:47.024585Z",
+  "market_updatedAt": "2024-12-31T05:01:59.997766Z",
+  "market_startDate": "2024-12-29T07:04:17.089386Z",
+  "market_endDate": "2025-01-06T01:00:00Z",
+  "market_closedTime": "2024-12-30 05:53:17+00",
+  "conditionId": "0x702b1236f855ecdc8341174348c7afd12303ed27d7dd50f9ee3d240826eb0deb",
+  "slug": "nhl-cal-las-2024-12-29",
+  "question": "Flames vs. Golden Knights"
+}

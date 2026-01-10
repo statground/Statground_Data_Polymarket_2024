@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T17:22:41.478987Z",
+  "market_createdAt": "2024-05-31T17:22:41.478987Z",
+  "market_updatedAt": "2024-06-02T21:21:14.026101Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-01 22:58:10+00",
+  "conditionId": "0x4b1286f621ef9b08f0ae1235b421e02b93bc7a2e7592959c621aff42a369a773",
+  "slug": "will-qinwen-zheng-win-the-2024-french-open-womens-singles",
+  "question": "Will Qinwen Zheng win the 2024 French Open Women's Singles?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513931",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:01:01.410808Z",
+  "market_createdAt": "2024-11-25T05:01:01.410808Z",
+  "market_updatedAt": "2024-11-29T22:47:27.546376Z",
+  "market_startDate": "2024-11-25T05:03:31.853Z",
+  "market_endDate": "2024-12-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:02:41+00",
+  "conditionId": "0x5b8289a8c04610e8f7e0cbb03578418176d02b63ba97d9e93d49e230ea670889",
+  "slug": "nfl-chi-det-2024-11-28",
+  "question": "Bears vs. Lions"
+}

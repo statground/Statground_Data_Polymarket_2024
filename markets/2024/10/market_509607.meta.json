@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:15:54.489403Z",
+  "market_createdAt": "2024-10-11T15:15:54.489403Z",
+  "market_updatedAt": "2024-10-13T21:06:40.014104Z",
+  "market_startDate": "2024-10-11T18:51:28.214819Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:37:39+00",
+  "conditionId": "0x13dc0c12282b4995d955de6e82941904324cab48908f61324044b16fef0d3e3e",
+  "slug": "will-clemson-beat-wake-forest-by-21-or-more-points",
+  "question": "Will Clemson beat Wake Forest by 21 or more points?"
+}

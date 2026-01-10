@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T16:39:55.122269Z",
+  "market_createdAt": "2024-09-03T16:39:55.122269Z",
+  "market_updatedAt": "2024-09-05T21:11:15.778375Z",
+  "market_startDate": "2024-09-03T16:50:57.708902Z",
+  "market_endDate": "2024-09-04T12:00:00Z",
+  "market_closedTime": "2024-09-04 22:13:06+00",
+  "conditionId": "0x57cbffe0384e17a212b0a9e8dcfc150a290fcbceb9d4f9b455a39b5bb6cb9dcd",
+  "slug": "us-open-de-minaur-vs-draper",
+  "question": "US Open: De Minaur vs. Draper"
+}

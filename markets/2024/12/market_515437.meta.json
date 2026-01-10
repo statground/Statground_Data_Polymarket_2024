@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515437",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T22:02:01.081772Z",
+  "market_createdAt": "2024-12-11T22:02:01.081772Z",
+  "market_updatedAt": "2024-12-30T00:30:09.675503Z",
+  "market_startDate": "2024-12-23T18:57:29.534497Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 04:02:05+00",
+  "conditionId": "0x8df7982f92e256b11748d86d5df1d58caa36869164ea28d0e88afb1f4f3cdc2c",
+  "slug": "will-ian-nepomniachtchi-win-the-2024-world-rapid-championship",
+  "question": "Will Ian Nepomniachtchi win the 2024 World Rapid Championship?"
+}

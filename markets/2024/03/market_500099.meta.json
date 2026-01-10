@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T15:12:01.579015Z",
+  "market_createdAt": "2024-03-13T15:12:01.579015Z",
+  "market_updatedAt": "2024-05-07T23:09:19.059251Z",
+  "market_startDate": "2024-03-13T18:51:05.129Z",
+  "market_endDate": "2024-11-05T05:00:00Z",
+  "market_closedTime": "2024-03-26 22:42:56+00",
+  "conditionId": "0x51e4a3563e101f109e68a2a696657969a2a05766f5ae2983c5a7146e86973b43",
+  "slug": "will-robert-f-kennedy-jr-announce-rand-paul-as-running-mate",
+  "question": "Will Robert F. Kennedy Jr. announce Rand Paul as running mate?"
+}

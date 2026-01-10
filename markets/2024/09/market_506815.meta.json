@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T15:42:06.958995Z",
+  "market_createdAt": "2024-09-11T15:42:06.958995Z",
+  "market_updatedAt": "2024-09-14T00:23:05.563397Z",
+  "market_startDate": "2024-09-11T17:24:06.22Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 00:49:07+00",
+  "conditionId": "0xd91ba48d2161a3485bca3e9b6d4ab3c1942648b35f900fd329a8c8d5ed3a5f26",
+  "slug": "will-trump-say-cat-during-his-arizona-rally",
+  "question": "Will Trump say \"cat\" during his Arizona rally?"
+}

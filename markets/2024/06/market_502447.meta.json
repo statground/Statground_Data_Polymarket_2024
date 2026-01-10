@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:42:18.424052Z",
+  "market_createdAt": "2024-06-14T15:42:18.424052Z",
+  "market_updatedAt": "2024-06-22T16:21:11.18571Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-21 21:14:36+00",
+  "conditionId": "0xdb6419c0983ae26be54728d346e61737c9591e35a7d11f3bf92b6741838b2a99",
+  "slug": "will-poland-win-group-d",
+  "question": "Will Poland win Group D?"
+}

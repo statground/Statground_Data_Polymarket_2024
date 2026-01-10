@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:38:32.352835Z",
+  "market_createdAt": "2024-09-06T16:38:32.352835Z",
+  "market_updatedAt": "2024-09-14T09:57:06.747362Z",
+  "market_startDate": "2024-09-06T17:41:45.618826Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-13 19:16:58+00",
+  "conditionId": "0x59dd76530e2e056433a1dabc1e6cb0692d67cad3f05c5a2ba353e19b5c860c87",
+  "slug": "will-trump-tweet-35-39-times-this-week",
+  "question": "Will Trump tweet 35-39 times this week?"
+}

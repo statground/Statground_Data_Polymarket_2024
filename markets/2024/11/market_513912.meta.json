@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:55:24.932803Z",
+  "market_createdAt": "2024-11-24T18:55:24.932803Z",
+  "market_updatedAt": "2024-11-29T05:29:27.631632Z",
+  "market_startDate": "2024-11-24T18:58:33.19942Z",
+  "market_endDate": "2024-12-05T01:30:00Z",
+  "market_closedTime": "2024-11-28 05:51:58+00",
+  "conditionId": "0xf1279835821e018941742ee8a445033ac2cf226040ed0dd835ac0e9fa125150e",
+  "slug": "nba-lal-sas-2024-11-27",
+  "question": "Lakers vs. Spurs"
+}

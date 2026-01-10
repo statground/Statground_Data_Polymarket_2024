@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T16:47:56.884901Z",
+  "market_createdAt": "2024-06-20T16:47:56.884901Z",
+  "market_updatedAt": "2024-06-22T02:46:09.134638Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-20T12:00:00Z",
+  "market_closedTime": "2024-06-21 05:19:00+00",
+  "conditionId": "0xd53edd246cd2260c1b4d59735762555a4d06f797cc05c26683da3e429ef22fda",
+  "slug": "will-argentina-win",
+  "question": "Will Argentina win?"
+}

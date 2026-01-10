@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T14:37:28.560940Z",
+  "market_createdAt": "2024-07-03T14:37:28.56094Z",
+  "market_updatedAt": "2024-07-07T00:00:49.764263Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-05T12:00:00Z",
+  "market_closedTime": "2024-07-05 23:59:55+00",
+  "conditionId": "0x25b66bd50bb6b65fd6c24fd06528bf7adf1628b22d6de796035c2a194e2b92d0",
+  "slug": "will-portugal-win-july-5",
+  "question": "Will Portugal win?"
+}

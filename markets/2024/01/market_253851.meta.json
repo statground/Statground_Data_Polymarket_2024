@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253851",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:14:27.719000Z",
+  "market_createdAt": "2024-01-12T19:14:27.719Z",
+  "market_updatedAt": "2024-03-11T23:14:07.113Z",
+  "market_startDate": "2024-01-16T17:49:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:46:10+00",
+  "conditionId": "0xa8486b22279ae68e08c3e3fd1c83451926c60576d7da5810777579b46bad9e6d",
+  "slug": "will-maestro-win-the-oscar-for-best-picture",
+  "question": "Will \"Maestro\" win the Oscar for Best Picture?"
+}

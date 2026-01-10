@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:07:43.214085Z",
+  "market_createdAt": "2024-12-15T07:07:43.214085Z",
+  "market_updatedAt": "2024-12-22T04:34:45.987652Z",
+  "market_startDate": "2024-12-15T07:10:35.651756Z",
+  "market_endDate": "2024-12-28T00:00:00Z",
+  "market_closedTime": "2024-12-21 04:53:25+00",
+  "conditionId": "0xa7daef6673ca1dd4321e92c6790b8fde054fb4bc6c8aff5103e0017e0f9b21e1",
+  "slug": "nhl-stl-fla-2024-12-20",
+  "question": "Blues vs. Panthers"
+}

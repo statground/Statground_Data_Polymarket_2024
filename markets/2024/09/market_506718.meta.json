@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T18:51:08.731181Z",
+  "market_createdAt": "2024-09-09T18:51:08.731181Z",
+  "market_updatedAt": "2024-09-16T18:10:38.063452Z",
+  "market_startDate": "2024-09-09T20:10:45.806282Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 18:12:11+00",
+  "conditionId": "0x9e3e977e490922b6cee1ec183356bb905afd182c2f9f0dd5594b49830f7549e1",
+  "slug": "will-tottenham-beat-arsenal",
+  "question": "Will Tottenham beat Arsenal?"
+}

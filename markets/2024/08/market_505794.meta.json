@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:08:51.228378Z",
+  "market_createdAt": "2024-08-26T18:08:51.228378Z",
+  "market_updatedAt": "2024-08-31T03:11:12.819623Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 03:05:57+00",
+  "conditionId": "0x0a84822de355ed948f3e67600e69aaff16eefa273749514692678c79e0e7572f",
+  "slug": "will-donald-trump-say-drill-baby-drill-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"drill baby drill\" during Michigan town hall?"
+}

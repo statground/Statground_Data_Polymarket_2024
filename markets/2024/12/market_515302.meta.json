@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:17:26.105468Z",
+  "market_createdAt": "2024-12-10T21:17:26.105468Z",
+  "market_updatedAt": "2024-12-13T20:05:22.63842Z",
+  "market_startDate": "2024-12-11T22:54:02.562835Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 23:03:07+00",
+  "conditionId": "0xbf3cc3f5c159b053f221f7c20b33224a889509e5cd221b782a377cbc4c467f80",
+  "slug": "will-the-match-between-olympiacos-and-twente-end-in-a-draw",
+  "question": "Will the match between Olympiacos and Twente end in a draw?"
+}

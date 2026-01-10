@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507899",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T15:36:55.138592Z",
+  "market_createdAt": "2024-09-24T15:36:55.138592Z",
+  "market_updatedAt": "2024-09-26T18:56:42.935404Z",
+  "market_startDate": "2024-09-24T16:22:43.969274Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 19:38:32+00",
+  "conditionId": "0x1cadb8473109f788434d6762e808aabbc9336d93cbce9944bfa2e6a496e0f6d3",
+  "slug": "will-donald-trump-say-nafta-during-his-north-carolina-speech",
+  "question": "Will Donald Trump say \"NAFTA\" during his North Carolina speech?"
+}

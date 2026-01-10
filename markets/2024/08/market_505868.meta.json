@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505868",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:20:36.387007Z",
+  "market_createdAt": "2024-08-27T13:20:36.387007Z",
+  "market_updatedAt": "2024-11-01T06:20:55.182053Z",
+  "market_startDate": "2024-08-27T13:20:36.387007Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-31 07:17:38+00",
+  "conditionId": "0x6d7d4e3ab72647d19691db9d458902ea3243db75fdf474fcbe8a1b3f51dfa449",
+  "slug": "will-the-los-angeles-dodgers-win-the-world-series",
+  "question": "Will the Los Angeles Dodgers win the World Series?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505934",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T20:16:58.457228Z",
+  "market_createdAt": "2024-08-27T20:16:58.457228Z",
+  "market_updatedAt": "2024-09-01T20:07:10.212575Z",
+  "market_startDate": "2024-08-27T20:16:58.457228Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 21:19:33+00",
+  "conditionId": "0xfc9217ae466084098ead6da340cda97f323facd6d1cd66ac85a34e4a3e9c73ca",
+  "slug": "clemson-vs-georgia",
+  "question": "Clemson vs. Georgia winner?"
+}

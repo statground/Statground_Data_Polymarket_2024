@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T22:56:20.360259Z",
+  "market_createdAt": "2024-12-05T22:56:20.360259Z",
+  "market_updatedAt": "2024-12-10T23:05:19.25681Z",
+  "market_startDate": "2024-12-05T23:02:30.442664Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-09 23:35:45+00",
+  "conditionId": "0x68531bde45716aca08df2997af3a2b19d20e36c3eefb8dfc6c7211698ab6bbb2",
+  "slug": "openai-sora-public-release-in-2024",
+  "question": "OpenAI Sora public release in 2024?"
+}

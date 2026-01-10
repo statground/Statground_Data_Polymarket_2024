@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:02:55.665107Z",
+  "market_createdAt": "2024-11-18T05:02:55.665107Z",
+  "market_updatedAt": "2024-11-25T22:48:03.150359Z",
+  "market_startDate": "2024-11-18T05:05:31.569376Z",
+  "market_endDate": "2024-12-01T18:00:00Z",
+  "market_closedTime": "2024-11-24 23:31:36+00",
+  "conditionId": "0xb236355fe71fe311449678ea87cf5258846ce0f1f624b941554347d8ba016db7",
+  "slug": "nfl-dal-was-2024-11-24",
+  "question": "Cowboys vs. Commanders"
+}

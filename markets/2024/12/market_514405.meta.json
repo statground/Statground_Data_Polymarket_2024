@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:00:36.532967Z",
+  "market_createdAt": "2024-12-02T19:00:36.532967Z",
+  "market_updatedAt": "2024-12-05T00:11:39.715264Z",
+  "market_startDate": "2024-12-02T19:03:52.246118Z",
+  "market_endDate": "2024-12-03T19:30:00Z",
+  "market_closedTime": "2024-12-04 00:48:19+00",
+  "conditionId": "0xa28bf6b3f4a18f7e34b74ea8eb7801b030054a7075e34db5f9a9dd41354e184e",
+  "slug": "epl-ips-cry-2024-12-03-draw",
+  "question": "Will Ipswich vs. Crystal Palace end in a draw?"
+}

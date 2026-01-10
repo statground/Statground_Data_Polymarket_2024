@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512390",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T17:58:20.294688Z",
+  "market_createdAt": "2024-11-08T17:58:20.294688Z",
+  "market_updatedAt": "2024-11-24T22:11:56.577419Z",
+  "market_startDate": "2024-11-22T19:02:52.297Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:47:13+00",
+  "conditionId": "0xc77accea981bfda248968c76780d059bd6771963ce3dfab248e77b03268ee81b",
+  "slug": "will-trump-nominate-kelly-loeffler-for-agriculture-secretary",
+  "question": "Will Trump nominate Kelly Loeffler for Agriculture Secretary?"
+}

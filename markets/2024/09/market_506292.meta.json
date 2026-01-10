@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506292",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:42:07.310521Z",
+  "market_createdAt": "2024-09-03T17:42:07.310521Z",
+  "market_updatedAt": "2024-09-12T04:57:03.589397Z",
+  "market_startDate": "2024-09-03T22:25:46.337Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:08:20+00",
+  "conditionId": "0xff359cdc25f6deedcf7e6b0fb9460622d0560b3b94a74f04095346a3fd3c17c1",
+  "slug": "will-trump-say-drill-baby-drill-at-debate",
+  "question": "Will Trump say \"drill baby drill\" at debate?"
+}

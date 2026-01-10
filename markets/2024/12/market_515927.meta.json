@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515927",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:17:26.294117Z",
+  "market_createdAt": "2024-12-17T22:17:26.294117Z",
+  "market_updatedAt": "2024-12-21T21:16:51.319197Z",
+  "market_startDate": "2024-12-17T23:47:22.872347Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 00:44:37+00",
+  "conditionId": "0xc994c2137ba13ba3abc7a8081170eedee3c7f21f97b60117c3ecf6aabb2a7b2e",
+  "slug": "will-the-match-between-bayern-munich-and-rb-leipzig-end-in-a-draw",
+  "question": "Will the match between Bayern Munich and RB Leipzig end in a draw?"
+}

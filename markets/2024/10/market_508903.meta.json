@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:54:05.059064Z",
+  "market_createdAt": "2024-10-04T16:54:05.059064Z",
+  "market_updatedAt": "2024-10-07T02:40:39.797935Z",
+  "market_startDate": "2024-10-04T18:37:40.754053Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:37:34+00",
+  "conditionId": "0x6d69b05318f4d9de0fa129cae3da4b45e55c4d8c12bab4ab8ece516d729737bb",
+  "slug": "will-clemson-beat-florida-state-by-15-or-more-points",
+  "question": "Will Clemson beat Florida State by 15 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:36:37.627610Z",
+  "market_createdAt": "2024-12-31T20:36:37.62761Z",
+  "market_updatedAt": "2025-07-01T00:25:00.359712Z",
+  "market_startDate": "2024-12-31T20:49:05.632Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:20:16+00",
+  "conditionId": "0xd40a952afb5e78600bc4e41a1587a1f18fe40c803edc5d4a7d5de76ff8660ec2",
+  "slug": "will-anthropic-have-the-top-ai-model-on-june-30",
+  "question": "Will Anthropic have the top AI model on June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:22:43.733779Z",
+  "market_createdAt": "2024-08-19T15:22:43.733779Z",
+  "market_updatedAt": "2024-08-21T05:37:00.175373Z",
+  "market_startDate": "2024-08-19T15:51:02.119Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 05:56:42+00",
+  "conditionId": "0x311e7bffd2904a2b2f40c24bf13d0f738b975d7f391d6c937e8f4619ad479043",
+  "slug": "will-biden-say-project-2025-at-dnc-speech",
+  "question": "Will Biden say \"Project 2025\" at DNC speech?"
+}

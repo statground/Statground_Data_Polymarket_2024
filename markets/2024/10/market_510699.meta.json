@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:30:19.185671Z",
+  "market_createdAt": "2024-10-23T15:30:19.185671Z",
+  "market_updatedAt": "2024-11-11T08:46:47.901902Z",
+  "market_startDate": "2024-10-23T16:05:14.378638Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-10 08:53:03+00",
+  "conditionId": "0x23ec6857af1da21b58cc3c28bde7a451694ab56b6fb19902664b29cb5fab3f3f",
+  "slug": "us-military-action-against-yemen-in-2024",
+  "question": "U.S. military action against Yemen in 2024?"
+}

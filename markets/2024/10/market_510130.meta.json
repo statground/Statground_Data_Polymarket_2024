@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:58:54.219121Z",
+  "market_createdAt": "2024-10-18T16:58:54.219121Z",
+  "market_updatedAt": "2024-10-20T20:41:00.707426Z",
+  "market_startDate": "2024-10-18T23:31:23.538703Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:32:15+00",
+  "conditionId": "0x3ae9d30b3a5d0f7bf0971408fd2c0e881c93bf738880a3a36268727c8d2d46a7",
+  "slug": "will-army-beat-eastern-carolina-by-17-or-more-points",
+  "question": "Will Army beat Eastern Carolina by 17 or more points?"
+}

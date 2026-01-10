@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:54:24.545000Z",
+  "market_createdAt": "2024-03-01T18:54:24.545Z",
+  "market_updatedAt": "2024-11-07T00:17:08.492042Z",
+  "market_startDate": "2024-03-28T19:39:52.492Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:40:18+00",
+  "conditionId": "0xb5d87b4baa886f6829f00fabccc625e4286a2656b58daf2260bb3e3c379d0b56",
+  "slug": "will-a-candidate-from-another-party-win-oregon-presidential-election",
+  "question": "Will a candidate from another party win Oregon Presidential Election?"
+}

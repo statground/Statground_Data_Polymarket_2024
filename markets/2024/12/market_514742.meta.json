@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T20:44:53.767803Z",
+  "market_createdAt": "2024-12-04T20:44:53.767803Z",
+  "market_updatedAt": "2024-12-07T01:55:18.381057Z",
+  "market_startDate": "2024-12-04T22:08:18.094Z",
+  "market_endDate": "2025-02-28T12:00:00Z",
+  "market_closedTime": "2024-12-06 01:55:45+00",
+  "conditionId": "0x7c602b147c8164f1bd30444b301e51a4ea21f9917aa477a5cc858e645b55a5db",
+  "slug": "will-tucker-say-himars-during-lavrov-interview",
+  "question": "Will Tucker say \"HIMARS\" during Lavrov interview?"
+}

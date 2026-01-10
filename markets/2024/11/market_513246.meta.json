@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:58:57.768348Z",
+  "market_createdAt": "2024-11-15T21:58:57.768348Z",
+  "market_updatedAt": "2024-11-18T21:51:16.285205Z",
+  "market_startDate": "2024-11-15T23:22:11.760805Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 22:03:29+00",
+  "conditionId": "0xfdd29522f1c89bde112b703c61b045757b24286668ed4d828aae51f0e8804e87",
+  "slug": "will-ireland-beat-england-nov-17",
+  "question": "Will Ireland beat England?"
+}

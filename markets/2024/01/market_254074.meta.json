@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T21:04:25.306000Z",
+  "market_createdAt": "2024-01-23T21:04:25.306Z",
+  "market_updatedAt": "2024-03-12T03:18:05.941Z",
+  "market_startDate": "2024-01-24T19:49:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:16:03+00",
+  "conditionId": "0x0b11df5df1f8caf7532d0706e681761a9cd8c396cae488e2145c114b41d16089",
+  "slug": "will-justine-triet-win-the-oscar-for-best-director",
+  "question": "Will Justine Triet win the Oscar for Best Director?"
+}

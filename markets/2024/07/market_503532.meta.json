@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T01:02:26.630134Z",
+  "market_createdAt": "2024-07-16T01:02:26.630134Z",
+  "market_updatedAt": "2024-07-20T11:02:43.142911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:30+00",
+  "conditionId": "0x5c862fd6da9acb6da6a60758243590731c857a1323d040e1b7468ea3d0ccc68f",
+  "slug": "will-ludvig-aberg-win-the-british-open",
+  "question": "Will Ludvig Aberg win the British Open?"
+}

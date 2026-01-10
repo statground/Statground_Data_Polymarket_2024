@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-29T22:37:23.497232Z",
+  "market_createdAt": "2024-06-29T22:37:23.497232Z",
+  "market_updatedAt": "2024-07-01T18:55:49.379243Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-30 21:17:01+00",
+  "conditionId": "0xbe2654aee49bfff7a298a1f8354d759947d95789ee2c86bb60747f0732df0cd5",
+  "slug": "will-the-match-be-a-draw-england-slovakia",
+  "question": "Will the match be a draw?"
+}

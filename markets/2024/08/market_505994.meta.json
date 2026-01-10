@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:02:34.833854Z",
+  "market_createdAt": "2024-08-28T19:02:34.833854Z",
+  "market_updatedAt": "2024-08-31T04:47:02.980188Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 05:21:00+00",
+  "conditionId": "0x44db85b270a3d10c9c20a38cb9fb1cc52afeddc83add737f605033690404e562",
+  "slug": "will-tim-walz-say-disorder-during-cnn-interview",
+  "question": "Will Tim Walz say \"disorder\" during CNN interview?"
+}

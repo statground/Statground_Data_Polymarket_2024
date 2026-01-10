@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:26:06.921350Z",
+  "market_createdAt": "2024-11-08T23:26:06.92135Z",
+  "market_updatedAt": "2024-11-12T01:49:13.485408Z",
+  "market_startDate": "2024-11-09T03:01:12.018679Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-11 06:49:29+00",
+  "conditionId": "0xa4c3e89aa3b8b6d3f4f63bc17e8b04145732dd51554f46f729b43128c3e01243",
+  "slug": "will-the-lions-beat-the-texans-by-4-or-more-points",
+  "question": "Will the Lions beat the Texans by 4 or more points?"
+}

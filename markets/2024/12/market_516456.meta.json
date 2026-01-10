@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-26T16:24:05.564451Z",
+  "market_createdAt": "2024-12-26T16:24:05.564451Z",
+  "market_updatedAt": "2025-01-21T09:27:01.012958Z",
+  "market_startDate": "2024-12-30T18:42:20.131Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-20 09:32:00+00",
+  "conditionId": "0x306542633721712f244eeb90b143268ba00edfb4b4e1a57e24d959f5da2f84eb",
+  "slug": "bitcoin-all-time-high-by-march",
+  "question": "Bitcoin all time high by March 31?"
+}

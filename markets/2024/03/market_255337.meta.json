@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255337",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-07T18:53:28.352000Z",
+  "market_createdAt": "2024-03-07T18:53:28.352Z",
+  "market_updatedAt": "2024-09-19T18:52:45.161173Z",
+  "market_startDate": "2024-03-08T18:55:46.282Z",
+  "market_endDate": "2024-12-18T00:00:00Z",
+  "market_closedTime": "2024-09-18 20:21:56+00",
+  "conditionId": "0x4057c2528a3815d460f0c5889f52a914745b23400c4548804afee8f9c4a56ec3",
+  "slug": "fed-rate-cut-by-december-18",
+  "question": "Fed rate cut by December 18?"
+}

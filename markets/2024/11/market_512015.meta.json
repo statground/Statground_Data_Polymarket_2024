@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T16:32:39.201920Z",
+  "market_createdAt": "2024-11-05T16:32:39.20192Z",
+  "market_updatedAt": "2024-11-07T07:33:02.80528Z",
+  "market_startDate": "2024-11-05T17:22:47.835297Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 07:28:13+00",
+  "conditionId": "0xdc4ecbe4e424273e92b8fc1758b5f9d0d0a819bab87e99853f453c8db68bc02c",
+  "slug": "will-trump-claim-victory-by-midnight",
+  "question": "Will Trump claim victory by midnight? "
+}

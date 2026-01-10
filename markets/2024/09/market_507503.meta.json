@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T19:36:16.146420Z",
+  "market_createdAt": "2024-09-19T19:36:16.14642Z",
+  "market_updatedAt": "2024-10-22T23:13:21.026411Z",
+  "market_startDate": "2024-09-19T22:26:52.863Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-22 04:34:09+00",
+  "conditionId": "0x2093833fcaeb0d0dde38db96c9ccd9ed95abfccae6e9d661ac1598ad51344a70",
+  "slug": "will-the-greens-win-a-plurality-in-the-2024-new-brunswick-general-election",
+  "question": "Will the Greens win the most seats in the 2024 New Brunswick general election?"
+}

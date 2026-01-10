@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:17:43.912867Z",
+  "market_createdAt": "2024-10-11T17:17:43.912867Z",
+  "market_updatedAt": "2024-10-13T18:46:40.255341Z",
+  "market_startDate": "2024-10-11T19:25:56.171553Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:02:09+00",
+  "conditionId": "0x4cc608c07ddf0e77e6225f7da3f0220b40996c293fdd1ee686bdcdee4f978bbe",
+  "slug": "will-the-match-between-croatia-and-scotland-end-in-a-draw",
+  "question": "Will the match between Croatia and Scotland end in a draw?"
+}

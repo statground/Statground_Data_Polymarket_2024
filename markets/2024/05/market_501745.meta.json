@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T22:18:38.199664Z",
+  "market_createdAt": "2024-05-21T22:18:38.199664Z",
+  "market_updatedAt": "2024-05-27T10:19:12.412051Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-29T12:00:00Z",
+  "market_closedTime": "2024-05-26 11:56:43+00",
+  "conditionId": "0x0c79c698275aa76486a32d0f4855fdb57af9dfd34b03b60d9101a77bb43ef55b",
+  "slug": "will-andrew-tate-tweet-55-64-times",
+  "question": "Will Andrew Tate tweet 55-64 times?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504098",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T15:59:22.736501Z",
+  "market_createdAt": "2024-07-25T15:59:22.736501Z",
+  "market_updatedAt": "2024-08-03T18:02:57.345905Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:09:22+00",
+  "conditionId": "0x903a20a15bd6517a554fba6022643b8938fca38cf20ca1cc87d58ed950f591a0",
+  "slug": "will-tom-dean-gbr-win-gold-in-mens-200m-individual-medley",
+  "question": "Will Tom Dean (GBR) win Gold in Men's 200m Individual Medley?"
+}

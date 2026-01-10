@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:18:58.987487Z",
+  "market_createdAt": "2024-12-09T19:18:58.987487Z",
+  "market_updatedAt": "2024-12-11T21:55:16.060365Z",
+  "market_startDate": "2024-12-09T23:35:00.657635Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:17:15+00",
+  "conditionId": "0xd0db84960c064c526e7e37e16d86d728fab3ef3ef9108536adacbb3857ef6fcb",
+  "slug": "will-the-match-between-rb-leipzig-and-aston-villa-end-in-a-draw",
+  "question": "Will the match between RB Leipzig and Aston Villa end in a draw?"
+}

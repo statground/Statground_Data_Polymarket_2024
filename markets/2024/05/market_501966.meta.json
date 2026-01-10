@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T17:21:13.101646Z",
+  "market_createdAt": "2024-05-31T17:21:13.101646Z",
+  "market_updatedAt": "2024-06-07T14:46:14.822041Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-06 18:02:21+00",
+  "conditionId": "0x677affba655e6fa460c3a1a93f1aba8c357115213a52a358cdfdce503377902b",
+  "slug": "will-coco-gauff-win-the-2024-french-open-womens-singles",
+  "question": "Will Coco Gauff win the 2024 French Open Women's Singles?"
+}

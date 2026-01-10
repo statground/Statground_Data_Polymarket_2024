@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:03:25.253744Z",
+  "market_createdAt": "2024-10-28T20:03:25.253744Z",
+  "market_updatedAt": "2024-11-01T01:12:52.010494Z",
+  "market_startDate": "2024-10-28T21:02:47.116Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 02:53:20+00",
+  "conditionId": "0x2f54e7565d279296c2fae646ab38b21d0210d9ba81a8c2f023556fca037564c2",
+  "slug": "will-trump-say-mars-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"Mars\" during Wisconsin rally on Oct 30?"
+}

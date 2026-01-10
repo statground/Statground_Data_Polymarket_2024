@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:34:24.312870Z",
+  "market_createdAt": "2024-12-09T22:34:24.31287Z",
+  "market_updatedAt": "2024-12-12T23:29:09.209351Z",
+  "market_startDate": "2024-12-10T21:54:46.250692Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:23:03+00",
+  "conditionId": "0x4430acb065772c4d3cddded1a4deb562cb9b7418228e4f42ccdbb6c86e7a85c3",
+  "slug": "will-benfica-beat-bologna",
+  "question": "Will Benfica beat Bologna?"
+}

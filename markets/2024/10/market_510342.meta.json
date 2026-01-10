@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510342",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:17:14.019565Z",
+  "market_createdAt": "2024-10-21T20:17:14.019565Z",
+  "market_updatedAt": "2024-10-24T03:47:10.675586Z",
+  "market_startDate": "2024-10-21T20:19:55.5803Z",
+  "market_endDate": "2024-10-22T23:30:00Z",
+  "market_closedTime": "2024-10-23 03:46:50+00",
+  "conditionId": "0x75951e05b4d48854ca8773adaacc6985bec52c6c6c0f97cd5b48c2449b04d0b0",
+  "slug": "nba-nyk-bos-2024-10-22",
+  "question": "Knicks vs. Celtics"
+}

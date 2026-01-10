@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T17:32:03.377000Z",
+  "market_createdAt": "2024-02-27T17:32:03.377Z",
+  "market_updatedAt": "2024-03-05T23:02:22.002Z",
+  "market_startDate": "2024-02-27T18:06:40.685Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-03-04 23:02:23+00",
+  "conditionId": "0x5e6c537932858aa04feca06449705e81a15f6e76390f60a332dea1232ad60a2d",
+  "slug": "coinbase-a-top-100-app-before-april",
+  "question": "Coinbase a top 100 app before April?"
+}

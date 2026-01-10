@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:37:55.060000Z",
+  "market_createdAt": "2024-03-01T19:37:55.06Z",
+  "market_updatedAt": "2024-04-26T02:52:27.478997Z",
+  "market_startDate": "2024-03-02T00:29:00Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-03 07:49:00+00",
+  "conditionId": "0x7c653b281e42ce57c9bd4a17d994149817c46e3e77b78957d7001d9ec9b9a6c0",
+  "slug": "trump-margin-of-victory-in-idaho-caucus-40-50",
+  "question": "Trump margin of victory in Idaho Caucus 40-50%"
+}

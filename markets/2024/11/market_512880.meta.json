@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:01:44.157438Z",
+  "market_createdAt": "2024-11-12T19:01:44.157438Z",
+  "market_updatedAt": "2024-12-16T20:57:35.031784Z",
+  "market_startDate": "2024-11-12T21:26:39.272337Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-15 23:31:34+00",
+  "conditionId": "0x9d72cdc85bfb2c24d2a1c197f7212fd894c8aa64deb4eca837d0a4626dee2f08",
+  "slug": "will-the-chicago-bears-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Chicago Bears make the 2024-25 NFL Playoffs?"
+}

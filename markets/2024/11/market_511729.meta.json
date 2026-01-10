@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:31:21.994003Z",
+  "market_createdAt": "2024-11-01T19:31:21.994003Z",
+  "market_updatedAt": "2024-11-04T21:27:16.336335Z",
+  "market_startDate": "2024-11-02T21:33:56.698112Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 02:41:32+00",
+  "conditionId": "0x0545492beb6bf82d237e9dc3d2a2284e91d7e0fbfeb1c2568b2bcc1a3dabcb91",
+  "slug": "will-the-eagles-and-jaguars-combine-for-46-or-more-points",
+  "question": "Will the Eagles and Jaguars combine for 46 or more points?"
+}

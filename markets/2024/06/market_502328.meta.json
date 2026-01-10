@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:53:56.084263Z",
+  "market_createdAt": "2024-06-11T18:53:56.084263Z",
+  "market_updatedAt": "2024-07-03T02:30:47.051591Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:18:04+00",
+  "conditionId": "0x620b508b0624471c32232107b8f7578dc2b5d2e40e1b247eae93974e93aefc7f",
+  "slug": "united-states-wins-copa-america-2024",
+  "question": "United States wins Copa America 2024?"
+}

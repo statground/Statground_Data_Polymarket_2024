@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:25:29.676742Z",
+  "market_createdAt": "2024-12-10T22:25:29.676742Z",
+  "market_updatedAt": "2024-12-13T22:03:14.301298Z",
+  "market_startDate": "2024-12-11T23:09:54.327524Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:27:58+00",
+  "conditionId": "0x49abbf7bc9bff6cc1eb139997003be35f81a87bf39a85fdf1b32061e7eb3415a",
+  "slug": "will-rfs-beat-maccabi-tlv",
+  "question": "Will RFS beat Maccabi TLV?"
+}

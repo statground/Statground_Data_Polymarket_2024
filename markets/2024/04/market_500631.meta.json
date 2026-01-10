@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500631",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T20:00:08.070860Z",
+  "market_createdAt": "2024-04-02T20:00:08.07086Z",
+  "market_updatedAt": "2024-11-15T06:28:57.474186Z",
+  "market_startDate": "2024-04-24T19:25:04.24Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 06:59:46+00",
+  "conditionId": "0x96f6fb6567b5938fc3c2e75f9829d7287340b9581a9c4817b8bc0aff82e1c45f",
+  "slug": "2024-balance-of-power-r-prez-r-senate-r-house",
+  "question": "2024 Balance of Power: R Prez R Senate R House"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T00:53:38.416670Z",
+  "market_createdAt": "2024-07-18T00:53:38.41667Z",
+  "market_updatedAt": "2024-07-20T06:32:42.149075Z",
+  "market_startDate": "2024-07-18T01:00:42.11Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:29:14+00",
+  "conditionId": "0x001543c3d454fc848ba12d0dd46df8e70b2011b148fb453584337f7609e2fd42",
+  "slug": "will-biden-drop-out-before-trumps-rnc-speech",
+  "question": "Will Biden drop out before Trump's RNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:01:00.785283Z",
+  "market_createdAt": "2024-09-03T19:01:00.785283Z",
+  "market_updatedAt": "2024-10-29T21:47:09.094694Z",
+  "market_startDate": "2024-09-04T00:14:37.191387Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 01:10:01+00",
+  "conditionId": "0x6fd751ba3f83e2db3174510d95396f41bcb38e23733c0a704c8e066338b8b0da",
+  "slug": "will-jude-bellingham-win-the-ballon-dor",
+  "question": "Will Jude Bellingham win the Ballon d’Or?"
+}

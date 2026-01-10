@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505623",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:11:57.606150Z",
+  "market_createdAt": "2024-08-22T15:11:57.60615Z",
+  "market_updatedAt": "2024-08-24T04:07:04.346966Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:12:28+00",
+  "conditionId": "0x988947c8e2aa425ed293432e3165fce1778852c55403ba449e2f7788025a4572",
+  "slug": "will-gretchen-whitmer-say-big-gretch-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Big Gretch\" in DNC speech?"
+}

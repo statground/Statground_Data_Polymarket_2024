@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:15:59.877018Z",
+  "market_createdAt": "2024-08-19T16:15:59.877018Z",
+  "market_updatedAt": "2024-08-28T22:41:09.87909Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-28 02:40:26+00",
+  "conditionId": "0xf06ea2d0ce1bf07b4d5fd2a65db8a334993492af8b4355ab61bac80c72d71501",
+  "slug": "will-ian-nepomniachtchi-win-the-2024-sinquefield-cup",
+  "question": "Will Ian Nepomniachtchi win the 2024 Sinquefield Cup?"
+}

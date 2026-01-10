@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508949",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:00:58.892216Z",
+  "market_createdAt": "2024-10-04T18:00:58.892216Z",
+  "market_updatedAt": "2024-10-07T16:16:39.80068Z",
+  "market_startDate": "2024-10-04T21:50:33.90453Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:11:42+00",
+  "conditionId": "0xebb558c3ef7b3067ceb65c1426e6edf91e7eac2edacde0e2d1a168731aed9389",
+  "slug": "will-the-jaguars-beat-the-colts-by-3-or-more-points",
+  "question": "Will the Jaguars beat the Colts by 3 or more points?"
+}

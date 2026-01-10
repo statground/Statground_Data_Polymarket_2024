@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:03:37.353157Z",
+  "market_createdAt": "2024-09-03T20:03:37.353157Z",
+  "market_updatedAt": "2024-09-21T01:26:46.772493Z",
+  "market_startDate": "2024-09-04T00:03:12.454604Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 04:38:33+00",
+  "conditionId": "0xde1442f71b0abff2c11bd32e96ca6ba0503465d9366d914570d7753ba5e513e5",
+  "slug": "will-the-chicago-sky-win-the-2024-wnba-finals",
+  "question": "Will the Chicago Sky win the 2024 WNBA Finals?"
+}

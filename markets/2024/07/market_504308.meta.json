@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T21:06:32.633215Z",
+  "market_createdAt": "2024-07-29T21:06:32.633215Z",
+  "market_updatedAt": "2024-10-03T05:30:45.302592Z",
+  "market_startDate": "2024-07-29T21:06:32.633215Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 06:03:29+00",
+  "conditionId": "0x0dbfc0ff56a16c101cb521819a4f84a3e1066f51353dcf9a4715619445646961",
+  "slug": "will-trump-be-speaker-by-october-1",
+  "question": "Will Trump be Speaker by October 1?"
+}

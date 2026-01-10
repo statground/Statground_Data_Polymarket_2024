@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T20:03:12.720612Z",
+  "market_createdAt": "2024-10-10T20:03:12.720612Z",
+  "market_updatedAt": "2024-10-21T20:41:25.301879Z",
+  "market_startDate": "2024-10-10T20:04:58.106882Z",
+  "market_endDate": "2024-10-20T15:30:00Z",
+  "market_closedTime": "2024-10-20 20:45:20+00",
+  "conditionId": "0x1304b4ff5d15867196b4a297042e8c055d0eb227de03221c4c1d4138a74e4284",
+  "slug": "epl-liv-che-2024-10-20-che",
+  "question": "Will Chelsea win on 2024-10-20?"
+}

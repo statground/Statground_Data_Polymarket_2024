@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509133",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T21:30:59.882179Z",
+  "market_createdAt": "2024-10-07T21:30:59.882179Z",
+  "market_updatedAt": "2024-11-30T10:37:23.369516Z",
+  "market_startDate": "2024-10-08T16:55:26.896951Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-30 04:03:46+00",
+  "conditionId": "0xaac6e0b300e5f05fb44d8eb9bae9e90d1f915a412695484186a9fe69fc9c5fd6",
+  "slug": "will-the-democratic-candidate-win-arizona-by-0-1pt0",
+  "question": "Will the Democratic candidate win Arizona by 0%-1.0%?"
+}

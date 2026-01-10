@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:34:23.223155Z",
+  "market_createdAt": "2024-10-28T20:34:23.223155Z",
+  "market_updatedAt": "2024-11-02T01:47:13.343282Z",
+  "market_startDate": "2024-10-28T23:38:25.692695Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:13:50+00",
+  "conditionId": "0x2c152e8685683e979d286c4fefb1684604eba6141f46642677c72ccc67889606",
+  "slug": "will-trump-say-maga-4-or-more-times-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"MAGA\" 4 or more times during Nevada rally on Oct 31?"
+}

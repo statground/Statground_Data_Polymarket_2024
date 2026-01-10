@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:55:21.918752Z",
+  "market_createdAt": "2024-10-18T17:55:21.918752Z",
+  "market_updatedAt": "2024-10-21T05:50:52.626515Z",
+  "market_startDate": "2024-10-18T23:07:24.004652Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:42:47+00",
+  "conditionId": "0xca26a203d4211c0117a31cdd85ea02772c0e1578026710ef461ef15a2a92406b",
+  "slug": "will-iowa-state-beat-ucf",
+  "question": "Will Iowa State beat UCF?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:03:18.868806Z",
+  "market_createdAt": "2024-12-30T05:03:18.868806Z",
+  "market_updatedAt": "2025-01-05T18:01:33.781146Z",
+  "market_startDate": "2024-12-30T05:06:20.33344Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:29:00+00",
+  "conditionId": "0x924c12e955ea181303caf036f0623cb69d3307b91067b630df4fe5d7bdc099e8",
+  "slug": "epl-bou-eve-2025-01-04-draw",
+  "question": "Will Bournemouth vs. Everton end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:28:08.961397Z",
+  "market_createdAt": "2024-11-18T19:28:08.961397Z",
+  "market_updatedAt": "2024-12-04T22:27:37.097425Z",
+  "market_startDate": "2024-11-18T20:50:15.004Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-03 22:57:16+00",
+  "conditionId": "0x1bd1e1cfabd0c957e3cc3807b030038b842db24b656544a6743e2ce554ef593c",
+  "slug": "will-pnut-be-listed-first-on-coinbase",
+  "question": "Will $Pnut be listed first on Coinbase?"
+}

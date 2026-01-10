@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:34:21.198696Z",
+  "market_createdAt": "2024-10-22T19:34:21.198696Z",
+  "market_updatedAt": "2024-10-27T05:50:52.082601Z",
+  "market_startDate": "2024-10-23T17:37:31.351Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:50:26+00",
+  "conditionId": "0x373565372a5407453e413b9f1291e44f582c490d37fb08ebcc0c8f5c354df411",
+  "slug": "will-trump-say-fbi-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"FBI\" on The Joe Rogan Experience?"
+}

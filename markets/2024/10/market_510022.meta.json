@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T20:03:45.673048Z",
+  "market_createdAt": "2024-10-16T20:03:45.673048Z",
+  "market_updatedAt": "2024-10-20T01:22:46.088063Z",
+  "market_startDate": "2024-10-16T21:12:43.842Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-19 02:49:35+00",
+  "conditionId": "0xa11769fd1b7f33201e12f337d9868e6c106f0b8303a5da43173023cb01202dba",
+  "slug": "will-trump-say-insane-asylum-during-michigan-rally-on-october-18",
+  "question": "Will Trump say \"insane asylum\" during Michigan rally on October 18?"
+}

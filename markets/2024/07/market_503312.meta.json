@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503312",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:10:45.557390Z",
+  "market_createdAt": "2024-07-09T15:10:45.55739Z",
+  "market_updatedAt": "2024-12-04T07:57:05.478646Z",
+  "market_startDate": "2024-07-09T15:10:45.55739Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-03 07:55:34+00",
+  "conditionId": "0xb96cfedc967f531ebcad8cdfd69dc0537583c630b0e070811bf67d67239db172",
+  "slug": "will-the-jaguars-win-super-bowl-2025",
+  "question": "Will the Jaguars win Super Bowl 2025?"
+}

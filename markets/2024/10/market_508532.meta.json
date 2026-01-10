@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508532",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:04:38.486160Z",
+  "market_createdAt": "2024-10-01T17:04:38.48616Z",
+  "market_updatedAt": "2024-10-04T18:52:41.438505Z",
+  "market_startDate": "2024-10-02T14:52:19.214842Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:29:16+00",
+  "conditionId": "0x6b76a93298745f41e8eec925d34f05845dfa68e18a675e5f357714388f5e774a",
+  "slug": "will-slavia-praha-beat-ajax",
+  "question": "Will Slavia Praha beat Ajax?"
+}

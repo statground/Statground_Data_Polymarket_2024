@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:06:28.554109Z",
+  "market_createdAt": "2024-09-09T19:06:28.554109Z",
+  "market_updatedAt": "2024-09-15T15:53:11.942184Z",
+  "market_startDate": "2024-09-09T20:16:01.112531Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 19:08:50+00",
+  "conditionId": "0x6245ed33993379e22b95b62aa03f3f32c8b116840194d0a842c7801fe97010bd",
+  "slug": "will-west-ham-beat-fulham",
+  "question": "Will West Ham beat Fulham?"
+}

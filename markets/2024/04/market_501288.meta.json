@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T21:04:18.124285Z",
+  "market_createdAt": "2024-04-30T21:04:18.124285Z",
+  "market_updatedAt": "2024-05-16T15:34:15.117595Z",
+  "market_startDate": "2024-05-13T17:49:21.777Z",
+  "market_endDate": "2024-05-15T12:00:00Z",
+  "market_closedTime": "2024-05-15 23:16:40+00",
+  "conditionId": "0xc4c54865bfc22030559b3bcf7ef5620624be0b1b383936bd7117be93f68031d1",
+  "slug": "djt-market-cap-9b-10b-on-may-15",
+  "question": "$DJT market cap $9b-$10b on May 15?"
+}

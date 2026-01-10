@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T19:21:08.626267Z",
+  "market_createdAt": "2024-12-06T19:21:08.626267Z",
+  "market_updatedAt": "2024-12-24T00:55:47.175295Z",
+  "market_startDate": "2024-12-13T23:20:56.604774Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2024-12-23 08:48:27+00",
+  "conditionId": "0x7556e72b4eb1f0f13c6b1e1e6be129965bba5d27dc4d728dbbec7d265eb31b79",
+  "slug": "will-wessel-nijman-win-the-2024-25-pdc-world-championship",
+  "question": "Will Wessel Nijman win the 2024-25 PDC World Championship?"
+}

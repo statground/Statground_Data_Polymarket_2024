@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T20:44:08.492824Z",
+  "market_createdAt": "2024-10-09T20:44:08.492824Z",
+  "market_updatedAt": "2024-12-18T01:44:46.079295Z",
+  "market_startDate": "2024-10-09T21:24:28.535797Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:41:37+00",
+  "conditionId": "0x21689d1c243520bcaff1f0a9d7e45bd63da4f86fbb6a3aec93008e17d437d2c5",
+  "slug": "will-trump-win-wyoming-by-the-largest-margin",
+  "question": "Will Trump win Wyoming by the largest margin?"
+}

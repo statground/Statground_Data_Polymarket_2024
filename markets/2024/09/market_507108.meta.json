@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T21:54:29.765530Z",
+  "market_createdAt": "2024-09-15T21:54:29.76553Z",
+  "market_updatedAt": "2024-09-18T00:12:46.076045Z",
+  "market_startDate": "2024-09-15T21:59:12.510329Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-09-17 00:22:50+00",
+  "conditionId": "0x3a96e96de952fb64fe81628d663c4fc17fe53b3ba516e14e82bf39df53c58be7",
+  "slug": "fact-check-is-the-suspect-a-us-citizen",
+  "question": "Fact Check: Is the suspect a U.S. citizen?"
+}

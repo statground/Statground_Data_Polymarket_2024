@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T14:08:28.799262Z",
+  "market_createdAt": "2024-09-17T14:08:28.799262Z",
+  "market_updatedAt": "2024-10-02T05:46:53.948657Z",
+  "market_startDate": "2024-09-17T19:03:20.341817Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:41:56+00",
+  "conditionId": "0x1b7cbf849dccc9df2da8ac978ce80420d88975e16302c40aa961780c3170c7c6",
+  "slug": "will-barron-tweet-in-september",
+  "question": "Will Barron tweet in September?"
+}

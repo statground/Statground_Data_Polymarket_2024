@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502804",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T17:01:15.050329Z",
+  "market_createdAt": "2024-06-24T17:01:15.050329Z",
+  "market_updatedAt": "2024-12-09T17:21:28.549842Z",
+  "market_startDate": "2024-06-24T17:01:15.050329Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-08 20:58:55+00",
+  "conditionId": "0x44f381acda56e50f0bddec38a249cbb0fdd3d98f8a1ae8e8b2367ad542a240da",
+  "slug": "will-max-verstappen-win-the-2024-f1-season",
+  "question": "Will Max Verstappen win the 2024 F1 season?"
+}

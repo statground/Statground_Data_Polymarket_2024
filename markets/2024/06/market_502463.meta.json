@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502463",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T17:47:33.130702Z",
+  "market_createdAt": "2024-06-14T17:47:33.130702Z",
+  "market_updatedAt": "2024-06-21T13:46:12.740999Z",
+  "market_startDate": null,
+  "market_endDate": null,
+  "market_closedTime": "2024-06-20 16:56:43+00",
+  "conditionId": "0xe26e9b4faca1dc410f0f849d8e96ca45edf090f796728f72f856cf7e0d0f9b44",
+  "slug": "will-elon-post-less-than-40-times-june-21",
+  "question": "Will Elon post less than 40 times?"
+}

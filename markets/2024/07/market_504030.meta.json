@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T16:00:22.816702Z",
+  "market_createdAt": "2024-07-23T16:00:22.816702Z",
+  "market_updatedAt": "2024-07-26T02:18:43.205071Z",
+  "market_startDate": "2024-07-23T16:47:20.358Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:13:47+00",
+  "conditionId": "0xcc1a315dcd1f0a8dd053a06e270883ebf06fe690cb511c7bde7a306ab36763ea",
+  "slug": "will-biden-resign-during-his-speech-tomorrow",
+  "question": "Will Biden resign during his speech today?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T16:06:02.226590Z",
+  "market_createdAt": "2024-10-15T16:06:02.22659Z",
+  "market_updatedAt": "2024-10-17T07:12:49.57526Z",
+  "market_startDate": "2024-10-15T17:23:32.641247Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 07:39:00+00",
+  "conditionId": "0x81008411ef024120a50634b57025fd2bc72df8b1c012a0bca96f839f1cbc5e1f",
+  "slug": "will-mexico-beat-usa",
+  "question": "Will Mexico beat USA?"
+}

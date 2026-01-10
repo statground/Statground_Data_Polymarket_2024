@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T15:44:14.282180Z",
+  "market_createdAt": "2024-04-10T15:44:14.28218Z",
+  "market_updatedAt": "2024-05-07T23:09:23.987477Z",
+  "market_startDate": "2024-04-10T15:58:08.571Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:41:37+00",
+  "conditionId": "0x8ca4d3827a3f0114227186df9d19e8208d8c6985cfbb42a075278b558ce06ceb",
+  "slug": "vaneck-tweet-retardio-in-april",
+  "question": "VanEck tweet \"retardio\" in April?"
+}

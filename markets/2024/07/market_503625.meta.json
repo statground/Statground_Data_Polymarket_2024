@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:56:13.731239Z",
+  "market_createdAt": "2024-07-17T17:56:13.731239Z",
+  "market_updatedAt": "2024-08-07T17:56:45.263179Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-06 17:52:27+00",
+  "conditionId": "0xe2364650652332fb5c900d5d2fcc44c5212127af49e39be8c579f9149b6f5207",
+  "slug": "will-australia-win-gold-in-mens-basketball",
+  "question": "Will Australia win Gold in Men's Basketball?"
+}

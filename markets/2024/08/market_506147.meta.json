@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T18:03:13.093157Z",
+  "market_createdAt": "2024-08-30T18:03:13.093157Z",
+  "market_updatedAt": "2024-09-09T00:45:12.771474Z",
+  "market_startDate": "2024-08-30T21:08:24.187522Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 00:42:17+00",
+  "conditionId": "0x499b17908867602c8d4d050e390a47c54107b91d14e3d30cd44c9c8e2e221ab9",
+  "slug": "will-italy-win-the-most-medals-in-the-2024-paralympics",
+  "question": "Will Italy win the most medals in the 2024 Paralympics?"
+}

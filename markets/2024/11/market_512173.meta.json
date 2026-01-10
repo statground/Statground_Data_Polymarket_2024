@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T17:01:33.753721Z",
+  "market_createdAt": "2024-11-06T17:01:33.753721Z",
+  "market_updatedAt": "2025-01-22T11:53:00.503592Z",
+  "market_startDate": "2024-11-06T17:12:16.74Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-01-21 12:25:14+00",
+  "conditionId": "0x4ed9f77e6390c375b1fd51b40245c02ef7f4493e2cd835961603c51ff7603717",
+  "slug": "will-trump-pardon-a-january-6-protestor-in-his-first-100-days",
+  "question": "Will Trump pardon a January 6 protestor in his first 100 days?"
+}

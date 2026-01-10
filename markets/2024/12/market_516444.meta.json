@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:38:46.909098Z",
+  "market_createdAt": "2024-12-25T06:38:46.909098Z",
+  "market_updatedAt": "2025-01-01T00:53:34.233022Z",
+  "market_startDate": "2024-12-25T06:41:22.230849Z",
+  "market_endDate": "2024-12-30T19:45:00Z",
+  "market_closedTime": "2024-12-31 01:15:38+00",
+  "conditionId": "0xb56b985b285f5c20e1e2e50114a41f8c31aa1ca8bfc9c7cf190c0c0a58c26253",
+  "slug": "epl-ast-bri-2024-12-30-draw",
+  "question": "Will Aston Villa vs. Brighton end in a draw?"
+}

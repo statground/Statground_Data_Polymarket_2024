@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:34:47.403333Z",
+  "market_createdAt": "2024-10-24T19:34:47.403333Z",
+  "market_updatedAt": "2024-10-27T04:32:51.791859Z",
+  "market_startDate": "2024-10-24T20:16:46.017495Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:46:07+00",
+  "conditionId": "0x816bc592f0ba26dd3a018e4ea102a3763ad523e65e3d06f85dd551d441281920",
+  "slug": "will-trump-say-ford-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"Ford\" during Michigan rally on October 25?"
+}

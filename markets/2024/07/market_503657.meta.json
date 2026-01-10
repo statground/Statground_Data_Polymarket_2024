@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503657",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:17:58.010700Z",
+  "market_createdAt": "2024-07-17T19:17:58.0107Z",
+  "market_updatedAt": "2024-08-05T18:46:56.712554Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:04:39+00",
+  "conditionId": "0x094f665c2ad4a840587c5edddb7dd82dcde90b8736f3c56af76aac69790988c3",
+  "slug": "will-another-athlete-win-gold-in-hammer-throw",
+  "question": "Will another athlete win Gold in Hammer Throw?"
+}

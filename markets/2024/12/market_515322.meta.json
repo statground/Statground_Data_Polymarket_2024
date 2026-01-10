@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:04:41.687826Z",
+  "market_createdAt": "2024-12-10T22:04:41.687826Z",
+  "market_updatedAt": "2024-12-13T22:15:20.57723Z",
+  "market_startDate": "2024-12-11T23:05:34.516485Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:23:20+00",
+  "conditionId": "0x1993d3126ec2e26ba9db2b28627dcf55ded3194c505d9aec5a10c63780532e02",
+  "slug": "will-the-match-between-bodo-glimt-and-besiktas-end-in-a-draw",
+  "question": "Will the match between Bodo Glimt and Besiktas end in a draw?"
+}

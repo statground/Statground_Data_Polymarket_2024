@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T22:05:41.997572Z",
+  "market_createdAt": "2024-11-15T22:05:41.997572Z",
+  "market_updatedAt": "2024-11-18T21:35:19.410237Z",
+  "market_startDate": "2024-11-15T23:23:01.521067Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-18 00:49:40+00",
+  "conditionId": "0xd0b792dde4b0ddef2a74a4e85c758e6a17cbf086ae7678a9f06669dd840f0c82",
+  "slug": "will-the-match-between-israel-and-belgium-end-in-a-draw-nov-17",
+  "question": "Will the match between Israel and Belgium end in a draw?"
+}

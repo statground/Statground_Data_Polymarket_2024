@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:25:13.787271Z",
+  "market_createdAt": "2024-10-01T20:25:13.787271Z",
+  "market_updatedAt": "2025-04-21T08:20:25.695793Z",
+  "market_startDate": "2024-10-01T21:06:45.760705Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-20 20:23:24+00",
+  "conditionId": "0x45876ac8b2da1131f9536472b0895d37fb61dc96aa18bc17e5e3386e61de9339",
+  "slug": "will-leicester-city-be-relegated",
+  "question": "Will Leicester City be relegated?"
+}

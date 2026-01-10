@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:19:23.732491Z",
+  "market_createdAt": "2024-07-19T16:19:23.732491Z",
+  "market_updatedAt": "2024-07-31T23:18:04.364196Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:15:16+00",
+  "conditionId": "0x53495b83ffe1672f6b3ffa8ed0d1a878fe684aae77d87d0c6d9a4c973b6b75aa",
+  "slug": "will-apostolos-siskos-gre-win-gold-in-mens-200m-backstroke",
+  "question": "Will Apostolos Siskos (GRE) win Gold in Men's 200m Backstroke?"
+}

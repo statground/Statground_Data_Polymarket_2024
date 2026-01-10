@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T18:45:18.762865Z",
+  "market_createdAt": "2024-08-08T18:45:18.762865Z",
+  "market_updatedAt": "2024-12-04T04:39:09.587209Z",
+  "market_startDate": "2024-08-08T19:12:49.474Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-03 07:55:29+00",
+  "conditionId": "0x087bf64aaca6516dabc23a34a6617c00ce460807bdf90bcf9ecbf514723102c9",
+  "slug": "will-the-cleveland-browns-win-the-afc-north",
+  "question": "Will the Cleveland Browns win the AFC North?"
+}

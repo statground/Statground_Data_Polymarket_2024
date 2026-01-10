@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:34:05.254660Z",
+  "market_createdAt": "2024-08-22T18:34:05.25466Z",
+  "market_updatedAt": "2024-08-24T08:21:02.868096Z",
+  "market_startDate": "2024-08-22T20:10:46.832Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:25:55+00",
+  "conditionId": "0x643001fb4566eff744bae8fb9cc4eab7f5412318e74038bb70e161821d9edf81",
+  "slug": "will-trump-post-unrealized-gains-on-final-night-of-dnc",
+  "question": "Will Trump post \"Unrealized gains\" on final night of DNC?"
+}

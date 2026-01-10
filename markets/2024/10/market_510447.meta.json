@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:36:10.704200Z",
+  "market_createdAt": "2024-10-21T22:36:10.7042Z",
+  "market_updatedAt": "2024-10-24T20:57:17.019633Z",
+  "market_startDate": "2024-10-22T01:03:42.467797Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:25:10+00",
+  "conditionId": "0xcf11c786d17a1665cfc7ae6d624b7227d7b5727908323606b5298ac2b100a43d",
+  "slug": "will-the-match-between-benfica-and-feyenoord-end-in-a-draw",
+  "question": "Will the match between Benfica and Feyenoord end in a draw?"
+}

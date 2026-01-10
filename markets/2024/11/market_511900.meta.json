@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:30:16.400406Z",
+  "market_createdAt": "2024-11-04T18:30:16.400406Z",
+  "market_updatedAt": "2024-11-08T05:03:00.796885Z",
+  "market_startDate": "2024-11-04T18:32:57.289295Z",
+  "market_endDate": "2024-11-07T01:00:00Z",
+  "market_closedTime": "2024-11-07 05:38:39+00",
+  "conditionId": "0xa8a626dadf81aa88c4e9260e1d877fc2ab3ff9115fad0a5d5bd5b376bc233fe3",
+  "slug": "nba-sas-hou-2024-11-06",
+  "question": "Spurs vs. Rockets"
+}

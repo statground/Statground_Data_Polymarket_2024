@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T17:48:31.366422Z",
+  "market_createdAt": "2024-08-19T17:48:31.366422Z",
+  "market_updatedAt": "2024-08-21T04:11:02.93067Z",
+  "market_startDate": "2024-08-19T18:35:13.873Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 04:13:52+00",
+  "conditionId": "0x480921c991e11413aef9374c5dea12faa66d803d3c7ce8c576f16ba0bc573d6c",
+  "slug": "will-hillary-clinton-say-email-at-dnc-speech",
+  "question": "Will Hillary Clinton say \"Email\" at DNC speech?"
+}

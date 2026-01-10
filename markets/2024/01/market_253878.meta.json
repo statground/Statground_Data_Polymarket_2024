@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-15T18:01:24.557000Z",
+  "market_createdAt": "2024-01-15T18:01:24.557Z",
+  "market_updatedAt": "2024-04-26T03:04:31.331342Z",
+  "market_startDate": "2024-01-15T18:18:00Z",
+  "market_endDate": "2024-01-16T00:00:00Z",
+  "market_closedTime": "2024-01-16 10:02:28+00",
+  "conditionId": "0x3f8343612322c1ef8db300277ff8d7af7ad193113cbf849b1c0f9e7356f05db3",
+  "slug": "will-the-bear-win-outstanding-comedy-series-at-the-75th-emmys",
+  "question": "Will The Bear win Outstanding Comedy Series at the 75th Emmys?"
+}

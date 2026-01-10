@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T15:19:28.941658Z",
+  "market_createdAt": "2024-09-16T15:19:28.941658Z",
+  "market_updatedAt": "2024-09-18T01:46:48.56293Z",
+  "market_startDate": "2024-09-16T15:32:50.624Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:19:09+00",
+  "conditionId": "0x62779eedc99a515ce7a36e5d3e05e3c189011d2a077788571ba49f266998c485",
+  "slug": "will-trump-say-ak-47-during-the-x-space",
+  "question": "Will Trump say \"AK-47\" during the X space?"
+}

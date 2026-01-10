@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T16:21:04.780405Z",
+  "market_createdAt": "2024-09-06T16:21:04.780405Z",
+  "market_updatedAt": "2024-09-09T02:43:01.045306Z",
+  "market_startDate": "2024-09-06T18:42:23.024377Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 07:46:47+00",
+  "conditionId": "0x42a4759ae7090aab5c5a8708fbdcbf379b5c50c9e7f48d405637cfdd1b1516cc",
+  "slug": "will-oregon-win-by-19-or-more-points",
+  "question": "Will Oregon win by 19 or more points?"
+}

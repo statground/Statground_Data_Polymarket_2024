@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:11:01.822849Z",
+  "market_createdAt": "2024-10-01T18:11:01.822849Z",
+  "market_updatedAt": "2024-10-06T16:20:47.063013Z",
+  "market_startDate": "2024-10-02T15:15:45.163658Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 16:38:04+00",
+  "conditionId": "0xedfcc3439904609aa02e9b60759d04a35ea6c7c6063407c8828353eac45973a5",
+  "slug": "will-crystal-palace-beat-liverpool",
+  "question": "Will Crystal Palace beat Liverpool?"
+}

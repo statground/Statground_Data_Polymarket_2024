@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:01:30.543719Z",
+  "market_createdAt": "2024-05-20T17:01:30.543719Z",
+  "market_updatedAt": "2024-11-23T00:38:52.868039Z",
+  "market_startDate": "2024-05-20T17:01:30.543719Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:45:29+00",
+  "conditionId": "0x3fbebb49ab61b4cc904734399d431326d5d5cd22b0bf985ab73a1d691483301e",
+  "slug": "will-republicans-have-55-seats-in-senate-after-election",
+  "question": "Will Republicans have 55 seats in Senate after election?"
+}

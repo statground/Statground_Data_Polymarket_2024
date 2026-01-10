@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511013",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:14:55.148034Z",
+  "market_createdAt": "2024-10-25T21:14:55.148034Z",
+  "market_updatedAt": "2024-10-28T20:16:57.929009Z",
+  "market_startDate": "2024-10-25T22:00:06.338612Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 20:19:36+00",
+  "conditionId": "0xe12bac422f8b347643ae22a1c97babd8057f174964e7b48bbdd8189e6a2d9e9b",
+  "slug": "will-the-lions-and-titans-combine-for-45-or-more-points",
+  "question": "Will the Lions and Titans combine for 45 or more points?"
+}

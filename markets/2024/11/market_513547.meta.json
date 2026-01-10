@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:09:43.084242Z",
+  "market_createdAt": "2024-11-20T19:09:43.084242Z",
+  "market_updatedAt": "2025-01-22T07:00:58.630678Z",
+  "market_startDate": "2024-11-20T19:59:50.425559Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 07:25:57+00",
+  "conditionId": "0x78c1ab2ecc23e5b271174f8ca2a20d78c13f2d461592219bd103880224d6cdc1",
+  "slug": "will-doge-hit-69-by-inauguration-day",
+  "question": "Will DOGE hit 69¢ by Inauguration Day?"
+}

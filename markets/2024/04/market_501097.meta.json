@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T21:18:54.086018Z",
+  "market_createdAt": "2024-04-19T21:18:54.086018Z",
+  "market_updatedAt": "2024-05-07T23:09:39.088866Z",
+  "market_startDate": "2024-04-19T21:59:49.899Z",
+  "market_endDate": "2024-04-21T12:00:00Z",
+  "market_closedTime": "2024-04-21 19:31:00+00",
+  "conditionId": "0xdf7de86d1ea25e55860750443b7f2fb0e743d7bf1a36fde161bcb30af9e8e9a9",
+  "slug": "fa-cup-coventry-vs-man-united",
+  "question": "FA Cup: Coventry vs. Man United"
+}

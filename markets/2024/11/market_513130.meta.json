@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:02:51.492954Z",
+  "market_createdAt": "2024-11-15T18:02:51.492954Z",
+  "market_updatedAt": "2024-11-23T10:28:44.733899Z",
+  "market_startDate": "2024-11-15T18:24:03.86397Z",
+  "market_endDate": "2024-11-22T12:00:00Z",
+  "market_closedTime": "2024-11-22 20:12:15+00",
+  "conditionId": "0x1fad752220987c41f29c40c1adc6b79fee24c12d5e2759de08092b1b8fcd41af",
+  "slug": "will-trump-tweet-30-34-times-nov-15-22",
+  "question": "Will Trump tweet 30-34 times Nov 15-22?"
+}

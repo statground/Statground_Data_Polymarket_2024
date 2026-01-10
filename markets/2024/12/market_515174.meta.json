@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515174",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:37:00.130238Z",
+  "market_createdAt": "2024-12-09T20:37:00.130238Z",
+  "market_updatedAt": "2024-12-12T09:15:04.715294Z",
+  "market_startDate": "2024-12-09T21:03:32.569Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:38:37+00",
+  "conditionId": "0x389cdc19d928ff7b7fd13b5d60a69788d394c93d575b030d76b50cee0f4a26fe",
+  "slug": "will-biden-be-in-the-manifesto",
+  "question": "Will \"Biden\" be in the manifesto?"
+}

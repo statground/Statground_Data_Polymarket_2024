@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:13:10.458685Z",
+  "market_createdAt": "2024-12-04T21:13:10.458685Z",
+  "market_updatedAt": "2024-12-08T07:23:43.83633Z",
+  "market_startDate": "2024-12-04T21:16:28.507514Z",
+  "market_endDate": "2024-12-14T03:00:00Z",
+  "market_closedTime": "2024-12-07 07:50:43+00",
+  "conditionId": "0x943302a65d26205d4416fdf29a0ea24fcf97e44629ce5d1ff8727f6904200947",
+  "slug": "nhl-min-ana-2024-12-06",
+  "question": "Wild vs. Ducks"
+}

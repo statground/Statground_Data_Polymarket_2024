@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:19:48.016757Z",
+  "market_createdAt": "2024-10-18T16:19:48.016757Z",
+  "market_updatedAt": "2024-10-26T18:11:04.702123Z",
+  "market_startDate": "2024-10-18T17:08:36.975562Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-25 18:07:37+00",
+  "conditionId": "0xa78b11a120e643cc64880a632c37c45d2833274157b4bce14dd22fd57c437309",
+  "slug": "ethereum-above-2600-on-october-25",
+  "question": "Ethereum above $2,600 on October 25?"
+}

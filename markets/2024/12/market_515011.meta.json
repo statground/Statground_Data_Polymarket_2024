@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:38:46.460751Z",
+  "market_createdAt": "2024-12-06T22:38:46.460751Z",
+  "market_updatedAt": "2024-12-09T18:09:20.359204Z",
+  "market_startDate": "2024-12-06T23:28:21.770719Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:25:50+00",
+  "conditionId": "0x071d32eb91699c1278805d831dd9eb11da06a7344c89ea1d582e3b617a0a7eb0",
+  "slug": "will-the-vikings-beat-the-falcons-by-6-or-more-points",
+  "question": "Will the Vikings beat the Falcons by 6 or more points?"
+}

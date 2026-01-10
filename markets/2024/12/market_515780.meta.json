@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515780",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:34:20.238335Z",
+  "market_createdAt": "2024-12-16T19:34:20.238335Z",
+  "market_updatedAt": "2024-12-20T22:01:30.466359Z",
+  "market_startDate": "2024-12-16T23:30:06.099958Z",
+  "market_endDate": "2025-03-17T12:00:00Z",
+  "market_closedTime": "2024-12-20 01:11:28+00",
+  "conditionId": "0x31096d3a36facc254813a61b3208e2458d8bc4095af28ab61572d62adffec4a3",
+  "slug": "will-manchester-united-win-the-2024-carabao-cup",
+  "question": "Will Manchester United win the 2024 Carabao Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T17:33:28.170929Z",
+  "market_createdAt": "2024-11-25T17:33:28.170929Z",
+  "market_updatedAt": "2024-11-27T03:23:48.341677Z",
+  "market_startDate": "2024-11-25T22:10:27.84989Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-26 06:24:15+00",
+  "conditionId": "0x9af66e49306cc140aac953728fc83721fb2800a1b267009969b0f026f47e1ccb",
+  "slug": "will-the-ravens-and-chargers-combine-for-51-or-more-points-nov-25",
+  "question": "Will the Ravens and Chargers combine for 51 or more points?"
+}

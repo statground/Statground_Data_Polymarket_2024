@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T13:18:41.853673Z",
+  "market_createdAt": "2024-08-19T13:18:41.853673Z",
+  "market_updatedAt": "2024-08-24T06:27:01.788287Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 06:45:26+00",
+  "conditionId": "0x1cd582d176314011b2b0f71ef85a2f042f06065a0a1bd19430a15d80b6d70ecc",
+  "slug": "kamala-harris-dnc-speech-60-75-minutes",
+  "question": "Kamala Harris DNC speech 60-75 minutes?"
+}

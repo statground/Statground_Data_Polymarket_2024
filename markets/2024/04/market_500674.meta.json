@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:41:02.183501Z",
+  "market_createdAt": "2024-04-04T15:41:02.183501Z",
+  "market_updatedAt": "2024-11-07T02:21:48.537885Z",
+  "market_startDate": "2024-04-12T19:55:01.552Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:18:50+00",
+  "conditionId": "0x6d0450622f44f5e88c0309f412e0562ae14234c50e8fd685136d7f71f23d1bef",
+  "slug": "will-a-candidate-from-another-party-win-wyoming-us-senate-election",
+  "question": "Will a candidate from another party win Wyoming US Senate Election?"
+}

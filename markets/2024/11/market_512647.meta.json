@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:00:19.891462Z",
+  "market_createdAt": "2024-11-11T17:00:19.891462Z",
+  "market_updatedAt": "2024-11-18T23:25:20.453126Z",
+  "market_startDate": "2024-11-11T17:02:51.246312Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:21:32+00",
+  "conditionId": "0x1e5cee25c95af992c8991ca2ca905119c64481807965ac32cdb16a319699ac21",
+  "slug": "nfl-min-ten-2024-11-17",
+  "question": "Vikings vs. Titans"
+}

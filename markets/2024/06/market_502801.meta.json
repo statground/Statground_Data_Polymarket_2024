@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T16:10:04.946939Z",
+  "market_createdAt": "2024-06-24T16:10:04.946939Z",
+  "market_updatedAt": "2024-07-02T08:50:49.981908Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:54:21+00",
+  "conditionId": "0x7b8bf3aa41ab7af3bd99d4d5b275479739eed1218607894fe7fcc46abed0783a",
+  "slug": "solana-investigation-made-public-by-june-30",
+  "question": "Solana investigation made public by June 30?"
+}

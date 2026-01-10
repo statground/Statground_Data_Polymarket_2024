@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:03:03.016137Z",
+  "market_createdAt": "2024-10-22T15:03:03.016137Z",
+  "market_updatedAt": "2024-12-18T14:19:21.786915Z",
+  "market_startDate": "2024-10-23T16:13:52.169037Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 22:12:27+00",
+  "conditionId": "0x1671be06cac91668fb1eb1d508401125277c2696a16497caedd19e30fd49150d",
+  "slug": "will-there-be-160000000-165000000-votes-cast-in-the-us-presidential-election",
+  "question": "Will there be 160,000,000-165,000,000 votes cast in the U.S. Presidential Election?"
+}

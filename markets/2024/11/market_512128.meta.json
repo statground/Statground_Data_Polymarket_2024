@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:51:28.348368Z",
+  "market_createdAt": "2024-11-05T21:51:28.348368Z",
+  "market_updatedAt": "2025-05-01T08:20:33.278019Z",
+  "market_startDate": "2024-11-06T16:05:59.04Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:07:53+00",
+  "conditionId": "0x79e6ec2dff92558eb36b5e2e2221bf4be45364f3726897163d80702abb51d315",
+  "slug": "trump-signs-national-abortion-ban-in-first-100-days",
+  "question": "Trump signs national abortion ban?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T16:03:03.874215Z",
+  "market_createdAt": "2024-08-13T16:03:03.874215Z",
+  "market_updatedAt": "2024-11-07T08:39:22.940715Z",
+  "market_startDate": "2024-08-13T16:03:03.874215Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 08:36:07+00",
+  "conditionId": "0xed2575b29dab54aad37ead99698d568ad26450b7da95d4838e75433ca26dc4e2",
+  "slug": "will-arizonas-abortion-protection-measure-pass",
+  "question": "Will Arizona's abortion protection measure pass?"
+}

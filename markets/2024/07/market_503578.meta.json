@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:34:34.824774Z",
+  "market_createdAt": "2024-07-16T18:34:34.824774Z",
+  "market_updatedAt": "2024-07-20T11:16:40.905741Z",
+  "market_startDate": "2024-07-16T21:12:43.992Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 11:15:04+00",
+  "conditionId": "0xe3e384f8c8d443c159d95a1e1241c7d29c647ae6c5c480ce61973460c84d9f12",
+  "slug": "will-trump-say-jesus-during-rnc-speech",
+  "question": "Will Trump say \"Jesus\" during RNC speech?"
+}

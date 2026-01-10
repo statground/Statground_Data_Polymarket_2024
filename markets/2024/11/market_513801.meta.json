@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:07:36.064223Z",
+  "market_createdAt": "2024-11-24T05:07:36.064223Z",
+  "market_updatedAt": "2024-12-01T20:39:45.175997Z",
+  "market_startDate": "2024-11-24T05:10:26.70133Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:50:51+00",
+  "conditionId": "0xa85e54ea3a588ee8c232444e4c21711ef015a8b69373cddf56848e8b3ec14ac2",
+  "slug": "cfb-ull-ulm-2024-11-30",
+  "question": "Louisiana vs. UL Monroe"
+}

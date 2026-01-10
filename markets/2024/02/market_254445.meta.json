@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-13T18:59:46.272000Z",
+  "market_createdAt": "2024-02-13T18:59:46.272Z",
+  "market_updatedAt": "2024-05-07T23:10:16.51873Z",
+  "market_startDate": "2024-02-13T21:04:16.633Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:21:30+00",
+  "conditionId": "0x9ec7bade4bb11ac35d8ef2ad5d0d86e60826d6d6f0ba95a8637eb8fa2570d818",
+  "slug": "biden-cognitive-test-before-april",
+  "question": "Biden cognitive test before April?"
+}

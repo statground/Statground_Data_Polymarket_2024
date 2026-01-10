@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T20:11:25.810682Z",
+  "market_createdAt": "2024-07-18T20:11:25.810682Z",
+  "market_updatedAt": "2024-07-29T16:11:03.491528Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-28 22:27:53+00",
+  "conditionId": "0xe417cd0f4a76a5463a636a3ed958b68d3787bbc2a817c55eef95fe5124216e91",
+  "slug": "will-louise-hansson-swe-win-gold-in-womens-100m-butterfly",
+  "question": "Will Louise Hansson (SWE) win Gold in Women's 100m Butterfly?"
+}

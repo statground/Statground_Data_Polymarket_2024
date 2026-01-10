@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:06:19.586217Z",
+  "market_createdAt": "2024-11-11T18:06:19.586217Z",
+  "market_updatedAt": "2024-11-15T07:04:57.714873Z",
+  "market_startDate": "2024-11-11T18:08:42.486491Z",
+  "market_endDate": "2024-11-21T03:00:00Z",
+  "market_closedTime": "2024-11-14 07:26:38+00",
+  "conditionId": "0x1b6ffea8000a7fa43ff8104b85e9a1cf435b28dda9ebb690b51ec052cfa76108",
+  "slug": "nba-min-por-2024-11-13",
+  "question": "Timberwolves vs. Trail Blazers"
+}

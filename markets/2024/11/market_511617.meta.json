@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:18:51.340618Z",
+  "market_createdAt": "2024-11-01T16:18:51.340618Z",
+  "market_updatedAt": "2024-11-06T05:47:09.925512Z",
+  "market_startDate": "2024-11-01T16:21:33.62663Z",
+  "market_endDate": "2024-11-05T02:30:00Z",
+  "market_closedTime": "2024-11-05 07:53:53+00",
+  "conditionId": "0xfabce936ae4d04128303425d5063d8220413c89b563e8fcf7d8eba212f2ce60d",
+  "slug": "nba-por-nop-2024-11-04",
+  "question": "Trail Blazers vs. Pelicans"
+}

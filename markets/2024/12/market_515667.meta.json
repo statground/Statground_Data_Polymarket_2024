@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T05:03:33.666050Z",
+  "market_createdAt": "2024-12-15T05:03:33.66605Z",
+  "market_updatedAt": "2024-12-23T06:08:08.060873Z",
+  "market_startDate": "2024-12-15T05:06:04.024823Z",
+  "market_endDate": "2024-12-29T01:30:00Z",
+  "market_closedTime": "2024-12-22 06:13:48+00",
+  "conditionId": "0xd9beb5636102fde1009a3d6921b9dbe8cc926d92055c04ab2746d4ecf1038238",
+  "slug": "nba-lac-dal-2024-12-21",
+  "question": "Clippers vs. Mavericks"
+}

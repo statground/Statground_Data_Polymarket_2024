@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:52:44.711497Z",
+  "market_createdAt": "2024-08-12T17:52:44.711497Z",
+  "market_updatedAt": "2024-08-15T01:31:04.509026Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-14 04:37:13+00",
+  "conditionId": "0x91c417d19c9cccbee2195bc5c6cf82dbe2f11ad72e623df4c60cda2fc0606bc4",
+  "slug": "will-taylor-fritz-win-the-2024-atp-cincinnati-mens-singles-tournament",
+  "question": "Will Taylor Fritz win the 2024 ATP Cincinnati Men’s Singles tournament?"
+}

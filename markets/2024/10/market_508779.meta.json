@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T19:47:35.804652Z",
+  "market_createdAt": "2024-10-03T19:47:35.804652Z",
+  "market_updatedAt": "2024-10-06T04:36:40.584111Z",
+  "market_startDate": "2024-10-04T19:03:41.672283Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-05 08:11:47+00",
+  "conditionId": "0xf4ce22d993861fa476eb3eafbd6ae71741f8d481c1387138ee9b424c1de51f94",
+  "slug": "will-cinemascore-give-joker-folie-deux-a-b",
+  "question": "Will CinemaScore give 'Joker: Folie à Deux' a B?"
+}

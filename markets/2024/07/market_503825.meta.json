@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503825",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:29:12.493112Z",
+  "market_createdAt": "2024-07-18T21:29:12.493112Z",
+  "market_updatedAt": "2024-08-03T18:37:01.110205Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:03:48+00",
+  "conditionId": "0x30a014002b1cfb52df2af479bb82fb5f9cb4a8f7fefc113f3af3d19c8703a669",
+  "slug": "will-florent-manaudou-fra-win-gold-in-mens-50m-freestyle",
+  "question": "Will Florent Manaudou (FRA) win Gold in Men's 50m Freestyle?"
+}

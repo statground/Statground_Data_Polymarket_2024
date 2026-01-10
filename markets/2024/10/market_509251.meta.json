@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:39:17.958220Z",
+  "market_createdAt": "2024-10-08T16:39:17.95822Z",
+  "market_updatedAt": "2024-10-11T09:40:54.273844Z",
+  "market_startDate": "2024-10-08T17:18:28.125859Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:36:38+00",
+  "conditionId": "0x903562c05b4f586699d49e1722db53b93e495cef35a059f832688b14d12560c3",
+  "slug": "will-ko-un-win-the-nobel-prize-in-literature",
+  "question": "Will Ko Un win the Nobel prize in literature?"
+}

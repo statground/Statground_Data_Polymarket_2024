@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T21:44:31.125337Z",
+  "market_createdAt": "2024-10-16T21:44:31.125337Z",
+  "market_updatedAt": "2024-11-06T07:27:11.512162Z",
+  "market_startDate": "2024-10-16T21:56:17.21751Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:27:55+00",
+  "conditionId": "0x080984eeac7ec9f007839975e767b24d956809013e0e913b156699d7e3c99ffa",
+  "slug": "300m-in-wlfi-sold-before-election",
+  "question": "$300m in $WLFI sold before election?"
+}

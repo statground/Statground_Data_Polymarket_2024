@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T16:11:56.090177Z",
+  "market_createdAt": "2024-06-18T16:11:56.090177Z",
+  "market_updatedAt": "2024-06-20T21:16:13.697985Z",
+  "market_startDate": "2024-06-19T19:02:36.012Z",
+  "market_endDate": "2024-06-19T12:00:00Z",
+  "market_closedTime": "2024-06-20 00:04:52+00",
+  "conditionId": "0xe4a2e94c62b7ade88de97a5a8d50487fed6d77ee59a32296d976f79c430a85ad",
+  "slug": "will-switzerland-win-jun-19",
+  "question": "Will Switzerland win?"
+}

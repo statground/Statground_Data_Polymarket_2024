@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:49:11.588637Z",
+  "market_createdAt": "2024-10-18T17:49:11.588637Z",
+  "market_updatedAt": "2024-10-21T04:06:43.825567Z",
+  "market_startDate": "2024-10-18T23:10:02.699025Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 04:29:40+00",
+  "conditionId": "0xb1f1ea30d25308ab6c898016e202c815763d62b728a6b81ca5e5831a8d0eb0cc",
+  "slug": "will-lsu-beat-arkansas-by-3-or-more-points",
+  "question": "Will LSU beat Arkansas by 3 or more points?"
+}

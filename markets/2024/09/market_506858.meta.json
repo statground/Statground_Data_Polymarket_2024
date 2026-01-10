@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506858",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T18:16:12.267535Z",
+  "market_createdAt": "2024-09-11T18:16:12.267535Z",
+  "market_updatedAt": "2024-10-18T23:46:54.228159Z",
+  "market_startDate": "2024-09-11T18:50:57.731Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-17 23:37:09+00",
+  "conditionId": "0x1e59fbdc2beefc1981e1ac18b0f198f00969495ddb71a5714ddc9dcf8866087f",
+  "slug": "will-sinwar-leave-gaza-by-october-31",
+  "question": "Will Sinwar leave Gaza by October 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:58:19.668351Z",
+  "market_createdAt": "2024-09-30T19:58:19.668351Z",
+  "market_updatedAt": "2024-10-03T20:22:38.277857Z",
+  "market_startDate": "2024-09-30T22:11:54.729223Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 00:28:08+00",
+  "conditionId": "0x7077e77f3ba55687148365d036975fbe8ecbbe885543d41e0850bafaaca39912",
+  "slug": "will-the-match-between-benfica-and-atletico-madrid-end-in-a-draw",
+  "question": "Will the match between Benfica and Atletico Madrid end in a draw?"
+}

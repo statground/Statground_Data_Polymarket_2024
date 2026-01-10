@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:40:10.954803Z",
+  "market_createdAt": "2024-09-12T21:40:10.954803Z",
+  "market_updatedAt": "2024-09-15T19:31:09.364507Z",
+  "market_startDate": "2024-09-12T22:28:29.850992Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 21:26:19+00",
+  "conditionId": "0xcd6762dfdfa4d091a1aa4b95cfddca06492b2c67bd530f1d76fe0de237a6e5ae",
+  "slug": "will-oklahoma-state-beat-tulsa-by-19-or-more-points",
+  "question": "Will Oklahoma State beat Tulsa by 19 or more points?"
+}

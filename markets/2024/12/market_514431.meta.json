@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:08:28.290912Z",
+  "market_createdAt": "2024-12-02T19:08:28.290912Z",
+  "market_updatedAt": "2024-12-06T23:35:13.790338Z",
+  "market_startDate": "2024-12-02T19:12:07.766436Z",
+  "market_endDate": "2024-12-05T20:15:00Z",
+  "market_closedTime": "2024-12-06 01:19:30+00",
+  "conditionId": "0xfd8167b6e1bd8189de282d81341af6028cdf6b51f3f04fa1a6bd62b38fd6b74f",
+  "slug": "epl-bou-tot-2024-12-05-bou",
+  "question": "Will Bournemouth win on 2024-12-05?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:23:57.648129Z",
+  "market_createdAt": "2024-07-18T19:23:57.648129Z",
+  "market_updatedAt": "2024-07-29T23:04:35.470255Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:46+00",
+  "conditionId": "0xd8934bfa2d34e78ebd3f8432f0cbe0353c849435bf6efe8354bd813fba5dc5f7",
+  "slug": "will-satomi-suzuki-jpn-win-gold-in-womens-100m-breaststroke",
+  "question": "Will Satomi Suzuki (JPN) win Gold in Women's 100m Breaststroke?"
+}

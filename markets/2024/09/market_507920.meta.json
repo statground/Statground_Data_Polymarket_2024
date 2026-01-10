@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:07:33.378685Z",
+  "market_createdAt": "2024-09-24T17:07:33.378685Z",
+  "market_updatedAt": "2025-04-22T07:11:44.993099Z",
+  "market_startDate": "2024-11-21T23:05:33.331Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 03:49:53+00",
+  "conditionId": "0x801aca082e8ab25e24a9d822f9b16effc21681be6fb852865a522a2da2f4d2d1",
+  "slug": "will-ja-morant-win-the-2024-25-nba-mvp",
+  "question": "Will Ja Morant win the 2024-25 NBA MVP?"
+}

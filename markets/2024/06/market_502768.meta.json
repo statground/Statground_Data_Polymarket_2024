@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-22T17:32:24.357435Z",
+  "market_createdAt": "2024-06-22T17:32:24.357435Z",
+  "market_updatedAt": "2024-06-24T21:01:17.431661Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:16:17+00",
+  "conditionId": "0x7337549076878d45027bdb51bce58c00d9f17d395ace88442c95fd386cf36502",
+  "slug": "will-the-match-be-a-draw-switzerland-germany",
+  "question": "Will the match be a draw? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:31:36.280567Z",
+  "market_createdAt": "2024-12-10T02:31:36.280567Z",
+  "market_updatedAt": "2024-12-17T02:09:31.244232Z",
+  "market_startDate": "2024-12-10T02:34:57.077669Z",
+  "market_endDate": "2024-12-22T21:25:00Z",
+  "market_closedTime": "2024-12-16 02:28:01+00",
+  "conditionId": "0x9e0cefadce1614c50f3bf79ae5e8dc346268fb649229372b0c4732c2ebaae233",
+  "slug": "nfl-ne-ari-2024-12-15",
+  "question": "Patriots vs. Cardinals"
+}

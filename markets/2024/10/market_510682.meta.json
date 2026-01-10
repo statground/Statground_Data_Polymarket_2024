@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:08:52.805791Z",
+  "market_createdAt": "2024-10-23T00:08:52.805791Z",
+  "market_updatedAt": "2024-12-09T00:51:26.712926Z",
+  "market_startDate": "2024-10-23T17:51:52.906072Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 02:24:22+00",
+  "conditionId": "0x88b2d0dbeefb1a24ceb4592f549c5770f769e36474d5c2b4804b679a0516ae6d",
+  "slug": "will-la-galaxy-win-the-mls-cup",
+  "question": "Will LA Galaxy win the MLS Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T16:05:23.446222Z",
+  "market_createdAt": "2024-11-01T16:05:23.446222Z",
+  "market_updatedAt": "2024-11-03T04:23:04.899965Z",
+  "market_startDate": "2024-11-01T16:08:01.340463Z",
+  "market_endDate": "2024-11-02T00:00:00Z",
+  "market_closedTime": "2024-11-02 07:05:22+00",
+  "conditionId": "0xfe56f6db36218acf79b8c2444c101af34b6a0ea95edf93e32858abf1399ddeb4",
+  "slug": "nba-ind-nop-2024-11-01",
+  "question": "Pacers vs. Pelicans"
+}

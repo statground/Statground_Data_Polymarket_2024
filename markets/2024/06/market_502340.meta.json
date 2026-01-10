@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T20:20:48.711789Z",
+  "market_createdAt": "2024-06-11T20:20:48.711789Z",
+  "market_updatedAt": "2024-06-18T22:51:13.388929Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 03:24:15+00",
+  "conditionId": "0xad6cb7b3a713fbbf88e9a4209be82078847d2f6d038bd348eb1f60146a25f4b0",
+  "slug": "will-porzingis-return-by-end-of-nba-finals",
+  "question": "Will Porzingis return by end of NBA Finals?"
+}

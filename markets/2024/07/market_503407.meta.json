@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T14:54:48.884189Z",
+  "market_createdAt": "2024-07-12T14:54:48.884189Z",
+  "market_updatedAt": "2024-07-22T21:14:41.88721Z",
+  "market_startDate": "2024-07-18T18:43:57.7Z",
+  "market_endDate": "2024-07-22T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:20:14+00",
+  "conditionId": "0x332e1443b5bc7e0086f57d1ec197b14b1f8a4762d88421ace14918c6e030b7a9",
+  "slug": "will-biden-drop-out-before-the-lettuce-expires",
+  "question": "Will Biden drop out by Monday?"
+}

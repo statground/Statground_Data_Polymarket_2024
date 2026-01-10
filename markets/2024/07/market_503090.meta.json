@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:04:27.887732Z",
+  "market_createdAt": "2024-07-01T21:04:27.887732Z",
+  "market_updatedAt": "2024-07-02T22:15:50.210382Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-02 11:28:34+00",
+  "conditionId": "0x79662fd0a99fffbafb0cdae92f01b165cbd3c282bf96e2d677ed718d48e5cea5",
+  "slug": "will-nick-kyrgios-win-wimbledon-mens",
+  "question": "Will Nick Kyrgios win Wimbledon Men's?"
+}

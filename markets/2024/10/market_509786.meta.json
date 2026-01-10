@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T15:55:04.933119Z",
+  "market_createdAt": "2024-10-14T15:55:04.933119Z",
+  "market_updatedAt": "2024-10-16T02:02:45.940308Z",
+  "market_startDate": "2024-10-14T23:22:48.567952Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 05:45:38+00",
+  "conditionId": "0x85d79870ec9260b10a4be9938d6b4bcf871926336f868893e5f57fa753cc8df8",
+  "slug": "will-the-bills-win-by-2-or-more-points",
+  "question": "Will the Bills win by 2 or more points?"
+}

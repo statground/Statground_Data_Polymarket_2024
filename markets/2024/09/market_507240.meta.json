@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:30:34.660129Z",
+  "market_createdAt": "2024-09-16T20:30:34.660129Z",
+  "market_updatedAt": "2024-09-19T20:26:45.001435Z",
+  "market_startDate": "2024-09-16T21:33:28.131398Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 21:54:40+00",
+  "conditionId": "0x63620fc353e45d023711c069e9ef48c3afb7269dda42649078c14f7e23ce4230",
+  "slug": "will-bologna-beat-shakhtar-donetsk",
+  "question": "Will Bologna beat Shakhtar Donetsk?"
+}

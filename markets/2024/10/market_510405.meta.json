@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:32:33.287634Z",
+  "market_createdAt": "2024-10-21T21:32:33.287634Z",
+  "market_updatedAt": "2024-10-23T21:43:17.67735Z",
+  "market_startDate": "2024-10-22T00:41:25.320304Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-22 21:59:20+00",
+  "conditionId": "0x967e25ab39f155779a77fb7f7c1412fc02611ec461f0dd89bdaac5581096d4aa",
+  "slug": "will-the-match-between-monaco-and-red-star-belgrade-end-in-a-draw",
+  "question": "Will the match between Monaco and Red Star Belgrade end in a draw?"
+}

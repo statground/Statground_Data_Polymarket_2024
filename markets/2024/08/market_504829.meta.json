@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T17:23:31.890026Z",
+  "market_createdAt": "2024-08-09T17:23:31.890026Z",
+  "market_updatedAt": "2024-09-09T22:47:05.943034Z",
+  "market_startDate": "2024-08-09T17:23:31.890026Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 23:41:37+00",
+  "conditionId": "0xe337fac56cd72c1320beb0b4809e4976b46c9aae456e1f40dfeb76694ce95a2e",
+  "slug": "will-magnus-carlsen-win-the-speed-chess-championship-2024",
+  "question": "Will Magnus Carlsen win the Speed Chess Championship?"
+}

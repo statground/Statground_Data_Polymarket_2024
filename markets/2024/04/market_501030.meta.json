@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T00:14:32.730959Z",
+  "market_createdAt": "2024-04-18T00:14:32.730959Z",
+  "market_updatedAt": "2024-05-07T23:09:10.404172Z",
+  "market_startDate": "2024-04-18T00:15:27.509Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 06:28:08+00",
+  "conditionId": "0x1b176f7eef38695c38208e3a29df4e794ac1cdb7a60012b369fc5f1c4793de2e",
+  "slug": "lakers-vs-nuggets-series-winner",
+  "question": "Lakers vs. Nuggets Series Winner"
+}

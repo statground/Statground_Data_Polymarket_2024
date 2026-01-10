@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T16:07:11.825456Z",
+  "market_createdAt": "2024-07-26T16:07:11.825456Z",
+  "market_updatedAt": "2024-08-03T18:11:02.324847Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-02 18:03:24+00",
+  "conditionId": "0x044e11af39d04a880ed5c4c8790f2f1db32d070d19ae2032d9272322437d20b4",
+  "slug": "bitcoin-above-68000-on-august-2",
+  "question": "Bitcoin above $68,000 on August 2?"
+}

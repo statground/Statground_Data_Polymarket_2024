@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T16:49:15.328482Z",
+  "market_createdAt": "2024-10-01T16:49:15.328482Z",
+  "market_updatedAt": "2024-10-04T19:02:47.87924Z",
+  "market_startDate": "2024-10-02T14:34:30.743367Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:20:20+00",
+  "conditionId": "0xd29ba122b43e9a569567d319e96e4c98fd96931ba3bbaa3f5f7d1ffaa8b30270",
+  "slug": "will-qarabag-beat-malmo",
+  "question": "Will Qarabag beat Malmo?"
+}

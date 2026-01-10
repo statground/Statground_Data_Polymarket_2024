@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:01:53.200878Z",
+  "market_createdAt": "2024-11-25T05:01:53.200878Z",
+  "market_updatedAt": "2024-12-02T22:55:16.665711Z",
+  "market_startDate": "2024-11-25T05:04:25.235984Z",
+  "market_endDate": "2024-12-08T18:00:00Z",
+  "market_closedTime": "2024-12-01 23:09:45+00",
+  "conditionId": "0x07632cc8d0c6ae7ef9da2f34ba39471a38b8f123f4c54a5e46d7fbe806fbd3c3",
+  "slug": "nfl-ari-min-2024-12-01",
+  "question": "Cardinals vs. Vikings"
+}

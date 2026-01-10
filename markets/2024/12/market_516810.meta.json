@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516810",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T09:59:28.956093Z",
+  "market_createdAt": "2024-12-30T09:59:28.956093Z",
+  "market_updatedAt": "2026-01-02T00:31:19.8574Z",
+  "market_startDate": "2024-12-30T15:44:43.713085Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 10:44:57+00",
+  "conditionId": "0x1cd6890b88a4d21884f36d5427d5aa7318392b74f4d068a70065e8ce6e523442",
+  "slug": "will-spacex-have-between-180-199-launches-in-2025",
+  "question": "Will SpaceX have between 180-199 launches in 2025?"
+}

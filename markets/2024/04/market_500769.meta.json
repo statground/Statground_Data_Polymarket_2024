@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500769",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T17:22:26.268217Z",
+  "market_createdAt": "2024-04-05T17:22:26.268217Z",
+  "market_updatedAt": "2024-05-07T23:09:21.246427Z",
+  "market_startDate": "2024-04-05T23:17:30.115Z",
+  "market_endDate": "2024-05-03T12:00:00Z",
+  "market_closedTime": "2024-05-03 15:44:18+00",
+  "conditionId": "0x2ac498ef11ded3339f19f9e40cc94f56c5348fa6ef965aba361ec31ff4ed9625",
+  "slug": "will-the-us-gain-between-200-250k-jobs-in-april",
+  "question": "Will the US gain between 200-250k jobs in April?"
+}

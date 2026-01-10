@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T00:52:30.220819Z",
+  "market_createdAt": "2024-10-30T00:52:30.220819Z",
+  "market_updatedAt": "2024-11-29T04:09:24.166129Z",
+  "market_startDate": "2024-10-30T01:39:56.091529Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 05:52:06+00",
+  "conditionId": "0x0d9ad5388bd5744c4645b26df5c66eaf0fd94ca7a7d895f44e5c1a39ffdf2fd3",
+  "slug": "ca-45-election-tran-d-vs-steel-r",
+  "question": "CA-45 election: Tran (D) vs. Steel (R)"
+}

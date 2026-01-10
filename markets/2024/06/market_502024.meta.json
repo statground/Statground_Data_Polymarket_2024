@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T14:31:55.516709Z",
+  "market_createdAt": "2024-06-03T14:31:55.516709Z",
+  "market_updatedAt": "2024-06-04T17:11:11.211594Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-03T12:00:00Z",
+  "market_closedTime": "2024-06-03 17:55:47+00",
+  "conditionId": "0x6c538288fb831150faccdfc806140b4147a77ff7994ac33683b95127a287a359",
+  "slug": "will-berkshire-hathaway-resume-public-trading-today",
+  "question": "Will Berkshire Hathaway resume public trading today?"
+}

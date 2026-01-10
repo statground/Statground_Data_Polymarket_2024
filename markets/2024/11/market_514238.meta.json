@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:42:33.036552Z",
+  "market_createdAt": "2024-11-27T19:42:33.036552Z",
+  "market_updatedAt": "2024-12-02T16:07:16.83961Z",
+  "market_startDate": "2024-11-27T19:56:14.760892Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 16:31:45+00",
+  "conditionId": "0x48d592d96e49f7b5ab094d28f4eab49e37b05ba592c08fb33d7f96c2265909c7",
+  "slug": "will-game-6-of-the-world-chess-championship-be-a-draw",
+  "question": "Will game 6 of the World Chess Championship be a draw?"
+}

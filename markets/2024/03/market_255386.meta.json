@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255386",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T18:51:43.027000Z",
+  "market_createdAt": "2024-03-08T18:51:43.027Z",
+  "market_updatedAt": "2024-11-07T01:56:55.779019Z",
+  "market_startDate": "2024-05-08T19:49:25.453Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:54:08+00",
+  "conditionId": "0x62bb859006cfefb420b7f2585c46173da7cdc9e995ad9cf437a1358e92df10b0",
+  "slug": "will-a-republican-win-west-virginia-governor-election",
+  "question": "Will a Republican win West Virginia Governor Election?"
+}

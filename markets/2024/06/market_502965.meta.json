@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T15:59:29.746817Z",
+  "market_createdAt": "2024-06-28T15:59:29.746817Z",
+  "market_updatedAt": "2024-06-30T00:31:07.299852Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-29 02:56:54+00",
+  "conditionId": "0xf7db2fcdcc955052606e440d64544d7b711f3e46541bae1944b1df86d99262dd",
+  "slug": "will-colombia-win-jun-28",
+  "question": "Will Colombia win?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:19:54.650000Z",
+  "market_createdAt": "2024-01-08T21:19:54.65Z",
+  "market_updatedAt": "2024-11-10T23:02:43.948889Z",
+  "market_startDate": "2024-01-10T01:41:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:52:41+00",
+  "conditionId": "0x768eb43d1b7a745e0df1bb6050ab54aa3975fbbde6e23f4aa04cb527f5ffed2e",
+  "slug": "2024-presidential-election-gop-wins-by-1-4",
+  "question": "2024 presidential election: GOP wins by 1-4"
+}

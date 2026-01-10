@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T16:12:16.993744Z",
+  "market_createdAt": "2024-05-23T16:12:16.993744Z",
+  "market_updatedAt": "2024-05-25T02:54:07.248825Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-23T12:00:00Z",
+  "market_closedTime": "2024-05-24 04:39:38+00",
+  "conditionId": "0xa6cd90a27b47f4593a379b7dd79a3f6782a6a0c9dfe19e1e3ada007b5ceb058c",
+  "slug": "nba-bos-ind-2024-05-23",
+  "question": "Boston Celtics vs. Indiana Pacers: Game 2"
+}

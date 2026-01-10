@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:20:57.507148Z",
+  "market_createdAt": "2024-12-17T17:20:57.507148Z",
+  "market_updatedAt": "2025-05-08T00:22:22.886116Z",
+  "market_startDate": "2024-12-18T15:13:21.232583Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:12:28+00",
+  "conditionId": "0xdea03876fddd85fb11aa43273da7bb7a0bd71101b55eed734e35d60174fd1bf2",
+  "slug": "will-fdp-be-part-of-the-next-german-government",
+  "question": "Will FDP be part of the next German government?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513887",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:50:11.516119Z",
+  "market_createdAt": "2024-11-24T18:50:11.516119Z",
+  "market_updatedAt": "2024-11-26T06:41:36.539439Z",
+  "market_startDate": "2024-11-24T18:52:37.007443Z",
+  "market_endDate": "2024-12-02T02:00:00Z",
+  "market_closedTime": "2024-11-25 06:37:59+00",
+  "conditionId": "0x0d105820f6ca8b491afe4b74d6323e035c8d370e99eaf890ebc2e913e39f5b71",
+  "slug": "nba-bkn-sac-2024-11-24",
+  "question": "Nets vs. Kings"
+}

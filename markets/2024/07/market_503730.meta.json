@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:55:30.958034Z",
+  "market_createdAt": "2024-07-18T17:55:30.958034Z",
+  "market_updatedAt": "2024-07-30T19:29:05.596431Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:56+00",
+  "conditionId": "0xcd758063e1acdf2b0767976f2b2394c009bdaaccde9f238833b5f8542fb203b1",
+  "slug": "will-another-athlete-win-gold-in-100m-backstroke",
+  "question": "Will another athlete win Gold in Men's 100m Backstroke?"
+}

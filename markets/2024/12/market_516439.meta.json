@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:37:18.223993Z",
+  "market_createdAt": "2024-12-25T06:37:18.223993Z",
+  "market_updatedAt": "2024-12-30T22:16:20.882304Z",
+  "market_startDate": "2024-12-25T06:39:49.125539Z",
+  "market_endDate": "2024-12-29T17:15:00Z",
+  "market_closedTime": "2024-12-29 22:22:48+00",
+  "conditionId": "0x1e2f0276e6f4a26dad7098b5ad9a296e59600dbd1aa9954e52f1de7a0f1db45d",
+  "slug": "epl-wes-liv-2024-12-29-liv",
+  "question": "Will Liverpool win on 2024-12-29?"
+}

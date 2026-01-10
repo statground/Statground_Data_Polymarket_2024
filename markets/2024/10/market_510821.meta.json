@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:46:37.888739Z",
+  "market_createdAt": "2024-10-24T19:46:37.888739Z",
+  "market_updatedAt": "2024-10-27T05:56:52.851729Z",
+  "market_startDate": "2024-10-24T20:19:35.288159Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:51:27+00",
+  "conditionId": "0xad2322b0393370f56bb8fc7352e57d31033353344d187446ad8ab300ed0eb96c",
+  "slug": "will-trump-say-elon-5-or-more-times-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"Elon\" 5 or more times during Michigan rally on October 25?"
+}

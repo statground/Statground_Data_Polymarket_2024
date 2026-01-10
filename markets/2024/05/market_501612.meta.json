@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501612",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:20:06.754437Z",
+  "market_createdAt": "2024-05-14T23:20:06.754437Z",
+  "market_updatedAt": "2024-06-02T07:11:15.263937Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:22:25+00",
+  "conditionId": "0xee79acdc48379f25bbb413dde8fa0fe24cfc764a7eaded63a53d149dd5ffac19",
+  "slug": "will-ilya-join-a-new-company",
+  "question": "Ilya doesn't announce plans by May 31?"
+}

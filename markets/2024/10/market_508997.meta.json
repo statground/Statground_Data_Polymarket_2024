@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:09:37.379332Z",
+  "market_createdAt": "2024-10-04T21:09:37.379332Z",
+  "market_updatedAt": "2024-10-07T23:06:44.750871Z",
+  "market_startDate": "2024-10-04T22:30:26.050318Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 23:16:22+00",
+  "conditionId": "0x6f40297cc23a3edf52e3cf22511b19f20a7e179cbd69baa4dd972e3eb59f994e",
+  "slug": "will-trump-say-nuclear-during-wisconsin-rally",
+  "question": "Will Trump say \"Nuclear\" during Wisconsin rally?"
+}

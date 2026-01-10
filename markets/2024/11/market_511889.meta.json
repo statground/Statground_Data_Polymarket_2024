@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:23:58.076400Z",
+  "market_createdAt": "2024-11-04T18:23:58.0764Z",
+  "market_updatedAt": "2024-11-11T04:18:45.235243Z",
+  "market_startDate": "2024-11-04T19:16:20.215547Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:04:42+00",
+  "conditionId": "0x08a33231806832051d3bf322d92f9a98e59aad6931a620ebb9751c25189e9276",
+  "slug": "magny-vs-prates",
+  "question": "Magny vs. Prates"
+}

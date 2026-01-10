@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:05:59.437604Z",
+  "market_createdAt": "2024-11-24T05:05:59.437604Z",
+  "market_updatedAt": "2024-12-02T00:43:22.816853Z",
+  "market_startDate": "2024-11-24T05:08:36.671469Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 02:03:44+00",
+  "conditionId": "0xd7674c1de158876331100ac4c3f6eea4184e3b287ec626a5363daa3fb2898974",
+  "slug": "cfb-frsno-ucla-2024-11-30",
+  "question": "Fresno State vs. UCLA"
+}

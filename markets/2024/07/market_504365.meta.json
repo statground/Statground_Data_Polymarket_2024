@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:13:30.543090Z",
+  "market_createdAt": "2024-07-31T15:13:30.54309Z",
+  "market_updatedAt": "2024-08-04T20:46:58.240512Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:47:26+00",
+  "conditionId": "0x888221ddb4140d1537b7a7a1c485985717bd386a518652216dd167b1b77c0f2a",
+  "slug": "ufc-fight-night-mackenzie-dern-vs-loopy-godinez",
+  "question": "UFC Fight Night: Mackenzie Dern vs. Loopy Godinez"
+}

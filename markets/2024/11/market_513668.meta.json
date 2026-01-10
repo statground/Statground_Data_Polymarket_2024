@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:26:21.973823Z",
+  "market_createdAt": "2024-11-21T22:26:21.973823Z",
+  "market_updatedAt": "2024-11-30T22:33:15.636303Z",
+  "market_startDate": "2024-11-25T18:34:39.693486Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-30 01:16:04+00",
+  "conditionId": "0x88f01110fcb71080e5f707035e43b98b572a9c1d0192c7e04df8d14aaeaf3dd4",
+  "slug": "will-the-cleveland-cavaliers-win-the-2024-nba-cup",
+  "question": "Will the Cleveland Cavaliers win the 2024 NBA Cup?"
+}

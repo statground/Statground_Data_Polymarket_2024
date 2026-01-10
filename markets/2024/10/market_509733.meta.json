@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:29:24.992157Z",
+  "market_createdAt": "2024-10-11T21:29:24.992157Z",
+  "market_updatedAt": "2024-10-14T20:06:54.12508Z",
+  "market_startDate": "2024-10-11T22:26:14.799298Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 01:09:01+00",
+  "conditionId": "0x0f09f39877dec7d45f4af9ea184d103b99d2af4d29a798b7f39bc0bd94c324ab",
+  "slug": "will-the-steelers-beat-the-raiders-by-4-or-more-points",
+  "question": "Will the Steelers beat the Raiders by 4 or more points?"
+}

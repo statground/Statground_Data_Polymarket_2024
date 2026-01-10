@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:22:06.046726Z",
+  "market_createdAt": "2024-10-13T20:22:06.046726Z",
+  "market_updatedAt": "2024-10-15T21:06:48.534553Z",
+  "market_startDate": "2024-10-14T14:42:35.0834Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 00:08:26+00",
+  "conditionId": "0x5e87da457c50980b3296dbc36e4239e3624b28547b2b8d59e4d5f023fa101536",
+  "slug": "will-belgium-beat-france",
+  "question": "Will Belgium beat France?"
+}

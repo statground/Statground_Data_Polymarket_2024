@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:39:13.443727Z",
+  "market_createdAt": "2024-08-09T20:39:13.443727Z",
+  "market_updatedAt": "2024-08-11T19:06:54.30273Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 22:19:53+00",
+  "conditionId": "0xdc30c7ab4e13f152dea0b93599534742a7e6fa2dc7f050526f176e4967a15196",
+  "slug": "will-france-win-gold-in-the-mens-4x400m-relay",
+  "question": "Will France win gold in the Men’s 4x400m Relay?"
+}

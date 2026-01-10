@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-29T18:22:46.060096Z",
+  "market_createdAt": "2024-05-29T18:22:46.060096Z",
+  "market_updatedAt": "2024-06-03T13:11:11.39629Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 14:12:03+00",
+  "conditionId": "0x163f9f816788d520f3f4dfdf987933e0e16346ab8ce2bc406c2784bb8d85e561",
+  "slug": "will-baldur-thorhallsson-win-the-iceland-presidential-election",
+  "question": "Will Baldur Þórhallsson win the Iceland Presidential Election?"
+}

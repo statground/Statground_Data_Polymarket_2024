@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512875",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:00:11.547928Z",
+  "market_createdAt": "2024-11-12T19:00:11.547928Z",
+  "market_updatedAt": "2024-12-29T19:32:20.824367Z",
+  "market_startDate": "2024-11-12T21:24:24.439605Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-28 23:10:39+00",
+  "conditionId": "0x887b8156004acad14f6ef1439010ef19152aa73ada4372a6af6e11190bb1f110",
+  "slug": "will-the-los-angeles-chargers-make-the-2024-25-nfl-playoffs",
+  "question": "Will the Los Angeles Chargers make the 2024-25 NFL Playoffs?"
+}

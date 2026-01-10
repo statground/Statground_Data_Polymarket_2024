@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T00:06:35.416580Z",
+  "market_createdAt": "2024-10-23T00:06:35.41658Z",
+  "market_updatedAt": "2024-11-11T15:46:54.170187Z",
+  "market_startDate": "2024-10-23T17:51:29.718417Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-10 17:22:41+00",
+  "conditionId": "0x83d121ef18531a3e0c7f99650240bff60e7d4eac33d3cdc5873929c99e8ef49f",
+  "slug": "will-the-inter-miami-win-the-2024-mls-cup",
+  "question": "Will the Inter Miami win the 2024 MLS Cup?"
+}

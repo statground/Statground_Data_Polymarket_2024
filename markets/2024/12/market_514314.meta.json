@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:15:19.119777Z",
+  "market_createdAt": "2024-12-01T05:15:19.119777Z",
+  "market_updatedAt": "2024-12-08T21:59:30.120834Z",
+  "market_startDate": "2024-12-01T05:18:55.56504Z",
+  "market_endDate": "2024-12-14T18:00:00Z",
+  "market_closedTime": "2024-12-07 22:34:45+00",
+  "conditionId": "0xbb79169bc66adb4fa273611251e410bb2b06fc7a1168f752762a24c5c6b36bc3",
+  "slug": "nba-cle-cha-2024-12-07",
+  "question": "Cavaliers vs. Hornets"
+}

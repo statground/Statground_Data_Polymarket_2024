@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:05:20.458409Z",
+  "market_createdAt": "2024-11-17T05:05:20.458409Z",
+  "market_updatedAt": "2024-11-22T08:05:00.656118Z",
+  "market_startDate": "2024-11-17T05:08:16.621083Z",
+  "market_endDate": "2024-11-28T03:00:00Z",
+  "market_closedTime": "2024-11-21 08:11:30+00",
+  "conditionId": "0xb3ce51df1a565d746c89cfb40fbe33907c97bb390fb311d69e27259bcb66a888",
+  "slug": "nba-nyk-phx-2024-11-20",
+  "question": "Knicks vs. Suns"
+}

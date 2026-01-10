@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:57:28.247534Z",
+  "market_createdAt": "2024-11-02T21:57:28.247534Z",
+  "market_updatedAt": "2024-11-05T05:07:10.773493Z",
+  "market_startDate": "2024-11-02T23:23:08.639Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:10:35+00",
+  "conditionId": "0xf5840b5ec3878103f471d1ce25adf5a05c1a978b4655cad49b93c7b9b86b4bd0",
+  "slug": "will-trump-say-peanut-or-squirrel-during-macon-ga-rally",
+  "question": "Will Trump say \"Peanut\" or \"Squirrel\" during Macon, GA rally?"
+}

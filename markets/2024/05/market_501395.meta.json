@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T19:24:48.249865Z",
+  "market_createdAt": "2024-05-03T19:24:48.249865Z",
+  "market_updatedAt": "2024-05-08T17:34:01.595852Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-07T12:00:00Z",
+  "market_closedTime": "2024-05-08 00:05:02+00",
+  "conditionId": "0xc2623fba0c942eb643cfc4997233f4be9fa0c63633d9882e6981c2cf73b76126",
+  "slug": "will-psg-win-2024-05-07",
+  "question": "Will PSG win?"
+}

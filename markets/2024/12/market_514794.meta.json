@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514794",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:18:23.845570Z",
+  "market_createdAt": "2024-12-04T21:18:23.84557Z",
+  "market_updatedAt": "2024-12-11T05:25:13.758481Z",
+  "market_startDate": "2024-12-04T21:21:58.853931Z",
+  "market_endDate": "2024-12-17T00:30:00Z",
+  "market_closedTime": "2024-12-10 05:28:29+00",
+  "conditionId": "0xb12e10db7d1754e37260063063fd957f2d15687b034f1fafdea7fb70a319a928",
+  "slug": "nhl-ana-mon-2024-12-09",
+  "question": "Ducks vs. Canadiens"
+}

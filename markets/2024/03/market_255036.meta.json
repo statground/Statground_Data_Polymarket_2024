@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T15:37:53.982000Z",
+  "market_createdAt": "2024-03-01T15:37:53.982Z",
+  "market_updatedAt": "2024-11-07T08:03:00.717053Z",
+  "market_startDate": "2024-03-28T20:12:04.351Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:10:36+00",
+  "conditionId": "0x73e79bf159ec7f40a56830f4f0e27a608a15325e427ae43a06772c1549948885",
+  "slug": "will-a-republican-win-alabama-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Alabama Presidential Election?"
+}

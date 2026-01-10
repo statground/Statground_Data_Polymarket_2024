@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T17:30:00.206020Z",
+  "market_createdAt": "2024-09-13T17:30:00.20602Z",
+  "market_updatedAt": "2024-09-21T16:20:52.101795Z",
+  "market_startDate": "2024-09-13T18:08:09.780451Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 19:39:49+00",
+  "conditionId": "0x83c75f0f99a9ae778022f6748ae7834d53bbe228e44dda2c3e91d5ecd5e7f485",
+  "slug": "will-trump-tweet-30-39-times-september-13-20",
+  "question": "Will Trump tweet 30-39 times September 13-20?"
+}

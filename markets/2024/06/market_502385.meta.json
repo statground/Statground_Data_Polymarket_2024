@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502385",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T18:17:44.946057Z",
+  "market_createdAt": "2024-06-12T18:17:44.946057Z",
+  "market_updatedAt": "2024-08-02T17:13:05.845489Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-31 21:10:20+00",
+  "conditionId": "0x5b544e761863106ba78a3380ad72a06a0fa65e61daabf31dae7da443af129edc",
+  "slug": "fed-decreases-interest-rates-by-50-bps-after-july-2024-meeting",
+  "question": "Fed decreases interest rates by 50+ bps after July 2024 meeting?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510206",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:46:45.505336Z",
+  "market_createdAt": "2024-10-18T20:46:45.505336Z",
+  "market_updatedAt": "2024-10-22T04:57:11.310694Z",
+  "market_startDate": "2024-10-18T23:28:12.98938Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 06:09:08+00",
+  "conditionId": "0x05290dc1ce52e1a67d37bc4e56fbaffe07af09a59445a7e70a25ab9a050cb43b",
+  "slug": "will-the-jets-beat-the-steelers-by-2-or-more-points",
+  "question": "Will the Jets beat the Steelers by 2 or more points?"
+}

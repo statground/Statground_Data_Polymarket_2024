@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513523",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T23:14:46.118718Z",
+  "market_createdAt": "2024-11-19T23:14:46.118718Z",
+  "market_updatedAt": "2024-11-21T01:56:55.918851Z",
+  "market_startDate": "2024-11-20T00:12:57.984472Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 03:41:00+00",
+  "conditionId": "0x67fed04ef98f79a99acc7f9028fc865ea1bbccaf5a84c6d63af26927a998d9b2",
+  "slug": "will-ed-ruschas-standard-station-sell-for-30m-or-greater",
+  "question": "Will Ed Ruscha's \"Standard Station\" sell for $30m or greater?"
+}

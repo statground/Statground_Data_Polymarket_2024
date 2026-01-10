@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511442",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T17:16:49.040690Z",
+  "market_createdAt": "2024-10-30T17:16:49.04069Z",
+  "market_updatedAt": "2024-12-18T06:09:18.610197Z",
+  "market_startDate": "2024-10-30T18:54:52.814774Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 01:07:40+00",
+  "conditionId": "0x181e875c323cdb6f1721f1a3ed125718a186e411e2f6044c82f07eb7d640f68e",
+  "slug": "will-another-candidate-get-the-most-votes-of-any-3rd-party-candidate",
+  "question": "Will another candidate get the most votes of any 3rd party candidate?"
+}

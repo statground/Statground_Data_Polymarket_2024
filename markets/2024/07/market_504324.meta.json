@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T18:23:44.391956Z",
+  "market_createdAt": "2024-07-30T18:23:44.391956Z",
+  "market_updatedAt": "2024-08-01T05:57:03.814374Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 06:04:23+00",
+  "conditionId": "0x45e9ef39e4c80e9c3f0f6846038671705e2ed30fd0168f0ce83cdb025bf32727",
+  "slug": "will-kamala-announce-vp-pick-today",
+  "question": "Will Kamala announce VP pick today?"
+}

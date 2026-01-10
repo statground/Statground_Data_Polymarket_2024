@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506283",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:21:54.572602Z",
+  "market_createdAt": "2024-09-03T17:21:54.572602Z",
+  "market_updatedAt": "2024-09-12T03:27:00.782251Z",
+  "market_startDate": "2024-09-03T22:05:06.287Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:58:18+00",
+  "conditionId": "0x8b7cd14a10fe8de0077b9f12da19c5d4fb89c91cf4cfda8aaa6e8df1924616a2",
+  "slug": "will-kamala-say-jd-vance-at-debate",
+  "question": "Will Kamala say \"JD\" or \"Vance\" at debate?"
+}

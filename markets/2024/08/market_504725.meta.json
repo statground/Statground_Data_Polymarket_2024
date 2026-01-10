@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T15:51:52.555834Z",
+  "market_createdAt": "2024-08-08T15:51:52.555834Z",
+  "market_updatedAt": "2024-08-12T17:06:54.350911Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 17:44:28+00",
+  "conditionId": "0xc5dc66e18ae35b4a2065e44856e4e438a0684d5bef631a49ace79773b441e909",
+  "slug": "france-or-uk-wins-more-gold-medals",
+  "question": "France or UK wins more gold medals?"
+}

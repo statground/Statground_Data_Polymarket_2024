@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513944",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:03:56.448310Z",
+  "market_createdAt": "2024-11-25T05:03:56.44831Z",
+  "market_updatedAt": "2024-12-03T02:49:12.707551Z",
+  "market_startDate": "2024-11-25T05:06:27.202334Z",
+  "market_endDate": "2024-12-08T21:25:00Z",
+  "market_closedTime": "2024-12-02 02:49:20+00",
+  "conditionId": "0x442c54385cccab383fe456bbad588660089f663a8b54a330bdb65bfd2e691491",
+  "slug": "nfl-phi-bal-2024-12-01",
+  "question": "Eagles vs. Ravens"
+}

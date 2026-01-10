@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T23:05:42.309468Z",
+  "market_createdAt": "2024-11-06T23:05:42.309468Z",
+  "market_updatedAt": "2025-05-01T08:20:33.151949Z",
+  "market_startDate": "2024-11-06T23:18:43.892Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 06:00:51+00",
+  "conditionId": "0xd6c186dd4a5167684c27462d0bb541bd22ca4861298c00ade1991c6240364762",
+  "slug": "will-trump-create-a-national-bitcoin-reserve-in-his-first-100-days",
+  "question": "Will Trump create Bitcoin reserve in first 100 days?"
+}

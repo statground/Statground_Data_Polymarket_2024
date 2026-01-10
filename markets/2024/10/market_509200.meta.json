@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T23:41:51.242879Z",
+  "market_createdAt": "2024-10-07T23:41:51.242879Z",
+  "market_updatedAt": "2024-11-25T17:28:13.506221Z",
+  "market_startDate": "2024-10-08T16:34:03.189494Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-24 20:32:22+00",
+  "conditionId": "0x5967a079d324ccd836e9f1c7c964c10db9263fc7a5295c59700a6f14022b6003",
+  "slug": "will-the-republican-candidate-win-michigan-by-4pt0-or-more",
+  "question": "Will the Republican candidate win Michigan by 4.0% or more? "
+}

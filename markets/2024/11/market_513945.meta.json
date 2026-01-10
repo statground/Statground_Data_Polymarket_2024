@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:04:08.960533Z",
+  "market_createdAt": "2024-11-25T05:04:08.960533Z",
+  "market_updatedAt": "2024-12-03T06:03:16.319928Z",
+  "market_startDate": "2024-11-25T05:06:36.437136Z",
+  "market_endDate": "2024-12-09T01:20:00Z",
+  "market_closedTime": "2024-12-02 06:13:01+00",
+  "conditionId": "0x49574126072ac7bc2bf2f07ee9775e6567e6a64bc80d7eceefe9ece15e4fbd7e",
+  "slug": "nfl-sf-buf-2024-12-01",
+  "question": "49ers vs. Bills"
+}

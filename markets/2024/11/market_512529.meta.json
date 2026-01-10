@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512529",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:12:04.152750Z",
+  "market_createdAt": "2024-11-08T22:12:04.15275Z",
+  "market_updatedAt": "2024-11-16T01:54:56.623731Z",
+  "market_startDate": "2024-11-14T01:58:10.893Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 04:03:20+00",
+  "conditionId": "0x95c31368307879438e9a933bd1a19e1d110b9d67f2b8ed9859e9ddd1a3ed77b6",
+  "slug": "will-trump-nominate-another-person-for-attorney-general",
+  "question": "Will Trump nominate another person for Attorney General?"
+}

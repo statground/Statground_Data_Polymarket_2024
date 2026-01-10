@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:15:13.391974Z",
+  "market_createdAt": "2024-04-04T15:15:13.391974Z",
+  "market_updatedAt": "2024-11-08T01:13:07.05795Z",
+  "market_startDate": "2024-04-12T20:03:10.722Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:32:16+00",
+  "conditionId": "0x78dca20ad6401138b24acc0d953b58fd2676128a92afb515f257dd334da9023c",
+  "slug": "will-a-candidate-from-another-party-win-washington-us-senate-election",
+  "question": "Will a candidate from another party win Washington US Senate Election?"
+}

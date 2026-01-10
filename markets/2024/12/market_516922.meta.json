@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:04:32.560329Z",
+  "market_createdAt": "2024-12-31T05:04:32.560329Z",
+  "market_updatedAt": "2025-01-05T21:29:27.177859Z",
+  "market_startDate": "2024-12-31T05:07:04.478936Z",
+  "market_endDate": "2025-01-11T16:00:00Z",
+  "market_closedTime": "2025-01-04 21:29:08+00",
+  "conditionId": "0xf634ee1cf0c85c516efe7ebb4afcb178e4910e217fdd48d695d7d83a8ae7d463",
+  "slug": "cfb-buf-lib-2025-01-04",
+  "question": "Buffalo State vs. Liberty"
+}

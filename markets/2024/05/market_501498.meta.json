@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T17:05:33.598358Z",
+  "market_createdAt": "2024-05-09T17:05:33.598358Z",
+  "market_updatedAt": "2024-06-16T05:28:56.792059Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:27:11+00",
+  "conditionId": "0x07534bc8869ae2ea1971cdb06e83229d4c9a28e1c576fcdb398f4d3f8080c3e1",
+  "slug": "will-the-epp-win-the-most-seats-in-european-parliament",
+  "question": "Will the EPP win the most seats in European Parliament?"
+}

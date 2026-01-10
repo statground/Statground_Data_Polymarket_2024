@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503464",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-14T02:46:59.782751Z",
+  "market_createdAt": "2024-07-14T02:46:59.782751Z",
+  "market_updatedAt": "2024-07-31T08:27:02.499444Z",
+  "market_startDate": "2024-07-14T03:06:55.151Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-30 08:29:13+00",
+  "conditionId": "0x70c31b3f5794bb7ef10cf8a504071826c7303f101a1b3b9f368c4d0f9c6b64d4",
+  "slug": "was-the-shooter-a-democrat-or-republican",
+  "question": "Was the shooter a Democrat or Republican?"
+}

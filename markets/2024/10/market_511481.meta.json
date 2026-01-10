@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:21:42.981968Z",
+  "market_createdAt": "2024-10-31T15:21:42.981968Z",
+  "market_updatedAt": "2024-11-02T22:43:07.079473Z",
+  "market_startDate": "2024-11-01T16:37:19.754182Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-01 23:45:49+00",
+  "conditionId": "0xf6fdb63127ce6bb92c1a50137e4623baeb1423f06679e5ad459b890d4e5556cb",
+  "slug": "will-trump-say-hitler-during-warren-mi-rally",
+  "question": "Will Trump say \"Hitler\" during Warren, MI rally?"
+}

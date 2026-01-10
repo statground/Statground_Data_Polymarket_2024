@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-23T17:09:56.548000Z",
+  "market_createdAt": "2024-02-23T17:09:56.548Z",
+  "market_updatedAt": "2024-04-26T02:54:44.413514Z",
+  "market_startDate": "2024-02-23T18:04:00Z",
+  "market_endDate": "2024-02-24T00:00:00Z",
+  "market_closedTime": "2024-02-28 12:30:46+00",
+  "conditionId": "0x265bbb33ba7170621c87c7d53879250756ad9e44e9a486261e45b6e291547d35",
+  "slug": "will-trump-win-the-michigan-primary-by-between-20-30-of-the-vote",
+  "question": "Will Trump win the Michigan Primary by between 20-30% of the vote?"
+}

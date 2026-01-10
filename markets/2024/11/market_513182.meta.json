@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:23:26.260361Z",
+  "market_createdAt": "2024-11-15T19:23:26.260361Z",
+  "market_updatedAt": "2024-11-18T01:27:13.46995Z",
+  "market_startDate": "2024-11-15T22:13:06.021157Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 02:53:51+00",
+  "conditionId": "0x2f2f3ff7ee73b732d0cf25016896ecccfb27dfbb715ea10af8cdccdfd3a486d2",
+  "slug": "will-south-carolina-beat-missouri-by-15-or-more-points",
+  "question": "Will South Carolina beat Missouri by 15 or more points?"
+}

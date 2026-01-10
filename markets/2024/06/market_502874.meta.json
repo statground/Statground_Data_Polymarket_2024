@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502874",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T17:08:43.146588Z",
+  "market_createdAt": "2024-06-25T17:08:43.146588Z",
+  "market_updatedAt": "2024-06-29T06:31:04.751812Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:41:58+00",
+  "conditionId": "0x12e57dec9bf0e05a228fa5ab49027c8c4086a9e4b663f56f9150a009277fe759",
+  "slug": "will-trump-say-shark-during-the-debate",
+  "question": "Will Trump say \"Shark\" during the debate?"
+}

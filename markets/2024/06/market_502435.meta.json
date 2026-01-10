@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:22:42.394828Z",
+  "market_createdAt": "2024-06-14T15:22:42.394828Z",
+  "market_updatedAt": "2024-06-20T19:21:16.775018Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-19 21:03:23+00",
+  "conditionId": "0x2179bb3c156085368f9657ec6c1f9c7e78657d8f7681832c1db2c774449c4d08",
+  "slug": "will-hungary-win-group-a",
+  "question": "Will Hungary win Group A?"
+}

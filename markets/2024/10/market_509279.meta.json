@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:37:31.543919Z",
+  "market_createdAt": "2024-10-08T19:37:31.543919Z",
+  "market_updatedAt": "2024-10-12T22:56:51.130589Z",
+  "market_startDate": "2024-10-09T15:37:53.887996Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:27:30+00",
+  "conditionId": "0xf3e47b6193729db660aa499022cee77028e720b37827081625ec631487de19a7",
+  "slug": "will-trump-say-trans-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"trans\" during Colorado rally on October 11?"
+}

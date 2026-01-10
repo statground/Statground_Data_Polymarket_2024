@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:38:15.080062Z",
+  "market_createdAt": "2024-12-06T22:38:15.080062Z",
+  "market_updatedAt": "2024-12-09T17:55:14.16222Z",
+  "market_startDate": "2024-12-06T23:28:00.7788Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:36:14+00",
+  "conditionId": "0xfeb859f0dd1b07e916fb49e69531cba891195a7242b96d781c66cabd191ffa31",
+  "slug": "will-the-saints-beat-the-giants-by-6-or-more-points",
+  "question": "Will the Saints beat the Giants by 6 or more points?"
+}

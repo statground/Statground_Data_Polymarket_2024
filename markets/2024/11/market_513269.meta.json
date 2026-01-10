@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513269",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:02:52.684336Z",
+  "market_createdAt": "2024-11-17T05:02:52.684336Z",
+  "market_updatedAt": "2024-11-21T04:26:54.755876Z",
+  "market_startDate": "2024-11-17T05:05:21.373164Z",
+  "market_endDate": "2024-11-27T00:00:00Z",
+  "market_closedTime": "2024-11-20 04:26:52+00",
+  "conditionId": "0x35286cd1d09e37ad1eac3daa1ffcaf5fcd1cc23ae8f31098add5483266e57364",
+  "slug": "nba-cle-bos-2024-11-19",
+  "question": "Cavaliers vs. Celtics"
+}

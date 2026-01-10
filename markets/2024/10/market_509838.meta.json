@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509838",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T19:02:10.165590Z",
+  "market_createdAt": "2024-10-14T19:02:10.16559Z",
+  "market_updatedAt": "2024-10-22T00:57:11.423552Z",
+  "market_startDate": "2024-10-14T19:04:19.141481Z",
+  "market_endDate": "2024-10-20T20:05:00Z",
+  "market_closedTime": "2024-10-21 01:30:52+00",
+  "conditionId": "0x81c1385835cfb34226197babc2c7acd129f2969f3933c6f56778eeb3f327dd95",
+  "slug": "nfl-las-lar-2024-10-20",
+  "question": "Raiders vs. Rams"
+}

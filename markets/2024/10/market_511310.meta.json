@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:16:43.174740Z",
+  "market_createdAt": "2024-10-29T16:16:43.17474Z",
+  "market_updatedAt": "2024-11-01T19:47:11.146459Z",
+  "market_startDate": "2024-10-29T17:02:02.129Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 19:53:46+00",
+  "conditionId": "0xd9fd5254ed80ed01c65f58681bee521046e67e00c379ccc3389485c7ebcefea6",
+  "slug": "will-jd-vance-say-trump-50-or-more-times-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"Trump\" 50 or more times during the Joe Rogan podcast?"
+}

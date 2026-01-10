@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:18:27.813136Z",
+  "market_createdAt": "2024-04-04T15:18:27.813136Z",
+  "market_updatedAt": "2024-09-05T04:57:07.037909Z",
+  "market_startDate": "2024-04-04T16:52:59.664Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-04 17:35:44+00",
+  "conditionId": "0x7ab9c0b2396b72fcc4643dc03c835cd2dbbcead944b261e653de7d0851a2493e",
+  "slug": "will-two-members-of-the-squad-lose-their-primaries",
+  "question": "Will two members of The Squad lose their primaries?"
+}

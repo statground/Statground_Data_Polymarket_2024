@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:15:57.933441Z",
+  "market_createdAt": "2024-12-27T21:15:57.933441Z",
+  "market_updatedAt": "2024-12-30T14:51:44.385091Z",
+  "market_startDate": "2024-12-27T22:11:01.869282Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:25:51+00",
+  "conditionId": "0x5526a78db07679acdba9e8989ebbee12e347d2ddcc7df5af8dcdb33200a1a595",
+  "slug": "will-the-raiders-beat-the-saints-by-2-or-more-points",
+  "question": "Will the Raiders beat the Saints by 2 or more points?"
+}

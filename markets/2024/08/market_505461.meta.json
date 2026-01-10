@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T20:26:36.156735Z",
+  "market_createdAt": "2024-08-20T20:26:36.156735Z",
+  "market_updatedAt": "2024-08-22T04:26:59.768071Z",
+  "market_startDate": "2024-08-20T21:10:44.113Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 07:01:04+00",
+  "conditionId": "0x687d6346923293299ca98e77784b6913a7751764d9c6f44244896f24a5f95dc3",
+  "slug": "trump-mentioned-between-100-124-times-at-the-dnc-today",
+  "question": "Trump mentioned between 100-124 times at the DNC today?"
+}

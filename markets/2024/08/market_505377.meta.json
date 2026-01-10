@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:35:51.554135Z",
+  "market_createdAt": "2024-08-19T19:35:51.554135Z",
+  "market_updatedAt": "2024-08-25T19:50:57.753202Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 22:08:52+00",
+  "conditionId": "0x7a2f53799cb7bc9535aec3ee7b582040c830507196c6ecd773102f08e21e3493",
+  "slug": "nfl-buf-car-2024-08-24",
+  "question": "Bills vs. Panthers"
+}

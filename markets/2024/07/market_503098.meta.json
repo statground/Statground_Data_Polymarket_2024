@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503098",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:17:42.285780Z",
+  "market_createdAt": "2024-07-01T21:17:42.28578Z",
+  "market_updatedAt": "2024-07-08T20:25:47.430276Z",
+  "market_startDate": "2024-07-02T14:32:59.506Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-07 23:34:19+00",
+  "conditionId": "0x4056149eba85b5141fe5476e3e94496e3e58a243c9540a2d2e2908f95effe8b3",
+  "slug": "will-coco-gauff-win-wimbledon-womens",
+  "question": "Will Coco Gauff win Wimbledon Women's?"
+}

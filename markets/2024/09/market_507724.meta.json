@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T17:19:36.312526Z",
+  "market_createdAt": "2024-09-23T17:19:36.312526Z",
+  "market_updatedAt": "2024-09-25T17:36:44.897499Z",
+  "market_startDate": "2024-09-23T17:48:33.803Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 19:41:02+00",
+  "conditionId": "0x0ae872b1e375a2ab924cd49846b9fd568afa8d511b78516fa8e3de4cfdd7aaa6",
+  "slug": "will-donald-trump-say-mexico-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"Mexico\" during his Georgia speech?"
+}

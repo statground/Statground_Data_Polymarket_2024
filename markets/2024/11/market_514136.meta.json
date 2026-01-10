@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:46:08.679676Z",
+  "market_createdAt": "2024-11-26T08:46:08.679676Z",
+  "market_updatedAt": "2024-11-29T22:41:29.20204Z",
+  "market_startDate": "2024-11-26T23:12:10.742987Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:15:17+00",
+  "conditionId": "0x9198715c74b0baaffbe77ac54dcc79943479fb4426405378c745fbc310aaa470",
+  "slug": "will-as-roma-beat-tottenham",
+  "question": "Will AS Roma beat Tottenham?"
+}

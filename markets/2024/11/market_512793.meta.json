@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:46:24.836490Z",
+  "market_createdAt": "2024-11-11T21:46:24.83649Z",
+  "market_updatedAt": "2024-11-27T01:09:45.837605Z",
+  "market_startDate": "2024-11-11T21:49:12.085728Z",
+  "market_endDate": "2024-11-25T20:00:00Z",
+  "market_closedTime": "2024-11-26 01:05:53+00",
+  "conditionId": "0x0a833564a76ed5973349bc9caaf88979858c8eb2f38c64902a2f9e41dfd6309f",
+  "slug": "epl-new-wes-2024-11-25-draw",
+  "question": "Will Newcastle vs. West Ham end in a draw?"
+}

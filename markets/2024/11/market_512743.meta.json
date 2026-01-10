@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:02:02.252839Z",
+  "market_createdAt": "2024-11-11T20:02:02.252839Z",
+  "market_updatedAt": "2024-11-18T05:41:21.378244Z",
+  "market_startDate": "2024-11-11T21:57:00.136959Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 05:46:43+00",
+  "conditionId": "0x966e2aea09859fb76521eb261b0005b0601e5e097a76ce213537e2a9bc106d77",
+  "slug": "ruffy-vs-llontop",
+  "question": "Ruffy vs. Llontop"
+}

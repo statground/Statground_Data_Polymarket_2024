@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:17:31.444853Z",
+  "market_createdAt": "2024-12-31T19:17:31.444853Z",
+  "market_updatedAt": "2025-01-21T21:01:10.953069Z",
+  "market_startDate": "2024-12-31T19:31:40.064Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 21:04:40+00",
+  "conditionId": "0x039b490964fb1224c7bccc8d62cad1e0a9dbd676973bf4f110b7fe8f9f2742e5",
+  "slug": "will-trump-say-carnage-during-his-inauguration-speech",
+  "question": "Will Trump say \"carnage\" during his inauguration speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:07:22.873661Z",
+  "market_createdAt": "2024-12-22T07:07:22.873661Z",
+  "market_updatedAt": "2024-12-30T00:20:10.458832Z",
+  "market_startDate": "2024-12-22T07:10:02.039676Z",
+  "market_endDate": "2025-01-04T21:00:00Z",
+  "market_closedTime": "2024-12-29 02:03:47+00",
+  "conditionId": "0x5d7f11d47bb7e70b873bf7f77f5e520cae61b7395e0a45d3734954dea49818f2",
+  "slug": "nhl-phi-ana-2024-12-28",
+  "question": "Flyers vs. Ducks"
+}

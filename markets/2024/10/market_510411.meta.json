@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:43:06.040879Z",
+  "market_createdAt": "2024-10-21T21:43:06.040879Z",
+  "market_updatedAt": "2024-10-23T21:43:16.896685Z",
+  "market_startDate": "2024-10-22T00:41:16.109274Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:30:09+00",
+  "conditionId": "0x42611f88b4e7dba1b5ebe520db2141b5bd6e7c0bbe44b1cbccbf4c173df1e4a4",
+  "slug": "will-the-match-between-arsenal-and-shakhtar-donetsk-end-in-a-draw",
+  "question": "Will the match between Arsenal and Shakhtar Donetsk end in a draw?"
+}

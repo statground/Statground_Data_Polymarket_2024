@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:58:38.427607Z",
+  "market_createdAt": "2024-07-17T19:58:38.427607Z",
+  "market_updatedAt": "2024-08-07T18:56:50.856176Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:37:10+00",
+  "conditionId": "0xbb6f194662acc86ca4bfaa7d46169e53b8281d7b9f891592198e3dadf36f1775",
+  "slug": "will-another-athlete-win-gold-in-1500m",
+  "question": "Will another athlete win Gold in 1500m?"
+}

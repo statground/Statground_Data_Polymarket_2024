@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T21:53:47.084740Z",
+  "market_createdAt": "2024-04-04T21:53:47.08474Z",
+  "market_updatedAt": "2025-01-02T07:55:04.76622Z",
+  "market_startDate": "2024-08-05T03:07:54.099Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:01:58+00",
+  "conditionId": "0x6015c53496b7a099d952edf8d74f2d2e839aa09d2084df79be603e1db949da71",
+  "slug": "us-recession-in-2024-1",
+  "question": "U.S. Recession in 2024?"
+}

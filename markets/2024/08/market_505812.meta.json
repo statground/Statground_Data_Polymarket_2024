@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T19:49:38.888081Z",
+  "market_createdAt": "2024-08-26T19:49:38.888081Z",
+  "market_updatedAt": "2024-09-01T15:51:15.097968Z",
+  "market_startDate": "2024-08-26T19:49:38.888081Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 16:38:15+00",
+  "conditionId": "0xfc7d466fc938614ac0e1909868ed1c7a32c4743618f22c17ae5356f243833f8b",
+  "slug": "will-arsenal-beat-brighton",
+  "question": "Will Arsenal beat Brighton?"
+}

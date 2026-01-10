@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T21:28:35.069980Z",
+  "market_createdAt": "2024-09-15T21:28:35.06998Z",
+  "market_updatedAt": "2024-09-24T05:56:45.889159Z",
+  "market_startDate": "2024-09-15T22:05:45.012Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 06:07:06+00",
+  "conditionId": "0xee5cfa9c103f04998a64ffe0888d7fb0dc58ac4f752f292ad2bad52658de5c1c",
+  "slug": "fact-check-was-it-an-attempt-on-trump",
+  "question": "Fact Check: Was it an attempt on Trump?"
+}

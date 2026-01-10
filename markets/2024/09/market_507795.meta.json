@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:25:00.722516Z",
+  "market_createdAt": "2024-09-23T20:25:00.722516Z",
+  "market_updatedAt": "2024-09-30T20:10:36.485872Z",
+  "market_startDate": "2024-09-24T01:26:52.454551Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 20:38:45+00",
+  "conditionId": "0xe1b8f1ebe4312f0a185161385f52a25c0eb75b4ee84d4bccff312ad637ca325e",
+  "slug": "will-tottenham-beat-manchester-united",
+  "question": "Will Tottenham beat Manchester United?"
+}

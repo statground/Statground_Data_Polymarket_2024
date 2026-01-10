@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:40:13.722846Z",
+  "market_createdAt": "2024-10-28T20:40:13.722846Z",
+  "market_updatedAt": "2024-10-31T08:57:07.872365Z",
+  "market_startDate": "2024-10-28T20:42:48.863673Z",
+  "market_endDate": "2024-10-29T23:30:00Z",
+  "market_closedTime": "2024-10-30 09:02:33+00",
+  "conditionId": "0xb272bdf698fc959199753f9b7b1203da9e9fbc28fd26bc98d4341b6829ec77a0",
+  "slug": "nba-den-bkn-2024-10-29",
+  "question": "Nuggets vs. Nets"
+}

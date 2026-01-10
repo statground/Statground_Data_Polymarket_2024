@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:29:22.262954Z",
+  "market_createdAt": "2024-11-21T22:29:22.262954Z",
+  "market_updatedAt": "2024-12-05T02:45:33.281444Z",
+  "market_startDate": "2024-11-25T20:26:31.287073Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-04 06:55:20+00",
+  "conditionId": "0x6d28d8b96c7f1f0fec8a2d2d6b1b799fbb66255ca71ce97bf471867c2894ae23",
+  "slug": "will-the-los-angeles-clippers-win-the-2024-nba-cup",
+  "question": "Will the Los Angeles Clippers win the 2024 NBA Cup?"
+}

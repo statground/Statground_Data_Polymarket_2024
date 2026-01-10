@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510354",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:23:26.479602Z",
+  "market_createdAt": "2024-10-21T20:23:26.479602Z",
+  "market_updatedAt": "2024-10-26T03:13:01.854231Z",
+  "market_startDate": "2024-10-21T20:26:00.124413Z",
+  "market_endDate": "2024-10-24T23:00:00Z",
+  "market_closedTime": "2024-10-25 03:28:15+00",
+  "conditionId": "0x554276015c321f464c5ca7765649928a64d65d6808afc80fdf189748e9a5393c",
+  "slug": "nba-bos-wsh-2024-10-24",
+  "question": "Celtics vs. Wizards"
+}

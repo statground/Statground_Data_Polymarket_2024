@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:23:08.310113Z",
+  "market_createdAt": "2024-10-04T17:23:08.310113Z",
+  "market_updatedAt": "2024-10-12T00:22:49.466821Z",
+  "market_startDate": "2024-10-04T18:55:17.364762Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 00:29:54+00",
+  "conditionId": "0x8cfd87a6abfa23831c5221bf9e5d53eeb6d231c6340b480af6383e5f30fbe478",
+  "slug": "will-trump-tweet-15-19-times-october-4-11",
+  "question": "Will Trump tweet 15-19 times October 4-11?"
+}

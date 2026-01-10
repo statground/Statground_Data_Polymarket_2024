@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T18:28:24.313820Z",
+  "market_createdAt": "2024-07-16T18:28:24.31382Z",
+  "market_updatedAt": "2024-07-20T11:24:43.43048Z",
+  "market_startDate": "2024-07-16T20:51:25.448Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 11:19:46+00",
+  "conditionId": "0x04939efd130fbaa751368ec0fa0790950780203910b36e04d131a5ad92a1d3d4",
+  "slug": "will-trump-say-hunter-during-rnc-speech",
+  "question": "Will Trump say \"hunter\" during RNC speech?"
+}

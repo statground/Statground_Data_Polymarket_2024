@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:25:50.184982Z",
+  "market_createdAt": "2024-10-31T15:25:50.184982Z",
+  "market_updatedAt": "2024-11-03T00:41:10.316497Z",
+  "market_startDate": "2024-11-01T16:39:05.962524Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 00:57:34+00",
+  "conditionId": "0xb59ec1fe0057036b5021cd625faf17f828618c67dacbd1582e827cdc7275bb05",
+  "slug": "will-trump-say-melania-during-warren-mi-rally",
+  "question": "Will Trump say \"Melania\" during Warren, MI rally?"
+}

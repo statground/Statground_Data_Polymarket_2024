@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:05:52.271583Z",
+  "market_createdAt": "2024-12-20T19:05:52.271583Z",
+  "market_updatedAt": "2024-12-22T02:54:45.939561Z",
+  "market_startDate": "2024-12-20T19:26:33.213724Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-21 03:16:19+00",
+  "conditionId": "0x4ab4e66326f266bff370c9b0a40e8b39cb41a9e37947289851b4dcc772da9ea5",
+  "slug": "congress-passes-funding-bill-by-midnight",
+  "question": "House passes funding bill by midnight?"
+}

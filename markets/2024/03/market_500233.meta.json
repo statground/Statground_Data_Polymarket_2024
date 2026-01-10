@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:59:03.912562Z",
+  "market_createdAt": "2024-03-18T14:59:03.912562Z",
+  "market_updatedAt": "2024-05-07T23:09:16.009985Z",
+  "market_startDate": "2024-03-18T18:57:16.704Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-04-07 06:19:06+00",
+  "conditionId": "0xda3c09db0865ec4b17e123d75bd8e1fbf015026766908e9a769f2e4bd9c0f0f3",
+  "slug": "will-alabama-win-the-ncaa-tournament",
+  "question": "Will Alabama win the NCAA tournament?"
+}

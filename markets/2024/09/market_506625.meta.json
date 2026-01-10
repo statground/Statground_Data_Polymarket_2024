@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506625",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T16:01:32.267339Z",
+  "market_createdAt": "2024-09-08T16:01:32.267339Z",
+  "market_updatedAt": "2024-09-09T17:03:13.671234Z",
+  "market_startDate": "2024-09-08T16:27:27.23311Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:35:22+00",
+  "conditionId": "0xc9b3c3825e0f5b70382cd6e82a31f889ce412e5c2fb67149735cc7a76904db47",
+  "slug": "will-there-be-43-or-more-combined-points-scored-min-nyg",
+  "question": "Will there be 43 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T17:33:02.386000Z",
+  "market_createdAt": "2024-02-26T17:33:02.386Z",
+  "market_updatedAt": "2024-04-26T03:01:01.484535Z",
+  "market_startDate": "2024-02-27T00:18:46.954Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-07 23:47:35+00",
+  "conditionId": "0xd682b9b6cccd7e9691ceb2a48ca641386e0f053d7976fa51d4ff0581ba1a2dc2",
+  "slug": "will-nick-white-say-modular-at-least-10-times-during-the-debate",
+  "question": "Will Nick White say \"modular\" at least 10 times during the debate?"
+}

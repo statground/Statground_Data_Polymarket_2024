@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T15:34:07.328549Z",
+  "market_createdAt": "2024-07-25T15:34:07.328549Z",
+  "market_updatedAt": "2024-07-30T22:31:00.274153Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:27:24+00",
+  "conditionId": "0xed3ba14881c5fa92611f6466b7c9a131250a374f7937c05be27dc4bd0e697f6a",
+  "slug": "will-lukas-martens-ger-win-gold-in-mens-200m-freestyle",
+  "question": "Will Lukas Martens (GER) win Gold in Men's 200m Freestyle?"
+}

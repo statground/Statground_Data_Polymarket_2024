@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:47:29.800000Z",
+  "market_createdAt": "2024-02-20T18:47:29.8Z",
+  "market_updatedAt": "2024-05-08T03:58:51.217876Z",
+  "market_startDate": "2024-02-21T00:33:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-08 03:57:10+00",
+  "conditionId": "0x03fe65a0b75ef032f2b9103eeb1676a30c68263ab645abdf52b38a0368bd5c49",
+  "slug": "will-australia-win-eurovision-2024",
+  "question": "Will Australia win Eurovision 2024?"
+}

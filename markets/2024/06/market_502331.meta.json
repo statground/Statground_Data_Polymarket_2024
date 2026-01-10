@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:57:10.651033Z",
+  "market_createdAt": "2024-06-11T18:57:10.651033Z",
+  "market_updatedAt": "2024-07-07T23:35:46.237711Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-07 03:07:08+00",
+  "conditionId": "0xc564fa90ac3fa32d17799fda99eba741949559c9643a5935bff05b8edf6012ad",
+  "slug": "panama-wins-copa-america-2024-vumx",
+  "question": "Panama wins Copa America 2024?"
+}

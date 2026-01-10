@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508501",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T14:21:46.642392Z",
+  "market_createdAt": "2024-10-01T14:21:46.642392Z",
+  "market_updatedAt": "2024-10-05T01:40:44.718108Z",
+  "market_startDate": "2024-10-01T14:32:25.201Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-10-04 01:39:46+00",
+  "conditionId": "0xb1f31f6b0f9d1c34b331a8dcda84f1d975dc6fd99174ef09f5e383f402a86d40",
+  "slug": "longshoremen-east-coast-port-strike-ends-by-friday",
+  "question": "East coast port strike ends by Friday?"
+}

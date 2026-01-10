@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:29:10.144374Z",
+  "market_createdAt": "2024-09-09T19:29:10.144374Z",
+  "market_updatedAt": "2025-02-27T20:15:43.104644Z",
+  "market_startDate": "2024-09-09T20:55:43.375953Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-02-27 03:13:13+00",
+  "conditionId": "0xa5bfa29f27399fce767abbff2d875bb5ad7a236748fb2818762641c4c1992632",
+  "slug": "everton-wins-the-premier-league",
+  "question": "Everton wins the Premier League?"
+}

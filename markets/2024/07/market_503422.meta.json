@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T18:38:43.278935Z",
+  "market_createdAt": "2024-07-12T18:38:43.278935Z",
+  "market_updatedAt": "2024-07-15T20:48:50.863544Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:11:58+00",
+  "conditionId": "0x0b61591eeed818994e99f1f1819b7bafa772709ef8ce6b708e495f730ca3aaa1",
+  "slug": "euro-finals-ou-2pt5-goals",
+  "question": "Euro Finals: O/U 2.5 goals?"
+}

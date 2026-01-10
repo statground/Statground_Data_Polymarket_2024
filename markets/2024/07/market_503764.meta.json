@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503764",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:20:36.327983Z",
+  "market_createdAt": "2024-07-18T19:20:36.327983Z",
+  "market_updatedAt": "2024-07-30T11:24:59.781638Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 22:57:04+00",
+  "conditionId": "0x15b353f628c99126cc28f1b1067594d541d5ff62f826b5a337db675771ca16d2",
+  "slug": "will-ruta-meilutyte-ltu-win-gold-in-womens-100m-breaststroke",
+  "question": "Will Ruta Meilutyte (LTU) win Gold in Women's 100m Breaststroke?"
+}

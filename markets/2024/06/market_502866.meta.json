@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T16:02:40.901599Z",
+  "market_createdAt": "2024-06-25T16:02:40.901599Z",
+  "market_updatedAt": "2024-07-15T21:12:50.346696Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:41:58+00",
+  "conditionId": "0x5a262552ce6b2a6bfc43e42a46d3bfd0e412f1fdc75269f7163b8e7fa3174770",
+  "slug": "will-harry-kane-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Harry Kane be Player of the Tournament for Euro 2024?"
+}

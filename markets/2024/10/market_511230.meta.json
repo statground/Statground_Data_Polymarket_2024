@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:46:15.660767Z",
+  "market_createdAt": "2024-10-28T20:46:15.660767Z",
+  "market_updatedAt": "2024-11-01T06:16:48.136473Z",
+  "market_startDate": "2024-10-28T20:48:57.238599Z",
+  "market_endDate": "2024-10-31T02:00:00Z",
+  "market_closedTime": "2024-10-31 06:40:03+00",
+  "conditionId": "0x7f0e1cf3725cb0ec352dec9c4fdce31ff5cf528ea003a9e3e2a6dd95402bf894",
+  "slug": "nba-nop-gsw-2024-10-30",
+  "question": "Pelicans vs. Warriors"
+}

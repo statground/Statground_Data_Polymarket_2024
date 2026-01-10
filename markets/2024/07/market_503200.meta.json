@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T21:56:28.294661Z",
+  "market_createdAt": "2024-07-03T21:56:28.294661Z",
+  "market_updatedAt": "2024-07-07T19:40:51.040967Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-06T12:00:00Z",
+  "market_closedTime": "2024-07-06 21:00:08+00",
+  "conditionId": "0x2da517d08253417010f26d4696af16d880181ba27d7e8abe808d225702037326",
+  "slug": "will-the-match-be-a-draw-engalnd-switzerland",
+  "question": "Will the match be a draw?"
+}

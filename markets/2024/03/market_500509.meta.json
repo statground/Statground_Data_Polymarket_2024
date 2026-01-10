@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500509",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T18:22:16.894230Z",
+  "market_createdAt": "2024-03-28T18:22:16.89423Z",
+  "market_updatedAt": "2024-06-03T04:11:15.095886Z",
+  "market_startDate": "2024-03-28T18:25:32.259Z",
+  "market_endDate": "2024-06-01T12:00:00Z",
+  "market_closedTime": "2024-06-02 06:07:27+00",
+  "conditionId": "0x06d61f6d94aef5fca99a25e0b4bbffd2434cc68e912453a17d5914ce8327f574",
+  "slug": "will-trump-tweet-again-by-june-1",
+  "question": "Will Trump tweet again by June 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504288",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:09:28.842475Z",
+  "market_createdAt": "2024-07-29T20:09:28.842475Z",
+  "market_updatedAt": "2024-08-05T18:42:54.393437Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:11:15+00",
+  "conditionId": "0xd2939f049d4329d23d3ecb00b90a63bde1307f1b7a363fb7775bc04793437808",
+  "slug": "will-tommy-fleetwood-win-gold-in-mens-golf",
+  "question": "Will Tommy Fleetwood win Gold in Men's Golf?"
+}

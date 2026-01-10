@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:25:50.293517Z",
+  "market_createdAt": "2024-12-25T06:25:50.293517Z",
+  "market_updatedAt": "2024-12-27T17:53:16.816685Z",
+  "market_startDate": "2024-12-25T06:28:17.693979Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:09:58+00",
+  "conditionId": "0x548a5cb5a632f4a5d1a69dcb2e72789b42709a3bc3507ce96fe60a5ed5dc30b8",
+  "slug": "epl-not-tot-2024-12-26-draw",
+  "question": "Will Nottingham Forest vs. Tottenham end in a draw?"
+}

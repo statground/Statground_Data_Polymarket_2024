@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T16:08:34.096924Z",
+  "market_createdAt": "2024-10-16T16:08:34.096924Z",
+  "market_updatedAt": "2024-10-18T04:46:42.143325Z",
+  "market_startDate": "2024-10-16T18:12:15.569742Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 05:26:23+00",
+  "conditionId": "0x4deb17b3cb3fa7f9606f8c97d05d8ea4fa402ed7a40fe5c4a49da1f0b30ba258",
+  "slug": "will-the-mets-or-dodgers-win-game-3-of-the-nlcs",
+  "question": "Will the Mets or Dodgers win Game 3 of the NLCS?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505160",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T17:04:48.490069Z",
+  "market_createdAt": "2024-08-15T17:04:48.490069Z",
+  "market_updatedAt": "2024-11-15T05:44:59.194572Z",
+  "market_startDate": "2024-08-15T17:04:48.490069Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 05:56:11+00",
+  "conditionId": "0x3d8158cf32871cbd21102db49a0e5f4abedfc5a2c20a2881cb94b0411c763087",
+  "slug": "az-06-election-engel-d-vs-ciscomani-r",
+  "question": "AZ-06 election: Engel (D) vs. Ciscomani (R)"
+}

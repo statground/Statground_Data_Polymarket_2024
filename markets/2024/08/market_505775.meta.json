@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:31:45.447518Z",
+  "market_createdAt": "2024-08-26T16:31:45.447518Z",
+  "market_updatedAt": "2024-08-28T20:07:10.151787Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:58:59+00",
+  "conditionId": "0x6c60a7c96df2af80962a231e2d6033402efe122473eaa8e55be522aa4a3a4213",
+  "slug": "will-jd-vance-say-border-5-or-more-times-during-michigan-rally",
+  "question": "Will J.D. Vance say \"border\" 5 or more times during Michigan rally?"
+}

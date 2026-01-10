@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T18:14:24.483686Z",
+  "market_createdAt": "2024-09-11T18:14:24.483686Z",
+  "market_updatedAt": "2024-09-15T03:22:59.026862Z",
+  "market_startDate": "2024-09-12T18:38:47.838987Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 04:27:55+00",
+  "conditionId": "0x980f2957754ef7409471a2670413dae3b31b1fb12f0c2f4e7fc41c728c6c7b8e",
+  "slug": "will-kansas-win-by-9-or-more-points",
+  "question": "Will Kansas win by 9 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T19:09:10.099000Z",
+  "market_createdAt": "2024-01-12T19:09:10.099Z",
+  "market_updatedAt": "2024-03-12T02:53:57.522Z",
+  "market_startDate": "2024-01-16T17:44:00Z",
+  "market_endDate": "2024-03-09T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:32:46+00",
+  "conditionId": "0x997439c67162f879438a67d4547942dbe470709f6b3ec08355235d31817186f6",
+  "slug": "will-poor-things-win-the-oscar-for-best-picture",
+  "question": "Will \"Poor Things\" win the Oscar for Best Picture?"
+}

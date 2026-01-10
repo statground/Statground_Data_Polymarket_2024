@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509467",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:52:32.526103Z",
+  "market_createdAt": "2024-10-09T21:52:32.526103Z",
+  "market_updatedAt": "2024-10-12T05:16:46.233717Z",
+  "market_startDate": "2024-10-09T22:40:56.17357Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 05:13:25+00",
+  "conditionId": "0x308b948b947cdaa8507235c892b889e1c1449ec23f35cab7c975067097d656cb",
+  "slug": "will-brazil-beat-chile",
+  "question": "Will Brazil beat Chile?"
+}

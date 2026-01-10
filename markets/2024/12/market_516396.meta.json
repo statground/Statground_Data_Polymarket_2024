@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516396",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:25:20.060817Z",
+  "market_createdAt": "2024-12-25T06:25:20.060817Z",
+  "market_updatedAt": "2024-12-27T17:13:12.418975Z",
+  "market_startDate": "2024-12-25T06:27:47.936513Z",
+  "market_endDate": "2024-12-26T12:30:00Z",
+  "market_closedTime": "2024-12-26 17:40:10+00",
+  "conditionId": "0x30b31161ee1760e15367e93b57f9379af1ec03397a84a3ee9067b362b6028f4f",
+  "slug": "epl-mac-eve-2024-12-26-eve",
+  "question": "Will Everton win on 2024-12-26?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:28:50.613990Z",
+  "market_createdAt": "2024-11-01T19:28:50.61399Z",
+  "market_updatedAt": "2024-11-04T17:01:04.214274Z",
+  "market_startDate": "2024-11-02T21:32:31.381507Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:30:26+00",
+  "conditionId": "0x83f77727a117ef7006e27a8a1e2fbd7d8251fd93c23e6b0532ebb411d15a1f7b",
+  "slug": "will-the-saints-and-panthers-combine-for-44-or-more-points",
+  "question": "Will the Saints and Panthers combine for 44 or more points?"
+}

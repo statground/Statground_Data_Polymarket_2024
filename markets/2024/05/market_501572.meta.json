@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T20:06:22.933733Z",
+  "market_createdAt": "2024-05-13T20:06:22.933733Z",
+  "market_updatedAt": "2024-05-21T22:54:11.415093Z",
+  "market_startDate": "2024-05-13T21:23:04.305Z",
+  "market_endDate": "2024-05-20T12:00:00Z",
+  "market_closedTime": "2024-05-21 01:57:41+00",
+  "conditionId": "0x2af5d27f0e6aba39d29244b13ea31ec8a95acef68373be127273657f4c91eac0",
+  "slug": "will-if-gross-between-30-33m-opening-weekend",
+  "question": "Will 'If' gross between $30-33m opening weekend?"
+}

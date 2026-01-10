@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:45:26.159040Z",
+  "market_createdAt": "2024-08-21T14:45:26.15904Z",
+  "market_updatedAt": "2024-08-23T03:47:07.193237Z",
+  "market_startDate": "2024-08-21T16:50:55.983Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 03:50:58+00",
+  "conditionId": "0x3707ce3913f7a74029ae117ff6defd1a8633547945933eb7260ba55633de1edd",
+  "slug": "will-bill-clinton-say-obama-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Obama\" at DNC speech?"
+}

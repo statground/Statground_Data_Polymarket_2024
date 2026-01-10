@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:09:34.376617Z",
+  "market_createdAt": "2024-10-22T19:09:34.376617Z",
+  "market_updatedAt": "2024-10-27T06:02:53.001176Z",
+  "market_startDate": "2024-10-23T17:43:28.713Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:36:22+00",
+  "conditionId": "0x383f86ae1ed47ad569f65a938480fb9456281fcdb4867d9c8c1f9abfa32415b6",
+  "slug": "will-trump-say-russia-5-or-more-times-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"Russia\" 5 or more times on The Joe Rogan Experience?"
+}

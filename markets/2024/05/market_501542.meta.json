@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-11T15:55:43.049452Z",
+  "market_createdAt": "2024-05-11T15:55:43.049452Z",
+  "market_updatedAt": "2024-05-13T21:29:22.488046Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-12T12:00:00Z",
+  "market_closedTime": "2024-05-12 23:58:34+00",
+  "conditionId": "0x9214bce6bdbf4df379ea7c966cef6c0079a621e566984029fd90d160441dd4a8",
+  "slug": "nba-ind-nyk-2024-05-12",
+  "question": "Indiana Pacers vs. New York Knicks Game 4"
+}

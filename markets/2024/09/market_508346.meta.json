@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508346",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T19:46:42.799219Z",
+  "market_createdAt": "2024-09-27T19:46:42.799219Z",
+  "market_updatedAt": "2024-09-30T19:10:35.8602Z",
+  "market_startDate": "2024-09-27T20:56:50.530944Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:24:44+00",
+  "conditionId": "0x09754fdcd05a64c344ac0603f011aaf42ff1c8440f18916c850276e9cb5dc4db",
+  "slug": "will-the-browns-beat-the-raiders-by-2-or-more-points",
+  "question": "Will the Browns beat the Raiders by 2 or more points?"
+}

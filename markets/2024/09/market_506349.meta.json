@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:02:40.281682Z",
+  "market_createdAt": "2024-09-03T20:02:40.281682Z",
+  "market_updatedAt": "2024-09-27T07:06:48.332485Z",
+  "market_startDate": "2024-09-04T00:02:41.504855Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-26 07:50:32+00",
+  "conditionId": "0x2e04af4164322676707d124a9349d5184f5bf512a66674db04eccab6700f028f",
+  "slug": "will-the-phoenix-mercury-win-the-2024-wnba-finals",
+  "question": "Will the Phoenix Mercury win the 2024 WNBA Finals?"
+}

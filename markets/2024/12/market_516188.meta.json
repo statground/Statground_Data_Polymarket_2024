@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T22:45:48.660507Z",
+  "market_createdAt": "2024-12-20T22:45:48.660507Z",
+  "market_updatedAt": "2025-01-21T06:56:57.472142Z",
+  "market_startDate": "2024-12-20T22:53:23.292141Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:07:34+00",
+  "conditionId": "0x963792319bdafaf153449c7c28815c1eb78f053ce7e9eb0d65604c24efef943c",
+  "slug": "will-microstrategy-hold-500k-btc-before-trump-inauguration",
+  "question": "Will MicroStrategy hold 500k+ BTC before Trump inauguration?"
+}

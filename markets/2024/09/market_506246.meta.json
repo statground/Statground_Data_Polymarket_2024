@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-02T22:15:18.601327Z",
+  "market_createdAt": "2024-09-02T22:15:18.601327Z",
+  "market_updatedAt": "2024-09-09T04:37:04.763616Z",
+  "market_startDate": "2024-09-03T15:53:32.619325Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-09-09 01:07:51+00",
+  "conditionId": "0x732bd07466be6d59e61b18801afcc9b8fdb4f4111bd8234009ff596d2c0b273c",
+  "slug": "will-italy-win-the-third-most-medals-in-the-2024-paralympics",
+  "question": "Will Italy win the third most medals in the 2024 Paralympics?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T17:11:26.624764Z",
+  "market_createdAt": "2024-08-27T17:11:26.624764Z",
+  "market_updatedAt": "2024-09-05T22:01:16.298181Z",
+  "market_startDate": "2024-08-27T17:11:26.624764Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-05 01:59:59+00",
+  "conditionId": "0x358f482008584d66a7eacdda80bc72e1b9ce2c23b6a8351f6e332ed8b10c47dd",
+  "slug": "will-the-miami-marlins-win-the-world-series",
+  "question": "Will the Miami Marlins win the World Series?"
+}

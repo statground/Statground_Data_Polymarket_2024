@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505668",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:38:58.152890Z",
+  "market_createdAt": "2024-08-22T18:38:58.15289Z",
+  "market_updatedAt": "2024-08-24T08:21:04.513961Z",
+  "market_startDate": "2024-08-22T20:10:47.689Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:16:04+00",
+  "conditionId": "0x1523bd9d30edc3f7722a587df66cf9348b09acc9079a8f197a2f2d9908e1635b",
+  "slug": "will-trump-post-tax-on-final-night-of-dnc",
+  "question": "Will Trump post \"Tax\" on final night of DNC?"
+}

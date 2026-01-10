@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:06:19.667828Z",
+  "market_createdAt": "2024-08-07T21:06:19.667828Z",
+  "market_updatedAt": "2024-08-24T03:22:56.031793Z",
+  "market_startDate": "2024-08-09T20:39:02.004Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:59:10+00",
+  "conditionId": "0x9d2ed0b216b3d65ca40b125d4b6c049ef5ef82f01436f3a6861225edac0dfd41",
+  "slug": "will-larry-david-speak-at-the-dnc",
+  "question": "Will Larry David speak at the DNC?"
+}

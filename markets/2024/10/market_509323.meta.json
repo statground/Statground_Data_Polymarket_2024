@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T16:21:11.727228Z",
+  "market_createdAt": "2024-10-09T16:21:11.727228Z",
+  "market_updatedAt": "2024-10-14T03:10:49.401629Z",
+  "market_startDate": "2024-10-09T17:03:52.481479Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 04:01:49+00",
+  "conditionId": "0x6ea00d44e223f5159c5df70e10177c6477db4e895fc1d289a2810abb39952d7d",
+  "slug": "royval-vs-taira",
+  "question": "Royval vs. Taira"
+}

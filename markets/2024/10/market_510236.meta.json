@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:27:09.608559Z",
+  "market_createdAt": "2024-10-18T21:27:09.608559Z",
+  "market_updatedAt": "2024-10-22T05:07:16.859143Z",
+  "market_startDate": "2024-10-18T23:27:42.380657Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 05:54:18+00",
+  "conditionId": "0x622aff5c7c5b497c034fa2b7ce127625b366c154440723b73803016382df8a3a",
+  "slug": "will-the-steelers-and-jets-combine-for-39-or-more-points",
+  "question": "Will the Steelers and Jets combine for 39 or more points?"
+}

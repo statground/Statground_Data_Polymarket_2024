@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T00:00:53.958319Z",
+  "market_createdAt": "2024-11-14T00:00:53.958319Z",
+  "market_updatedAt": "2024-11-15T23:15:11.202057Z",
+  "market_startDate": "2024-11-14T15:14:57.090394Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:01:50+00",
+  "conditionId": "0x161ab2a9792b8d3497717d94cc762673903287f583dd299330de1227650778be",
+  "slug": "will-israel-beat-france-nov-14",
+  "question": "Will Israel beat France?"
+}

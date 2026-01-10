@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506087",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T17:07:55.097605Z",
+  "market_createdAt": "2024-08-29T17:07:55.097605Z",
+  "market_updatedAt": "2024-08-31T23:03:10.424234Z",
+  "market_startDate": "2024-08-29T18:31:11.683Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 23:10:01+00",
+  "conditionId": "0xcda632f6987e81de917e8d12f7db29bce4ec915975fa655f39bff12b94390e68",
+  "slug": "will-donald-trump-say-cemetery-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"cemetery\" during Pennsylvania rally?"
+}

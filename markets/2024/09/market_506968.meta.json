@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506968",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T14:38:52.303694Z",
+  "market_createdAt": "2024-09-13T14:38:52.303694Z",
+  "market_updatedAt": "2024-12-22T00:36:50.624061Z",
+  "market_startDate": "2024-09-13T15:43:58.948Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-21 00:31:57+00",
+  "conditionId": "0x7949174f6cb3b0781fbd1a63a51fb7d2e72ac2d7cff1628f2c62477b64734bff",
+  "slug": "will-israel-invade-syria-in-2024",
+  "question": "Will Israel invade Syria in 2024?"
+}

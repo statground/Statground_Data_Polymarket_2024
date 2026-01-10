@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:25:21.363505Z",
+  "market_createdAt": "2024-10-29T22:25:21.363505Z",
+  "market_updatedAt": "2024-11-08T06:39:00.780221Z",
+  "market_startDate": "2024-10-29T22:35:33.424421Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:59:08+00",
+  "conditionId": "0xf19c9c5b1a33ef63c219944cc72161398ba1a562acab6d63f35928c141570519",
+  "slug": "trump-wins-the-election-but-loses-wi-mi-or-pa",
+  "question": "Trump wins the election but loses WI, MI, or PA?"
+}

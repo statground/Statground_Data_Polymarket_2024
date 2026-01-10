@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:00:03.692546Z",
+  "market_createdAt": "2024-11-24T05:00:03.692546Z",
+  "market_updatedAt": "2024-11-28T04:51:43.702692Z",
+  "market_startDate": "2024-11-24T05:02:31.372532Z",
+  "market_endDate": "2024-12-04T00:00:00Z",
+  "market_closedTime": "2024-11-27 05:23:04+00",
+  "conditionId": "0xf7f1af0b9aa8a27b298bd26f038408c70d7c603e4eb373c57baeff5b7f71aee4",
+  "slug": "cfb-kent-buf-2024-11-26",
+  "question": "Kent State vs. Buffalo"
+}

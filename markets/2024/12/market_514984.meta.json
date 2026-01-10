@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T20:14:21.621140Z",
+  "market_createdAt": "2024-12-06T20:14:21.62114Z",
+  "market_updatedAt": "2025-01-01T17:32:15.732902Z",
+  "market_startDate": "2024-12-13T23:26:51.694Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-01 17:29:22+00",
+  "conditionId": "0x2a1f525f8ebebc6c80b2c2db3c0f0f9a006b2f43db26bb860de244187e347414",
+  "slug": "will-luke-woodhouse-win-the-2024-25-pdc-world-championship",
+  "question": "Will Luke Woodhouse win the 2024-25 PDC World Championship?"
+}

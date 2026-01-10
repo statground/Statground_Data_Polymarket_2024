@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:12:12.380522Z",
+  "market_createdAt": "2024-10-11T15:12:12.380522Z",
+  "market_updatedAt": "2024-10-13T19:56:36.844365Z",
+  "market_startDate": "2024-10-11T18:51:38.281975Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:17:45+00",
+  "conditionId": "0x8ba07012ea1eb80cbf0554a1a2231146858e7c01254175da47c387a7708e08cb",
+  "slug": "will-missouri-beat-umass-by-28-or-more-points",
+  "question": "Will Missouri beat UMass by 28 or more points?"
+}

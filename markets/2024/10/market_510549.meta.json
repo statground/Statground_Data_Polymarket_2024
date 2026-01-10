@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:56:36.362116Z",
+  "market_createdAt": "2024-10-22T15:56:36.362116Z",
+  "market_updatedAt": "2024-10-26T05:01:16.335151Z",
+  "market_startDate": "2024-10-22T21:48:06.638Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:08:19+00",
+  "conditionId": "0x0bc1d712bb6b4d9d42fb8414228f726dddc6060453dad43497b2d769d715c0f3",
+  "slug": "will-trump-say-reno-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"Reno\" during Las Vegas rally on October 24?"
+}

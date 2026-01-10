@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T17:56:57.705781Z",
+  "market_createdAt": "2024-04-18T17:56:57.705781Z",
+  "market_updatedAt": "2024-06-10T19:21:16.133347Z",
+  "market_startDate": "2024-04-18T19:00:05.415Z",
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-09 22:33:01+00",
+  "conditionId": "0x8cd00a7ed88beaa9364f02d3dbd884c8626a60926c69ac2073ef5f29765a0b00",
+  "slug": "taylor-swift-1-album-for-6-weeks",
+  "question": "Taylor Swift #1 album for 6 weeks?"
+}

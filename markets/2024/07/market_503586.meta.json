@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503586",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T19:21:31.869475Z",
+  "market_createdAt": "2024-07-16T19:21:31.869475Z",
+  "market_updatedAt": "2024-07-20T05:40:41.254559Z",
+  "market_startDate": "2024-07-16T20:51:26.767Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 06:44:52+00",
+  "conditionId": "0x7f18216e4a7919c18735c161f0ce9efa079cc37c487cb68d6e7ba4115cdb52e4",
+  "slug": "will-trump-say-january-6-or-j6-during-rnc-speech",
+  "question": "Will Trump say \"January 6\" or \"Jan 6\" during RNC speech?"
+}

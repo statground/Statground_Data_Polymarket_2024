@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:12:57.107112Z",
+  "market_createdAt": "2024-12-04T21:12:57.107112Z",
+  "market_updatedAt": "2024-12-08T05:49:24.227386Z",
+  "market_startDate": "2024-12-04T21:16:19.606646Z",
+  "market_endDate": "2024-12-14T03:00:00Z",
+  "market_closedTime": "2024-12-07 07:46:10+00",
+  "conditionId": "0xe871e76aa48c27e582b1b9f748a68cf88f9d4f578be9a77d539f6a7a03c8c7ee",
+  "slug": "nhl-dal-las-2024-12-06",
+  "question": "Stars vs. Golden Knights"
+}

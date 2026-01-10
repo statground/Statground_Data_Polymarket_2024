@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515220",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T23:10:36.289740Z",
+  "market_createdAt": "2024-12-09T23:10:36.28974Z",
+  "market_updatedAt": "2024-12-16T07:45:22.913522Z",
+  "market_startDate": "2024-12-10T18:07:48.546635Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 07:54:33+00",
+  "conditionId": "0x0e5c55da857fcb0924c1c39525a2dfcad1c1e9a62a8077a05f37b1da3e6425c9",
+  "slug": "swanson-vs-quarantillo",
+  "question": "Swanson vs. Quarantillo"
+}

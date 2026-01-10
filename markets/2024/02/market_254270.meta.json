@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-01T23:28:48.022000Z",
+  "market_createdAt": "2024-02-01T23:28:48.022Z",
+  "market_updatedAt": "2024-02-13T05:25:40.404Z",
+  "market_startDate": "2024-02-02T00:10:00Z",
+  "market_endDate": "2024-02-09T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:46:41+00",
+  "conditionId": "0x5e684c9ddd4296b75d70963288a464bebdb35861b4a8eb8e33191e68024b5c25",
+  "slug": "no-gatorade-shower-at-super-bowl-58",
+  "question": "No Gatorade shower at Super Bowl 58?"
+}

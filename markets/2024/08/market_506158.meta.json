@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T18:05:56.220314Z",
+  "market_createdAt": "2024-08-30T18:05:56.220314Z",
+  "market_updatedAt": "2024-09-05T11:47:10.13948Z",
+  "market_startDate": "2024-08-30T18:05:56.220314Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-09-04 12:40:48+00",
+  "conditionId": "0xcec9fbf4f190abcdee8240ce1070f6f175bbd3c77deffb74f9a236edb19c8c34",
+  "slug": "will-elon-tweet-180-or-more-times-sep-6",
+  "question": "Will Elon tweet 180 or more times?"
+}

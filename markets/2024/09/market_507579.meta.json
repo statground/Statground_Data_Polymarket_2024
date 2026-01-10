@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:56:02.082803Z",
+  "market_createdAt": "2024-09-20T15:56:02.082803Z",
+  "market_updatedAt": "2024-09-22T21:56:45.752953Z",
+  "market_startDate": "2024-09-20T16:16:28.470027Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 21:51:19+00",
+  "conditionId": "0x85bcfe636876b42f83eaaa8df997b2f1af54bee87c1a0bb791403403e09e492b",
+  "slug": "will-clemson-beat-nc-state",
+  "question": "Will Clemson beat NC State?"
+}

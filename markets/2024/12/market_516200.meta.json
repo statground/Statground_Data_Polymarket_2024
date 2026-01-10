@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:03:19.758101Z",
+  "market_createdAt": "2024-12-22T05:03:19.758101Z",
+  "market_updatedAt": "2024-12-25T05:19:24.771299Z",
+  "market_startDate": "2024-12-22T05:05:45.288618Z",
+  "market_endDate": "2024-12-31T00:30:00Z",
+  "market_closedTime": "2024-12-24 05:18:29+00",
+  "conditionId": "0x0290c42a53c823991c97a4494911aa303102c3e4a0b1df1917fa43358e032a6f",
+  "slug": "nba-min-atl-2024-12-23",
+  "question": "Timberwolves vs. Hawks"
+}

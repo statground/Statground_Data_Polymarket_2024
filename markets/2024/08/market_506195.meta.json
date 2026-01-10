@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T20:16:18.652919Z",
+  "market_createdAt": "2024-08-30T20:16:18.652919Z",
+  "market_updatedAt": "2024-09-03T22:47:09.168107Z",
+  "market_startDate": "2024-08-30T22:56:30.04Z",
+  "market_endDate": "2024-09-02T12:00:00Z",
+  "market_closedTime": "2024-09-02 22:50:30+00",
+  "conditionId": "0xb13f8bc8fd9658eaef5ac941fc9c27bf6fa2afc5b6bd160e05bbb894e7b86d36",
+  "slug": "who-will-eat-more-hot-dogs-in-10-minutes",
+  "question": "Who will eat more Hot Dogs in 10 minutes?"
+}

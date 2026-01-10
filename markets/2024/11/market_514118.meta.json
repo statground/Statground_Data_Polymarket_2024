@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:35:17.277862Z",
+  "market_createdAt": "2024-11-26T08:35:17.277862Z",
+  "market_updatedAt": "2024-11-29T22:23:30.859538Z",
+  "market_startDate": "2024-11-26T23:00:40.529883Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:25:56+00",
+  "conditionId": "0xae6f5ed421392b1138b7ba74587ca6359f0fda08ac6928c95b3f75b33e9b4343",
+  "slug": "will-olympiacos-beat-fcsb",
+  "question": "Will Olympiacos beat FCSB?"
+}

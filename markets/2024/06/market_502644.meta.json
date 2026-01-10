@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:22:43.047445Z",
+  "market_createdAt": "2024-06-19T21:22:43.047445Z",
+  "market_updatedAt": "2024-06-29T06:21:00.332503Z",
+  "market_startDate": "2024-06-20T18:41:54.166Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:16:15+00",
+  "conditionId": "0x8110f9ae718080fb48f08f503ec3b5703456e88bf26c0a53881c94ad118925df",
+  "slug": "will-trump-say-dementia-during-the-debate",
+  "question": "Will Trump say \"Dementia\" during the debate?"
+}

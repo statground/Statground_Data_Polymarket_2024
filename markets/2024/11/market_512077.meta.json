@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:26:51.320230Z",
+  "market_createdAt": "2024-11-05T19:26:51.32023Z",
+  "market_updatedAt": "2024-11-10T20:22:46.402383Z",
+  "market_startDate": "2024-11-05T19:29:30.859544Z",
+  "market_endDate": "2024-11-09T17:30:00Z",
+  "market_closedTime": "2024-11-09 22:53:23+00",
+  "conditionId": "0x1fdb1a9b6adebd6f5bb2fa82d1b28f5f9fb2f80e690dd6745c83b4a5f810f0ad",
+  "slug": "epl-bri-mac-2024-11-09-draw",
+  "question": "Will Brighton vs. Man City end in a draw?"
+}

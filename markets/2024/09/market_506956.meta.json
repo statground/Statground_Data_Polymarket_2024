@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T02:07:34.914751Z",
+  "market_createdAt": "2024-09-13T02:07:34.914751Z",
+  "market_updatedAt": "2024-09-15T18:47:02.708125Z",
+  "market_startDate": "2024-09-13T16:10:18.773143Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 01:10:16+00",
+  "conditionId": "0x5f9663da0bd1eef173ac2ee0862de467f21ab5c4ab69cb90beb4436108df5e94",
+  "slug": "will-washington-beat-washington-state-by-6-or-more-points",
+  "question": "Will Washington beat Washington State by 6 or more points?"
+}

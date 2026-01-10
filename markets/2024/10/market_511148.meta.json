@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511148",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:56:03.219696Z",
+  "market_createdAt": "2024-10-28T19:56:03.219696Z",
+  "market_updatedAt": "2024-11-03T17:11:07.778344Z",
+  "market_startDate": "2024-10-28T19:58:44.735457Z",
+  "market_endDate": "2024-11-02T15:00:00Z",
+  "market_closedTime": "2024-11-02 20:06:39+00",
+  "conditionId": "0xfa1f0d54e4da4e45d83e7733141466172994121a54be921a655c9e9f8108a20a",
+  "slug": "epl-liv-bri-2024-11-02-draw",
+  "question": "Will Liverpool vs. Brighton end in a draw?"
+}

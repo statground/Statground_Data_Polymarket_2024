@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:44:39.828418Z",
+  "market_createdAt": "2024-11-26T08:44:39.828418Z",
+  "market_updatedAt": "2024-11-29T22:01:35.394277Z",
+  "market_startDate": "2024-11-26T23:13:37.72571Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:30:47+00",
+  "conditionId": "0x84af13c3716296982d8c99f06e0a064a259dee18af2a773ff716495d830b5068",
+  "slug": "will-the-match-between-slavia-praha-and-fenerbahce-end-in-a-draw",
+  "question": "Will the match between Slavia Praha and Fenerbahce end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T21:55:27.445192Z",
+  "market_createdAt": "2024-11-21T21:55:27.445192Z",
+  "market_updatedAt": "2025-01-02T02:03:11.375446Z",
+  "market_startDate": "2024-11-21T22:05:32.425237Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 02:27:35+00",
+  "conditionId": "0x959a60524d36acdfe0031e4a01d735a7d093bea46b6a9e63219a765624c5ec0c",
+  "slug": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+  "question": "Will Microsoft be the largest company in the world by market cap on December 31?"
+}

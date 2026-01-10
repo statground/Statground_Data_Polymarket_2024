@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514176",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:24:21.173708Z",
+  "market_createdAt": "2024-11-26T22:24:21.173708Z",
+  "market_updatedAt": "2024-12-02T20:25:17.811386Z",
+  "market_startDate": "2024-11-27T15:08:58.438038Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 23:57:26+00",
+  "conditionId": "0x6d190b4f56ad4ff780f5f687fd8e9814c175f4a1906fa9949e3587048fafbd20",
+  "slug": "will-lewis-hamilton-win-the-qatar-grand-prix",
+  "question": "Will Lewis Hamilton win the Qatar Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510552",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:00:37.385964Z",
+  "market_createdAt": "2024-10-22T16:00:37.385964Z",
+  "market_updatedAt": "2024-10-26T04:31:06.251747Z",
+  "market_startDate": "2024-10-22T21:49:04.696809Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:17:59+00",
+  "conditionId": "0xd21ef59ae7e8e3664a7adeb74fb286853ce3cb4e529bdf166463a67ec4143cb6",
+  "slug": "will-trump-say-trans-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"trans\" during Las Vegas rally on October 24?"
+}

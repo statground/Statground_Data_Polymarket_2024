@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506458",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T14:05:50.855710Z",
+  "market_createdAt": "2024-09-05T14:05:50.85571Z",
+  "market_updatedAt": "2024-09-08T00:11:06.007108Z",
+  "market_startDate": "2024-09-05T14:26:00.422Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 00:21:30+00",
+  "conditionId": "0x4adb434b9e510362df04151428d6876f6c99f782259aade7e9a787e209847b30",
+  "slug": "us-open-sinner-vs-draper",
+  "question": "US Open: Sinner vs. Draper"
+}

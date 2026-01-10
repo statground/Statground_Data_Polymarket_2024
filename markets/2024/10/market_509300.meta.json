@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T20:31:37.018107Z",
+  "market_createdAt": "2024-10-08T20:31:37.018107Z",
+  "market_updatedAt": "2024-10-12T04:26:47.457708Z",
+  "market_startDate": "2024-10-09T15:23:23.099423Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 05:17:51+00",
+  "conditionId": "0x9feb9ff33d68b08e0cfc0580ffa54cd16992e3383c832893d01865fcaba3703a",
+  "slug": "will-kamala-say-hola-during-univision-town-hall-on-october-10",
+  "question": "Will Kamala say \"hola\" during Univision town hall on October 10?"
+}

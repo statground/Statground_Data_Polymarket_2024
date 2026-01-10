@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T20:25:41.135688Z",
+  "market_createdAt": "2024-12-11T20:25:41.135688Z",
+  "market_updatedAt": "2024-12-22T22:33:37.637374Z",
+  "market_startDate": "2024-12-13T23:09:56.267Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-21 22:48:38+00",
+  "conditionId": "0xe0f31ec11d47e9cc179e48b7e8c8265aa2c296e1e4fe5442e39fcc36436044e4",
+  "slug": "will-magnus-carlson-win-the-champions-chess-tour-finals",
+  "question": "Will Magnus Carlsen win the Champions Chess Tour Finals?"
+}

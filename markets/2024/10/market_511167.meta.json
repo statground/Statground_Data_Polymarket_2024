@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:02:00.180805Z",
+  "market_createdAt": "2024-10-28T20:02:00.180805Z",
+  "market_updatedAt": "2024-11-01T02:36:56.421549Z",
+  "market_startDate": "2024-10-28T21:02:05.444Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 03:08:08+00",
+  "conditionId": "0xfb0a26ac5e56a9ed3473b1d466f9a8c615965bdbc9e98d30bfe4d1f139e70884",
+  "slug": "will-trump-say-cheat-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"cheat\" during Wisconsin rally on Oct 30?"
+}

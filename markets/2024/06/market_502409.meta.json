@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T22:36:41.776134Z",
+  "market_createdAt": "2024-06-12T22:36:41.776134Z",
+  "market_updatedAt": "2024-06-15T16:51:17.207484Z",
+  "market_startDate": "2024-06-12T23:41:20.375Z",
+  "market_endDate": "2024-06-16T12:00:00Z",
+  "market_closedTime": "2024-06-15 03:35:27+00",
+  "conditionId": "0xd57a3a6df5ba2e487cf38bd360f4da4739c0186c2e46544d8d7e09a89e7c445e",
+  "slug": "will-max-homa-win-the-us-open",
+  "question": "Will Max Homa win the U.S. Open? "
+}

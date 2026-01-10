@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501909",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-30T15:22:54.545669Z",
+  "market_createdAt": "2024-05-30T15:22:54.545669Z",
+  "market_updatedAt": "2024-07-02T06:45:51.84414Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:50:30+00",
+  "conditionId": "0x9f8bafbed5f886c52f5754e7b72197ce6638e6a1e0db77327b92ec815d4738c2",
+  "slug": "diddy-arrested-before-july",
+  "question": "Diddy arrested before July?"
+}

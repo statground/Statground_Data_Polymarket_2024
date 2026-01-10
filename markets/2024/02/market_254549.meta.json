@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:33:08.249000Z",
+  "market_createdAt": "2024-02-20T18:33:08.249Z",
+  "market_updatedAt": "2024-05-12T23:24:01.713924Z",
+  "market_startDate": "2024-02-21T00:33:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:14:37+00",
+  "conditionId": "0x128d5ef69f242fa374ed34663b568e76fb5be0d7492c811c25d36405d901a637",
+  "slug": "will-switzerland-win-eurovision-2024",
+  "question": "Will Switzerland win Eurovision 2024?"
+}

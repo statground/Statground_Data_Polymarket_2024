@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-13T22:04:04.541000Z",
+  "market_createdAt": "2024-02-13T22:04:04.541Z",
+  "market_updatedAt": "2024-02-21T12:09:50.387Z",
+  "market_startDate": "2024-02-13T23:24:28.268Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-20 14:15:35+00",
+  "conditionId": "0x2dfbb16634879c33d93bd46989b89cf74b1549666a735d1ed35b40cef683622a",
+  "slug": "starknet-airdrop-in-february",
+  "question": "Starknet airdrop in February?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:20:56.374179Z",
+  "market_createdAt": "2024-12-16T19:20:56.374179Z",
+  "market_updatedAt": "2024-12-22T07:05:21.666917Z",
+  "market_startDate": "2024-12-16T19:42:04.865Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:12:35+00",
+  "conditionId": "0x32310cd744109d68fd1d81b18f027581ae192343f884eb13475daabcb10150b7",
+  "slug": "trudeau-resigns-by-friday",
+  "question": "Trudeau resigns by Friday?"
+}

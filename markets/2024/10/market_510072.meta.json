@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-17T18:13:04.018709Z",
+  "market_createdAt": "2024-10-17T18:13:04.018709Z",
+  "market_updatedAt": "2024-10-21T01:22:42.308047Z",
+  "market_startDate": "2024-10-17T20:54:49.446333Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:47:29+00",
+  "conditionId": "0x94c8f3ffd8ce8d96dd023f1921c2441b556418675cb0b412128b2f7251788837",
+  "slug": "will-trump-say-dark-maga-during-pennsylvania-rally-on-october-19",
+  "question": "Will Trump say \"Dark MAGA\" during Pennsylvania rally on October 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:48:12.545150Z",
+  "market_createdAt": "2024-08-28T19:48:12.54515Z",
+  "market_updatedAt": "2025-01-11T18:14:42.829956Z",
+  "market_startDate": "2024-08-28T20:32:48.207Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-10 19:18:15+00",
+  "conditionId": "0x32755657561c75af11b8179b5038532e043bcc4fc43aad41bef843e2474e04eb",
+  "slug": "global-heat-increase-greater-than-1pt30c-for-2024",
+  "question": "Global heat increase greater than 1.30°C for 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T20:37:23.206032Z",
+  "market_createdAt": "2024-11-01T20:37:23.206032Z",
+  "market_updatedAt": "2024-11-07T17:52:58.869476Z",
+  "market_startDate": "2024-11-01T23:52:03.803131Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 17:56:06+00",
+  "conditionId": "0x3f9467e1e5712c8a81ba21ada29bceb2b46132cc9123cb643c92f4a056f96858",
+  "slug": "sp500-all-time-high-day-election-is-called",
+  "question": "S&P500 all time high after election is called?"
+}

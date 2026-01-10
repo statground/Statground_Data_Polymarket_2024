@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510466",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T00:29:28.465969Z",
+  "market_createdAt": "2024-10-22T00:29:28.465969Z",
+  "market_updatedAt": "2024-10-27T19:06:56.818064Z",
+  "market_startDate": "2024-10-22T00:32:19.96Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 19:25:54+00",
+  "conditionId": "0x57dd3e6315f27f110565a0381bc933254f1115ccc5fd56f84d5df170110e1c4b",
+  "slug": "epl-ast-bou-2024-10-26-bou",
+  "question": "Will Bournemouth win on 2024-10-26?"
+}

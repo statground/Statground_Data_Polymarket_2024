@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T16:20:17.910000Z",
+  "market_createdAt": "2024-02-21T16:20:17.91Z",
+  "market_updatedAt": "2024-06-06T22:06:14.011038Z",
+  "market_startDate": "2024-02-21T17:11:32.646Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-05 22:25:05+00",
+  "conditionId": "0x442328c16a9dc25ddafd42efbe7c40895e1982ff0308257ba5f475b3260e0999",
+  "slug": "taiko-airdrop-by-june-30",
+  "question": "Taiko airdrop by June 30?"
+}

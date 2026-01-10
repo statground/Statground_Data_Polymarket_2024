@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:48:11.700864Z",
+  "market_createdAt": "2024-08-08T17:48:11.700864Z",
+  "market_updatedAt": "2024-12-31T04:39:46.38971Z",
+  "market_startDate": "2024-08-08T17:48:11.700864Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-30 08:12:03+00",
+  "conditionId": "0x5f0de9f7ef85003356acb6117d235a4fa45ed5718d2a467ea7015cc92ae68713",
+  "slug": "will-the-seattle-seahawks-win-the-nfc-west",
+  "question": "Will the Seattle Seahawks win the NFC West"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514058",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:29:45.681951Z",
+  "market_createdAt": "2024-11-26T07:29:45.681951Z",
+  "market_updatedAt": "2024-11-28T22:09:39.061362Z",
+  "market_startDate": "2024-11-26T22:16:21.322251Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-27 22:54:43+00",
+  "conditionId": "0xda10b34c6bb16850b256f2593afae5a1aa4a55888bb101f323b9a35111c28712",
+  "slug": "will-stuttgart-beat-red-star-belgrade",
+  "question": "Will Stuttgart beat Red Star Belgrade?"
+}

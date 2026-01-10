@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506727",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:12:49.440899Z",
+  "market_createdAt": "2024-09-09T19:12:49.440899Z",
+  "market_updatedAt": "2024-10-02T07:06:52.243132Z",
+  "market_startDate": "2024-09-09T20:19:20.266112Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:22:54+00",
+  "conditionId": "0xb412d18bf3a1887e13ad665f7fa22db84b1d97b3ac3ef422b8eba3e8a5985905",
+  "slug": "will-trump-sell-shares-of-djt-in-sept",
+  "question": "Will Trump sell shares of DJT in September?"
+}

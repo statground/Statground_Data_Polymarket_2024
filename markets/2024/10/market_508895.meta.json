@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:35:50.873864Z",
+  "market_createdAt": "2024-10-04T16:35:50.873864Z",
+  "market_updatedAt": "2024-10-06T17:32:41.853724Z",
+  "market_startDate": "2024-10-04T18:32:32.740959Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:22:07+00",
+  "conditionId": "0xc791ae260e98bae37ed6549aa33a99881a806e512a79cf891214feca28f02685",
+  "slug": "will-oklahoma-state-beat-west-virginia-by-4-or-more-points",
+  "question": "Will Oklahoma State beat West Virginia by 4 or more points?"
+}

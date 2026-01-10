@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T16:49:08.726000Z",
+  "market_createdAt": "2024-03-01T16:49:08.726Z",
+  "market_updatedAt": "2024-11-07T16:57:14.580116Z",
+  "market_startDate": "2024-03-28T20:47:55.675Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:14:43+00",
+  "conditionId": "0x015f277ff86323fb0cc3045f6444c5188d9fb491231b644aecd9a08cab9da792",
+  "slug": "will-a-republican-win-montana-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Montana Presidential Election?"
+}

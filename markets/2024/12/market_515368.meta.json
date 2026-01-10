@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515368",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T15:49:48.979998Z",
+  "market_createdAt": "2024-12-11T15:49:48.979998Z",
+  "market_updatedAt": "2025-05-02T00:22:34.304643Z",
+  "market_startDate": "2024-12-11T15:59:23.967Z",
+  "market_endDate": "2025-04-30T12:00:00Z",
+  "market_closedTime": "2025-05-01 07:39:21+00",
+  "conditionId": "0x877cfad1018abf8c99bc7d3c5c363ff6abcbf7726e26341a5443c02bb225be9f",
+  "slug": "fact-check-money-planted-on-luigi-mangione",
+  "question": "Fact Check: Was the money planted on Luigi Mangione?"
+}

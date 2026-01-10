@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T20:19:27.688886Z",
+  "market_createdAt": "2024-11-14T20:19:27.688886Z",
+  "market_updatedAt": "2024-11-17T07:39:16.799768Z",
+  "market_startDate": "2024-11-14T22:13:19.637445Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:54:31+00",
+  "conditionId": "0x4bdca295bc8c88aa4c591b704d65ba10c61084439719920e429ca53655125de6",
+  "slug": "will-mike-tyson-knockout-jake-paul",
+  "question": "Will Mike Tyson knockout Jake Paul?"
+}

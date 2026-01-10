@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T18:03:36.979057Z",
+  "market_createdAt": "2024-06-13T18:03:36.979057Z",
+  "market_updatedAt": "2024-06-16T03:56:13.369863Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-15 05:11:13+00",
+  "conditionId": "0x052653c8b9efac96129c01103270dbd5a7611eb2282dd454cfbb58f8155e72d1",
+  "slug": "nba-dal-bos-2024-06-14",
+  "question": "NBA Finals Game 4: Mavericks vs. Celtics"
+}

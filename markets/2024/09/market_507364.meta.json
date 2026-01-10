@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T22:03:23.226162Z",
+  "market_createdAt": "2024-09-17T22:03:23.226162Z",
+  "market_updatedAt": "2024-09-22T16:52:51.370897Z",
+  "market_startDate": "2024-09-17T22:57:22.972136Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 19:17:08+00",
+  "conditionId": "0x65c9ec98b7dcca2805f68825fa0b88d6743bf8efa89cd6480e7c2e6fb5c5bf8a",
+  "slug": "will-leicester-city-beat-everton",
+  "question": "Will Leicester City beat Everton?"
+}

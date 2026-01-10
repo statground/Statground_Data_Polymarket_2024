@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505663",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T18:27:39.300779Z",
+  "market_createdAt": "2024-08-22T18:27:39.300779Z",
+  "market_updatedAt": "2024-08-24T08:36:56.502539Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 08:45:59+00",
+  "conditionId": "0x9250de1482ec045e0a4bfdcdd0e3c91b39736ee09a467248b73d748deee8978f",
+  "slug": "will-trump-post-comrade-kamala-3-or-more-times-on-final-night-of-dnc",
+  "question": "Will Trump post \"Comrade Kamala\" 3 or more times on final night of DNC?"
+}

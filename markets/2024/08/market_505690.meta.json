@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T22:10:15.434412Z",
+  "market_createdAt": "2024-08-22T22:10:15.434412Z",
+  "market_updatedAt": "2024-08-28T03:53:06.766634Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-27 03:46:05+00",
+  "conditionId": "0x295220cf943286a6d0af58f888f0cb3b1f4097b3c1fbdd1bd89b896c23dc863b",
+  "slug": "trump-posts-between-15-and-19-times-on-x",
+  "question": "Trump posts between 15 and 19 times on X?"
+}

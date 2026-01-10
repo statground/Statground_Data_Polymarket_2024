@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:04:54.241724Z",
+  "market_createdAt": "2024-12-17T21:04:54.241724Z",
+  "market_updatedAt": "2025-03-15T02:08:04.97288Z",
+  "market_startDate": "2024-12-17T22:17:57.623Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-03-14 15:22:49+00",
+  "conditionId": "0xedc56fb59317a5c23cbf8277f137bcad8c36defdbb25bf69b0cd2ecd610d3b34",
+  "slug": "will-the-spd-win-less-than-10-of-the-vote-in-the-german-election",
+  "question": "Will the SPD win less than 10% of the vote in the German election?"
+}

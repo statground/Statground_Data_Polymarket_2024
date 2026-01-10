@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515839",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:14:07.038624Z",
+  "market_createdAt": "2024-12-17T17:14:07.038624Z",
+  "market_updatedAt": "2025-01-01T23:21:11.907491Z",
+  "market_startDate": "2024-12-17T18:13:24.368962Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:27:57+00",
+  "conditionId": "0xcebed92d00e70d9283100b73927b74ea46a4a0161959e104e80fb0acbec3876c",
+  "slug": "will-gemini-have-the-top-ai-model-on-december-31",
+  "question": "Will Gemini have the top AI model on December 31?"
+}

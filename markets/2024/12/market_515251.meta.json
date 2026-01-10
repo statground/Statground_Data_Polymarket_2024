@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:15:26.872307Z",
+  "market_createdAt": "2024-12-10T16:15:26.872307Z",
+  "market_updatedAt": "2024-12-11T21:13:13.263046Z",
+  "market_startDate": "2024-12-10T16:31:31.739Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 23:08:00+00",
+  "conditionId": "0xf6320e56e4277f41dfe2432bf04cc91594f8b1cccdda95940c05aaca2c8a14e6",
+  "slug": "will-kjp-say-putin-during-press-briefing",
+  "question": "Will KJP say \"Putin\" during press briefing?"
+}

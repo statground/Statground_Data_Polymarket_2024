@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-12T23:30:50.593000Z",
+  "market_createdAt": "2024-02-12T23:30:50.593Z",
+  "market_updatedAt": "2024-04-22T22:21:41.189151Z",
+  "market_startDate": "2024-02-13T00:40:00Z",
+  "market_endDate": "2024-02-11T00:00:00Z",
+  "market_closedTime": "2024-02-14 10:46:08+00",
+  "conditionId": "0x2b6a63803852c5f7b7b5eb3ff1b0306fbe3624f675d55d6e95c073c94789a91d",
+  "slug": "will-nyc-have-less-than-3pt5-inches-of-snowfall-on-tuesday",
+  "question": "Will NYC have less than 3.5 inches of snowfall on Tuesday?"
+}

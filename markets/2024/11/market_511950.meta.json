@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:33:26.326960Z",
+  "market_createdAt": "2024-11-04T19:33:26.32696Z",
+  "market_updatedAt": "2024-11-25T11:28:25.984236Z",
+  "market_startDate": "2024-11-06T16:32:26.697808Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:18:42+00",
+  "conditionId": "0x6cf53e59006c420f66bcb1f43f1622130aa5d1cf09db66d0dd0859369dd5b947",
+  "slug": "will-another-driver-win-the-2024-las-vegas-italian-grand-prix",
+  "question": "Will another driver win the 2024 Las Vegas Grand Prix?"
+}

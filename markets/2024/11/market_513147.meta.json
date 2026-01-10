@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:55:33.007101Z",
+  "market_createdAt": "2024-11-15T18:55:33.007101Z",
+  "market_updatedAt": "2024-11-17T01:19:00.514893Z",
+  "market_startDate": "2024-11-15T22:08:36.025519Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:54:21+00",
+  "conditionId": "0x8731ca45e990493bd4d58c04bcdd124a76ae5df73c2b526a0059f22b5fb24187",
+  "slug": "will-washington-beat-ucla-by-5-or-more-points",
+  "question": "Will Washington beat UCLA by 5 or more points?"
+}

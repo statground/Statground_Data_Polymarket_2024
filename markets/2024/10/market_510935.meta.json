@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:51:03.164038Z",
+  "market_createdAt": "2024-10-25T17:51:03.164038Z",
+  "market_updatedAt": "2024-10-27T15:56:59.603041Z",
+  "market_startDate": "2024-10-25T22:10:57.111998Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 22:16:28+00",
+  "conditionId": "0x8558f8bbea3db76c83492757aac6e498024a74104168af76fcbf53c4ae85991d",
+  "slug": "will-ole-miss-beat-oklahoma-by-21-or-more-points",
+  "question": "Will Ole Miss beat Oklahoma by 21 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T16:51:37.294877Z",
+  "market_createdAt": "2024-09-19T16:51:37.294877Z",
+  "market_updatedAt": "2024-09-25T03:26:43.304682Z",
+  "market_startDate": "2024-09-19T17:52:18.096913Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 05:28:45+00",
+  "conditionId": "0x2d9928f2ccbad467f8d68608200e9fc3b1a110980ec4511fe44a19c73232a2f0",
+  "slug": "will-there-be-less-than-625-points-scored-nfl-week-3",
+  "question": "Will there be less than 625 points scored NFL Week 3?"
+}

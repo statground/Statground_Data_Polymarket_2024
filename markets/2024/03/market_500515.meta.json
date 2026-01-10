@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500515",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T19:21:11.816475Z",
+  "market_createdAt": "2024-03-28T19:21:11.816475Z",
+  "market_updatedAt": "2024-11-07T14:57:05.494804Z",
+  "market_startDate": "2024-03-28T20:52:46.813Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:19:17+00",
+  "conditionId": "0x1652ed7c8396de76eb1c18c202e75def313f836c8184f52ae4236ca26990f115",
+  "slug": "will-a-republican-win-new-york-presidential-election",
+  "question": "Will a Republican win New York Presidential Election?"
+}

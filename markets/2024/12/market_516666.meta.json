@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516666",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:04:14.210503Z",
+  "market_createdAt": "2024-12-29T07:04:14.210503Z",
+  "market_updatedAt": "2025-01-02T03:37:18.351176Z",
+  "market_startDate": "2024-12-29T07:06:46.764101Z",
+  "market_endDate": "2025-01-07T22:00:00Z",
+  "market_closedTime": "2025-01-01 03:34:27+00",
+  "conditionId": "0x11a2b690a2a485737870e0cc94f2dae09c85c3e761bad03bc66875680a395c12",
+  "slug": "nhl-stl-chi-2024-12-31",
+  "question": "Blues vs. Blackhawks"
+}

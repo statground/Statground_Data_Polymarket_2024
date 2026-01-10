@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508951",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:01:53.944145Z",
+  "market_createdAt": "2024-10-04T18:01:53.944145Z",
+  "market_updatedAt": "2024-10-08T00:32:44.540426Z",
+  "market_startDate": "2024-10-04T21:52:24.888832Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-07 00:42:43+00",
+  "conditionId": "0xc180795f599b4f341f96b053e880eb11e34c5877b64a2f844af67866076fd08f",
+  "slug": "will-the-ravens-beat-the-bengals-by-3-or-more-points",
+  "question": "Will the Ravens beat the Bengals by 3 or more points?"
+}

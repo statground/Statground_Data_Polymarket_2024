@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506647",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T14:29:15.667806Z",
+  "market_createdAt": "2024-09-09T14:29:15.667806Z",
+  "market_updatedAt": "2024-09-17T00:22:50.03077Z",
+  "market_startDate": "2024-09-09T14:31:36.288843Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 00:52:03+00",
+  "conditionId": "0x31233564f67d76c00bd9fe2bf0d4fd9490d0988d2633bb5303088ac86a9782b1",
+  "slug": "nfl-ari-lar-2024-09-15",
+  "question": "Cardinals vs. Rams"
+}

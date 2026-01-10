@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:25:55.550066Z",
+  "market_createdAt": "2024-07-08T22:25:55.550066Z",
+  "market_updatedAt": "2024-07-22T18:04:43.195197Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:41:00+00",
+  "conditionId": "0xc86ead940a7fd12290fa9a32bb50a572b348bc2cac34c7e26c2c0241b4109f15",
+  "slug": "will-primoz-roglic-win-the-2024-tour-de-france",
+  "question": "Will Primoz Roglic win the 2024 Tour de France?"
+}

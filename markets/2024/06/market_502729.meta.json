@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:05:47.567986Z",
+  "market_createdAt": "2024-06-21T16:05:47.567986Z",
+  "market_updatedAt": "2024-06-29T18:11:06.861149Z",
+  "market_startDate": "2024-06-22T15:47:45.438Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:02:13+00",
+  "conditionId": "0x12ff25673c8eba70984de4d740bbd54d81f983235a05c7822bc01f956c589436",
+  "slug": "will-elon-post-than-40-49-times-june-21",
+  "question": "Will Elon post 40-49 times?"
+}

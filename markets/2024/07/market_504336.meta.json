@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T19:35:53.523087Z",
+  "market_createdAt": "2024-07-30T19:35:53.523087Z",
+  "market_updatedAt": "2024-07-31T23:51:02.579966Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-12T12:00:00Z",
+  "market_closedTime": "2024-07-31 03:26:08+00",
+  "conditionId": "0xb18ceac75e68a7210a42e0c48cf8530f3fe7b319572a07fc701e5d2f83068d1e",
+  "slug": "will-jasmine-paolini-ita-win-gold-in-womens-tennis",
+  "question": "Will Jasmine Paolini (ITA) win Gold in Women’s Tennis?"
+}

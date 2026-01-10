@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505974",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T17:00:46.007933Z",
+  "market_createdAt": "2024-08-28T17:00:46.007933Z",
+  "market_updatedAt": "2024-08-31T02:51:02.946643Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 06:11:18+00",
+  "conditionId": "0xd48ec9241e2d8ed0c84ccf50e0b97c212477dcb4a24a7a772f5b43bf6f46f71e",
+  "slug": "cfb-colorado-10pt5-vs-ndsu",
+  "question": "CFB: Colorado (-9.5) vs. NDSU"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T20:12:27.042254Z",
+  "market_createdAt": "2024-06-26T20:12:27.042254Z",
+  "market_updatedAt": "2024-06-29T20:16:07.597048Z",
+  "market_startDate": "2024-06-28T06:12:08.999Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 21:57:00+00",
+  "conditionId": "0x68da459c234678950fc0fb3ba691370cad6ea8f8969154410ae32f0bc6dda9de",
+  "slug": "bolivia-coup-successful-by-tomorrow",
+  "question": "Bolivia coup successful by tomorrow?"
+}

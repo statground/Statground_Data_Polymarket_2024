@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:24:24.475414Z",
+  "market_createdAt": "2024-08-12T20:24:24.475414Z",
+  "market_updatedAt": "2024-09-02T08:33:04.805098Z",
+  "market_startDate": "2024-08-12T20:24:24.475414Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 09:32:46+00",
+  "conditionId": "0xbfa179cd19cd92b3ee14eceafb00283e7ed4fdcb07381bd53062a068ddce2da6",
+  "slug": "swan-bitcoin-insolvent-by-august-31",
+  "question": "Swan Bitcoin insolvent by August 31?"
+}

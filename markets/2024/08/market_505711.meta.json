@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T04:16:41.587234Z",
+  "market_createdAt": "2024-08-23T04:16:41.587234Z",
+  "market_updatedAt": "2024-08-26T18:20:52.494886Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 18:35:26+00",
+  "conditionId": "0x7e8a1f5698d4c3f8389fd5336f0d9d91727a8b6a4bd5016a17fe697e96aee7cd",
+  "slug": "will-another-driver-win-the-dutch-grand-prix",
+  "question": "Will another driver win the Dutch Grand Prix?"
+}

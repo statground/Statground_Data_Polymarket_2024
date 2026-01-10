@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-05T23:41:14.183190Z",
+  "market_createdAt": "2024-05-05T23:41:14.18319Z",
+  "market_updatedAt": "2024-05-12T07:03:55.153085Z",
+  "market_startDate": "2024-05-05T23:45:44.922Z",
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-11 09:05:55+00",
+  "conditionId": "0x05557924faff5c2b73472ef57a603eae16c7e5071e945c5193f9e7d74ef3490d",
+  "slug": "will-kanye-drop-vultures-2-by-friday",
+  "question": "Will Kanye drop Vultures 2 by Friday?"
+}

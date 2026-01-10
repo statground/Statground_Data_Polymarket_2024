@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509576",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T23:59:33.407624Z",
+  "market_createdAt": "2024-10-10T23:59:33.407624Z",
+  "market_updatedAt": "2024-11-30T14:33:24.551897Z",
+  "market_startDate": "2024-10-11T16:45:12.267073Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 16:47:56+00",
+  "conditionId": "0x370d6c9bb7acd3df44a213f703c44cbb3dc37e17c6f68e49240e5136e1a0bcae",
+  "slug": "will-trump-win-texas-by-10-points",
+  "question": "Will Trump win Texas by 10+ points?"
+}

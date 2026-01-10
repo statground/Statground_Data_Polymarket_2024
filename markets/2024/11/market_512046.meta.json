@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:03:43.126282Z",
+  "market_createdAt": "2024-11-05T19:03:43.126282Z",
+  "market_updatedAt": "2024-11-11T23:39:18.125288Z",
+  "market_startDate": "2024-11-05T19:06:23.017046Z",
+  "market_endDate": "2024-11-10T18:00:00Z",
+  "market_closedTime": "2024-11-10 23:37:17+00",
+  "conditionId": "0xe2ddbeb9474b0a95eeae44f270a968b7ab635f8fd759cae2db3df84d60c4cd0d",
+  "slug": "nfl-pit-was-2024-11-10",
+  "question": "Steelers vs. Commanders"
+}

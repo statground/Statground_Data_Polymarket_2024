@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:39:17.721132Z",
+  "market_createdAt": "2024-11-07T20:39:17.721132Z",
+  "market_updatedAt": "2024-11-10T03:08:55.213232Z",
+  "market_startDate": "2024-11-07T22:57:56.028463Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-09 07:47:44+00",
+  "conditionId": "0xc2636fe6f9ebfebcb049d5ba94b72b8fd114423785fcbe509c0999f95c693b88",
+  "slug": "will-iowa-beat-ucla-by-7-or-more-points",
+  "question": "Will Iowa beat UCLA by 7 or more points?"
+}

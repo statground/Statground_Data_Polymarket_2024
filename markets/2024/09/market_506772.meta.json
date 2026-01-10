@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-10T18:13:47.850675Z",
+  "market_createdAt": "2024-09-10T18:13:47.850675Z",
+  "market_updatedAt": "2024-10-02T06:52:49.8401Z",
+  "market_startDate": "2024-09-10T18:21:59.689Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:02:44+00",
+  "conditionId": "0xc1a3cfd167db6d739d03eebacba2bd7ca23a318c735f581bb8ce72decc71dd4d",
+  "slug": "will-trump-visit-springfield-in-september",
+  "question": "Will Trump visit Springfield in September?"
+}

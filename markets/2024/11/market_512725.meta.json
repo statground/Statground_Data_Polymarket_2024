@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:12:36.722569Z",
+  "market_createdAt": "2024-11-11T18:12:36.722569Z",
+  "market_updatedAt": "2024-11-19T03:27:05.720813Z",
+  "market_startDate": "2024-11-11T18:15:07.078684Z",
+  "market_endDate": "2024-11-24T23:00:00Z",
+  "market_closedTime": "2024-11-18 03:32:32+00",
+  "conditionId": "0xe5b7c6068bcd7752fc41a4691997f6c5c45a034e8e99d8ad2028c53a6c21fca2",
+  "slug": "nba-cha-cle-2024-11-17",
+  "question": "Hornets vs. Cavaliers"
+}

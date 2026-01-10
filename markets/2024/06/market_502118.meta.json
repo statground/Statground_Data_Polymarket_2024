@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T21:23:30.347877Z",
+  "market_createdAt": "2024-06-04T21:23:30.347877Z",
+  "market_updatedAt": "2024-11-03T15:07:02.387059Z",
+  "market_startDate": "2024-06-06T15:56:45.974Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 18:44:39+00",
+  "conditionId": "0xb9998922e9b800d3c8dd65636a4f9905bae8d587f8cfd78d06c6209b33bb46cf",
+  "slug": "trump-ineligible-to-run-for-president",
+  "question": "Trump ineligible to run for President?"
+}

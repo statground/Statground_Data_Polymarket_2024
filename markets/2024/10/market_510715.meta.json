@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:40:09.759823Z",
+  "market_createdAt": "2024-10-23T17:40:09.759823Z",
+  "market_updatedAt": "2024-10-29T01:17:10.101157Z",
+  "market_startDate": "2024-10-23T22:27:13.504517Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:25:49+00",
+  "conditionId": "0x52544873d490114fecb1c0cd2aba29e4ac8c019007ef9dcd3a3dacbac517ff9d",
+  "slug": "will-lewis-hamilton-win-the-mexico-city-grand-prix",
+  "question": "Will Lewis Hamilton win the Mexico City Grand Prix?"
+}

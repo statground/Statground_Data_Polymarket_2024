@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T14:56:16.658486Z",
+  "market_createdAt": "2024-08-07T14:56:16.658486Z",
+  "market_updatedAt": "2024-11-25T23:39:46.218356Z",
+  "market_startDate": "2024-08-07T14:56:16.658486Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-11-25 02:46:03+00",
+  "conditionId": "0x6e35ceadcbf540176c51026887cb805f5653f7cad681eadbb48a1f5e7004647a",
+  "slug": "will-the-patriots-win-the-afc-east",
+  "question": "Will the Patriots win the AFC East?"
+}

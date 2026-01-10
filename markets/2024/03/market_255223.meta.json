@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T21:31:56.105000Z",
+  "market_createdAt": "2024-03-01T21:31:56.105Z",
+  "market_updatedAt": "2024-04-26T03:01:03.724322Z",
+  "market_startDate": "2024-03-01T22:16:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-03-07 20:02:00+00",
+  "conditionId": "0x857f1f99cc37b738b8e8b5ba076be6a9b48f3e318a15f51dbeac87e026201dc3",
+  "slug": "will-katie-porter-get-first-place-in-the-california-senate-primary",
+  "question": "Will Katie Porter get first place in the California Senate Primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515009",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:36:42.927181Z",
+  "market_createdAt": "2024-12-06T22:36:42.927181Z",
+  "market_updatedAt": "2024-12-09T20:17:22.69761Z",
+  "market_startDate": "2024-12-06T23:27:57.844822Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:11:27+00",
+  "conditionId": "0xbfbd46d4bdfebd282caa1bca06a3f866103332c238f8fd0bd70109c24e8b23af",
+  "slug": "will-the-titans-beat-the-jaguars-by-4-or-more-points",
+  "question": "Will the Titans beat the Jaguars by 4 or more points?"
+}

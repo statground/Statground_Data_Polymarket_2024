@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511763",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:36:12.146429Z",
+  "market_createdAt": "2024-11-01T23:36:12.146429Z",
+  "market_updatedAt": "2024-11-04T23:33:18.206116Z",
+  "market_startDate": "2024-11-02T00:09:18.418Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:30:30+00",
+  "conditionId": "0x4ceda2d5ce0a7e5f79035a27d13576b15558605abff7fe129aa8d194e570ab4a",
+  "slug": "will-trump-say-china-8-or-more-times-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"China\" 8 or more times during North Carolina rally on Nov 3?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508915",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:03:19.690987Z",
+  "market_createdAt": "2024-10-04T17:03:19.690987Z",
+  "market_updatedAt": "2024-10-07T04:36:39.439016Z",
+  "market_startDate": "2024-10-04T18:38:00.808493Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:58:54+00",
+  "conditionId": "0x631391ea96877172cac68d7ec5c3d2f5d0819ce08689a270e1b3f458ba19fdba",
+  "slug": "will-washington-and-michigan-combine-for-42-or-more-points",
+  "question": "Will Washington and Michigan combine for 42 or more points?"
+}

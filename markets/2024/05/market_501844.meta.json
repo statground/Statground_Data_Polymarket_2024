@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501844",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T16:30:25.714577Z",
+  "market_createdAt": "2024-05-28T16:30:25.714577Z",
+  "market_updatedAt": "2024-06-02T04:26:12.266476Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:09:43+00",
+  "conditionId": "0x52ab140d87798fd0458191a3bcc97de27acf689f33e55147d07f305fb2d9748b",
+  "slug": "sahil-arrested-by-june-15",
+  "question": "Sahil arrested by Friday?"
+}

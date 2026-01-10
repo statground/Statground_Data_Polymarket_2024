@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T17:08:53.470913Z",
+  "market_createdAt": "2024-09-11T17:08:53.470913Z",
+  "market_updatedAt": "2024-09-13T22:57:05.532063Z",
+  "market_startDate": "2024-09-12T18:44:49.291062Z",
+  "market_endDate": "2024-09-12T12:00:00Z",
+  "market_closedTime": "2024-09-13 05:26:24+00",
+  "conditionId": "0xd0b80c34b6c8821ee61a48a3cde2ae86fddd7607d3920786d4de79be2e7125fa",
+  "slug": "will-arizona-state-win-by-2-or-more-points",
+  "question": "Will Arizona State win by 2 or more points?"
+}

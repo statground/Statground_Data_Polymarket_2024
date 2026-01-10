@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T22:25:45.837626Z",
+  "market_createdAt": "2024-04-05T22:25:45.837626Z",
+  "market_updatedAt": "2024-06-27T02:46:08.991416Z",
+  "market_startDate": "2024-04-05T22:27:20.878Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 04:52:43+00",
+  "conditionId": "0x511adfc5d62efa38a385ddcec9b5a96b1684dd9c5225ada9540c7854459e959b",
+  "slug": "will-billy-football-win-ny-3-republican-primary",
+  "question": "Will Billy Football win NY-3 Republican Primary?"
+}

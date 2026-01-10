@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:27:20.074856Z",
+  "market_createdAt": "2024-12-25T06:27:20.074856Z",
+  "market_updatedAt": "2024-12-27T19:49:12.735146Z",
+  "market_startDate": "2024-12-25T06:29:49.480262Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:15:32+00",
+  "conditionId": "0xa7b2ea402bfb7fcdf1a1bd4dd682c89e6df9d6bf9bc2f2b5098c742c3188b6c2",
+  "slug": "epl-che-ful-2024-12-26-draw",
+  "question": "Will Chelsea vs. Fulham end in a draw?"
+}

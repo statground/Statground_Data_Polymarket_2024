@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T17:06:30.462939Z",
+  "market_createdAt": "2024-09-24T17:06:30.462939Z",
+  "market_updatedAt": "2025-04-22T07:11:43.795604Z",
+  "market_startDate": "2024-11-21T23:03:52.432Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-04-21 04:00:25+00",
+  "conditionId": "0x3a9ec6b4896ce959a47db529123533d61ffc52b5a244372bfa6031f2555998a2",
+  "slug": "will-jalen-brunson-win-the-2024-25-nba-mvp",
+  "question": "Will Jalen Brunson win the 2024-25 NBA MVP?"
+}

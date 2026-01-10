@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T01:45:34.855158Z",
+  "market_createdAt": "2024-07-30T01:45:34.855158Z",
+  "market_updatedAt": "2024-08-03T06:33:01.844998Z",
+  "market_startDate": "2024-07-30T01:56:33.245Z",
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 06:25:05+00",
+  "conditionId": "0x6c801092e4fa8de9a184fee0271446399b3c61b28347085cd29394ddc49e3e49",
+  "slug": "nfl-houston-texans-vs-chicago-bears",
+  "question": "NFL: Houston Texans vs. Chicago Bears "
+}

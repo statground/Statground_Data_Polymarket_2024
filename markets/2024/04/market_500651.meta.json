@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-03T19:27:51.727137Z",
+  "market_createdAt": "2024-04-03T19:27:51.727137Z",
+  "market_updatedAt": "2024-10-02T16:56:49.893277Z",
+  "market_startDate": "2024-04-04T22:48:11.412Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-10-01 17:32:34+00",
+  "conditionId": "0xd9773233f3dd345b0cf99b4338e9663dee025c76bcdae2d8f11efb4327a3566d",
+  "slug": "no-eigenlayer-launch-in-2024",
+  "question": "No Eigenlayer token launch in 2024?"
+}

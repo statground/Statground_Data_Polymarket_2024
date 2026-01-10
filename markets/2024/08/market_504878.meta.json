@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-09T20:16:28.950117Z",
+  "market_createdAt": "2024-08-09T20:16:28.950117Z",
+  "market_updatedAt": "2024-11-06T08:07:12.986915Z",
+  "market_startDate": "2024-08-09T20:16:28.950117Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 10:09:59+00",
+  "conditionId": "0x76dbb81a9fd937efa736aa23e6c0eb33aaf0f2ca4aa6c06da1d5529ed236ebfb",
+  "slug": "will-tim-walz-be-d-nom-for-vp-on-election-day",
+  "question": "Will Tim Walz be D-nom for VP on Election Day?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:28:04.470085Z",
+  "market_createdAt": "2024-10-15T20:28:04.470085Z",
+  "market_updatedAt": "2024-10-22T04:07:10.308545Z",
+  "market_startDate": "2024-10-16T17:13:23.800746Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:13:45+00",
+  "conditionId": "0x0f3e90a228049a07f929192a8dd725104b88d5c7da35b1e39c2f0ee41df1bb5d",
+  "slug": "will-max-verstappen-win-the-united-states-grand-prix",
+  "question": "Will Max Verstappen win the United States Grand Prix?"
+}

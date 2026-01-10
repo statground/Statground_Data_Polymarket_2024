@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T22:52:43.127095Z",
+  "market_createdAt": "2024-07-05T22:52:43.127095Z",
+  "market_updatedAt": "2024-07-08T13:00:48.240428Z",
+  "market_startDate": "2024-07-05T23:07:35.286Z",
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:24:39+00",
+  "conditionId": "0x8e89e3188ed143f2313f922ed085f21f8e8c79df790b1ed2a0f01901b39eeaef",
+  "slug": "will-another-driver-win-the-british-grand-prix",
+  "question": "Will another driver win the British Grand Prix?"
+}

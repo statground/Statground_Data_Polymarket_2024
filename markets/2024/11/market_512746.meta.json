@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:06:09.076251Z",
+  "market_createdAt": "2024-11-11T20:06:09.076251Z",
+  "market_updatedAt": "2024-11-16T02:26:56.527723Z",
+  "market_startDate": "2024-11-11T21:57:40.491Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:14:25+00",
+  "conditionId": "0x0c3d47c7e6f2cbe52ac31580298f26f3e6194f5a68e08362d057ea32aa639057",
+  "slug": "will-trump-nominate-miriam-adelson-for-israeli-ambassador",
+  "question": "Will Trump nominate Miriam Adelson for Israeli Ambassador?"
+}

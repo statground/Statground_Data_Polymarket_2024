@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:39:15.557288Z",
+  "market_createdAt": "2024-05-03T14:39:15.557288Z",
+  "market_updatedAt": "2024-05-07T23:09:32.959808Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:29:54+00",
+  "conditionId": "0xa25435bba0b5372d929848a5563fe25f5f3bd07e874af763b2a7fe933119fb13",
+  "slug": "will-honor-marie-win-the-2024-kentucky-derby",
+  "question": "Will Honor Marie win the 2024 Kentucky Derby?"
+}

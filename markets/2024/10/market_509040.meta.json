@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509040",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T16:03:57.435658Z",
+  "market_createdAt": "2024-10-07T16:03:57.435658Z",
+  "market_updatedAt": "2024-10-12T07:50:49.685232Z",
+  "market_startDate": "2024-10-07T17:02:09.616735Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 08:30:45+00",
+  "conditionId": "0x8cc360360608940466fbf6f290c2359773c58f6ca851e90fd2c57ec51dffe688",
+  "slug": "will-israel-strike-iran-on-thursday",
+  "question": "Will Israel strike Iran on Thursday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T17:18:24.863754Z",
+  "market_createdAt": "2024-04-02T17:18:24.863754Z",
+  "market_updatedAt": "2024-11-07T21:09:05.567212Z",
+  "market_startDate": "2024-04-03T21:37:50.007Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 15:44:09+00",
+  "conditionId": "0x8d2f66a4e6b5dafbfdd266b42a020cf88dcf21acdac6d6236ceec94580b4b502",
+  "slug": "will-a-candidate-from-another-party-win-texas-us-senate-election",
+  "question": "Will a candidate from another party win Texas US Senate Election?"
+}

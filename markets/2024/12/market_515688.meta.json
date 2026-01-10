@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:00:50.255289Z",
+  "market_createdAt": "2024-12-15T07:00:50.255289Z",
+  "market_updatedAt": "2024-12-18T05:05:21.061975Z",
+  "market_startDate": "2024-12-15T07:03:35.630321Z",
+  "market_endDate": "2024-12-24T01:00:00Z",
+  "market_closedTime": "2024-12-17 05:54:10+00",
+  "conditionId": "0xe4f3c4025fd587798e1b8c0b5c1f5b7d84448f6dce38395631c4a3f75834cbdc",
+  "slug": "nhl-wsh-dal-2024-12-16",
+  "question": "Capitals vs. Stars"
+}

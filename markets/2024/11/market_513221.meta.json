@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:37:54.208623Z",
+  "market_createdAt": "2024-11-15T21:37:54.208623Z",
+  "market_updatedAt": "2024-11-17T20:45:21.287214Z",
+  "market_startDate": "2024-11-15T23:06:14.93381Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:00:23+00",
+  "conditionId": "0xdd6a1935c06da86b1d40099c01d42905f5ce167a6a172ad9eec76aaedef81ff7",
+  "slug": "will-iceland-beat-montenegro",
+  "question": "Will Iceland beat Montenegro?"
+}

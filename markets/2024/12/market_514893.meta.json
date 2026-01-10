@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514893",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:43:12.857417Z",
+  "market_createdAt": "2024-12-05T21:43:12.857417Z",
+  "market_updatedAt": "2024-12-17T20:39:26.678164Z",
+  "market_startDate": "2024-12-10T21:04:39.01901Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 20:34:10+00",
+  "conditionId": "0x12a1a1474724ad775814b7c3618914a242c41934aebebca9d747f6c8b1588987",
+  "slug": "will-coinbase-announce-another-coin-as-next-listing",
+  "question": "Will Coinbase announce another coin as next listing?"
+}

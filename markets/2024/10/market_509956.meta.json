@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T20:28:51.938402Z",
+  "market_createdAt": "2024-10-15T20:28:51.938402Z",
+  "market_updatedAt": "2024-10-22T03:07:22.830482Z",
+  "market_startDate": "2024-10-16T17:14:32.092147Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 04:23:18+00",
+  "conditionId": "0x04e8b17173a97dff5d6ab4305d3aca11f379795357a40b505d19c95f28f24a50",
+  "slug": "will-lewis-hamilton-win-the-united-states-grand-prix",
+  "question": "Will Lewis Hamilton win the United States Grand Prix?"
+}

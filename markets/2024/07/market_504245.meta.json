@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:48:46.867882Z",
+  "market_createdAt": "2024-07-26T23:48:46.867882Z",
+  "market_updatedAt": "2024-07-30T15:21:06.839131Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-07-29 16:58:05+00",
+  "conditionId": "0x0bde492c68095af49be01d3c9c2c47383a8cf002baa9b9e177338232414a1a03",
+  "slug": "will-alex-de-minaur-aus-win-gold-in-mens-tennis",
+  "question": "Will Alex De Minaur (AUS) win Gold in Men's Tennis?"
+}

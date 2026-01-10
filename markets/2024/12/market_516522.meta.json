@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T18:31:31.006945Z",
+  "market_createdAt": "2024-12-27T18:31:31.006945Z",
+  "market_updatedAt": "2025-02-02T03:58:46.404137Z",
+  "market_startDate": "2024-12-30T18:30:39.741739Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:02:37+00",
+  "conditionId": "0x849608be4c85e59d1e38216c483d2dbec2ac87675832bc60b3115548aba1ec45",
+  "slug": "human-to-human-bird-flu-transmission-before-february",
+  "question": "Human to human bird flu transmission before February?"
+}

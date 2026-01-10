@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507157",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T17:30:08.474230Z",
+  "market_createdAt": "2024-09-16T17:30:08.47423Z",
+  "market_updatedAt": "2024-09-19T20:10:50.694616Z",
+  "market_startDate": "2024-09-18T00:37:59.39Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-18 20:32:02+00",
+  "conditionId": "0x7d3c7a3cb2036a0d6c187e65805be394aa8be89ec776bcfb4d98041a8a83a5df",
+  "slug": "will-powell-wear-a-purple-tie-at-fomc-statement",
+  "question": "Will Powell wear a purple tie at FOMC?"
+}

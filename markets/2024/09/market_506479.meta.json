@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T16:23:29.940068Z",
+  "market_createdAt": "2024-09-05T16:23:29.940068Z",
+  "market_updatedAt": "2024-09-08T19:17:09.52299Z",
+  "market_startDate": "2024-09-05T19:27:52.525005Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 23:46:30+00",
+  "conditionId": "0xd5af06a731a721df4d5835964cf84bccf1c1f599002284908c6475d4fc16c08e",
+  "slug": "will-hungary-win-sept-7",
+  "question": "Will Hungary win?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505507",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T04:19:14.380152Z",
+  "market_createdAt": "2024-08-21T04:19:14.380152Z",
+  "market_updatedAt": "2024-08-23T05:17:06.734047Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:21:44+00",
+  "conditionId": "0xdff7c9151fb9a55de0fe74ffc2ee3ce236b34402267d310661e0026abe075253",
+  "slug": "will-pete-buttigieg-say-infrastructure-in-dnc-speech",
+  "question": "Will Pete Buttigieg say \"Infrastructure\" in DNC speech?"
+}

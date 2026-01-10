@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:49:53.032698Z",
+  "market_createdAt": "2024-10-18T17:49:53.032698Z",
+  "market_updatedAt": "2024-10-21T04:56:47.823848Z",
+  "market_startDate": "2024-10-18T23:10:28.120856Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 04:49:01+00",
+  "conditionId": "0x9460c63e24d26a8ec737e1d4e46d60dcfb75100a39f375c33337a98c1697d676",
+  "slug": "will-there-be-57-or-more-combined-points-scored-LSU-Arkansas",
+  "question": "Will there be 57 or more combined points scored?"
+}

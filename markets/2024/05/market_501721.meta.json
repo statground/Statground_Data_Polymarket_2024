@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501721",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-21T14:52:39.508345Z",
+  "market_createdAt": "2024-05-21T14:52:39.508345Z",
+  "market_updatedAt": "2024-06-01T06:22:14.034188Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:20:17+00",
+  "conditionId": "0x44167e0a43763eb6ea7a6929066278ce908939829bdfccc41a7609128a276076",
+  "slug": "archethereum-all-time-high-in-may",
+  "question": "archEthereum all time high in May?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T20:43:39.206785Z",
+  "market_createdAt": "2024-11-11T20:43:39.206785Z",
+  "market_updatedAt": "2024-11-17T17:17:30.33369Z",
+  "market_startDate": "2024-11-12T00:39:07.410903Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-16 19:15:39+00",
+  "conditionId": "0x1d16131930b15b5a89218afedd908ed30cc7fe67d29295d33e459ed2bd15370e",
+  "slug": "will-alexander-zverev-win-the-2024-nitto-atp-finals",
+  "question": "Will Alexander Zverev win the 2024 Nitto ATP Finals?"
+}

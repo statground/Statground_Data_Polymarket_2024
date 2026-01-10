@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T17:34:29.834000Z",
+  "market_createdAt": "2024-03-01T17:34:29.834Z",
+  "market_updatedAt": "2024-11-07T13:59:01.303975Z",
+  "market_startDate": "2024-03-28T20:14:25.77Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:20:34+00",
+  "conditionId": "0x24ace0c29dc2c801992ea6b7c795d3e7c4f2ad40343bc9f0becef694b2ef197f",
+  "slug": "will-a-democrat-win-california-in-the-2024-us-presidential-election",
+  "question": "Will a Democrat win California Presidential Election?"
+}

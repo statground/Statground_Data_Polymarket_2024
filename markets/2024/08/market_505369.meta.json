@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:33:10.458330Z",
+  "market_createdAt": "2024-08-19T19:33:10.45833Z",
+  "market_updatedAt": "2024-08-24T04:16:58.902296Z",
+  "market_startDate": "2024-08-22T12:00:00Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:48:22+00",
+  "conditionId": "0x76e42239de73b10966339de8272649e336f2a0357f669b61234252fcc644dea7",
+  "slug": "nfl-kc-chi-2024-08-22",
+  "question": "Chiefs vs. Bears"
+}

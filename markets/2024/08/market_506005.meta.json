@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:43:57.881594Z",
+  "market_createdAt": "2024-08-28T19:43:57.881594Z",
+  "market_updatedAt": "2024-09-03T00:27:00.526566Z",
+  "market_startDate": "2024-08-28T19:43:57.881594Z",
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-09-02 00:23:47+00",
+  "conditionId": "0x23027cbb552f14a78300be1ef1ae3a17c945f7156182750e64223898239884e8",
+  "slug": "will-tim-walz-say-teacher-during-cnn-interview",
+  "question": "Will Tim Walz say \"Teacher\" during CNN interview?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T00:37:38.468064Z",
+  "market_createdAt": "2024-08-16T00:37:38.468064Z",
+  "market_updatedAt": "2024-08-19T00:32:55.482815Z",
+  "market_startDate": "2024-08-16T21:17:40.687Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 00:30:13+00",
+  "conditionId": "0xe9b54145ae5c606f577971a877e9ce9383cabf4a5cf3794daa5fa378089cc5cf",
+  "slug": "will-trump-say-crypto-at-his-rally",
+  "question": "Will Trump say \"Crypto\" at his rally?"
+}

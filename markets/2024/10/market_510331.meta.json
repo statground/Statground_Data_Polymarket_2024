@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:02:29.649183Z",
+  "market_createdAt": "2024-10-21T19:02:29.649183Z",
+  "market_updatedAt": "2024-10-29T00:41:12.464583Z",
+  "market_startDate": "2024-10-21T19:05:16.422895Z",
+  "market_endDate": "2024-10-27T20:05:00Z",
+  "market_closedTime": "2024-10-28 01:08:06+00",
+  "conditionId": "0xd53f2bcdd69d3ff313209951c446171a73cef9382d350e7454006d70648d362a",
+  "slug": "nfl-buf-sea-2024-10-27",
+  "question": "Bills vs. Seahawks"
+}

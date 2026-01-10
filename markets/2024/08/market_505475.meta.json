@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:05:35.613521Z",
+  "market_createdAt": "2024-08-21T01:05:35.613521Z",
+  "market_updatedAt": "2024-08-25T16:30:54.824659Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 16:39:52+00",
+  "conditionId": "0xab498101e02c4b56cb59cd4bdfd0832933052fc103621de008fa5aa9e4ea0cff",
+  "slug": "will-brighton-beat-manchester-united",
+  "question": "Will Brighton beat Manchester United?"
+}

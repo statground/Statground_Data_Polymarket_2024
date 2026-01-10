@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514367",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T16:08:33.148104Z",
+  "market_createdAt": "2024-12-02T16:08:33.148104Z",
+  "market_updatedAt": "2024-12-17T01:49:27.713882Z",
+  "market_startDate": "2024-12-02T16:36:41.289Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-16 01:44:54+00",
+  "conditionId": "0xc54c0a7a9914e36e4b369ce6d5dae60eed4c8c9c6a5d78599d9d65804b2c947d",
+  "slug": "will-bitcoin-reach-105000-in-december",
+  "question": "Will Bitcoin reach $105,000 in December?"
+}

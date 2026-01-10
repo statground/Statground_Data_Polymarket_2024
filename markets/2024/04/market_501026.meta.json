@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501026",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-17T17:40:37.522821Z",
+  "market_createdAt": "2024-04-17T17:40:37.522821Z",
+  "market_updatedAt": "2024-05-07T23:10:05.645575Z",
+  "market_startDate": "2024-04-17T17:55:13.981Z",
+  "market_endDate": "2024-04-19T12:00:00Z",
+  "market_closedTime": "2024-04-20 06:11:01+00",
+  "conditionId": "0xef43aea2c66f60837473944eec44a69c6dd64532b5a4b6cf36ea49d287043aec",
+  "slug": "nba-play-in-pelicans-vs-kings",
+  "question": "NBA Play-In: Pelicans vs. Kings "
+}

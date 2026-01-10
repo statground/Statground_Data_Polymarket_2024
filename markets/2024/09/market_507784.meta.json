@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:14:20.238709Z",
+  "market_createdAt": "2024-09-23T20:14:20.238709Z",
+  "market_updatedAt": "2024-09-29T18:56:42.357515Z",
+  "market_startDate": "2024-09-23T23:52:40.231542Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 19:17:33+00",
+  "conditionId": "0x116dcbd6845fc421a4f5dfd9553920eb818fa947f673f48c8605972c397e48d7",
+  "slug": "will-nottingham-forest-beat-fulham",
+  "question": "Will Nottingham Forest beat Fulham?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T13:20:51.986891Z",
+  "market_createdAt": "2024-04-02T13:20:51.986891Z",
+  "market_updatedAt": "2024-05-07T23:09:26.154268Z",
+  "market_startDate": "2024-04-02T20:26:22.461Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-27 00:46:23+00",
+  "conditionId": "0x53ecf4c1775c7eea6c62aa8ad52d3db0edd48a71e0e4057dd1f5242c10c144d6",
+  "slug": "us-bank-failure-in-april",
+  "question": "US bank failure in April?"
+}

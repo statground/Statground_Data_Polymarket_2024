@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T18:22:27.779150Z",
+  "market_createdAt": "2024-06-05T18:22:27.77915Z",
+  "market_updatedAt": "2024-06-11T09:06:14.102304Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 10:40:40+00",
+  "conditionId": "0xfed7a6a5c4dbc4b5828a44c17fbed3b9b2ab3a8ed27acfa55e707c191607f227",
+  "slug": "will-ko-receive-more-than-34-of-votes",
+  "question": "Will KO receive more than 34% of votes?"
+}

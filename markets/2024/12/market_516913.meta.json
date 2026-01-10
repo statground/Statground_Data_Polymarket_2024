@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:01:49.074853Z",
+  "market_createdAt": "2024-12-31T05:01:49.074853Z",
+  "market_updatedAt": "2025-01-02T01:19:21.920214Z",
+  "market_startDate": "2024-12-31T05:04:44.081825Z",
+  "market_endDate": "2025-01-07T20:00:00Z",
+  "market_closedTime": "2025-01-01 01:30:49+00",
+  "conditionId": "0xa4ef6d90e6209023e9a752546178c370f98c8d6b12041b957d0c6261831bc556",
+  "slug": "cfb-scar-ill-2024-12-31",
+  "question": "South Carolina vs. Illinois"
+}

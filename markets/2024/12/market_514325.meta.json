@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514325",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:00:44.220415Z",
+  "market_createdAt": "2024-12-01T06:00:44.220415Z",
+  "market_updatedAt": "2024-12-09T23:31:19.886776Z",
+  "market_startDate": "2024-12-01T06:04:06.731058Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:30:40+00",
+  "conditionId": "0x386b414a9dc3961bab017a652a935669b4b1c956211dedc0fb6cae9483cc8877",
+  "slug": "nfl-atl-min-2024-12-08",
+  "question": "Falcons vs. Vikings"
+}

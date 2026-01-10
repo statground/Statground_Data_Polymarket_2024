@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:37:18.573883Z",
+  "market_createdAt": "2024-06-24T23:37:18.573883Z",
+  "market_updatedAt": "2024-06-26T22:46:10.146885Z",
+  "market_startDate": "2024-06-25T01:01:16.007Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-06-26 00:15:07+00",
+  "conditionId": "0x26ce2fe98f1d9a00cbc40c18940016b4717683b94905474b5f86a4394e4d761d",
+  "slug": "will-denmark-win-june-25",
+  "question": "Will Denmark win?"
+}

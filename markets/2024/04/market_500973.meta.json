@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:38:36.292444Z",
+  "market_createdAt": "2024-04-15T20:38:36.292444Z",
+  "market_updatedAt": "2024-05-07T23:09:15.978426Z",
+  "market_startDate": "2024-04-16T16:50:41.451Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-04 05:04:01+00",
+  "conditionId": "0x9849ba629ff716ae52e7ef2cdf1a0567578fd36c32888999ed8bc123fcd3d703",
+  "slug": "nashville-predators-win-the-2024-stanley-cup",
+  "question": "Nashville Predators win the 2024 Stanley Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T22:03:05.285877Z",
+  "market_createdAt": "2024-09-04T22:03:05.285877Z",
+  "market_updatedAt": "2024-09-11T01:21:12.175289Z",
+  "market_startDate": "2024-09-04T22:59:02.936093Z",
+  "market_endDate": "2024-09-11T12:00:00Z",
+  "market_closedTime": "2024-09-10 06:23:59+00",
+  "conditionId": "0x106f88b488a8cfef0b36dcb3e00d49527c070081a7da4eb46690cde0662966f6",
+  "slug": "will-there-be-more-than-800-points-scored-nfl-week-1",
+  "question": "Will there be more than 800 points scored NFL week 1?"
+}

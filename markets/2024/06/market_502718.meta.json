@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502718",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:29:21.099354Z",
+  "market_createdAt": "2024-06-21T15:29:21.099354Z",
+  "market_updatedAt": "2024-06-23T21:36:09.318077Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-23 02:50:58+00",
+  "conditionId": "0x37b9ec5c649e2bf03fbdd97cde023fe9b19d88333f55ba7293d1412b20996174",
+  "slug": "ufc-fight-night-who-will-win-sergei-pavlovich-vs-alexander-volkov",
+  "question": "UFC Fight Night: Who will win - Sergei Pavlovich vs. Alexander Volkov?"
+}

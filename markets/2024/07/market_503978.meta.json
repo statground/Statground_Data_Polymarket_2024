@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T00:35:27.402719Z",
+  "market_createdAt": "2024-07-22T00:35:27.402719Z",
+  "market_updatedAt": "2024-08-07T09:26:49.602294Z",
+  "market_startDate": "2024-07-22T16:30:16.353Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 11:09:58+00",
+  "conditionId": "0x3c90fbbe6a14ff67f9ef0464b00be3ba9863b5081d45952f07273fb4a74c94ec",
+  "slug": "will-joe-manchin-be-the-democratic-presidential-nomination",
+  "question": "Will Joe Manchin be the Democratic Presidential Nominee?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:00:32.227305Z",
+  "market_createdAt": "2024-12-01T06:00:32.227305Z",
+  "market_updatedAt": "2024-12-09T23:33:10.854418Z",
+  "market_startDate": "2024-12-01T06:03:50.466961Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:36:20+00",
+  "conditionId": "0x0e2277d8c413e8d2e4457ebf1d848e662081b85af190b176c8ac5c5c4ec0c426",
+  "slug": "nfl-no-nyg-2024-12-08",
+  "question": "Saints vs. Giants"
+}

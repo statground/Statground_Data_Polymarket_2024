@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511862",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-03T00:23:15.329582Z",
+  "market_createdAt": "2024-11-03T00:23:15.329582Z",
+  "market_updatedAt": "2024-12-03T18:01:10.984056Z",
+  "market_startDate": "2024-11-03T01:38:04.573214Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-02 23:29:32+00",
+  "conditionId": "0xbffd431f1d1e017664ad458c50fd52d0cae4a126f4d320ac62e76ca5a0ee3772",
+  "slug": "will-the-democratic-candidate-win-iowa-by-1-2pt0",
+  "question": "Will the Democratic candidate win Iowa by 1-2.0%? "
+}

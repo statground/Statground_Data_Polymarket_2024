@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506752",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T21:40:00.471408Z",
+  "market_createdAt": "2024-09-09T21:40:00.471408Z",
+  "market_updatedAt": "2024-10-08T23:10:50.379343Z",
+  "market_startDate": "2024-09-09T22:31:44.110757Z",
+  "market_endDate": "2024-10-07T12:00:00Z",
+  "market_closedTime": "2024-10-08 03:06:10+00",
+  "conditionId": "0x78c311c856fc22431bae03b2b3d3fa74f7d0c9f46552619367c92208a7797b52",
+  "slug": "will-joker-folie-deux-gross-less-than-105m-opening-weekend",
+  "question": "Will 'Joker: Folie à Deux' gross less than $105m opening weekend?"
+}

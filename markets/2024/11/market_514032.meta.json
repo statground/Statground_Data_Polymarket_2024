@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:45:02.992840Z",
+  "market_createdAt": "2024-11-25T22:45:02.99284Z",
+  "market_updatedAt": "2024-11-28T01:11:40.023088Z",
+  "market_startDate": "2024-11-25T23:34:11.984142Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:15:49+00",
+  "conditionId": "0x0bd2607021db3c4797a9d7d71b5c33fe6d3c5e4158fb629e1098ca35210cc553",
+  "slug": "will-arsenal-beat-sporting-cp",
+  "question": "Will Arsenal beat Sporting CP?"
+}

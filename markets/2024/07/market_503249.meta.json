@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503249",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T21:33:38.856556Z",
+  "market_createdAt": "2024-07-05T21:33:38.856556Z",
+  "market_updatedAt": "2024-07-15T03:52:48.736035Z",
+  "market_startDate": "2024-07-09T20:51:36.511Z",
+  "market_endDate": "2024-07-13T12:00:00Z",
+  "market_closedTime": "2024-07-14 05:56:26+00",
+  "conditionId": "0x922bc0ff6069a509c57b5c667a67d3da9d160ffe6acebc599c2b5397a38887b1",
+  "slug": "ufc-fight-night-dober-vs-silva",
+  "question": "UFC Fight Night: Dober vs. Silva"
+}

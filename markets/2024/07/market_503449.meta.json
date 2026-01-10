@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503449",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T20:18:52.438429Z",
+  "market_createdAt": "2024-07-12T20:18:52.438429Z",
+  "market_updatedAt": "2024-07-16T02:34:45.488831Z",
+  "market_startDate": "2024-07-12T21:37:51.785Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 03:25:31+00",
+  "conditionId": "0x5d0bcab06faf5769bcdf4d3a9d3fa67971840d755403ee056b04820b5b9b27a7",
+  "slug": "euro-finals-spain-vs-england-expected-goals-xg",
+  "question": "Euro Finals: Spain vs. England - expected goals (xG)"
+}

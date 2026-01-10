@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:35:39.011962Z",
+  "market_createdAt": "2024-11-15T21:35:39.011962Z",
+  "market_updatedAt": "2024-11-17T21:29:15.316521Z",
+  "market_startDate": "2024-11-15T23:03:40.994942Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-16 22:04:57+00",
+  "conditionId": "0xe0a64a99cf798905d9f384f100e4809f748fc348b0d24ee2226ab8f40b17656f",
+  "slug": "will-ukraine-beat-georgia-nov-16",
+  "question": "Will Ukraine beat Georgia?"
+}

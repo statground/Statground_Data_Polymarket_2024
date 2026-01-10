@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T19:20:56.084782Z",
+  "market_createdAt": "2024-10-29T19:20:56.084782Z",
+  "market_updatedAt": "2024-10-31T02:37:03.18603Z",
+  "market_startDate": "2024-10-29T20:06:28.204707Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 04:02:06+00",
+  "conditionId": "0xb20857848fabe44b05730738b623349bd82870e020b4b60365003f1311c97b7c",
+  "slug": "will-trump-say-border-5-or-more-times-during-hannity-interview",
+  "question": "Will Trump say \"Border\" 5 or more times during Hannity interview?"
+}

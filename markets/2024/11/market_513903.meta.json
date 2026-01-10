@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:53:34.938173Z",
+  "market_createdAt": "2024-11-24T18:53:34.938173Z",
+  "market_updatedAt": "2024-11-29T04:21:26.593019Z",
+  "market_startDate": "2024-11-24T18:56:32.30858Z",
+  "market_endDate": "2024-12-05T00:00:00Z",
+  "market_closedTime": "2024-11-28 04:37:48+00",
+  "conditionId": "0xa1d68a0e71d71d9e2af4e8c4072fd268d4d14e5e5c9bfbfabd88eaa83b9081a1",
+  "slug": "nba-atl-cle-2024-11-27",
+  "question": "Hawks vs. Cavaliers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514221",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:12:36.633405Z",
+  "market_createdAt": "2024-11-27T19:12:36.633405Z",
+  "market_updatedAt": "2024-12-05T15:55:35.622601Z",
+  "market_startDate": "2024-11-27T19:32:30.727086Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-04 16:24:42+00",
+  "conditionId": "0x2c4374db738725db50cb00049f4dd4e2aac99a4443da8acab341dbbe588ca588",
+  "slug": "will-taylor-swift-be-the-top-spotify-artist-for-2024",
+  "question": "Will Taylor Swift be the top Spotify artist for 2024?"
+}

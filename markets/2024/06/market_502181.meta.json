@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T19:25:12.287977Z",
+  "market_createdAt": "2024-06-06T19:25:12.287977Z",
+  "market_updatedAt": "2024-06-18T18:46:14.772773Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:34:46+00",
+  "conditionId": "0xa538515c2e000ea1392b7de90cd597bdf5dc268ba2c3dfaedabdb6f770eef8f8",
+  "slug": "5-games-in-celtics-v-mavs-series",
+  "question": "5 games in Celtics v. Mavs series?"
+}

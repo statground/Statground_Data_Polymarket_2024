@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T19:18:05.059464Z",
+  "market_createdAt": "2024-09-26T19:18:05.059464Z",
+  "market_updatedAt": "2024-09-30T00:42:36.783007Z",
+  "market_startDate": "2024-09-27T16:10:46.840435Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 01:24:06+00",
+  "conditionId": "0x275a54a90a88a65045e7d32da0ff6f2cd3580284f48e4d5c0e26b7e18edcfb96",
+  "slug": "will-notre-dame-beat-louisville",
+  "question": "Will Notre Dame beat Louisville?"
+}

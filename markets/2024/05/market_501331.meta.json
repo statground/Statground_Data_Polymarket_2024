@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T21:01:44.090625Z",
+  "market_createdAt": "2024-05-01T21:01:44.090625Z",
+  "market_updatedAt": "2024-05-07T23:09:22.878857Z",
+  "market_startDate": "2024-05-01T22:15:45.638Z",
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-05-06 17:49:34+00",
+  "conditionId": "0x57ea2e62a83f3b0135be759c17d9fcf4d6a7d036bea7cb393648f3ac059f1f21",
+  "slug": "no-commencement-cancelations-by-may-10",
+  "question": "No commencement cancelations by May 10?"
+}

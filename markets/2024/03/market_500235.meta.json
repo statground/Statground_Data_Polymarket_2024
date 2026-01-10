@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:05:41.746260Z",
+  "market_createdAt": "2024-03-18T15:05:41.74626Z",
+  "market_updatedAt": "2024-05-07T23:09:39.080289Z",
+  "market_startDate": "2024-03-18T18:57:41.247Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-29 04:53:25+00",
+  "conditionId": "0x03dd2d0e62db6d77ac872f29798aec9f5bc75b89074018b457bafd6afb6f2cf3",
+  "slug": "will-san-diego-st-win-the-ncaa-tournament",
+  "question": "Will San Diego St. win the NCAA tournament?"
+}

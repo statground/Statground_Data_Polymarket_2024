@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T02:09:04.436961Z",
+  "market_createdAt": "2024-06-10T02:09:04.436961Z",
+  "market_updatedAt": "2024-06-14T04:21:10.404538Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-13 06:15:09+00",
+  "conditionId": "0x6a6be51d58c03b6ff92f609487fd79c1e4a70bdb0646e413fc9575cdf308a8ef",
+  "slug": "west-indies-vs-new-zealand-cricket-t20-world-cup",
+  "question": "West Indies vs. New Zealand - Cricket T20 World Cup"
+}

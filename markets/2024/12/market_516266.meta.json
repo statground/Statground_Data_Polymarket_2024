@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:02:18.340685Z",
+  "market_createdAt": "2024-12-22T07:02:18.340685Z",
+  "market_updatedAt": "2024-12-25T04:23:34.559814Z",
+  "market_startDate": "2024-12-22T07:05:16.445129Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:48:55+00",
+  "conditionId": "0x5e826c885d4a73ca2bc15de4f3ffcb0c1ca4cf6f303f72d98a50800cb50123fe",
+  "slug": "nhl-stl-det-2024-12-23",
+  "question": "Blues vs. Red Wings"
+}

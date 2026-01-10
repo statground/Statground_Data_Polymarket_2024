@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:19:32.487226Z",
+  "market_createdAt": "2024-11-08T23:19:32.487226Z",
+  "market_updatedAt": "2024-11-11T18:02:55.552164Z",
+  "market_startDate": "2024-11-09T02:56:38.876943Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:21:46+00",
+  "conditionId": "0xb831af1664cf5f8d0bc463d35616846b3f93e432a455e4fcfe9e9e78074a0e00",
+  "slug": "will-the-bills-beat-the-colts-by-4-or-more-points",
+  "question": "Will the Bills beat the Colts by 4 or more points?"
+}

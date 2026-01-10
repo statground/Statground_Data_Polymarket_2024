@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502945",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T16:30:50.793565Z",
+  "market_createdAt": "2024-06-27T16:30:50.793565Z",
+  "market_updatedAt": "2024-06-29T07:51:02.810848Z",
+  "market_startDate": "2024-06-27T20:27:22.595Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 08:02:31+00",
+  "conditionId": "0x708a26778f8e26dfc821adf0ab85dc482bf85753a7900ccbcb233edca0b8e818",
+  "slug": "will-biden-get-a-name-wrong-during-the-debate",
+  "question": "Will Biden get a name wrong during the debate?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T20:00:07.397858Z",
+  "market_createdAt": "2024-07-12T20:00:07.397858Z",
+  "market_updatedAt": "2024-07-15T20:56:51.169147Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:32:17+00",
+  "conditionId": "0x6a204878bcde93c19faf2c7286e35c69c1d148f62f28c25c4a57981e8e5cd244",
+  "slug": "will-spain-win-in-extra-time",
+  "question": "Will Spain win in extra time?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501028",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-17T18:50:08.598402Z",
+  "market_createdAt": "2024-04-17T18:50:08.598402Z",
+  "market_updatedAt": "2024-06-02T05:41:17.996445Z",
+  "market_startDate": "2024-04-17T18:52:54.814Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:25:31+00",
+  "conditionId": "0x77e56581cc6be364e9a1a5d9237600a2b98270c5ea0b58c231d985c3b2e9eff5",
+  "slug": "x-relaunches-vine-before-june",
+  "question": "X relaunches Vine before June?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:30:26.778936Z",
+  "market_createdAt": "2024-12-16T16:30:26.778936Z",
+  "market_updatedAt": "2024-12-17T06:32:48.328403Z",
+  "market_startDate": "2024-12-16T23:33:00.617978Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 06:29:51+00",
+  "conditionId": "0xa60bd00cc6debd360f0e68661b2215dd3e8a962840c17faf6f464e5b9b9c39f0",
+  "slug": "will-the-falcons-and-raiders-combine-for-45-or-more-points",
+  "question": "Will the Falcons and Raiders combine for 45 or more points?"
+}

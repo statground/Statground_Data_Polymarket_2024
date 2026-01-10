@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T15:57:24.339856Z",
+  "market_createdAt": "2024-10-21T15:57:24.339856Z",
+  "market_updatedAt": "2024-10-28T13:56:53.938772Z",
+  "market_startDate": "2024-10-21T18:48:42.270226Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-27 19:44:10+00",
+  "conditionId": "0x7ab144b7bacf15c2dd3514d8121bab2006bbd08f8b8e2ace1c30b5308e954f0e",
+  "slug": "will-the-yankees-win-the-world-series-4-1",
+  "question": "Will the Yankees win the World Series 4-1?"
+}

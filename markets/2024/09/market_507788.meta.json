@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:18:20.380035Z",
+  "market_createdAt": "2024-09-23T20:18:20.380035Z",
+  "market_updatedAt": "2024-09-29T21:22:40.363868Z",
+  "market_startDate": "2024-09-23T23:57:33.272506Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 21:36:24+00",
+  "conditionId": "0xac955bd7d224399bb49a8d6b0811cdfff48a7e66cb4d5856d842e7b874ba46a5",
+  "slug": "will-liverpool-beat-wolves",
+  "question": "Will Liverpool beat Wolves?"
+}

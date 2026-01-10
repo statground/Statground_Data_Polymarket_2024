@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T14:05:24.947226Z",
+  "market_createdAt": "2024-09-03T14:05:24.947226Z",
+  "market_updatedAt": "2024-09-04T18:01:07.918909Z",
+  "market_startDate": "2024-09-03T15:05:43.9023Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 19:42:27+00",
+  "conditionId": "0x78bd1f3eaf69219f9bb89fe58c3a571ca8520b8c9fc51c42a3af248b2fa78b58",
+  "slug": "us-open-navarro-vs-badosa",
+  "question": "US Open: Navarro vs. Badosa"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500566",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-29T19:16:31.208536Z",
+  "market_createdAt": "2024-03-29T19:16:31.208536Z",
+  "market_updatedAt": "2024-05-07T23:10:05.63773Z",
+  "market_startDate": "2024-04-02T17:55:31.299Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:15:03+00",
+  "conditionId": "0x0bc82c5a7617321fe36dd7ea9f6c61ec5d15234a8978f21376177731b48c8fae",
+  "slug": "will-bitcoin-reach-80000-in-april",
+  "question": "Will Bitcoin reach $80,000 in April?"
+}

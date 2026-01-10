@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:00:56.352623Z",
+  "market_createdAt": "2024-12-01T06:00:56.352623Z",
+  "market_updatedAt": "2024-12-09T23:51:19.901648Z",
+  "market_startDate": "2024-12-01T06:04:16.591153Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 23:46:48+00",
+  "conditionId": "0x41c84034f8e5f053905f6dbe87d0d923792839aecc2d18d872a872e1dc96b46b",
+  "slug": "nfl-nyj-mia-2024-12-08",
+  "question": "Jets vs. Dolphins"
+}

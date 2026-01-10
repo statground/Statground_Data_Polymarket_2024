@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:36:34.978470Z",
+  "market_createdAt": "2024-08-27T19:36:34.97847Z",
+  "market_updatedAt": "2024-08-31T13:01:13.298143Z",
+  "market_startDate": "2024-08-27T20:22:30.094Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-30 13:57:08+00",
+  "conditionId": "0x2afc5b651801d1205a4f8558ca8d140c1fdca15735b61c05f0ddc59776b496c6",
+  "slug": "will-kamala-harris-give-an-interview-by-aug-31",
+  "question": "Will Kamala Harris give an interview by Aug 31?"
+}

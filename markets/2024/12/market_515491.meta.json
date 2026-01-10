@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515491",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T17:22:16.526323Z",
+  "market_createdAt": "2024-12-12T17:22:16.526323Z",
+  "market_updatedAt": "2024-12-14T03:55:12.026683Z",
+  "market_startDate": "2024-12-12T19:24:28.236662Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 06:15:44+00",
+  "conditionId": "0x49c6b76dabcbf4a84e2c429bf5849a6115273c4143743a953cd83ca4e4613acf",
+  "slug": "will-the-49ers-beat-the-rams-by-3-or-more-points",
+  "question": "Will the 49ers beat the Rams by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T20:40:20.564178Z",
+  "market_createdAt": "2024-05-14T20:40:20.564178Z",
+  "market_updatedAt": "2024-05-20T02:06:42.576241Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-20 02:03:32+00",
+  "conditionId": "0x3aebe0ec28577d8a47b7d2c7f976e813e2d474b9262b5577880a24de4d6850ea",
+  "slug": "will-xander-schauffele-win-the-2024-pga-championship",
+  "question": "Will Xander Schauffele win the 2024 PGA Championship?"
+}

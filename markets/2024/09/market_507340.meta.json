@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507340",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:15:25.415145Z",
+  "market_createdAt": "2024-09-17T19:15:25.415145Z",
+  "market_updatedAt": "2024-09-20T23:00:51.630493Z",
+  "market_startDate": "2024-09-17T22:19:17.377257Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:13:44+00",
+  "conditionId": "0x18ad373cd3bb293289c9991c63f761ff3a225696c53f84de6601be99a0809f65",
+  "slug": "will-atletico-madrid-beat-rb-leipzig",
+  "question": "Will Atletico Madrid beat RB Leipzig?"
+}

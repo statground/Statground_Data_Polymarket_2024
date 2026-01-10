@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:47:49.431812Z",
+  "market_createdAt": "2024-08-29T19:47:49.431812Z",
+  "market_updatedAt": "2025-02-08T08:03:03.00205Z",
+  "market_startDate": "2024-08-29T21:28:55.385Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-02-07 07:59:21+00",
+  "conditionId": "0x1329a399b6534cb77323e496fd2dc9e247f2a8946df86a03284581d87869018f",
+  "slug": "will-josh-allen-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Josh Allen win NFL MVP for the 2024-25 season?"
+}

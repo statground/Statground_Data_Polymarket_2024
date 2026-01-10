@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-21T21:05:54.907104Z",
+  "market_createdAt": "2024-07-21T21:05:54.907104Z",
+  "market_updatedAt": "2024-09-12T05:01:07.532984Z",
+  "market_startDate": "2024-07-26T19:12:06.456Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:37:54+00",
+  "conditionId": "0x29b319d3719e9c4f6631bb95a31a81b6e860803fbfeffaa250b605804fe464cc",
+  "slug": "trump-x-kamala-debate-before-election",
+  "question": "Will Trump and Harris debate before election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T18:54:46.805040Z",
+  "market_createdAt": "2024-09-09T18:54:46.80504Z",
+  "market_updatedAt": "2024-09-16T19:12:39.182158Z",
+  "market_startDate": "2024-09-09T20:14:15.816281Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-15 20:35:15+00",
+  "conditionId": "0xac830a5b49163741eb5e64d5e0152bbb5fd6c185de92c4252c17cabd0ec6ece2",
+  "slug": "will-newcastle-beat-wolverhampton",
+  "question": "Will Newcastle beat Wolverhampton?"
+}

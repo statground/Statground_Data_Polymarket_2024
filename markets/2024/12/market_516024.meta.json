@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516024",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T20:52:38.612418Z",
+  "market_createdAt": "2024-12-18T20:52:38.612418Z",
+  "market_updatedAt": "2024-12-22T19:47:45.938593Z",
+  "market_startDate": "2024-12-20T00:25:30.096821Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 22:42:42+00",
+  "conditionId": "0x0f142523513ed2d65a17d73fb08fec2b07bfc3e35d6fc948fd4f7aa2376d3cb1",
+  "slug": "will-smu-make-the-cfp-national-championship-game",
+  "question": "Will SMU make the CFP National Championship Game?"
+}

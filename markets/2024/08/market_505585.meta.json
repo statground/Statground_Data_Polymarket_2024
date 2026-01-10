@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T20:31:45.194288Z",
+  "market_createdAt": "2024-08-21T20:31:45.194288Z",
+  "market_updatedAt": "2024-08-24T20:41:04.041751Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-23 20:59:11+00",
+  "conditionId": "0x61ad83b216f89a724291e8c308f38d26015d41a81ff1823cd4d7c6afebcc5eb1",
+  "slug": "will-rfk-jr-say-kamala-or-harris-during-friday-address",
+  "question": "Will RFK Jr. say \"Kamala\" or \"Harris\" during Friday address?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255290",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:28:22.364000Z",
+  "market_createdAt": "2024-03-05T05:28:22.364Z",
+  "market_updatedAt": "2024-04-26T02:55:45.758092Z",
+  "market_startDate": "2024-03-05T06:03:48.774Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 06:32:42+00",
+  "conditionId": "0x631fe6ab2c3ad55d40ed4e7b74416482fb0512f41571cf377e79f9bd789cffc4",
+  "slug": "will-trump-win-north-carolina-republican-primary",
+  "question": "Will Trump win North Carolina Republican Primary?"
+}

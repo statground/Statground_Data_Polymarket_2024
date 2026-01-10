@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509129",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T21:27:59.028339Z",
+  "market_createdAt": "2024-10-07T21:27:59.028339Z",
+  "market_updatedAt": "2024-11-30T23:45:13.668347Z",
+  "market_startDate": "2024-10-08T16:52:49.359962Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-30 04:03:54+00",
+  "conditionId": "0x9270a3d66cba8579c13960c2217d25bc791ad794660879abde6eb666ae9d14b9",
+  "slug": "will-the-republican-candidate-win-arizona-by-2pt0-3pt0",
+  "question": "Will the Republican candidate win Arizona by 2.0%-3.0%?"
+}

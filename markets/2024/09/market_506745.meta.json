@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:34:49.183167Z",
+  "market_createdAt": "2024-09-09T19:34:49.183167Z",
+  "market_updatedAt": "2025-02-27T17:15:02.571954Z",
+  "market_startDate": "2024-09-09T21:05:05.268692Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-02-27 03:13:11+00",
+  "conditionId": "0xab608570086569af43cff6c998de1de6859af5261d6c3b1003d1ffa3f91a7e8a",
+  "slug": "west-ham-united-wins-the-premier-league",
+  "question": "West Ham United wins the Premier League?"
+}

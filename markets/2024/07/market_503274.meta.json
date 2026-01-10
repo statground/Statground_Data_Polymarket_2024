@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:22:48.810972Z",
+  "market_createdAt": "2024-07-08T16:22:48.810972Z",
+  "market_updatedAt": "2024-07-15T21:10:52.576943Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:46:56+00",
+  "conditionId": "0xc1004a9860d275e14e9d89bc62ffb3dbbb627f87fb7f2032ccf2b33f4ed34c93",
+  "slug": "will-dani-olmo-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Dani Olmo be Player of the Tournament for Euro 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253616",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-06T02:35:26.146000Z",
+  "market_createdAt": "2024-01-06T02:35:26.146Z",
+  "market_updatedAt": "2024-04-26T03:04:33.021965Z",
+  "market_startDate": "2024-01-06T09:11:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-01-29 02:31:51+00",
+  "conditionId": "0x769747175187e9599c58629aec4d0fb9f9593254dda5adcd288fd78efe1c37d0",
+  "slug": "will-the-baltimore-ravens-win-super-bowl-lviii",
+  "question": "Will the Baltimore Ravens win Super Bowl LVIII?"
+}

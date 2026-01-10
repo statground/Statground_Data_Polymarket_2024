@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-08T17:04:03.956000Z",
+  "market_createdAt": "2024-02-08T17:04:03.956Z",
+  "market_updatedAt": "2024-05-07T23:09:50.96899Z",
+  "market_startDate": "2024-02-08T20:27:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2024-04-10 15:22:22+00",
+  "conditionId": "0xeadb65c5fe7716c449a6a224bd19ed3a6514b5762a0a82fe4f0fed151afc98cc",
+  "slug": "wormhole-token-fdv-less-than-4-billion-a-week-after-airdrop",
+  "question": "Wormhole token FDV less than 4 billion a week after airdrop?"
+}

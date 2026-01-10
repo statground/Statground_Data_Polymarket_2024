@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T20:19:22.175000Z",
+  "market_createdAt": "2024-01-10T20:19:22.175Z",
+  "market_updatedAt": "2024-01-18T03:17:17.499Z",
+  "market_startDate": "2024-01-10T21:55:01.337Z",
+  "market_endDate": "2024-01-16T00:00:00Z",
+  "market_closedTime": "2024-01-17 09:45:23+00",
+  "conditionId": "0x10a059584aab30e7efb29f5bfb4d0348d0b0855603e448c4dbc7d1ef541727f9",
+  "slug": "will-musk-tweet-more-than-525-times-between-jan-10-16",
+  "question": "Will Musk tweet more than 525 times between Jan 10-16?"
+}

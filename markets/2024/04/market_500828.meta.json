@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500828",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T15:26:29.293316Z",
+  "market_createdAt": "2024-04-09T15:26:29.293316Z",
+  "market_updatedAt": "2024-06-17T02:26:16.48189Z",
+  "market_startDate": "2024-04-10T22:46:29.568Z",
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:42:27+00",
+  "conditionId": "0xdffa126ac2741148ffb7491ced35fdbac077d1e90087153b65a888943c28b9ab",
+  "slug": "will-the-nda-win-by-10-15",
+  "question": "Will the NDA win by 10%-15%?"
+}

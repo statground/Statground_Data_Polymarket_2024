@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515579",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:27:56.379542Z",
+  "market_createdAt": "2024-12-13T19:27:56.379542Z",
+  "market_updatedAt": "2024-12-18T04:07:19.491295Z",
+  "market_startDate": "2024-12-13T19:30:25.68853Z",
+  "market_endDate": "2024-12-24T00:00:00Z",
+  "market_closedTime": "2024-12-17 04:43:44+00",
+  "conditionId": "0x17d6cbaee112a1d166a92cc0724424976c5230cd392111531f8b1e1d355e0a45",
+  "slug": "nba-phi-cha-2024-12-16",
+  "question": "76ers vs. Hornets"
+}

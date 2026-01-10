@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253906",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T19:34:00.494000Z",
+  "market_createdAt": "2024-01-16T19:34:00.494Z",
+  "market_updatedAt": "2024-01-22T02:53:28.216Z",
+  "market_startDate": "2024-01-18T00:58:09.199Z",
+  "market_endDate": "2024-01-19T00:00:00Z",
+  "market_closedTime": "2024-01-21 07:02:08+00",
+  "conditionId": "0x75fcd875928ea7d34b8922bc5ad597b5c32acea0ec200d4582eaf2c6653f3458",
+  "slug": "ufc-297-who-will-win-magny-or-malott",
+  "question": "UFC 297: Who will win - Magny or Malott?"
+}

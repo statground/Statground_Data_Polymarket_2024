@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T00:02:40.160464Z",
+  "market_createdAt": "2024-11-19T00:02:40.160464Z",
+  "market_updatedAt": "2025-02-03T09:53:36.274552Z",
+  "market_startDate": "2024-11-19T21:02:43.530227Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-02-03 01:09:35+00",
+  "conditionId": "0x071dcefecd7ffef5061776eedeeebeda0e73ddd59b279c5f175e6f05eca1501e",
+  "slug": "will-rahm-emanuel-be-the-next-dnc-chair",
+  "question": "Will Rahm Emanuel be the next DNC chair?"
+}

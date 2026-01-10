@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:41:14.353792Z",
+  "market_createdAt": "2024-11-27T19:41:14.353792Z",
+  "market_updatedAt": "2024-11-29T19:47:32.806415Z",
+  "market_startDate": "2024-11-27T20:52:16.122948Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:07:21+00",
+  "conditionId": "0x24c2ac581e2bc29d9b188f6cbb67d9ace385a20288be42a0e240a5cdd001968b",
+  "slug": "will-the-lions-and-bears-combine-for-49-or-more-points",
+  "question": "Will the Lions and Bears combine for 49 or more points?"
+}

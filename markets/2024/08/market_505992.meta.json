@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:59:57.842065Z",
+  "market_createdAt": "2024-08-28T18:59:57.842065Z",
+  "market_updatedAt": "2024-09-02T13:27:10.333631Z",
+  "market_startDate": "2024-08-28T18:59:57.842065Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:07+00",
+  "conditionId": "0xe2ca13ff2e111d5aba45d312ba6bc3d503c317400b79ce69c5edb1f283f148aa",
+  "slug": "will-sergio-perez-win-the-italian-grand-prix",
+  "question": "Will Sergio Perez win the Italian Grand Prix?"
+}

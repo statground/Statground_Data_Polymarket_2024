@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:02:13.319291Z",
+  "market_createdAt": "2024-11-24T05:02:13.319291Z",
+  "market_updatedAt": "2024-12-01T00:55:18.768224Z",
+  "market_startDate": "2024-11-24T05:04:51.973738Z",
+  "market_endDate": "2024-12-06T20:30:00Z",
+  "market_closedTime": "2024-11-30 02:28:43+00",
+  "conditionId": "0x098acebab474c23e1608f971a0a2c8a35445612ef6f99454b92bc055b20a03f4",
+  "slug": "cfb-utst-csu-2024-11-29",
+  "question": "Utah State vs. Colorado State"
+}

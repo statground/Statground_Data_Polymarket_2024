@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-19T19:04:07.688174Z",
+  "market_createdAt": "2024-10-19T19:04:07.688174Z",
+  "market_updatedAt": "2024-10-22T06:51:26.865483Z",
+  "market_startDate": "2024-10-19T20:16:11.006699Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 06:49:39+00",
+  "conditionId": "0x48d7eba4a09e5413d004e59d94adb04aeb6446389593c6d36dd224030446299f",
+  "slug": "nlcs-dodgers-vs-mets-game-6",
+  "question": "NLCS: Dodgers vs. Mets Game 6"
+}

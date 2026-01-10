@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T17:28:18.584327Z",
+  "market_createdAt": "2024-05-09T17:28:18.584327Z",
+  "market_updatedAt": "2024-06-16T20:31:15.67541Z",
+  "market_startDate": "2024-05-13T22:15:18.827Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-16 05:31:45+00",
+  "conditionId": "0x5ca3820a8112c800bc62469652aa7e24bb577a4649906257a2c833ef023ea24f",
+  "slug": "will-another-party-win-the-most-seats-in-european-parliament",
+  "question": "Will another party win the most seats in European Parliament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:16:25.355867Z",
+  "market_createdAt": "2024-11-05T22:16:25.355867Z",
+  "market_updatedAt": "2024-11-08T23:47:07.333981Z",
+  "market_startDate": "2024-11-05T22:49:45.954282Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 02:04:35+00",
+  "conditionId": "0x36de03f6e55ea3f1686d7f7ef7cd6c70a84717a9985901ff61a815d35f5f5fbd",
+  "slug": "will-kamala-harris-concede-by-midnight",
+  "question": "Will Kamala Harris concede by midnight? "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516984",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:38:46.034249Z",
+  "market_createdAt": "2024-12-31T20:38:46.034249Z",
+  "market_updatedAt": "2025-07-02T00:26:25.893696Z",
+  "market_startDate": "2024-12-31T20:51:06.308Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-06-30 19:20:22+00",
+  "conditionId": "0x3642c7a7c9ac737ee35be2ffa14c0f91a928b22544219576a020ba72d4ac8d22",
+  "slug": "will-alibaba-have-the-top-ai-model-on-june-30",
+  "question": "Will Alibaba have the top AI model on June 30?"
+}

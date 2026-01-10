@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T14:58:02.303548Z",
+  "market_createdAt": "2024-11-01T14:58:02.303548Z",
+  "market_updatedAt": "2024-11-08T09:43:02.473608Z",
+  "market_startDate": "2024-11-01T16:01:09.61678Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 11:07:30+00",
+  "conditionId": "0x4c6f44c3b06b2f0b1aa17d11c9577ae8e0ce5935def30fd829a52f76067bd570",
+  "slug": "will-youtube-take-down-steven-crowders-election-livestream",
+  "question": "Will YouTube take down Steven Crowder’s election livestream?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506454",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T01:42:52.941187Z",
+  "market_createdAt": "2024-09-05T01:42:52.941187Z",
+  "market_updatedAt": "2024-09-09T22:27:10.218031Z",
+  "market_startDate": "2024-09-05T02:46:25.131Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:19:32+00",
+  "conditionId": "0x05f3f2d1d6dbc59cc61a6b2a8976a1a635ac496c5101fd38af801560c6ab5638",
+  "slug": "cant-lose-parlay-nfl-week-1",
+  "question": "Polymarket Parlay - NFL Week 1"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:53:26.443433Z",
+  "market_createdAt": "2024-11-21T17:53:26.443433Z",
+  "market_updatedAt": "2024-11-23T03:12:52.634573Z",
+  "market_startDate": "2024-11-21T18:30:36.227Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:10:11+00",
+  "conditionId": "0x7200a0ea555a40f153c3c7298c22f910b943f1af730a6038b3c2c9a51ae3b24a",
+  "slug": "will-trump-pick-ted-cruz-for-attorney-general",
+  "question": "Will Trump pick Ted Cruz for Attorney General?"
+}

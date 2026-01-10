@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514358",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T05:00:45.080263Z",
+  "market_createdAt": "2024-12-02T05:00:45.080263Z",
+  "market_updatedAt": "2024-12-08T21:49:37.024632Z",
+  "market_startDate": "2024-12-02T05:04:06.945352Z",
+  "market_endDate": "2024-12-14T17:00:00Z",
+  "market_closedTime": "2024-12-07 22:19:39+00",
+  "conditionId": "0x4e0f6d3d6ae3dbcdb037119c79de53bb6ec17b18bbb771e9b213320549bd55db",
+  "slug": "cfb-ohio-moh-2024-12-07",
+  "question": "Ohio vs. Miami (OH)"
+}

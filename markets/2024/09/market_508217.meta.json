@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508217",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T17:29:50.848661Z",
+  "market_createdAt": "2024-09-26T17:29:50.848661Z",
+  "market_updatedAt": "2024-09-29T23:00:40.987038Z",
+  "market_startDate": "2024-09-26T19:56:45.721621Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 23:03:50+00",
+  "conditionId": "0xcf0b3d0fb65e25d1840293cdf4e7bbf1f54b678da5287e166c64cfddcff4e018",
+  "slug": "will-trump-say-zelensky-during-his-wisconsin-speech",
+  "question": "Will Trump say \"Zelensky\" during his Wisconsin speech?"
+}

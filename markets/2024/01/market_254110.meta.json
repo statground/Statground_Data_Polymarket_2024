@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T19:24:41.917000Z",
+  "market_createdAt": "2024-01-25T19:24:41.917Z",
+  "market_updatedAt": "2024-03-12T00:02:07.65Z",
+  "market_startDate": "2024-01-25T20:48:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 03:15:37+00",
+  "conditionId": "0x65ff0b584a32e747f9be0edc40c15dd034a7c83619a9fd591e9ba609b8afa9bc",
+  "slug": "will-poor-things-win-the-oscar-for-best-adapted-screenplay",
+  "question": "Will Poor Things win the Oscar for Best Adapted Screenplay?"
+}

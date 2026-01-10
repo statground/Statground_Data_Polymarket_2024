@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:42:36.715971Z",
+  "market_createdAt": "2024-12-10T22:42:36.715971Z",
+  "market_updatedAt": "2024-12-13T23:25:20.568321Z",
+  "market_startDate": "2024-12-11T23:14:17.704381Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:19:05+00",
+  "conditionId": "0x7cdc96bfbb1900523ae3b10775122dc1f77f26f20f10da0d3adf955b7d9c219a",
+  "slug": "will-the-match-between-slavia-praha-and-anderlecht-end-in-a-draw",
+  "question": "Will the match between Slavia Praha and Anderlecht end in a draw?"
+}

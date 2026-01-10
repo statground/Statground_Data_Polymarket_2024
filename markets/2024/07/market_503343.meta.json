@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:10:59.669052Z",
+  "market_createdAt": "2024-07-10T16:10:59.669052Z",
+  "market_updatedAt": "2024-08-12T17:46:58.991178Z",
+  "market_startDate": "2024-07-11T18:56:56.573Z",
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:09:54+00",
+  "conditionId": "0x9c32923cf10b28ea77a369aff3b1e30b92cf6e6ada02c5563651abe0b24dd959",
+  "slug": "great-britain-wins-the-most-gold-medals-in-2024-paris-olympics",
+  "question": "Great Britain wins the most gold medals in 2024 Paris Olympics?"
+}

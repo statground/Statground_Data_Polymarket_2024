@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T18:26:04.595857Z",
+  "market_createdAt": "2024-11-15T18:26:04.595857Z",
+  "market_updatedAt": "2024-11-23T19:08:45.578117Z",
+  "market_startDate": "2024-11-15T18:44:26.625715Z",
+  "market_endDate": "2024-11-22T12:00:00Z",
+  "market_closedTime": "2024-11-22 19:13:28+00",
+  "conditionId": "0x3d68c893b43c24d3d4e5f0b8f64204d94a37745589a41544555a74412936153c",
+  "slug": "bitcoin-above-90000-on-november-22",
+  "question": "Bitcoin above $90,000 on November 22?"
+}

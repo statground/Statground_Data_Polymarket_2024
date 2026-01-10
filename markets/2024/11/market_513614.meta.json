@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:11:55.505030Z",
+  "market_createdAt": "2024-11-21T17:11:55.50503Z",
+  "market_updatedAt": "2024-11-26T18:56:25.312845Z",
+  "market_startDate": "2024-11-21T19:00:13.11433Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-25 19:06:39+00",
+  "conditionId": "0xac9897a9affad9928b702818f4979e9c24e4f688b6eda1427824882cdc21b1be",
+  "slug": "coinbase-top-25-app-on-monday",
+  "question": "Coinbase top 25 app on Monday?"
+}

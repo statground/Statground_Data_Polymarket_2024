@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:51:31.162632Z",
+  "market_createdAt": "2024-10-28T20:51:31.162632Z",
+  "market_updatedAt": "2024-11-02T02:27:07.794839Z",
+  "market_startDate": "2024-10-28T23:28:14.651063Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 02:24:40+00",
+  "conditionId": "0x5862e914eff2e25e69e817758c5f318fd4ddd8c761b0a193d3953c2d429a14c5",
+  "slug": "will-trump-say-iq-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"IQ\" during Nevada rally on Oct 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511357",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T20:21:45.437925Z",
+  "market_createdAt": "2024-10-29T20:21:45.437925Z",
+  "market_updatedAt": "2024-12-18T13:35:20.275423Z",
+  "market_startDate": "2024-10-29T22:04:45.282239Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:36:42+00",
+  "conditionId": "0x46f808f72183b93d6fc32a519b02a6ac87f2478d51615d099af8e1ba4b5f6902",
+  "slug": "will-trump-get-66-68m-votes-in-the-2024-us-presidential-election",
+  "question": "Will Trump get 66-68m votes in the 2024 U.S. Presidential Election?"
+}

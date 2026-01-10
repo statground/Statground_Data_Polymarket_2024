@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500308",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T15:30:14.573079Z",
+  "market_createdAt": "2024-03-19T15:30:14.573079Z",
+  "market_updatedAt": "2025-01-02T05:03:10.546689Z",
+  "market_startDate": "2024-03-19T18:56:26.469Z",
+  "market_endDate": "2024-12-31T05:00:00Z",
+  "market_closedTime": "2025-01-01 09:52:36+00",
+  "conditionId": "0xf404052387b0612112823ad31ca9572150cce046590c61b6c98792eb7b264ed1",
+  "slug": "henry-cavill-announced-as-next-james-bond",
+  "question": "Henry Cavill announced as next James Bond?"
+}

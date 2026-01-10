@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512853",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T17:59:16.421513Z",
+  "market_createdAt": "2024-11-12T17:59:16.421513Z",
+  "market_updatedAt": "2024-11-26T20:37:53.581531Z",
+  "market_startDate": "2024-11-12T19:49:36.096929Z",
+  "market_endDate": "2024-11-22T12:00:00Z",
+  "market_closedTime": "2024-11-25 23:51:43+00",
+  "conditionId": "0x546aefea4b12e037e742d97313c6eeb0a3fad8641fa7d3af7a843d661eff62e2",
+  "slug": "will-gladiator-ii-gross-between-53-60m-on-opening-weekend",
+  "question": "Will Gladiator II gross between $53-60m on opening weekend?"
+}

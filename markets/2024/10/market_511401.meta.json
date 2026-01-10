@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:58:48.412966Z",
+  "market_createdAt": "2024-10-29T22:58:48.412966Z",
+  "market_updatedAt": "2024-11-07T21:09:09.220943Z",
+  "market_startDate": "2024-10-30T01:12:44.355Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:54:42+00",
+  "conditionId": "0x7b96ae99e329a4928cf0dff9ec6bff9b451f46652cfbf8a976681dd96f607c57",
+  "slug": "kamala-swing-state-sweep-319-evs",
+  "question": "Kamala wins 319-219 - swing state sweep "
+}

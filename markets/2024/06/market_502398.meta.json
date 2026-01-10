@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T20:39:25.082762Z",
+  "market_createdAt": "2024-06-12T20:39:25.082762Z",
+  "market_updatedAt": "2024-06-23T03:41:07.481761Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-22 06:13:52+00",
+  "conditionId": "0xc1292fccb97a6ef81e6adebe65bb43eb619560322197f28f1c105474903f4abb",
+  "slug": "will-daddy-hit-1b-fdv-by-next-friday",
+  "question": "Will $DADDY hit $1b FDV by next Friday?"
+}

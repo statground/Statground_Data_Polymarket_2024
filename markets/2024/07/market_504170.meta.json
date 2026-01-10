@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:49:21.567680Z",
+  "market_createdAt": "2024-07-25T18:49:21.56768Z",
+  "market_updatedAt": "2024-07-31T21:13:02.289171Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:30:17+00",
+  "conditionId": "0x1c1b20e92ebeeab37e9d4d1579ff090195c717a4e67481489ab7bf63557f0ca6",
+  "slug": "will-another-athlete-win-gold-in-mens-800m-freestyle",
+  "question": "Will another athlete win Gold in Men's 800m Freestyle?"
+}

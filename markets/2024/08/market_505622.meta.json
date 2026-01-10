@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T15:10:42.584724Z",
+  "market_createdAt": "2024-08-22T15:10:42.584724Z",
+  "market_updatedAt": "2024-08-24T02:10:59.853262Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 04:32:56+00",
+  "conditionId": "0xcdda9c4a02ccc0d0c3d396661520892cde089225e8f6cc9b1c0dba3f214df13a",
+  "slug": "will-gretchen-whitmer-say-gay-in-dnc-speech",
+  "question": "Will Gretchen Whitmer say \"Gay\" in DNC speech?"
+}

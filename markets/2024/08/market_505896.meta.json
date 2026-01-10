@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505896",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:40:23.831187Z",
+  "market_createdAt": "2024-08-27T15:40:23.831187Z",
+  "market_updatedAt": "2025-01-01T20:57:28.68522Z",
+  "market_startDate": "2024-08-27T15:40:23.831187Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:22:48+00",
+  "conditionId": "0xc2704cedf3f9353343a5735c17ed9220d1b39b99186bed58afef4724a1ef2a9a",
+  "slug": "macron-out-as-president-in-2024",
+  "question": "Macron out as president of France in 2024?"
+}

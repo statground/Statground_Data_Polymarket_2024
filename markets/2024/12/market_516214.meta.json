@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:06:15.667304Z",
+  "market_createdAt": "2024-12-22T05:06:15.667304Z",
+  "market_updatedAt": "2024-12-28T04:21:06.756567Z",
+  "market_startDate": "2024-12-22T05:08:56.053105Z",
+  "market_endDate": "2025-01-03T00:00:00Z",
+  "market_closedTime": "2024-12-27 04:35:25+00",
+  "conditionId": "0x0401f2266d4838feeaf1516bfaf2ab231d98b14c531281b819beeebf90f8837a",
+  "slug": "nba-okc-ind-2024-12-26",
+  "question": "Thunder vs. Pacers"
+}

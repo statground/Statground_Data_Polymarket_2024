@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503487",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T16:01:40.548834Z",
+  "market_createdAt": "2024-07-15T16:01:40.548834Z",
+  "market_updatedAt": "2024-07-18T08:22:44.649474Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-17 09:04:52+00",
+  "conditionId": "0xded0fb018fb472edafaed536020a7b9b9685d59d7fabe8a81afefacbb534c807",
+  "slug": "will-jason-sagle-win-the-wsop-main-event",
+  "question": "Will Jason Sagle win the WSOP main event?"
+}

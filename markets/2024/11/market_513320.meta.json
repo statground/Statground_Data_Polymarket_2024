@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513320",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:01:50.475169Z",
+  "market_createdAt": "2024-11-18T05:01:50.475169Z",
+  "market_updatedAt": "2024-11-25T23:25:44.623018Z",
+  "market_startDate": "2024-11-18T05:04:21.06671Z",
+  "market_endDate": "2024-12-01T18:00:00Z",
+  "market_closedTime": "2024-11-24 23:20:54+00",
+  "conditionId": "0xc5ec4e44e865f2954b85552f961e709858e687ac0eb4bfc5c4b71fb86782a7a7",
+  "slug": "nfl-kc-car-2024-11-24",
+  "question": "Chiefs vs. Panthers"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:00:55.827000Z",
+  "market_createdAt": "2024-03-01T18:00:55.827Z",
+  "market_updatedAt": "2024-11-07T10:09:07.206748Z",
+  "market_startDate": "2024-03-19T21:26:17.68Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 10:15:02+00",
+  "conditionId": "0x5a06bb8f86198aac8ae8b9a2610f1bdcf8954123dc51d51a3e6c492f88821ba8",
+  "slug": "will-a-republican-win-florida-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Florida in the 2024 US Presidential Election?"
+}

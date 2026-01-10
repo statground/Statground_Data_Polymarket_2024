@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:07:20.674803Z",
+  "market_createdAt": "2024-11-05T21:07:20.674803Z",
+  "market_updatedAt": "2024-11-08T20:03:07.029594Z",
+  "market_startDate": "2024-11-07T02:56:53.674803Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:14:59+00",
+  "conditionId": "0x6d8908685828958855e32472e2d80102e1fac020efd13b9f8aea09ff1ecac21c",
+  "slug": "will-the-match-between-fcsb-and-midtjylland-end-in-a-draw",
+  "question": "Will the match between FCSB and Midtjylland end in a draw?"
+}

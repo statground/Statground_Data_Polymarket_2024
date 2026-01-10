@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:04:45.757397Z",
+  "market_createdAt": "2024-04-04T17:04:45.757397Z",
+  "market_updatedAt": "2024-11-07T18:23:08.698708Z",
+  "market_startDate": "2024-04-12T19:35:21.854Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:45:41+00",
+  "conditionId": "0x8525f7e85bf8ef24d29899a79bfa74b2fd6b9b50283f21fc003677dd8fb14705",
+  "slug": "will-a-candidate-from-another-party-win-mississippi-us-senate-election",
+  "question": "Will a candidate from another party win Mississippi US Senate Election?"
+}

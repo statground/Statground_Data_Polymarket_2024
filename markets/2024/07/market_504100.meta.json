@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504100",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:04:47.686286Z",
+  "market_createdAt": "2024-07-25T16:04:47.686286Z",
+  "market_updatedAt": "2024-08-04T22:37:01.956309Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:37:02+00",
+  "conditionId": "0xe4b648ffd73255e773c808548f51d87c3a7746e2d27c035c3b3b0367ce0e7693",
+  "slug": "will-kaylee-mckeown-aus-win-gold-in-womens-200m-individual-medley",
+  "question": "Will Kaylee McKeown (AUS) win Gold in Women's 200m Individual Medley?"
+}

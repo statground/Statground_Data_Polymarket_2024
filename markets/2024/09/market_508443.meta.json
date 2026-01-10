@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:32:02.677507Z",
+  "market_createdAt": "2024-09-30T19:32:02.677507Z",
+  "market_updatedAt": "2024-10-02T21:00:50.049522Z",
+  "market_startDate": "2024-09-30T21:38:24.19706Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:15:00+00",
+  "conditionId": "0xee576531cb5ce60550558eddc7d1cbb907b407f5328e8d62c6f27f10d98d2db7",
+  "slug": "will-psv-beat-sporting-cp",
+  "question": "Will PSV beat Sporting CP?"
+}

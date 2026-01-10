@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503712",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:34:09.401389Z",
+  "market_createdAt": "2024-07-18T17:34:09.401389Z",
+  "market_updatedAt": "2024-08-08T18:40:57.446253Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:57:58+00",
+  "conditionId": "0x0fe2368edac8d93994132075f6f437588dbffbce4440259df4780273de78a5a2",
+  "slug": "will-andre-de-grasse-can-win-gold-in-200m",
+  "question": "Will Andre De Grasse (CAN) win Gold in 200m?"
+}

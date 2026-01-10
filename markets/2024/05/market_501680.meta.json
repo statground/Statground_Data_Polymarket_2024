@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501680",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-19T16:20:17.298423Z",
+  "market_createdAt": "2024-05-19T16:20:17.298423Z",
+  "market_updatedAt": "2024-05-21T11:09:14.674705Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-24T12:00:00Z",
+  "market_closedTime": "2024-05-20 11:01:34+00",
+  "conditionId": "0xd90c263a8dd984f46597f027a4ac70ed6202399c2380307d22cf3b52ebc213ae",
+  "slug": "new-iranian-president-by-friday",
+  "question": "New Iranian President by Friday?"
+}

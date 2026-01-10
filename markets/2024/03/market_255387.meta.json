@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T18:51:43.031000Z",
+  "market_createdAt": "2024-03-08T18:51:43.031Z",
+  "market_updatedAt": "2024-11-07T01:57:16.355533Z",
+  "market_startDate": "2024-05-08T19:49:32.435Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:54:12+00",
+  "conditionId": "0x9fb2f72f614a1a7e6c7b3f3cc2042707533445fb6d7a14e16914204f6342d6da",
+  "slug": "will-a-candidate-from-another-party-win-west-virginia-governor-election",
+  "question": "Will a candidate from another party win West Virginia Governor Election?"
+}

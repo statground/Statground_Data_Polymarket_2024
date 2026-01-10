@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506613",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:16:06.968054Z",
+  "market_createdAt": "2024-09-08T00:16:06.968054Z",
+  "market_updatedAt": "2024-09-09T20:07:18.189791Z",
+  "market_startDate": "2024-09-08T01:53:34.048927Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-08 22:29:50+00",
+  "conditionId": "0x5a9fbbc2b8d6cb7ba1d94f76e63e2fca23d0b6d5e446e8d5edcc0eb3c92e45af",
+  "slug": "will-the-bears-win-by-4-or-more-points",
+  "question": "Will the Bears win by 4 or more points?"
+}

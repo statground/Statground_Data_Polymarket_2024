@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-06T15:35:21.953273Z",
+  "market_createdAt": "2024-09-06T15:35:21.953273Z",
+  "market_updatedAt": "2024-09-07T23:27:13.766351Z",
+  "market_startDate": "2024-09-06T18:11:56.248144Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-07 07:05:03+00",
+  "conditionId": "0x45e21ce5de3609f98471a58005582c93bc9c2446b7cd07df0ad00320027a2752",
+  "slug": "will-northwestern-win-by-4-or-more-points",
+  "question": "Will Northwestern win by 4 or more points?"
+}

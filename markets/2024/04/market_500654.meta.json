@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500654",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-03T19:58:55.276948Z",
+  "market_createdAt": "2024-04-03T19:58:55.276948Z",
+  "market_updatedAt": "2024-05-15T08:16:56.738874Z",
+  "market_startDate": "2024-04-05T00:48:11.13Z",
+  "market_endDate": "2024-05-14T12:00:00Z",
+  "market_closedTime": "2024-05-15 08:13:29+00",
+  "conditionId": "0xf844abff4d950eff84932a2e86ea077e953ee34dba87c168d283bbc3104632b7",
+  "slug": "will-another-candidate-win-the-us-senate-maryland-democratic-primary",
+  "question": "Will another candidate win Maryland US Senate Democratic Primary?"
+}

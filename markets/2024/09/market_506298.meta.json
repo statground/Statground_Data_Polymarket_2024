@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T18:06:41.475798Z",
+  "market_createdAt": "2024-09-03T18:06:41.475798Z",
+  "market_updatedAt": "2024-09-12T06:33:04.953824Z",
+  "market_startDate": "2024-09-03T22:34:45.511Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 06:38:25+00",
+  "conditionId": "0xe2539f532afbcbb2a60cd303e439178300580750bd98e874f26763ded9968551",
+  "slug": "will-trump-say-border-10-or-more-times-at-debate",
+  "question": "Will Trump say \"border\" 15 or more times at debate?"
+}

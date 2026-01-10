@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501186",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T16:01:37.771434Z",
+  "market_createdAt": "2024-04-25T16:01:37.771434Z",
+  "market_updatedAt": "2024-06-02T06:11:08.232781Z",
+  "market_startDate": "2024-04-25T17:58:37.334Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:20:29+00",
+  "conditionId": "0xf7cbee23ae0640c7a292af9a2ab6cd480bbfb6e412fe60f7ad7e89d490096e2b",
+  "slug": "will-bitcoin-dip-below-50k-before-june",
+  "question": "Will Bitcoin dip below $50k before June?"
+}

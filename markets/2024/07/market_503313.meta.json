@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T15:16:06.199002Z",
+  "market_createdAt": "2024-07-09T15:16:06.199002Z",
+  "market_updatedAt": "2025-02-11T06:07:11.728532Z",
+  "market_startDate": "2024-07-09T15:16:06.199Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-02-10 07:19:57+00",
+  "conditionId": "0xcd14a0b8d67206ebf320c3e7754c5a1db352c4b163a90c2d6c598024e465a2b0",
+  "slug": "will-the-chiefs-win-super-bowl-2025",
+  "question": "Will the Chiefs win Super Bowl 2025?"
+}

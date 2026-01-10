@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503472",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-14T19:13:52.679938Z",
+  "market_createdAt": "2024-07-14T19:13:52.679938Z",
+  "market_updatedAt": "2024-07-20T11:24:41.278889Z",
+  "market_startDate": "2024-07-14T19:38:11.055Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 11:24:20+00",
+  "conditionId": "0x2d4f4d7fdc2a55501668157b860507090e2d304727cbced2919b543110187b80",
+  "slug": "50-cent-at-the-rnc",
+  "question": "Will 50 Cent attend the RNC?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515049",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:05:26.863720Z",
+  "market_createdAt": "2024-12-08T05:05:26.86372Z",
+  "market_updatedAt": "2024-12-15T04:24:58.547123Z",
+  "market_startDate": "2024-12-08T05:08:50.92091Z",
+  "market_endDate": "2024-12-21T00:00:00Z",
+  "market_closedTime": "2024-12-14 04:27:26+00",
+  "conditionId": "0xb2df803d41e3941ce9b7602d6a99d00dc70cf95727d0d7a6e8f4aed326f98774",
+  "slug": "nba-ind-phi-2024-12-13",
+  "question": "Pacers vs. 76ers"
+}

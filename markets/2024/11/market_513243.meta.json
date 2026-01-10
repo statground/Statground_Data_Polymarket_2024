@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513243",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:55:14.198933Z",
+  "market_createdAt": "2024-11-15T21:55:14.198933Z",
+  "market_updatedAt": "2025-01-21T20:45:08.854976Z",
+  "market_startDate": "2024-11-15T22:38:39.506Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:54:50+00",
+  "conditionId": "0x5b5cf784f1710ceaad2c713717fed28e114a6b4b9a54a6d934c22a73a4df261c",
+  "slug": "will-trump-say-maga-4-or-more-times-during-his-inauguration-speech",
+  "question": "Will Trump say \"MAGA\" 4 or more times during his inauguration speech?"
+}

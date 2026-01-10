@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512089",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:34:06.251031Z",
+  "market_createdAt": "2024-11-05T19:34:06.251031Z",
+  "market_updatedAt": "2024-11-11T19:33:22.808239Z",
+  "market_startDate": "2024-11-05T19:36:49.766798Z",
+  "market_endDate": "2024-11-10T14:00:00Z",
+  "market_closedTime": "2024-11-10 19:43:47+00",
+  "conditionId": "0xf82498dda86c4063113f62aae4c69e4024d9bdd28726a9ea8ae397e45b767ada",
+  "slug": "epl-not-new-2024-11-10-draw",
+  "question": "Will Nottingham Forest vs. Newcastle end in a draw?"
+}

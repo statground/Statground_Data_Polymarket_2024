@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T23:35:25.110768Z",
+  "market_createdAt": "2024-11-01T23:35:25.110768Z",
+  "market_updatedAt": "2024-11-05T03:27:15.852852Z",
+  "market_startDate": "2024-11-02T00:07:28.344Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:22:00+00",
+  "conditionId": "0xab83e0945c251ecdb3e419cb59cf10943ed86deea39170d37d83e409ca1e50f7",
+  "slug": "will-trump-say-kamala-25-or-more-times-during-north-carolina-rally-on-nov-3",
+  "question": "Will Trump say \"Kamala\" 25 or more times during North Carolina rally on Nov 3?"
+}

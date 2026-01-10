@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510370",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:30:27.102142Z",
+  "market_createdAt": "2024-10-21T20:30:27.102142Z",
+  "market_updatedAt": "2024-10-28T01:16:46.140465Z",
+  "market_startDate": "2024-10-21T20:33:09.029645Z",
+  "market_endDate": "2024-10-26T21:00:00Z",
+  "market_closedTime": "2024-10-27 01:55:47+00",
+  "conditionId": "0x9cc10fa14c7840c2cfec63878a5ef7d30b3bbd9cd53b5e1afca716082e71222a",
+  "slug": "nba-lac-den-2024-10-26",
+  "question": "Clippers vs. Nuggets"
+}

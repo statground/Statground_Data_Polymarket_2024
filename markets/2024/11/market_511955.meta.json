@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511955",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T21:32:59.137250Z",
+  "market_createdAt": "2024-11-04T21:32:59.13725Z",
+  "market_updatedAt": "2024-12-01T19:05:49.891768Z",
+  "market_startDate": "2024-11-04T23:23:08.802038Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-30 21:30:05+00",
+  "conditionId": "0x608053720528910ed418e5298760eb163d1dc99ec949fa8a4b602af4937d5351",
+  "slug": "ethbtc-above-0pt035-on-nov-30",
+  "question": "ETHBTC above 0.035 on Nov 30?"
+}

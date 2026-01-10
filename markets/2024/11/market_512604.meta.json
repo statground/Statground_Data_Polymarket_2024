@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512604",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:18:12.080642Z",
+  "market_createdAt": "2024-11-08T23:18:12.080642Z",
+  "market_updatedAt": "2024-11-11T19:19:29.005842Z",
+  "market_startDate": "2024-11-09T02:55:51.502471Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 23:11:35+00",
+  "conditionId": "0xfaaf4cf7a137813e5d7b2d9ca6a93b161b5b69c37e59236816871476bce1de63",
+  "slug": "will-the-bears-beat-the-patriots-by-7-or-more-points",
+  "question": "Will the Bears beat the Patriots by 7 or more points?"
+}

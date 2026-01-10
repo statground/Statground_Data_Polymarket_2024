@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T17:47:03.743983Z",
+  "market_createdAt": "2024-05-22T17:47:03.743983Z",
+  "market_updatedAt": "2024-10-08T16:52:54.455731Z",
+  "market_startDate": "2024-05-22T22:58:43.671Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-10-07 18:35:24+00",
+  "conditionId": "0x7d8633c04403a076b45530d1f0a02506aa93d6569aba91b111b2d9877445c58d",
+  "slug": "will-biden-be-on-the-ohio-presidential-ballot",
+  "question": "Will Biden be on Ohio Presidential Ballot?"
+}

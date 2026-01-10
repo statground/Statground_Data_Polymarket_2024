@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T23:35:47.645266Z",
+  "market_createdAt": "2024-11-14T23:35:47.645266Z",
+  "market_updatedAt": "2025-01-26T06:01:07.661048Z",
+  "market_startDate": "2024-11-14T23:50:40.795Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-25 07:17:09+00",
+  "conditionId": "0x2cb1a78f1cbbc182b4235fda475a21ae1dcf22bfc29982c9f1e5c30fcee2d7c4",
+  "slug": "will-ron-desantis-be-trumps-defense-secretary",
+  "question": "Will Ron DeSantis be Trump's Defense Secretary?"
+}

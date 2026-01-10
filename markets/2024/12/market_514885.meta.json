@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T21:34:10.750046Z",
+  "market_createdAt": "2024-12-05T21:34:10.750046Z",
+  "market_updatedAt": "2024-12-09T19:35:27.085075Z",
+  "market_startDate": "2024-12-05T22:56:35.105Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:48:29+00",
+  "conditionId": "0x3650b698be8dd23560f65ab8f7ff369ee9b334747bb49e0300bddb467ee09cb0",
+  "slug": "will-trump-say-elon-during-nbc-interview",
+  "question": "Will Trump say \"Elon\" during NBC interview?"
+}

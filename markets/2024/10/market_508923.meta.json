@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508923",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:07:36.359361Z",
+  "market_createdAt": "2024-10-04T17:07:36.359361Z",
+  "market_updatedAt": "2024-10-06T21:16:40.137441Z",
+  "market_startDate": "2024-10-04T18:40:57.897115Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:03:38+00",
+  "conditionId": "0x7cdd50afdbb66f5d2c2d60969fbac4e7b961491553aecbb792126c2f3a9ed7c4",
+  "slug": "will-usc-and-minnesota-combine-for-50-or-more-points",
+  "question": "Will USC and Minnesota combine for 50 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500807",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T18:22:30.009023Z",
+  "market_createdAt": "2024-04-08T18:22:30.009023Z",
+  "market_updatedAt": "2024-05-07T23:09:26.142083Z",
+  "market_startDate": "2024-04-08T18:33:00.428Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:05:23+00",
+  "conditionId": "0x2d6b24dbff3f75f4b4b64bacbf4c610c8224fcb04a0a5123443132119aa5bcb7",
+  "slug": "friendtech-ath-volume-in-april",
+  "question": "FriendTech ATH volume in April?"
+}

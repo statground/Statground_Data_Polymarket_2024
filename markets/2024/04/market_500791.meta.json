@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500791",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T03:02:17.321552Z",
+  "market_createdAt": "2024-04-07T03:02:17.321552Z",
+  "market_updatedAt": "2024-07-22T00:50:36.692606Z",
+  "market_startDate": "2024-04-07T03:15:06.58Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 00:54:42+00",
+  "conditionId": "0x122678509891ed9fe0b9ad7ff7a71a1a36aad334d9eae2d5421648b511371df1",
+  "slug": "will-popcat-reach-1b-first",
+  "question": "Will POPCAT reach $1b first?"
+}

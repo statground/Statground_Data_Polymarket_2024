@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513682",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:31:08.954038Z",
+  "market_createdAt": "2024-11-21T22:31:08.954038Z",
+  "market_updatedAt": "2024-12-01T06:07:23.793443Z",
+  "market_startDate": "2024-11-25T18:43:33.571223Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-30 09:32:44+00",
+  "conditionId": "0x42fa19fb8ac91c5efd2d71d582bd1d351048c599741539227b70a56734d41ab4",
+  "slug": "will-the-minnesota-timberwolves-win-the-2024-nba-cup",
+  "question": "Will the Minnesota Timberwolves win the 2024 NBA Cup?"
+}

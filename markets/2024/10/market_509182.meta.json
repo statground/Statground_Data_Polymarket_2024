@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509182",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:23:23.148429Z",
+  "market_createdAt": "2024-10-07T22:23:23.148429Z",
+  "market_updatedAt": "2024-10-15T01:30:56.309327Z",
+  "market_startDate": "2024-10-07T22:25:33.608401Z",
+  "market_endDate": "2024-10-13T20:25:00Z",
+  "market_closedTime": "2024-10-14 01:34:32+00",
+  "conditionId": "0xe1fe6683c9f6862b954ba7fa6f9afcb5b563d83da597b006c2885fe4c7ac0008",
+  "slug": "nfl-atl-car-2024-10-13",
+  "question": "Falcons vs. Panthers"
+}

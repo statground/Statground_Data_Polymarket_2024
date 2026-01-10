@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:28:31.943234Z",
+  "market_createdAt": "2024-10-21T20:28:31.943234Z",
+  "market_updatedAt": "2024-10-27T04:36:51.581856Z",
+  "market_startDate": "2024-10-21T20:31:12.694901Z",
+  "market_endDate": "2024-10-26T00:00:00Z",
+  "market_closedTime": "2024-10-26 07:05:16+00",
+  "conditionId": "0xcbf475900e6a2dfe52425a21e1b43ed787fbb8ff91dd2fcaa2733b06d801cde3",
+  "slug": "nba-mem-hou-2024-10-25",
+  "question": "Grizzlies vs. Rockets"
+}

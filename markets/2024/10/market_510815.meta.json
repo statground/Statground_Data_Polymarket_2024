@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:37:56.770206Z",
+  "market_createdAt": "2024-10-24T19:37:56.770206Z",
+  "market_updatedAt": "2024-10-27T05:12:56.072775Z",
+  "market_startDate": "2024-10-24T20:17:06.647257Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:46:01+00",
+  "conditionId": "0x04769acbc6870aa4873b22391ff76163e9e813c90941aad92af764d2b3b7cf48",
+  "slug": "will-trump-say-gm-or-general-motors-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"GM\" or \"General Motors\" during Michigan rally on October 25?"
+}

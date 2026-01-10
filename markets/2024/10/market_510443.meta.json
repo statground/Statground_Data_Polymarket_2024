@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:33:59.667112Z",
+  "market_createdAt": "2024-10-21T22:33:59.667112Z",
+  "market_updatedAt": "2024-10-24T20:53:13.922261Z",
+  "market_startDate": "2024-10-22T01:08:21.869899Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 00:14:33+00",
+  "conditionId": "0x04b15f218f788d64a3c30b950c95fca34a998d50a87f0cf0be5c69a69aac7a27",
+  "slug": "will-dinamo-zagreb-beat-rb-salzburg",
+  "question": "Will Dinamo Zagreb beat RB Salzburg?"
+}

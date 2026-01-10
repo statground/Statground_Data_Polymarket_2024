@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:49:37.458377Z",
+  "market_createdAt": "2024-03-28T22:49:37.458377Z",
+  "market_updatedAt": "2024-11-07T17:37:15.566898Z",
+  "market_startDate": "2024-04-10T19:26:05.541Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:35:12+00",
+  "conditionId": "0xbff3fbf86c2606ba40dd4afbc1210bbb9ce973afffde7a852dbee1d27ee634ca",
+  "slug": "congressional-district-3rd-nebraska-will-a-democrat-win",
+  "question": "Will a Democrat win Nebraska's 3rd congressional district?"
+}

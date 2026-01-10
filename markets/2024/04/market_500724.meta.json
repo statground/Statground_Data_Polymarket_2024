@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:09:21.457725Z",
+  "market_createdAt": "2024-04-04T18:09:21.457725Z",
+  "market_updatedAt": "2024-11-07T23:07:15.296775Z",
+  "market_startDate": "2024-04-12T19:05:40.75Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:08:46+00",
+  "conditionId": "0x4e2f47832d9b760e5cd51368e899e421d2551524205cce86cf98ee9ec0703a88",
+  "slug": "will-a-democrat-win-rhode-island-us-senate-election",
+  "question": "Will a Democrat win Rhode Island US Senate Election?"
+}

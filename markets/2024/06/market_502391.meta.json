@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502391",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T18:53:44.389562Z",
+  "market_createdAt": "2024-06-12T18:53:44.389562Z",
+  "market_updatedAt": "2024-06-18T10:06:12.15283Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-19T12:00:00Z",
+  "market_closedTime": "2024-06-17 10:26:50+00",
+  "conditionId": "0x19f70c08fcb43eb347a6dff48a0eb04c0922bd812c538d9afdd50a7cfbd026be",
+  "slug": "will-andrew-tate-tweet-between-180-and-199-times-between-june-12-and-june-19",
+  "question": "Will Andrew Tate tweet between 180 and 199 times between June 12 and June 19?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T18:16:55.357459Z",
+  "market_createdAt": "2024-06-21T18:16:55.357459Z",
+  "market_updatedAt": "2024-06-23T15:51:12.074975Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-22T12:00:00Z",
+  "market_closedTime": "2024-06-22 18:12:28+00",
+  "conditionId": "0x09c1862a9286d6767741ac56845a88329224beed4b5cb4fa4e8204f9d961d2e9",
+  "slug": "will-czechia-win-june-21",
+  "question": "Will Czechia win?"
+}

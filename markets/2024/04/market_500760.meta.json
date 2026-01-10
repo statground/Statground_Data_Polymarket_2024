@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:25:03.925500Z",
+  "market_createdAt": "2024-04-05T16:25:03.9255Z",
+  "market_updatedAt": "2024-08-15T06:21:02.040526Z",
+  "market_startDate": "2024-08-06T20:51:31.865Z",
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 06:17:29+00",
+  "conditionId": "0xeb6e3bde4d9b0b0b171a37cc5f439b55197c8bdb16847367e760aaca572a67e5",
+  "slug": "will-tim-peterson-win-the-mn-5-democratic-house-district",
+  "question": "Will Tim Peterson win the MN-5 Democratic House District?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:07:45.208785Z",
+  "market_createdAt": "2024-12-29T05:07:45.208785Z",
+  "market_updatedAt": "2025-01-05T06:01:10.51469Z",
+  "market_startDate": "2024-12-29T05:10:17.097168Z",
+  "market_endDate": "2025-01-11T01:30:00Z",
+  "market_closedTime": "2025-01-04 06:16:56+00",
+  "conditionId": "0x8e5920ff69ceba11f87610437f601400373e12a214b2e84afc34e929bb2dfaa5",
+  "slug": "nba-cle-dal-2025-01-03",
+  "question": "Cavaliers vs. Mavericks"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505990",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T18:59:17.778379Z",
+  "market_createdAt": "2024-08-28T18:59:17.778379Z",
+  "market_updatedAt": "2024-09-02T19:51:08.454907Z",
+  "market_startDate": "2024-08-28T18:59:17.778379Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:17+00",
+  "conditionId": "0xa70e05e422a2e7520d8da618a71c70abc6a6b7e26d9e67c4e8eed8d11ba58273",
+  "slug": "will-charles-leclerc-win-the-italian-grand-prix",
+  "question": "Will Charles Leclerc win the Italian Grand Prix?"
+}

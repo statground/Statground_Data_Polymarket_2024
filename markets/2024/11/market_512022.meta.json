@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:21:18.509346Z",
+  "market_createdAt": "2024-11-05T17:21:18.509346Z",
+  "market_updatedAt": "2024-11-16T14:34:57.8168Z",
+  "market_startDate": "2024-11-05T18:14:19.222726Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 14:48:32+00",
+  "conditionId": "0xeaaa94b42c2e73fc036cacabd366ee7fc85a036be9e565a1eb705ce7d6be05db",
+  "slug": "will-trump-say-god-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"God\" in his speech after the election is called?"
+}

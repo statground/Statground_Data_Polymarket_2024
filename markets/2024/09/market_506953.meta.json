@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506953",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T02:02:37.666634Z",
+  "market_createdAt": "2024-09-13T02:02:37.666634Z",
+  "market_updatedAt": "2024-09-16T03:46:56.645429Z",
+  "market_startDate": "2024-09-13T16:13:51.65999Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 05:34:25+00",
+  "conditionId": "0x44c52682e013223da4fce5b54ce75c49ff9e255ccc83881acbf74a852c521d69",
+  "slug": "will-georgia-beat-kentucky-by-23-or-more-points",
+  "question": "Will Georgia beat Kentucky by 23 or more points?"
+}

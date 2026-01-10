@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:21:08.779511Z",
+  "market_createdAt": "2024-11-18T22:21:08.779511Z",
+  "market_updatedAt": "2024-11-21T00:56:56.073306Z",
+  "market_startDate": "2024-11-19T20:45:30.358926Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:25:13+00",
+  "conditionId": "0x2b110b17b14afb6fee4b32465e92bec40685f4fd557235b1f9d885e1d793f38e",
+  "slug": "will-the-match-between-chile-and-venezuela-end-in-a-draw",
+  "question": "Will the match between Chile and Venezuela end in a draw?"
+}

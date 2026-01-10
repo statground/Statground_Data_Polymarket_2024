@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515352",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T23:14:31.299495Z",
+  "market_createdAt": "2024-12-10T23:14:31.299495Z",
+  "market_updatedAt": "2025-05-07T00:23:25.382964Z",
+  "market_startDate": "2024-12-11T00:23:25.565544Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-05-05 21:01:13+00",
+  "conditionId": "0xa096c4c14af77593e170d583a508d6ed8849cf406412d416020028f015020fb1",
+  "slug": "will-clin-georgescu-win-the-most-votes-in-the-1st-round-of-the-romanian-presidential-election",
+  "question": "Will Călin Georgescu win the most votes in the 1st round of the Romanian presidential election?"
+}

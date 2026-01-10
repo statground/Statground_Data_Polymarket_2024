@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514163",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T18:27:11.868025Z",
+  "market_createdAt": "2024-11-26T18:27:11.868025Z",
+  "market_updatedAt": "2025-02-25T12:19:43.838093Z",
+  "market_startDate": "2024-12-16T18:23:52.622Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:35:48+00",
+  "conditionId": "0x9203212d0b10814e22dc330443cbdf57c5cb9401e2cc1befd8d22aea679a7d87",
+  "slug": "will-grunen-win-the-most-seats-in-the-next-german-election",
+  "question": "Will Grünen win the most seats in the next German election?"
+}

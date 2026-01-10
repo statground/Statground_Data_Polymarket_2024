@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501516",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T01:04:17.712663Z",
+  "market_createdAt": "2024-05-10T01:04:17.712663Z",
+  "market_updatedAt": "2024-05-19T04:44:05.88284Z",
+  "market_startDate": "2024-05-10T01:37:39.89Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-18 06:10:18+00",
+  "conditionId": "0xa5fd609b3229299773eeae0ae15fe8ba74454e0fb6e8658cfe9d0736b6c90cee",
+  "slug": "openai-public-release-of-search-product-by-next-friday",
+  "question": "OpenAI public release of search product by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:26:05.454038Z",
+  "market_createdAt": "2024-10-13T20:26:05.454038Z",
+  "market_updatedAt": "2024-10-15T21:46:46.687165Z",
+  "market_startDate": "2024-10-14T14:51:53.871697Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 00:03:54+00",
+  "conditionId": "0x6e77808f432c4ac31a7be7771c166f0531ebcb02efaf8ae682bb6e93ddc508bb",
+  "slug": "will-the-match-between-ukraine-and-czech-republic-end-in-a-draw",
+  "question": "Will the match between Ukraine and Czech Republic end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T20:49:47.443018Z",
+  "market_createdAt": "2024-11-12T20:49:47.443018Z",
+  "market_updatedAt": "2024-12-07T16:37:23.580021Z",
+  "market_startDate": "2024-11-12T21:36:02.044255Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 16:50:32+00",
+  "conditionId": "0x297fb23d5aa6470c0ac5c6d88601a971674d0e94f928d9c63be45d99f6cc0451",
+  "slug": "will-the-us-gain-less-than-100000-jobs-in-november",
+  "question": "Will the US gain less than 100,000 jobs in November?"
+}

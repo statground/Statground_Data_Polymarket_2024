@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254488",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T23:30:18.564000Z",
+  "market_createdAt": "2024-02-14T23:30:18.564Z",
+  "market_updatedAt": "2024-07-02T08:30:49.504002Z",
+  "market_startDate": "2024-02-15T17:18:35.802Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:14:10+00",
+  "conditionId": "0x8a0f72d70c6843c1f12a6cedb67a96ad7ac1067067144703f85b230a7d3533e2",
+  "slug": "berachain-airdrop-by-june-30",
+  "question": "Berachain airdrop by June 30?"
+}

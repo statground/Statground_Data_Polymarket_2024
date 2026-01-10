@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:29:04.651135Z",
+  "market_createdAt": "2024-10-08T19:29:04.651135Z",
+  "market_updatedAt": "2024-10-13T00:06:41.154031Z",
+  "market_startDate": "2024-10-09T15:33:45.952426Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 00:32:01+00",
+  "conditionId": "0x5dd093ae57097ef7f95afe6375b3b7d871d5f744facc29fb509df55f464076af",
+  "slug": "will-trump-say-north-carolina-3-or-more-times-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"North Carolina\" 3 or more times during Colorado rally on October 11?"
+}

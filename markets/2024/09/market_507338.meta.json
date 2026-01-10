@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:13:21.128855Z",
+  "market_createdAt": "2024-09-17T19:13:21.128855Z",
+  "market_updatedAt": "2024-09-21T00:06:47.275475Z",
+  "market_startDate": "2024-09-17T22:23:23.041923Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:18:16+00",
+  "conditionId": "0x9f12acb53a1ed9d268e1ab16dfb96760221675e99ecde2688868817f3c101de6",
+  "slug": "will-arsenal-beat-atalanta",
+  "question": "Will Arsenal beat Atalanta?"
+}

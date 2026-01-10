@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511755",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T21:18:14.303418Z",
+  "market_createdAt": "2024-11-01T21:18:14.303418Z",
+  "market_updatedAt": "2025-01-22T00:37:04.121219Z",
+  "market_startDate": "2024-11-01T22:46:40.903Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-21 00:35:20+00",
+  "conditionId": "0x21559998482bf5dfbcaf0f5409edd34eebd84c8998df622f9da8ff1e1f248a26",
+  "slug": "will-someone-else-be-inaugurated",
+  "question": "Will someone else be inaugurated?"
+}

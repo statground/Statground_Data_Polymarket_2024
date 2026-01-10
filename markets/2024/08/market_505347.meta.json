@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T17:24:25.761177Z",
+  "market_createdAt": "2024-08-19T17:24:25.761177Z",
+  "market_updatedAt": "2024-08-31T22:11:09.784138Z",
+  "market_startDate": "2024-08-29T17:20:41.157Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 23:00:28+00",
+  "conditionId": "0x507becc99014e962f45b7cf9e36bb41bc0d8f304bbfbcee4dcd2d6d162627c8e",
+  "slug": "x-banned-in-brazil-before-october",
+  "question": "X banned in Brazil before October?"
+}

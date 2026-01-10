@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501248",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:26:17.286001Z",
+  "market_createdAt": "2024-04-29T19:26:17.286001Z",
+  "market_updatedAt": "2024-05-07T23:09:19.056163Z",
+  "market_startDate": "2024-04-29T19:59:19.252Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 00:04:47+00",
+  "conditionId": "0xc11237a3f35414171fbeb981774295335205d1bc19365b87d1828c235335e977",
+  "slug": "will-bayern-munich-win",
+  "question": "Will Bayern Munich win?"
+}

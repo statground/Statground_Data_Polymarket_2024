@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T15:18:49.947911Z",
+  "market_createdAt": "2024-09-13T15:18:49.947911Z",
+  "market_updatedAt": "2024-09-15T06:23:01.301818Z",
+  "market_startDate": "2024-09-13T15:28:07.636Z",
+  "market_endDate": "2024-09-13T12:00:00Z",
+  "market_closedTime": "2024-09-14 06:20:15+00",
+  "conditionId": "0x1c481d1f0ca70e0799ffce14cd501545ccd4f754e46f1f73999844b70dfda5c9",
+  "slug": "will-trump-say-loomer-during-his-nevada-rally",
+  "question": "Will Trump say \"Loomer\" during his Nevada rally?"
+}

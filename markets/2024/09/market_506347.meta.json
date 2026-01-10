@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T20:02:06.866154Z",
+  "market_createdAt": "2024-09-03T20:02:06.866154Z",
+  "market_updatedAt": "2024-09-26T03:42:47.010732Z",
+  "market_startDate": "2024-09-03T23:59:32.247617Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-09-25 06:46:38+00",
+  "conditionId": "0x792656970e2320f36d267421cb4082b208cf1bcc5d0a4cc2e52eed681a8c082b",
+  "slug": "will-the-seattle-storm-win-the-2024-wnba-finals",
+  "question": "Will the Seattle Storm win the 2024 WNBA Finals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T19:24:42.221561Z",
+  "market_createdAt": "2024-09-16T19:24:42.221561Z",
+  "market_updatedAt": "2024-09-18T04:52:43.889983Z",
+  "market_startDate": "2024-09-16T19:34:29.307326Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 05:27:41+00",
+  "conditionId": "0xb98dc073483690b9c57f6c00cf96880b5ea9a9a9e0538c9d2b2f5da16849550b",
+  "slug": "will-the-eagles-beat-the-falcons-by-6-or-more-points",
+  "question": "Will the Eagles beat the Falcons by 6 or more points?"
+}

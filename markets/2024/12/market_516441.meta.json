@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:37:53.872852Z",
+  "market_createdAt": "2024-12-25T06:37:53.872852Z",
+  "market_updatedAt": "2025-01-01T00:13:46.81619Z",
+  "market_startDate": "2024-12-25T06:40:28.862642Z",
+  "market_endDate": "2024-12-30T19:45:00Z",
+  "market_closedTime": "2024-12-31 01:10:34+00",
+  "conditionId": "0x6abee4ecc4e96085d312832960c9f55ddaea6336e64f6daba3fd63c358a67410",
+  "slug": "epl-ips-che-2024-12-30-draw",
+  "question": "Will Ipswich vs. Chelsea end in a draw?"
+}

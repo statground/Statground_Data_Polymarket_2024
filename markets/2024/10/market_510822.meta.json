@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:48:16.164833Z",
+  "market_createdAt": "2024-10-24T19:48:16.164833Z",
+  "market_updatedAt": "2024-10-27T05:26:51.494312Z",
+  "market_startDate": "2024-10-24T20:19:51.291437Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 05:51:17+00",
+  "conditionId": "0x862fe3efebacae13ba42cb8fff9d1dda1a151f2dbfbf9812abc23805e6793ef6",
+  "slug": "will-trump-say-north-carolina-5-or-more-times-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"North Carolina\" 5 or more times during Michigan rally on October 25?"
+}

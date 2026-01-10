@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504052",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T18:37:57.733895Z",
+  "market_createdAt": "2024-07-23T18:37:57.733895Z",
+  "market_updatedAt": "2024-07-26T02:06:41.601807Z",
+  "market_startDate": "2024-07-23T20:35:20.235Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 02:43:27+00",
+  "conditionId": "0x1cc26810af203a42d7d7de85d335280500dcc754b72badbeb181d7d05e7e41eb",
+  "slug": "will-biden-say-malarkey-during-drop-out-speech",
+  "question": "Will Biden say \"Malarkey\" during drop out speech?"
+}

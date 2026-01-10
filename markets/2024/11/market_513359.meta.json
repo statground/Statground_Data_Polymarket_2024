@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513359",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:31:59.707982Z",
+  "market_createdAt": "2024-11-18T18:31:59.707982Z",
+  "market_updatedAt": "2024-12-07T06:11:07.44641Z",
+  "market_startDate": "2024-11-18T20:02:37.291Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:15:20+00",
+  "conditionId": "0x3a47cd8e12665abbc51dd73df2f0ad3ebd3d412b7156b3356395412170dcca71",
+  "slug": "will-trump-say-trans-in-his-next-speech",
+  "question": "Will Trump say \"trans\" in his next speech?"
+}

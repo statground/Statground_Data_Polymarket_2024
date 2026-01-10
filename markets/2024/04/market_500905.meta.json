@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T20:19:30.516397Z",
+  "market_createdAt": "2024-04-11T20:19:30.516397Z",
+  "market_updatedAt": "2024-05-07T23:09:31.281898Z",
+  "market_startDate": "2024-04-11T20:41:48.967Z",
+  "market_endDate": "2024-04-11T12:00:00Z",
+  "market_closedTime": "2024-04-12 10:44:46+00",
+  "conditionId": "0xf443bc7ed128d67dd02b1b1464a1bd9c4c7a1b39d2a02c1cae9e008937eb554b",
+  "slug": "drake-track-drops-tonight",
+  "question": "Drake track drops tonight?"
+}

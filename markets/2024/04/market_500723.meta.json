@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:06:08.676045Z",
+  "market_createdAt": "2024-04-04T18:06:08.676045Z",
+  "market_updatedAt": "2024-11-07T21:29:08.68822Z",
+  "market_startDate": "2024-04-12T19:08:05.586Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 03:04:21+00",
+  "conditionId": "0x5c01cadf74a6b7ba57fa31e325bb083b93f8475849b96e20f910866b9cd2aa06",
+  "slug": "will-a-candidate-from-another-party-win-connecticut-us-senate-election",
+  "question": "Will a candidate from another party win Connecticut US Senate Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-22T17:49:52.473739Z",
+  "market_createdAt": "2024-03-22T17:49:52.473739Z",
+  "market_updatedAt": "2024-05-07T23:09:38.486901Z",
+  "market_startDate": "2024-03-25T22:46:20.376Z",
+  "market_endDate": "2024-04-05T12:00:00Z",
+  "market_closedTime": "2024-04-05 19:12:23+00",
+  "conditionId": "0x1b9db89faf09ecab67f5f66461ec08a27b7b8c3ee9001d9ca1ebf8b1f0512c80",
+  "slug": "will-the-rcp-polling-spread-between-trump-and-biden-be-between-trump-2pt3-2pt5",
+  "question": "RCP: Trump by +2.3-2.5 on April 5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:01:20.775523Z",
+  "market_createdAt": "2024-12-23T05:01:20.775523Z",
+  "market_updatedAt": "2024-12-26T07:47:22.44982Z",
+  "market_startDate": "2024-12-23T05:03:56.45865Z",
+  "market_endDate": "2025-01-01T01:00:00Z",
+  "market_closedTime": "2024-12-25 07:43:12+00",
+  "conditionId": "0x9cc342caeb60f7673e8c6b03861aa0d5042408543042a2ceed5e3242eecbbdea",
+  "slug": "cfb-usf-sjsu-2024-12-24",
+  "question": "South Florida vs. San José State"
+}

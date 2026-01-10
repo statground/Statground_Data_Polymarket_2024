@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503821",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:24:57.266976Z",
+  "market_createdAt": "2024-07-18T21:24:57.266976Z",
+  "market_updatedAt": "2024-08-03T20:17:00.234034Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:13:46+00",
+  "conditionId": "0x86c249ffd412fd5930bcee5864107e9440d67f6296fac39e674e0ad34086a44e",
+  "slug": "will-caeleb-dressel-usa-win-gold-in-mens-50m-freestyle",
+  "question": "Will Caeleb Dressel (USA) win Gold in Men's 50m Freestyle?"
+}

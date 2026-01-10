@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T20:30:38.962743Z",
+  "market_createdAt": "2024-12-11T20:30:38.962743Z",
+  "market_updatedAt": "2024-12-20T18:07:17.928895Z",
+  "market_startDate": "2024-12-13T23:11:25.711504Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-19 21:31:47+00",
+  "conditionId": "0x4fef715e63483d774edadc9b35a43a0f2c135e9903c2f278e6a1150f3f03dd33",
+  "slug": "will-wesley-so-win-the-champions-chess-tour-finals",
+  "question": "Will Wesley So win the Champions Chess Tour Finals?"
+}

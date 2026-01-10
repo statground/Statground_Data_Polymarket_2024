@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:49:58.042844Z",
+  "market_createdAt": "2024-10-28T20:49:58.042844Z",
+  "market_updatedAt": "2024-11-02T01:51:15.957544Z",
+  "market_startDate": "2024-10-28T23:48:54.923569Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:09:28+00",
+  "conditionId": "0xb19d25ed0aa83ab68cf0983e0272cccc40afd4bd30e01312db38afbd25e33cb8",
+  "slug": "will-trump-say-snake-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"snake\" during Nevada rally on Oct 31?"
+}

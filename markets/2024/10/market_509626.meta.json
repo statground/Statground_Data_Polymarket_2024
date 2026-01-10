@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509626",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:33:47.785290Z",
+  "market_createdAt": "2024-10-11T15:33:47.78529Z",
+  "market_updatedAt": "2024-10-13T23:20:49.9361Z",
+  "market_startDate": "2024-10-11T19:06:16.618375Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:15:37+00",
+  "conditionId": "0xeec7c9d1aa0d1a0c5abad082876c6766140b45f5cb7b3cf57f605e0759aa148d",
+  "slug": "will-texas-beat-oklahoma",
+  "question": "Will Texas beat Oklahoma?"
+}

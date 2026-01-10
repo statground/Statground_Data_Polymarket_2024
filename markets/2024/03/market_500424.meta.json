@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-25T16:00:06.790490Z",
+  "market_createdAt": "2024-03-25T16:00:06.79049Z",
+  "market_updatedAt": "2024-05-07T23:09:57.150275Z",
+  "market_startDate": "2024-03-25T23:41:31.354Z",
+  "market_endDate": "2024-04-04T12:00:00Z",
+  "market_closedTime": "2024-04-02 02:32:21+00",
+  "conditionId": "0x7311b36cd890fe5be0e45beda69ce2638357f4ff5f2b81dcff5cc5fdd0961b8e",
+  "slug": "will-trump-make-bond-by-april-4",
+  "question": "Will Trump make bond by April 4?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:10:22.794785Z",
+  "market_createdAt": "2024-12-29T07:10:22.794785Z",
+  "market_updatedAt": "2025-01-04T07:34:45.11954Z",
+  "market_startDate": "2024-12-29T07:13:21.752546Z",
+  "market_endDate": "2025-01-10T03:30:00Z",
+  "market_closedTime": "2025-01-03 08:08:55+00",
+  "conditionId": "0x18d610892d0de07ac37fc97ed16d50fde9426f16518c5ac8f7a3a8fa75e865ed",
+  "slug": "nhl-tb-sj-2025-01-02",
+  "question": "Lightning vs. Sharks"
+}

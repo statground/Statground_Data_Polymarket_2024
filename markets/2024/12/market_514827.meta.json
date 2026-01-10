@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-05T15:32:13.094317Z",
+  "market_createdAt": "2024-12-05T15:32:13.094317Z",
+  "market_updatedAt": "2024-12-06T21:39:24.820591Z",
+  "market_startDate": "2024-12-05T15:41:13.296076Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-05 21:49:38+00",
+  "conditionId": "0x1f6ba48a40695eefb6bf4cc486d0008f26de3417300d5185430264de9f6f4fc5",
+  "slug": "bitcoin-dip-below-100k-by-sunday",
+  "question": "Will Bitcoin dip below $100k by Sunday?"
+}

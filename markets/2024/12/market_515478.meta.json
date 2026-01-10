@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:26:55.160496Z",
+  "market_createdAt": "2024-12-11T23:26:55.160496Z",
+  "market_updatedAt": "2025-01-05T00:04:51.601776Z",
+  "market_startDate": "2024-12-23T19:18:43.872Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-04 01:47:10+00",
+  "conditionId": "0x9131937353f293dc46435c8c96d1c3bfaa91aa28eda31304347da9026a191a5e",
+  "slug": "will-another-person-win-the-2024-world-blitz-championship",
+  "question": "Will another person win the 2024 World Blitz Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:08:46.540312Z",
+  "market_createdAt": "2024-12-11T23:08:46.540312Z",
+  "market_updatedAt": "2025-01-01T02:11:31.982025Z",
+  "market_startDate": "2024-12-23T19:14:50.754244Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 04:36:30+00",
+  "conditionId": "0xb307fe66eca6050b53ec10cd060e0d1152f944c6c144b328453b57adbcd7e4e9",
+  "slug": "will-maxime-vachier-lagrave-win-the-2024-world-blitz-championship",
+  "question": "Will Maxime Vachier-Lagrave win the 2024 World Blitz Championship?"
+}

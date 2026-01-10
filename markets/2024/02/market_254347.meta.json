@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-06T21:45:01.877000Z",
+  "market_createdAt": "2024-02-06T21:45:01.877Z",
+  "market_updatedAt": "2024-02-13T05:05:42.225Z",
+  "market_startDate": "2024-02-06T23:20:00Z",
+  "market_endDate": "2024-02-09T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:17:38+00",
+  "conditionId": "0x81de1b212c3dad3efb810e60d6c46d9ebecdd416b4a8d3335386fa6664d46dc5",
+  "slug": "super-bowl-lviii-will-the-49ers-win-by-between-15-and-21-points",
+  "question": "Super Bowl LVIII: Will the 49ers win by between 15 and 21 points?"
+}

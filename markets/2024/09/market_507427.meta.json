@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507427",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T20:35:17.102486Z",
+  "market_createdAt": "2024-09-18T20:35:17.102486Z",
+  "market_updatedAt": "2024-11-02T21:01:12.323502Z",
+  "market_startDate": "2024-09-19T00:49:40.300789Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 23:00:09+00",
+  "conditionId": "0x2aafc5e2c2653bf25664ba5a767b2164bd2b132e22e03aebb0e2f469d2a8bd17",
+  "slug": "30-year-mortgage-drops-below-5-before-election",
+  "question": "30-year mortgage rate below 5% before election?"
+}

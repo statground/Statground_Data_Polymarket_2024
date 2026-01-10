@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515885",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T20:32:32.678815Z",
+  "market_createdAt": "2024-12-17T20:32:32.678815Z",
+  "market_updatedAt": "2025-03-15T14:01:09.866946Z",
+  "market_startDate": "2024-12-17T22:23:55.726Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-03-14 16:02:15+00",
+  "conditionId": "0xe513c27e266f08d04a617053118f20b8311c898791b96beeac4aab6a1da08ded",
+  "slug": "will-the-cducsu-win-20-25-of-the-vote-in-the-german-election",
+  "question": "Will the CDU/CSU win 20-25% of the vote in the German election?"
+}

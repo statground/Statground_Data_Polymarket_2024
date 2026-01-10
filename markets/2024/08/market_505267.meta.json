@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505267",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-17T22:05:19.836291Z",
+  "market_createdAt": "2024-08-17T22:05:19.836291Z",
+  "market_updatedAt": "2024-08-19T22:32:59.026587Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-18 22:28:32+00",
+  "conditionId": "0xa68de01ab46214e116f8ab702ac1188fc5435d367fe63ca8e398a768b7edeaf5",
+  "slug": "trump-posts-less-than-10-times-on-x",
+  "question": "Trump posts less than 10 times on X?"
+}

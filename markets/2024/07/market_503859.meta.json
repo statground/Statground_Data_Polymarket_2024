@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503859",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T14:52:08.962932Z",
+  "market_createdAt": "2024-07-19T14:52:08.962932Z",
+  "market_updatedAt": "2024-07-22T02:08:37.137143Z",
+  "market_startDate": "2024-07-19T22:41:35.864Z",
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-07-21 04:15:06+00",
+  "conditionId": "0x81659878d0018816fc7f223d10af6699c59c7c44f4171c3a74a0ebeeed01846c",
+  "slug": "ufc-fight-night-who-will-win-garcia-vs-choi",
+  "question": "UFC Fight Night: Who will win - Garcia vs. Choi"
+}

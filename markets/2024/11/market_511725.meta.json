@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:29:34.223950Z",
+  "market_createdAt": "2024-11-01T19:29:34.22395Z",
+  "market_updatedAt": "2024-11-04T17:01:04.195608Z",
+  "market_startDate": "2024-11-02T21:32:59.094695Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:38:51+00",
+  "conditionId": "0x0197aed5ab22146e0d8414cdacd547218cd5159960cb3a96687907d3547e9108",
+  "slug": "will-the-cowboys-and-falcons-combine-for-52-or-more-points",
+  "question": "Will the Cowboys and Falcons combine for 52 or more points?"
+}

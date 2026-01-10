@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:08:19.675452Z",
+  "market_createdAt": "2024-08-27T19:08:19.675452Z",
+  "market_updatedAt": "2024-08-29T20:57:11.606992Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:36:40+00",
+  "conditionId": "0x8c05d42c0ae5deace87c4068b80842be726feea96caaf3810e62f8ed98a5a37c",
+  "slug": "will-jd-vance-say-mamaw-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"mamaw\" during Pennsylvania rally?"
+}

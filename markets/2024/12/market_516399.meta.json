@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:26:02.062827Z",
+  "market_createdAt": "2024-12-25T06:26:02.062827Z",
+  "market_updatedAt": "2024-12-27T20:03:21.372924Z",
+  "market_startDate": "2024-12-25T06:28:27.505485Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:10:06+00",
+  "conditionId": "0xe11dc5c6006cf0b449ee63e2fb656eda08e790b86b137748d006bb1dd3b4fd17",
+  "slug": "epl-not-tot-2024-12-26-tot",
+  "question": "Will Tottenham win on 2024-12-26?"
+}

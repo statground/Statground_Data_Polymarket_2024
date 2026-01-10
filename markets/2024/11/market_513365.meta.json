@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T18:40:46.537150Z",
+  "market_createdAt": "2024-11-18T18:40:46.53715Z",
+  "market_updatedAt": "2024-12-07T05:59:07.699804Z",
+  "market_startDate": "2024-11-18T20:03:36.438Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-12-06 07:19:52+00",
+  "conditionId": "0x6426fbad52ff65beef94dc0e401c847a1f6a3d4c5e65aa42d666d3b421835006",
+  "slug": "will-trump-say-monkey-pox-in-his-next-speech",
+  "question": "Will Trump say \"monkey pox\" in his next speech?"
+}

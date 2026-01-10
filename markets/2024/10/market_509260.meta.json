@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T17:26:47.709561Z",
+  "market_createdAt": "2024-10-08T17:26:47.709561Z",
+  "market_updatedAt": "2024-10-17T01:02:55.694972Z",
+  "market_startDate": "2024-10-08T22:24:24.794Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-16 01:46:45+00",
+  "conditionId": "0xabb25ec6c0838ee91283831bb9b7b1961ad19947e0a376761e72374b3336a302",
+  "slug": "will-terrifier-3-gross-less-than-16m-opening-weekend",
+  "question": "Will 'Terrifier 3' gross less than $16m opening weekend?"
+}

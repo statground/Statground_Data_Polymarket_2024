@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T17:38:29.299337Z",
+  "market_createdAt": "2024-08-30T17:38:29.299337Z",
+  "market_updatedAt": "2024-09-09T17:37:14.777483Z",
+  "market_startDate": "2024-08-30T21:07:34.985801Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 00:53:09+00",
+  "conditionId": "0x307e9e214ae79f0c7432ed3ec4470d0de6a9d2f6f062b0f04317db17a87c5f2a",
+  "slug": "will-great-britain-win-the-most-medals-in-the-2024-paralympics",
+  "question": "Will Great Britain win the most medals in the 2024 Paralympics?"
+}

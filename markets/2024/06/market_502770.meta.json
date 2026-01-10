@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-22T21:12:17.068537Z",
+  "market_createdAt": "2024-06-22T21:12:17.068537Z",
+  "market_updatedAt": "2024-06-24T21:01:17.795959Z",
+  "market_startDate": "2024-06-22T21:16:02.514Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:20:41+00",
+  "conditionId": "0xf7d0fad63d45d6145d97653c34459a65643948a5c2850f0961edf8ce21a63272",
+  "slug": "will-hungary-win-june-23",
+  "question": "Will Hungary win?"
+}

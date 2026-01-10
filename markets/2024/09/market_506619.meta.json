@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506619",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-08T00:24:24.752064Z",
+  "market_createdAt": "2024-09-08T00:24:24.752064Z",
+  "market_updatedAt": "2024-09-09T19:31:22.064861Z",
+  "market_startDate": "2024-09-08T02:00:18.484804Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:09:45+00",
+  "conditionId": "0x3cef65c46ec2ec35f980ed19e0e708418b742e83cdb2062024a8c1ed3ea825c6",
+  "slug": "will-the-chargers-win-by-4-or-more-points",
+  "question": "Will the Chargers win by 4 or more points?"
+}

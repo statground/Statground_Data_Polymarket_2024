@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510135",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:03:58.185091Z",
+  "market_createdAt": "2024-10-18T17:03:58.185091Z",
+  "market_updatedAt": "2024-10-20T09:26:45.117614Z",
+  "market_startDate": "2024-10-18T23:31:33.624853Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 20:52:08+00",
+  "conditionId": "0x033038f47e6049036012385bd8355c7c4f9e8600996f20e868442a48a0c958e4",
+  "slug": "will-there-be-41-or-more-combined-points-scored-Rutgers-UCLA",
+  "question": "Will there be 41 or more combined points scored?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500304",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T00:25:44.381138Z",
+  "market_createdAt": "2024-03-19T00:25:44.381138Z",
+  "market_updatedAt": "2024-05-07T23:10:09.530716Z",
+  "market_startDate": "2024-03-19T00:31:57.491Z",
+  "market_endDate": "2024-03-22T04:00:00Z",
+  "market_closedTime": "2024-03-19 03:47:20+00",
+  "conditionId": "0xe09f5ce9218e72961fdc25817004e5c0ba6d8071db605c4faae1adef93551da8",
+  "slug": "bome-fdv-below-500m-by-friday",
+  "question": "$BOME FDV below $500M by Friday?"
+}

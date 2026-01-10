@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T15:08:30.707724Z",
+  "market_createdAt": "2024-10-31T15:08:30.707724Z",
+  "market_updatedAt": "2024-11-02T22:53:10.154589Z",
+  "market_startDate": "2024-11-01T16:13:43.85073Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 00:05:36+00",
+  "conditionId": "0xa6c9f1d4c5adc083091c65c2201b6ada05e24704c68aebe9c5c324c7080eca48",
+  "slug": "will-trump-say-shanghai-during-warren-mi-rally",
+  "question": "Will Trump say \"Shanghai\" during Warren, MI rally?"
+}

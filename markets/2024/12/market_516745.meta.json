@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:04:26.634026Z",
+  "market_createdAt": "2024-12-30T05:04:26.634026Z",
+  "market_updatedAt": "2025-01-05T18:13:45.592824Z",
+  "market_startDate": "2024-12-30T05:07:23.676818Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:33:34+00",
+  "conditionId": "0x743b5a77d54de7e0d24d9a0c6ca7b0cadc0e565f468394720268235e34d15967",
+  "slug": "epl-ast-lei-2025-01-04-draw",
+  "question": "Will Aston Villa vs. Leicester end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504438",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T19:44:47.588421Z",
+  "market_createdAt": "2024-08-01T19:44:47.588421Z",
+  "market_updatedAt": "2024-08-04T17:56:56.60484Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 17:59:42+00",
+  "conditionId": "0x964795a711622050f42e9d623c002af93f5d37799546549c2e6c61fdc49dec0a",
+  "slug": "olympic-boxing-imane-khelif-alg-vs-luca-hamori-hun",
+  "question": "Olympic Boxing: Imane Khelif (ALG) vs Luca Hamori (HUN)"
+}

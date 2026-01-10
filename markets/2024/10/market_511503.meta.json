@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T16:21:32.450994Z",
+  "market_createdAt": "2024-10-31T16:21:32.450994Z",
+  "market_updatedAt": "2024-11-04T03:41:10.984866Z",
+  "market_startDate": "2024-11-01T14:51:53.508Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:10:00+00",
+  "conditionId": "0xd321cf8eb501cd4ea54f885fb63702ddc892f1f181ac87eba5e46a293db80a2c",
+  "slug": "will-trump-say-trans-during-greensboro-nc-rally",
+  "question": "Will Trump say \"trans\" during Greensboro, NC rally?"
+}

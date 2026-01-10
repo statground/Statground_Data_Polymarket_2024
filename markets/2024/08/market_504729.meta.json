@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504729",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T16:56:53.206885Z",
+  "market_createdAt": "2024-08-08T16:56:53.206885Z",
+  "market_updatedAt": "2025-01-06T21:05:48.285586Z",
+  "market_startDate": "2024-08-08T16:56:53.206885Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2025-01-06 00:56:06+00",
+  "conditionId": "0x134c7433953c7fc53c7eeafe4b24e96960c8eb52b0df7c8438cca76a22a35cca",
+  "slug": "will-the-buccaneers-win-the-nfc-south",
+  "question": "Will the Buccaneers win the NFC South?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:11:14.011089Z",
+  "market_createdAt": "2024-10-25T19:11:14.011089Z",
+  "market_updatedAt": "2024-10-28T04:16:41.500449Z",
+  "market_startDate": "2024-10-25T22:30:52.730885Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 05:21:57+00",
+  "conditionId": "0x4a3de42f03ac6be2ac6d317f4e3707b82468047d659db58cd2d36dce0c472de8",
+  "slug": "will-there-be-55-or-more-combined-points-scored-Texas-AM-LSU",
+  "question": "Will there be 55 or more combined points scored?"
+}

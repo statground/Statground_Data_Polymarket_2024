@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510512",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:41:01.796662Z",
+  "market_createdAt": "2024-10-22T03:41:01.796662Z",
+  "market_updatedAt": "2024-10-25T16:13:08.725375Z",
+  "market_startDate": "2024-10-23T15:01:57.181016Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 21:59:17+00",
+  "conditionId": "0xb60e8dceb0d7e8cda6c7c871702c89202bf368ffeb278944baee2be809113e20",
+  "slug": "will-the-match-between-midtjylland-and-union-saint-gilloise-end-in-a-draw",
+  "question": "Will the match between Midtjylland and Union Saint-Gilloise end in a draw?"
+}

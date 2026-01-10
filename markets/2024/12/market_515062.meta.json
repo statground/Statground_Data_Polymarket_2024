@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:00:21.294794Z",
+  "market_createdAt": "2024-12-08T07:00:21.294794Z",
+  "market_updatedAt": "2024-12-14T04:07:14.551348Z",
+  "market_startDate": "2024-12-08T07:03:47.04831Z",
+  "market_endDate": "2024-12-20T00:00:00Z",
+  "market_closedTime": "2024-12-13 05:09:33+00",
+  "conditionId": "0x1127a6664bfd9d564e04b4fa157cfebb64805466d51732c98e1287b2649135a6",
+  "slug": "nhl-wsh-cbj-2024-12-12",
+  "question": "Capitals vs. Blue Jackets"
+}

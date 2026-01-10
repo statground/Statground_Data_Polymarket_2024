@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T23:17:21.955020Z",
+  "market_createdAt": "2024-11-08T23:17:21.95502Z",
+  "market_updatedAt": "2024-11-11T14:22:39.649486Z",
+  "market_startDate": "2024-11-09T02:54:59.183092Z",
+  "market_endDate": "2024-11-10T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:22:29+00",
+  "conditionId": "0x820208cafabc572bc218a420e8756937b709738e1ba1ce49faf55a2eb8659b14",
+  "slug": "will-the-giants-beat-the-panthers-by-7-or-more-points",
+  "question": "Will the Giants beat the Panthers by 7 or more points?"
+}

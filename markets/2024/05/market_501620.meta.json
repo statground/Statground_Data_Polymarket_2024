@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:51:06.817335Z",
+  "market_createdAt": "2024-05-15T14:51:06.817335Z",
+  "market_updatedAt": "2024-06-08T20:51:18.143093Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-07 23:26:51+00",
+  "conditionId": "0x67997559abaf9cb1f65097223dab3ed970fd6cc433af17cfc3c629e5fdf76674",
+  "slug": "will-casper-ruud-win-the-2024-french-open-mens-singles",
+  "question": "Will Casper Ruud win the 2024 French Open Men's Singles?"
+}

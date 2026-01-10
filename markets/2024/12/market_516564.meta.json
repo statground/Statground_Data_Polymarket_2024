@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516564",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:23:32.018379Z",
+  "market_createdAt": "2024-12-27T21:23:32.018379Z",
+  "market_updatedAt": "2024-12-31T01:05:48.492012Z",
+  "market_startDate": "2024-12-27T22:13:58.032419Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-30 06:58:39+00",
+  "conditionId": "0xd0b03bd451a04ba4ef118ac5cbdb9b9224be65618d15645cdf81889bebc4f64e",
+  "slug": "will-the-commanders-beat-the-falcons-by-4-or-more-points",
+  "question": "Will the Commanders beat the Falcons by 4 or more points?"
+}

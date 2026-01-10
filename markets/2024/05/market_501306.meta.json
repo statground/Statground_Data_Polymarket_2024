@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-01T14:46:06.316921Z",
+  "market_createdAt": "2024-05-01T14:46:06.316921Z",
+  "market_updatedAt": "2024-06-13T19:26:17.661941Z",
+  "market_startDate": "2024-05-01T15:56:27.85Z",
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-12 21:11:56+00",
+  "conditionId": "0x67a072e839762191a7931e405923110d52343ef6dc1d61cfc0720233951c03e4",
+  "slug": "no-change-in-fed-interest-rates-after-2024-june-meeting",
+  "question": "No change in Fed interest rates after 2024 June meeting?"
+}

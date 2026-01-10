@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501765",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:20:05.827430Z",
+  "market_createdAt": "2024-05-22T16:20:05.82743Z",
+  "market_updatedAt": "2024-07-05T18:25:03.594255Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:22:48+00",
+  "conditionId": "0x90cf5a30dbfb33d2a6c8f3335f891aa20e5d52c6b0d6365e04e6c11cf05d6a0d",
+  "slug": "will-penny-mordaunt-be-next-uk-prime-minister",
+  "question": "Will Penny Mordaunt be next UK prime minister?"
+}

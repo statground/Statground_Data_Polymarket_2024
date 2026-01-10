@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:24:21.218101Z",
+  "market_createdAt": "2024-07-01T20:24:21.218101Z",
+  "market_updatedAt": "2024-07-03T03:20:47.941213Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:17:58+00",
+  "conditionId": "0x6703402a9cef167efe7ad2be7bbcb1fbbe5fed031c7b97f7aa6431356d8a0f26",
+  "slug": "will-bolivia-win-jul-1",
+  "question": "Will Bolivia win?"
+}

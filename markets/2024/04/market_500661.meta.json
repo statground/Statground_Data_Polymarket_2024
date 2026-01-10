@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500661",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:00:45.822056Z",
+  "market_createdAt": "2024-04-04T15:00:45.822056Z",
+  "market_updatedAt": "2024-11-07T21:23:06.419277Z",
+  "market_startDate": "2024-04-12T20:09:44.232Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:27:02+00",
+  "conditionId": "0x7874d6195e3db71556ea07044420dc8889a7c3a41c75135377346d6813a7b0bb",
+  "slug": "will-a-candidate-from-another-party-win-california-us-senate-election",
+  "question": "Will a candidate from another party win California US Senate Election?"
+}

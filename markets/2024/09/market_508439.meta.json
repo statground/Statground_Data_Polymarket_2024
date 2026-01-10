@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:24:26.450027Z",
+  "market_createdAt": "2024-09-30T19:24:26.450027Z",
+  "market_updatedAt": "2024-11-02T10:37:09.0695Z",
+  "market_startDate": "2024-10-01T15:25:48.668543Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 11:00:43+00",
+  "conditionId": "0x5a7eca35458fbb8916753f03f8ed38994869780e6a481b7b06a34b1d6e62449d",
+  "slug": "ukraine-strike-on-moscow-before-november",
+  "question": "Ukraine strike on Moscow before November?"
+}

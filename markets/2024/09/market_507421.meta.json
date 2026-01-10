@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T19:15:14.481189Z",
+  "market_createdAt": "2024-09-18T19:15:14.481189Z",
+  "market_updatedAt": "2024-11-29T19:17:29.716758Z",
+  "market_startDate": "2024-09-18T21:55:58.943Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-28 21:38:24+00",
+  "conditionId": "0x40e994f2cde8c7ca564c1b54b397a5cbd3a01295d842b1fb34766d45032a9df7",
+  "slug": "ia-01-election-bohannan-d-vs-miller-meeks-r",
+  "question": "IA-01 election: Bohannan (D) vs. Miller-Meeks (R)"
+}

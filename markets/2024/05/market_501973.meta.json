@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T18:27:06.195260Z",
+  "market_createdAt": "2024-05-31T18:27:06.19526Z",
+  "market_updatedAt": "2024-09-02T08:01:11.291195Z",
+  "market_startDate": "2024-05-31T18:27:06.19526Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 10:11:47+00",
+  "conditionId": "0xb62380b73d580e991b2e264db58588cf395722f65b82822e4f8776a36b50ae89",
+  "slug": "israel-withdraws-from-gaza-before-september",
+  "question": "Israel withdraws from Gaza before September?"
+}

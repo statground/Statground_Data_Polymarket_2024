@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:04:33.996534Z",
+  "market_createdAt": "2024-09-17T19:04:33.996534Z",
+  "market_updatedAt": "2024-09-20T02:42:41.990174Z",
+  "market_startDate": "2024-09-17T21:49:05.220215Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-19 02:49:33+00",
+  "conditionId": "0x032362c353b5d285ec891702ac49583687694f9babd38a1a537181f1bca78306",
+  "slug": "will-donald-trump-say-underdog-during-his-uniondale-rally",
+  "question": "Will Donald Trump say \"underdog\" during his Uniondale rally?"
+}

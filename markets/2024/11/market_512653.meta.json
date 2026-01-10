@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T17:01:34.293304Z",
+  "market_createdAt": "2024-11-11T17:01:34.293304Z",
+  "market_updatedAt": "2024-11-18T23:11:17.969758Z",
+  "market_startDate": "2024-11-11T17:04:04.852975Z",
+  "market_endDate": "2024-11-24T18:00:00Z",
+  "market_closedTime": "2024-11-17 23:06:36+00",
+  "conditionId": "0x2b04e4d381c0b83d92146f6a0a98e5e0ba4d6f6e1d43e00b49723882bc6bf9e1",
+  "slug": "nfl-jax-det-2024-11-17",
+  "question": "Jaguars vs. Lions"
+}

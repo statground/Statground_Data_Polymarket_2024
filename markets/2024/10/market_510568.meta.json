@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510568",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:35:02.094155Z",
+  "market_createdAt": "2024-10-22T16:35:02.094155Z",
+  "market_updatedAt": "2024-10-25T23:42:57.017809Z",
+  "market_startDate": "2024-10-22T20:58:10.304072Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:23:08+00",
+  "conditionId": "0xfc059df6971dd866a4274202d885e0a8c7c9c1fdeae4b1dde2fdd12449cf611f",
+  "slug": "will-tottenham-beat-az-alkmaar",
+  "question": "Will Tottenham beat AZ Alkmaar?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:09:01.319890Z",
+  "market_createdAt": "2024-12-22T05:09:01.31989Z",
+  "market_updatedAt": "2024-12-29T05:09:10.858473Z",
+  "market_startDate": "2024-12-22T05:11:36.2575Z",
+  "market_endDate": "2025-01-04T00:30:00Z",
+  "market_closedTime": "2024-12-28 05:13:16+00",
+  "conditionId": "0x4e20b0bcb55fc96d456691eb1dbf7ebe551d3fc8bccca68b97481ac095a8ad39",
+  "slug": "nba-sas-bkn-2024-12-27",
+  "question": "Spurs vs. Nets"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503291",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:25:02.942757Z",
+  "market_createdAt": "2024-07-08T22:25:02.942757Z",
+  "market_updatedAt": "2024-07-22T19:40:36.541059Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:35:46+00",
+  "conditionId": "0xe2782e73cfcb64ca9ac3aa55b81aa7ea8c70ef4a80d477185b3e38a2c843b260",
+  "slug": "will-jonas-vingegaard-win-the-2024-tour-de-france",
+  "question": "Will Jonas Vingegaard win the 2024 Tour de France?"
+}

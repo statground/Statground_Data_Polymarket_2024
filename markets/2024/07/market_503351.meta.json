@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T16:21:19.231843Z",
+  "market_createdAt": "2024-07-10T16:21:19.231843Z",
+  "market_updatedAt": "2024-08-12T02:46:50.183485Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:15:24+00",
+  "conditionId": "0xede22d3002aba4da2c6f81af2c539bc18351160e8d5711bf7a3b662a59f2bb81",
+  "slug": "france-wins-the-most-medals-in-2024-paris-olympics",
+  "question": "France wins the most medals in 2024 Paris Olympics?"
+}

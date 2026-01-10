@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T14:48:19.515667Z",
+  "market_createdAt": "2024-10-28T14:48:19.515667Z",
+  "market_updatedAt": "2024-10-31T02:07:12.501318Z",
+  "market_startDate": "2024-10-28T15:38:16.232334Z",
+  "market_endDate": "2024-10-29T12:00:00Z",
+  "market_closedTime": "2024-10-30 02:49:55+00",
+  "conditionId": "0x68be90ba4adbfa22f835d1e74903bc3d42e9b7efcbb8e4209f9410b684ca9862",
+  "slug": "will-trump-say-maga-4-or-more-times-during-pennsylvania-rally-on-oct-29",
+  "question": "Will Trump say \"MAGA\" 4 or more times during Pennsylvania rally on Oct 29?"
+}

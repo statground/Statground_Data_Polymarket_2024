@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T21:23:42.480693Z",
+  "market_createdAt": "2024-08-08T21:23:42.480693Z",
+  "market_updatedAt": "2025-01-01T12:35:11.013134Z",
+  "market_startDate": "2024-08-08T21:23:42.480693Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 12:32:17+00",
+  "conditionId": "0x33cc9da04ae2802f62d1c8d6d134fb4efd477b4be26838a4be132529a688cb88",
+  "slug": "someone-else-announced-as-next-blackrock-ceo",
+  "question": "Someone else announced as next BlackRock CEO?"
+}

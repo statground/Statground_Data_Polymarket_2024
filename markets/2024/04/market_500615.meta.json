@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-02T16:19:32.623115Z",
+  "market_createdAt": "2024-04-02T16:19:32.623115Z",
+  "market_updatedAt": "2024-11-13T10:43:07.559681Z",
+  "market_startDate": "2024-04-03T21:42:09.743Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-12 10:39:27+00",
+  "conditionId": "0xac7162f96876ea602d984de6f9800b8a4b8a45897e798a7630d9e004ae5b9a0b",
+  "slug": "will-a-republican-win-arizona-us-senate-election",
+  "question": "Will a Republican win Arizona US Senate Election?"
+}

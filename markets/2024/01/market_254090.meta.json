@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-24T21:16:53.146000Z",
+  "market_createdAt": "2024-01-24T21:16:53.146Z",
+  "market_updatedAt": "2024-02-03T02:09:49.02Z",
+  "market_startDate": "2024-01-25T19:03:00Z",
+  "market_endDate": "2024-01-30T00:00:00Z",
+  "market_closedTime": "2024-02-02 08:01:36+00",
+  "conditionId": "0x05a45925d271ada170ad423c018b4192c851d9cbbb565f3cc5e661f278baf1cd",
+  "slug": "will-jim-cramer-tweet-bitcoin-5-times-jan-26-feb-1",
+  "question": "Will Jim Cramer tweet bitcoin 5+ times Jan 26-Feb 1?"
+}

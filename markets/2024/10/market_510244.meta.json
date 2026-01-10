@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T14:22:55.171152Z",
+  "market_createdAt": "2024-10-21T14:22:55.171152Z",
+  "market_updatedAt": "2024-10-22T22:21:26.694323Z",
+  "market_startDate": "2024-10-21T14:54:39.024719Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 22:33:51+00",
+  "conditionId": "0x1dfa793bf2978b0f570f1751feeb08582c772cda5475826bcea092fd70e5cb86",
+  "slug": "will-trump-say-teleprompter-during-north-carolina-rally-on-october-21",
+  "question": "Will Trump say \"Teleprompter\" during North Carolina rally on October 21?"
+}

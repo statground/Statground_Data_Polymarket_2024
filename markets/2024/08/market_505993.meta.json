@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505993",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:01:45.473290Z",
+  "market_createdAt": "2024-08-28T19:01:45.47329Z",
+  "market_updatedAt": "2024-09-02T03:11:07.597895Z",
+  "market_startDate": "2024-08-28T19:01:45.47329Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 21:16:11+00",
+  "conditionId": "0x2f93dcac5b8563d1e4043af9e6111d575cf35e1963c8a74ba16d4881c665c397",
+  "slug": "will-another-driver-win-the-2024-italian-grand-prix",
+  "question": "Will another driver win the 2024 Italian Grand Prix?"
+}

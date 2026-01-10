@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515426",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T21:26:17.795238Z",
+  "market_createdAt": "2024-12-11T21:26:17.795238Z",
+  "market_updatedAt": "2024-12-19T21:35:23.369093Z",
+  "market_startDate": "2024-12-11T21:29:41.966Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-18 21:39:24+00",
+  "conditionId": "0x3176db447b011c424c3470532c4bbb48d749dc0e4329ac5779043699e4d3f343",
+  "slug": "will-jerome-powell-say-good-afternoon-during-december-fomc-press-conference",
+  "question": "Will Jerome Powell say \"good afternoon\" during December FOMC Press Conference?"
+}

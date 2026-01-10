@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:50:01.660395Z",
+  "market_createdAt": "2024-10-08T19:50:01.660395Z",
+  "market_updatedAt": "2024-10-12T22:10:43.688274Z",
+  "market_startDate": "2024-10-09T15:48:33.072849Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:37:39+00",
+  "conditionId": "0x31b817bcc4fe3953eca29bbb0bab35eb027894fcc0e62f09e6e0fd04bc7c17ac",
+  "slug": "will-trump-say-death-tax-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"death tax\" during Colorado rally on October 11?"
+}

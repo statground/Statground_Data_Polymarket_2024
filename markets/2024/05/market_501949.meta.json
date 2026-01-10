@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501949",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T14:57:13.853902Z",
+  "market_createdAt": "2024-05-31T14:57:13.853902Z",
+  "market_updatedAt": "2024-06-18T07:02:05.585757Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:00:40+00",
+  "conditionId": "0x113415563bef8c6e6a1af17bbf54de355e26462b46df9811b63d6bcb6e8c5d6a",
+  "slug": "al-horford-2024-nba-finals-mvp",
+  "question": "Al Horford 2024 NBA Finals MVP?"
+}

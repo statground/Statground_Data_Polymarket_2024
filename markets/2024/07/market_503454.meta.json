@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503454",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-13T23:44:17.490838Z",
+  "market_createdAt": "2024-07-13T23:44:17.490838Z",
+  "market_updatedAt": "2024-07-17T00:22:46.491217Z",
+  "market_startDate": "2024-07-14T01:12:50.609Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-16 01:32:41+00",
+  "conditionId": "0x5d2f7f958eeb52835fc4bcbb86d5a89ee8b51a7263a065b8b4699db6a8ce6562",
+  "slug": "fact-check-was-it-a-real-gun",
+  "question": "Fact Check: Was it a real gun?"
+}

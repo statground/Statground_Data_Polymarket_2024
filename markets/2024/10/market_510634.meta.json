@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510634",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T19:37:13.091385Z",
+  "market_createdAt": "2024-10-22T19:37:13.091385Z",
+  "market_updatedAt": "2024-10-27T06:11:03.042044Z",
+  "market_startDate": "2024-10-23T17:40:02.963Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 07:00:32+00",
+  "conditionId": "0x61fd14595f5d798ea0cb8822ae66b397a184abb66d726e7d84eac1d0ed87113e",
+  "slug": "will-trump-say-pocahontas-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"Pocahontas\" on The Joe Rogan Experience?"
+}

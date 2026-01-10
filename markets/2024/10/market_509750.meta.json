@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:34:33.233896Z",
+  "market_createdAt": "2024-10-11T22:34:33.233896Z",
+  "market_updatedAt": "2024-10-14T22:50:56.068536Z",
+  "market_startDate": "2024-10-11T23:21:02.360188Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:43:53+00",
+  "conditionId": "0xdc78085532e026effe4fe0489fc28dcdc37936064ab5422977f83099c63df2ea",
+  "slug": "will-the-panthers-and-falcons-combine-for-47-or-more-points",
+  "question": "Will the Panthers and Falcons combine for 47 or more points?"
+}

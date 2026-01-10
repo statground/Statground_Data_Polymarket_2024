@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500147",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-14T16:18:25.899539Z",
+  "market_createdAt": "2024-03-14T16:18:25.899539Z",
+  "market_updatedAt": "2024-05-07T23:10:01.765587Z",
+  "market_startDate": "2024-03-18T21:42:11.965Z",
+  "market_endDate": "2024-03-22T12:00:00Z",
+  "market_closedTime": "2024-03-23 06:08:32+00",
+  "conditionId": "0x845a148d160a26be13c920ca2473b88704819fd66356063b6959c98a66c6b182",
+  "slug": "us-gov-shutdownlapse-on-mar-23",
+  "question": "US gov shutdown/lapse on Mar 23?"
+}

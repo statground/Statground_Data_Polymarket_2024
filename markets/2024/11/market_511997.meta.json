@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511997",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:21:29.585354Z",
+  "market_createdAt": "2024-11-05T04:21:29.585354Z",
+  "market_updatedAt": "2024-11-08T00:28:57.74374Z",
+  "market_startDate": "2024-11-05T20:17:09.09089Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:19:34+00",
+  "conditionId": "0x1554df27c236867fec681581dd7eb0acc56e2f76517cf6c0cf249a47f07b6836",
+  "slug": "will-the-match-between-feyenoord-and-rb-salzburg-end-in-a-draw",
+  "question": "Will the match between Feyenoord and RB Salzburg end in a draw?"
+}

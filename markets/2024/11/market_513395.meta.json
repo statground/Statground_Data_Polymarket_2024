@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T21:01:53.196533Z",
+  "market_createdAt": "2024-11-18T21:01:53.196533Z",
+  "market_updatedAt": "2025-01-01T16:31:13.268089Z",
+  "market_startDate": "2024-11-18T21:39:09.272234Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:08:20+00",
+  "conditionId": "0x02ff62dd162f1f680beb74b9afc753f202d97a3732697c0460c35c33d23b0555",
+  "slug": "will-fwog-be-listed-first-on-binance",
+  "question": "Will $FWOG be listed first on Binance?"
+}

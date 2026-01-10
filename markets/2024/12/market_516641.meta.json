@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516641",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:01:29.256330Z",
+  "market_createdAt": "2024-12-29T06:01:29.25633Z",
+  "market_updatedAt": "2025-01-06T23:07:31.680184Z",
+  "market_startDate": "2024-12-29T06:04:00.612065Z",
+  "market_endDate": "2025-01-12T05:00:00Z",
+  "market_closedTime": "2025-01-05 23:23:57+00",
+  "conditionId": "0x007d96e86168e3eba267690f04492b5a3a0250970746dbbb17266a26e8f84ddb",
+  "slug": "nfl-hou-ten-2025-01-05",
+  "question": "Texans vs. Titans"
+}

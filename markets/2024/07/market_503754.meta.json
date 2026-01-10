@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503754",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:56:13.396647Z",
+  "market_createdAt": "2024-07-18T18:56:13.396647Z",
+  "market_updatedAt": "2024-07-28T23:11:37.715248Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-28 23:08:21+00",
+  "conditionId": "0x23ea3f2d38758419d325ca5847f79c69e0a42d43b22fc60e0ed4d447dd8cb3e8",
+  "slug": "will-sam-williamson-aus-win-gold-in-mens-100m-breaststroke",
+  "question": "Will Sam Williamson (AUS) win Gold in Men's 100m Breaststroke?"
+}

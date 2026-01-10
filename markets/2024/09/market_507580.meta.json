@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:56:35.144828Z",
+  "market_createdAt": "2024-09-20T15:56:35.144828Z",
+  "market_updatedAt": "2024-09-22T19:26:51.505949Z",
+  "market_startDate": "2024-09-20T16:16:38.601767Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 21:56:21+00",
+  "conditionId": "0x2087cd214f8a43b41636c826de2205172c5bba0b87c6fe2b51fa4d97291c7f09",
+  "slug": "will-clemson-beat-nc-state-by-19-or-more-points",
+  "question": "Will Clemson beat NC State by 19 or more points?"
+}

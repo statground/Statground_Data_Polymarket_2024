@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T19:37:42.370095Z",
+  "market_createdAt": "2024-09-04T19:37:42.370095Z",
+  "market_updatedAt": "2024-09-12T04:13:01.872417Z",
+  "market_startDate": "2024-09-04T19:44:59.825Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 04:13:08+00",
+  "conditionId": "0x73c167c2ed26d7bb0d624fb5f0ab2c18aa2239d60f6ecc989eb654a962487025",
+  "slug": "will-trump-say-israel-at-debate",
+  "question": "Will Trump say \"Israel\" at debate?"
+}

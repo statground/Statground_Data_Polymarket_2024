@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:09:37.676940Z",
+  "market_createdAt": "2024-12-30T05:09:37.67694Z",
+  "market_updatedAt": "2025-01-06T20:41:31.922028Z",
+  "market_startDate": "2024-12-30T05:12:09.193376Z",
+  "market_endDate": "2025-01-05T16:30:00Z",
+  "market_closedTime": "2025-01-05 21:43:05+00",
+  "conditionId": "0x52fcf6a6eacd203d4f30049614273a57fb8a0b5f2f4ef73e646e3085a1835fba",
+  "slug": "epl-liv-mun-2025-01-05-liv",
+  "question": "Will Liverpool win on 2025-01-05?"
+}

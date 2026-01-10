@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516917",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T05:02:54.084666Z",
+  "market_createdAt": "2024-12-31T05:02:54.084666Z",
+  "market_updatedAt": "2025-01-03T03:53:04.42914Z",
+  "market_startDate": "2024-12-31T05:05:55.119527Z",
+  "market_endDate": "2025-01-08T22:00:00Z",
+  "market_closedTime": "2025-01-02 03:56:27+00",
+  "conditionId": "0xfb3ba8f6118dc6405002d1ff3153e1649e18fe1a8e27ba1ba755c0c9c1000d30",
+  "slug": "cfb-ohst-oreg-2025-01-01",
+  "question": "Ohio State vs. Oregon"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T15:32:08.817202Z",
+  "market_createdAt": "2024-04-22T15:32:08.817202Z",
+  "market_updatedAt": "2024-05-07T23:09:32.955698Z",
+  "market_startDate": "2024-04-22T15:38:28.4Z",
+  "market_endDate": "2024-04-24T12:00:00Z",
+  "market_closedTime": "2024-04-24 04:16:46+00",
+  "conditionId": "0x442d521c27cc8f78e845670d35222b6f7df21bee567650ca90a5f32bdb80478a",
+  "slug": "columbia-resumes-in-person-classes-by-wednesday",
+  "question": "Columbia resumes in-person classes by Wed?"
+}

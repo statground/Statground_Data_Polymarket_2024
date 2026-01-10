@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:28:23.991359Z",
+  "market_createdAt": "2024-10-11T21:28:23.991359Z",
+  "market_updatedAt": "2024-10-14T21:30:40.207281Z",
+  "market_startDate": "2024-10-11T22:26:08.696189Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:42:35+00",
+  "conditionId": "0xaab6bc17ef18683abcda272bc081b106eb60860f61d39e475c8a8ac92c59d0c4",
+  "slug": "will-the-buccaneers-beat-the-saints-by-4-or-more-points",
+  "question": "Will the Buccaneers beat the Saints by 4 or more points?"
+}

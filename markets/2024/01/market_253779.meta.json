@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253779",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T22:21:10.851000Z",
+  "market_createdAt": "2024-01-10T22:21:10.851Z",
+  "market_updatedAt": "2024-01-21T16:41:18.064Z",
+  "market_startDate": "2024-01-11T01:14:40.392Z",
+  "market_endDate": "2024-01-19T00:00:00Z",
+  "market_closedTime": "2024-01-20 22:01:00+00",
+  "conditionId": "0x7e799a35d58bbfe4f8e70b9ee908fb9f53f863f6cc93b1cc006e35221aa8647d",
+  "slug": "btc-etfs-first-week-combined-aum-between-10-30-billion",
+  "question": "BTC ETFs first week combined AUM between $10-30 billion?"
+}

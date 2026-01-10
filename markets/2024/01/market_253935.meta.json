@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T22:18:46.911000Z",
+  "market_createdAt": "2024-01-16T22:18:46.911Z",
+  "market_updatedAt": "2024-02-25T07:21:27.11Z",
+  "market_startDate": "2024-01-17T02:05:08.06Z",
+  "market_endDate": "2024-02-21T00:00:00Z",
+  "market_closedTime": "2024-02-25 07:16:15+00",
+  "conditionId": "0x81a920b3f81bfab5dd3bf2c3fa1b7be6b2c59937e5999f9cd6ef7e53e7efb61b",
+  "slug": "will-another-candidate-win-the-south-carolina-republican-primary",
+  "question": "Will another candidate win the South Carolina Republican Primary?"
+}

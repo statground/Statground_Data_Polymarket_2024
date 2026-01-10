@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501834",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T21:18:27.348647Z",
+  "market_createdAt": "2024-05-24T21:18:27.348647Z",
+  "market_updatedAt": "2024-06-02T03:21:12.201873Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:25:39+00",
+  "conditionId": "0x5178e860f000a9afbd8c0441cd0b02e15e3f28eb7bede283e508e3c630c36d84",
+  "slug": "will-israel-halt-rafah-operation-in-may",
+  "question": "Will Israel halt Rafah operation in May?"
+}

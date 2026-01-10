@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253591",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-04T17:33:51.332000Z",
+  "market_createdAt": "2024-01-04T17:33:51.332Z",
+  "market_updatedAt": "2024-11-07T15:23:00.928768Z",
+  "market_startDate": "2024-01-04T22:58:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:17:41+00",
+  "conditionId": "0xdd22472e552920b8438158ea7238bfadfa4f736aa4cee91a6b86c39ead110917",
+  "slug": "will-donald-trump-win-the-2024-us-presidential-election",
+  "question": "Will Donald Trump win the 2024 US Presidential Election?"
+}

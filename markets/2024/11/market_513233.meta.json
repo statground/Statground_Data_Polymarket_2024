@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:47:45.446237Z",
+  "market_createdAt": "2024-11-15T21:47:45.446237Z",
+  "market_updatedAt": "2025-01-21T20:55:04.710305Z",
+  "market_startDate": "2024-11-15T22:25:40.921Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:49:28+00",
+  "conditionId": "0xec062773d9bcb38e22d673402ea20e895c764e0f85d8691c541fa896812c1948",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-his-inauguration-speech",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during his inauguration speech?"
+}

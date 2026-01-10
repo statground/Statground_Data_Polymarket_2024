@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514768",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:12:00.157218Z",
+  "market_createdAt": "2024-12-04T21:12:00.157218Z",
+  "market_updatedAt": "2024-12-08T03:27:13.16776Z",
+  "market_startDate": "2024-12-04T21:15:18.554826Z",
+  "market_endDate": "2024-12-14T00:00:00Z",
+  "market_closedTime": "2024-12-07 04:46:19+00",
+  "conditionId": "0x4ff977a8301d4011d6ce9e016fff5fd19155dc733ca6e9535597b140563f0624",
+  "slug": "nhl-wsh-tor-2024-12-06",
+  "question": "Capitals vs. Maple Leafs"
+}

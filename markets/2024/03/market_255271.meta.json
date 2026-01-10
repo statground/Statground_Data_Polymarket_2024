@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T01:33:10.348000Z",
+  "market_createdAt": "2024-03-05T01:33:10.348Z",
+  "market_updatedAt": "2024-04-26T02:55:18.628855Z",
+  "market_startDate": "2024-03-06T19:21:59.066Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 05:34:13+00",
+  "conditionId": "0x912ea8ae9b20caec3709b2748c73ae27cee1d1b820d15ef3fb2fd808d3fd097e",
+  "slug": "will-biden-say-fentanyl-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"fentanyl\" during his State of the Union address?"
+}

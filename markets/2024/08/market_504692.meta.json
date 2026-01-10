@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:05:29.158032Z",
+  "market_createdAt": "2024-08-07T21:05:29.158032Z",
+  "market_updatedAt": "2024-08-24T05:50:55.339915Z",
+  "market_startDate": "2024-08-09T20:39:01.082Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:59:24+00",
+  "conditionId": "0xa83ec502b9468239ccc4d07a0975521a4c72f9680bacf893a94c77633ed316fa",
+  "slug": "will-mark-cuban-speak-at-the-dnc",
+  "question": "Will Mark Cuban speak at the DNC?"
+}

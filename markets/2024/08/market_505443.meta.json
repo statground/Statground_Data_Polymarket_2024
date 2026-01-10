@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:31:47.531419Z",
+  "market_createdAt": "2024-08-20T19:31:47.531419Z",
+  "market_updatedAt": "2024-08-22T21:33:04.483281Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:32:39+00",
+  "conditionId": "0xabfb503ec1e3e612b4557458ad7989ef38780d3ec44a352411c8ca95aae8982c",
+  "slug": "will-trump-say-tampon-during-wednesday-speech",
+  "question": "Will Trump say \"tampon\" during Wednesday speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503079",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T20:27:47.821192Z",
+  "market_createdAt": "2024-07-01T20:27:47.821192Z",
+  "market_updatedAt": "2024-07-02T06:19:24.322137Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 06:17:54+00",
+  "conditionId": "0x22b6d3d4c405e133f3dc9997cdb223aa60d0c91472bd4264c235925d72a15c87",
+  "slug": "will-this-match-be-a-draw-bolivia-panama",
+  "question": "Will this match be a draw?"
+}

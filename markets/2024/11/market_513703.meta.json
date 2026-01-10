@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T23:19:44.892790Z",
+  "market_createdAt": "2024-11-21T23:19:44.89279Z",
+  "market_updatedAt": "2024-12-09T05:51:20.175612Z",
+  "market_startDate": "2024-11-22T15:50:16.082091Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-12-08 06:25:13+00",
+  "conditionId": "0xd2f5c03eebda10a3132fae962624215ec7e96fd9e5058b29408cbd01a71d2737",
+  "slug": "mitchell-vs-gracie",
+  "question": "Mitchell vs. Gracie"
+}

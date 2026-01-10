@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T15:02:07.440891Z",
+  "market_createdAt": "2024-03-18T15:02:07.440891Z",
+  "market_updatedAt": "2024-05-07T23:09:20.156802Z",
+  "market_startDate": "2024-03-18T18:57:31.043Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-21 22:08:00+00",
+  "conditionId": "0xe605ba225dc51081ab7bc0e03561b3a95d1348ab52c5b6487ccdbbe00b987e2d",
+  "slug": "will-byu-win-the-ncaa-tournament",
+  "question": "Will BYU win the NCAA tournament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T19:12:57.604569Z",
+  "market_createdAt": "2024-08-15T19:12:57.604569Z",
+  "market_updatedAt": "2025-01-02T01:05:12.960099Z",
+  "market_startDate": "2024-08-15T20:02:57.777Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:22:52+00",
+  "conditionId": "0x44d967c9127316a0c7212d1fc2311bd6a159e5b4db4255b5a24dd41b9ddcf351",
+  "slug": "monkeypox-lab-leak-confirmed-by-us-in-2024",
+  "question": "Monkeypox lab leak confirmed by US in 2024?"
+}

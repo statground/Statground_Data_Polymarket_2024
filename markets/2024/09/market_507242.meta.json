@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507242",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T20:31:19.288737Z",
+  "market_createdAt": "2024-09-16T20:31:19.288737Z",
+  "market_updatedAt": "2024-12-05T16:49:32.860401Z",
+  "market_startDate": "2024-09-17T23:27:20.352Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-05 04:16:19+00",
+  "conditionId": "0xfc85294228f82de21e18774b133a6db99ddaf4ebe5bf8c4f6c356ae4901d1165",
+  "slug": "will-the-democratic-candidate-win-pennsylvania-by-1pt5-2pt0",
+  "question": "Will the Democratic candidate win Pennsylvania by 1.5%-2.0%?"
+}

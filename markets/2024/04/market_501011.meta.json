@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-17T02:36:26.620257Z",
+  "market_createdAt": "2024-04-17T02:36:26.620257Z",
+  "market_updatedAt": "2024-07-02T08:45:49.429721Z",
+  "market_startDate": "2024-04-17T19:30:06.092Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 09:08:42+00",
+  "conditionId": "0xe6a3cebbf1ea12b7915b2eef06f372c0cf26dbcd8acd48a8220496e03d3e5d10",
+  "slug": "will-x-start-charging-new-users-before-july",
+  "question": "Will X start charging new users before July?"
+}

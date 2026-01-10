@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-23T21:30:41.824534Z",
+  "market_createdAt": "2024-04-23T21:30:41.824534Z",
+  "market_updatedAt": "2024-05-07T23:09:16.007717Z",
+  "market_startDate": "2024-04-24T17:17:57.47Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-04-30 22:31:03+00",
+  "conditionId": "0x4c9cc4550425354c5a2f05702d76b38e62be5a2131c9ba6fc06034b7ea4f3e69",
+  "slug": "cz-sentenced-to-36-months-or-more-in-prison",
+  "question": "CZ sentenced to 36 months or more in prison?"
+}

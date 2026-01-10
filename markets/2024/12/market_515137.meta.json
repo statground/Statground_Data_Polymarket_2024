@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:56:35.395076Z",
+  "market_createdAt": "2024-12-09T17:56:35.395076Z",
+  "market_updatedAt": "2024-12-11T20:59:16.211934Z",
+  "market_startDate": "2024-12-09T23:25:00.114054Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 22:53:44+00",
+  "conditionId": "0xbc0602c520043112a750d25a87ecd474e269d9de1b37e1d0477d7de710a1af3d",
+  "slug": "will-girona-beat-liverpool",
+  "question": "Will Girona beat Liverpool?"
+}

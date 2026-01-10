@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514179",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:25:58.287749Z",
+  "market_createdAt": "2024-11-26T22:25:58.287749Z",
+  "market_updatedAt": "2024-12-02T21:19:23.132559Z",
+  "market_startDate": "2024-11-27T15:10:39.141568Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 23:51:46+00",
+  "conditionId": "0x68d616fee31ec7740a301dd044ca07b09a54a95d89070f453290ef32b15a554d",
+  "slug": "will-sergio-perez-win-the-qatar-grand-prix",
+  "question": "Will Sergio Perez win the Qatar Grand Prix?"
+}

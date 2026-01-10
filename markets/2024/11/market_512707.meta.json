@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:09:21.673930Z",
+  "market_createdAt": "2024-11-11T18:09:21.67393Z",
+  "market_updatedAt": "2024-11-13T02:13:12.466202Z",
+  "market_startDate": "2024-11-11T22:04:50.059184Z",
+  "market_endDate": "2024-11-11T12:00:00Z",
+  "market_closedTime": "2024-11-12 06:34:51+00",
+  "conditionId": "0x03b9cd2270449fa3b3cdb376a8d0bfe5fa6f532537c14d20ba6798409fd07c3a",
+  "slug": "will-the-rams-beat-the-dolphins-by-3-or-more-points",
+  "question": "Will the Rams beat the Dolphins by 3 or more points?"
+}

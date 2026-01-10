@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T20:02:21.662050Z",
+  "market_createdAt": "2024-11-21T20:02:21.66205Z",
+  "market_updatedAt": "2024-11-23T01:38:54.094659Z",
+  "market_startDate": "2024-11-21T20:31:53.27225Z",
+  "market_endDate": "2024-11-21T12:00:00Z",
+  "market_closedTime": "2024-11-22 02:51:50+00",
+  "conditionId": "0x9cde01df36384ec0b0d6f18f9c8eef2914753a56b2eb1e2f64ae51f7903d4c86",
+  "slug": "will-yayoi-kusamas-pumpkin-sell-for-7m-or-more",
+  "question": "Will Yayoi Kusama's \"Pumpkin\" sell for $7m or more?"
+}

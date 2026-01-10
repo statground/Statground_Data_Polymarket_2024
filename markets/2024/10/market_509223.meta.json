@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T01:50:54.206067Z",
+  "market_createdAt": "2024-10-08T01:50:54.206067Z",
+  "market_updatedAt": "2024-11-07T08:43:02.209671Z",
+  "market_startDate": "2024-10-08T17:35:51.281561Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 20:40:22+00",
+  "conditionId": "0x901f8ec3e284acead9c6e978c9bc651e2b45763bcaa438fa051bda6c5b84d604",
+  "slug": "will-trump-win-1-swing-state",
+  "question": "Will Trump win 1 swing state?"
+}

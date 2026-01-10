@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515873",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T20:16:37.035892Z",
+  "market_createdAt": "2024-12-17T20:16:37.035892Z",
+  "market_updatedAt": "2025-07-02T00:39:38.694715Z",
+  "market_startDate": "2024-12-20T19:11:26.517969Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-02 00:39:38+00",
+  "conditionId": "0x86adafdc23ecb61fd589bb43490a9d4eae3244eef6f439fa44960dc210f7f921",
+  "slug": "opensea-token-market-cap-fdv-5-10b-one-day-after-launch",
+  "question": "Opensea token market cap (FDV) $5-10b one day after launch?"
+}

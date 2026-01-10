@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T20:02:48.422182Z",
+  "market_createdAt": "2024-04-08T20:02:48.422182Z",
+  "market_updatedAt": "2024-05-07T23:09:55.516108Z",
+  "market_startDate": "2024-04-09T16:05:50.802Z",
+  "market_endDate": "2024-04-13T12:00:00Z",
+  "market_closedTime": "2024-04-14 07:05:44+00",
+  "conditionId": "0x1914397fd1eaf6277398ddb832e5b35731c7b41cd273e2b895e994a044cac5c8",
+  "slug": "ufc-300-zhang-weili-vs-yan-xiaonan",
+  "question": "UFC 300: Zhang Weili vs Yan Xiaonan"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:08:07.097052Z",
+  "market_createdAt": "2024-12-29T05:08:07.097052Z",
+  "market_updatedAt": "2025-01-05T07:55:33.357648Z",
+  "market_startDate": "2024-12-29T05:10:35.401189Z",
+  "market_endDate": "2025-01-11T03:00:00Z",
+  "market_closedTime": "2025-01-04 07:52:30+00",
+  "conditionId": "0xe519260109fa4eaf1549003e9bd625ecc738109c56e14a3172d9088b12e51f45",
+  "slug": "nba-mem-sac-2025-01-03",
+  "question": "Grizzlies vs. Kings"
+}

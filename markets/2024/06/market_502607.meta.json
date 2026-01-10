@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502607",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T21:52:26.341002Z",
+  "market_createdAt": "2024-06-18T21:52:26.341002Z",
+  "market_updatedAt": "2025-01-02T00:45:11.546466Z",
+  "market_startDate": "2024-08-06T16:41:56.828Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:47:12+00",
+  "conditionId": "0x69d49cd801c35981676c8c991407623a7add2a0c1a007f28cdccfdf5e74da19a",
+  "slug": "martin-shkreli-jail-in-2024",
+  "question": "Martin Shkreli jail in 2024?"
+}

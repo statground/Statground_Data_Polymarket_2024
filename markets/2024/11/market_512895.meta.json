@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:24:34.374507Z",
+  "market_createdAt": "2024-11-12T19:24:34.374507Z",
+  "market_updatedAt": "2025-03-13T14:07:30.834217Z",
+  "market_startDate": "2024-11-12T19:47:55.279Z",
+  "market_endDate": "2025-04-12T12:00:00Z",
+  "market_closedTime": "2025-03-12 15:00:27+00",
+  "conditionId": "0x32cecf5ca4cfbb1ce7cb56adf5a823ddb0200de2618108abc6c74fd1a7b689d7",
+  "slug": "will-the-price-of-eggs-go-up-in-trumps-first-month-in-office",
+  "question": "Price of eggs goes up in Trump's first month?"
+}

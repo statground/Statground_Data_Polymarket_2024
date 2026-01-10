@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:10:20.292956Z",
+  "market_createdAt": "2024-06-21T16:10:20.292956Z",
+  "market_updatedAt": "2024-06-29T09:21:06.763757Z",
+  "market_startDate": "2024-06-22T15:48:09.458Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:18:15+00",
+  "conditionId": "0x68e16d8294d7ddaabd94e1ded35a19bd0fa897bf1ea8cee2fdec46378573e92a",
+  "slug": "will-elon-post-than-80-89-times",
+  "question": "Will Elon post 80-89 times?"
+}

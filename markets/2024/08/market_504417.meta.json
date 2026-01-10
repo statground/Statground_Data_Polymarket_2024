@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T15:36:12.854245Z",
+  "market_createdAt": "2024-08-01T15:36:12.854245Z",
+  "market_updatedAt": "2024-08-07T01:16:50.787839Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-06 02:48:39+00",
+  "conditionId": "0x3b0d23475b7bee02e67e73e5b41d3b84dbe26f876e60e383c93c6cdd88e33f02",
+  "slug": "will-deadpool-wolverine-gross-less-than-84m-2nd-weekend",
+  "question": "Will 'Deadpool & Wolverine' gross less than $84m 2nd weekend?"
+}

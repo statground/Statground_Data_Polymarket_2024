@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T00:18:49.745000Z",
+  "market_createdAt": "2024-01-31T00:18:49.745Z",
+  "market_updatedAt": "2025-01-01T11:45:14.47168Z",
+  "market_startDate": "2024-01-31T17:18:02.102Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2025-01-01 07:27:16+00",
+  "conditionId": "0xed3a181bf912941cd49a24094cfba00ba30d3a48afe00cdabf32041324edc83e",
+  "slug": "is-john-mcafee-alive",
+  "question": "Is John McAfee alive?"
+}

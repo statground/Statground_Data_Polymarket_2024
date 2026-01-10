@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505387",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T21:24:16.003464Z",
+  "market_createdAt": "2024-08-19T21:24:16.003464Z",
+  "market_updatedAt": "2025-02-01T23:32:41.256426Z",
+  "market_startDate": "2024-08-19T21:50:31.61Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-02-01 08:07:59+00",
+  "conditionId": "0xac51c43100e1aaf4968aa61fe72eb320dd308959dc6a7a14a6f3ebe758e7f88d",
+  "slug": "trump-wins-and-appoints-elon-musk-to-cabinet",
+  "question": "Trump nominates Elon Musk to Cabinet?"
+}

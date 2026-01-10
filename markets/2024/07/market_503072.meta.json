@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503072",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T19:52:19.838731Z",
+  "market_createdAt": "2024-07-01T19:52:19.838731Z",
+  "market_updatedAt": "2024-07-06T17:15:45.473676Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 19:08:12+00",
+  "conditionId": "0xcbebd0024a0050240e2eaf7eb616ff47f399916c84e3a7464c9345b2cef0c0bd",
+  "slug": "will-labour-win-between-450-and-474-seats-in-the-next-uk-election",
+  "question": "Will Labour win between 450 and 474 seats in the next UK Election?"
+}

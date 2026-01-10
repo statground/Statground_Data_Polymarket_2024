@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:53:07.855753Z",
+  "market_createdAt": "2024-10-18T17:53:07.855753Z",
+  "market_updatedAt": "2024-10-21T04:30:54.233928Z",
+  "market_startDate": "2024-10-18T23:09:15.00846Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 05:38:01+00",
+  "conditionId": "0xe1a9f2e1b0129eaa77d4d98c09d19a3b2a32e4490038c58b0bce27c58bc8cf4a",
+  "slug": "will-texas-beat-georgia-by-5-or-more-points",
+  "question": "Will Texas beat Georgia by 5 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502947",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T17:36:09.912171Z",
+  "market_createdAt": "2024-06-27T17:36:09.912171Z",
+  "market_updatedAt": "2024-07-07T11:50:47.939134Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 11:47:14+00",
+  "conditionId": "0xdf4d0baef31895effa199e618abe9ae3a8d6288bddcaad4e6ecd6df09594c25e",
+  "slug": "biden-vs-trump-who-polls-higher-1-week-after-debate",
+  "question": "Biden vs Trump: who polls higher 1 week after debate?"
+}

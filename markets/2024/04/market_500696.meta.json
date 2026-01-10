@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500696",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T16:45:43.229039Z",
+  "market_createdAt": "2024-04-04T16:45:43.229039Z",
+  "market_updatedAt": "2024-11-07T01:07:07.53913Z",
+  "market_startDate": "2024-04-12T19:39:05.146Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:00:38+00",
+  "conditionId": "0xf6ed583701577fd9412a60c8fdbcdae3cf9aeb6ae3d753c1d687acd15e7ee636",
+  "slug": "will-a-republican-win-tennessee-us-senate-election",
+  "question": "Will a Republican win Tennessee US Senate Election?"
+}

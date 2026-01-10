@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501986",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:42:48.884103Z",
+  "market_createdAt": "2024-05-31T21:42:48.884103Z",
+  "market_updatedAt": "2024-07-15T23:30:49.399811Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:17:16+00",
+  "conditionId": "0x90dbcd0cf65fd0190bd463f4f429b5df2df51d6c916e350a4ed014d94b988935",
+  "slug": "will-england-win-the-2024-euros",
+  "question": "Will England win the 2024 Euros?"
+}

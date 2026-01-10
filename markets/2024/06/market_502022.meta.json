@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502022",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T02:55:39.925665Z",
+  "market_createdAt": "2024-06-03T02:55:39.925665Z",
+  "market_updatedAt": "2024-06-08T23:21:14.537306Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 23:16:41+00",
+  "conditionId": "0xf337079b43b3e7731b1a220d3070e12539057fbbcdb6b6e3f215c82fd8c74678",
+  "slug": "gme-market-cap-over-16-billion-on-friday",
+  "question": "$GME market cap over $16 billion on Friday?"
+}

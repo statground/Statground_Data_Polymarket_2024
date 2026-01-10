@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:36:15.750705Z",
+  "market_createdAt": "2024-11-05T21:36:15.750705Z",
+  "market_updatedAt": "2024-11-08T20:49:02.224625Z",
+  "market_startDate": "2024-11-07T02:58:36.837418Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:04:50+00",
+  "conditionId": "0x5ac59a8bc2ecf8593922242060a8c99fc13a64752824e124ffef66f041b05ae2",
+  "slug": "will-ludogorets-beat-athletic-bilbao",
+  "question": "Will Ludogorets beat Athletic Bilbao?"
+}

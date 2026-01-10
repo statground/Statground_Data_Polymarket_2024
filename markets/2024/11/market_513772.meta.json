@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513772",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:01:29.554224Z",
+  "market_createdAt": "2024-11-24T05:01:29.554224Z",
+  "market_updatedAt": "2024-11-30T21:19:28.81092Z",
+  "market_startDate": "2024-11-24T05:03:56.392782Z",
+  "market_endDate": "2024-12-06T17:00:00Z",
+  "market_closedTime": "2024-11-29 22:41:11+00",
+  "conditionId": "0x43c1a8d68c20264ca8512bb3ce9e80d617d2f9ed41ac88ffe5d6600f6f673922",
+  "slug": "cfb-okst-col-2024-11-29",
+  "question": "Oklahoma State vs. Colorado"
+}

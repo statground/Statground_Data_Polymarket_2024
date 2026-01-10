@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T20:02:35.317348Z",
+  "market_createdAt": "2024-12-18T20:02:35.317348Z",
+  "market_updatedAt": "2025-03-20T21:29:40.665348Z",
+  "market_startDate": "2024-12-18T20:50:36.716Z",
+  "market_endDate": "2025-03-19T12:00:00Z",
+  "market_closedTime": "2025-03-19 21:31:51+00",
+  "conditionId": "0xef5604329fee713a68f4faa9d3014614c7486525864a11f2ebb054179a0c362e",
+  "slug": "no-change-in-fed-interest-rates-after-march-2025-meeting",
+  "question": "No change in Fed interest rates after March 2025 meeting?"
+}

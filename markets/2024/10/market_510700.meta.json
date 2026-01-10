@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:35:29.941534Z",
+  "market_createdAt": "2024-10-23T15:35:29.941534Z",
+  "market_updatedAt": "2024-11-26T01:39:43.901914Z",
+  "market_startDate": "2024-10-23T17:57:38.958015Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-25 04:36:24+00",
+  "conditionId": "0xf20cf747730a2a3539a652abb6a6c6b54e2eaf4cb6a6120a685af567014db789",
+  "slug": "will-minnesota-united-win-the-2024-mls-cup",
+  "question": "Will Minnesota United win the 2024 MLS Cup?"
+}

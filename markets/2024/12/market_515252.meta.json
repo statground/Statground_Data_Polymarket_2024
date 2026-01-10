@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T16:15:53.679607Z",
+  "market_createdAt": "2024-12-10T16:15:53.679607Z",
+  "market_updatedAt": "2024-12-11T21:09:13.656952Z",
+  "market_startDate": "2024-12-10T16:31:41.721Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-10 22:28:42+00",
+  "conditionId": "0xbcd82ec3b75ebbe0c9df9a8152a1f120ed7fd6e32c2996dbb6ca05dc00a012d5",
+  "slug": "will-kjp-say-ukraine-during-press-briefing",
+  "question": "Will KJP say \"Ukraine\" during press briefing?"
+}

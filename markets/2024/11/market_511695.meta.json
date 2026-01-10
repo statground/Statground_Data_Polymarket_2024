@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:21:31.339710Z",
+  "market_createdAt": "2024-11-01T18:21:31.33971Z",
+  "market_updatedAt": "2024-11-03T05:44:27.033431Z",
+  "market_startDate": "2024-11-01T23:14:29.294319Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:41:06+00",
+  "conditionId": "0x8762674e0210dab9cf7efb92d9f665d300180979b1d0d333ebeb2640179112e6",
+  "slug": "will-baylor-and-tcu-combine-for-64-or-more-points",
+  "question": "Will Baylor and TCU combine for 64 or more points?"
+}

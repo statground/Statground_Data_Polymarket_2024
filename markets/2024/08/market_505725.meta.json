@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T16:05:40.384912Z",
+  "market_createdAt": "2024-08-23T16:05:40.384912Z",
+  "market_updatedAt": "2024-08-31T16:07:01.585808Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 19:18:27+00",
+  "conditionId": "0xeaf9eec6a2680733c2846cc1775f26e1081f7ae0c1ab218fbf5a270a383fd4fd",
+  "slug": "trump-posts-35-39-or-more-times-on-x",
+  "question": "Trump posts 35-39 or more times on X?"
+}

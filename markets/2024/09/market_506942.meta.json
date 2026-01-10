@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:28:40.347104Z",
+  "market_createdAt": "2024-09-12T21:28:40.347104Z",
+  "market_updatedAt": "2024-09-14T23:31:03.356501Z",
+  "market_startDate": "2024-09-12T22:24:46.221093Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 21:11:02+00",
+  "conditionId": "0x38c54013c6c64610cf0d07856cdd444f38c992eec910123cbb079b0c1b618687",
+  "slug": "will-there-be-49-or-more-combined-points-scored-lsu-scar",
+  "question": "Will there be 49 or more combined points scored?"
+}

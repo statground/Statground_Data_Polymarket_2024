@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:35:04.319415Z",
+  "market_createdAt": "2024-07-26T19:35:04.319415Z",
+  "market_updatedAt": "2024-07-28T22:25:01.437122Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:05:17+00",
+  "conditionId": "0xc1281156210a1865775367fb0100810da065f880ed3157b15ea13c332b5837b2",
+  "slug": "will-trump-say-reserve-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Reserve\" during his Bitcoin Conference speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:19:36.527447Z",
+  "market_createdAt": "2024-09-09T17:19:36.527447Z",
+  "market_updatedAt": "2024-09-10T19:53:11.942332Z",
+  "market_startDate": "2024-09-09T17:32:31.879763Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-09 23:50:41+00",
+  "conditionId": "0x4463b31f0dfb84229b53319d15d53d4d8f04c9c28673c3830573b28facd43c83",
+  "slug": "will-the-match-end-in-a-draw-fra-bel-sep-9",
+  "question": "Will the match end in a draw?"
+}

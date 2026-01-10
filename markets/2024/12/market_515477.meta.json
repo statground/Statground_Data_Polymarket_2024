@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:18:26.626505Z",
+  "market_createdAt": "2024-12-11T23:18:26.626505Z",
+  "market_updatedAt": "2025-01-01T19:51:14.505432Z",
+  "market_startDate": "2024-12-23T19:18:09.705Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:08:09+00",
+  "conditionId": "0x9d864fc55c1b39d43bded9fe15092151fb91e3eb49eaf61424bf8348ac46b7f8",
+  "slug": "will-volodar-murzin-win-the-2024-world-blitz-championship",
+  "question": "Will Volodar Murzin win the 2024 World Blitz Championship? "
+}

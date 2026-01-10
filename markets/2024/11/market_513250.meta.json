@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T22:02:35.907076Z",
+  "market_createdAt": "2024-11-15T22:02:35.907076Z",
+  "market_updatedAt": "2024-11-18T18:21:22.223873Z",
+  "market_startDate": "2024-11-15T23:22:46.853997Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 22:03:19+00",
+  "conditionId": "0xdec0fcedabb3026d971f53ff120d749f18eb0679eac7cfa046191eb90936d6cc",
+  "slug": "will-the-match-between-finland-and-greece-end-in-a-draw-nov-17",
+  "question": "Will the match between Finland and Greece end in a draw?"
+}

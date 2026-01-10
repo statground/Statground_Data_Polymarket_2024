@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:27:58.058861Z",
+  "market_createdAt": "2024-10-02T20:27:58.058861Z",
+  "market_updatedAt": "2024-10-14T23:46:46.911666Z",
+  "market_startDate": "2024-10-02T21:54:03.394Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:21:59+00",
+  "conditionId": "0xda26b22adcc6ec6f3cf1dd596f3624ccaf8752f19736515c6ae7ed9f6c123566",
+  "slug": "will-another-team-win-iem-rio-2024",
+  "question": "Will another team win IEM Rio 2024?"
+}

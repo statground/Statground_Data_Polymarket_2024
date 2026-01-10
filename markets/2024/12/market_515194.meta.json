@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:57:47.229501Z",
+  "market_createdAt": "2024-12-09T21:57:47.229501Z",
+  "market_updatedAt": "2024-12-12T22:09:09.271103Z",
+  "market_startDate": "2024-12-10T21:50:00.141853Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:12:56+00",
+  "conditionId": "0x92d3993d28d99919aad367e89e42508eb69d296095d50aa7425ed500eefa9e07",
+  "slug": "will-the-match-between-ac-milan-and-red-star-belgrade-end-in-a-draw",
+  "question": "Will the match between AC Milan and Red Star Belgrade end in a draw?"
+}

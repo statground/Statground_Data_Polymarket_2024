@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T14:52:55.026199Z",
+  "market_createdAt": "2024-07-01T14:52:55.026199Z",
+  "market_updatedAt": "2024-07-03T19:35:47.948152Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-02T12:00:00Z",
+  "market_closedTime": "2024-07-02 20:06:17+00",
+  "conditionId": "0xe925b9a8af8a809b5258a007cbb290b6b5e73a6e7a0985bde039bd33526c001e",
+  "slug": "romania-vs-netherlands-who-will-advance",
+  "question": "Romania vs. Netherlands - Who will advance?"
+}

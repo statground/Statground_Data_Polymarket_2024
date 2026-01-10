@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T19:39:12.338531Z",
+  "market_createdAt": "2024-08-13T19:39:12.338531Z",
+  "market_updatedAt": "2024-08-17T21:02:59.926172Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-16T12:00:00Z",
+  "market_closedTime": "2024-08-17 00:04:14+00",
+  "conditionId": "0x1c31eb78c5dfd3320524095320004c68bbebb3e440a7357e6083d5da1054ecb7",
+  "slug": "will-fulham-beat-manchester-united",
+  "question": "Will Fulham beat Manchester United?"
+}

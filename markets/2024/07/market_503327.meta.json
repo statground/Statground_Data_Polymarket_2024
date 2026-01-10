@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503327",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-09T16:00:51.730176Z",
+  "market_createdAt": "2024-07-09T16:00:51.730176Z",
+  "market_updatedAt": "2024-12-09T22:27:18.332692Z",
+  "market_startDate": "2024-07-09T17:58:45.714Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:57:34+00",
+  "conditionId": "0x5c37735c8442b1a29a42a163c62c02fa640ca054f46375649bfb3e867439a35d",
+  "slug": "will-the-titans-win-super-bowl-2025",
+  "question": "Will the Titans win Super Bowl 2025?"
+}

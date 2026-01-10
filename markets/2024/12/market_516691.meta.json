@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:11:06.535633Z",
+  "market_createdAt": "2024-12-29T07:11:06.535633Z",
+  "market_updatedAt": "2025-01-05T04:56:42.088237Z",
+  "market_startDate": "2024-12-29T07:14:11.171552Z",
+  "market_endDate": "2025-01-11T01:00:00Z",
+  "market_closedTime": "2025-01-04 06:01:52+00",
+  "conditionId": "0xce911537ffd43064d2f9fa41f65968ab73e48e3dffedf85cf9ba4732772da467",
+  "slug": "nhl-mon-chi-2025-01-03",
+  "question": "Canadiens vs. Blackhawks"
+}

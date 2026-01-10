@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502948",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T17:55:37.387249Z",
+  "market_createdAt": "2024-06-27T17:55:37.387249Z",
+  "market_updatedAt": "2024-06-30T00:01:04.238908Z",
+  "market_startDate": "2024-06-27T18:42:59.281Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-29 06:28:05+00",
+  "conditionId": "0x07de273bc0fb58e08f64deed60fd7617901bc8c3326a813d529310ffdb2479b9",
+  "slug": "either-candidate-say-a-slur-at-the-debate",
+  "question": "Will either candidate say a slur at the debate?"
+}

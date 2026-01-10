@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513237",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:49:45.811378Z",
+  "market_createdAt": "2024-11-15T21:49:45.811378Z",
+  "market_updatedAt": "2025-01-21T19:46:58.805611Z",
+  "market_startDate": "2024-11-15T22:26:15.248Z",
+  "market_endDate": "2025-02-03T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:05:02+00",
+  "conditionId": "0x3c3d85d94a8938ee548d9ab6cc74f9c384768025f69395e55d3d1c8d7b6a4026",
+  "slug": "will-trump-say-kamala-during-his-inauguration-speech",
+  "question": "Will Trump say \"Kamala\" during his inauguration speech?"
+}

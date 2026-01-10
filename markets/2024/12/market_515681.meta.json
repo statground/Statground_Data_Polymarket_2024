@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515681",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T06:03:48.793849Z",
+  "market_createdAt": "2024-12-15T06:03:48.793849Z",
+  "market_updatedAt": "2024-12-24T02:26:00.771014Z",
+  "market_startDate": "2024-12-15T06:06:23.780393Z",
+  "market_endDate": "2024-12-29T21:25:00Z",
+  "market_closedTime": "2024-12-23 02:38:07+00",
+  "conditionId": "0x1620358251a2c9802faafd655dfd2d3bb889350f31bc9a04d8effd6b4275f806",
+  "slug": "nfl-jax-lv-2024-12-22",
+  "question": "Jaguars vs. Raiders"
+}

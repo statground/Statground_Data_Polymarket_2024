@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508879",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:19:37.670660Z",
+  "market_createdAt": "2024-10-04T16:19:37.67066Z",
+  "market_updatedAt": "2024-10-12T18:16:53.718427Z",
+  "market_startDate": "2024-10-04T18:45:07.237327Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 18:13:40+00",
+  "conditionId": "0xe99e8b437b6b020a23353d664a35bb539e31ef36f4e380c6b3cc70b4607e583c",
+  "slug": "solana-above-145-on-october-11",
+  "question": "Solana above $145 on October 11?"
+}

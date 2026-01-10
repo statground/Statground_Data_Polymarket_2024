@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516502",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:34:39.291020Z",
+  "market_createdAt": "2024-12-27T16:34:39.29102Z",
+  "market_updatedAt": "2025-01-04T18:14:41.069885Z",
+  "market_startDate": "2024-12-27T17:21:30.647781Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-03 19:02:30+00",
+  "conditionId": "0x37d6fdb304d3b1ba850a0618afa7ee344ef2fd62672fdfcc7b61782e7e66a3a6",
+  "slug": "dogecoin-above-0pt31-on-january-3",
+  "question": "Dogecoin above $0.31 on January 3?"
+}

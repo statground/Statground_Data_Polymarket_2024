@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T14:53:21.329645Z",
+  "market_createdAt": "2024-10-11T14:53:21.329645Z",
+  "market_updatedAt": "2024-10-19T19:32:55.74346Z",
+  "market_startDate": "2024-10-11T16:16:15.043Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-18 19:27:43+00",
+  "conditionId": "0x88cc38fbee2b91f6bdee817890f17c4bf7a69c45c69720e896e242b79eab87d1",
+  "slug": "will-elon-tweet-300-324-october-11-18",
+  "question": "Will Elon tweet 300-324 October 11-18?"
+}

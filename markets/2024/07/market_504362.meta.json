@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:09:25.739337Z",
+  "market_createdAt": "2024-07-31T15:09:25.739337Z",
+  "market_updatedAt": "2024-08-04T21:30:59.809613Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:41:58+00",
+  "conditionId": "0xb2db31cac36ec139d8f48f12b8eba0bff73576a299f0bdbe33c58ff86de4d476",
+  "slug": "ufc-fight-night-shara-magomedov-vs-michal-oleksiejczuk",
+  "question": "UFC Fight Night: Shara Magomedov vs. Michal Oleksiejczuk"
+}

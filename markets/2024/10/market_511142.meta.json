@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511142",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:54:19.619478Z",
+  "market_createdAt": "2024-10-28T19:54:19.619478Z",
+  "market_updatedAt": "2024-11-03T19:43:04.165226Z",
+  "market_startDate": "2024-10-28T19:56:53.131677Z",
+  "market_endDate": "2024-11-02T15:00:00Z",
+  "market_closedTime": "2024-11-02 20:25:58+00",
+  "conditionId": "0x77e93ab680d8db14064fce2cb668b7a5dfd85ebc61f22bfeb840ab6a46b67e77",
+  "slug": "epl-ips-lei-2024-11-02-draw",
+  "question": "Will Ipswich vs. Leicester end in a draw?"
+}

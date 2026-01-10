@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516413",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:30:06.074593Z",
+  "market_createdAt": "2024-12-25T06:30:06.074593Z",
+  "market_updatedAt": "2024-12-27T19:55:16.405486Z",
+  "market_startDate": "2024-12-25T06:32:43.000843Z",
+  "market_endDate": "2024-12-26T17:30:00Z",
+  "market_closedTime": "2024-12-26 22:39:58+00",
+  "conditionId": "0xa9fe01b44d72fb77bed02ea2accdd488a1b7f6d7b1d3aeb3f6a59b3e341c0407",
+  "slug": "epl-wol-mun-2024-12-26-draw",
+  "question": "Will Wolves vs. Manchester United end in a draw?"
+}

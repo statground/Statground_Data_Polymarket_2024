@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505540",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:08:17.083337Z",
+  "market_createdAt": "2024-08-21T15:08:17.083337Z",
+  "market_updatedAt": "2024-08-23T02:27:05.90272Z",
+  "market_startDate": "2024-08-21T16:50:58.036Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:11:18+00",
+  "conditionId": "0xe2a54699b3c6cba2136107b065ad8838b916ab679f104b944c95acb1e34c2dbe",
+  "slug": "will-bill-clinton-say-israel-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Israel\" at DNC speech?"
+}

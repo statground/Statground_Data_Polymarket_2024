@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:13:55.452865Z",
+  "market_createdAt": "2024-12-01T05:13:55.452865Z",
+  "market_updatedAt": "2024-12-08T05:11:09.817315Z",
+  "market_startDate": "2024-12-01T05:17:35.742355Z",
+  "market_endDate": "2024-12-14T01:00:00Z",
+  "market_closedTime": "2024-12-07 05:15:28+00",
+  "conditionId": "0x7081f3b9fbedb1407c552e47adc2b0dce24a58d46dacd2aee2ec3742655b0432",
+  "slug": "nba-ind-chi-2024-12-06",
+  "question": "Pacers vs. Bulls"
+}

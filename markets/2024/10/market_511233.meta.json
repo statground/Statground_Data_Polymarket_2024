@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:46:46.526437Z",
+  "market_createdAt": "2024-10-28T20:46:46.526437Z",
+  "market_updatedAt": "2024-11-01T16:27:13.928433Z",
+  "market_startDate": "2024-10-28T20:49:22.54147Z",
+  "market_endDate": "2024-10-31T02:30:00Z",
+  "market_closedTime": "2024-10-31 16:54:03+00",
+  "conditionId": "0x48ddce4b23b5ef8177ffd3864d0140fa0d63fc1ea4a38337264742f8a61d0f2d",
+  "slug": "nba-por-lac-2024-10-30",
+  "question": "Trail Blazers vs. Clippers"
+}

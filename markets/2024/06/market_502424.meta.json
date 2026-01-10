@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T20:26:45.369295Z",
+  "market_createdAt": "2024-06-13T20:26:45.369295Z",
+  "market_updatedAt": "2024-06-27T07:06:14.086946Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 08:26:01+00",
+  "conditionId": "0x32bd8e6b98769c54edb9779fc3e6884b74e93c51db1e8e930afa482e437ba29d",
+  "slug": "will-john-curtis-win-the-utah-republican-primary",
+  "question": "Will John Curtis win the Utah Republican Primary?"
+}

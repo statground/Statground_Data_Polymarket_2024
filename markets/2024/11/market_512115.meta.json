@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512115",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:36:59.219141Z",
+  "market_createdAt": "2024-11-05T21:36:59.219141Z",
+  "market_updatedAt": "2024-11-08T19:43:02.369876Z",
+  "market_startDate": "2024-11-07T03:00:00.787528Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:29+00",
+  "conditionId": "0x3fbafdd1827fb96eb0b601477649189ecd52a6a098ae79c0ca9a7ea827c6133b",
+  "slug": "will-the-match-between-ludogorets-and-athletic-bilbao-end-in-a-draw",
+  "question": "Will the match between Ludogorets and Athletic Bilbao end in a draw?"
+}

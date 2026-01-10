@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514067",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:40:04.696568Z",
+  "market_createdAt": "2024-11-26T07:40:04.696568Z",
+  "market_updatedAt": "2024-11-28T22:11:31.711405Z",
+  "market_startDate": "2024-11-26T22:25:40.54886Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:13:11+00",
+  "conditionId": "0x7c15912cf8a5a623b694b459fef552352df516f74d9d1a66c04d0e484a290890",
+  "slug": "will-juventus-beat-aston-villa",
+  "question": "Will Juventus beat Aston Villa?"
+}

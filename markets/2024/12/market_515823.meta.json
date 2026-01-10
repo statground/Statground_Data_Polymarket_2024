@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T23:42:00.591454Z",
+  "market_createdAt": "2024-12-16T23:42:00.591454Z",
+  "market_updatedAt": "2025-02-17T16:43:08.759603Z",
+  "market_startDate": "2024-12-16T23:55:41.895Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-17 00:52:49+00",
+  "conditionId": "0x30e19926d2527737d65fc2f63de20f2c1e37d63c00f801ac5ce527f043c47cca",
+  "slug": "bernie-sanders-votes-to-confirm-rfk",
+  "question": "Bernie Sanders votes to confirm RFK Jr?"
+}

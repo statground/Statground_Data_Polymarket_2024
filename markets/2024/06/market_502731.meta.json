@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502731",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T16:08:10.672596Z",
+  "market_createdAt": "2024-06-21T16:08:10.672596Z",
+  "market_updatedAt": "2024-06-29T18:11:06.862783Z",
+  "market_startDate": "2024-06-22T15:47:56.867Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-28 19:12:41+00",
+  "conditionId": "0x080193a5a61df5b2231620e2a41f43afb4cb4fd54613de59833626ce3b16134d",
+  "slug": "will-elon-post-than-60-69-times",
+  "question": "Will Elon post 60-69 times?"
+}

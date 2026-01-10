@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T15:45:02.113005Z",
+  "market_createdAt": "2024-08-19T15:45:02.113005Z",
+  "market_updatedAt": "2024-08-21T04:47:00.467405Z",
+  "market_startDate": "2024-08-19T15:51:03.45Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 05:56:52+00",
+  "conditionId": "0x86dccf9f1e214c635842d72ef822302dd51441c4c011a9a2a0dbeb5472e0c056",
+  "slug": "will-biden-say-folks-three-or-more-times-at-dnc-speech",
+  "question": "Will Biden say \"Folks\" three or more times at DNC speech?"
+}

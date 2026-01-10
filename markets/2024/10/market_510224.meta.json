@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:19:12.124292Z",
+  "market_createdAt": "2024-10-18T21:19:12.124292Z",
+  "market_updatedAt": "2024-10-21T16:56:40.65397Z",
+  "market_startDate": "2024-10-18T23:24:06.001615Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 22:15:32+00",
+  "conditionId": "0x24409cdaaff60645334551a268c3c5ff5b9c872710b60998a7183d06b46833a7",
+  "slug": "will-the-colts-and-dolphins-combine-for-44-or-more-points",
+  "question": "Will the Colts and Dolphins combine for 44 or more points?"
+}

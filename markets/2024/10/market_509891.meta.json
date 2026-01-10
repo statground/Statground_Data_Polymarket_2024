@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509891",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T17:45:15.925896Z",
+  "market_createdAt": "2024-10-15T17:45:15.925896Z",
+  "market_updatedAt": "2025-01-02T08:01:20.280845Z",
+  "market_startDate": "2024-10-15T17:54:09.161Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:41:44+00",
+  "conditionId": "0x8415f32702f1555a74a161d37ddc6b080306d77ed3ca85fa6542dd84741bba3f",
+  "slug": "us-arms-embargo-on-israel-in-2024",
+  "question": "U.S. arms embargo on Israel in 2024?"
+}

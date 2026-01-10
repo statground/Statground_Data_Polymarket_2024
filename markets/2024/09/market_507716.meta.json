@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T16:28:13.402138Z",
+  "market_createdAt": "2024-09-23T16:28:13.402138Z",
+  "market_updatedAt": "2024-09-25T18:32:47.82334Z",
+  "market_startDate": "2024-09-23T17:46:17.618Z",
+  "market_endDate": "2024-09-24T12:00:00Z",
+  "market_closedTime": "2024-09-24 20:17:02+00",
+  "conditionId": "0xf90487b980acc1bedf1ed918e5293d751733c2a20f84e531e2a61b72f3982b2c",
+  "slug": "will-donald-trump-say-tip-during-his-georgia-speech",
+  "question": "Will Donald Trump say \"Tip\" during his Georgia speech?"
+}

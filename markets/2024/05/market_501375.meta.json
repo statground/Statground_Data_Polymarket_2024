@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:39:57.096136Z",
+  "market_createdAt": "2024-05-03T14:39:57.096136Z",
+  "market_updatedAt": "2024-05-07T23:09:10.436739Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:14:44+00",
+  "conditionId": "0xecc1cc8b003eadfc91d5f22b7bafe6c7b473af08ef5dc5db305e1be44a6005e4",
+  "slug": "will-track-phantom-win-the-2024-kentucky-derby",
+  "question": "Will Track Phantom win the 2024 Kentucky Derby?"
+}

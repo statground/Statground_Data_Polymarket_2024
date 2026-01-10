@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:54:22.220961Z",
+  "market_createdAt": "2024-11-02T19:54:22.220961Z",
+  "market_updatedAt": "2024-11-06T03:27:10.654913Z",
+  "market_startDate": "2024-11-02T20:51:12.51Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 03:27:32+00",
+  "conditionId": "0x2b64eca2db8ab13c1dbd6619d8b04ac40ad4f11150df10839a7cbdbe6e89e142",
+  "slug": "will-trump-say-mexico-4-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"Mexico\" 4 or more times during Pittsburgh rally on Nov 4?"
+}

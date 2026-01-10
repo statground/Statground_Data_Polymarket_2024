@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T16:24:44.078324Z",
+  "market_createdAt": "2024-08-02T16:24:44.078324Z",
+  "market_updatedAt": "2024-08-10T18:10:57.52387Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 18:17:53+00",
+  "conditionId": "0xe6c1fe63942229dba54453bece07770ed2a671c93b104d9755a27b7f7fe24b63",
+  "slug": "ethereum-above-3000-on-august-9",
+  "question": "Ethereum above $3,000 on August 9?"
+}

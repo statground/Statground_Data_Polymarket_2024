@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510742",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T21:01:19.485093Z",
+  "market_createdAt": "2024-10-23T21:01:19.485093Z",
+  "market_updatedAt": "2024-11-07T09:03:07.504808Z",
+  "market_startDate": "2024-10-23T21:37:02.592Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 09:00:50+00",
+  "conditionId": "0x79c1d9893aee3128640da5691ae0abc28f35b04f40c81fde01725b547a1ac96b",
+  "slug": "will-the-ap-call-the-election-on-november-5",
+  "question": "Will the AP call the election on November 5?"
+}

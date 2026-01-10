@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:04:48.153260Z",
+  "market_createdAt": "2024-07-29T20:04:48.15326Z",
+  "market_updatedAt": "2024-08-05T19:06:58.022025Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 19:11:11+00",
+  "conditionId": "0xdcc1bfbca17155b1cbfae2631f6525e4e20c9ee780637a54111ea0749d3b1e32",
+  "slug": "will-scottie-scheffler-win-gold-in-mens-golf",
+  "question": "Will Scottie Scheffler win Gold in Men's Golf?"
+}

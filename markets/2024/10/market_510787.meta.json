@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T15:47:06.950194Z",
+  "market_createdAt": "2024-10-24T15:47:06.950194Z",
+  "market_updatedAt": "2024-10-26T03:07:01.54674Z",
+  "market_startDate": "2024-10-24T20:13:03.837953Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:03:19+00",
+  "conditionId": "0x1c8730bdb19072d214d62c548574a8b5f9d1eaa00023da58ccca9283ba44ea9c",
+  "slug": "will-the-vikings-and-rams-combine-for-48-or-more-points",
+  "question": "Will the Vikings and Rams combine for 48 or more points?"
+}

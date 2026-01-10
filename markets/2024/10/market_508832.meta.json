@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T02:21:01.978434Z",
+  "market_createdAt": "2024-10-04T02:21:01.978434Z",
+  "market_updatedAt": "2024-10-11T02:06:47.498572Z",
+  "market_startDate": "2024-10-04T15:27:51.430426Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-10 05:04:52+00",
+  "conditionId": "0x6d443a61c33e91ff676f2dc082f4080abf56cabbf9d84cc4c91bf023ed8062f9",
+  "slug": "phillies-vs-mets-series-winner",
+  "question": "Phillies vs. Mets Series Winner"
+}

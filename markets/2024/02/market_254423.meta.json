@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254423",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-12T17:12:13.899000Z",
+  "market_createdAt": "2024-02-12T17:12:13.899Z",
+  "market_updatedAt": "2024-02-14T22:10:01.377Z",
+  "market_startDate": "2024-02-12T17:16:10.204Z",
+  "market_endDate": "2024-02-13T00:00:00Z",
+  "market_closedTime": "2024-02-13 15:45:31+00",
+  "conditionId": "0x0ce8366ba35257da411d257ed241032231743cda81034837a158ecc91a98d8f2",
+  "slug": "us-inflation-0pt1-from-jan-to-feb-2024",
+  "question": "US inflation >0.1% from Jan to Feb 2024?"
+}

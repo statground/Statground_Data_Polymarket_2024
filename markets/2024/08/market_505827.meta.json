@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505827",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:02:28.404111Z",
+  "market_createdAt": "2024-08-26T20:02:28.404111Z",
+  "market_updatedAt": "2024-09-01T15:57:07.014647Z",
+  "market_startDate": "2024-08-26T20:02:28.404111Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-31 19:12:51+00",
+  "conditionId": "0x9f86a6068ce81ec1ecc03b142da27a1659b497b4aaf50a2ac73749d8187ebd85",
+  "slug": "will-everton-beat-bournemouth",
+  "question": "Will Everton beat Bournemouth?"
+}

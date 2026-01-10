@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500550",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T23:06:35.132669Z",
+  "market_createdAt": "2024-03-28T23:06:35.132669Z",
+  "market_updatedAt": "2024-11-08T18:29:03.62911Z",
+  "market_startDate": "2024-04-10T19:31:52.917Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 19:23:30+00",
+  "conditionId": "0xa7b4202e7b52aed7a7427e592d41618f7f8dcd66875842caf197d8e5b9f47d72",
+  "slug": "congressional-district-2nd-maine-will-a-democrat-win",
+  "question": "Will a Democrat win Maine's 2nd congressional district?"
+}

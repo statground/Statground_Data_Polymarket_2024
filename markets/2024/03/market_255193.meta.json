@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255193",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T19:46:11.956000Z",
+  "market_createdAt": "2024-03-01T19:46:11.956Z",
+  "market_updatedAt": "2024-03-03T14:34:09.323Z",
+  "market_startDate": "2024-03-02T01:54:00Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-03 08:16:46+00",
+  "conditionId": "0xabd0ec46e81d168f17bad39cf022a0b0262f55ae4487f7a9d71b46ea43845832",
+  "slug": "will-trump-win-the-missouri-caucus-by-between-30-40-of-the-vote",
+  "question": "Will Trump win the Missouri Caucus by between 30-40% of the vote?"
+}

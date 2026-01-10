@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:55:38.694884Z",
+  "market_createdAt": "2024-08-08T17:55:38.694884Z",
+  "market_updatedAt": "2024-11-26T03:49:43.068885Z",
+  "market_startDate": "2024-08-08T18:55:26.059Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-11-25 07:56:26+00",
+  "conditionId": "0x8f74c64e1b289af6c40bfbf9a1b365e8fff1c6a42aa21ce1b4ca3407e1693f2b",
+  "slug": "will-the-new-york-giants-win-the-nfc-east",
+  "question": "Will the New York Giants win the NFC East?"
+}

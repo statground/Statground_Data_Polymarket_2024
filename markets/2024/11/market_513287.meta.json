@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513287",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:06:26.473013Z",
+  "market_createdAt": "2024-11-17T05:06:26.473013Z",
+  "market_updatedAt": "2024-11-24T04:38:47.686666Z",
+  "market_startDate": "2024-11-17T05:09:31.683096Z",
+  "market_endDate": "2024-11-30T00:00:00Z",
+  "market_closedTime": "2024-11-23 04:35:19+00",
+  "conditionId": "0xfe1aeaad74ac0e57a7c8339689e67341860ddf4f46828adb50bd304e0accea04",
+  "slug": "nba-bkn-phi-2024-11-22",
+  "question": "Nets vs. 76ers"
+}

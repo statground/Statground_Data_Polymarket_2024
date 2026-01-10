@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:45:01.009257Z",
+  "market_createdAt": "2024-10-18T20:45:01.009257Z",
+  "market_updatedAt": "2024-10-22T00:03:08.722931Z",
+  "market_startDate": "2024-10-18T23:27:09.409824Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 01:04:54+00",
+  "conditionId": "0x04be61eb6879b28b2fe431daa9458b1cd04ce4f80888730b91d3d786bb31e2b9",
+  "slug": "will-the-commanders-beat-the-panthers-by-9-or-more-points",
+  "question": "Will the Commanders beat the Panthers by 9 or more points?"
+}

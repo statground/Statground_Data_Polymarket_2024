@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:45:53.330531Z",
+  "market_createdAt": "2024-11-15T21:45:53.330531Z",
+  "market_updatedAt": "2024-11-17T22:11:17.83899Z",
+  "market_startDate": "2024-11-15T23:17:10.644197Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 01:10:48+00",
+  "conditionId": "0x2e1e446c21b76458179661abad29fb30e3dab1af5e6943f9053832c3ccb68dcc",
+  "slug": "will-hungary-beat-netherlands-nov-16",
+  "question": "Will Hungary beat Netherlands?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:42:34.988581Z",
+  "market_createdAt": "2024-08-28T19:42:34.988581Z",
+  "market_updatedAt": "2025-01-21T03:13:02.194421Z",
+  "market_startDate": "2024-08-28T19:42:34.988581Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-20 05:53:30+00",
+  "conditionId": "0xa4fb24b93b88e40a7a12e81b1d16e2572059d773f3fd0a7ccc3e72dd060f7ce1",
+  "slug": "will-the-ravens-win-the-afc-championship",
+  "question": "Will the Ravens win the AFC Championship?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:08:47.602736Z",
+  "market_createdAt": "2024-07-10T17:08:47.602736Z",
+  "market_updatedAt": "2024-07-20T03:28:42.481682Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 07:29:32+00",
+  "conditionId": "0x822299bfee6e07004d2c9f0ee2ada9d1581fb8c54eff7f1dbb3a0fd3cd87b89d",
+  "slug": "will-barron-speak-at-the-rnc",
+  "question": "Will Barron speak at the RNC?"
+}

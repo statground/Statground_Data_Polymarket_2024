@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T15:54:17.745217Z",
+  "market_createdAt": "2024-12-31T15:54:17.745217Z",
+  "market_updatedAt": "2026-01-02T16:29:51.878776Z",
+  "market_startDate": "2024-12-31T18:51:24.874Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 08:32:01+00",
+  "conditionId": "0x2df7bb9bb2d044408af2a3ef947fd1eb7f5a167d7322cdbb410588af4974ab4e",
+  "slug": "will-the-us-confirm-that-aliens-exist-in-2025",
+  "question": "Will the US confirm that aliens exist in 2025?"
+}

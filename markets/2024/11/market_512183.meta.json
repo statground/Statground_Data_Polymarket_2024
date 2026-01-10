@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512183",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T18:04:18.682017Z",
+  "market_createdAt": "2024-11-06T18:04:18.682017Z",
+  "market_updatedAt": "2024-11-24T03:36:47.56737Z",
+  "market_startDate": "2024-11-06T18:28:37.991Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 03:50:30+00",
+  "conditionId": "0xfeaf0ffc3e3e658687bcdcab297333ac981025bf9a4277facae81123af4708e8",
+  "slug": "will-trump-nominate-scott-bessent-for-treasury-secretary",
+  "question": "Will Trump nominate Scott Bessent for Treasury Secretary?"
+}

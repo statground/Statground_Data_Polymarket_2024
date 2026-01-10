@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504977",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:39:09.164725Z",
+  "market_createdAt": "2024-08-12T20:39:09.164725Z",
+  "market_updatedAt": "2024-08-15T05:47:03.129556Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 07:42:15+00",
+  "conditionId": "0xf901e9d301fbf8b74ef23bb26f29a3f19e44827356a6e259f5ae2e9811d41510",
+  "slug": "will-tony-wied-win-the-wi-8-republican-house-primary",
+  "question": "Will Tony Wied win the WI-8 Republican House Primary?"
+}

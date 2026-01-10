@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "517003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T21:23:15.055151Z",
+  "market_createdAt": "2024-12-31T21:23:15.055151Z",
+  "market_updatedAt": "2025-07-02T16:24:59.82066Z",
+  "market_startDate": "2025-01-01T16:35:07.225261Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-07-01 22:45:03.805642+00",
+  "conditionId": "0x5e0afe8e2e70ab294a4a4aca6a0233da43718c76adac6617a0d71666262656d2",
+  "slug": "will-wework-declare-bankruptcy-before-july",
+  "question": "Will WeWork declare bankruptcy before July?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510558",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:25:57.168218Z",
+  "market_createdAt": "2024-10-22T16:25:57.168218Z",
+  "market_updatedAt": "2024-10-29T01:31:07.307529Z",
+  "market_startDate": "2024-10-22T22:30:03.054Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 03:02:55+00",
+  "conditionId": "0xab8b6222983bb1e5a2c604585f7ad1b8e8614309c0995f99a2b4c5830cd2a544",
+  "slug": "will-trump-say-inflation-10-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"inflation\" 10 or more times during New York rally on October 27?"
+}

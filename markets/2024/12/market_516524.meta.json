@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T18:43:08.730230Z",
+  "market_createdAt": "2024-12-27T18:43:08.73023Z",
+  "market_updatedAt": "2024-12-28T22:21:06.213221Z",
+  "market_startDate": "2024-12-27T20:03:13.011635Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 05:54:26+00",
+  "conditionId": "0x9ff9d7dc10e957a5eaa40b4d54a1d45fadd10f9ff9195e2d7e42e0abed86fb26",
+  "slug": "will-texas-tech-beat-arkansas-by-3-or-more-points",
+  "question": "Will Texas Tech beat Arkansas by 3 or more points?"
+}

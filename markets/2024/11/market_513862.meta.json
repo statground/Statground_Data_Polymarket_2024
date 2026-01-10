@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513862",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:12:39.161458Z",
+  "market_createdAt": "2024-11-24T18:12:39.161458Z",
+  "market_updatedAt": "2024-12-01T19:53:52.799598Z",
+  "market_startDate": "2024-11-24T18:15:08.418185Z",
+  "market_endDate": "2024-11-30T15:00:00Z",
+  "market_closedTime": "2024-11-30 20:19:44+00",
+  "conditionId": "0xac3b91855d78c35e990cd110b3f40b11ed1f4feea39eeac5a381a121aa50534a",
+  "slug": "epl-cry-new-2024-11-30-draw",
+  "question": "Will Crystal Palace vs. Newcastle end in a draw?"
+}

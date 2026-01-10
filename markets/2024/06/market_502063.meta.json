@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502063",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T22:41:19.551771Z",
+  "market_createdAt": "2024-06-03T22:41:19.551771Z",
+  "market_updatedAt": "2024-06-19T04:06:11.781722Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:19:52+00",
+  "conditionId": "0x09b70aa46f9a9a1fae9225ee77e23b2a239a0ceb0d84c659f0acd3c0ef8cecfa",
+  "slug": "will-no-games-in-the-2024-nba-finals-series-reach-overtime",
+  "question": "Will no games in the 2024 NBA Finals series reach overtime?"
+}

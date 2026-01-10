@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513620",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T17:49:20.535881Z",
+  "market_createdAt": "2024-11-21T17:49:20.535881Z",
+  "market_updatedAt": "2024-11-23T04:22:53.191966Z",
+  "market_startDate": "2024-11-21T18:23:50.445579Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-22 04:25:21+00",
+  "conditionId": "0x3e6f981069843711fbc2221a686e615d0b8ac3f62dde6ccd9a4eb92d5a89cfd6",
+  "slug": "will-trump-pick-will-levi-for-attorney-general",
+  "question": "Will Trump pick Will Levi for Attorney General?"
+}

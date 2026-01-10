@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T21:34:15.327633Z",
+  "market_createdAt": "2024-08-06T21:34:15.327633Z",
+  "market_updatedAt": "2024-08-14T04:47:01.099542Z",
+  "market_startDate": "2024-08-12T23:12:55.076Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-13 04:53:31+00",
+  "conditionId": "0x3685d15b0ae897114c101ae1753d07b8dd42cb1a9332cfc90cfc358f463465f5",
+  "slug": "will-trump-say-mars-during-elon-interview",
+  "question": "Will Trump say \"Mars\" during Elon interview?"
+}

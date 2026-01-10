@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511988",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:04:29.530036Z",
+  "market_createdAt": "2024-11-05T04:04:29.530036Z",
+  "market_updatedAt": "2024-11-07T20:08:59.049165Z",
+  "market_startDate": "2024-11-05T20:12:35.099179Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:25:07+00",
+  "conditionId": "0x51760c0d8448dc12bfec1adee9ea39c406128513a1e79b6a9270c9559486b858",
+  "slug": "will-the-match-between-club-brugge-and-aston-villa-end-in-a-draw",
+  "question": "Will the match between Club Brugge and Aston Villa end in a draw?"
+}

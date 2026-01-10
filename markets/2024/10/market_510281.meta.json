@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510281",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T15:53:52.527631Z",
+  "market_createdAt": "2024-10-21T15:53:52.527631Z",
+  "market_updatedAt": "2024-11-01T05:06:53.591748Z",
+  "market_startDate": "2024-10-21T18:45:17.266393Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-31 07:17:42+00",
+  "conditionId": "0x4ad24684cf5da5410a37488573077d331feea65c63fef238d92578e256b7d717",
+  "slug": "will-the-dodgers-win-the-world-series-4-2",
+  "question": "Will the Dodgers win the World Series 4-2?"
+}

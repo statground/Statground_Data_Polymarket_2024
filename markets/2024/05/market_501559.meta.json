@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T17:33:46.725887Z",
+  "market_createdAt": "2024-05-13T17:33:46.725887Z",
+  "market_updatedAt": "2024-05-17T18:44:20.925003Z",
+  "market_startDate": "2024-05-13T19:18:25.821Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-16 21:02:16+00",
+  "conditionId": "0x1abea748e8ef490de4fb3d1102b3aa8e6a5bdc99c8851c92bb725a374e88d855",
+  "slug": "will-roaring-kitty-tweet-between-50-and-74-times",
+  "question": "Will Roaring Kitty tweet between 50 and 74 times?"
+}

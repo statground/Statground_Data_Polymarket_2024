@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516225",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:09:19.827199Z",
+  "market_createdAt": "2024-12-22T05:09:19.827199Z",
+  "market_updatedAt": "2024-12-29T04:50:57.823971Z",
+  "market_startDate": "2024-12-22T05:12:01.750267Z",
+  "market_endDate": "2025-01-04T00:30:00Z",
+  "market_closedTime": "2024-12-28 04:52:48+00",
+  "conditionId": "0x969e370ae3cf1b838169fcf38a0ed0cf9ee83b094edeecc0c7b4679bba0c1526",
+  "slug": "nba-ind-bos-2024-12-27",
+  "question": "Pacers vs. Celtics"
+}

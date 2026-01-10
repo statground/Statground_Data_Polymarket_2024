@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T00:25:02.486783Z",
+  "market_createdAt": "2024-10-28T00:25:02.486783Z",
+  "market_updatedAt": "2024-11-07T14:28:58.259128Z",
+  "market_startDate": "2024-10-30T01:21:38.681Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:20:12+00",
+  "conditionId": "0x2f79cc5aa258fc91bdf7084899ea9ce705fb77ff6932913117cfdb6d569602f9",
+  "slug": "trump-wins-281-evs-az-ga-nc-pa",
+  "question": "Trump wins 281-257 - AZ, GA, NC, PA "
+}

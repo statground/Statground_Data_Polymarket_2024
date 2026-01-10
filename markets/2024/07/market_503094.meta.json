@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503094",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T21:14:16.528305Z",
+  "market_createdAt": "2024-07-01T21:14:16.528305Z",
+  "market_updatedAt": "2024-07-07T17:25:47.130315Z",
+  "market_startDate": "2024-07-02T14:32:57.982Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-06 20:35:23+00",
+  "conditionId": "0xb10d6f59a8a85e80e73d4b4df3b7be29a70e2deb53afe2e817c32d487a2d21c6",
+  "slug": "will-iga-swiatek-win-wimbledon-womens",
+  "question": "Will Iga Swiatek win Wimbledon Women's?"
+}

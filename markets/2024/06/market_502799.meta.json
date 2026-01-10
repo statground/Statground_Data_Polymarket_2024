@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502799",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T16:05:24.889773Z",
+  "market_createdAt": "2024-06-24T16:05:24.889773Z",
+  "market_updatedAt": "2024-08-02T17:13:03.307201Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:19:08+00",
+  "conditionId": "0xfa65f0a212384560de6506f37581d97e2e19195f470628365081ff1320017a96",
+  "slug": "biden-campaign-accepts-crypto-donations-before-august",
+  "question": "Biden campaign accepts crypto donations before August?"
+}

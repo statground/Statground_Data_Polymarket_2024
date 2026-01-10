@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-17T20:15:13.803889Z",
+  "market_createdAt": "2024-03-17T20:15:13.803889Z",
+  "market_updatedAt": "2024-05-07T23:10:09.538154Z",
+  "market_startDate": "2024-03-17T20:21:43.673Z",
+  "market_endDate": "2024-03-28T07:00:00Z",
+  "market_closedTime": "2024-03-28 19:05:42+00",
+  "conditionId": "0x460577f0b1f76b0af20969292e2d6c18604fab16b77d73284fb415a0f7e929f3",
+  "slug": "sbf-sentence-more-than-50-years",
+  "question": "SBF sentence more than 50 years?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T21:35:51.142000Z",
+  "market_createdAt": "2024-01-11T21:35:51.142Z",
+  "market_updatedAt": "2024-01-13T00:53:13.529Z",
+  "market_startDate": "2024-01-11T21:54:13.879Z",
+  "market_endDate": "2024-01-12T00:00:00Z",
+  "market_closedTime": "2024-01-12 02:15:59+00",
+  "conditionId": "0x02e98c813ca25b70ffa6db68163d842ec6400fb934160359773038bec456a87a",
+  "slug": "us-strike-against-houthis-by-friday",
+  "question": "US strike against Houthis by Friday?"
+}

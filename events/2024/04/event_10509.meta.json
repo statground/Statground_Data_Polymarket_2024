@@ -1,0 +1,22 @@
+{
+  "entity": "event",
+  "event_id": "10509",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-04-29T17:38:04.462823Z",
+  "event_createdAt": "2024-04-29T17:38:04.462823Z",
+  "event_creationDate": "2024-04-29T17:55:33.744808Z",
+  "event_startDate": "2024-04-29T17:55:33.744812Z",
+  "event_endDate": "2024-04-30T12:00:00Z",
+  "event_updatedAt": "2024-05-07T23:10:20.077136Z",
+  "markets_len": 3,
+  "market_ids": [
+    "501231",
+    "501232",
+    "501234"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "2"
+  ],
+  "series_slug": "nba"
+}

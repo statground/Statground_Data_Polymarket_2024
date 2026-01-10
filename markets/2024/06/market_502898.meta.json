@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T19:08:11.984638Z",
+  "market_createdAt": "2024-06-25T19:08:11.984638Z",
+  "market_updatedAt": "2024-10-02T05:50:50.760283Z",
+  "market_startDate": "2024-06-26T18:44:21.606Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:07:48+00",
+  "conditionId": "0x6aa3564cea69975fb0a0400019994759747362ff229e7dfff3777caa83d284e7",
+  "slug": "zircuit-airdrop-by-september-30",
+  "question": "Zircuit airdrop by September 30?"
+}

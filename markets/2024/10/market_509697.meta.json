@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T19:22:55.367310Z",
+  "market_createdAt": "2024-10-11T19:22:55.36731Z",
+  "market_updatedAt": "2024-11-11T03:42:36.026961Z",
+  "market_startDate": "2024-10-11T20:29:33.433781Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:35:36+00",
+  "conditionId": "0x2a63e805241caa902acca7426f1fd5e643978676a8bfe39c6b329dcdcd537c96",
+  "slug": "will-either-kamala-or-trump-win-every-swing-state",
+  "question": "Will either Kamala or Trump win every swing state?"
+}

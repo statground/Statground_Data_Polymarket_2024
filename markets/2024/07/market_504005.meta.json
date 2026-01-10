@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T19:28:53.695753Z",
+  "market_createdAt": "2024-07-22T19:28:53.695753Z",
+  "market_updatedAt": "2024-07-24T07:12:38.299394Z",
+  "market_startDate": "2024-07-22T20:15:40.566Z",
+  "market_endDate": "2024-07-22T12:00:00Z",
+  "market_closedTime": "2024-07-23 07:14:09+00",
+  "conditionId": "0x4a292f0bc405ed94a9262e2eb208a8b2ed65d8d2928c740ab73e7f9f7fa8746d",
+  "slug": "will-biden-address-the-nation-today",
+  "question": "Will Biden address the nation today?"
+}

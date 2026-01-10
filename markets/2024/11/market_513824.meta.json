@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:12:41.228137Z",
+  "market_createdAt": "2024-11-24T05:12:41.228137Z",
+  "market_updatedAt": "2024-12-02T04:53:19.852762Z",
+  "market_startDate": "2024-11-24T05:15:41.115148Z",
+  "market_endDate": "2024-12-07T23:30:00Z",
+  "market_closedTime": "2024-12-01 05:11:48+00",
+  "conditionId": "0x1fcf8892efff1d471c4b647cf268c433f83422d5367711229ce2bf76d77e2474",
+  "slug": "cfb-wyo-wsu-2024-11-30",
+  "question": "Wyoming vs. Washington State"
+}

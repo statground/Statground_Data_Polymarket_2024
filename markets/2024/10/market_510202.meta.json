@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510202",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:45:18.848957Z",
+  "market_createdAt": "2024-10-18T20:45:18.848957Z",
+  "market_updatedAt": "2024-10-22T00:31:25.083175Z",
+  "market_startDate": "2024-10-18T23:16:14.378821Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-21 00:29:42+00",
+  "conditionId": "0x512b66475d97387bf25d433da630e8f90149310615c72198dea911c8160bec30",
+  "slug": "will-trump-say-60-minutes-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"60 Minutes\" during Pennsylvania town hall on October 20?"
+}

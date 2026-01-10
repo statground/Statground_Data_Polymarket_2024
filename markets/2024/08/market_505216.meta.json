@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T16:57:27.204143Z",
+  "market_createdAt": "2024-08-16T16:57:27.204143Z",
+  "market_updatedAt": "2024-08-18T17:32:58.743759Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:12:55+00",
+  "conditionId": "0x8948e822b3fc3fa0be3254bff2d510eed89c75416f9e74cdb31c6b7a0ec189b7",
+  "slug": "will-trump-tweet-1-time-this-week",
+  "question": "Will Trump tweet 1 time this week?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T17:23:53.271000Z",
+  "market_createdAt": "2024-02-14T17:23:53.271Z",
+  "market_updatedAt": "2024-07-02T06:30:54.694888Z",
+  "market_startDate": "2024-02-14T21:37:00Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:25:52+00",
+  "conditionId": "0x961c210811570905b5eb8df00272a7760c77dcfe44ddf5b7f8503695d887c3cb",
+  "slug": "base-airdrop-by-june-30",
+  "question": "Base airdrop by June 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254525",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-17T22:17:06.976000Z",
+  "market_createdAt": "2024-02-17T22:17:06.976Z",
+  "market_updatedAt": "2024-04-26T03:02:03.888224Z",
+  "market_startDate": "2024-02-17T22:19:54.427Z",
+  "market_endDate": "2024-04-01T00:00:00Z",
+  "market_closedTime": "2024-04-11 00:17:48+00",
+  "conditionId": "0xf292817d442a494af587f79b326d93d8ac3cefb6f21cd0064222f662a4412607",
+  "slug": "ansem-vs-bitlord",
+  "question": "Ansem vs Bitlord"
+}

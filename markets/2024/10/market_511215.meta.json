@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511215",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:42:17.297484Z",
+  "market_createdAt": "2024-10-28T20:42:17.297484Z",
+  "market_updatedAt": "2024-11-01T04:01:01.636062Z",
+  "market_startDate": "2024-10-28T20:44:54.448059Z",
+  "market_endDate": "2024-10-30T23:00:00Z",
+  "market_closedTime": "2024-10-31 03:58:20+00",
+  "conditionId": "0xe58c03fdfd0d3b502ff008776e2aadff7a154729d4823501397538d2d20b7122",
+  "slug": "nba-atl-was-2024-10-30",
+  "question": "Hawks vs. Wizards"
+}

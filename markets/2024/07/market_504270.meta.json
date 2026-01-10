@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504270",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T16:10:21.061271Z",
+  "market_createdAt": "2024-07-29T16:10:21.061271Z",
+  "market_updatedAt": "2024-08-15T14:37:04.632106Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-14T12:00:00Z",
+  "market_closedTime": "2024-08-14 14:41:40+00",
+  "conditionId": "0x70c67e5797d5598893eb52940debc38b3de853adbc92d1b601792b27f2bacdf0",
+  "slug": "us-inflation-0pt1-from-june-to-july-2024",
+  "question": "US inflation >0.1% from June to July 2024?"
+}

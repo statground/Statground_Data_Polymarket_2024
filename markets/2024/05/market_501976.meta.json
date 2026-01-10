@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T19:55:57.036850Z",
+  "market_createdAt": "2024-05-31T19:55:57.03685Z",
+  "market_updatedAt": "2024-06-04T19:26:13.720553Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-06-04 01:31:42+00",
+  "conditionId": "0xbc6b67fc57b0956bd217c0ac222122a6d86155d4953cdbfe9edf010a8e5f460f",
+  "slug": "will-bitcoin-reach-70000-in-june",
+  "question": "Will Bitcoin reach $70,000 in June?"
+}

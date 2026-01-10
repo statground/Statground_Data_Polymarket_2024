@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503239",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T19:53:47.412930Z",
+  "market_createdAt": "2024-07-05T19:53:47.41293Z",
+  "market_updatedAt": "2024-07-13T14:16:49.152993Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-12T12:00:00Z",
+  "market_closedTime": "2024-07-12 19:13:26+00",
+  "conditionId": "0xa6fce27adf5872ae5d18caa3394986be9675915dad190bd0c380947dcda85b15",
+  "slug": "will-elon-tweet-90-99-times-july-12",
+  "question": "Will Elon tweet 90-99 times?"
+}

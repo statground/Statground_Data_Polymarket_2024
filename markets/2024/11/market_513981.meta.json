@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513981",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:32:50.775049Z",
+  "market_createdAt": "2024-11-25T19:32:50.775049Z",
+  "market_updatedAt": "2024-12-21T03:21:03.454893Z",
+  "market_startDate": "2024-11-25T22:14:00.395Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:17:44+00",
+  "conditionId": "0xe986284ed884732cb82713c2ff601056f092efe785254fa16a4db0abc7e76654",
+  "slug": "will-pnut-be-listed-first-on-robinhood",
+  "question": "Will $PNUT be listed first on Robinhood?"
+}

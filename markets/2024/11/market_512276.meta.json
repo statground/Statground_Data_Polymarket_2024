@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512276",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T18:35:12.778856Z",
+  "market_createdAt": "2024-11-07T18:35:12.778856Z",
+  "market_updatedAt": "2024-11-16T18:19:03.276106Z",
+  "market_startDate": "2024-11-07T18:51:22.119Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:55:43+00",
+  "conditionId": "0x121989a31b44281a282e0c3cb09f898cca3f4f6ecbb81aaed3a5e34e9c3297b3",
+  "slug": "will-trump-nominate-cynthia-lummis-for-interior-secretary",
+  "question": "Will Trump nominate Cynthia Lummis for Interior Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:17:15.419648Z",
+  "market_createdAt": "2024-07-25T18:17:15.419648Z",
+  "market_updatedAt": "2024-07-28T21:27:02.840428Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:31:21+00",
+  "conditionId": "0xfe68d28499b9b7166bd293effba96722c29936a4fc09bf34939aa1414a0e61b0",
+  "slug": "will-canada-win-gold-in-womens-4x100m-freestyle-relay",
+  "question": "Will Canada win Gold in Women's 4x100m Freestyle Relay?"
+}

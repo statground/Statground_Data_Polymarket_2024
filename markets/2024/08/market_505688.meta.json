@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T22:08:22.664249Z",
+  "market_createdAt": "2024-08-22T22:08:22.664249Z",
+  "market_updatedAt": "2024-08-26T22:01:07.574125Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-25 22:31:28+00",
+  "conditionId": "0x67d4918c6c8cd6c1c831e1555582d6e39c0fef1040a44bc3bf3a9900582d14a2",
+  "slug": "trump-posts-between-5-and-9-times-on-x",
+  "question": "Trump posts between 5 and 9 times on X?"
+}

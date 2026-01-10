@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T18:20:55.287480Z",
+  "market_createdAt": "2024-10-04T18:20:55.28748Z",
+  "market_updatedAt": "2024-10-07T16:26:40.958531Z",
+  "market_startDate": "2024-10-04T21:53:11.83958Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:06:24+00",
+  "conditionId": "0x54f55e7e8bf85030bd844b2fc4f895e6f8aa33e91c836ca30749c5899559d7bd",
+  "slug": "will-the-bears-and-panthers-combine-for-42-or-more-points",
+  "question": "Will the Bears and Panthers combine for 42 or more points?"
+}

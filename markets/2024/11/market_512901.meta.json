@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T19:48:41.601449Z",
+  "market_createdAt": "2024-11-12T19:48:41.601449Z",
+  "market_updatedAt": "2024-12-09T16:01:13.283912Z",
+  "market_startDate": "2024-11-25T22:52:33.156787Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 19:53:38+00",
+  "conditionId": "0x556c9e2fdb278b6578c82c5031cf6cc046c9b1d566687bf9797418f2e5d84b3a",
+  "slug": "will-penn-state-make-the-college-football-playoff",
+  "question": "Will Penn State make the College Football Playoff?"
+}

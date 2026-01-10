@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:04:11.757910Z",
+  "market_createdAt": "2024-12-22T06:04:11.75791Z",
+  "market_updatedAt": "2024-12-30T23:13:40.126847Z",
+  "market_startDate": "2024-12-22T06:06:41.629454Z",
+  "market_endDate": "2025-01-05T18:00:00Z",
+  "market_closedTime": "2024-12-29 23:21:03+00",
+  "conditionId": "0x174b42d7a8f351ffd49b95215bf684ef9a735b10d3bf394f25e6f7ffae290a35",
+  "slug": "nfl-ind-nyg-2024-12-29",
+  "question": "Colts vs. Giants"
+}

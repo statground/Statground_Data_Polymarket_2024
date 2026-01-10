@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T14:35:54.338119Z",
+  "market_createdAt": "2024-06-20T14:35:54.338119Z",
+  "market_updatedAt": "2024-06-22T15:46:09.73682Z",
+  "market_startDate": "2024-06-21T17:30:10.302Z",
+  "market_endDate": "2024-06-21T12:00:00Z",
+  "market_closedTime": "2024-06-21 18:10:01+00",
+  "conditionId": "0xad499c743d94d87093c74f756171a4dfed60a7361fa88bab3721ba61badd5aef",
+  "slug": "will-ukraine-win-jun-21",
+  "question": "Will Ukraine win?"
+}

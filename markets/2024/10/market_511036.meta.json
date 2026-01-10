@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511036",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:30:22.718496Z",
+  "market_createdAt": "2024-10-25T22:30:22.718496Z",
+  "market_updatedAt": "2024-10-30T00:41:13.532924Z",
+  "market_startDate": "2024-10-25T22:53:10.469157Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 02:12:47+00",
+  "conditionId": "0xf1bcede420b9fc0b1047d226c8e3511e7ad9d530c20f731bbd26b49e26fc0704",
+  "slug": "will-trump-say-build-the-wall-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"build the wall\" during Georgia rally on October 28?"
+}

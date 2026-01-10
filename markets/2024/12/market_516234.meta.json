@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:11:39.314668Z",
+  "market_createdAt": "2024-12-22T05:11:39.314668Z",
+  "market_updatedAt": "2024-12-30T05:47:37.158937Z",
+  "market_startDate": "2024-12-22T05:14:41.891852Z",
+  "market_endDate": "2025-01-05T01:00:00Z",
+  "market_closedTime": "2024-12-29 05:42:44+00",
+  "conditionId": "0xc01f41d050a19d0faf4c2e138a2a70bcf979f4b99ac474f41de85d5e18614a6e",
+  "slug": "nba-mil-chi-2024-12-28",
+  "question": "Bucks vs. Bulls"
+}

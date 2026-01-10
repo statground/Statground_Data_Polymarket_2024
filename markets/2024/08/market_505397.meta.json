@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:10:21.812638Z",
+  "market_createdAt": "2024-08-20T00:10:21.812638Z",
+  "market_updatedAt": "2024-08-23T05:47:03.410036Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:42:52+00",
+  "conditionId": "0xfc65109c86b5abd9601b172984086975ab65876c2690b7f1d34963178f5c3770",
+  "slug": "will-walz-say-runza-at-dnc-speech",
+  "question": "Will Walz say \"Runza\" at DNC speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514037",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:56:44.265790Z",
+  "market_createdAt": "2024-11-25T22:56:44.26579Z",
+  "market_updatedAt": "2024-11-28T01:11:40.026196Z",
+  "market_startDate": "2024-11-25T23:36:03.22177Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-27 01:11:01+00",
+  "conditionId": "0x8b965c99a3c9a622596cf4e7898c3d567ffb49974ab5d8c317dc250f702e493a",
+  "slug": "will-manchester-city-beat-feyenoord-rotterdam",
+  "question": "Will Manchester City beat Feyenoord?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:47:48.327544Z",
+  "market_createdAt": "2024-12-11T23:47:48.327544Z",
+  "market_updatedAt": "2024-12-16T03:07:20.875663Z",
+  "market_startDate": "2024-12-13T23:11:17.701462Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 04:45:17+00",
+  "conditionId": "0x098a1aee72468639e64e6b63aaae25db56442a84e4ab5d2ff267a7d8cd2e10d9",
+  "slug": "woodson-vs-padilla",
+  "question": "Woodson vs. Padilla"
+}

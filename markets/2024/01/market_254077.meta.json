@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T21:06:13.055000Z",
+  "market_createdAt": "2024-01-23T21:06:13.055Z",
+  "market_updatedAt": "2024-03-12T03:18:05.942Z",
+  "market_startDate": "2024-01-24T19:49:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:30:20+00",
+  "conditionId": "0x3d136a95dba6223f22dbf1e581562f5c3697d8750af674cb462e51df90046c99",
+  "slug": "will-yorgos-lanthimos-win-the-oscar-for-best-director",
+  "question": "Will Yorgos Lanthimos win the Oscar for Best Director?"
+}

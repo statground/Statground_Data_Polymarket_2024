@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-28T17:28:41.120699Z",
+  "market_createdAt": "2024-05-28T17:28:41.120699Z",
+  "market_updatedAt": "2024-06-15T21:16:14.830497Z",
+  "market_startDate": "2024-06-05T17:50:17.843Z",
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-14 22:13:40+00",
+  "conditionId": "0x952c3d735eafb83572409eb071011f9f8fc51f365a387b9f48600a92f6f2eb83",
+  "slug": "nvidia-largest-company-by-june-30",
+  "question": "NVIDIA largest company before June 15?"
+}

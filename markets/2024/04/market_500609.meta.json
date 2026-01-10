@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T21:58:45.005422Z",
+  "market_createdAt": "2024-04-01T21:58:45.005422Z",
+  "market_updatedAt": "2024-05-19T20:23:27.725874Z",
+  "market_startDate": "2024-04-01T22:37:41.913Z",
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-19 20:20:11+00",
+  "conditionId": "0xe6b5072010365efe4865c58b8ed1d0297d44021a9cfb0959302b5b0fc6d9bf0d",
+  "slug": "will-another-player-be-the-top-goalscorer-in-the-epl",
+  "question": "Will another player be the top goalscorer in the EPL?"
+}

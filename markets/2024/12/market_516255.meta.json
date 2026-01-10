@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516255",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:04:37.365551Z",
+  "market_createdAt": "2024-12-22T06:04:37.365551Z",
+  "market_updatedAt": "2024-12-30T23:17:43.368453Z",
+  "market_startDate": "2024-12-22T06:07:11.659321Z",
+  "market_endDate": "2025-01-05T21:25:00Z",
+  "market_closedTime": "2024-12-29 23:45:54+00",
+  "conditionId": "0xe6219942af0dd2bef69f8d4037f737691b7dbb0ab51ab3e6e95f6f8d6e4a0802",
+  "slug": "nfl-dal-phi-2024-12-29",
+  "question": "Cowboys vs. Eagles"
+}

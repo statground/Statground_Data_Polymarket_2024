@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509592",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:00:56.287537Z",
+  "market_createdAt": "2024-10-11T15:00:56.287537Z",
+  "market_updatedAt": "2024-10-13T03:36:50.828355Z",
+  "market_startDate": "2024-10-11T18:46:17.017262Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 05:36:58+00",
+  "conditionId": "0xb507e9f852f52acafc7b33cbbeb1062bb6736535ba37de9fb3e399fbe5ec1bca",
+  "slug": "will-maryland-beat-northwestern-by-12-or-more-points",
+  "question": "Will Maryland beat Northwestern by 12 or more points?"
+}

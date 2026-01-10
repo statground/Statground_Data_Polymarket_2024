@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T15:16:00.679536Z",
+  "market_createdAt": "2024-05-06T15:16:00.679536Z",
+  "market_updatedAt": "2024-05-20T03:39:13.788997Z",
+  "market_startDate": "2024-05-06T15:17:59.442Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-05-19 04:43:16+00",
+  "conditionId": "0x74c4d3ba31ea4683e3cfa46efb3b65da13f9a7fbd38926bc20da33782f581879",
+  "slug": "thunder-vs-mavericks-series-winner",
+  "question": "Thunder vs. Mavericks Series Winner"
+}

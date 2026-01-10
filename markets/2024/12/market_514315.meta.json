@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:15:45.157054Z",
+  "market_createdAt": "2024-12-01T05:15:45.157054Z",
+  "market_updatedAt": "2024-12-09T04:35:30.999097Z",
+  "market_startDate": "2024-12-01T05:19:21.796181Z",
+  "market_endDate": "2024-12-15T00:00:00Z",
+  "market_closedTime": "2024-12-08 04:46:10+00",
+  "conditionId": "0x3a7291187dd61c9004a86c4dd70d099039dbb21491f8828e8b91df85541d20f1",
+  "slug": "nba-den-was-2024-12-07",
+  "question": "Nuggets vs. Wizards"
+}

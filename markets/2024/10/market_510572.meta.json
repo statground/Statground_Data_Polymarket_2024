@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:37:20.685098Z",
+  "market_createdAt": "2024-10-22T16:37:20.685098Z",
+  "market_updatedAt": "2024-10-25T23:42:57.022627Z",
+  "market_startDate": "2024-10-22T21:05:59.570861Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:18:22+00",
+  "conditionId": "0xdd9f2191b39a85d43f7e0748a80b33974f72a6f8da9d671bf28eb3d9c72f3039",
+  "slug": "will-lyon-beat-besiktas",
+  "question": "Will Lyon beat Besiktas?"
+}

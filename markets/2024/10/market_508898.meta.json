@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508898",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:40:03.600375Z",
+  "market_createdAt": "2024-10-04T16:40:03.600375Z",
+  "market_updatedAt": "2024-10-06T21:56:36.903296Z",
+  "market_startDate": "2024-10-04T18:37:48.767492Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:52:44+00",
+  "conditionId": "0x239c700c7cfaa721cdf080421c5cd30e4d0b01765f3d9d13026a9ec0787cd1a0",
+  "slug": "will-alabama-beat-vanderbilt-by-24-or-more-points",
+  "question": "Will Alabama beat Vanderbilt by 24 or more points?"
+}

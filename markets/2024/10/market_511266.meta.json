@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511266",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:51:12.002579Z",
+  "market_createdAt": "2024-10-28T21:51:12.002579Z",
+  "market_updatedAt": "2024-11-04T03:11:03.397171Z",
+  "market_startDate": "2024-10-29T00:11:24.002Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 03:10:01+00",
+  "conditionId": "0x147334c45787b41b3feb7d2593f7dea8ee8e9663eb00e855e8d5d464ee43dd7f",
+  "slug": "will-trump-say-vote-30-or-more-times-during-virginia-rally-on-nov-2",
+  "question": "Will Trump say \"vote\" 30 or more times during Virginia rally on Nov 2?"
+}

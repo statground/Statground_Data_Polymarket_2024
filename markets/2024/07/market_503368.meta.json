@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503368",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:17:42.136894Z",
+  "market_createdAt": "2024-07-10T17:17:42.136894Z",
+  "market_updatedAt": "2024-07-20T00:52:43.631532Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 02:51:26+00",
+  "conditionId": "0x6c8885272b7c272a9f062bfd626cd4cb28f80bf1d09b2706736ba01b22fea7e8",
+  "slug": "will-tucker-carlson-speak-at-the-rnc",
+  "question": "Will Tucker Carlson speak at the RNC?"
+}

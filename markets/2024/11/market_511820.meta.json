@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:25:27.670271Z",
+  "market_createdAt": "2024-11-02T21:25:27.670271Z",
+  "market_updatedAt": "2024-11-06T09:21:20.750679Z",
+  "market_startDate": "2024-11-02T22:58:57.846Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:32:27+00",
+  "conditionId": "0xf4f6f207c49564039a7c9b1f8a5f0e43c4b2fef30d0accbdd4fccae168ce2039",
+  "slug": "will-trump-say-gun-5-or-more-times-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"gun\" 5 or more times during Michigan rally on Nov 4?"
+}

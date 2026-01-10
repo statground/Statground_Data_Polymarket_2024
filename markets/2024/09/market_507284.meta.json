@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507284",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:20:17.756723Z",
+  "market_createdAt": "2024-09-17T17:20:17.756723Z",
+  "market_updatedAt": "2025-02-19T23:34:50.130185Z",
+  "market_startDate": "2024-09-17T18:01:25.942Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-02-18 23:45:56+00",
+  "conditionId": "0x1af6dd3e572d4a2bb12f326ad8cbc20971b2066e05e97469d32646f696d066b8",
+  "slug": "will-ac-milan-win-the-uefa-champions-league",
+  "question": "Will AC Milan win the UEFA Champions League?"
+}

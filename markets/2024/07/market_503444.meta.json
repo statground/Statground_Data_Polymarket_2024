@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:58:54.358608Z",
+  "market_createdAt": "2024-07-12T19:58:54.358608Z",
+  "market_updatedAt": "2024-07-16T00:02:48.930816Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:32:27+00",
+  "conditionId": "0x13c489c77ec7b2902fbd3d43205a8761dd9310267638fd8f1fdb46825b5e8236",
+  "slug": "will-spain-win-in-90-min",
+  "question": "Will Spain win in 90 min?"
+}

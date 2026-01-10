@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T18:15:05.831693Z",
+  "market_createdAt": "2024-10-23T18:15:05.831693Z",
+  "market_updatedAt": "2024-10-28T18:42:58.739263Z",
+  "market_startDate": "2024-10-23T20:14:55.325376Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:33:28+00",
+  "conditionId": "0x28524124f345a3dc716f1bd158b0722339c4606eecaca7ce1fc1dd5b47a78409",
+  "slug": "will-b8-win-esl-challenger-katowice-2024",
+  "question": "Will B8 win ESL Challenger Katowice 2024?"
+}

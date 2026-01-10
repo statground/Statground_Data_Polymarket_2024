@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:03:28.258675Z",
+  "market_createdAt": "2024-11-25T05:03:28.258675Z",
+  "market_updatedAt": "2024-12-03T02:11:17.86504Z",
+  "market_startDate": "2024-11-25T05:05:57.014449Z",
+  "market_endDate": "2024-12-08T21:05:00Z",
+  "market_closedTime": "2024-12-02 02:53:58+00",
+  "conditionId": "0xdf3af4005d85cc83172125226b8bc29752b0049852952c0f47fc7d3b89f99072",
+  "slug": "nfl-tb-car-2024-12-01",
+  "question": "Buccaneers vs. Panthers"
+}

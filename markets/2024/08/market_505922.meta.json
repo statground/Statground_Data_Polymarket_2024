@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505922",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:34:40.644904Z",
+  "market_createdAt": "2024-08-27T19:34:40.644904Z",
+  "market_updatedAt": "2024-08-29T20:53:14.201498Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:41:26+00",
+  "conditionId": "0xb57a1c21b8ec763e43b11b2b54d87fc6f0b5dbcbab30d76310d4c4ce5fcab3b5",
+  "slug": "will-jd-vance-say-poison-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"poison\" during Pennsylvania rally?"
+}

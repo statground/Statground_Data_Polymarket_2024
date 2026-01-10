@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510920",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:50:07.183326Z",
+  "market_createdAt": "2024-10-25T15:50:07.183326Z",
+  "market_updatedAt": "2024-10-26T08:43:59.964476Z",
+  "market_startDate": "2024-10-25T22:42:45.773217Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 08:41:05+00",
+  "conditionId": "0x566706d595d1cae3e5241c9718b26cc8481052041261d889a31381d6d558b1d6",
+  "slug": "will-there-be-57-or-more-combined-points-scored-USC-Rutgers",
+  "question": "Will there be 57 or more combined points scored?"
+}

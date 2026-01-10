@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T22:11:44.363036Z",
+  "market_createdAt": "2024-12-18T22:11:44.363036Z",
+  "market_updatedAt": "2025-01-02T09:21:06.139385Z",
+  "market_startDate": "2024-12-19T00:48:30.609877Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:22:06+00",
+  "conditionId": "0x1595d1dbfd43774c61a1865a9cf2c698c8750afcbfd72019ba008d37441a6dfc",
+  "slug": "another-state-declare-a-state-of-emergency-over-bird-flu-in-2024",
+  "question": "Another state declare a state of emergency over bird flu in 2024?"
+}

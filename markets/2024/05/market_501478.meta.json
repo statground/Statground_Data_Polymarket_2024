@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T20:27:44.037087Z",
+  "market_createdAt": "2024-05-07T20:27:44.037087Z",
+  "market_updatedAt": "2024-05-09T13:33:57.67031Z",
+  "market_startDate": "2024-05-07T20:34:22.651Z",
+  "market_endDate": "2024-05-08T12:00:00Z",
+  "market_closedTime": "2024-05-08 14:26:47+00",
+  "conditionId": "0x0695468df831fa840a67d9ec9c58b5ca3a4c96eefa70b469669c3b8f2ce99f58",
+  "slug": "will-jersey-jerry-complete-the-marathon",
+  "question": "Will Jersey Jerry complete the marathon? "
+}

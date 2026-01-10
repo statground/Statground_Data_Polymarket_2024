@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510158",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:43:23.793070Z",
+  "market_createdAt": "2024-10-18T17:43:23.79307Z",
+  "market_updatedAt": "2024-10-20T19:36:45.719995Z",
+  "market_startDate": "2024-10-18T23:10:49.285052Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:52:57+00",
+  "conditionId": "0x08855be962eeacb68e7b048356c83ab6072f1a49d659e50e7b457617e9e992a7",
+  "slug": "will-texas-am-beat-mississippi-state-by-18-or-more-points",
+  "question": "Will Texas A&M beat Mississippi State by 18 or more points?"
+}

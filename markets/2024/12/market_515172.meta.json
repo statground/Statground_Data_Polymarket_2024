@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515172",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T20:34:42.477555Z",
+  "market_createdAt": "2024-12-09T20:34:42.477555Z",
+  "market_updatedAt": "2024-12-12T09:15:06.942382Z",
+  "market_startDate": "2024-12-09T21:02:39.148Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-11 10:19:25+00",
+  "conditionId": "0x96ee01632234a1e65b19eb3805608aa1576bdfdf92fb3deaf7d1e984860777a8",
+  "slug": "will-preexisting-condition-be-in-the-manifesto",
+  "question": "Will \"preexisting condition\" be in the manifesto?"
+}

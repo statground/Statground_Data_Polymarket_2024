@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T21:17:06.554143Z",
+  "market_createdAt": "2024-08-06T21:17:06.554143Z",
+  "market_updatedAt": "2024-08-14T04:07:03.592391Z",
+  "market_startDate": "2024-08-12T23:12:53.8Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-13 04:53:35+00",
+  "conditionId": "0xc219cd59b4877ef27c9b0f5e1065a49c59e225478b282cf3491c19de4e670370",
+  "slug": "will-trump-say-crypto-during-elon-interview",
+  "question": "Will Trump say \"Crypto\" during Elon interview?"
+}

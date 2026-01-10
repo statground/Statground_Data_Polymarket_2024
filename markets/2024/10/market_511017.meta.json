@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511017",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T21:16:46.036026Z",
+  "market_createdAt": "2024-10-25T21:16:46.036026Z",
+  "market_updatedAt": "2024-10-28T21:17:11.146675Z",
+  "market_startDate": "2024-10-25T22:02:17.991254Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 21:44:48+00",
+  "conditionId": "0xca9c975eecaf244c5efae03dee4de068fede220f0fe7c2ff0494aae57e8b40b6",
+  "slug": "will-the-bengals-and-eagles-combine-for-48-or-more-points",
+  "question": "Will the Bengals and Eagles combine for 48 or more points?"
+}

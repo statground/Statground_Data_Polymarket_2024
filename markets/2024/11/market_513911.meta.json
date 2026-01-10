@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513911",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:55:12.938057Z",
+  "market_createdAt": "2024-11-24T18:55:12.938057Z",
+  "market_updatedAt": "2024-11-29T03:39:30.222568Z",
+  "market_startDate": "2024-11-24T18:58:18.383407Z",
+  "market_endDate": "2024-12-05T01:00:00Z",
+  "market_closedTime": "2024-11-28 05:18:12+00",
+  "conditionId": "0xd9d7f5bc5634dfab5dccc40f7d91238602b508c39e6aa039d1397fe41f32085a",
+  "slug": "nba-tor-nop-2024-11-27",
+  "question": "Raptors vs. Pelicans"
+}

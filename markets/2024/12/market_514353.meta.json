@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T17:28:19.304091Z",
+  "market_createdAt": "2024-12-01T17:28:19.304091Z",
+  "market_updatedAt": "2024-12-07T20:09:19.082138Z",
+  "market_startDate": "2024-12-02T15:34:16.341553Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 20:24:39+00",
+  "conditionId": "0x0edc2fb51ce8cdfa0eeed9786bc4fdc96de985c152b304f146e360a6045ac06f",
+  "slug": "will-trump-tweet-20-or-more-times-nov-29-dec-6",
+  "question": "Will trump tweet 20 or more times Nov 29-Dec 6?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504141",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:56:58.659755Z",
+  "market_createdAt": "2024-07-25T17:56:58.659755Z",
+  "market_updatedAt": "2024-08-12T14:36:47.504901Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:10:00+00",
+  "conditionId": "0xfeb7c63b2d2c33c6892c7703b5dba2a03295dd521d079471ce855281663b7d06",
+  "slug": "will-netherlands-win-the-3rd-most-medals",
+  "question": "Will Netherlands win the 3rd most medals?"
+}

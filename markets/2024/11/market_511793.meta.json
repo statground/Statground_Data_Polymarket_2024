@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T19:38:31.259038Z",
+  "market_createdAt": "2024-11-02T19:38:31.259038Z",
+  "market_updatedAt": "2024-11-06T04:21:18.297804Z",
+  "market_startDate": "2024-11-02T20:50:57.089Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 04:52:34+00",
+  "conditionId": "0x22bb4b6fa5b0ef9120e94ac7b4406ef97c8759e06339571476215f7f79929a0a",
+  "slug": "will-trump-say-gun-5-or-more-times-during-pittsburgh-rally-on-nov-4",
+  "question": "Will Trump say \"gun\" 5 or more times during Pittsburgh rally on Nov 4?"
+}

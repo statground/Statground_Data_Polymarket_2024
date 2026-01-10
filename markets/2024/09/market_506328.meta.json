@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:07:43.229304Z",
+  "market_createdAt": "2024-09-03T19:07:43.229304Z",
+  "market_updatedAt": "2024-09-08T20:17:10.371547Z",
+  "market_startDate": "2024-09-04T00:48:28.099Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-07 21:07:56+00",
+  "conditionId": "0x58f997aea3c98baffd11652ca3d2d8591772118f362c4213cff569af1b17b756",
+  "slug": "will-trump-say-youre-fired-at-wisconsin-rally",
+  "question": "Will Trump say \"fired\" 3 or more times at Wisconsin rally?"
+}

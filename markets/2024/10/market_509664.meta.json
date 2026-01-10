@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509664",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T17:19:35.229402Z",
+  "market_createdAt": "2024-10-11T17:19:35.229402Z",
+  "market_updatedAt": "2024-10-13T23:42:49.793558Z",
+  "market_startDate": "2024-10-11T19:25:08.966536Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 23:49:21+00",
+  "conditionId": "0x2a9af7ec002a0ea951f60a1b535c8510f02b236d8a0b67c755290ad301749d06",
+  "slug": "will-portugal-beat-poland",
+  "question": "Will Portugal beat Poland?"
+}

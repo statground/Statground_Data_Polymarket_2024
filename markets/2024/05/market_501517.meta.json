@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501517",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-10T15:48:19.794748Z",
+  "market_createdAt": "2024-05-10T15:48:19.794748Z",
+  "market_updatedAt": "2024-08-30T02:33:12.101743Z",
+  "market_startDate": "2024-05-10T16:28:07.608Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-08-29 02:34:32+00",
+  "conditionId": "0x3a20c47fa364a47ede415db68367b5ad7f21fde0434ec6fd12bf41ef5ce6426e",
+  "slug": "bieber-baby-boy-or-girl",
+  "question": "Bieber Baby: Boy or Girl?"
+}

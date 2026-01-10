@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-11T15:58:01.001653Z",
+  "market_createdAt": "2024-05-11T15:58:01.001653Z",
+  "market_updatedAt": "2024-05-14T02:19:15.510915Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-12T12:00:00Z",
+  "market_closedTime": "2024-05-13 04:33:18+00",
+  "conditionId": "0xb411e7f5d6771c08a54c49f34d74d1eb08ca78dc792c477849003f33481c0298",
+  "slug": "nba-min-den-2024-05-12",
+  "question": "Minnesota Timberwolves vs. Denver Nuggets: Game 4"
+}

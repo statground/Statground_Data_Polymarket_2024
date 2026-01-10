@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515080",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:05:18.233551Z",
+  "market_createdAt": "2024-12-08T07:05:18.233551Z",
+  "market_updatedAt": "2024-12-16T04:07:30.458495Z",
+  "market_startDate": "2024-12-08T07:08:36.999992Z",
+  "market_endDate": "2024-12-22T00:00:00Z",
+  "market_closedTime": "2024-12-15 04:50:05+00",
+  "conditionId": "0x2f2f24815be7a34d5ad150987a590ac45bf29f870c6fb4be37cae888eb342836",
+  "slug": "nhl-buf-wsh-2024-12-14",
+  "question": "Sabres vs. Capitals"
+}

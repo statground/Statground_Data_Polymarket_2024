@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:39:02.035090Z",
+  "market_createdAt": "2024-12-17T22:39:02.03509Z",
+  "market_updatedAt": "2025-01-07T03:29:11.698485Z",
+  "market_startDate": "2024-12-17T23:45:41.379263Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2025-01-06 06:25:00+00",
+  "conditionId": "0xad74e01b17e95504e6f7925493783f57a75499e455613f26b9548422cdec5bc5",
+  "slug": "will-conclave-win-the-golden-globe-for-best-original-score",
+  "question": "Will 'Conclave' win the Golden Globe for Best Original Score?"
+}

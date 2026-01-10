@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:29:51.792901Z",
+  "market_createdAt": "2024-10-13T20:29:51.792901Z",
+  "market_updatedAt": "2024-10-15T20:56:48.090806Z",
+  "market_startDate": "2024-10-14T14:54:38.201415Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 00:03:58+00",
+  "conditionId": "0x02032a9f02431ae497401bc6c7f68999ac845c293cd833146b3f62c8dbc98274",
+  "slug": "will-the-match-between-germany-and-netherlands-end-in-a-draw",
+  "question": "Will the match between Germany and Netherlands end in a draw?"
+}

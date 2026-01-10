@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T16:18:31.245027Z",
+  "market_createdAt": "2024-05-14T16:18:31.245027Z",
+  "market_updatedAt": "2024-11-07T18:38:59.661289Z",
+  "market_startDate": "2024-05-15T15:30:36.649Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:39:47+00",
+  "conditionId": "0xab0132a0b89e43d95c2643ac835877c757849e9a64ebac3c9f0c4696db41a288",
+  "slug": "will-a-3rd-party-candidate-win-the-popular-vote-or-the-presidency",
+  "question": "Will a 3rd party candidate win the popular vote or the Presidency?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:04:49.423750Z",
+  "market_createdAt": "2024-08-07T21:04:49.42375Z",
+  "market_updatedAt": "2024-08-24T03:27:02.263951Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:59:14+00",
+  "conditionId": "0x8848cb8605522f54d7446b6151a43419ed2bddac3378f8a62f297f279b50b75a",
+  "slug": "will-george-clooney-speak-at-the-dnc",
+  "question": "Will George Clooney speak at the DNC?"
+}

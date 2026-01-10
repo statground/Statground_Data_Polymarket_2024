@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503295",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T22:31:06.058130Z",
+  "market_createdAt": "2024-07-08T22:31:06.05813Z",
+  "market_updatedAt": "2024-07-22T18:04:43.199836Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-21 21:31:02+00",
+  "conditionId": "0x4d4bf1b5287ef20f2f8a70d54e650bca0bae6088d38c69a70bc3ddea2189845e",
+  "slug": "will-another-contestant-win-the-2024-tour-de-france",
+  "question": "Will another contestant win the 2024 Tour de France?"
+}

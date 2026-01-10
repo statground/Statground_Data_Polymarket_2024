@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513694",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:33:55.643799Z",
+  "market_createdAt": "2024-11-21T22:33:55.643799Z",
+  "market_updatedAt": "2024-11-28T04:43:40.045908Z",
+  "market_startDate": "2024-11-25T18:50:03.27981Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-11-27 08:08:22+00",
+  "conditionId": "0xc56f5005b7e7d3506b832c4d11b281bf0f7ff171a76b73a3c76fff85bd255a3f",
+  "slug": "will-the-toronto-raptors-win-the-2024-nba-cup",
+  "question": "Will the Toronto Raptors win the 2024 NBA Cup?"
+}

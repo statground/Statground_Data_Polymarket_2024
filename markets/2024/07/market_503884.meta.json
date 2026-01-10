@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503884",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:53:19.886325Z",
+  "market_createdAt": "2024-07-19T16:53:19.886325Z",
+  "market_updatedAt": "2024-08-03T09:27:00.772219Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:09:04+00",
+  "conditionId": "0x39bb127a3944c250799b20adebb049890ce740784a7e9f01937d195cc0955bd4",
+  "slug": "will-another-athlete-win-gold-in-womens-200m-backstroke",
+  "question": "Will another athlete win Gold in Women's 200m Backstroke?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504197",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T00:26:13.688637Z",
+  "market_createdAt": "2024-07-26T00:26:13.688637Z",
+  "market_updatedAt": "2024-11-03T15:07:02.985432Z",
+  "market_startDate": "2024-07-26T00:26:13.688637Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:35:20+00",
+  "conditionId": "0x039f90b41b21e7d985187110300279d4b487e813967d611467b78853b5262490",
+  "slug": "will-someone-else-be-the-next-conservative-party-leader",
+  "question": "Will someone else be the next Conservative party leader?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:28:26.519679Z",
+  "market_createdAt": "2024-10-15T19:28:26.519679Z",
+  "market_updatedAt": "2025-04-06T09:48:34.573177Z",
+  "market_startDate": "2024-10-15T22:19:52.333821Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-05 22:49:47+00",
+  "conditionId": "0x8dc999827c3ff54f9d1a99c7e2153fcda6a77df1d406bfcdbc4949a7e86590fd",
+  "slug": "will-frankfurt-win-the-bundesliga",
+  "question": "Will Frankfurt win the Bundesliga?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T15:02:55.836641Z",
+  "market_createdAt": "2024-05-20T15:02:55.836641Z",
+  "market_updatedAt": "2024-06-08T12:46:13.850102Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 15:43:30+00",
+  "conditionId": "0x8321bcf425689ee0eb52c07809153774b8d0942c64e14ddbe29fda7148c1c125",
+  "slug": "will-us-add-less-than-150k-jobs-in-may",
+  "question": "Will US add less than 150k jobs in May?"
+}

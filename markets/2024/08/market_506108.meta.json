@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:54:20.128054Z",
+  "market_createdAt": "2024-08-29T19:54:20.128054Z",
+  "market_updatedAt": "2025-01-25T02:49:12.307136Z",
+  "market_startDate": "2024-08-29T19:54:20.128Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:00:28+00",
+  "conditionId": "0x8965a43e19c3f5ca3e3f340ed14a18c0b47ec71283e00db546c9de0722bb0854",
+  "slug": "will-aaron-rodgers-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Aaron Rodgers win NFL MVP for the 2024-25 season?"
+}

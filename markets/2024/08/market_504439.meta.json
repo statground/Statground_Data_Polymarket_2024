@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504439",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T20:15:02.016467Z",
+  "market_createdAt": "2024-08-01T20:15:02.016467Z",
+  "market_updatedAt": "2025-01-01T20:57:13.653567Z",
+  "market_startDate": "2024-08-01T20:15:02.016467Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:32:58+00",
+  "conditionId": "0xfeed873361d49869c14cf9b9f5bbc4d1eb8810921e17d67d10db8dbe326bd7a6",
+  "slug": "ukraine-election-scheduled-in-2024",
+  "question": "Ukraine election scheduled in 2024?"
+}

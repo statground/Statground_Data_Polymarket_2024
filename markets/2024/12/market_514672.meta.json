@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T17:35:40.301071Z",
+  "market_createdAt": "2024-12-04T17:35:40.301071Z",
+  "market_updatedAt": "2025-05-01T08:20:32.901459Z",
+  "market_startDate": "2024-12-04T17:40:56.665Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-04-30 08:17:29+00",
+  "conditionId": "0x1bf98b2e116dfe87345973a026dbc13ee6183bb3c0328851c55c21089e893a93",
+  "slug": "will-trump-pardon-roger-ver-in-his-first-100-days",
+  "question": "Will Trump pardon Roger Ver in his first 100 days?"
+}

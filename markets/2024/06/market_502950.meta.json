@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502950",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T18:11:53.668476Z",
+  "market_createdAt": "2024-06-27T18:11:53.668476Z",
+  "market_updatedAt": "2024-07-01T03:21:03.490605Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-30 03:20:03+00",
+  "conditionId": "0xd31f5117f8217010bd10032987d1954503090151ce6c7776eb5d0bdceb0b37d5",
+  "slug": "biden-falls-asleep-during-debate",
+  "question": "Biden falls asleep during debate?"
+}

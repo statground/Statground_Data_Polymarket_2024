@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:32:39.337111Z",
+  "market_createdAt": "2024-12-17T22:32:39.337111Z",
+  "market_updatedAt": "2024-12-23T01:21:38.011862Z",
+  "market_startDate": "2024-12-17T23:47:00.51709Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-22 01:31:50+00",
+  "conditionId": "0xbb156a59cfac832a09a430fffdf3e3e7cf9d49adbe61bbe9070b8459c5af3001",
+  "slug": "will-atletico-madrid-beat-barcelona",
+  "question": "Will Atletico Madrid beat Barcelona?"
+}

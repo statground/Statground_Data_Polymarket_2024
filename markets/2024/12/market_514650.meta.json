@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T00:23:46.239292Z",
+  "market_createdAt": "2024-12-04T00:23:46.239292Z",
+  "market_updatedAt": "2024-12-08T06:13:14.624861Z",
+  "market_startDate": "2024-12-04T00:53:20.046458Z",
+  "market_endDate": "2024-12-04T12:00:00Z",
+  "market_closedTime": "2024-12-07 07:20:58+00",
+  "conditionId": "0x0515df587949a34e857ed80caa630fd1d33f38f53efb4181a49bf96c0672d06e",
+  "slug": "will-hegseth-say-lie-during-the-interview",
+  "question": "Will Hegseth say \"Lie\" during the interview?"
+}

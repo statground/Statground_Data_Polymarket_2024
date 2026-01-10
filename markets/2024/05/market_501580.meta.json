@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501580",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T23:20:41.855577Z",
+  "market_createdAt": "2024-05-13T23:20:41.855577Z",
+  "market_updatedAt": "2024-06-10T19:01:18.253956Z",
+  "market_startDate": "2024-05-14T18:30:02.597Z",
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 09:35:45+00",
+  "conditionId": "0x1c6f3490ac9147281e084c98b21ff28054930192afeeae76933b3651817582d4",
+  "slug": "will-grune-receive-more-than-14-of-votes",
+  "question": "Will Grune receive more than 14% of votes?"
+}

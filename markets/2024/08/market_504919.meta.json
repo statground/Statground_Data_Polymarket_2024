@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504919",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T17:01:48.078497Z",
+  "market_createdAt": "2024-08-12T17:01:48.078497Z",
+  "market_updatedAt": "2024-08-19T03:46:53.533764Z",
+  "market_startDate": "2024-08-17T12:00:00Z",
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-18 03:55:31+00",
+  "conditionId": "0xf2bcd3865b1fba3de43071a0b4dd3d44291e1f16369a1f268c791b75af4caeeb",
+  "slug": "nfl-ind-ari-2024-08-17",
+  "question": "Colts vs. Cardinals"
+}

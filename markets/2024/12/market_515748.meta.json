@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515748",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:28:09.309834Z",
+  "market_createdAt": "2024-12-16T16:28:09.309834Z",
+  "market_updatedAt": "2024-12-18T00:51:23.729589Z",
+  "market_startDate": "2024-12-16T23:32:05.706535Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 06:29:49+00",
+  "conditionId": "0x1be39804158eb1c1a6f5cee258edec33367635673df84381c8be7f815437c70c",
+  "slug": "will-the-vikings-and-bears-combine-for-44-or-more-points",
+  "question": "Will the Vikings and Bears combine for 44 or more points?"
+}

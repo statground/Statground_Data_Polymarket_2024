@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505864",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T22:22:14.361474Z",
+  "market_createdAt": "2024-08-26T22:22:14.361474Z",
+  "market_updatedAt": "2024-10-03T21:22:41.932389Z",
+  "market_startDate": "2024-08-26T22:22:14.361474Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-02 22:07:05+00",
+  "conditionId": "0x17d7029a4e9a853f470471439bee1c6264b9432e8025cbfcd331a883ddfebc95",
+  "slug": "trump-flips-kamala-on-538-before-october",
+  "question": "Trump flips Kamala on 538 before October?"
+}

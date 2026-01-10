@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501486",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-08T16:47:55.317623Z",
+  "market_createdAt": "2024-05-08T16:47:55.317623Z",
+  "market_updatedAt": "2024-05-11T01:24:04.861342Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-09T12:00:00Z",
+  "market_closedTime": "2024-05-10 03:30:40+00",
+  "conditionId": "0x3740aaf9c6cb61969ede0c68a26bd23453a490f9b3e790d9b223b6701246e55b",
+  "slug": "nba-bos-cle-2024-05-09",
+  "question": "NBA: Boston Celtics vs. Cleveland Cavaliers: Game 2"
+}

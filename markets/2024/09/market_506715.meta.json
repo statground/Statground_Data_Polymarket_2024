@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506715",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T18:48:44.420662Z",
+  "market_createdAt": "2024-09-09T18:48:44.420662Z",
+  "market_updatedAt": "2024-09-15T21:11:04.436345Z",
+  "market_startDate": "2024-09-09T20:02:09.946583Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-15 00:04:31+00",
+  "conditionId": "0x151170dff79ad2a8fa129ca6028af4bcc823a52030100ca10d23b5b3e8cfbd1c",
+  "slug": "will-bournemouth-beat-chelsea",
+  "question": "Will Bournemouth beat Chelsea?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:14:05.248527Z",
+  "market_createdAt": "2024-10-14T18:14:05.248527Z",
+  "market_updatedAt": "2024-10-17T04:10:58.681243Z",
+  "market_startDate": "2024-10-14T23:52:10.269Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 04:20:54+00",
+  "conditionId": "0x47dfcf7e97c5c67f38e8aae4b48e31d5e59d9cf4cab547c8c2a745923c7149fc",
+  "slug": "will-trump-say-black-men-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say \"Black men\" during Georgia speech on Oct 15?"
+}

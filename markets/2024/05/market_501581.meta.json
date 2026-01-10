@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T14:58:07.996608Z",
+  "market_createdAt": "2024-05-14T14:58:07.996608Z",
+  "market_updatedAt": "2024-05-18T18:24:32.73627Z",
+  "market_startDate": "2024-05-14T18:28:27.631Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-17 22:07:12+00",
+  "conditionId": "0xb9108d9d37e0f91ab4380e0911940c521caffd84e80616c1c54d74b26bfc7442",
+  "slug": "amc-all-time-high-by-friday",
+  "question": "$AMC all time high by Friday?"
+}

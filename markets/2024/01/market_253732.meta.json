@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253732",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-09T18:52:02.101000Z",
+  "market_createdAt": "2024-01-09T18:52:02.101Z",
+  "market_updatedAt": "2024-11-13T07:17:15.25856Z",
+  "market_startDate": "2024-01-09T23:48:00Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-12 07:48:49+00",
+  "conditionId": "0x6d617a838210e0710a2a946814d1f26ed6bd3ffb76d0ef49959e0d2f75556944",
+  "slug": "will-elizabeth-warren-win-the-popular-vote-in-the-2024-presidential-election",
+  "question": "Will Elizabeth Warren win the popular vote in the 2024 Presidential Election?"
+}

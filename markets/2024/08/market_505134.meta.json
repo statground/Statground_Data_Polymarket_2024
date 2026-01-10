@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:39:22.311094Z",
+  "market_createdAt": "2024-08-14T21:39:22.311094Z",
+  "market_updatedAt": "2024-08-19T21:31:03.1566Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-19 01:22:57+00",
+  "conditionId": "0x843607cc38e9731d3c0300c670f61814313ebebf592c6a7e88769396ea2553db",
+  "slug": "will-cameron-smith-win-the-2024-liv-greenbrier-tournament",
+  "question": "Will Cameron Smith win the 2024 LIV Greenbrier Tournament?"
+}

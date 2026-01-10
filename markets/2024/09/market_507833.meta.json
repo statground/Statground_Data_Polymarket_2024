@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507833",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:49:50.656488Z",
+  "market_createdAt": "2024-09-24T04:49:50.656488Z",
+  "market_updatedAt": "2024-09-30T21:22:49.083394Z",
+  "market_startDate": "2024-09-24T04:52:07.336221Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-29 22:20:04+00",
+  "conditionId": "0x1e26117dc82f914260700a10b5e022cc1d570848b515158e625d0930945afe67",
+  "slug": "nfl-ind-pit-2024-09-29",
+  "question": "Colts vs. Steelers"
+}

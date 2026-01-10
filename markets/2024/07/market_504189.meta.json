@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504189",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T21:42:58.040656Z",
+  "market_createdAt": "2024-07-25T21:42:58.040656Z",
+  "market_updatedAt": "2024-08-06T17:10:48.866715Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 17:28:13+00",
+  "conditionId": "0x0ff06f04d039588b030115f528179fb8b21034c287433e52254cddf35c0e6ab9",
+  "slug": "will-katie-ledecky-win-the-most-gold-medals",
+  "question": "Will Katie Ledecky win the most gold medals?"
+}

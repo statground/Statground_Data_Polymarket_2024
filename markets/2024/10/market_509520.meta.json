@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509520",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T02:01:19.574249Z",
+  "market_createdAt": "2024-10-10T02:01:19.574249Z",
+  "market_updatedAt": "2025-01-24T22:51:15.283437Z",
+  "market_startDate": "2024-10-24T21:29:49.335948Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-01-24 03:40:36+00",
+  "conditionId": "0x3cfeacdc9460e45f3935a8d22b6145f4ca8bfdad2e0da07f14b3ac36ee84299b",
+  "slug": "will-micah-parsons-win-nfl-defensive-player-of-the-year",
+  "question": "Will Micah Parsons win NFL Defensive Player of the Year?"
+}

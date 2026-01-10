@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502645",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T21:23:13.313156Z",
+  "market_createdAt": "2024-06-19T21:23:13.313156Z",
+  "market_updatedAt": "2024-06-29T02:41:00.957777Z",
+  "market_startDate": "2024-06-20T18:38:17.042Z",
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 04:52:57+00",
+  "conditionId": "0x8cb677f13d6da650f06d133116a8aa5466688761f821241f01b56fc0cf37c2b3",
+  "slug": "will-trump-say-maga-during-the-debate",
+  "question": "Will Trump say \"MAGA\" during the debate?"
+}

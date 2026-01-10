@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:45:34.794358Z",
+  "market_createdAt": "2024-10-18T17:45:34.794358Z",
+  "market_updatedAt": "2024-10-20T18:02:47.228696Z",
+  "market_startDate": "2024-10-18T23:10:38.322201Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:37:31+00",
+  "conditionId": "0x6438fdcc7376bd3d848f533db024e65b66a02081d93896a53338d0c0bf26a945",
+  "slug": "will-there-be-56-or-more-combined-points-scored-TXAM-MissST",
+  "question": "Will there be 56 or more combined points scored?"
+}

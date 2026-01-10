@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507583",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T16:02:04.920030Z",
+  "market_createdAt": "2024-09-20T16:02:04.92003Z",
+  "market_updatedAt": "2024-09-22T23:16:40.154774Z",
+  "market_startDate": "2024-09-20T16:17:52.659107Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-22 01:18:57+00",
+  "conditionId": "0xaa2c4cfbf814f1e96409ae0ed6e57ab471edbbbad254b70f37cfea4628e70ce6",
+  "slug": "will-usc-beat-michigan-by-5-or-more-points",
+  "question": "Will USC beat Michigan by 5 or more points?"
+}

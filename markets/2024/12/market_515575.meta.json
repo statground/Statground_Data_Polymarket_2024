@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515575",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:26:59.582302Z",
+  "market_createdAt": "2024-12-13T19:26:59.582302Z",
+  "market_updatedAt": "2024-12-17T04:31:23.625747Z",
+  "market_startDate": "2024-12-13T19:29:35.354512Z",
+  "market_endDate": "2024-12-23T01:00:00Z",
+  "market_closedTime": "2024-12-16 05:31:05+00",
+  "conditionId": "0x60613a3b3f44869d746b73d4924fb6a219944f5be8316547d30b5c900d02fd16",
+  "slug": "nba-por-phx-2024-12-15",
+  "question": "Trail Blazers vs. Suns"
+}

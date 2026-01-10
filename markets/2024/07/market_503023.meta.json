@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503023",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T04:07:21.013594Z",
+  "market_createdAt": "2024-07-01T04:07:21.013594Z",
+  "market_updatedAt": "2024-07-02T21:25:48.96572Z",
+  "market_startDate": "2024-07-01T04:17:16.95Z",
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-01 21:19:50+00",
+  "conditionId": "0x5ecf80fbf6b815b11c67f7df710494c03dc5b90aa0e879918cedbcf599ea346d",
+  "slug": "will-france-win-july-1",
+  "question": "Will France win? "
+}

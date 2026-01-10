@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-21T21:42:28.288867Z",
+  "market_createdAt": "2024-07-21T21:42:28.288867Z",
+  "market_updatedAt": "2024-11-06T07:31:15.968517Z",
+  "market_startDate": "2024-07-21T22:14:59.239Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:53:43+00",
+  "conditionId": "0x40e783a12a83c36df40550c3f5a2433ba55a9cd312c31d808cc0c2c3ea747b1d",
+  "slug": "biden-resigns-from-presidency-before-election",
+  "question": "Will Biden resign before the election?"
+}

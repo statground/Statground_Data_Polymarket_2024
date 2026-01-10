@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516690",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:10:50.627933Z",
+  "market_createdAt": "2024-12-29T07:10:50.627933Z",
+  "market_updatedAt": "2025-01-05T05:55:07.787661Z",
+  "market_startDate": "2024-12-29T07:13:50.668346Z",
+  "market_endDate": "2025-01-11T01:00:00Z",
+  "market_closedTime": "2025-01-04 06:01:58+00",
+  "conditionId": "0x01d2050518eb94e55202160cfc72b415b2ef2c037136049d9959da1a8ec3c688",
+  "slug": "nhl-ott-stl-2025-01-03",
+  "question": "Senators vs. Blues"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507034",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:05:14.205644Z",
+  "market_createdAt": "2024-09-13T20:05:14.205644Z",
+  "market_updatedAt": "2024-09-18T02:32:43.22984Z",
+  "market_startDate": "2024-09-13T20:55:23.423Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 02:44:07+00",
+  "conditionId": "0x8b993cfb6c68488fbb06f36e8afd0050f1aec58dcdf68b82e01f4957761a474a",
+  "slug": "will-trump-say-card-during-the-x-space",
+  "question": "Will Trump say \"Card\" during the X space?"
+}

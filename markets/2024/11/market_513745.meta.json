@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513745",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T20:00:50.478018Z",
+  "market_createdAt": "2024-11-22T20:00:50.478018Z",
+  "market_updatedAt": "2024-12-14T07:23:11.828027Z",
+  "market_startDate": "2024-11-22T22:41:32.593197Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 07:26:46+00",
+  "conditionId": "0x31ed456ee297ae730f248630ede1c6bb30eb39e616611a995cb9a3a02d95e837",
+  "slug": "will-balatro-win-game-of-the-year",
+  "question": "Will 'Balatro' win Game of the Year?"
+}

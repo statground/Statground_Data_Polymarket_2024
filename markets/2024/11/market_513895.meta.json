@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513895",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:51:52.283239Z",
+  "market_createdAt": "2024-11-24T18:51:52.283239Z",
+  "market_updatedAt": "2024-11-27T07:27:42.465486Z",
+  "market_startDate": "2024-11-24T18:54:22.306256Z",
+  "market_endDate": "2024-12-03T03:00:00Z",
+  "market_closedTime": "2024-11-26 07:38:53+00",
+  "conditionId": "0x5dfcddd86d90b77f78ff330d31567d1c2f2a3623f2828e5bfcf0088050fcbbd1",
+  "slug": "nba-bkn-gsw-2024-11-25",
+  "question": "Nets vs. Warriors"
+}

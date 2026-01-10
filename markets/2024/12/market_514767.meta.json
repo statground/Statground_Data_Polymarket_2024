@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:11:47.736080Z",
+  "market_createdAt": "2024-12-04T21:11:47.73608Z",
+  "market_updatedAt": "2024-12-07T05:47:12.395006Z",
+  "market_startDate": "2024-12-04T21:15:08.962882Z",
+  "market_endDate": "2024-12-13T02:00:00Z",
+  "market_closedTime": "2024-12-06 07:14:54+00",
+  "conditionId": "0xa99994539a88c213fe78084a92c7877ea21d1555cbf2d1f5612a4f7ffe96a43d",
+  "slug": "nhl-stl-cal-2024-12-05",
+  "question": "Blues vs. Flames"
+}

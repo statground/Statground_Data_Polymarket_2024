@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505210",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-16T16:24:16.125344Z",
+  "market_createdAt": "2024-08-16T16:24:16.125344Z",
+  "market_updatedAt": "2024-12-22T01:36:50.665354Z",
+  "market_startDate": "2024-08-16T16:24:16.125344Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-21 03:36:45+00",
+  "conditionId": "0xe3720e09908b0185e4ef7f2add28bc47d3ef43bd490126cc73d63201569f0cb9",
+  "slug": "will-sonic-launch-before-2025",
+  "question": "Will Sonic launch before 2025?"
+}

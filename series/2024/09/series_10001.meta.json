@@ -1,0 +1,15 @@
+{
+  "entity": "series",
+  "series_id": "10001",
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
+  "folder_dt_utc": "2024-09-23T16:19:45.524197Z",
+  "series_createdAt": "2024-09-23T16:19:45.524197Z",
+  "series_publishedAt": null,
+  "series_updatedAt": "2026-01-06T14:40:56.966132Z",
+  "slug": "rcp-polling-margin",
+  "ticker": "rcp-polling-margin",
+  "title": "RCP Polling Margin",
+  "startDate": null,
+  "recurrence": "weekly",
+  "seriesType": "single"
+}

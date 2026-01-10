@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514784",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:16:06.478055Z",
+  "market_createdAt": "2024-12-04T21:16:06.478055Z",
+  "market_updatedAt": "2024-12-09T07:31:09.756152Z",
+  "market_startDate": "2024-12-04T21:19:23.63891Z",
+  "market_endDate": "2024-12-15T03:00:00Z",
+  "market_closedTime": "2024-12-08 07:44:40+00",
+  "conditionId": "0x3158541edeeb795e34880acc5487d9236567e35dbc1d2fdca4a50575153d4055",
+  "slug": "nhl-stl-edm-2024-12-07",
+  "question": "Blues vs. Oilers"
+}

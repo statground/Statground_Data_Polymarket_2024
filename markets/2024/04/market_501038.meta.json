@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T16:50:40.324439Z",
+  "market_createdAt": "2024-04-18T16:50:40.324439Z",
+  "market_updatedAt": "2024-06-06T11:01:18.099615Z",
+  "market_startDate": "2024-04-18T22:09:38.591Z",
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-05 11:00:58+00",
+  "conditionId": "0x179aa663b9f4860b1e6bb587ed874fc8f400e1d163aaf50fe7f8b8d072943cd8",
+  "slug": "will-the-nda-win-less-than-300-seats",
+  "question": "Will the NDA win less than 300 seats?"
+}

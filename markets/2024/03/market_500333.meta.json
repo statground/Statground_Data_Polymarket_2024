@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500333",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T20:45:30.474146Z",
+  "market_createdAt": "2024-03-19T20:45:30.474146Z",
+  "market_updatedAt": "2024-05-09T23:44:04.12909Z",
+  "market_startDate": "2024-03-20T17:43:23.541Z",
+  "market_endDate": "2024-07-31T04:00:00Z",
+  "market_closedTime": "2024-05-09 02:46:57+00",
+  "conditionId": "0xd7ec7e3e8449ac1a1944c63fecdc06c5ef7496a85345e2c10c33e2db62d89645",
+  "slug": "will-shai-gilgeousalexander-win-the-202324-nba-mvp",
+  "question": "Will Shai Gilgeous-Alexander win the 2023-24 NBA MVP?"
+}

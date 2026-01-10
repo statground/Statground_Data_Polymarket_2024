@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504558",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T16:33:54.495966Z",
+  "market_createdAt": "2024-08-05T16:33:54.495966Z",
+  "market_updatedAt": "2024-08-31T21:17:06.281948Z",
+  "market_startDate": "2024-08-05T16:33:54.495966Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-30 22:00:37+00",
+  "conditionId": "0xd2a3375842cbc1acf507760dd4d13fe0e91914db388ad39d4b1adbcffd2bb407",
+  "slug": "nyse-circuit-breaker-in-august",
+  "question": "NYSE marketwide circuit breaker in August?"
+}

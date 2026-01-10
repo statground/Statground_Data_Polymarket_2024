@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502710",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T21:48:05.824274Z",
+  "market_createdAt": "2024-06-20T21:48:05.824274Z",
+  "market_updatedAt": "2024-06-27T00:16:10.204064Z",
+  "market_startDate": "2024-06-21T20:59:10.348Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:20:11+00",
+  "conditionId": "0x8fb1c85df2e64bedc411454f69267ae172a34d4c9b1693e7a768fc604c299ea0",
+  "slug": "was-barron-involved-in-djt",
+  "question": "Was Barron involved in $DJT?"
+}

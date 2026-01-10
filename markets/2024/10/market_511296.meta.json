@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T15:51:35.529083Z",
+  "market_createdAt": "2024-10-29T15:51:35.529083Z",
+  "market_updatedAt": "2024-11-01T19:47:11.162194Z",
+  "market_startDate": "2024-10-29T16:57:49.837856Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 20:03:16+00",
+  "conditionId": "0xb4fa70eb104e12e5d332e178b950aae1d300831a802006d52ac101364037d7d4",
+  "slug": "will-jd-vance-say-vaccine-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"vaccine\" during the Joe Rogan podcast?"
+}

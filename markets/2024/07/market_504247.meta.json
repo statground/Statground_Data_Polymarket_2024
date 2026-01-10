@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T23:50:35.243843Z",
+  "market_createdAt": "2024-07-26T23:50:35.243843Z",
+  "market_updatedAt": "2024-08-05T16:32:55.232358Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 18:25:27+00",
+  "conditionId": "0x433842eb9625c6fd9e73c556ba314f4e2fd97d38ecb37a791602a088cf9d69bd",
+  "slug": "will-another-athlete-win-gold-in-mens-tennis",
+  "question": "Will another athlete win Gold in Men's Tennis?"
+}

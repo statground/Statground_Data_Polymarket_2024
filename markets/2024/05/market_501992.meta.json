@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501992",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:49:30.012075Z",
+  "market_createdAt": "2024-05-31T21:49:30.012075Z",
+  "market_updatedAt": "2024-06-30T17:21:07.175927Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-06-29 21:07:06+00",
+  "conditionId": "0x72485d5bab346ef3b58ecc57062f04a4de01585e9720de5c09c6ecc7ed8fe07d",
+  "slug": "will-italy-win-the-2024-euros",
+  "question": "Will Italy win the 2024 Euros?"
+}

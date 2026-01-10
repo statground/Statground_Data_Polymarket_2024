@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T17:00:14.734868Z",
+  "market_createdAt": "2024-08-19T17:00:14.734868Z",
+  "market_updatedAt": "2024-08-28T19:13:09.597422Z",
+  "market_startDate": null,
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-08-27 23:00:26+00",
+  "conditionId": "0x06202de3a2794b47b3943a1a0d5b06747b4cf97ab8f5f505e336b71ad0d048ad",
+  "slug": "will-danielle-rose-collins-win-the-us-open",
+  "question": "Will Danielle Rose Collins win the US Open?"
+}

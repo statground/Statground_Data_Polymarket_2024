@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511838",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:00:35.530463Z",
+  "market_createdAt": "2024-11-02T22:00:35.530463Z",
+  "market_updatedAt": "2024-11-05T02:57:08.395172Z",
+  "market_startDate": "2024-11-02T23:24:06.92Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:55:10+00",
+  "conditionId": "0x9ad582e9c989c354c6c804db8baf035843d2eb1354c9202f5d5a9f01fe7e37ea",
+  "slug": "will-trump-say-voter-id-during-macon-ga-rally",
+  "question": "Will Trump say \"Voter ID\" during Macon, GA rally?"
+}

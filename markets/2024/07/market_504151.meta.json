@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504151",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:11:25.454861Z",
+  "market_createdAt": "2024-07-25T18:11:25.454861Z",
+  "market_updatedAt": "2024-08-11T18:53:43.09145Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:50:13+00",
+  "conditionId": "0x6fbde8ee9e70de3f44922cf2a836be0178115d47838fbcf0642ac399afec48d6",
+  "slug": "will-the-united-states-win-the-3rd-most-gold-medals",
+  "question": "Will the United States win the 3rd most gold medals?"
+}

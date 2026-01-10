@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515207",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:21:51.385200Z",
+  "market_createdAt": "2024-12-09T22:21:51.3852Z",
+  "market_updatedAt": "2024-12-12T23:47:08.225134Z",
+  "market_startDate": "2024-12-10T21:54:26.476406Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:18:22+00",
+  "conditionId": "0x8e637d4f7aecdcdfa95470e8c24c02d27152e3253cb5e676675f27178f570313",
+  "slug": "will-stuttgart-beat-young-boys",
+  "question": "Will Stuttgart beat Young Boys?"
+}

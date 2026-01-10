@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509465",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T21:50:54.778338Z",
+  "market_createdAt": "2024-10-09T21:50:54.778338Z",
+  "market_updatedAt": "2024-10-11T23:32:55.208616Z",
+  "market_startDate": "2024-10-09T22:45:09.507699Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-11 02:38:07+00",
+  "conditionId": "0x3d58bfa7b3cd8bb607b548b61d7e7bfac124cf8699e2cd187640d525cde1ac09",
+  "slug": "will-the-match-between-venezuela-and-argentina-end-in-a-draw",
+  "question": " Will the match between Venezuela and Argentina end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515388",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T17:29:04.057915Z",
+  "market_createdAt": "2024-12-11T17:29:04.057915Z",
+  "market_updatedAt": "2025-01-16T17:21:06.462774Z",
+  "market_startDate": "2024-12-11T18:07:59.82Z",
+  "market_endDate": "2025-01-15T12:00:00Z",
+  "market_closedTime": "2025-01-15 17:17:09+00",
+  "conditionId": "0x1414b0cce66b440db90604d5174bd2d88ed199c37c3d35b40a99a07fc098da7d",
+  "slug": "will-us-annual-inflation-be-2pt9-or-greater-in-december",
+  "question": "Will US annual inflation be 2.9% or greater in December?"
+}

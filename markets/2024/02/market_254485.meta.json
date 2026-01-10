@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254485",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T23:30:18.487000Z",
+  "market_createdAt": "2024-02-14T23:30:18.487Z",
+  "market_updatedAt": "2024-06-21T21:11:11.892308Z",
+  "market_startDate": "2024-02-15T17:18:27.048Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-06-20 21:08:21+00",
+  "conditionId": "0xe71ffd6668b6f26eb8f850bb668a09b64b50dc400f704035594163796d385249",
+  "slug": "layerzero-airdrop-by-june-30",
+  "question": "LayerZero airdrop by June 30?"
+}

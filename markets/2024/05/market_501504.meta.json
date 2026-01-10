@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501504",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-09T18:05:08.478744Z",
+  "market_createdAt": "2024-05-09T18:05:08.478744Z",
+  "market_updatedAt": "2024-06-03T16:45:14.546693Z",
+  "market_startDate": "2024-05-09T18:49:42.762Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": null,
+  "conditionId": "0x06e38641b524be1ed25563e2481ae310983b192973f3c7e37f7e06153d39935d",
+  "slug": "solana-flips-eth-in-daily-fees-in-may",
+  "question": "Solana flips ETH in daily fees in May?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253941",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T01:35:57.828000Z",
+  "market_createdAt": "2024-01-17T01:35:57.828Z",
+  "market_updatedAt": "2024-01-23T04:49:22.002Z",
+  "market_startDate": "2024-01-21T00:00:00Z",
+  "market_endDate": "2024-01-21T00:00:00Z",
+  "market_closedTime": "2024-01-22 04:45:41+00",
+  "conditionId": "0xaa7bd82e3639fa30e64d0459d33c7acc8b0413931b807cd549573847e882c365",
+  "slug": "nfl-buf-kc-2024-01-21",
+  "question": "Bills vs. Chiefs"
+}

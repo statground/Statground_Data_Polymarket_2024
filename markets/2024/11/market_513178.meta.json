@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:20:47.246496Z",
+  "market_createdAt": "2024-11-15T19:20:47.246496Z",
+  "market_updatedAt": "2024-11-18T01:33:14.857636Z",
+  "market_startDate": "2024-11-15T22:12:35.543352Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 02:14:31+00",
+  "conditionId": "0x479fa5c4a6d5dff0883cbfcce2d8f811d40ad7955654d9d87393b1e5a1a809f0",
+  "slug": "will-lsu-beat-florida",
+  "question": "Will LSU beat Florida?"
+}

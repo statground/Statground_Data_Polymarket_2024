@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T16:01:30.855075Z",
+  "market_createdAt": "2024-04-22T16:01:30.855075Z",
+  "market_updatedAt": "2024-07-02T02:25:53.609787Z",
+  "market_startDate": "2024-04-29T18:19:26.249Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:05:50+00",
+  "conditionId": "0x9d85034f5f765670525baa006b22008e5a24ebd1a50d2b9e272f29e4bf9400f5",
+  "slug": "us-bank-failure-by-june-30",
+  "question": "US bank failure by June 30?"
+}

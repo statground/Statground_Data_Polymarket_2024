@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:36:54.405357Z",
+  "market_createdAt": "2024-08-07T23:36:54.405357Z",
+  "market_updatedAt": "2024-08-11T23:36:54.989878Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 05:16:55+00",
+  "conditionId": "0xf560a49cec303d35f21cbfe9e15f854fb5a4438d374f4835213042b7ce4b8b83",
+  "slug": "nfl-ari-no-2024-08-10",
+  "question": "Cardinals vs. Saints"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T17:15:32.255776Z",
+  "market_createdAt": "2024-10-14T17:15:32.255776Z",
+  "market_updatedAt": "2024-10-18T23:26:42.559046Z",
+  "market_startDate": "2024-10-14T23:41:00.779865Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-17 23:38:23+00",
+  "conditionId": "0x9d18659a583de24f367fd9ef8b57fbbdc842d82c45cf836a7ec1bfac43946523",
+  "slug": "will-maxime-vachier-lagrave-mvl-win-the-2024-wr-chess-masters-cup",
+  "question": "Will Maxime Vachier-Lagrave win the 2024 WR Chess Masters Cup?"
+}

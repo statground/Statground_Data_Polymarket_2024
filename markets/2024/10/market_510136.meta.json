@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510136",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:06:01.666903Z",
+  "market_createdAt": "2024-10-18T17:06:01.666903Z",
+  "market_updatedAt": "2024-10-20T21:50:49.096116Z",
+  "market_startDate": "2024-10-18T23:29:16.437319Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:56:23+00",
+  "conditionId": "0xe10bb1c98f18449680da98896491e46ac6670f1825cc9c2461bcbfee5a54e102",
+  "slug": "will-miami-beat-louisville",
+  "question": "Will Miami beat Louisville?"
+}

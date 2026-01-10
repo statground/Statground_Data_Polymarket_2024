@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507513",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:35:00.003237Z",
+  "market_createdAt": "2024-09-19T20:35:00.003237Z",
+  "market_updatedAt": "2024-12-16T02:43:28.869568Z",
+  "market_startDate": "2024-09-19T21:25:45.799454Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:41:21+00",
+  "conditionId": "0x263785f8cdcac0012356d7e9a3e2b6b98b7224a1d2e9c813474f503f072cef34",
+  "slug": "will-carson-beck-win-the-heisman-trophy",
+  "question": "Will Carson Beck win the Heisman Trophy?"
+}

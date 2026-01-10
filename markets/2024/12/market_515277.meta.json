@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515277",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:26:35.332465Z",
+  "market_createdAt": "2024-12-10T19:26:35.332465Z",
+  "market_updatedAt": "2025-01-24T16:14:50.594017Z",
+  "market_startDate": "2024-12-11T19:10:34.62Z",
+  "market_endDate": "2025-01-23T12:00:00Z",
+  "market_closedTime": "2025-01-23 16:36:50+00",
+  "conditionId": "0x3eca1798b9cff1867ec876a014e181c8b2d725d3616e04c2f846e659e467b02c",
+  "slug": "will-september-5-be-nominated-for-oscar-for-best-picture",
+  "question": "Will 'September 5' be nominated for Oscar for Best Picture?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500274",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T19:18:34.510877Z",
+  "market_createdAt": "2024-03-18T19:18:34.510877Z",
+  "market_updatedAt": "2024-05-07T23:09:12.14151Z",
+  "market_startDate": "2024-03-18T21:19:15.806Z",
+  "market_endDate": "2024-04-07T23:00:00Z",
+  "market_closedTime": "2024-03-31 03:32:27+00",
+  "conditionId": "0x7bbd234927ed3121f12ad902b827e5c58930e734990567b850da2a51af3042b9",
+  "slug": "march-madness-2024-will-no-1-seeds-make-it-to-the-final-four",
+  "question": "March Madness 2024: Will no #1 seeds make it to the Final Four?"
+}

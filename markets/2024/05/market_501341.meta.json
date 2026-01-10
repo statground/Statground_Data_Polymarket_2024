@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T15:39:25.015534Z",
+  "market_createdAt": "2024-05-02T15:39:25.015534Z",
+  "market_updatedAt": "2024-06-17T00:26:12.387091Z",
+  "market_startDate": "2024-06-11T21:25:46.573Z",
+  "market_endDate": "2024-06-15T12:00:00Z",
+  "market_closedTime": "2024-06-16 00:20:38+00",
+  "conditionId": "0x5d3fa58095b0e8932154f6865a5b0314e7e6a27be690d3f2a1e406d7a9b9bffa",
+  "slug": "bitboy-vs-smic",
+  "question": "BitBoy vs. Smic - Crypto Fight Night"
+}

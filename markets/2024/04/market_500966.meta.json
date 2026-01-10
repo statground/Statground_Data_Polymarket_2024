@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500966",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:31:05.828175Z",
+  "market_createdAt": "2024-04-15T20:31:05.828175Z",
+  "market_updatedAt": "2024-06-03T02:46:09.019522Z",
+  "market_startDate": "2024-04-16T16:49:03.501Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-06-02 06:01:39+00",
+  "conditionId": "0xd859e12082eb335bb0b7128a4491e5c91aaa22e5ae903927f46b4b53753a1131",
+  "slug": "new-york-rangers-win-the-2024-stanley-cup",
+  "question": "New York Rangers win the 2024 Stanley Cup?"
+}

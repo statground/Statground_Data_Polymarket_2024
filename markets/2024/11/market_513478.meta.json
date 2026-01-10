@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-19T19:24:13.995666Z",
+  "market_createdAt": "2024-11-19T19:24:13.995666Z",
+  "market_updatedAt": "2024-11-24T00:54:48.988969Z",
+  "market_startDate": "2024-11-20T18:04:25.62066Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 04:25:35+00",
+  "conditionId": "0x15abb2d64835f733dfeab2fab9c5dcb3ca5c433808a3cacba07a2ab5df31d785",
+  "slug": "will-trump-nominate-marty-makary-for-cdc-director",
+  "question": "Will Trump nominate Marty Makary for CDC Director?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509816",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:47:52.436044Z",
+  "market_createdAt": "2024-10-14T18:47:52.436044Z",
+  "market_updatedAt": "2024-10-16T20:36:56.403273Z",
+  "market_startDate": "2024-10-15T00:02:01.563867Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 00:01:17+00",
+  "conditionId": "0xbed3a2e4d6891cab42fac5cbed8da789a131349564f2a9c6a1ae26cdf80a0407",
+  "slug": "will-croatia-beat-poland",
+  "question": "Will Croatia beat Poland?"
+}

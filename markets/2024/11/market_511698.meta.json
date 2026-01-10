@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:46:18.012630Z",
+  "market_createdAt": "2024-11-01T18:46:18.01263Z",
+  "market_updatedAt": "2024-11-04T21:27:15.755103Z",
+  "market_startDate": "2024-11-01T22:14:22.499119Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 00:49:05+00",
+  "conditionId": "0x39e4dd205d6f30a10233f9a2100487c0436ed96854fb5584a66c20f64d7fdd9e",
+  "slug": "will-the-titans-beat-the-patriots-by-4-or-more-points",
+  "question": "Will the Titans beat the Patriots by 4 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503942",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T23:16:09.813493Z",
+  "market_createdAt": "2024-07-19T23:16:09.813493Z",
+  "market_updatedAt": "2024-08-07T06:50:52.846441Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-06 07:19:02+00",
+  "conditionId": "0xccf49a6c68d4048e37c65d999f71285e069cd2490632c6ea1bcb18b05ad40891",
+  "slug": "democrats-nominate-prez-candidate-by-aug-7",
+  "question": "Democrats nominate Prez candidate by August 7? "
+}

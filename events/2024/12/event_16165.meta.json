@@ -1,0 +1,20 @@
+{
+  "entity": "event",
+  "event_id": "16165",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
+  "folder_dt_utc": "2024-12-31T15:29:41.003159Z",
+  "event_createdAt": "2024-12-31T15:29:41.003159Z",
+  "event_creationDate": "2024-12-31T18:51:46.426753Z",
+  "event_startDate": "2024-12-31T18:51:46.426755Z",
+  "event_endDate": "2025-12-31T12:00:00Z",
+  "event_updatedAt": "2025-09-20T00:47:56.578868Z",
+  "markets_len": 1,
+  "market_ids": [
+    "516924"
+  ],
+  "series_len": 1,
+  "series_ids": [
+    "10047"
+  ],
+  "series_slug": "doge-etf"
+}

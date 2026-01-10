@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-12T20:41:33.835756Z",
+  "market_createdAt": "2024-08-12T20:41:33.835756Z",
+  "market_updatedAt": "2024-08-15T05:22:53.199157Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-13T12:00:00Z",
+  "market_closedTime": "2024-08-14 07:47:39+00",
+  "conditionId": "0x32a444cde0ad6fa660cd7a7d247667b00cbcb5a29f9d7fdee6c6da2e0a0f74ff",
+  "slug": "will-another-candidate-win-the-wi-8-republican-house-primary",
+  "question": "Will another candidate win the WI-8 Republican House Primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512949",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T23:27:58.940539Z",
+  "market_createdAt": "2024-11-12T23:27:58.940539Z",
+  "market_updatedAt": "2024-11-17T04:38:58.01611Z",
+  "market_startDate": "2024-11-14T20:52:37.823231Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 04:37:15+00",
+  "conditionId": "0x6a60e700ae0463b434f119938ca62f9ed43d10cfed930acb56e9d7705a1658ae",
+  "slug": "goyat-vs-nunes",
+  "question": "Goyat vs. Nunes"
+}

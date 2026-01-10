@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505753",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T17:38:34.259709Z",
+  "market_createdAt": "2024-08-23T17:38:34.259709Z",
+  "market_updatedAt": "2024-08-27T04:07:05.011963Z",
+  "market_startDate": "2024-08-25T12:00:00Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-26 05:20:27+00",
+  "conditionId": "0x79d3128ebb405b12f275bfaca69eee3c0670bb314e9460fb1c0547ec9a356e21",
+  "slug": "nfl-wsh-ne-2024-08-25",
+  "question": "Commanders vs. Patriots"
+}

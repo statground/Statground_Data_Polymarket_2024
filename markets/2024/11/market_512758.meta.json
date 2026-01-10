@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512758",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:08:32.370416Z",
+  "market_createdAt": "2024-11-11T21:08:32.370416Z",
+  "market_updatedAt": "2024-12-22T00:28:50.247265Z",
+  "market_startDate": "2024-11-11T21:56:17.667Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2024-12-21 02:24:53+00",
+  "conditionId": "0xccbb012a207ef8254fe1db37c84fb1f17a3fc8737ddfe92bd7c5c1242b74f1bf",
+  "slug": "will-biden-appoint-more-judges-than-trump",
+  "question": "Will Biden appoint more judges than Trump?"
+}

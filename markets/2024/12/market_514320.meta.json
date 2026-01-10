@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514320",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:16:43.639019Z",
+  "market_createdAt": "2024-12-01T05:16:43.639019Z",
+  "market_updatedAt": "2024-12-09T04:59:11.562928Z",
+  "market_startDate": "2024-12-01T05:20:26.550291Z",
+  "market_endDate": "2024-12-15T01:00:00Z",
+  "market_closedTime": "2024-12-08 05:35:27+00",
+  "conditionId": "0x829a226ba37ac9f4144d482656aecf989102d7d0f220eaed89a06d1545ae3b7a",
+  "slug": "nba-phx-mia-2024-12-07",
+  "question": "Suns vs. Heat"
+}

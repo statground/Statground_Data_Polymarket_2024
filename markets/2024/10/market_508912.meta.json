@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508912",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:02:46.307386Z",
+  "market_createdAt": "2024-10-04T17:02:46.307386Z",
+  "market_updatedAt": "2024-10-06T12:32:43.600232Z",
+  "market_startDate": "2024-10-04T18:37:32.722646Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 04:58:44+00",
+  "conditionId": "0x36ed60731ae6ec837be2b224993ed07e5b4a21dc67907b6569fd1a0b78e0aa35",
+  "slug": "will-washington-beat-michigan-by-2-or-more-points",
+  "question": "Will Washington beat Michigan by 2 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:04:02.650549Z",
+  "market_createdAt": "2024-10-21T19:04:02.650549Z",
+  "market_updatedAt": "2024-10-29T01:36:59.886431Z",
+  "market_startDate": "2024-10-21T19:06:35.025524Z",
+  "market_endDate": "2024-10-27T20:25:00Z",
+  "market_closedTime": "2024-10-28 02:12:43+00",
+  "conditionId": "0xba3b6c254c1099a2e1d11ac0801b17afe440d5f3dc4f2dd5b4a47bccf627991b",
+  "slug": "nfl-chi-wsh-2024-10-27",
+  "question": "Bears vs. Commanders"
+}

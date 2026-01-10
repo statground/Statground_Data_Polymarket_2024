@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T20:52:31.768390Z",
+  "market_createdAt": "2024-09-23T20:52:31.76839Z",
+  "market_updatedAt": "2024-09-27T03:06:39.831375Z",
+  "market_startDate": "2024-09-23T22:05:07.175107Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-26 03:44:18+00",
+  "conditionId": "0x1db608a6853c51898a98ccc0e464c43a99ebd0885da2cee20ec5730821a3abb4",
+  "slug": "wnba-sun-vs-fever-game-2",
+  "question": "WNBA: Sun vs. Fever Game 2"
+}

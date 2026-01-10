@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505015",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T16:06:53.811546Z",
+  "market_createdAt": "2024-08-13T16:06:53.811546Z",
+  "market_updatedAt": "2024-12-18T20:53:26.273073Z",
+  "market_startDate": "2024-08-13T16:06:53.811546Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:27:31+00",
+  "conditionId": "0xa250c00bb432dc0f64addaf0b0b4818ad8f58b322135be02a285a2d9d76a5f05",
+  "slug": "will-rfk-jr-win-7-of-the-popular-vote",
+  "question": "Will RFK Jr. win >7% of the popular vote?"
+}

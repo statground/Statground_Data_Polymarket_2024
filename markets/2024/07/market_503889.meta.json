@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503889",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T17:18:02.233022Z",
+  "market_createdAt": "2024-07-19T17:18:02.233022Z",
+  "market_updatedAt": "2024-08-02T17:13:02.071248Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-30T12:00:00Z",
+  "market_closedTime": "2024-07-31 23:46:18+00",
+  "conditionId": "0x0af76d0e20cd74b303d454b03fd5ae4bf4eaf2d1e0c6fe0fcfe21dc836ccde40",
+  "slug": "will-ippei-watanabe-jpn-win-gold-in-mens-200m-breaststroke",
+  "question": "Will Ippei Watanabe (JPN) win Gold in Men's 200m Breaststroke?"
+}

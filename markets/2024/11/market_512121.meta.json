@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:42:49.701493Z",
+  "market_createdAt": "2024-11-05T21:42:49.701493Z",
+  "market_updatedAt": "2024-11-07T23:22:46.172371Z",
+  "market_startDate": "2024-11-07T03:02:37.703493Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:19:44+00",
+  "conditionId": "0xddeed7dc1e5b9270358a43809d1e4c2d69f94465477d928409a52e59b8cfca46",
+  "slug": "will-the-match-between-olympiacos-and-rangers-end-in-a-draw",
+  "question": "Will the match between Olympiacos and Rangers end in a draw?"
+}

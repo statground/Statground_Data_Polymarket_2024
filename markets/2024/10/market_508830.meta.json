@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508830",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T02:15:17.163383Z",
+  "market_createdAt": "2024-10-04T02:15:17.163383Z",
+  "market_updatedAt": "2024-10-12T00:26:53.759031Z",
+  "market_startDate": "2024-10-04T15:27:01.459445Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-11 04:48:00+00",
+  "conditionId": "0xa28486e7bef8bee27f152c615f6a0f6629cb015631ad05ec9434f9d7021f8b0b",
+  "slug": "yankees-vs-royals-series-winner",
+  "question": "Yankees vs Royals Series Winner"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T14:34:03.839607Z",
+  "market_createdAt": "2024-10-21T14:34:03.839607Z",
+  "market_updatedAt": "2024-10-22T22:21:27.846893Z",
+  "market_startDate": "2024-10-21T14:53:56.960683Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 22:33:55+00",
+  "conditionId": "0x2cb07aaeed79d6d34a8dc2aea88b4ddbb31fadb554116857a97fcf1d843102d1",
+  "slug": "will-trump-say-border-25-or-more-times-during-north-carolina-rally-on-october-21",
+  "question": "Will Trump say \"Border\" 25 or more times during North Carolina rally on October 21?"
+}

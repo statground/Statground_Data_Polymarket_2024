@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254033",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-19T19:54:16.901000Z",
+  "market_createdAt": "2024-01-19T19:54:16.901Z",
+  "market_updatedAt": "2024-02-18T08:45:48.923Z",
+  "market_startDate": "2024-01-19T21:52:50.88Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-17 08:45:58+00",
+  "conditionId": "0x013142626607e6d1088977fb94e96f43e6d20080f05b77e84ac50cc97dc92682",
+  "slug": "us-call-for-gaza-ceasefire-before-march",
+  "question": "US call for Gaza ceasefire before March?"
+}

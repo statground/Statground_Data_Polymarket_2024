@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T18:01:53.690975Z",
+  "market_createdAt": "2024-06-05T18:01:53.690975Z",
+  "market_updatedAt": "2024-06-11T09:56:14.563784Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 11:41:22+00",
+  "conditionId": "0xec92d96fa2c22e507aa0be810aaf04cd377ea5cbe286e3bbda8bbe3a4c830193",
+  "slug": "will-rn-receive-over-31-of-votes",
+  "question": "Will RN receive over 31% of votes?"
+}

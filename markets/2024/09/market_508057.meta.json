@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508057",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:33:04.859594Z",
+  "market_createdAt": "2024-09-24T21:33:04.859594Z",
+  "market_updatedAt": "2024-10-03T04:06:38.329145Z",
+  "market_startDate": "2024-09-24T23:43:03.694Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:55:07+00",
+  "conditionId": "0xd6d6ac1e66fdb5529ab699ce68e1fb9ae8e1da8fe3f0beb68899f4b5358bbf89",
+  "slug": "will-tim-walz-say-dog-during-the-debate",
+  "question": "Will Tim Walz say \"Dog\" during the debate?"
+}

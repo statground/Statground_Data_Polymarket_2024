@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508684",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:23:34.312569Z",
+  "market_createdAt": "2024-10-02T17:23:34.312569Z",
+  "market_updatedAt": "2024-10-03T03:03:30.050804Z",
+  "market_startDate": "2024-10-02T21:08:10.592607Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-03 03:00:32+00",
+  "conditionId": "0x0918af401a5464dba338cac259128c4c3d75a899a3572dda59dde6c441e9ada1",
+  "slug": "will-the-baltimore-orioles-win-the-american-league",
+  "question": "Will the Baltimore Orioles win the American League?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515725",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T05:00:01.165113Z",
+  "market_createdAt": "2024-12-16T05:00:01.165113Z",
+  "market_updatedAt": "2024-12-19T07:47:21.776464Z",
+  "market_startDate": "2024-12-16T05:02:49.343057Z",
+  "market_endDate": "2024-12-25T02:00:00Z",
+  "market_closedTime": "2024-12-18 08:00:44+00",
+  "conditionId": "0xc31587be420c6a747964962789aef457b272927a9cfd02473fda276abec6d74c",
+  "slug": "cfb-mem-wvu-2024-12-17",
+  "question": "Memphis vs. West Virginia"
+}

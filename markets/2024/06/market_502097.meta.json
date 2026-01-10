@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502097",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:15:37.003696Z",
+  "market_createdAt": "2024-06-04T15:15:37.003696Z",
+  "market_updatedAt": "2024-06-18T06:25:47.818377Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:24:18+00",
+  "conditionId": "0xc89a06d0b943ab6a0e1ef757eb6086fd6e7472bcaf45ad4e6f444c9fe7e50367",
+  "slug": "will-another-player-have-the-most-assists-in-the-2024-nba-finals-series",
+  "question": "Will another player have the most assists in the 2024 NBA Finals series?"
+}

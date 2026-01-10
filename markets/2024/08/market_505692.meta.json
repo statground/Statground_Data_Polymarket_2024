@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T22:16:52.390521Z",
+  "market_createdAt": "2024-08-22T22:16:52.390521Z",
+  "market_updatedAt": "2024-08-24T05:42:56.634619Z",
+  "market_startDate": "2024-08-22T22:34:01.28Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:53:46+00",
+  "conditionId": "0x2c8c609faf153485a0247b3ed367d553503b2245f129dbd994e28d5b06ea5f47",
+  "slug": "will-george-bush-speak-at-the-dnc",
+  "question": "Will George Bush speak at the DNC?"
+}

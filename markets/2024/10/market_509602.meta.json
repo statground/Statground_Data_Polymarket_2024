@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:13:25.598700Z",
+  "market_createdAt": "2024-10-11T15:13:25.5987Z",
+  "market_updatedAt": "2024-10-13T13:10:51.362131Z",
+  "market_startDate": "2024-10-11T18:55:04.514763Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 21:22:33+00",
+  "conditionId": "0x2fdadcf648d31b3a9689e6922c3b00e780c09bbea32091a9e428a49e348625a2",
+  "slug": "will-missouri-and-umass-combine-for-55-or-more-points",
+  "question": "Will Missouri and UMass combine for 55 or more points?"
+}

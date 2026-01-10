@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T18:29:44.683594Z",
+  "market_createdAt": "2024-07-23T18:29:44.683594Z",
+  "market_updatedAt": "2024-07-26T04:34:42.818586Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 04:34:09+00",
+  "conditionId": "0x627c02f12dcba79ac9b4f968c61db86ab0b72cd6036a61353cc98ff56b987bb4",
+  "slug": "will-biden-say-sick-during-drop-out-speech",
+  "question": "Will Biden say \"Sick\" during drop out speech?"
+}

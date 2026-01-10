@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505882",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T15:16:57.423994Z",
+  "market_createdAt": "2024-08-27T15:16:57.423994Z",
+  "market_updatedAt": "2024-09-27T22:46:43.964181Z",
+  "market_startDate": "2024-08-27T15:16:57.423994Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-27 00:22:41+00",
+  "conditionId": "0x5fd07415d6996e740bd2b2ba9469a3d913e564b4510c61fd9dfac6d9b64f7f6b",
+  "slug": "will-the-seattle-mariners-win-the-world-series",
+  "question": "Will the Seattle Mariners win the World Series?"
+}

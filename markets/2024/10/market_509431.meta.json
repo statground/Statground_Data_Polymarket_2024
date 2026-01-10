@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T19:55:17.316104Z",
+  "market_createdAt": "2024-10-09T19:55:17.316104Z",
+  "market_updatedAt": "2024-10-14T23:26:48.368328Z",
+  "market_startDate": "2024-10-10T23:03:42.932471Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:03:59+00",
+  "conditionId": "0xcf2d0f83d35d8bd3b834ee928f10b2de74630a5d747a3c585b67bdef65cca02a",
+  "slug": "will-trump-say-border-35-or-more-times-during-arizona-rally-on-october-13",
+  "question": "Will Trump say \"border\" 35 or more times during Arizona rally on October 13?"
+}

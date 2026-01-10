@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512345",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T00:40:51.149801Z",
+  "market_createdAt": "2024-11-08T00:40:51.149801Z",
+  "market_updatedAt": "2025-01-21T04:09:04.553327Z",
+  "market_startDate": "2024-11-08T15:51:03.826Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-20 07:07:40+00",
+  "conditionId": "0x62568d4e9884a3f8c3349f9ee8ef5da6a7477405a393166f68a5782a95a26f22",
+  "slug": "will-sotomayor-retire-from-scotus-before-inauguration",
+  "question": "Sotomayor steps down from Supreme Court before inauguration?"
+}

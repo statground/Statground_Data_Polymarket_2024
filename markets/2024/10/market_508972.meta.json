@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508972",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T19:00:50.715916Z",
+  "market_createdAt": "2024-10-04T19:00:50.715916Z",
+  "market_updatedAt": "2024-10-05T23:22:42.769275Z",
+  "market_startDate": "2024-10-04T21:48:52.996268Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 04:53:19+00",
+  "conditionId": "0xe8876675d09572b0401eecbe9435b5a4f1ab53c85df6ab9b8267dba40ea1bdac",
+  "slug": "will-tcu-beat-houston-by-17-or-more-points",
+  "question": "Will TCU beat Houston by 17 or more points?"
+}

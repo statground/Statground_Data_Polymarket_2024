@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T20:13:32.243709Z",
+  "market_createdAt": "2024-09-13T20:13:32.243709Z",
+  "market_updatedAt": "2024-09-18T03:02:45.447967Z",
+  "market_startDate": "2024-09-13T20:57:20.306Z",
+  "market_endDate": "2024-09-16T12:00:00Z",
+  "market_closedTime": "2024-09-17 04:41:33+00",
+  "conditionId": "0x4dd5fc26fcd82a304ec76d8051be405879eecc1c678a7bd5fb411dc27d5e0359",
+  "slug": "will-trump-say-doge-during-the-x-space",
+  "question": "Will Trump say \"Doge\" during the X space?"
+}

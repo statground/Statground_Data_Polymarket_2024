@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505144",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:02:10.257676Z",
+  "market_createdAt": "2024-08-15T00:02:10.257676Z",
+  "market_updatedAt": "2024-10-03T03:16:42.514753Z",
+  "market_startDate": "2024-08-15T00:02:10.257676Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:35:01+00",
+  "conditionId": "0x4d31b8b96d5db13b0978b541be5707e3de4d82806e538c1553a4a501cf7ca344",
+  "slug": "live-audience-at-walz-vance-debate",
+  "question": "Live audience at Walz/Vance debate?"
+}

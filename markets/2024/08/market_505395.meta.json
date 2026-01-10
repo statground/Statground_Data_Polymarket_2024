@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T00:06:26.746419Z",
+  "market_createdAt": "2024-08-20T00:06:26.746419Z",
+  "market_updatedAt": "2024-08-23T05:31:08.242061Z",
+  "market_startDate": "2024-08-20T15:16:51.133Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 05:52:12+00",
+  "conditionId": "0xaec1fdbfbc7e89d2f93cd380c98a44d0e94ce9be57344b4ea685e483dacb8292",
+  "slug": "will-walz-say-coach-at-dnc-speech",
+  "question": "Will Walz say \"Coach\" at DNC speech?"
+}

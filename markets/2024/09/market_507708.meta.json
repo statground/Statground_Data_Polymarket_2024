@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T15:50:26.904574Z",
+  "market_createdAt": "2024-09-23T15:50:26.904574Z",
+  "market_updatedAt": "2024-09-28T05:16:43.781542Z",
+  "market_startDate": "2024-09-23T15:52:44.077Z",
+  "market_endDate": "2024-09-26T12:00:00Z",
+  "market_closedTime": "2024-09-27 05:22:46+00",
+  "conditionId": "0x652913133a6f632326d2e7c5e60527a9a669bc71f44a1eeec3c31b6db7d5cda7",
+  "slug": "nfl-nyg-dal-2024-09-26",
+  "question": "Giants vs. Cowboys"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501362",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T18:34:05.276052Z",
+  "market_createdAt": "2024-05-02T18:34:05.276052Z",
+  "market_updatedAt": "2024-08-08T01:46:37.110815Z",
+  "market_startDate": "2024-05-02T21:30:15.434Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-08 01:43:34+00",
+  "conditionId": "0xf7e16f553da25f59971e84f303b0a0fe24b03113e2f59cafd883b08d8394ef93",
+  "slug": "will-another-candidate-win-the-mi-12-democratic-house-primary",
+  "question": "Will another candidate win the MI-12 Democratic House Primary?"
+}

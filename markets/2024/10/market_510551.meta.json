@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510551",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:59:55.513787Z",
+  "market_createdAt": "2024-10-22T15:59:55.513787Z",
+  "market_updatedAt": "2024-10-26T06:06:58.328298Z",
+  "market_startDate": "2024-10-22T21:48:53.656307Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 06:22:37+00",
+  "conditionId": "0x41f1741cd9a4e7fdd79fc560b68461d1d01f8963f4f07477176ded8c5996f443",
+  "slug": "will-trump-say-crypto-or-bitcoin-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"crypto\" or \"Bitcoin\" during Las Vegas rally on October 24?"
+}

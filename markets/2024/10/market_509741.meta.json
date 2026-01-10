@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509741",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T22:24:10.573281Z",
+  "market_createdAt": "2024-10-11T22:24:10.573281Z",
+  "market_updatedAt": "2024-10-14T19:56:59.885457Z",
+  "market_startDate": "2024-10-11T23:17:11.343506Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-13 22:08:42+00",
+  "conditionId": "0xa14366eb3635aba655289cdac0cd2b391fcff72fc08322165cad90778e7418b9",
+  "slug": "will-the-ravens-and-commanders-combine-for-52-or-more-points",
+  "question": "Will the Ravens and Commanders combine for 52 or more points?"
+}

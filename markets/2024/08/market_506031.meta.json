@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506031",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:52:27.714143Z",
+  "market_createdAt": "2024-08-28T19:52:27.714143Z",
+  "market_updatedAt": "2025-01-14T00:29:17.545894Z",
+  "market_startDate": "2024-08-28T19:52:27.714143Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-13 03:58:35+00",
+  "conditionId": "0x64754cd9d9774ab3c4ff37d17f17d36871ab7b3a5281a5068b2d4f2667491a02",
+  "slug": "will-the-packers-win-the-nfc-championship",
+  "question": "Will the Packers win the NFC Championship?"
+}

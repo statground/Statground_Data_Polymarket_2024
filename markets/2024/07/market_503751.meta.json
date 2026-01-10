@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503751",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:55:02.632872Z",
+  "market_createdAt": "2024-07-18T18:55:02.632872Z",
+  "market_updatedAt": "2024-07-28T23:16:14.229945Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-28 23:13:17+00",
+  "conditionId": "0x04273de4220cd38220c1d22cf698aec5be93e5eb66b8e878be36e17f8bb89cab",
+  "slug": "will-evgenii-somov-ain-win-gold-in-mens-100m-breaststroke",
+  "question": "Will Evgenii Somov (AIN) win Gold in Men's 100m Breaststroke?"
+}

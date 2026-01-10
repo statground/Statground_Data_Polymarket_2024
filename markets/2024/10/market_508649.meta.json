@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508649",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:11:07.896103Z",
+  "market_createdAt": "2024-10-01T23:11:07.896103Z",
+  "market_updatedAt": "2024-10-05T05:22:37.304803Z",
+  "market_startDate": "2024-10-01T23:13:17.365Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-04 05:36:26+00",
+  "conditionId": "0xa6d683bafb25ddcef6bd522d3224b781ee5a12f00ea7235246ebf052926304ba",
+  "slug": "nfl-tb-atl-2024-10-03",
+  "question": "Buccaneers vs. Falcons"
+}

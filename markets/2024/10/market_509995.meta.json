@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T17:39:32.339285Z",
+  "market_createdAt": "2024-10-16T17:39:32.339285Z",
+  "market_updatedAt": "2024-10-19T02:10:53.161143Z",
+  "market_startDate": "2024-10-17T01:13:40.603037Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 03:15:30+00",
+  "conditionId": "0x16cf9e4c1d794ee29fb519ef3d42f601d17897ad1628fe4e3be7765fb5dbccee",
+  "slug": "yankees-vs-guardians-game-3",
+  "question": "Yankees vs. Guardians - Game 3"
+}

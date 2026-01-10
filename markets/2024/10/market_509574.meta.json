@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509574",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T21:28:43.796654Z",
+  "market_createdAt": "2024-10-10T21:28:43.796654Z",
+  "market_updatedAt": "2024-10-13T01:26:40.425648Z",
+  "market_startDate": "2024-10-10T22:58:03.412Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 02:24:17+00",
+  "conditionId": "0x434380ab98c532bb5cd763454c40db19bff1c95c914c9b9da638ea32c67ef94e",
+  "slug": "will-there-be-at-least-1-run-scored-in-the-first-inning",
+  "question": "Will there be at least 1 run scored in the first inning?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501440",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T21:12:44.004097Z",
+  "market_createdAt": "2024-05-06T21:12:44.004097Z",
+  "market_updatedAt": "2024-07-17T03:02:46.173263Z",
+  "market_startDate": "2024-05-06T23:10:33.642Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:02:57+00",
+  "conditionId": "0x8617f0ec3b1bb510d731572ef786a6349727878a446f033e5e16d080f5ffdeb9",
+  "slug": "will-glenn-youngkin-win-the-2024-republican-vp-nomination",
+  "question": "Will Glenn Youngkin win the 2024 Republican VP nomination?"
+}

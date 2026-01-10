@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T02:55:01.599429Z",
+  "market_createdAt": "2024-06-03T02:55:01.599429Z",
+  "market_updatedAt": "2024-06-08T20:11:17.012664Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 23:21:49+00",
+  "conditionId": "0x996a9d4727c4cca0ef0579b530339518c6a8aca116e37aaef83201f9abe6d415",
+  "slug": "gme-market-cap-between-8-10-billion-on-friday",
+  "question": "$GME market cap between $8-10 billion on Friday?"
+}

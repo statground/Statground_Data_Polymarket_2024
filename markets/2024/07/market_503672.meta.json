@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T20:38:30.612952Z",
+  "market_createdAt": "2024-07-17T20:38:30.612952Z",
+  "market_updatedAt": "2024-08-05T19:56:57.652565Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:15:03+00",
+  "conditionId": "0xf6266bbd5d2109a43cc056638e32568fcec59856631a8d6d4c7e15fb7f4a3220",
+  "slug": "will-lamon-marcell-jacobs-ita-win-gold-in-100m",
+  "question": "Will Lamon Marcell Jacobs (ITA) win Gold in 100m?"
+}

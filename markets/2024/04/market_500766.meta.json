@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T17:15:35.003519Z",
+  "market_createdAt": "2024-04-05T17:15:35.003519Z",
+  "market_updatedAt": "2024-05-07T23:10:10.609117Z",
+  "market_startDate": "2024-04-05T21:21:41.283Z",
+  "market_endDate": "2024-04-10T12:00:00Z",
+  "market_closedTime": "2024-04-10 14:38:30+00",
+  "conditionId": "0xc1cee474f787bc47bbe23c2a0c304344c5f96ba7420f5d812599609708b3a1ed",
+  "slug": "us-inflation-0pt2-from-february-to-March-2024",
+  "question": "US inflation >0.2% from Feb to March 2024?"
+}

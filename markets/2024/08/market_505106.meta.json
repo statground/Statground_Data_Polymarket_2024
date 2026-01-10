@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505106",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T16:18:57.255728Z",
+  "market_createdAt": "2024-08-14T16:18:57.255728Z",
+  "market_updatedAt": "2024-08-16T23:03:02.510234Z",
+  "market_startDate": "2024-08-14T17:27:52.145Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-15 23:03:09+00",
+  "conditionId": "0x75ded7c14320fa2ce9b684852c38d4cf0a2b2863260ec5e59330691e3e3e601b",
+  "slug": "will-trump-say-elon-musk-at-his-press-conference",
+  "question": "Will Trump say \"Elon Musk\" at his press conference?"
+}

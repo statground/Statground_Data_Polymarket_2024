@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:00:30.685071Z",
+  "market_createdAt": "2024-12-29T07:00:30.685071Z",
+  "market_updatedAt": "2024-12-30T23:25:44.962729Z",
+  "market_startDate": "2024-12-29T07:03:01.97397Z",
+  "market_endDate": "2025-01-05T20:00:00Z",
+  "market_closedTime": "2024-12-30 00:56:36+00",
+  "conditionId": "0xef27dff25148763e7bb1315a9e99d288adc2f98c1f4a38fb4429caa1e3c687f7",
+  "slug": "nhl-buf-stl-2024-12-29",
+  "question": "Sabres vs. Blues"
+}

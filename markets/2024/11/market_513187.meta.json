@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513187",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:27:21.907076Z",
+  "market_createdAt": "2024-11-15T19:27:21.907076Z",
+  "market_updatedAt": "2024-11-18T05:11:34.043795Z",
+  "market_startDate": "2024-11-15T22:13:20.249776Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 06:11:53+00",
+  "conditionId": "0x645da9dbfcba944c790970799fca559db4c1ad35e76f21821765cc488f42b4e8",
+  "slug": "will-georgia-and-tennessee-combine-for-48-or-more-points",
+  "question": "Will Georgia and Tennessee combine for 48 or more points?"
+}

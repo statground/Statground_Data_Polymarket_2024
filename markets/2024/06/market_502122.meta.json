@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502122",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-05T15:25:25.127997Z",
+  "market_createdAt": "2024-06-05T15:25:25.127997Z",
+  "market_updatedAt": "2024-06-12T20:41:16.077529Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 21:44:22+00",
+  "conditionId": "0x654f1c8a3ce4e61961af9b620f36cfa8a6d48429bf9951ae5951ae3d5815ec4f",
+  "slug": "iran-response-to-israel-by-sunday",
+  "question": "Iran response to Israel by Sunday?"
+}

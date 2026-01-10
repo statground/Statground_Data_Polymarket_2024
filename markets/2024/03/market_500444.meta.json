@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T14:25:57.793994Z",
+  "market_createdAt": "2024-03-26T14:25:57.793994Z",
+  "market_updatedAt": "2025-01-02T08:31:02.476651Z",
+  "market_startDate": "2024-03-26T15:11:43.387Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:42:22+00",
+  "conditionId": "0x0f99544f8db2651fdafb79636924b4d9ec73c9b61d77a9e56f467c6b0c932c3d",
+  "slug": "will-putin-remain-president-of-russia-through-2024",
+  "question": "Will Putin remain President of Russia through 2024?"
+}

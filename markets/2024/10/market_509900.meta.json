@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509900",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:09:23.881536Z",
+  "market_createdAt": "2024-10-15T18:09:23.881536Z",
+  "market_updatedAt": "2024-10-17T18:32:55.315504Z",
+  "market_startDate": "2024-10-15T19:34:14.417866Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-16 21:10:46+00",
+  "conditionId": "0x7f237a6d7d8008083c955c56109f8a1d8f918e64dfa60e578cc9c9815e26a41a",
+  "slug": "will-daniil-medvedev-win-the-six-kings-slam",
+  "question": "Will Daniil Medvedev win the Six Kings Slam?"
+}

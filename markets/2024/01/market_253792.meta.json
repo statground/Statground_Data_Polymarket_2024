@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253792",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-11T00:24:07.035000Z",
+  "market_createdAt": "2024-01-11T00:24:07.035Z",
+  "market_updatedAt": "2024-01-16T01:13:12.802Z",
+  "market_startDate": "2024-01-14T00:00:00Z",
+  "market_endDate": "2024-01-14T00:00:00Z",
+  "market_closedTime": "2024-01-15 03:06:05+00",
+  "conditionId": "0xf0d406fbfdc84019185fa1a96f63bc539ea33c66537f9cdb21878ddf7f3056e0",
+  "slug": "nfl-dal-gb-2024-01-14",
+  "question": "Cowboys vs. Packers"
+}

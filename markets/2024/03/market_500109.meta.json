@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T16:16:23.388253Z",
+  "market_createdAt": "2024-03-13T16:16:23.388253Z",
+  "market_updatedAt": "2024-11-23T03:48:51.395129Z",
+  "market_startDate": "2024-04-03T22:02:25.512Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-22 03:59:43+00",
+  "conditionId": "0xc1a4830eef6f60d9e0f05ecb5aa81b11d7d361e1a869c0138219840af849a986",
+  "slug": "will-a-republican-win-pennsylvania-us-senate-election",
+  "question": "Will a Republican win Pennsylvania US Senate Election?"
+}

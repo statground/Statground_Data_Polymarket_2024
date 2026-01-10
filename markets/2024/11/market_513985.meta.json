@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:47:50.776006Z",
+  "market_createdAt": "2024-11-25T19:47:50.776006Z",
+  "market_updatedAt": "2024-12-13T15:41:02.619442Z",
+  "market_startDate": "2024-12-05T23:04:47.589713Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-12 15:57:19+00",
+  "conditionId": "0x82abf4d6746fa6787cb95f812cc90a4ebd2c827a5eeb8bb815548a6c517f15ab",
+  "slug": "will-elon-musk-be-times-person-of-the-year-for-2024",
+  "question": "Will Elon Musk be TIME's Person of the Year for 2024?"
+}

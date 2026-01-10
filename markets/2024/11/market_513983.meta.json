@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513983",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T19:42:17.512637Z",
+  "market_createdAt": "2024-11-25T19:42:17.512637Z",
+  "market_updatedAt": "2024-12-20T21:53:12.389893Z",
+  "market_startDate": "2024-11-25T22:14:42.417Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-20 03:03:09+00",
+  "conditionId": "0x71363a064e99548e892a6cc0e06f89ec6f5ef77a0cf74cf1d25b87865fcba216",
+  "slug": "will-not-be-listed-first-on-robinhood",
+  "question": "Will $NOT be listed first on Robinhood?"
+}

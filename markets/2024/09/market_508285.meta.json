@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T20:00:10.602242Z",
+  "market_createdAt": "2024-09-26T20:00:10.602242Z",
+  "market_updatedAt": "2024-09-30T06:12:33.73049Z",
+  "market_startDate": "2024-09-27T16:23:31.947388Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 07:37:17+00",
+  "conditionId": "0x2cad3c93d784dcdd0732fc3f26e4afe9663009d83dcef8c967c11478571d5464",
+  "slug": "will-boise-st-beat-washington-st",
+  "question": "Will Boise St. beat Washington St.?"
+}

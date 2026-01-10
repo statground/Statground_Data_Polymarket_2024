@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T22:04:23.870431Z",
+  "market_createdAt": "2024-11-25T22:04:23.870431Z",
+  "market_updatedAt": "2024-11-27T22:03:41.339013Z",
+  "market_startDate": "2024-11-25T23:21:56.790615Z",
+  "market_endDate": "2024-11-26T12:00:00Z",
+  "market_closedTime": "2024-11-26 22:49:24+00",
+  "conditionId": "0xb29937116ab8f13996e8f5b1da7e8e510d7dd679c5e505d915555bd494dd9384",
+  "slug": "will-slovan-bratislava-beat-ac-milan",
+  "question": "Will Slovan Bratislava beat AC Milan?"
+}

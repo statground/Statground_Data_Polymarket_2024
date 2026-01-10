@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516250",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:03:29.281148Z",
+  "market_createdAt": "2024-12-22T06:03:29.281148Z",
+  "market_updatedAt": "2024-12-30T23:07:46.109334Z",
+  "market_startDate": "2024-12-22T06:06:02.079422Z",
+  "market_endDate": "2025-01-05T18:00:00Z",
+  "market_closedTime": "2024-12-29 23:25:39+00",
+  "conditionId": "0xc287b749c1c6eee77bdc3c15a9931ec40324f0d4e5321149675a5c59987482cc",
+  "slug": "nfl-lv-no-2024-12-29",
+  "question": "Raiders vs. Saints"
+}

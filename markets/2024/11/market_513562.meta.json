@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513562",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T19:49:55.305046Z",
+  "market_createdAt": "2024-11-20T19:49:55.305046Z",
+  "market_updatedAt": "2025-04-22T00:24:46.197749Z",
+  "market_startDate": "2024-11-21T23:08:41.802214Z",
+  "market_endDate": "2025-04-28T12:00:00Z",
+  "market_closedTime": "2025-04-21 04:35:39+00",
+  "conditionId": "0x114b72e331516663151cae530cf36205bca6a22fcb4de3c45d581be006bf54de",
+  "slug": "will-mark-daigneault-win-nba-coach-of-the-year",
+  "question": "Will Mark Daigneault win NBA Coach of the Year?"
+}

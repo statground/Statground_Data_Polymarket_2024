@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:44:44.887298Z",
+  "market_createdAt": "2024-03-18T14:44:44.887298Z",
+  "market_updatedAt": "2024-05-07T23:09:47.213143Z",
+  "market_startDate": "2024-03-18T18:54:23.038Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-30 07:33:17+00",
+  "conditionId": "0x0a4185949b828fd11e8d76f109a54b70adb0f98000cc7d2f747b553c969f83db",
+  "slug": "will-creighton-win-the-ncaa-tournament",
+  "question": "Will Creighton win the NCAA tournament?"
+}

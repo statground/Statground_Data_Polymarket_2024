@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509965",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T22:08:46.489503Z",
+  "market_createdAt": "2024-10-15T22:08:46.489503Z",
+  "market_updatedAt": "2025-01-02T07:57:00.824573Z",
+  "market_startDate": "2024-10-15T22:53:22.531582Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:52:48+00",
+  "conditionId": "0x4f8aaa2f01e9c529aea2f3d60ad6f8b9a6d2f82e06d966fb7af65d2ff7a87cb3",
+  "slug": "will-binance-list-degen-in-2024",
+  "question": "Will Binance list $DEGEN in 2024?"
+}

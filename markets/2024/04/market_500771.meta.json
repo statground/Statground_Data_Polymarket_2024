@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500771",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T17:24:26.610739Z",
+  "market_createdAt": "2024-04-05T17:24:26.610739Z",
+  "market_updatedAt": "2024-05-07T23:09:57.709963Z",
+  "market_startDate": "2024-04-05T23:17:22.923Z",
+  "market_endDate": "2024-05-03T12:00:00Z",
+  "market_closedTime": "2024-05-03 15:44:32+00",
+  "conditionId": "0x98bc1dae77ad789ec2d638cce495a6f03c4028ec372eba7f7c2fa8e17f63e06c",
+  "slug": "will-the-us-gain-more-than-303k-jobs-in-april",
+  "question": "Will the US gain more than 303k jobs in April?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511522",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T19:45:43.042571Z",
+  "market_createdAt": "2024-10-31T19:45:43.042571Z",
+  "market_updatedAt": "2024-11-13T17:18:17.36513Z",
+  "market_startDate": "2024-11-01T14:55:24.26Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-06 07:38:23+00",
+  "conditionId": "0xd1900f8d3c6c73553e85b5d33e9ba59920a16e35335e0b5d12a9fea6c4961dcb",
+  "slug": "will-bitcoin-reach-75000-in-november",
+  "question": "Will Bitcoin reach $75,000 in November? "
+}

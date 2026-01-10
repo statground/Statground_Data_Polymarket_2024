@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:23:39.668006Z",
+  "market_createdAt": "2024-04-04T18:23:39.668006Z",
+  "market_updatedAt": "2024-11-07T20:43:08.640092Z",
+  "market_startDate": "2024-04-12T19:02:50.506Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:55:40+00",
+  "conditionId": "0x84ce4228388d675bc145b41f362a00fdea9d72616d1eb13987e11215d772a9a5",
+  "slug": "will-a-candidate-from-another-party-win-massachusetts-us-senate-election",
+  "question": "Will a candidate from another party win Massachusetts US Senate Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510496",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:20:45.754264Z",
+  "market_createdAt": "2024-10-22T03:20:45.754264Z",
+  "market_updatedAt": "2024-10-24T15:47:14.259566Z",
+  "market_startDate": "2024-10-23T14:56:24.595305Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 19:34:01+00",
+  "conditionId": "0x12a2db2a84478edf07eb50343ff460b7ac4b9e4ec43d45231920d254e2d35ab1",
+  "slug": "will-bodo-glimt-beat-braga",
+  "question": "Will Bodo Glimt beat Braga?"
+}

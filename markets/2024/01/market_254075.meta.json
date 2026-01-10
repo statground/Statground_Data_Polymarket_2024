@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-23T21:04:25.361000Z",
+  "market_createdAt": "2024-01-23T21:04:25.361Z",
+  "market_updatedAt": "2024-03-12T03:18:06.127Z",
+  "market_startDate": "2024-01-24T19:49:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:17:39+00",
+  "conditionId": "0xf8b2e35a34e61f705b9abe3de5034411417828e86362c7d3a61474f1355d8f18",
+  "slug": "will-martin-scorsese-win-the-oscar-for-best-director",
+  "question": "Will Martin Scorsese win the Oscar for Best Director?"
+}

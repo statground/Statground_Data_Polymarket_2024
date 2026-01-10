@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508848",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:56:22.338458Z",
+  "market_createdAt": "2024-10-04T15:56:22.338458Z",
+  "market_updatedAt": "2024-10-06T19:42:45.711471Z",
+  "market_startDate": "2024-10-04T18:20:26.399916Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 22:34:23+00",
+  "conditionId": "0x02791456c6abd30a4812db1ffe3ad33e6b9a0dcb251247e41e35c40632b9b7eb",
+  "slug": "will-navy-beat-air-force-by-10-or-more-points",
+  "question": "Will Navy beat Air Force by 10 or more points?"
+}

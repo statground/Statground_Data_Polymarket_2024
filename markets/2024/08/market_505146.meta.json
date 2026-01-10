@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:42:13.536448Z",
+  "market_createdAt": "2024-08-15T00:42:13.536448Z",
+  "market_updatedAt": "2024-08-19T06:52:54.165752Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-18 06:54:00+00",
+  "conditionId": "0x41f9de1ef93214be796d85342178ad8ee88380559eee7e15790e5f6c8923f0f6",
+  "slug": "du-plessis-vs-adesanya",
+  "question": "Du Plessis vs. Adesanya"
+}

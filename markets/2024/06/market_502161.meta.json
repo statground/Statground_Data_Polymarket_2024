@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T14:54:00.056849Z",
+  "market_createdAt": "2024-06-06T14:54:00.056849Z",
+  "market_updatedAt": "2024-06-08T00:06:12.219002Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-06T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:30+00",
+  "conditionId": "0x7c04d784b06aaf38fe14fed1d134bfe3de03ec79dc0d23c0da80d49e0cf096fe",
+  "slug": "nba-finals-game-1-overunder-215pt5-points",
+  "question": "NBA Finals Game 1: Over/Under 215.5 Points"
+}

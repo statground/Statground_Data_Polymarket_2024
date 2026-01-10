@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506374",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T14:48:45.964796Z",
+  "market_createdAt": "2024-09-04T14:48:45.964796Z",
+  "market_updatedAt": "2024-10-02T20:46:53.016055Z",
+  "market_startDate": "2024-09-04T16:37:07.648336Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 21:03:15+00",
+  "conditionId": "0xe44d679c63c514560aba0f9ae962660630b1272bb38fef0b4a36b08ab770a963",
+  "slug": "will-joe-bidens-538-approval-reach-43pt0-in-september",
+  "question": "Will Biden's 538 approval reach 43% in September?"
+}

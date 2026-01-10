@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:51:13.925641Z",
+  "market_createdAt": "2024-06-11T18:51:13.925641Z",
+  "market_updatedAt": "2024-07-06T03:25:47.298819Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-05 06:27:05+00",
+  "conditionId": "0xf54c1a0483cb89acf4fc252c87654ac07ff0e9ab7cf55c96ad811412744c9aba",
+  "slug": "ecuador-wins-copa-america-2024",
+  "question": "Ecuador wins Copa America 2024?"
+}

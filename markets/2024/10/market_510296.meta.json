@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T16:19:11.240605Z",
+  "market_createdAt": "2024-10-21T16:19:11.240605Z",
+  "market_updatedAt": "2024-10-25T03:01:07.758866Z",
+  "market_startDate": "2024-10-21T21:19:16.687Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-24 03:27:50+00",
+  "conditionId": "0x66403c1e9545cedf2e3ff83df702e72bdd562f74c2937c35ffde1c44f7988c1a",
+  "slug": "will-trump-say-maga-2-or-more-times-during-georgia-rally-on-october-23",
+  "question": "Will Trump say \"MAGA\" 2 or more times during Georgia rally on October 23?"
+}

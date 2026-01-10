@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513546",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T18:37:36.509457Z",
+  "market_createdAt": "2024-11-20T18:37:36.509457Z",
+  "market_updatedAt": "2024-12-01T23:05:32.554383Z",
+  "market_startDate": "2024-11-20T22:07:54.114876Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:09:56+00",
+  "conditionId": "0xbe3a07702be9f4e2ab8f963c8bf01697f9ea5ad4c0d7d6537c168a50aa5d021a",
+  "slug": "soleth-hit-0pt08-by-nov-30",
+  "question": "SOLETH hit 0.08 by Nov 30?"
+}

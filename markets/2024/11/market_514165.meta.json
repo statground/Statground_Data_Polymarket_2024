@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514165",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T18:30:46.758849Z",
+  "market_createdAt": "2024-11-26T18:30:46.758849Z",
+  "market_updatedAt": "2025-02-25T12:51:31.327917Z",
+  "market_startDate": "2024-12-16T18:27:44.842Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:45:52+00",
+  "conditionId": "0xba3e7e0ef13d5a888b976cf79a341620e5a59b120875ed28f87b6d0f2d6db7ff",
+  "slug": "will-another-party-win-the-most-seats-in-the-next-german-election",
+  "question": "Will another party win the most seats in the next German election?"
+}

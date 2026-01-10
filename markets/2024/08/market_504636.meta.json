@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504636",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T21:33:19.426207Z",
+  "market_createdAt": "2024-08-06T21:33:19.426207Z",
+  "market_updatedAt": "2024-08-14T05:02:55.98719Z",
+  "market_startDate": "2024-08-12T23:12:56.977Z",
+  "market_endDate": "2024-08-23T12:00:00Z",
+  "market_closedTime": "2024-08-13 04:58:01+00",
+  "conditionId": "0x9d231a70f0194c485d2d50dc2b31d27c74b30e17ae9712f18c9ae6bdc7212e1c",
+  "slug": "will-trump-say-tesla-during-elon-interview",
+  "question": "Will Trump say \"Tesla\" during Elon interview?"
+}

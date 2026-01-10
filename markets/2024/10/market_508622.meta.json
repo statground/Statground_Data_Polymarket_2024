@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508622",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T20:32:58.993384Z",
+  "market_createdAt": "2024-10-01T20:32:58.993384Z",
+  "market_updatedAt": "2024-10-16T18:46:53.997771Z",
+  "market_startDate": "2024-10-01T21:41:22.67Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-10-15 19:14:29+00",
+  "conditionId": "0x6575cae21cb68bf8b2fff31569d3f79b00980b2c07a9916423e10688478a87b0",
+  "slug": "will-devante-adams-be-traded-before-the-deadline",
+  "question": "Will Davante Adams be traded before the deadline?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506689",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:03:59.717615Z",
+  "market_createdAt": "2024-09-09T17:03:59.717615Z",
+  "market_updatedAt": "2024-09-15T16:43:06.262696Z",
+  "market_startDate": "2024-09-09T19:45:26.082171Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 19:09:06+00",
+  "conditionId": "0x6571335238bfa2bb9ab62a2bdce51ef74e93f1419d6356aa5444e110e2d45b53",
+  "slug": "will-crystal-palace-beat-leicester-city",
+  "question": "Will Crystal Palace beat Leicester City?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500218",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T04:03:15.589842Z",
+  "market_createdAt": "2024-03-18T04:03:15.589842Z",
+  "market_updatedAt": "2024-05-07T23:09:23.988744Z",
+  "market_startDate": "2024-03-18T18:52:03.372Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-04-09 06:46:16+00",
+  "conditionId": "0xaeebbc24fde6f93097e4aa7c5d3e820fee6573adf47dec4075800efa1727a7fd",
+  "slug": "will-uconn-win-the-ncaa-tournament",
+  "question": "Will UConn win the NCAA tournament?"
+}

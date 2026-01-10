@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:17:18.725532Z",
+  "market_createdAt": "2024-11-26T08:17:18.725532Z",
+  "market_updatedAt": "2024-11-29T19:25:31.558497Z",
+  "market_startDate": "2024-11-26T22:49:41.611482Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 22:57:00+00",
+  "conditionId": "0xf949e90066ccfae9f819ba4211ebc20a300430fa3d15dc5fd0bbdf2ccc8c4ffa",
+  "slug": "will-the-match-between-rfs-and-paok-end-in-a-draw",
+  "question": "Will the match between RFS and PAOK end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515925",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:05:13.143743Z",
+  "market_createdAt": "2024-12-17T22:05:13.143743Z",
+  "market_updatedAt": "2024-12-22T00:01:11.964231Z",
+  "market_startDate": "2024-12-17T23:46:30.812243Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 00:44:31+00",
+  "conditionId": "0x524111be639c9b4769f7066cdbbb1c0733ff11bbb41e6005bc522a14b23dd3ab",
+  "slug": "will-bayern-munich-beat-rb-leipzig",
+  "question": "Will Bayern Munich beat RB Leipzig?"
+}

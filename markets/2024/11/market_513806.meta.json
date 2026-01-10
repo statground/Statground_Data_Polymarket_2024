@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:08:43.658659Z",
+  "market_createdAt": "2024-11-24T05:08:43.658659Z",
+  "market_updatedAt": "2024-12-01T21:07:20.045147Z",
+  "market_startDate": "2024-11-24T05:11:27.173657Z",
+  "market_endDate": "2024-12-07T17:00:00Z",
+  "market_closedTime": "2024-11-30 22:35:27+00",
+  "conditionId": "0x6417a9ecc386081cca02409f9d9d3281a0b1c18ca4a113c65ca5db77e10fd181",
+  "slug": "cfb-utsa-army-2024-11-30",
+  "question": "UTSA vs. Army"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T18:29:31.453890Z",
+  "market_createdAt": "2024-07-17T18:29:31.45389Z",
+  "market_updatedAt": "2024-08-04T21:10:59.781347Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-08T12:00:00Z",
+  "market_closedTime": "2024-08-04 00:17:02+00",
+  "conditionId": "0x6a3310c6354f23a9774ae41d3eb17a139e001b9c4344349175f91e0f24156571",
+  "slug": "will-france-win-gold-in-womens-football-soccer",
+  "question": "Will France win Gold in Women's Football (Soccer)?"
+}

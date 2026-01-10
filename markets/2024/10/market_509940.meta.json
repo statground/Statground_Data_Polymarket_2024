@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:22:27.014334Z",
+  "market_createdAt": "2024-10-15T19:22:27.014334Z",
+  "market_updatedAt": "2025-04-28T01:03:58.622369Z",
+  "market_startDate": "2024-10-15T22:48:32.821338Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-28 01:00:55+00",
+  "conditionId": "0xa2256547b6e7e215829a5d4bd2637cb17b882c8b0cebe890582ac8becee386c0",
+  "slug": "will-fiorentina-win-the-serie-a",
+  "question": "Will Fiorentina win the Serie A?"
+}

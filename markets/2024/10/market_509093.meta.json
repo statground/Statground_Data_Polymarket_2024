@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509093",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:16:04.815489Z",
+  "market_createdAt": "2024-10-07T19:16:04.815489Z",
+  "market_updatedAt": "2025-05-31T08:24:39.453687Z",
+  "market_startDate": "2024-10-08T14:27:01.561879Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-30 05:58:30+00",
+  "conditionId": "0x3a5a0289c93118833ee682065e6935ded62984992f97fd5a59b4d2271214282d",
+  "slug": "will-the-dallas-stars-win-the-2025-stanley-cup",
+  "question": "Will the Dallas Stars win the 2025 Stanley Cup?"
+}

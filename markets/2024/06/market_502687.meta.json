@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T16:07:22.196485Z",
+  "market_createdAt": "2024-06-20T16:07:22.196485Z",
+  "market_updatedAt": "2024-07-06T04:20:49.719045Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 19:13:16+00",
+  "conditionId": "0xe53a69edf7826bd9f44ef66669f3b354e0e1fbc39166cc68aa9c738df764df26",
+  "slug": "will-the-liberal-democrats-win-76-90-seats-in-the-next-uk-election",
+  "question": "Will the Liberal Democrats win 76-90 seats in the next UK Election?"
+}

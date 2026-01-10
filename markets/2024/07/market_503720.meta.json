@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T17:48:43.280821Z",
+  "market_createdAt": "2024-07-18T17:48:43.280821Z",
+  "market_updatedAt": "2024-07-30T14:17:01.826067Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-29 23:01:52+00",
+  "conditionId": "0x0f93f7b7fe02e3163812d33a4c7db256bd3d92165fe479503e51e0e953827a16",
+  "slug": "will-oliver-morgan-gbr-win-gold-in-mens-100m-backstroke",
+  "question": "Will Oliver Morgan (GBR) win Gold in Men's 100m Backstroke?"
+}

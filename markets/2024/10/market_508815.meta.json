@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508815",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:16:05.467529Z",
+  "market_createdAt": "2024-10-03T22:16:05.467529Z",
+  "market_updatedAt": "2025-04-20T08:20:23.774094Z",
+  "market_startDate": "2024-10-04T15:27:48.496798Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-19 08:13:12+00",
+  "conditionId": "0x802bf85908f1177026e1b5f108a72609cb59073c996dbdb95ca91ce0dd2c7300",
+  "slug": "will-the-dallas-mavericks-win-the-western-conference",
+  "question": "Will the Dallas Mavericks win the Western Conference?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T21:55:03.198734Z",
+  "market_createdAt": "2024-11-02T21:55:03.198734Z",
+  "market_updatedAt": "2024-11-06T09:21:20.190898Z",
+  "market_startDate": "2024-11-02T23:01:45.934Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 09:16:47+00",
+  "conditionId": "0x0451094e536a76d84b95af156116c988298f722f6cb3dc2f98b55b3581d5841d",
+  "slug": "will-trump-say-trump-derangement-syndrome-during-michigan-rally-on-nov-4",
+  "question": "Will Trump say \"Trump Derangement Syndrome\" during Michigan rally on Nov 4?"
+}

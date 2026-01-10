@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505384",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:59:12.261968Z",
+  "market_createdAt": "2024-08-19T19:59:12.261968Z",
+  "market_updatedAt": "2024-08-22T05:32:57.235741Z",
+  "market_startDate": "2024-08-20T15:21:22.803Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:40:46+00",
+  "conditionId": "0xd69205c8428e274da0b654446971b8492d900bfcf4624065096956b2532429f8",
+  "slug": "will-obama-say-climate-change-at-dnc-speech",
+  "question": "Will Obama say \"Climate change\" at DNC speech?"
+}

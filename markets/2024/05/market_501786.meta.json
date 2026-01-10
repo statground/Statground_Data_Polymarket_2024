@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T14:03:56.349936Z",
+  "market_createdAt": "2024-05-23T14:03:56.349936Z",
+  "market_updatedAt": "2024-06-02T04:31:16.597694Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 06:25:17+00",
+  "conditionId": "0xeba98d7d7e89f8c398e075952330b11e366403de8844d6d31ce3b3fa1c8c8678",
+  "slug": "will-sol-hit-200-in-may",
+  "question": "Will SOL hit $200 in May?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:27:31.124219Z",
+  "market_createdAt": "2024-06-04T15:27:31.124219Z",
+  "market_updatedAt": "2024-06-18T06:30:47.083776Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:29:14+00",
+  "conditionId": "0x2dc200761afb78235b3f019dc4c0ece0b38080907306b698c062fd9dfddf9d93",
+  "slug": "will-kyrie-irving-make-the-most-3-pointers-in-the-2024-nba-finals-series",
+  "question": "Will Kyrie Irving make the most 3-pointers in the 2024 NBA Finals series?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T16:49:02.773506Z",
+  "market_createdAt": "2024-10-09T16:49:02.773506Z",
+  "market_updatedAt": "2024-10-11T04:16:49.518434Z",
+  "market_startDate": "2024-10-09T17:17:12.080889Z",
+  "market_endDate": "2024-10-09T12:00:00Z",
+  "market_closedTime": "2024-10-10 04:14:30+00",
+  "conditionId": "0x4790d2431faec0658eeb5ebcd0b7f2525a0aa11b650f7c621dbab3593a851459",
+  "slug": "nhl-penguins-vs-rangers",
+  "question": "NHL: Penguins vs. Rangers"
+}

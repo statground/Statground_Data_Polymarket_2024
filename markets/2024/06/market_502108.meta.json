@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T16:03:22.192602Z",
+  "market_createdAt": "2024-06-04T16:03:22.192602Z",
+  "market_updatedAt": "2024-06-11T13:41:16.839331Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-10T12:00:00Z",
+  "market_closedTime": "2024-06-11 01:02:04+00",
+  "conditionId": "0x84bb0e30ad042e66f20d362cff29c2f7fd3adde10ec13330e29a6e9897f7c5a6",
+  "slug": "will-bad-boys-ride-or-die-gross-between-44m-and-49m-opening-weekend",
+  "question": "Will 'Bad Boys: Ride or Die' gross between $44m and $49m opening weekend?"
+}

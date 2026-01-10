@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511196",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:28:31.664880Z",
+  "market_createdAt": "2024-10-28T20:28:31.66488Z",
+  "market_updatedAt": "2024-11-02T01:47:13.354753Z",
+  "market_startDate": "2024-10-28T23:33:46.856644Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:08:54+00",
+  "conditionId": "0x9969deed3d8438a4f01682483c894b5a58543ea2029465751048a52562a69087",
+  "slug": "will-trump-say-tariff-5-or-more-times-during-nevada-rally-on-oct-31",
+  "question": "Will Trump say \"tariff\" 5 or more times during Nevada rally on Oct 31?"
+}

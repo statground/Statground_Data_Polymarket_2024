@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506086",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:38:48.758354Z",
+  "market_createdAt": "2024-08-29T16:38:48.758354Z",
+  "market_updatedAt": "2025-01-01T14:53:16.967976Z",
+  "market_startDate": "2024-08-29T16:38:48.758354Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:47:08+00",
+  "conditionId": "0x632a179a30b6ad8431340bb4fe202eada75fb6384d6dd3dbdbb1ca5d726af35c",
+  "slug": "opensea-blocks-us-users-in-2024",
+  "question": "OpenSea blocks US users in 2024?"
+}

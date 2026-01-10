@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T17:26:30.845663Z",
+  "market_createdAt": "2024-10-21T17:26:30.845663Z",
+  "market_updatedAt": "2024-10-30T15:27:06.59801Z",
+  "market_startDate": "2024-10-21T18:36:13.967Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 15:48:51+00",
+  "conditionId": "0xab605ad779d0cdd2983a5965d3f6a8f715a7ca5fe99fc59de73048270eea7b89",
+  "slug": "world-series-yankees-vs-dodgers-game-3",
+  "question": "World Series: Yankees vs. Dodgers Game 3"
+}

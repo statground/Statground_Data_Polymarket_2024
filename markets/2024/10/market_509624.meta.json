@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T15:31:13.248062Z",
+  "market_createdAt": "2024-10-11T15:31:13.248062Z",
+  "market_updatedAt": "2024-10-13T23:30:44.401153Z",
+  "market_startDate": "2024-10-11T19:00:14.094898Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 01:00:51+00",
+  "conditionId": "0xc7f8b904b87c31018482922883f3811c170ec4e58ef468e767ed01e765d3fa7b",
+  "slug": "will-pittsburgh-beat-california-by-3-or-more-points",
+  "question": "Will Pittsburgh beat California by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:31:15.195412Z",
+  "market_createdAt": "2024-06-25T15:31:15.195412Z",
+  "market_updatedAt": "2024-06-28T00:56:02.106928Z",
+  "market_startDate": "2024-06-25T18:11:45.361Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 06:14:42+00",
+  "conditionId": "0x1db6ebe342d62838ecf91ffb55358d97135821b59199948c4ab12af2cafda848",
+  "slug": "will-the-match-be-a-draw-venezuela-mexico",
+  "question": "Will the match be a draw?"
+}

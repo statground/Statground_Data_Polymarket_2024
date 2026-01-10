@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509162",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:12:03.565763Z",
+  "market_createdAt": "2024-10-07T22:12:03.565763Z",
+  "market_updatedAt": "2024-11-30T17:43:23.689263Z",
+  "market_startDate": "2024-10-08T16:08:55.649131Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-30 00:32:22+00",
+  "conditionId": "0xdc359276ecb11f0f5f3ce0f5dd5e4a43ce3dc829bf7e388b1846e3be38db7cc3",
+  "slug": "will-the-republican-candidate-win-wisconsin-by-4pt0-or-more",
+  "question": "Will the Republican candidate win Wisconsin by 4.0% or more? "
+}

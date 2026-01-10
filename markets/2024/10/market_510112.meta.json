@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510112",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:25:57.844823Z",
+  "market_createdAt": "2024-10-18T16:25:57.844823Z",
+  "market_updatedAt": "2024-10-20T03:56:45.192162Z",
+  "market_startDate": "2024-10-18T17:09:03.173292Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 05:05:56+00",
+  "conditionId": "0x9cb2e0c53e95d9aa3ddc3516c9390a1b7876945959461dffb48e27a8f8bbf0c6",
+  "slug": "will-bronny-score-tonight-oct-18",
+  "question": "Will Bronny score tonight?"
+}

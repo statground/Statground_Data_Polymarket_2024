@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510733",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T19:09:26.120196Z",
+  "market_createdAt": "2024-10-23T19:09:26.120196Z",
+  "market_updatedAt": "2024-11-15T17:11:04.488242Z",
+  "market_startDate": "2024-10-23T19:40:42.975Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-14 17:06:59+00",
+  "conditionId": "0xbca8e27fb0d7110160670005cd63d2713406604bb79946f726a7cec94f78b173",
+  "slug": "wif-spot-listed-on-coinbase-in-2024",
+  "question": "$WIF listed on Coinbase in 2024?"
+}

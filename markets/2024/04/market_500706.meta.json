@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:17:12.569513Z",
+  "market_createdAt": "2024-04-04T17:17:12.569513Z",
+  "market_updatedAt": "2024-11-07T21:19:00.442129Z",
+  "market_startDate": "2024-04-12T19:24:56.807Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:19:46+00",
+  "conditionId": "0x663547d11940a254fb40518c6ded62ce8a96b8ac317957f6168d618fa526b023",
+  "slug": "will-a-candidate-from-another-party-win-west-virginia-us-senate-election",
+  "question": "Will a candidate from another party win West Virginia US Senate Election?"
+}

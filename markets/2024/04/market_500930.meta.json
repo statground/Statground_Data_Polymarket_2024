@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-12T22:38:14.486738Z",
+  "market_createdAt": "2024-04-12T22:38:14.486738Z",
+  "market_updatedAt": "2024-05-07T23:09:36.154157Z",
+  "market_startDate": "2024-04-15T16:56:59.075Z",
+  "market_endDate": "2024-05-22T12:00:00Z",
+  "market_closedTime": "2024-04-19 00:08:33+00",
+  "conditionId": "0xf9c032ea1db9e2bbbbbc72e5c795a932cc62fb428c5128ba820792fa6b4f8667",
+  "slug": "will-west-ham-win-the-europa-league",
+  "question": "Will West Ham win the Europa League?"
+}

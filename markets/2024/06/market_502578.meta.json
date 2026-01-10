@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T15:03:14.297622Z",
+  "market_createdAt": "2024-06-18T15:03:14.297622Z",
+  "market_updatedAt": "2024-07-07T03:40:46.146625Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-06 05:15:25+00",
+  "conditionId": "0xdd755f3ac72e0b9d222fb7f0310e31bd1ff95e0a4daf64d9e13c2b68812028f8",
+  "slug": "reform-wins-7-of-votes",
+  "question": "Reform wins <7% of votes?"
+}

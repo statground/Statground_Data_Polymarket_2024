@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253596",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-04T17:39:50.077000Z",
+  "market_createdAt": "2024-01-04T17:39:50.077Z",
+  "market_updatedAt": "2024-11-07T19:13:10.912973Z",
+  "market_startDate": "2024-01-04T23:02:00Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:31:05+00",
+  "conditionId": "0xad6d309aaa500d96855996e84da00dfb2379548a693ca684d0877cf94fec05d1",
+  "slug": "will-ron-desantis-win-the-2024-us-presidential-election",
+  "question": "Will Ron DeSantis win the 2024 US Presidential Election?"
+}

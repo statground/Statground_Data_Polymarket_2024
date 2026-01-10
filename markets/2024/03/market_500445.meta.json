@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500445",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T14:49:05.649809Z",
+  "market_createdAt": "2024-03-26T14:49:05.649809Z",
+  "market_updatedAt": "2024-05-07T23:09:16.572014Z",
+  "market_startDate": "2024-03-26T15:07:48.429Z",
+  "market_endDate": "2024-04-05T12:00:00Z",
+  "market_closedTime": "2024-04-06 14:58:21+00",
+  "conditionId": "0x2bf9fc4b1498eceaffde98c78989c92bfaacdc93b3f80602995a34b733b4283b",
+  "slug": "baltimore-bridge-collapse-caused-by-hack",
+  "question": "Baltimore Bridge ship hacked?"
+}

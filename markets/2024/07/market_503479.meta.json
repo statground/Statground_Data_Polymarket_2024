@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T15:17:21.187865Z",
+  "market_createdAt": "2024-07-15T15:17:21.187865Z",
+  "market_updatedAt": "2025-11-05T20:52:46.447079Z",
+  "market_startDate": "2024-07-15T15:17:21.187Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:02:22+00",
+  "conditionId": "0x63d2c75b928071eabe91fc71e592b4b079d04349cdf54134a28f0a8370c495b5",
+  "slug": "china-unban-bitcoin-in-2024",
+  "question": "Will China unban Bitcoin in 2024?"
+}

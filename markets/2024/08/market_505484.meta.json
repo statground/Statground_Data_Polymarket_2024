@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505484",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:32:26.730188Z",
+  "market_createdAt": "2024-08-21T01:32:26.730188Z",
+  "market_updatedAt": "2024-08-25T17:16:48.389772Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:22:43+00",
+  "conditionId": "0xc2fe0038c70501288ccae1054b7ddab590213134639d61d4270a807fbab638ad",
+  "slug": "will-southampton-beat-nottingham-forest",
+  "question": "Will Southampton beat Nottingham Forest?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502110",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T16:19:12.816266Z",
+  "market_createdAt": "2024-06-04T16:19:12.816266Z",
+  "market_updatedAt": "2024-06-11T22:06:10.962263Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-11 00:03:04+00",
+  "conditionId": "0x5ef100e9615ef802962865d409e35581a17ebeda95eabd1a399bf740ddf7745c",
+  "slug": "apple-x-openai-partnership-announced-in-wwdc-2024",
+  "question": "Apple x OpenAI partnership announced in WWDC 2024?"
+}

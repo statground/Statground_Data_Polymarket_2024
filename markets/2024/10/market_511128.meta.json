@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:47:22.463320Z",
+  "market_createdAt": "2024-10-28T19:47:22.46332Z",
+  "market_updatedAt": "2024-11-03T15:26:56.334107Z",
+  "market_startDate": "2024-10-28T19:50:01.564928Z",
+  "market_endDate": "2024-11-02T12:30:00Z",
+  "market_closedTime": "2024-11-02 17:35:21+00",
+  "conditionId": "0xcdd4dd96ddefbf44d575a44f47e2b2ea66f47cbaf1cf405e1c2fc399b0052bf2",
+  "slug": "epl-new-ars-2024-11-02-draw",
+  "question": "Will Newcastle vs. Arsenal end in a draw?"
+}

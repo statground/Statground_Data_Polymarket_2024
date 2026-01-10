@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504734",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:05:52.493804Z",
+  "market_createdAt": "2024-08-08T17:05:52.493804Z",
+  "market_updatedAt": "2024-11-29T21:01:33.107373Z",
+  "market_startDate": "2024-08-08T17:05:52.493804Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-11-29 00:14:45+00",
+  "conditionId": "0xa09ec7f57994ed3dd936ef68f9e2f6b759348192cd1012757a182f4c5e9f1b50",
+  "slug": "will-the-bears-win-the-nfc-north",
+  "question": "Will the Bears win the NFC North?"
+}

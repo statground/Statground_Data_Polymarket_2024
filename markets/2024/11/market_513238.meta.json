@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513238",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T21:50:38.121910Z",
+  "market_createdAt": "2024-11-15T21:50:38.12191Z",
+  "market_updatedAt": "2024-11-17T21:37:17.932231Z",
+  "market_startDate": "2024-11-15T23:18:55.737532Z",
+  "market_endDate": "2024-11-16T12:00:00Z",
+  "market_closedTime": "2024-11-17 01:01:12+00",
+  "conditionId": "0x19aaffa54f57c865ee1868530cf1761ef993820ff251890551b580ee1c5a42cc",
+  "slug": "will-the-match-between-sweden-and-slovakia-end-in-a-draw",
+  "question": "Will the match between Sweden and Slovakia end in a draw?"
+}

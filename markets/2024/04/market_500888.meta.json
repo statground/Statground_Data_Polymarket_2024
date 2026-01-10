@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500888",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T14:58:41.161992Z",
+  "market_createdAt": "2024-04-11T14:58:41.161992Z",
+  "market_updatedAt": "2024-07-02T00:45:58.314273Z",
+  "market_startDate": "2024-04-11T15:06:26.231Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:06:00+00",
+  "conditionId": "0x712d37a91928b44e0310aa899d3fcc896cdddd0e681f627e7ba8df4a4a7cc6e5",
+  "slug": "will-matt-gaetz-be-expelled-from-congress-before-july",
+  "question": "Will Matt Gaetz be expelled from Congress before July?"
+}

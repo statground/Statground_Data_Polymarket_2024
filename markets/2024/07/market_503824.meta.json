@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503824",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:28:34.401372Z",
+  "market_createdAt": "2024-07-18T21:28:34.401372Z",
+  "market_updatedAt": "2024-08-03T17:21:04.489654Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 21:58:32+00",
+  "conditionId": "0x2136bd580b3e86cf8b2e7b5821e821103d080c160dc4dc19d66796cb7446a9e0",
+  "slug": "will-josh-liendo-can-win-gold-in-mens-50m-freestyle",
+  "question": "Will Josh Liendo (CAN) win Gold in Men's 50m Freestyle?"
+}

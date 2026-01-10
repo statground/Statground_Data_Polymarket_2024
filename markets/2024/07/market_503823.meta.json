@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:26:02.944076Z",
+  "market_createdAt": "2024-07-18T21:26:02.944076Z",
+  "market_updatedAt": "2024-08-01T22:23:54.103061Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-01 22:20:53+00",
+  "conditionId": "0x9dabeef13c4a5125006fef195c0d349601a58211cc8ea0aaf07e6aaaa9182609",
+  "slug": "will-vladyslav-bukhov-ukr-win-gold-in-mens-50m-freestyle",
+  "question": "Will Vladyslav Bukhov (UKR) win Gold in Men's 50m Freestyle?"
+}

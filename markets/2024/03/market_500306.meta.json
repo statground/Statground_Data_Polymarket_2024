@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500306",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T00:47:04.622452Z",
+  "market_createdAt": "2024-03-19T00:47:04.622452Z",
+  "market_updatedAt": "2024-05-07T23:09:20.162193Z",
+  "market_startDate": "2024-03-19T00:58:22.583Z",
+  "market_endDate": "2024-03-22T04:00:00Z",
+  "market_closedTime": "2024-03-23 06:03:26+00",
+  "conditionId": "0x2da167c140fe9a8331c14127abeda433b5c8834796c49de3526e6f2afdbe04e4",
+  "slug": "boden-fdv-below-25m-by-friday",
+  "question": "$boden FDV below $25M by Friday?"
+}

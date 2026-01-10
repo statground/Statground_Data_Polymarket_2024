@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514171",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T22:15:40.064788Z",
+  "market_createdAt": "2024-11-26T22:15:40.064788Z",
+  "market_updatedAt": "2024-12-02T21:55:18.826204Z",
+  "market_startDate": "2024-11-27T15:07:17.569202Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 23:52:00+00",
+  "conditionId": "0x06dbb4af8bb017b03f9433937a2391be9d8432b083022ae6e2ffeb13e28433ec",
+  "slug": "will-lando-norris-win-the-qatar-grand-prix",
+  "question": "Will Lando Norris win the Qatar Grand Prix?"
+}

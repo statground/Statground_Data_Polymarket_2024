@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:23:33.108313Z",
+  "market_createdAt": "2024-10-29T22:23:33.108313Z",
+  "market_updatedAt": "2024-11-05T01:53:09.826336Z",
+  "market_startDate": "2024-10-30T15:05:29.505671Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 03:47:16+00",
+  "conditionId": "0xb756291f0a417f4455272ea827a76f0e32363b64da538237b33eab9786999924",
+  "slug": "will-oscar-piastri-win-the-brazilian-grand-prix",
+  "question": "Will Oscar Piastri win the Brazilian Grand Prix?"
+}

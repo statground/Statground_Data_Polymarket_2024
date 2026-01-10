@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T21:09:34.729085Z",
+  "market_createdAt": "2024-09-19T21:09:34.729085Z",
+  "market_updatedAt": "2024-12-16T04:09:30.835598Z",
+  "market_startDate": "2024-09-19T21:38:23.555473Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:37:03+00",
+  "conditionId": "0xb92410b83ae866b37bf2ddfc6594d65bc9ca78a20f574318051248968197fe7a",
+  "slug": "will-another-player-win-the-heisman-trophy",
+  "question": "Will another player win the Heisman Trophy?"
+}

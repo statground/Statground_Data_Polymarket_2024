@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504233",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:34:05.354097Z",
+  "market_createdAt": "2024-07-26T19:34:05.354097Z",
+  "market_updatedAt": "2024-07-28T21:01:04.121779Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:05:21+00",
+  "conditionId": "0x13ed1918504ee304edf28f580a6dec62d8e159b66d159e68f45a8c0e0c221321",
+  "slug": "will-trump-say-barron-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Barron\" during his Bitcoin Conference speech?"
+}

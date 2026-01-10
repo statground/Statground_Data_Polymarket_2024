@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513936",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:02:07.856592Z",
+  "market_createdAt": "2024-11-25T05:02:07.856592Z",
+  "market_updatedAt": "2024-12-02T21:51:18.227274Z",
+  "market_startDate": "2024-11-25T05:04:37.22457Z",
+  "market_endDate": "2024-12-08T18:00:00Z",
+  "market_closedTime": "2024-12-01 23:04:56+00",
+  "conditionId": "0x233139629fe27474858b1f9669f54dad3a57d8d21dc4c129b1188271a0c51daf",
+  "slug": "nfl-lac-atl-2024-12-01",
+  "question": "Chargers vs. Falcons"
+}

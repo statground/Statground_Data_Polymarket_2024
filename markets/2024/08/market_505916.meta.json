@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505916",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T19:26:05.609731Z",
+  "market_createdAt": "2024-08-27T19:26:05.609731Z",
+  "market_updatedAt": "2024-08-29T19:57:06.779301Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-28T12:00:00Z",
+  "market_closedTime": "2024-08-28 21:06:40+00",
+  "conditionId": "0xc0675c0fa19bb5ef8bc70030b8cf6dc884bc45ed0324aaa3b20b902cbcd524f0",
+  "slug": "will-jd-vance-say-drill-baby-drill-during-pennsylvania-rally",
+  "question": "Will J.D. Vance say \"drill baby drill\" during Pennsylvania rally?"
+}

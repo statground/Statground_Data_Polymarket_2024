@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508786",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T20:51:47.181306Z",
+  "market_createdAt": "2024-10-03T20:51:47.181306Z",
+  "market_updatedAt": "2024-10-10T04:32:42.731471Z",
+  "market_startDate": "2024-10-03T22:34:09.942Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-09 05:05:49+00",
+  "conditionId": "0x5c3b1b63bc4dffae0de2033eadbf6315ee30511cb5c3ce02db550dc50157c012",
+  "slug": "will-the-hbo-documentary-identify-nick-szabo-as-satoshi",
+  "question": "Will the HBO documentary identify Nick Szabo as Satoshi?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516556",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:13:34.248496Z",
+  "market_createdAt": "2024-12-27T21:13:34.248496Z",
+  "market_updatedAt": "2024-12-30T16:20:19.716051Z",
+  "market_startDate": "2024-12-27T22:10:11.907598Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:25:31+00",
+  "conditionId": "0x727a3431e409cf7d7f185fbd76709ab68524bcf8e9093fbe0ffa2e8319483aa7",
+  "slug": "will-the-bills-beat-the-jets-by-10-or-more-points",
+  "question": "Will the Bills beat the Jets by 10 or more points?"
+}

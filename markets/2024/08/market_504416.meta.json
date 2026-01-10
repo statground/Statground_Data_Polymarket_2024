@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504416",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T15:30:20.405650Z",
+  "market_createdAt": "2024-08-01T15:30:20.40565Z",
+  "market_updatedAt": "2024-08-07T01:16:51.345027Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-05T12:00:00Z",
+  "market_closedTime": "2024-08-06 01:38:57+00",
+  "conditionId": "0x23eac38b0833c4741469553b086de1dbc5854d3ee7a32d4c5e6256ef06b80992",
+  "slug": "will-trap-gross-more-than-20m-opening-weekend",
+  "question": "Will 'Trap' gross more than $20m opening weekend?"
+}

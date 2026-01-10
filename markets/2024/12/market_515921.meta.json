@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515921",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T21:36:05.294149Z",
+  "market_createdAt": "2024-12-17T21:36:05.294149Z",
+  "market_updatedAt": "2025-01-07T04:09:16.886758Z",
+  "market_startDate": "2024-12-17T23:47:15.796353Z",
+  "market_endDate": "2025-01-05T12:00:00Z",
+  "market_closedTime": "2025-01-06 05:20:06+00",
+  "conditionId": "0x25d964061b2e4cf01fdb3efca09fe2025fb26baa5e0b140f3c8e9a264d43efa1",
+  "slug": "will-a-real-pain-win-the-golden-globe-for-best-screenplay",
+  "question": "Will 'A Real Pain' win the Golden Globe for Best Screenplay?"
+}

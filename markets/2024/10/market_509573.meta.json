@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T21:26:18.850584Z",
+  "market_createdAt": "2024-10-10T21:26:18.850584Z",
+  "market_updatedAt": "2024-10-13T06:42:41.047128Z",
+  "market_startDate": "2024-10-10T22:57:51.489Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 08:36:06+00",
+  "conditionId": "0x5cdaee8f29d7d70805a5137b936f2c70254a7982bca56b6ab958e8c8de9c67e7",
+  "slug": "will-the-dodgers-and-padres-combine-for-8-or-more-runs",
+  "question": "Will the Dodgers and Padres combine for 8 or more runs?"
+}

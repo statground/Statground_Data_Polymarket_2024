@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515954",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T05:04:47.612302Z",
+  "market_createdAt": "2024-12-18T05:04:47.612302Z",
+  "market_updatedAt": "2024-12-22T21:57:37.487155Z",
+  "market_startDate": "2024-12-18T05:07:34.562633Z",
+  "market_endDate": "2024-12-21T17:30:00Z",
+  "market_closedTime": "2024-12-21 22:53:36+00",
+  "conditionId": "0x10d4b8be262719f769832aed72e4608db377600814bd9d51d905e70d3c5090e8",
+  "slug": "epl-cry-ars-2024-12-21-draw",
+  "question": "Will Crystal Palace vs. Arsenal end in a draw?"
+}

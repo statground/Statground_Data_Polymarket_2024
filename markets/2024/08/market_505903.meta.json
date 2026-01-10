@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505903",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T17:25:17.917446Z",
+  "market_createdAt": "2024-08-27T17:25:17.917446Z",
+  "market_updatedAt": "2024-09-12T03:23:03.841516Z",
+  "market_startDate": "2024-08-27T17:41:33.46Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:08:26+00",
+  "conditionId": "0x539253f7f2f5c4cddc009404341cd3cd2a2c64c729c3fe774583a4f9140a108f",
+  "slug": "candidates-seated-at-abc-debate",
+  "question": "Candidates seated at ABC debate?"
+}

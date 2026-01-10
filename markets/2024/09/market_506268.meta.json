@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T15:22:51.312986Z",
+  "market_createdAt": "2024-09-03T15:22:51.312986Z",
+  "market_updatedAt": "2024-09-04T23:47:11.360187Z",
+  "market_startDate": "2024-09-03T15:25:41.448Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-04 01:31:40+00",
+  "conditionId": "0x29fbd040a7bb1b4b160e0e8d95364b5cc8a74e50ba75e843528670ed61873303",
+  "slug": "zverev-vs-fritz-us-open",
+  "question": "Zverev vs. Fritz - US Open"
+}

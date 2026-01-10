@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500713",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:41:22.789044Z",
+  "market_createdAt": "2024-04-04T17:41:22.789044Z",
+  "market_updatedAt": "2024-11-07T21:13:05.782003Z",
+  "market_startDate": "2024-04-12T19:16:50.637Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:45:18+00",
+  "conditionId": "0x47aa18816785d40fb11c68fa6a66a426a35c9bbe82643cef8eab21bddf78781e",
+  "slug": "will-a-candidate-from-another-party-win-delaware-us-senate-election",
+  "question": "Will a candidate from another party win Delaware US Senate Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511907",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:33:21.770926Z",
+  "market_createdAt": "2024-11-04T18:33:21.770926Z",
+  "market_updatedAt": "2024-11-08T07:19:04.211584Z",
+  "market_startDate": "2024-11-04T18:36:07.306889Z",
+  "market_endDate": "2024-11-07T03:00:00Z",
+  "market_closedTime": "2024-11-07 07:30:22+00",
+  "conditionId": "0x5d19eb75166ff6d563436ade45e2e9917c44e7940c8b66d349c3ac257979fe0f",
+  "slug": "nba-tor-sac-2024-11-06",
+  "question": "Raptors vs. Kings"
+}

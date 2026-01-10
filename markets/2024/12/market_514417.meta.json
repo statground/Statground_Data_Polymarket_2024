@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514417",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:03:46.990550Z",
+  "market_createdAt": "2024-12-02T19:03:46.99055Z",
+  "market_updatedAt": "2024-12-06T00:37:30.093807Z",
+  "market_startDate": "2024-12-02T19:07:07.655897Z",
+  "market_endDate": "2024-12-04T19:30:00Z",
+  "market_closedTime": "2024-12-05 00:44:52+00",
+  "conditionId": "0x9286d97d2680340b71393353fc100a96ca40f98436241e54275ea4d38d385b00",
+  "slug": "epl-new-liv-2024-12-04-draw",
+  "question": "Will Newcastle vs. Liverpool end in a draw?"
+}

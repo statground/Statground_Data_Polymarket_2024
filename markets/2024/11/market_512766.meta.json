@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512766",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:32:14.238666Z",
+  "market_createdAt": "2024-11-11T21:32:14.238666Z",
+  "market_updatedAt": "2024-11-24T17:39:25.097156Z",
+  "market_startDate": "2024-11-11T21:34:54.810032Z",
+  "market_endDate": "2024-11-23T15:00:00Z",
+  "market_closedTime": "2024-11-23 20:13:09+00",
+  "conditionId": "0x7813c945b4a28216cebd22f0e2c440d4f2c556d4d13d6bbb33bae16942a21e18",
+  "slug": "epl-eve-bre-2024-11-23-draw",
+  "question": "Will Everton vs. Brentford end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509572",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T21:20:33.880262Z",
+  "market_createdAt": "2024-10-10T21:20:33.880262Z",
+  "market_updatedAt": "2024-10-13T04:36:39.866612Z",
+  "market_startDate": "2024-10-10T22:57:37.267Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-12 04:48:31+00",
+  "conditionId": "0x22f5ab0d1dbcd086c7866eaf046325e87bcf4367c335d2270a236fdee5673ef5",
+  "slug": "will-the-dodgers-beat-the-padres",
+  "question": "Will the Dodgers beat the Padres?"
+}

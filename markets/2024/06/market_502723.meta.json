@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502723",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-21T15:40:20.362554Z",
+  "market_createdAt": "2024-06-21T15:40:20.362554Z",
+  "market_updatedAt": "2024-06-30T06:16:37.024094Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-30 06:14:53+00",
+  "conditionId": "0x7064a115bdf1661235410111eedf79324fe27f3008bfca1200f1d706466964c5",
+  "slug": "ufc-303-who-will-win-brian-ortega-vs-diego-lopes",
+  "question": "UFC 303: Who will win - Brian Ortega vs. Diego Lopes?"
+}

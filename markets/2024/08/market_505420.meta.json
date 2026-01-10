@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T14:57:02.242189Z",
+  "market_createdAt": "2024-08-20T14:57:02.242189Z",
+  "market_updatedAt": "2024-12-09T20:03:12.681675Z",
+  "market_startDate": "2024-08-22T19:02:08.411Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2024-12-08 21:43:57+00",
+  "conditionId": "0x60969a6e61fe3d8cf5f0860d81b78c1f317f580f387f83b600db8bb6ded23f5d",
+  "slug": "will-missouri-win-the-2025-college-football-playoff",
+  "question": "Will Missouri win the 2025 College Football Playoff?"
+}

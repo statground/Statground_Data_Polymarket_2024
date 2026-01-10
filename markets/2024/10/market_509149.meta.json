@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:00:44.945721Z",
+  "market_createdAt": "2024-10-07T22:00:44.945721Z",
+  "market_updatedAt": "2024-11-23T12:46:49.309895Z",
+  "market_startDate": "2024-10-08T16:45:16.313094Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-23 06:05:23+00",
+  "conditionId": "0x4f58c0282388c796291f0f059ebe17791f7f3c4413cfd6a2bb020c6a723f5ce2",
+  "slug": "will-the-republican-candidate-win-georgia-by-0-1pt0",
+  "question": "Will the Republican candidate win Georgia by 0%-1.0%?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-22T20:53:37.401271Z",
+  "market_createdAt": "2024-04-22T20:53:37.401271Z",
+  "market_updatedAt": "2024-05-07T23:09:52.042236Z",
+  "market_startDate": "2024-04-22T20:57:04.563Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:41:53+00",
+  "conditionId": "0xc075311e2a82f1d1007bc0c5edb7e6af277635733207f346757786382eca698a",
+  "slug": "phantom-tweet-retardio-in-april",
+  "question": "Phantom post \"retardio\" in April?"
+}

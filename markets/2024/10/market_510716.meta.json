@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T17:40:22.711035Z",
+  "market_createdAt": "2024-10-23T17:40:22.711035Z",
+  "market_updatedAt": "2024-10-28T21:17:11.141168Z",
+  "market_startDate": "2024-10-23T22:27:43.60674Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 04:31:11+00",
+  "conditionId": "0x7c149fbe36935f7b9ba96f8f50f6153e0f9e24b716954314f8db9553dc17feb1",
+  "slug": "will-sergio-perez-win-the-mexico-city-grand-prix",
+  "question": "Will Sergio Perez win the Mexico City Grand Prix?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:22:49.931385Z",
+  "market_createdAt": "2024-09-12T21:22:49.931385Z",
+  "market_updatedAt": "2024-09-15T21:11:04.439845Z",
+  "market_startDate": "2024-09-12T22:18:23.221573Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 21:26:13+00",
+  "conditionId": "0x329704f4f1ffbf4ebf2534fa9ccdd5294f95c38eb1bb6201286b1bde73fa2ddf",
+  "slug": "will-alabama-beat-wisconsin-by-17-or-more-points",
+  "question": "Will Alabama beat Wisconsin by 17 or more points?"
+}

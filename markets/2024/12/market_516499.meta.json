@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:26:46.576319Z",
+  "market_createdAt": "2024-12-27T16:26:46.576319Z",
+  "market_updatedAt": "2025-01-04T19:08:49.391803Z",
+  "market_startDate": "2024-12-27T17:19:20.549755Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-03 19:07:24+00",
+  "conditionId": "0x5f7842f5d3be987a52470265bd1909421cae8c318d6487fb38b902b0c5055d4d",
+  "slug": "ethereum-above-3300-on-january-3",
+  "question": "Ethereum above $3,300 on January 3?"
+}

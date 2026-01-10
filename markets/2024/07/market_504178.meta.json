@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:58:09.260512Z",
+  "market_createdAt": "2024-07-25T18:58:09.260512Z",
+  "market_updatedAt": "2024-08-12T09:30:52.489623Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 19:04:48+00",
+  "conditionId": "0x7e2fd53ffbc1564db94d5f54bdf6b97de9ec6d32d5f476dc92558560c7d7bce9",
+  "slug": "will-netherlands-win-the-3rd-most-gold-medals",
+  "question": "Will Netherlands win the 3rd most gold medals?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515212",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T22:31:50.274912Z",
+  "market_createdAt": "2024-12-09T22:31:50.274912Z",
+  "market_updatedAt": "2024-12-12T23:33:09.370588Z",
+  "market_startDate": "2024-12-10T21:56:50.499939Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 01:07:41+00",
+  "conditionId": "0xc5a6912f0a275655da6b5b0005c725e320ae18cca2ebf2f2e2927faf19ba80f6",
+  "slug": "will-the-match-between-arsenal-and-monaco-end-in-a-draw",
+  "question": "Will the match between Arsenal and Monaco end in a draw?"
+}

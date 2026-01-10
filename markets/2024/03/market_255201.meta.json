@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:01:44.570000Z",
+  "market_createdAt": "2024-03-01T20:01:44.57Z",
+  "market_updatedAt": "2024-11-07T13:59:00.031014Z",
+  "market_startDate": "2024-03-28T20:58:12.888Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:59:23+00",
+  "conditionId": "0x21cb5bb2d1d97b8faa14829b54183c360d9dc449d6dd2298108792b50ead9d64",
+  "slug": "will-a-candidate-from-another-party-win-washington-presidential-election",
+  "question": "Will a candidate from another party win Washington Presidential Election?"
+}

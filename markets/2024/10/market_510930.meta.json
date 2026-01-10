@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510930",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T17:45:49.511615Z",
+  "market_createdAt": "2024-10-25T17:45:49.511615Z",
+  "market_updatedAt": "2024-10-27T07:42:49.922895Z",
+  "market_startDate": "2024-10-25T22:13:09.195994Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-26 21:27:53+00",
+  "conditionId": "0x90594b157c536bda06f57d29e52b9930fa61d7f8c9cbdebace503a66d4b669a6",
+  "slug": "will-there-be-55-or-more-combined-points-scored-Indiana-Washington",
+  "question": "Will there be 55 or more combined points scored?"
+}

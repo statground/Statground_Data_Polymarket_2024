@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-06T19:41:35.626055Z",
+  "market_createdAt": "2024-08-06T19:41:35.626055Z",
+  "market_updatedAt": "2024-08-08T19:50:56.879043Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 22:48:12+00",
+  "conditionId": "0x8ca891492cfa1afa0131891c3c01ad66b6092ad34dd9320edb8d8fbdd4b9b644",
+  "slug": "will-kirani-james-grn-win-gold-in-the-mens-400m",
+  "question": "Will Kirani James (GRN) win gold in the Men’s 400m?"
+}

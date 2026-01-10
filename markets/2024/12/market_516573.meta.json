@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:44:43.630982Z",
+  "market_createdAt": "2024-12-27T21:44:43.630982Z",
+  "market_updatedAt": "2024-12-31T04:25:43.33265Z",
+  "market_startDate": "2024-12-27T22:17:27.646498Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-30 06:28:53+00",
+  "conditionId": "0x41dde9fad4b7f9cfa7f04c3326f049ffb9ad30dbb2e727e55fa11b99d0aa3e78",
+  "slug": "will-the-commanders-and-falcons-combine-for-48-or-more-points",
+  "question": "Will the Commanders and Falcons combine for 48 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512796",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T22:22:50.832202Z",
+  "market_createdAt": "2024-11-11T22:22:50.832202Z",
+  "market_updatedAt": "2024-11-15T23:57:09.370783Z",
+  "market_startDate": "2024-11-14T01:49:04.830312Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 01:31:30+00",
+  "conditionId": "0x08e2a694cc2938c89530bb108fb463cd38d1c5e6e03d15abd8130c21d8606a3d",
+  "slug": "will-trump-nominate-anna-paulina-luna-for-secretary-of-state",
+  "question": "Will Trump nominate Anna Paulina Luna for Secretary of State?"
+}

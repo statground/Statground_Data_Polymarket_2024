@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T21:21:42.246080Z",
+  "market_createdAt": "2024-09-24T21:21:42.24608Z",
+  "market_updatedAt": "2024-10-03T04:16:38.661796Z",
+  "market_startDate": "2024-09-24T23:35:29.2Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:55:11+00",
+  "conditionId": "0x8dc441a58abb86dfa3f97d1e9d1fb81b3ff4dfdf387e86e9d52fa07a2c7b12c0",
+  "slug": "will-tim-walz-say-coach-during-the-debate",
+  "question": "Will Tim Walz say \"Coach\" during the debate?"
+}

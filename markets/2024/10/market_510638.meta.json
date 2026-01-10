@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510638",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T20:04:15.140196Z",
+  "market_createdAt": "2024-10-22T20:04:15.140196Z",
+  "market_updatedAt": "2024-11-08T07:23:01.754856Z",
+  "market_startDate": "2024-10-22T20:26:03.743Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:14:43+00",
+  "conditionId": "0xff524f366a1d0608bd6a8a2fa7742362e35d91bfd4357b127c2b5faea517e3d0",
+  "slug": "bitcoin-up-on-nov-6",
+  "question": "Bitcoin up on Nov 6? "
+}

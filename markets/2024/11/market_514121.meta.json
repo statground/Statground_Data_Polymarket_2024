@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514121",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:36:51.556433Z",
+  "market_createdAt": "2024-11-26T08:36:51.556433Z",
+  "market_updatedAt": "2024-11-29T21:23:34.620446Z",
+  "market_startDate": "2024-11-26T23:06:12.505273Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:10:03+00",
+  "conditionId": "0xffe076b0a4e74e5734e0347d9f1ab60d39d9d52f8411ed092f8cc8ac22e45e56",
+  "slug": "will-malmo-beat-ferencvaros",
+  "question": "Will Malmo beat Ferencvaros?"
+}

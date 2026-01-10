@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:24:37.604148Z",
+  "market_createdAt": "2024-12-09T19:24:37.604148Z",
+  "market_updatedAt": "2024-12-12T00:35:07.19175Z",
+  "market_startDate": "2024-12-09T23:25:05.97399Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:11:49+00",
+  "conditionId": "0xdb48dc2afebade2293c2d341ef1a1aa62deac23c79fdeb491267c6d188ee5b31",
+  "slug": "will-atalanta-beat-real-madrid",
+  "question": "Will Atalanta beat Real Madrid?"
+}

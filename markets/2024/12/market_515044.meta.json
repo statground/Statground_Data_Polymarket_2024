@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:04:14.299014Z",
+  "market_createdAt": "2024-12-08T05:04:14.299014Z",
+  "market_updatedAt": "2024-12-13T07:26:59.749721Z",
+  "market_startDate": "2024-12-08T05:07:36.06343Z",
+  "market_endDate": "2024-12-19T02:30:00Z",
+  "market_closedTime": "2024-12-12 07:23:10+00",
+  "conditionId": "0xab4948807a44ec40116b468fc45f6d9476f80dcabdfee5db333f5c0dd073a79b",
+  "slug": "nba-gsw-hou-2024-12-11",
+  "question": "Warriors vs. Rockets"
+}

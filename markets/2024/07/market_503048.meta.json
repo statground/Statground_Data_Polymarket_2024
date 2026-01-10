@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T16:53:25.101123Z",
+  "market_createdAt": "2024-07-01T16:53:25.101123Z",
+  "market_updatedAt": "2024-08-20T22:03:03.72639Z",
+  "market_startDate": "2024-07-01T19:45:11.105Z",
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-19 22:48:21+00",
+  "conditionId": "0xbddf0dade2d66c4f9e56a2e6dc66765fb949c603e62d5a9ea8b79b8f76839e50",
+  "slug": "biden-nominated-by-virtual-roll-call-before-dnc",
+  "question": "Biden nominated before Democratic convention?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504719",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T23:36:33.771422Z",
+  "market_createdAt": "2024-08-07T23:36:33.771422Z",
+  "market_updatedAt": "2024-08-12T00:06:47.969855Z",
+  "market_startDate": "2024-08-10T12:00:00Z",
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-11 04:06:55+00",
+  "conditionId": "0xa50376835907c3e8a4a5c71920b3603933cf9e4e52607c751dae5142cf670c40",
+  "slug": "nfl-lac-sea-2024-08-10",
+  "question": "Chargers vs. Seahawks"
+}

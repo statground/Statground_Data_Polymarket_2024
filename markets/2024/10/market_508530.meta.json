@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:02:19.567365Z",
+  "market_createdAt": "2024-10-01T17:02:19.567365Z",
+  "market_updatedAt": "2024-10-04T18:46:43.010117Z",
+  "market_startDate": "2024-10-02T14:43:05.953101Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-10-03 22:10:12+00",
+  "conditionId": "0xa109ea2d1a3a608ca017217bc6aa59825b355124385d634a313eac3115cb7cdf",
+  "slug": "will-the-match-between-fk-rfs-and-galatasaray-end-in-a-draw",
+  "question": "Will the match between FK RFS and Galatasaray end in a Draw?"
+}

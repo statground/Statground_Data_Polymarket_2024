@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253762",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-10T18:20:33.918000Z",
+  "market_createdAt": "2024-01-10T18:20:33.918Z",
+  "market_updatedAt": "2024-01-17T16:09:13.943Z",
+  "market_startDate": "2024-01-11T18:48:20.074Z",
+  "market_endDate": "2024-01-15T00:00:00Z",
+  "market_closedTime": "2024-01-17 00:45:15+00",
+  "conditionId": "0x4dd13b533072528934eefd9aa816fcc97253e7cd1d4f40c12769fd7f52c3e0fa",
+  "slug": "trump-margin-of-victory-in-iowa-caucus-20-25",
+  "question": "Trump margin of victory in Iowa Caucus 20-25%"
+}

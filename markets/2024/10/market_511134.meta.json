@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:50:55.492875Z",
+  "market_createdAt": "2024-10-28T19:50:55.492875Z",
+  "market_updatedAt": "2024-11-03T17:01:08.985839Z",
+  "market_startDate": "2024-10-28T19:53:33.436784Z",
+  "market_endDate": "2024-11-02T15:00:00Z",
+  "market_closedTime": "2024-11-02 20:21:02+00",
+  "conditionId": "0x447a2ad94b2ecc5874eb370f47afef4541b8abb6face6773e34c029f1251bc49",
+  "slug": "epl-sou-eve-2024-11-02-draw",
+  "question": "Will Southampton vs. Everton end in a draw?"
+}

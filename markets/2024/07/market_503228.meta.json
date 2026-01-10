@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503228",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T18:21:39.658477Z",
+  "market_createdAt": "2024-07-05T18:21:39.658477Z",
+  "market_updatedAt": "2024-08-07T20:22:48.377694Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-06 23:16:36+00",
+  "conditionId": "0xd83c13f14529750b296d6d2b327cbcadd34c2c3e673f4242c1be94d462a36617",
+  "slug": "will-mark-kelly-be-the-2024-democratic-vp-nominee",
+  "question": "Will Mark Kelly be the 2024 Democratic VP nominee?"
+}

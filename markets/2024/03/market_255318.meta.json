@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255318",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-06T18:36:01.856000Z",
+  "market_createdAt": "2024-03-06T18:36:01.856Z",
+  "market_updatedAt": "2024-04-26T02:53:02.0682Z",
+  "market_startDate": "2024-03-06T19:21:10.449Z",
+  "market_endDate": "2024-03-06T00:00:00Z",
+  "market_closedTime": "2024-03-08 05:46:07+00",
+  "conditionId": "0x819510614ba3ed029a38b079d5e3bfc852bb5fc477730f3138ed59f67118f9da",
+  "slug": "will-biden-say-folks-four-or-more-times-during-his-state-of-the-union-address",
+  "question": "Will Biden say \"folks\" four or more times during his State of the Union address?"
+}

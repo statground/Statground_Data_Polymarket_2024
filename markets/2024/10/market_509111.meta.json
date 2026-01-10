@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:24:38.088917Z",
+  "market_createdAt": "2024-10-07T19:24:38.088917Z",
+  "market_updatedAt": "2025-05-23T23:01:21.69628Z",
+  "market_startDate": "2024-10-08T14:54:57.92493Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-05-19 08:11:35+00",
+  "conditionId": "0x3f816d82200f0198e72df1175e21d9f757e274307a5f93d075e3c14c7f9a4377",
+  "slug": "will-the-toronto-maple-leafs-win-the-2025-stanley-cup",
+  "question": "Will the Toronto Maple Leafs win the 2025 Stanley Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T17:11:09.632401Z",
+  "market_createdAt": "2024-12-13T17:11:09.632401Z",
+  "market_updatedAt": "2025-03-03T19:55:24.107873Z",
+  "market_startDate": "2024-12-13T17:20:04.778Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-13 16:50:28+00",
+  "conditionId": "0x54789d52943aecb23f549a290b852c43516b0197c1d90d3a85ceb1338fb0a1e1",
+  "slug": "will-bitcoin-dip-to-90000-by-march-31",
+  "question": "Will Bitcoin dip to $90,000 by March 31?"
+}

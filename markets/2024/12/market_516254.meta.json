@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T06:04:25.574696Z",
+  "market_createdAt": "2024-12-22T06:04:25.574696Z",
+  "market_updatedAt": "2024-12-31T01:51:37.360328Z",
+  "market_startDate": "2024-12-22T06:07:06.524731Z",
+  "market_endDate": "2025-01-05T21:05:00Z",
+  "market_closedTime": "2024-12-30 02:27:13+00",
+  "conditionId": "0x25ff35efdb88220f324547dd2f2f5a5e2ebd9dec555c4ac03c5fd798ffcebb12",
+  "slug": "nfl-mia-cle-2024-12-29",
+  "question": "Dolphins vs. Browns"
+}

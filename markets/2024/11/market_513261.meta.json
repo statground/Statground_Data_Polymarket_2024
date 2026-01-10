@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513261",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:01:08.898271Z",
+  "market_createdAt": "2024-11-17T05:01:08.898271Z",
+  "market_updatedAt": "2024-11-20T04:19:04.702541Z",
+  "market_startDate": "2024-11-17T05:03:36.341728Z",
+  "market_endDate": "2024-11-26T00:00:00Z",
+  "market_closedTime": "2024-11-19 04:21:49+00",
+  "conditionId": "0x900f8c6a1875f1606bca3f6c3356ede742a2a2f21d3443127c3c287282373fea",
+  "slug": "nba-chi-det-2024-11-18",
+  "question": "Bulls vs. Pistons"
+}

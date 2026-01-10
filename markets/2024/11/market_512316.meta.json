@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512316",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T20:58:53.183621Z",
+  "market_createdAt": "2024-11-07T20:58:53.183621Z",
+  "market_updatedAt": "2025-01-22T16:54:54.798645Z",
+  "market_startDate": "2024-11-07T22:36:08.366Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-01-22 06:28:56+00",
+  "conditionId": "0x47b0881c11b37af378557282e5c8ee8338c0e872e80c1abd8639623b13d612a5",
+  "slug": "will-jane-timken-be-appointed-as-the-next-ohio-senator",
+  "question": "Will Jane Timken be appointed as the next Ohio senator?"
+}

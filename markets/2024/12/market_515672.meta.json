@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515672",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T06:01:16.558271Z",
+  "market_createdAt": "2024-12-15T06:01:16.558271Z",
+  "market_updatedAt": "2024-12-23T23:15:48.82343Z",
+  "market_startDate": "2024-12-15T06:03:48.726585Z",
+  "market_endDate": "2024-12-29T18:00:00Z",
+  "market_closedTime": "2024-12-22 23:15:14+00",
+  "conditionId": "0x920344cfde22aa05d6d68ed914485b2964cc1bbba7b0b4b636f5dcea96caf47b",
+  "slug": "nfl-det-chi-2024-12-22",
+  "question": "Lions vs. Bears"
+}

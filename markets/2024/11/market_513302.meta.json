@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T22:48:15.612239Z",
+  "market_createdAt": "2024-11-17T22:48:15.612239Z",
+  "market_updatedAt": "2025-01-20T09:56:43.589009Z",
+  "market_startDate": "2024-11-18T15:30:24.794384Z",
+  "market_endDate": "2025-01-19T12:00:00Z",
+  "market_closedTime": "2025-01-19 11:56:21+00",
+  "conditionId": "0xc87eefa985446d46cd4251c089e120d6583f532df43d2f6a277b5c253097be8e",
+  "slug": "will-trump-go-on-snl-before-inauguration",
+  "question": "Will Trump go on SNL before inauguration?"
+}

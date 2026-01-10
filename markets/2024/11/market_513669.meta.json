@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513669",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:27:35.251817Z",
+  "market_createdAt": "2024-11-21T22:27:35.251817Z",
+  "market_updatedAt": "2024-12-12T07:03:09.442845Z",
+  "market_startDate": "2024-11-25T18:35:14.386122Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-12-11 08:07:54+00",
+  "conditionId": "0x589f93dc90c16fb66d78bb89133efcad7a5b49dbc0d51251225cabb7851dfec3",
+  "slug": "will-the-dallas-mavericks-win-the-2024-nba-cup",
+  "question": "Will the Dallas Mavericks win the 2024 NBA Cup?"
+}

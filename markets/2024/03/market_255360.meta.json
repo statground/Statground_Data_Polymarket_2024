@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255360",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T17:41:47.161000Z",
+  "market_createdAt": "2024-03-08T17:41:47.161Z",
+  "market_updatedAt": "2024-11-08T02:03:01.39071Z",
+  "market_startDate": "2024-03-08T17:41:47.161Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 05:35:27+00",
+  "conditionId": "0x0c805fa65a22c83bd687416620b5413938924c1ae3fdaa407bfbac8417c3e3d9",
+  "slug": "will-a-candidate-from-another-party-win-indiana-governor-election",
+  "question": "Will a candidate from another party win Indiana Governor Election?"
+}

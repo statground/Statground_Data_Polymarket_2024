@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T23:18:53.471412Z",
+  "market_createdAt": "2024-05-14T23:18:53.471412Z",
+  "market_updatedAt": "2024-06-02T07:11:15.29347Z",
+  "market_startDate": "2024-05-15T00:03:29.806Z",
+  "market_endDate": "2024-05-31T12:00:00Z",
+  "market_closedTime": "2024-06-01 07:27:47+00",
+  "conditionId": "0x609e0c218bb2512c02109475ffa510ca7e47db42087ffd05be00ccd01b7d76e3",
+  "slug": "will-ilya-join-apple",
+  "question": "Will Ilya join Apple?"
+}

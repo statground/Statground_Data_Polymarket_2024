@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502603",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-18T20:30:05.659792Z",
+  "market_createdAt": "2024-06-18T20:30:05.659792Z",
+  "market_updatedAt": "2024-06-25T05:06:09.580735Z",
+  "market_startDate": "2024-06-18T20:31:25.233Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 06:08:53+00",
+  "conditionId": "0x9822e9468bc1b4a5bfb011e0e8e246d8d4584cf4a11c8b0ec09fce996a89adf3",
+  "slug": "will-trump-say-that-he-launched-djt",
+  "question": "Will Trump say that he launched $DJT?"
+}

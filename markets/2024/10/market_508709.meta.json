@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508709",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T19:28:28.248197Z",
+  "market_createdAt": "2024-10-02T19:28:28.248197Z",
+  "market_updatedAt": "2024-10-06T20:00:46.288865Z",
+  "market_startDate": "2024-10-02T21:35:23.108068Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-05 23:15:53+00",
+  "conditionId": "0x3991b539033bc2c25160d80c8d06a95c501a5e13fd87c19d3b1390df860bd318",
+  "slug": "will-m80-win-esl-challenger-atlanta-2024",
+  "question": "Will M80 win ESL Challenger Atlanta 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255003",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-29T19:27:52.956000Z",
+  "market_createdAt": "2024-02-29T19:27:52.956Z",
+  "market_updatedAt": "2024-03-09T05:02:05.034Z",
+  "market_startDate": "2024-02-29T19:56:22.988Z",
+  "market_endDate": "2024-03-07T00:00:00Z",
+  "market_closedTime": "2024-03-08 07:03:47+00",
+  "conditionId": "0x8933ecad51a765e187bfa9564cbc623e62bae03f093098e8d15d073d24987b9c",
+  "slug": "blast-exploit-by-march-7",
+  "question": "Blast exploit by March 7?"
+}

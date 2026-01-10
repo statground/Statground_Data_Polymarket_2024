@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508720",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:19:00.132556Z",
+  "market_createdAt": "2024-10-02T20:19:00.132556Z",
+  "market_updatedAt": "2024-10-15T00:16:41.836134Z",
+  "market_startDate": "2024-10-02T21:45:56.448003Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:16:35+00",
+  "conditionId": "0xba7358a3db3d10f384e368ed3d1a6b62820c797fe9927b563e151419f048e102",
+  "slug": "will-natus-vincere-win-iem-rio-2024",
+  "question": "Will Natus Vincere win IEM Rio 2024?"
+}

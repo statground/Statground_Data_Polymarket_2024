@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509737",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T21:39:13.063106Z",
+  "market_createdAt": "2024-10-11T21:39:13.063106Z",
+  "market_updatedAt": "2024-10-14T17:22:43.528857Z",
+  "market_startDate": "2024-10-11T22:27:28.771597Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 01:34:28+00",
+  "conditionId": "0x200f8096076276a4bff923de0be09b24bf8e51f43f0b7fa0d85e345d730b952d",
+  "slug": "will-the-falcons-beat-the-panthers-by-7-or-more-points",
+  "question": "Will the Falcons beat the Panthers by 7 or more points?"
+}

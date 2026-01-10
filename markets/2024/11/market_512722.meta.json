@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:11:52.922585Z",
+  "market_createdAt": "2024-11-11T18:11:52.922585Z",
+  "market_updatedAt": "2024-11-19T03:37:04.436006Z",
+  "market_startDate": "2024-11-11T18:14:40.919332Z",
+  "market_endDate": "2024-11-24T23:00:00Z",
+  "market_closedTime": "2024-11-18 03:47:22+00",
+  "conditionId": "0x5ac4147da17156dd38ecdfaca197381c1938a7dfd1c0af2e3fdbb34e887eb405",
+  "slug": "nba-atl-por-2024-11-17",
+  "question": "Hawks vs. Trail Blazers"
+}

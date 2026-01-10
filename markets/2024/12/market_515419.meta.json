@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T20:34:27.080216Z",
+  "market_createdAt": "2024-12-11T20:34:27.080216Z",
+  "market_updatedAt": "2025-01-11T16:00:50.616862Z",
+  "market_startDate": "2024-12-11T21:15:59.309762Z",
+  "market_endDate": "2025-01-10T12:00:00Z",
+  "market_closedTime": "2025-01-10 16:40:45+00",
+  "conditionId": "0x89dd6daab7f5645b4445e78b8d2a72f5b7e3f4e33ae31b8b41fde2565906849c",
+  "slug": "will-us-add-between-250k-and-300k-jobs-in-december-2024",
+  "question": "Will US add between 250k and 300k jobs in December 2024?"
+}

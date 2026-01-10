@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-16T20:11:05.937000Z",
+  "market_createdAt": "2024-01-16T20:11:05.937Z",
+  "market_updatedAt": "2025-01-01T16:41:13.246041Z",
+  "market_startDate": "2024-01-16T22:03:05.038Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:11:50+00",
+  "conditionId": "0xe610902a9cbe5a4969466a5b853f9165fa071b9804aa7f71db768db5c757b96b",
+  "slug": "will-weed-be-rescheduled-in-2024",
+  "question": "Will weed be rescheduled in 2024?"
+}

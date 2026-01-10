@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504644",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T14:54:10.163018Z",
+  "market_createdAt": "2024-08-07T14:54:10.163018Z",
+  "market_updatedAt": "2024-12-03T02:47:13.711018Z",
+  "market_startDate": "2024-08-07T14:54:10.163018Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-02 07:21:10+00",
+  "conditionId": "0x19ac196b2dcfe4c53efa58144b8ecefad133673a219f3f100146b279f1ce20b2",
+  "slug": "will-the-miami-dolphins-win-the-afc-east",
+  "question": " Will the Dolphins win the AFC East?"
+}

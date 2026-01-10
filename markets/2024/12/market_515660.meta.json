@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T05:01:50.842020Z",
+  "market_createdAt": "2024-12-15T05:01:50.84202Z",
+  "market_updatedAt": "2024-12-23T04:45:34.777728Z",
+  "market_startDate": "2024-12-15T05:04:24.626892Z",
+  "market_endDate": "2024-12-29T00:30:00Z",
+  "market_closedTime": "2024-12-22 05:03:40+00",
+  "conditionId": "0x77ecb25d280a3e3b02523d997693d9e481bdb881d8d50d0ac0fb765b0f8e71c0",
+  "slug": "nba-uta-bkn-2024-12-21",
+  "question": "Jazz vs. Nets"
+}

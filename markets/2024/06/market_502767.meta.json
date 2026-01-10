@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-22T17:30:11.506197Z",
+  "market_createdAt": "2024-06-22T17:30:11.506197Z",
+  "market_updatedAt": "2024-06-24T22:01:12.644422Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:16:33+00",
+  "conditionId": "0x22a86682ab2986d590704b08c8b752f48788b76a5ca67f71d35bf0cbf70e2883",
+  "slug": "will-germany-win-june-23",
+  "question": "Will Germany win? "
+}

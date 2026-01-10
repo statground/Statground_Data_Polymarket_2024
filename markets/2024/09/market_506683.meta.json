@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T16:57:20.929884Z",
+  "market_createdAt": "2024-09-09T16:57:20.929884Z",
+  "market_updatedAt": "2024-09-15T19:17:00.818638Z",
+  "market_startDate": "2024-09-09T19:40:01.237379Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 19:14:00+00",
+  "conditionId": "0xc51495a709e23a553486a2e1bf469967b166d69b5ee12b5878d8d987e7b291f0",
+  "slug": "will-liverpool-beat-nottingham-forest",
+  "question": "Will Liverpool beat Nottingham Forest?"
+}

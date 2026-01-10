@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:49:20.591479Z",
+  "market_createdAt": "2024-11-01T18:49:20.591479Z",
+  "market_updatedAt": "2024-11-04T21:11:17.268349Z",
+  "market_startDate": "2024-11-01T22:16:01.92324Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:45:10+00",
+  "conditionId": "0x2c9cc6a2db42e43f3ab043ed6cff2776ebb354214d3589e4c976bb3e7e60c3c0",
+  "slug": "will-the-chargers-beat-the-browns-by-3-or-more-points",
+  "question": " Will the Chargers beat the Browns by 3 or more points?"
+}

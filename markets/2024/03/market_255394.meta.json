@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255394",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T19:55:03.073000Z",
+  "market_createdAt": "2024-03-08T19:55:03.073Z",
+  "market_updatedAt": "2024-06-26T05:24:09.172117Z",
+  "market_startDate": "2024-03-08T20:40:01.953Z",
+  "market_endDate": "2024-06-25T00:00:00Z",
+  "market_closedTime": "2024-06-26 05:22:35+00",
+  "conditionId": "0x92e1da146e2d13b558448cd5e23aed8cfa7ef637f23c4351b60ff8310e03d2f2",
+  "slug": "george-santos-wins-ny-1-republican-primary",
+  "question": "George Santos wins NY-1 Republican Primary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253975",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-17T23:20:31.430000Z",
+  "market_createdAt": "2024-01-17T23:20:31.43Z",
+  "market_updatedAt": "2024-04-26T03:01:38.824665Z",
+  "market_startDate": "2024-01-17T23:42:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 05:18:37+00",
+  "conditionId": "0xfcb67dfbe3a421f52dcaa826e15014d0ad54b30b22fd99b0fc7c402dd7a18e96",
+  "slug": "will-someone-else-win-the-oscar-for-best-actor",
+  "question": "Will someone else win the Oscar for Best Actor?"
+}

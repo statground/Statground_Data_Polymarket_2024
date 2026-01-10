@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500091",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-12T18:49:33.223415Z",
+  "market_createdAt": "2024-03-12T18:49:33.223415Z",
+  "market_updatedAt": "2024-05-07T23:10:09.536787Z",
+  "market_startDate": "2024-03-13T00:32:04.688Z",
+  "market_endDate": "2024-03-18T07:00:00Z",
+  "market_closedTime": "2024-03-19 01:08:28+00",
+  "conditionId": "0xef0c8d2a8cf41646a73a62cd8556b32816f22ab40fb39d881810f2c08052e214",
+  "slug": "arthur-the-king-over-15m-opening-weekend",
+  "question": "'Arthur the King' over $15m opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504447",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T22:18:58.642447Z",
+  "market_createdAt": "2024-08-01T22:18:58.642447Z",
+  "market_updatedAt": "2024-08-04T17:52:59.790312Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-08-03 18:59:48+00",
+  "conditionId": "0x73a45a31dad6a8e685a3d8de8e0fad60c3b28e82155bf398ac11228d4c1109fc",
+  "slug": "will-trump-say-crypto-in-august-31",
+  "question": "Will Trump say \"Crypto\" in Aug?"
+}

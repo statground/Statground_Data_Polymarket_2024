@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-23T15:59:25.134428Z",
+  "market_createdAt": "2024-11-23T15:59:25.134428Z",
+  "market_updatedAt": "2024-11-25T00:17:53.626835Z",
+  "market_startDate": "2024-11-23T17:36:37.16092Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-24 02:17:23+00",
+  "conditionId": "0x3d67e492cea1f453b363d09000392ef811ad6e5a417a7cf2c7c29770f1f53699",
+  "slug": "arizona-state-vs-byu",
+  "question": "Arizona State vs. BYU"
+}

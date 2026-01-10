@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515971",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T16:33:41.093901Z",
+  "market_createdAt": "2024-12-18T16:33:41.093901Z",
+  "market_updatedAt": "2024-12-20T03:15:18.17901Z",
+  "market_startDate": "2024-12-18T20:25:39.057123Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-19 07:32:24+00",
+  "conditionId": "0x0b78b3512d4955f86a28a32a6c793ddca5eb470c17e4a41873ee62d7d0660ed2",
+  "slug": "will-unlv-beat-cal-by-4-or-more-points",
+  "question": "Will UNLV beat Cal by 4 or more points?"
+}

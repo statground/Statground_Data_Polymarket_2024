@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516673",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:05:52.337868Z",
+  "market_createdAt": "2024-12-29T07:05:52.337868Z",
+  "market_updatedAt": "2025-01-02T07:17:07.424967Z",
+  "market_startDate": "2024-12-29T07:08:26.778509Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 07:17:06+00",
+  "conditionId": "0x5eafcd3f5ec270efac168efe18f1b9b99742b409fee9c0cae9e378e8f0f86875",
+  "slug": "nhl-pit-det-2024-12-31",
+  "question": "Penguins vs. Red Wings"
+}

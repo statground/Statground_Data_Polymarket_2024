@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511967",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T23:14:30.410112Z",
+  "market_createdAt": "2024-11-04T23:14:30.410112Z",
+  "market_updatedAt": "2024-11-06T21:47:10.575916Z",
+  "market_startDate": "2024-11-05T00:34:43.130226Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 01:33:59+00",
+  "conditionId": "0x9f7c9f7b97c56fe4a352a07dd7e27d098b34b70be0fec04b6c0ade32896ec623",
+  "slug": "will-sturm-graz-beat-borussia-dortmund",
+  "question": "Will Sturm Graz beat Borussia Dortmund?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:26:06.197623Z",
+  "market_createdAt": "2024-04-15T20:26:06.197623Z",
+  "market_updatedAt": "2024-05-19T02:19:24.130169Z",
+  "market_startDate": "2024-04-16T16:48:48.15Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-18 05:01:22+00",
+  "conditionId": "0x9f6f386f3e839a69ff7971303740f6605f89d05b509f6fa60ad47ba59ccec6a7",
+  "slug": "boston-bruins-win-the-2024-stanley-cup",
+  "question": "Boston Bruins win the 2024 Stanley Cup?"
+}

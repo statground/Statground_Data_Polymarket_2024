@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T00:44:43.901833Z",
+  "market_createdAt": "2024-07-10T00:44:43.901833Z",
+  "market_updatedAt": "2024-07-16T04:32:42.120212Z",
+  "market_startDate": "2024-07-10T01:08:47.719Z",
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 06:27:19+00",
+  "conditionId": "0xc9cecd10af7c77304888f151cde04402d44617c4743d5e3a41f96d6ed21e341c",
+  "slug": "will-trump-and-biden-debate-again-this-week",
+  "question": "Will Trump and Biden debate again this week?"
+}

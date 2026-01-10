@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T16:27:52.483055Z",
+  "market_createdAt": "2024-10-09T16:27:52.483055Z",
+  "market_updatedAt": "2024-10-14T19:07:03.879906Z",
+  "market_startDate": "2024-10-09T17:06:41.695911Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-13 19:20:05+00",
+  "conditionId": "0x7475dbf56cc330cfa172aa8ba23ffded47af2be2334e4c1526fcb4e361056065",
+  "slug": "alhassan-vs-fremd",
+  "question": "Alhassan vs. Fremd"
+}

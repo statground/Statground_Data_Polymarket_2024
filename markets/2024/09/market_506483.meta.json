@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506483",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T16:29:39.512384Z",
+  "market_createdAt": "2024-09-05T16:29:39.512384Z",
+  "market_updatedAt": "2024-09-08T20:57:13.126281Z",
+  "market_startDate": "2024-09-05T19:22:48.525883Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:22:00+00",
+  "conditionId": "0x2dfff3857950b8dc89955bb3367bd68c455daf78774e40ffdab829d1701a944b",
+  "slug": "will-the-match-end-in-a-draw-usa-can",
+  "question": "Will the match end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515973",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T16:40:29.807408Z",
+  "market_createdAt": "2024-12-18T16:40:29.807408Z",
+  "market_updatedAt": "2024-12-20T03:13:18.900383Z",
+  "market_startDate": "2024-12-18T20:24:28.864706Z",
+  "market_endDate": "2024-12-18T12:00:00Z",
+  "market_closedTime": "2024-12-19 04:08:30+00",
+  "conditionId": "0xba76563f32b80b90dbf624c90072ce67955bb4071ab6ede492f158a95d659473",
+  "slug": "will-jmu-beat-western-kentucky-by-8-or-more-points",
+  "question": "Will JMU beat Western Kentucky by 8 or more points?"
+}

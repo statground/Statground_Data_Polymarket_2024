@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512198",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:17:58.242947Z",
+  "market_createdAt": "2024-11-06T19:17:58.242947Z",
+  "market_updatedAt": "2024-11-15T22:49:14.925606Z",
+  "market_startDate": "2024-11-06T19:46:58.021Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:09:31+00",
+  "conditionId": "0x1ed8802c49ce5ee58271a552e8b07675880a1c33ccb037168f5cda253339c99f",
+  "slug": "will-trump-nominate-emil-bove-for-attorney-general",
+  "question": "Will Trump nominate Emil Bove for Attorney General?"
+}

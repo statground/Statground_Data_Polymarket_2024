@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T20:36:23.263353Z",
+  "market_createdAt": "2024-07-22T20:36:23.263353Z",
+  "market_updatedAt": "2024-07-27T16:14:58.600199Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-26 21:00:24+00",
+  "conditionId": "0x7222faf17c6b889d1c42cc1937cb09aff64b22fa677eb76db33c34e708e2b9ee",
+  "slug": "will-netanyahu-meet-with-trump",
+  "question": "Will Netanyahu meet with Trump? "
+}

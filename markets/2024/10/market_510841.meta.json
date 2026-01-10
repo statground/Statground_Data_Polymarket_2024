@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T20:28:21.232009Z",
+  "market_createdAt": "2024-10-24T20:28:21.232009Z",
+  "market_updatedAt": "2024-11-07T08:09:01.032586Z",
+  "market_startDate": "2024-10-24T21:45:45.69615Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-06 10:59:22+00",
+  "conditionId": "0x3da8741db784bf487bc1273afb2806b8b09ac34f7649e59fe0f7a82c2ab97552",
+  "slug": "will-new-hampshire-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will New Hampshire be the last state to be called by the AP?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510849",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T20:49:55.690052Z",
+  "market_createdAt": "2024-10-24T20:49:55.690052Z",
+  "market_updatedAt": "2024-11-07T18:23:04.46161Z",
+  "market_startDate": "2024-10-24T21:50:09.79938Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:05:07+00",
+  "conditionId": "0x6f1c7fad8c40f1b9c4c529943f72627c987a10845fdfd0d8a9eaa8a275cfb1f5",
+  "slug": "will-new-mexico-be-the-last-state-to-be-called-by-the-ap",
+  "question": "Will New Mexico be the last state to be called by the AP?"
+}

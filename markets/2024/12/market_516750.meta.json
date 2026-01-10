@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516750",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:06:09.175871Z",
+  "market_createdAt": "2024-12-30T05:06:09.175871Z",
+  "market_updatedAt": "2025-01-05T20:05:48.588617Z",
+  "market_startDate": "2024-12-30T05:08:45.287665Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:13:18+00",
+  "conditionId": "0x170547668ab3545ad2b3698b0fc7929d7b5a0fa0bd6b290a8dff9fc97b8e3b95",
+  "slug": "epl-mac-wes-2025-01-04-mac",
+  "question": "Will Manchester City win on 2025-01-04?"
+}

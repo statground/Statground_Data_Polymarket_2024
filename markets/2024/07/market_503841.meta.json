@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:48:08.985219Z",
+  "market_createdAt": "2024-07-18T21:48:08.985219Z",
+  "market_updatedAt": "2024-08-08T08:46:55.233597Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 23:02:56+00",
+  "conditionId": "0x5f224849a7357eb8dda2a7ea2bbd4a6a6916ba3d10bdc7659f5c540a996c6f4e",
+  "slug": "will-lukas-weibhaidinger-aut-win-gold-in-discus",
+  "question": "Will Lukas Weibhaidinger (AUT) win Gold in Discus?"
+}

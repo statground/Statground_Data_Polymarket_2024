@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501475",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T19:45:09.920936Z",
+  "market_createdAt": "2024-05-07T19:45:09.920936Z",
+  "market_updatedAt": "2024-06-11T14:11:14.452567Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-11 06:57:28+00",
+  "conditionId": "0xafb8265ded6d4ea88f95722d37fc9b3266bfbf5b976ebe1071e6c8b5f46565d4",
+  "slug": "will-groen-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will Groen win the most seats in the Belgian federal elections?"
+}

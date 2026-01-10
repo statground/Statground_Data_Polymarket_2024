@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T21:01:37.305529Z",
+  "market_createdAt": "2024-03-19T21:01:37.305529Z",
+  "market_updatedAt": "2024-05-07T23:10:10.603701Z",
+  "market_startDate": "2024-03-20T17:43:40.099Z",
+  "market_endDate": "2024-07-31T04:00:00Z",
+  "market_closedTime": "2024-04-22 07:11:47+00",
+  "conditionId": "0x33c30ecbe79a73f3bba6360493f4a09b172d70cbb792bba71e2523653539cd57",
+  "slug": "will-jayson-tatum-win-the-202324-nba-mvp",
+  "question": "Will Jayson Tatum win the 2023-24 NBA MVP?"
+}

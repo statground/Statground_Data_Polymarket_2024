@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T22:09:33.991720Z",
+  "market_createdAt": "2024-11-02T22:09:33.99172Z",
+  "market_updatedAt": "2024-11-05T03:37:08.833482Z",
+  "market_startDate": "2024-11-02T23:25:40.986Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:25:01+00",
+  "conditionId": "0x9b46cb6901d39b0e186931fcd53c053b8b8af471ea0a3d7f0c0883d4038f5409",
+  "slug": "will-trump-say-elon-during-macon-ga-rally",
+  "question": "Will Trump say \"Elon\" during Macon, GA rally?"
+}

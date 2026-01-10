@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:30:15.802979Z",
+  "market_createdAt": "2024-11-07T21:30:15.802979Z",
+  "market_updatedAt": "2025-01-02T08:45:04.822407Z",
+  "market_startDate": "2024-11-07T21:59:21.061073Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:51:56+00",
+  "conditionId": "0x2a6e26822278ac0647b41a58f00fa7c371eb7a364c48ce11066086b30d0e3f8a",
+  "slug": "will-elons-daughter-move-out-of-the-us",
+  "question": "Will Elon's daughter move out of the U.S.?"
+}

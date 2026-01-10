@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T21:15:10.936982Z",
+  "market_createdAt": "2024-12-10T21:15:10.936982Z",
+  "market_updatedAt": "2024-12-13T22:57:17.744657Z",
+  "market_startDate": "2024-12-11T22:48:47.147592Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-12 22:52:35+00",
+  "conditionId": "0x37575c91e9246e593cf9d2502a287e9817cb6c52863540ac30f8cd72bd6c7953",
+  "slug": "will-galatasaray-beat-malmo-ff",
+  "question": "Will Galatasaray beat Malmo FF?"
+}

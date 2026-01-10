@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-07T20:44:20.700975Z",
+  "market_createdAt": "2024-05-07T20:44:20.700975Z",
+  "market_updatedAt": "2024-06-11T08:56:14.833603Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-10 11:20:08+00",
+  "conditionId": "0x2f32e050a163862021e380339667e145e03e8f18e20da50030f1d325db78b49a",
+  "slug": "will-open-vld-win-the-most-seats-in-the-belgian-federal-elections",
+  "question": "Will Open Vld win the most seats in the Belgian federal elections?"
+}

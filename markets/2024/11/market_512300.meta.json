@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512300",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T19:33:29.137969Z",
+  "market_createdAt": "2024-11-07T19:33:29.137969Z",
+  "market_updatedAt": "2024-11-16T00:43:00.271974Z",
+  "market_startDate": "2024-11-07T22:25:04.708Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 05:31:11+00",
+  "conditionId": "0x4e67f9c7e72b7f10427b8f152bdce42ab9b9bf9209bc5662dbacf384bbd2a4c6",
+  "slug": "will-trump-nominate-mark-morgan-for-homeland-security-secretary",
+  "question": "Will Trump nominate Mark Morgan for Homeland Security Secretary?"
+}

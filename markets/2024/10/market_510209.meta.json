@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510209",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:49:25.363325Z",
+  "market_createdAt": "2024-10-18T20:49:25.363325Z",
+  "market_updatedAt": "2024-10-21T23:03:10.4632Z",
+  "market_startDate": "2024-10-18T23:17:48.1847Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 23:38:20+00",
+  "conditionId": "0x04eb10e43e71d2e4bbc2a22b2d7b841f10330e64d637b289d847c32b73386936",
+  "slug": "will-trump-say-tip-during-pennsylvania-town-hall-on-october-20",
+  "question": "Will Trump say \"Tip\" during Pennsylvania town hall on October 20?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T15:57:11.822443Z",
+  "market_createdAt": "2024-09-20T15:57:11.822443Z",
+  "market_updatedAt": "2024-09-22T19:26:51.490097Z",
+  "market_startDate": "2024-09-20T16:16:54.431112Z",
+  "market_endDate": "2024-09-21T12:00:00Z",
+  "market_closedTime": "2024-09-21 19:36:52+00",
+  "conditionId": "0x23d159441253dac870972f0a96885e1be7982a80e919c0477bd9358e6bc629fc",
+  "slug": "will-there-be-45-or-more-combined-points-scored-clem-ncst",
+  "question": "Will there be 45 or more combined points scored?"
+}

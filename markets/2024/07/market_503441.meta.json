@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503441",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:51:21.977436Z",
+  "market_createdAt": "2024-07-12T19:51:21.977436Z",
+  "market_updatedAt": "2024-07-15T18:28:47.481652Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:07:00+00",
+  "conditionId": "0x92f14a8d988d6c17a8a2a1e5724c940b22657e1ff7237d54094318f08931b3ec",
+  "slug": "will-jude-bellingham-score",
+  "question": "Will Jude Bellingham score?"
+}

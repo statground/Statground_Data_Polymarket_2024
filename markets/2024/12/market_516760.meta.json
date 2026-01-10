@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516760",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:09:01.217756Z",
+  "market_createdAt": "2024-12-30T05:09:01.217756Z",
+  "market_updatedAt": "2025-01-06T18:01:34.763043Z",
+  "market_startDate": "2024-12-30T05:11:29.949378Z",
+  "market_endDate": "2025-01-05T14:00:00Z",
+  "market_closedTime": "2025-01-05 19:03:59+00",
+  "conditionId": "0xd3b5e480ff00889945ceae1c891d6eee68c3880d66290c142f256a55cc0d94fc",
+  "slug": "epl-ful-ips-2025-01-05-draw",
+  "question": "Will Fulham vs. Ipswich end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509120",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T20:38:36.437454Z",
+  "market_createdAt": "2024-10-07T20:38:36.437454Z",
+  "market_updatedAt": "2024-11-02T06:11:16.905548Z",
+  "market_startDate": "2024-10-07T21:39:01.612197Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 11:00:37+00",
+  "conditionId": "0xc24eaecabac293e57519be41876030f7a804fac0f5487f97080f79c3681d83d4",
+  "slug": "did-ye-cheat-on-bianca",
+  "question": "Did Ye cheat on Bianca?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:45:01.611908Z",
+  "market_createdAt": "2024-08-14T21:45:01.611908Z",
+  "market_updatedAt": "2024-08-20T00:51:08.348326Z",
+  "market_startDate": "2024-08-15T22:37:31.138Z",
+  "market_endDate": null,
+  "market_closedTime": "2024-08-19 01:22:53+00",
+  "conditionId": "0xc2218ee751a53dab3daf91fc51cf7ce2203702229deeee393afe7404632d5353",
+  "slug": "will-another-golfer-win-the-2024-liv-greenbrier-tournament",
+  "question": "Will another golfer win the 2024 LIV Greenbrier Tournament?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504224",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T17:17:11.425532Z",
+  "market_createdAt": "2024-07-26T17:17:11.425532Z",
+  "market_updatedAt": "2024-08-06T15:46:54.993527Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-05 17:43:55+00",
+  "conditionId": "0x86bb2c5b5eb9e82f50d2b93dca2f17ae809aa13a50fe5352d7009534f867011d",
+  "slug": "will-carlos-alcaraz-win-the-most-gold-medals",
+  "question": "Will Carlos Alcaraz win the most gold medals?"
+}

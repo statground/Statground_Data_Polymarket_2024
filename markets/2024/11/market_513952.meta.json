@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513952",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T09:26:25.105785Z",
+  "market_createdAt": "2024-11-25T09:26:25.105785Z",
+  "market_updatedAt": "2025-05-01T00:23:19.581106Z",
+  "market_startDate": "2024-11-25T20:27:30.548Z",
+  "market_endDate": "2025-05-05T12:00:00Z",
+  "market_closedTime": "2025-04-30 03:30:53+00",
+  "conditionId": "0x229cb5de8b5e690f950b34bfb79f1aae331680f522f6bed6f78229584237d2fe",
+  "slug": "will-jaylen-wells-win-nba-rookie-of-the-year",
+  "question": "Will Jaylen Wells win NBA Rookie of the Year?"
+}

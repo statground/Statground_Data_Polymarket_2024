@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510146",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:22:11.457766Z",
+  "market_createdAt": "2024-10-18T17:22:11.457766Z",
+  "market_updatedAt": "2024-10-20T22:50:47.813508Z",
+  "market_startDate": "2024-10-18T23:26:18.109346Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:07:25+00",
+  "conditionId": "0x9c5b955aa7fed5edc82d7e3fb7a04b7280f2a8caae59033fdd90bed60c8aedfa",
+  "slug": "will-michigan-beat-illinois",
+  "question": "Will Michigan beat Illinois?"
+}

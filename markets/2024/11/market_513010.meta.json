@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513010",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T00:19:51.458454Z",
+  "market_createdAt": "2024-11-14T00:19:51.458454Z",
+  "market_updatedAt": "2024-11-15T21:39:11.47085Z",
+  "market_startDate": "2024-11-14T15:18:50.512826Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 00:46:28+00",
+  "conditionId": "0x0ba2fc1ebd326bc6a12f5679b52b68df0cc3db69f17128cdeb9753780ac32caa",
+  "slug": "will-the-match-between-greece-and-england-end-in-a-draw",
+  "question": "Will the match between Greece and England end in a draw?"
+}

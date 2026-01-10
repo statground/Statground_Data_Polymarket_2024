@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511854",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-03T00:11:53.059310Z",
+  "market_createdAt": "2024-11-03T00:11:53.05931Z",
+  "market_updatedAt": "2024-12-03T18:47:12.851578Z",
+  "market_startDate": "2024-11-03T01:32:50.996888Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-02 23:19:46+00",
+  "conditionId": "0x0f039358129c20f1f4ddce8da1eb7aab80e11a4b01c5eb20d97dc30a8974f574",
+  "slug": "will-the-republican-candidate-win-iowa-by-6pt0-7pt0",
+  "question": "Will the Republican candidate win Iowa by 6.0-7.0%? "
+}

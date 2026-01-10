@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510539",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:35:04.944341Z",
+  "market_createdAt": "2024-10-22T15:35:04.944341Z",
+  "market_updatedAt": "2024-10-26T04:53:01.623318Z",
+  "market_startDate": "2024-10-22T21:45:54.42Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:58:25+00",
+  "conditionId": "0x9cea4b469863c5f46ed51057aec9df92553dfa65cca46c378ee8862bb607cc74",
+  "slug": "will-trump-say-weave-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"weave\" during Las Vegas rally on October 24?"
+}

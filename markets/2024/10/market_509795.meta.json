@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T17:16:19.444658Z",
+  "market_createdAt": "2024-10-14T17:16:19.444658Z",
+  "market_updatedAt": "2024-10-16T16:02:49.068944Z",
+  "market_startDate": "2024-10-14T23:42:30.105069Z",
+  "market_endDate": "2024-10-18T12:00:00Z",
+  "market_closedTime": "2024-10-15 18:34:07+00",
+  "conditionId": "0x75db6b6a9af327c0d1c08e931ebcdc9579535ec501a53d03c3ce9caa258597af",
+  "slug": "will-jan-krzysztof-duda-win-the-2024-wr-chess-masters-cup",
+  "question": "Will Jan-Krzysztof Duda win the 2024 WR Chess Masters Cup?"
+}

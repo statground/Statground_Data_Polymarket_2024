@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508263",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T18:56:15.540254Z",
+  "market_createdAt": "2024-09-26T18:56:15.540254Z",
+  "market_updatedAt": "2024-09-30T00:32:38.001807Z",
+  "market_startDate": "2024-09-27T16:03:55.134122Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-29 01:19:10+00",
+  "conditionId": "0xecd29d2d77f0692a2419826f694cc2fd58ace46ac022cac76b702b483791e83e",
+  "slug": "will-oklahoma-beat-auburn",
+  "question": "Will Oklahoma beat Auburn?"
+}

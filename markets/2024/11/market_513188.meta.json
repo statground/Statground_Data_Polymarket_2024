@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513188",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:28:49.657149Z",
+  "market_createdAt": "2024-11-15T19:28:49.657149Z",
+  "market_updatedAt": "2024-11-18T07:41:07.805675Z",
+  "market_startDate": "2024-11-15T22:14:00.246002Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 08:37:06+00",
+  "conditionId": "0x9116db149657b873f437bd215de7313693669009a043b0f8be40c5bfe02d7cec",
+  "slug": "will-byu-beat-kansas",
+  "question": "Will BYU beat Kansas?"
+}

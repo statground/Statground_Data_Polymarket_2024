@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T18:54:44.368855Z",
+  "market_createdAt": "2024-06-28T18:54:44.368855Z",
+  "market_updatedAt": "2024-08-02T17:13:04.312325Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:14:04+00",
+  "conditionId": "0x21e0ef600527ed85810410ac1e8ebf617d0125133559b7f484a6cfda9f81e758",
+  "slug": "trump-x-biden-golf-announced-before-august",
+  "question": "Trump x Biden golf announced before August?"
+}

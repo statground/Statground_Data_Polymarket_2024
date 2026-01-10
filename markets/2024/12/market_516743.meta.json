@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T05:03:42.233729Z",
+  "market_createdAt": "2024-12-30T05:03:42.233729Z",
+  "market_updatedAt": "2025-01-05T19:11:31.08128Z",
+  "market_startDate": "2024-12-30T05:06:50.962302Z",
+  "market_endDate": "2025-01-04T15:00:00Z",
+  "market_closedTime": "2025-01-04 20:03:21+00",
+  "conditionId": "0x031e9daa0029d47c3dc4fb1569279d4b54de45dc36d0ed8b523f7672b7df3f45",
+  "slug": "epl-bou-eve-2025-01-04-eve",
+  "question": "Will Everton win on 2025-01-04?"
+}

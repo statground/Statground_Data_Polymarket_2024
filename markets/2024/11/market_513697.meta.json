@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513697",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T22:43:13.153357Z",
+  "market_createdAt": "2024-11-21T22:43:13.153357Z",
+  "market_updatedAt": "2024-12-05T04:23:32.028388Z",
+  "market_startDate": "2024-11-25T18:51:18.839675Z",
+  "market_endDate": "2024-12-17T12:00:00Z",
+  "market_closedTime": "2024-12-04 07:41:30+00",
+  "conditionId": "0xb0229b674e239dc641c8f4d38d1a1b29431bc31263c0c3e6dc96730899dd6c62",
+  "slug": "will-the-phoenix-suns-win-the-2024-nba-cup",
+  "question": "Will the Phoenix Suns win the 2024 NBA Cup?"
+}

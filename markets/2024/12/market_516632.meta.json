@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516632",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:09:35.340607Z",
+  "market_createdAt": "2024-12-29T05:09:35.340607Z",
+  "market_updatedAt": "2025-01-06T04:09:10.641821Z",
+  "market_startDate": "2024-12-29T05:12:04.490551Z",
+  "market_endDate": "2025-01-12T01:00:00Z",
+  "market_closedTime": "2025-01-05 05:48:17+00",
+  "conditionId": "0xad601a1f8529dcc5373bc3eec8d276a1c941a0db4ed757cc2517dabb0b377dfd",
+  "slug": "nba-uta-mia-2025-01-04",
+  "question": "Jazz vs. Heat"
+}

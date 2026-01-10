@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516670",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:05:14.489356Z",
+  "market_createdAt": "2024-12-29T07:05:14.489356Z",
+  "market_updatedAt": "2025-01-02T07:03:16.606886Z",
+  "market_startDate": "2024-12-29T07:07:51.896391Z",
+  "market_endDate": "2025-01-08T01:00:00Z",
+  "market_closedTime": "2025-01-01 07:12:18+00",
+  "conditionId": "0xd598ac182b06b351e246b5e5160154ce387978b82daccc0f98e39a1ba7890c72",
+  "slug": "nhl-phi-sj-2024-12-31",
+  "question": "Flyers vs. Sharks"
+}

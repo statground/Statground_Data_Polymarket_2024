@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:02:12.646374Z",
+  "market_createdAt": "2024-10-21T22:02:12.646374Z",
+  "market_updatedAt": "2024-10-23T22:43:12.532811Z",
+  "market_startDate": "2024-10-22T00:53:23.943056Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:30:03+00",
+  "conditionId": "0x96d84fefe467dfc29bccdc729977aa7844e67b3dc12f10b5085bac819d502cbc",
+  "slug": "will-bologna-beat-aston-villa",
+  "question": "Will Bologna beat Aston Villa?"
+}

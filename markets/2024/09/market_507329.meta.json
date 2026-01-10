@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507329",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T19:02:12.841041Z",
+  "market_createdAt": "2024-09-17T19:02:12.841041Z",
+  "market_updatedAt": "2024-09-20T01:22:43.119265Z",
+  "market_startDate": "2024-09-17T21:48:55.100931Z",
+  "market_endDate": "2024-09-18T12:00:00Z",
+  "market_closedTime": "2024-09-19 02:44:07+00",
+  "conditionId": "0x10bb87576fe1ddba76a35c3552815e2f37caac4163775da84b07ed32516b3a55",
+  "slug": "will-donald-trump-say-golf-during-his-uniondale-rally",
+  "question": "Will Donald Trump say \"golf\" during his Uniondale rally?"
+}

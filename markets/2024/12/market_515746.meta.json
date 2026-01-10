@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515746",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:23:19.304513Z",
+  "market_createdAt": "2024-12-16T16:23:19.304513Z",
+  "market_updatedAt": "2024-12-30T17:31:42.606053Z",
+  "market_startDate": "2024-12-16T23:32:05.71032Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-29 18:56:52+00",
+  "conditionId": "0xb35ba0cffdbb3f165ca43e720ae7cffe5b60372a9bc77114cdb145b586fd4b51",
+  "slug": "will-manchester-city-win-again-in-2024",
+  "question": "Will Manchester City win again in 2024?"
+}

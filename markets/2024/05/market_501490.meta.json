@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-08T20:08:08.100725Z",
+  "market_createdAt": "2024-05-08T20:08:08.100725Z",
+  "market_updatedAt": "2024-11-07T20:08:59.08726Z",
+  "market_startDate": "2024-05-08T20:08:08.100725Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:35:11+00",
+  "conditionId": "0x8009308fb5bea84c1eedc10fec72fb1d9ebc33d31fffd89f65a34247a724f246",
+  "slug": "will-a-candidate-from-another-party-win-delaware-governor-election",
+  "question": "Will a candidate from another party win Delaware Governor Election?"
+}

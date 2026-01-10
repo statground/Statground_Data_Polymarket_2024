@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T18:22:21.623098Z",
+  "market_createdAt": "2024-10-25T18:22:21.623098Z",
+  "market_updatedAt": "2024-10-28T01:36:49.839262Z",
+  "market_startDate": "2024-10-25T22:20:58.020931Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 01:35:14+00",
+  "conditionId": "0xda9cb5d19983efc4c377d225e03922b4249d7b84f651045196a4d01808f17833",
+  "slug": "will-ucf-beat-byu-by-3-or-more-points",
+  "question": "Will UCF beat BYU by 3 or more points?"
+}

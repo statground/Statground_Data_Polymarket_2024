@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T21:59:20.577584Z",
+  "market_createdAt": "2024-10-03T21:59:20.577584Z",
+  "market_updatedAt": "2025-04-18T08:20:40.666543Z",
+  "market_startDate": "2024-10-04T15:19:04.667555Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-17 06:05:43+00",
+  "conditionId": "0x0e39b9278b0d78d49ffca1360bce084fd09506ac794f297a5a83cdaaedb6394d",
+  "slug": "will-the-chicago-bulls-win-the-eastern-conference",
+  "question": "Will the Chicago Bulls win the Eastern Conference?"
+}

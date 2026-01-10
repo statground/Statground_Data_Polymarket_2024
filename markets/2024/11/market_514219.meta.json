@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T17:02:35.621136Z",
+  "market_createdAt": "2024-11-27T17:02:35.621136Z",
+  "market_updatedAt": "2024-12-07T19:19:20.364289Z",
+  "market_startDate": "2024-11-29T18:45:26.586476Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 19:25:06+00",
+  "conditionId": "0xce2c37f842447795c47f2991ae2139777f2ca6082a5de6a0425bb9882b181252",
+  "slug": "ripple-above-1pt69-on-december-6",
+  "question": "Ripple above $1.69 on December 6?"
+}

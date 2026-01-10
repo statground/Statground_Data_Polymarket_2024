@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516614",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:06:21.356611Z",
+  "market_createdAt": "2024-12-29T05:06:21.356611Z",
+  "market_updatedAt": "2025-01-04T04:46:49.73064Z",
+  "market_startDate": "2024-12-29T05:08:51.139446Z",
+  "market_endDate": "2025-01-10T01:00:00Z",
+  "market_closedTime": "2025-01-03 05:23:59+00",
+  "conditionId": "0x6348b4a38ca4135d749b73ef02d9617f3aa741994ccea69b366dd9c8542358e4",
+  "slug": "nba-lac-okc-2025-01-02",
+  "question": "Clippers vs. Thunder"
+}

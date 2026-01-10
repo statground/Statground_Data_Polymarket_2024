@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:29:30.162264Z",
+  "market_createdAt": "2024-12-25T06:29:30.162264Z",
+  "market_updatedAt": "2024-12-27T20:05:15.943378Z",
+  "market_startDate": "2024-12-25T06:32:02.994652Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:31:24+00",
+  "conditionId": "0xd9ee4a93fc4c5849a5918c9b4c9997dcaa3df9c2f2efc2bda26b75cd650aec13",
+  "slug": "epl-sou-wes-2024-12-26-wes",
+  "question": "Will West Ham win on 2024-12-26?"
+}

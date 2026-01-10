@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509088",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:03:06.092746Z",
+  "market_createdAt": "2024-10-07T19:03:06.092746Z",
+  "market_updatedAt": "2025-05-23T23:01:21.684576Z",
+  "market_startDate": "2024-10-08T14:24:13.307682Z",
+  "market_endDate": "2025-06-23T12:00:00Z",
+  "market_closedTime": "2025-04-09 05:58:27+00",
+  "conditionId": "0x996589e16b968a560860def78785a4a415ac8e43d9b56e651e230fef73bd565a",
+  "slug": "will-the-buffalo-sabres-win-the-2025-stanley-cup",
+  "question": "Will the Buffalo Sabres win the 2025 Stanley Cup?"
+}

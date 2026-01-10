@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504343",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T21:19:30.045512Z",
+  "market_createdAt": "2024-07-30T21:19:30.045512Z",
+  "market_updatedAt": "2024-08-02T17:13:03.722982Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-07-31 22:05:44+00",
+  "conditionId": "0x810b54d8d51fe5bb9daf4c3fa2f01604dc76a724e8f4c9f755f25c26c89efced",
+  "slug": "will-carlos-alcaraz-rafael-nadal-esp-win-gold-in-mens-doubles-tennis",
+  "question": "Will Carlos Alcaraz / Rafael Nadal (ESP) win Gold in Men’s Doubles Tennis?"
+}

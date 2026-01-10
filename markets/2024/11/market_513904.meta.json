@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513904",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:53:46.553836Z",
+  "market_createdAt": "2024-11-24T18:53:46.553836Z",
+  "market_updatedAt": "2024-11-29T04:13:35.621063Z",
+  "market_startDate": "2024-11-24T18:56:51.447012Z",
+  "market_endDate": "2024-12-05T00:00:00Z",
+  "market_closedTime": "2024-11-28 04:32:18+00",
+  "conditionId": "0x8f43e1841d79472a221ee43b942511c4eb4dfa7d7ce62ac4604301983f1b1eeb",
+  "slug": "nba-por-ind-2024-11-27",
+  "question": "Trail Blazers vs. Pacers"
+}

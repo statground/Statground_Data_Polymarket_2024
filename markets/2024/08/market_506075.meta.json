@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506075",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:19:00.115898Z",
+  "market_createdAt": "2024-08-29T16:19:00.115898Z",
+  "market_updatedAt": "2024-09-02T18:47:00.397133Z",
+  "market_startDate": "2024-08-29T16:19:00.115898Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-02 00:03:44+00",
+  "conditionId": "0x717c266348223213e17d450f0a8f86bd50e4a1898feac5e48a48750d2d67100d",
+  "slug": "will-wyndham-clark-win-the-tour-championship",
+  "question": "Will Wyndham Clark win the Tour Championship?"
+}

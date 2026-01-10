@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T18:01:37.865139Z",
+  "market_createdAt": "2024-12-03T18:01:37.865139Z",
+  "market_updatedAt": "2024-12-19T22:43:20.413902Z",
+  "market_startDate": "2024-12-03T21:12:49.878Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 22:38:36+00",
+  "conditionId": "0x13b5a56870539d50ee693b0313ca4f96555c3054e44c2827bad91b18fff0411c",
+  "slug": "will-checo-perez-leave-red-bull",
+  "question": "Will Sergio Perez leave Red Bull?"
+}

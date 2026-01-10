@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:46:58.318612Z",
+  "market_createdAt": "2024-07-29T20:46:58.318612Z",
+  "market_updatedAt": "2024-08-10T20:22:20.935467Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 20:19:29+00",
+  "conditionId": "0x9c410fd4ea9642bf9b49e389be0ef20f7caae25cf81cc3eda336c9ae255a98c0",
+  "slug": "will-brooke-henderson-win-gold-in-womens-golf",
+  "question": "Will Brooke Henderson win Gold in Women's Golf?"
+}

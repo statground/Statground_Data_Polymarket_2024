@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507835",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:50:50.448184Z",
+  "market_createdAt": "2024-09-24T04:50:50.448184Z",
+  "market_updatedAt": "2024-10-01T01:22:39.393211Z",
+  "market_startDate": "2024-09-24T04:53:11.0672Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:59:10+00",
+  "conditionId": "0x9f8142a1fa632341d611b5f3ee1403d358150e4b598c972232f721bde5edfa0d",
+  "slug": "nfl-gb-min-2024-09-29",
+  "question": "Packers vs. Vikings"
+}

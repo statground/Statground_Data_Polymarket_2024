@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T16:35:11.483158Z",
+  "market_createdAt": "2024-08-26T16:35:11.483158Z",
+  "market_updatedAt": "2024-08-28T19:43:11.536563Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-27T12:00:00Z",
+  "market_closedTime": "2024-08-27 19:48:49+00",
+  "conditionId": "0x95a64dc6db18b471bc93632f2286461cc5c19f969cb040a570c8f38cb4e8ee69",
+  "slug": "will-jd-vance-say-debate-during-michigan-rally",
+  "question": "Will J.D. Vance say \"debate\" during Michigan rally?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509254",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T16:41:32.325835Z",
+  "market_createdAt": "2024-10-08T16:41:32.325835Z",
+  "market_updatedAt": "2024-10-11T13:42:56.096742Z",
+  "market_startDate": "2024-10-08T17:19:51.712427Z",
+  "market_endDate": "2024-10-10T12:00:00Z",
+  "market_closedTime": "2024-10-10 14:12:15+00",
+  "conditionId": "0xbee078e57eaa9109701c3b5d4243bb762cd02805aa3ce2a4ee5ef791f303fbf0",
+  "slug": "will-michel-houellebecq-win-the-nobel-prize-in-literature",
+  "question": "Will Michel Houellebecq win the Nobel prize in literature?"
+}

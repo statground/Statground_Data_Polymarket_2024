@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505871",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:21:48.531718Z",
+  "market_createdAt": "2024-08-27T13:21:48.531718Z",
+  "market_updatedAt": "2024-10-03T23:46:40.406097Z",
+  "market_startDate": "2024-08-27T13:21:48.531718Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 03:10:32+00",
+  "conditionId": "0x15a2ba9a51b0023216bf7d9582c58fdf4314f153cfbb1be32a446ed536cb845d",
+  "slug": "will-the-baltimore-orioles-win-the-world-series",
+  "question": "Will the Baltimore Orioles win the World Series?"
+}

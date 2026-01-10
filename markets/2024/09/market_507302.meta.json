@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:27:52.778322Z",
+  "market_createdAt": "2024-09-17T17:27:52.778322Z",
+  "market_updatedAt": "2025-03-13T19:36:37.167789Z",
+  "market_startDate": "2024-09-17T18:20:46.445231Z",
+  "market_endDate": "2025-05-31T12:00:00Z",
+  "market_closedTime": "2025-03-12 23:00:31+00",
+  "conditionId": "0xcf6ee989453b44e532516119deeb5b581119bd0f09e065b4adec62ab280744d8",
+  "slug": "will-lille-win-the-uefa-champions-league",
+  "question": "Will Lille win the UEFA Champions League?"
+}

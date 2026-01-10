@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515514",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-12T21:05:48.994224Z",
+  "market_createdAt": "2024-12-12T21:05:48.994224Z",
+  "market_updatedAt": "2025-04-02T07:32:37.398309Z",
+  "market_startDate": "2024-12-12T23:05:57.546058Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:41:20+00",
+  "conditionId": "0xb49e4419786bb1ab3ff73b9bc76b6488f8a29a88d1766ed3934e83222e876cca",
+  "slug": "will-ethereum-hit-4500pt00-by-march-31",
+  "question": "Will Ethereum hit $4,500.00 by March 31?"
+}

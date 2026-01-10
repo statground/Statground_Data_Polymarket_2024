@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:30:11.142677Z",
+  "market_createdAt": "2024-08-21T01:30:11.142677Z",
+  "market_updatedAt": "2024-08-25T17:06:59.755942Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:17:40+00",
+  "conditionId": "0xc5d44748c8d00d53902a41d73678bd3036ea46481a308bab7e2aec203dd59add",
+  "slug": "will-crystal-palace-beat-west-ham",
+  "question": "Will Crystal Palace beat West Ham?"
+}

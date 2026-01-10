@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:54:30.864805Z",
+  "market_createdAt": "2024-08-28T19:54:30.864805Z",
+  "market_updatedAt": "2025-01-14T05:51:14.871774Z",
+  "market_startDate": "2024-08-28T19:54:30.864805Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2025-01-13 07:13:13+00",
+  "conditionId": "0xd3b35c9c70d199a85f23be172696b57a32d95edf3b90aa2f124a4043e2f165f7",
+  "slug": "will-the-buccaneers-win-the-nfc-championship",
+  "question": "Will the Buccaneers win the NFC Championship?"
+}

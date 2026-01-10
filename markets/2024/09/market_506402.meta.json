@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506402",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T18:17:29.586121Z",
+  "market_createdAt": "2024-09-04T18:17:29.586121Z",
+  "market_updatedAt": "2025-01-02T08:03:27.994287Z",
+  "market_startDate": "2024-09-05T17:27:37.777293Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:26:06+00",
+  "conditionId": "0x9d1f711b8a263a39ccb5a19d884f4f69b697397fc57a836ccc9aaf5af7dd1eea",
+  "slug": "trudeau-no-confidence-motion-passes-in-2024",
+  "question": "Trudeau no confidence motion passes in 2024?"
+}

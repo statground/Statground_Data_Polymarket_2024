@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506053",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:11:34.379815Z",
+  "market_createdAt": "2024-08-29T15:11:34.379815Z",
+  "market_updatedAt": "2024-09-01T00:13:03.832122Z",
+  "market_startDate": "2024-08-29T18:28:46.589Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-31 00:30:14+00",
+  "conditionId": "0x8b3d0ee7e75eba029136ac13502681ec1cb7c0edae4f3e22f8ea1161059ea138",
+  "slug": "will-donald-trump-say-france-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"France\" during Pennsylvania rally?"
+}

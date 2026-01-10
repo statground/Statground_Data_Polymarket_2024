@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T05:00:26.774136Z",
+  "market_createdAt": "2024-12-09T05:00:26.774136Z",
+  "market_updatedAt": "2024-12-16T07:27:34.686569Z",
+  "market_startDate": "2024-12-09T05:03:35.256101Z",
+  "market_endDate": "2024-12-22T02:00:00Z",
+  "market_closedTime": "2024-12-15 07:43:57+00",
+  "conditionId": "0x65e920217e7a46f23859c5589cf112103267964764f7224491e821106a674097",
+  "slug": "cfb-sbama-wmu-2024-12-14",
+  "question": "South Alabama vs. Western Michigan"
+}

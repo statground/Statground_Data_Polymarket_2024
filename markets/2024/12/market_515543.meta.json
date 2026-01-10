@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515543",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T16:14:51.145009Z",
+  "market_createdAt": "2024-12-13T16:14:51.145009Z",
+  "market_updatedAt": "2024-12-21T18:56:54.237678Z",
+  "market_startDate": "2024-12-13T16:24:28.89Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-20 19:09:33+00",
+  "conditionId": "0x98b13e852f5b6dbe63836fe24c13e5dfefcf4ba2d13616a4ea90b246a472eb85",
+  "slug": "ripple-above-2pt40-on-december-20",
+  "question": "Ripple above $2.40 on December 20?"
+}

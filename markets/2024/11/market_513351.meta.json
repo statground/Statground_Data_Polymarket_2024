@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T16:56:06.363119Z",
+  "market_createdAt": "2024-11-18T16:56:06.363119Z",
+  "market_updatedAt": "2024-11-20T06:01:04.558475Z",
+  "market_startDate": "2024-11-18T19:44:51.061348Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-19 06:37:48+00",
+  "conditionId": "0x50b8e0ba1f4bcfc1d17a0a12671376882f08efb8b4154658dc62f1e9a3eaf88c",
+  "slug": "will-the-texans-beat-the-cowboys-by-8-or-more-points",
+  "question": "Will the Texans beat the Cowboys by 8 or more points?"
+}

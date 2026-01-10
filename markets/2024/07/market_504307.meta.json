@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-29T20:50:20.191283Z",
+  "market_createdAt": "2024-07-29T20:50:20.191283Z",
+  "market_updatedAt": "2024-08-11T15:46:48.765949Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-10T12:00:00Z",
+  "market_closedTime": "2024-08-10 20:03:19+00",
+  "conditionId": "0xedc1cf0d83a8c90665017859ea1ab63987dd787b0b6a28bc7fe03fba15c73fd1",
+  "slug": "will-another-athlete-win-gold-in-womens-golf",
+  "question": "Will another athlete win Gold in Women's Golf?"
+}

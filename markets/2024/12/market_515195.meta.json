@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515195",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T21:59:01.452734Z",
+  "market_createdAt": "2024-12-09T21:59:01.452734Z",
+  "market_updatedAt": "2024-12-13T06:03:03.933974Z",
+  "market_startDate": "2024-12-09T22:56:39.615Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-12 07:03:48+00",
+  "conditionId": "0xce8f37637ec2b367f4804800c8f36b3d78b4954a30894c23cc9a3a6b616fa410",
+  "slug": "will-pepmangione-release-another-video-by-wednesday",
+  "question": "Will @PepMangione release another video by Dec 11?"
+}

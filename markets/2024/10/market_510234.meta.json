@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T21:24:28.271410Z",
+  "market_createdAt": "2024-10-18T21:24:28.27141Z",
+  "market_updatedAt": "2024-10-28T00:26:52.906801Z",
+  "market_startDate": "2024-10-18T23:02:24.080738Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-27 00:55:22+00",
+  "conditionId": "0xbddaaabbe68c92eb2a11d094d2ace3b2de2a8171cd3e3808bfb246a9267bdf70",
+  "slug": "who-will-lead-on-538-on-friday",
+  "question": "Who will lead on 538 on Friday?"
+}

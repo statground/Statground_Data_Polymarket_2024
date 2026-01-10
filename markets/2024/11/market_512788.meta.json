@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512788",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T21:42:58.397401Z",
+  "market_createdAt": "2024-11-11T21:42:58.397401Z",
+  "market_updatedAt": "2024-11-25T19:14:08.815762Z",
+  "market_startDate": "2024-11-11T21:45:41.30634Z",
+  "market_endDate": "2024-11-24T14:00:00Z",
+  "market_closedTime": "2024-11-24 19:15:47+00",
+  "conditionId": "0x0413fb3b70baea55299750e2d82e90e14259836d5da9b23402365dfd4d2d141e",
+  "slug": "epl-sou-liv-2024-11-24-liv",
+  "question": "Will Liverpool win on 2024-11-24?"
+}

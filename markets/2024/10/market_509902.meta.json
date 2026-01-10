@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509902",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T18:10:34.888147Z",
+  "market_createdAt": "2024-10-15T18:10:34.888147Z",
+  "market_updatedAt": "2024-10-18T00:26:45.352499Z",
+  "market_startDate": "2024-10-15T19:00:07.307Z",
+  "market_endDate": "2024-10-16T12:00:00Z",
+  "market_closedTime": "2024-10-17 00:33:25+00",
+  "conditionId": "0x5a2490919d804ca376a65a307268157948f6f16116e422eaf4cf175a4a747554",
+  "slug": "will-kamala-say-mcdonalds-during-fox-news-interview",
+  "question": "Will Kamala say \"McDonald's\" during Fox News interview? "
+}

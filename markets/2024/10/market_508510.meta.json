@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508510",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T16:37:52.010948Z",
+  "market_createdAt": "2024-10-01T16:37:52.010948Z",
+  "market_updatedAt": "2024-10-04T18:52:41.430587Z",
+  "market_startDate": "2024-10-02T14:28:26.649099Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:19:58+00",
+  "conditionId": "0x0a3673d3c3e83e13d09711bd0f4f61542829943cb434b8130ea268bd1e5c508e",
+  "slug": "will-midtjylland-beat-maccabi-tlv",
+  "question": "Will Midtjylland beat Maccabi TLV?"
+}

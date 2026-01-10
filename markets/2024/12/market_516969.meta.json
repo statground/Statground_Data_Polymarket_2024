@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516969",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T20:01:02.861184Z",
+  "market_createdAt": "2024-12-31T20:01:02.861184Z",
+  "market_updatedAt": "2025-12-31T20:45:16.753606Z",
+  "market_startDate": "2024-12-31T20:22:51.882Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:44:55+00",
+  "conditionId": "0xf2b177d6267194487880857175f9876fb2d352188f681dfe8bb732a665512305",
+  "slug": "will-microsoft-have-the-top-ai-model-on-december-31",
+  "question": "Will Microsoft have the top AI model on December 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T16:11:22.176225Z",
+  "market_createdAt": "2024-10-07T16:11:22.176225Z",
+  "market_updatedAt": "2024-11-14T19:09:00.023869Z",
+  "market_startDate": "2024-10-07T23:00:17.675458Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-13 19:11:24+00",
+  "conditionId": "0xffae42f1c905d24dfef1d0f7336226ca6160c6ee9493ca00dea4fee0b4cf5054",
+  "slug": "will-coinbase-list-pepe-in-2024",
+  "question": "Will Coinbase list $PEPE in 2024?"
+}

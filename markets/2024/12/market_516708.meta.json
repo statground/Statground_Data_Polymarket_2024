@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T17:59:44.949971Z",
+  "market_createdAt": "2024-12-29T17:59:44.949971Z",
+  "market_updatedAt": "2025-07-03T00:26:45.480091Z",
+  "market_startDate": "2024-12-29T22:42:28.607Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 22:10:10.318939+00",
+  "conditionId": "0x134bc0bb11dd106662b5d8412bbc404548891e34b6b019a1da19c26b23dda475",
+  "slug": "us-10y-treasury-yield-above-5-by-june-30",
+  "question": "US 10Y Treasury yield above 5% by June 30?"
+}

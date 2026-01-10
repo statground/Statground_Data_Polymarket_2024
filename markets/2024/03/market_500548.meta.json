@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500548",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-28T22:58:59.827800Z",
+  "market_createdAt": "2024-03-28T22:58:59.8278Z",
+  "market_updatedAt": "2024-11-07T19:13:10.905869Z",
+  "market_startDate": "2024-04-10T19:29:34.364Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:03:48+00",
+  "conditionId": "0x884fdfe1541124b457614d4d7372caebb4805f3d90e4b9387f0b6f34bea27662",
+  "slug": "congressional-district-1st-maine-will-a-republican-win",
+  "question": "Will a Republican win Maine's 1st congressional district?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T06:30:06.032869Z",
+  "market_createdAt": "2024-12-30T06:30:06.032869Z",
+  "market_updatedAt": "2025-05-01T16:20:34.046222Z",
+  "market_startDate": "2024-12-30T15:17:28.258Z",
+  "market_endDate": "2025-04-28T12:00:00Z",
+  "market_closedTime": "2025-04-30 11:29:47+00",
+  "conditionId": "0x244c75b2c6095b2e67699c10d0c6548d757d58a1ffea32ad6882c9a389803bd4",
+  "slug": "will-pierre-poilievre-be-the-next-canadian-prime-minister",
+  "question": "Will Pierre Poilievre be the next Canadian Prime Minister?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-13T20:08:11.612819Z",
+  "market_createdAt": "2024-08-13T20:08:11.612819Z",
+  "market_updatedAt": "2024-08-18T18:32:59.239035Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-17T12:00:00Z",
+  "market_closedTime": "2024-08-17 19:12:40+00",
+  "conditionId": "0xc08d1235c67ab3640846630870138d4f7bcff03a6a3f95b26692e0c1ec982f8e",
+  "slug": "will-newcastle-united-vs-southampton-end-in-a-draw",
+  "question": "Will Newcastle United vs. Southampton end in a draw?"
+}

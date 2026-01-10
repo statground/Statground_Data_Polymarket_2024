@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515841",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T17:17:07.297747Z",
+  "market_createdAt": "2024-12-17T17:17:07.297747Z",
+  "market_updatedAt": "2025-05-08T00:22:22.924437Z",
+  "market_startDate": "2024-12-18T15:11:10.806606Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-05-06 21:45:18+00",
+  "conditionId": "0xcda43b8984c7569551729a71eb35d204988dbd1f3a09641db33c2ef529968f72",
+  "slug": "will-the-cducsu-be-part-of-the-next-german-government",
+  "question": "Will the CDU/CSU be part of the next German government?"
+}

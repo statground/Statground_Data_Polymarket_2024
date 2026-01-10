@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:03:53.044050Z",
+  "market_createdAt": "2024-12-23T05:03:53.04405Z",
+  "market_updatedAt": "2024-12-29T22:10:50.529215Z",
+  "market_startDate": "2024-12-23T05:06:25.655526Z",
+  "market_endDate": "2025-01-04T17:00:00Z",
+  "market_closedTime": "2024-12-28 22:31:13+00",
+  "conditionId": "0x63d4328c4f6bbdc562120131ec4fcbacad66061cc8eb4907908fb49cb1159825",
+  "slug": "cfb-bc-neb-2024-12-28",
+  "question": "Boston College vs. Nebraska"
+}

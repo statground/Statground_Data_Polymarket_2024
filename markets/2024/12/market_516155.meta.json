@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:48:53.326853Z",
+  "market_createdAt": "2024-12-20T19:48:53.326853Z",
+  "market_updatedAt": "2024-12-23T20:11:37.012508Z",
+  "market_startDate": "2024-12-20T21:31:48.749837Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-22 22:53:40+00",
+  "conditionId": "0x03673ed21d20e142f88a04e0f5bdef16684bd54ff7ed9f3548503d555459632a",
+  "slug": "will-the-rams-beat-the-jets-by-3-or-more-points",
+  "question": "Will the Rams beat the Jets by 3 or more points?"
+}

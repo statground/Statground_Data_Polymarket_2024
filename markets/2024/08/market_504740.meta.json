@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504740",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-08T17:54:55.682854Z",
+  "market_createdAt": "2024-08-08T17:54:55.682854Z",
+  "market_updatedAt": "2024-12-09T20:57:27.050419Z",
+  "market_startDate": "2024-08-08T19:14:17.325Z",
+  "market_endDate": "2025-01-06T12:00:00Z",
+  "market_closedTime": "2024-12-09 00:28:03+00",
+  "conditionId": "0x60eb0290c9d1c641cd473a886118bd6c0dff842944267d44098b4c421ec4724c",
+  "slug": "will-the-dallas-cowboys-win-the-nfc-east",
+  "question": "Will the Dallas Cowboys win the NFC East?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506693",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T17:10:06.371405Z",
+  "market_createdAt": "2024-09-09T17:10:06.371405Z",
+  "market_updatedAt": "2024-09-15T15:57:05.980362Z",
+  "market_startDate": "2024-09-09T19:54:58.827843Z",
+  "market_endDate": "2024-09-14T12:00:00Z",
+  "market_closedTime": "2024-09-14 19:09:22+00",
+  "conditionId": "0x428022cc51dd8798b1adca13b855b15ee4097c2bd6d27f75fd7949fa6f759cb6",
+  "slug": "will-brighton-beat-ipswich-town",
+  "question": "Will Brighton beat Ipswich Town?"
+}

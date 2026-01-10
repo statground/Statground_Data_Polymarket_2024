@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T21:26:37.135000Z",
+  "market_createdAt": "2024-03-01T21:26:37.135Z",
+  "market_updatedAt": "2024-05-07T23:09:22.876849Z",
+  "market_startDate": "2024-03-01T22:15:00Z",
+  "market_endDate": "2024-03-03T00:00:00Z",
+  "market_closedTime": "2024-04-13 10:42:44+00",
+  "conditionId": "0x92b7766d144e1670924646a23c44ff314b804f253539cba5de53aa496b6e373c",
+  "slug": "will-steve-garvey-get-first-place-in-the-california-senate-primary",
+  "question": "Will Steve Garvey get first place in the California Senate Primary?"
+}

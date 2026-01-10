@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505521",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T14:46:10.333847Z",
+  "market_createdAt": "2024-08-21T14:46:10.333847Z",
+  "market_updatedAt": "2024-08-23T03:53:05.792965Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:21:16+00",
+  "conditionId": "0x22a8bc45cf5b08b37efc76cba25a6b62ba57ba5629b4c3aa26dc77cc725215fd",
+  "slug": "will-pelosi-say-democracy-at-dnc-speech",
+  "question": "Will Pelosi say \"Democracy\" at DNC speech?"
+}

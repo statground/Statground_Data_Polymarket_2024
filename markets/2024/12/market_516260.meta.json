@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516260",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:01:17.112840Z",
+  "market_createdAt": "2024-12-22T07:01:17.11284Z",
+  "market_updatedAt": "2024-12-24T02:08:06.263827Z",
+  "market_startDate": "2024-12-22T07:04:21.709493Z",
+  "market_endDate": "2024-12-29T22:00:00Z",
+  "market_closedTime": "2024-12-23 02:52:53+00",
+  "conditionId": "0x2b9758dcac0363ac92acef032919288108042dfdff35acff03b1c4a1000a0ba3",
+  "slug": "nhl-fla-tb-2024-12-22",
+  "question": "Panthers vs. Lightning"
+}

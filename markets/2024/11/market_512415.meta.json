@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512415",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:44:24.822818Z",
+  "market_createdAt": "2024-11-08T19:44:24.822818Z",
+  "market_updatedAt": "2024-11-10T23:28:47.566158Z",
+  "market_startDate": "2024-11-08T22:17:52.006Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:12:04+00",
+  "conditionId": "0xae3f4e70f38b66d122f7d6b1127fe2fcbf0f5d17e1b22559d2e7805f97b023bc",
+  "slug": "cfb-iowa-state-vs-kansas",
+  "question": "CFB: Iowa State vs. Kansas"
+}

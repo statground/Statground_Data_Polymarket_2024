@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503111",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T22:51:30.097158Z",
+  "market_createdAt": "2024-07-01T22:51:30.097158Z",
+  "market_updatedAt": "2024-07-03T00:15:46.203553Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-02 02:02:57+00",
+  "conditionId": "0x5a45598e09937b71a48a3e30ae0eaf901875e0819bd9af4bc306cce231e011b8",
+  "slug": "will-biden-say-alley-cat-during-his-speech",
+  "question": "Will Biden say \"Alley Cat\" during his speech?"
+}

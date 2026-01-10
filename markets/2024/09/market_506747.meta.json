@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506747",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:36:38.679705Z",
+  "market_createdAt": "2024-09-09T19:36:38.679705Z",
+  "market_updatedAt": "2025-04-29T00:22:32.484481Z",
+  "market_startDate": "2024-09-09T21:05:41.308318Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-04-27 21:38:48+00",
+  "conditionId": "0x405534c03f82e56a397478db7b068dbb683fb46c976265f650ba6510200749da",
+  "slug": "liverpool-wins-the-premier-league",
+  "question": "Liverpool wins the Premier League?"
+}

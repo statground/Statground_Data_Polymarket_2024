@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T22:32:25.660902Z",
+  "market_createdAt": "2024-10-09T22:32:25.660902Z",
+  "market_updatedAt": "2024-10-12T21:30:56.785723Z",
+  "market_startDate": "2024-10-10T21:53:24.28416Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:57:48+00",
+  "conditionId": "0x94fb056710f14e9ead6e650e71ee0ee486fca66b2ec0dc5311d8d5faf179058f",
+  "slug": "will-the-match-between-iceland-and-wales-end-in-a-draw",
+  "question": "Will the match between Iceland and Wales end in a draw?"
+}

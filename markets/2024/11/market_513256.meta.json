@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T22:07:41.529208Z",
+  "market_createdAt": "2024-11-15T22:07:41.529208Z",
+  "market_updatedAt": "2024-11-18T21:29:19.006496Z",
+  "market_startDate": "2024-11-15T23:26:21.44706Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-18 00:49:52+00",
+  "conditionId": "0x39b156a910a3c10bbfa47056f925db5b074db57525b5484f5425d746e62ec4b8",
+  "slug": "will-the-match-between-italy-and-france-end-in-a-draw-nov-17",
+  "question": "Will the match between Italy and France end in a draw?"
+}

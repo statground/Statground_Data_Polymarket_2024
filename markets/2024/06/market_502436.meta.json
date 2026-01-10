@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T15:23:02.862852Z",
+  "market_createdAt": "2024-06-14T15:23:02.862852Z",
+  "market_updatedAt": "2024-06-24T20:56:14.065838Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-24 00:16:27+00",
+  "conditionId": "0x3af61e7e56c6385314d3ea3d32e3b0748be22af7d87f496bc069531b4024a397",
+  "slug": "will-switzerland-win-group-a",
+  "question": "Will Switzerland win Group A?"
+}

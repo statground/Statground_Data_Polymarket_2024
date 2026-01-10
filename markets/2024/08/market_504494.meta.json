@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504494",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-02T19:36:17.448261Z",
+  "market_createdAt": "2024-08-02T19:36:17.448261Z",
+  "market_updatedAt": "2024-11-08T22:43:02.755458Z",
+  "market_startDate": "2024-08-02T19:36:17.448261Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 22:44:32+00",
+  "conditionId": "0x1fc1e5595adab4d8160b2fe72cfed61131e3d5e61b5c334160d1729d7380ab16",
+  "slug": "fed-increases-interest-rates-by-25-bps-after-november-2024-meeting",
+  "question": "Fed increases interest rates by 25+ bps after November 2024 meeting?"
+}

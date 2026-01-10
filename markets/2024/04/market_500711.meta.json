@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:30:43.674026Z",
+  "market_createdAt": "2024-04-04T17:30:43.674026Z",
+  "market_updatedAt": "2024-11-07T21:19:03.446477Z",
+  "market_startDate": "2024-04-12T19:17:06.124Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 00:10:55+00",
+  "conditionId": "0x39c61dcf31b932edce2e9129b1e1e6d5acf2da47a2c0f4647af4033e01e8283f",
+  "slug": "will-a-democrat-win-delaware-us-senate-election",
+  "question": "Will a Democrat win Delaware US Senate Election?"
+}

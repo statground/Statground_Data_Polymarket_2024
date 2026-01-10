@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:16:20.163552Z",
+  "market_createdAt": "2024-12-04T21:16:20.163552Z",
+  "market_updatedAt": "2024-12-09T22:01:21.413155Z",
+  "market_startDate": "2024-12-04T21:19:43.714316Z",
+  "market_endDate": "2024-12-15T18:00:00Z",
+  "market_closedTime": "2024-12-08 22:51:00+00",
+  "conditionId": "0x49253cb7246fdaa017204e54ad05ee6b5a36cb301bd2a2170c2c54a71c3b35ed",
+  "slug": "nhl-sea-nyr-2024-12-08",
+  "question": "Kraken vs. Rangers"
+}

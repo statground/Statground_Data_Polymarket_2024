@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500431",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-25T17:43:18.015985Z",
+  "market_createdAt": "2024-03-25T17:43:18.015985Z",
+  "market_updatedAt": "2024-05-07T23:09:52.039154Z",
+  "market_startDate": "2024-03-26T15:02:58.266Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:15:33+00",
+  "conditionId": "0x1b5dcedc8ed46bd1041e07bfe9b720569d235a640474de24d4ea4c80f05a6599",
+  "slug": "taylor-swift-x-kelce-split-before-may",
+  "question": "Taylor Swift + Travis Kelce break up before May?"
+}

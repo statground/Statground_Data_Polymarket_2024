@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512199",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:19:17.235746Z",
+  "market_createdAt": "2024-11-06T19:19:17.235746Z",
+  "market_updatedAt": "2024-11-15T22:49:17.311479Z",
+  "market_startDate": "2024-11-06T19:47:29.149Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:09:27+00",
+  "conditionId": "0x48a2115ad30089f76547b20c6c55d0291244290e522e9302639df8bd1461c129",
+  "slug": "will-trump-nominate-jeffrey-jensen-for-attorney-general",
+  "question": "Will Trump nominate Jeffrey Jensen for Attorney General?"
+}

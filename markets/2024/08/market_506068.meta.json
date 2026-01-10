@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506068",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:11:11.768362Z",
+  "market_createdAt": "2024-08-29T16:11:11.768362Z",
+  "market_updatedAt": "2024-09-02T18:47:00.400109Z",
+  "market_startDate": "2024-08-29T16:11:11.768362Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 23:58:30+00",
+  "conditionId": "0x5b2a63f2631ab2c68f78fc2b7d6a3be80ccc8eb39a8d46fdbd31dfb47f292728",
+  "slug": "will-hideki-matsuyama-win-the-tour-championship",
+  "question": "Will Hideki Matsuyama win the Tour Championship?"
+}

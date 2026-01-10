@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516655",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:01:33.399970Z",
+  "market_createdAt": "2024-12-29T07:01:33.39997Z",
+  "market_updatedAt": "2024-12-31T03:17:38.874208Z",
+  "market_startDate": "2024-12-29T07:04:06.834137Z",
+  "market_endDate": "2025-01-05T22:30:00Z",
+  "market_closedTime": "2024-12-30 03:21:20+00",
+  "conditionId": "0x115730e5957c25f2f0f7ec78247df97630d689ab5e3b9bb6807eebd8c58c114b",
+  "slug": "nhl-nyi-pit-2024-12-29",
+  "question": "Islanders vs. Penguins"
+}

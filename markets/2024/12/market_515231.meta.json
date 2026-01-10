@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T02:31:20.917108Z",
+  "market_createdAt": "2024-12-10T02:31:20.917108Z",
+  "market_updatedAt": "2024-12-17T02:37:23.518384Z",
+  "market_startDate": "2024-12-10T02:34:36.824682Z",
+  "market_endDate": "2024-12-22T21:25:00Z",
+  "market_closedTime": "2024-12-16 02:33:23+00",
+  "conditionId": "0x300b2aba414e34ab494165e4baa2c06b9476e1c61b0b2b397a3f1671bb23a259",
+  "slug": "nfl-pit-phi-2024-12-15",
+  "question": "Steelers vs. Eagles"
+}

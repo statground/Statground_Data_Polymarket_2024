@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T18:18:54.245898Z",
+  "market_createdAt": "2024-10-01T18:18:54.245898Z",
+  "market_updatedAt": "2024-10-06T15:22:43.87329Z",
+  "market_startDate": "2024-10-02T15:22:31.838231Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 19:11:55+00",
+  "conditionId": "0x2e5d8ef1844a80eb7bd67ed78d55fe91b8a35a4aa5f4bb3a9db69732f116ec8b",
+  "slug": "will-the-match-between-brentford-and-wolverhampton-end-in-a-draw",
+  "question": "Will the match between Brentford and Wolverhampton end in a draw?"
+}

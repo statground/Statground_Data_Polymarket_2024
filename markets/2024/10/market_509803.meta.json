@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T18:03:14.699764Z",
+  "market_createdAt": "2024-10-14T18:03:14.699764Z",
+  "market_updatedAt": "2024-10-17T03:10:43.785077Z",
+  "market_startDate": "2024-10-14T23:52:46.787Z",
+  "market_endDate": "2024-10-15T12:00:00Z",
+  "market_closedTime": "2024-10-16 03:25:36+00",
+  "conditionId": "0x66c405c8e3dc8bb42357b83aa3db250b6e3fa9d5b9ea8f84e2f5afc905abd50c",
+  "slug": "will-trump-say-inflation-5-or-more-times-during-georgia-speech-on-oct-15",
+  "question": "Will Trump say  \"inflation\" 5 or more times during Georgia speech on Oct 15?"
+}

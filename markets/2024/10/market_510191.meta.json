@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510191",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T20:38:32.501322Z",
+  "market_createdAt": "2024-10-18T20:38:32.501322Z",
+  "market_updatedAt": "2024-10-21T17:26:40.061972Z",
+  "market_startDate": "2024-10-18T23:23:56.983594Z",
+  "market_endDate": "2024-10-20T12:00:00Z",
+  "market_closedTime": "2024-10-20 18:27:52+00",
+  "conditionId": "0x4b00175fe34aa988a5483d7ff6a36ccd3ae34bb0167ff97cc987253739607bc4",
+  "slug": "will-the-jaguars-beat-the-patriots-by-6-or-more-points",
+  "question": "Will the Jaguars beat the Patriots by 6 or more points?"
+}

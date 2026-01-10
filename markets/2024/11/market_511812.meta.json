@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511812",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T20:56:36.668391Z",
+  "market_createdAt": "2024-11-02T20:56:36.668391Z",
+  "market_updatedAt": "2024-11-05T04:11:12.541719Z",
+  "market_startDate": "2024-11-02T23:22:26.715Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 04:50:19+00",
+  "conditionId": "0x57b8d1f1fe31ea0e453da5be3975d43801423e7067ce7d463e4d2de2d8d1b843",
+  "slug": "will-trump-say-china-10-or-more-times-during-macon-ga-rally",
+  "question": "Will Trump say \"China\" 10 or more times during Macon, GA rally?"
+}

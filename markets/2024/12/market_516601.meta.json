@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T05:04:03.325814Z",
+  "market_createdAt": "2024-12-29T05:04:03.325814Z",
+  "market_updatedAt": "2025-01-02T08:17:03.420518Z",
+  "market_startDate": "2024-12-29T05:06:30.342962Z",
+  "market_endDate": "2025-01-08T02:00:00Z",
+  "market_closedTime": "2025-01-01 08:18:02+00",
+  "conditionId": "0x2004ee2717a6e3be91772eafdb7af0051b5a34c6044e17051904d5b955a6e927",
+  "slug": "nba-mem-phx-2024-12-31",
+  "question": "Grizzlies vs. Suns"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:58:14.473000Z",
+  "market_createdAt": "2024-03-01T18:58:14.473Z",
+  "market_updatedAt": "2024-11-07T10:49:05.740101Z",
+  "market_startDate": "2024-03-28T20:44:59.643Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 12:35:02+00",
+  "conditionId": "0x4c7d2c53e508fdd3a615064ae680e7d8cd22596599d880b0faf8368831314d53",
+  "slug": "will-a-candidate-from-another-party-win-mississippi-presidential-election",
+  "question": "Will a candidate from another party win Mississippi Presidential Election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:47:32.202818Z",
+  "market_createdAt": "2024-07-18T21:47:32.202818Z",
+  "market_updatedAt": "2024-08-08T19:22:56.758249Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-07T12:00:00Z",
+  "market_closedTime": "2024-08-07 23:12:24+00",
+  "conditionId": "0x50689f3f8f3273a4ebbc6e1740b85bc723ee0663f601d9490ceab032f936cb79",
+  "slug": "will-alex-rose-sam-win-gold-in-discus",
+  "question": "Will Alex Rose (SAM) win Gold in Discus?"
+}

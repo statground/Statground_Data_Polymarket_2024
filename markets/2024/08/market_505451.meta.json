@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505451",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:45:39.162941Z",
+  "market_createdAt": "2024-08-20T19:45:39.162941Z",
+  "market_updatedAt": "2024-08-22T20:53:04.003878Z",
+  "market_startDate": "2024-08-20T20:37:34.843Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:32:49+00",
+  "conditionId": "0x9d91b92785f0ddb1bf6033ff2ac6de97a70ee44abe19782e1e5dd967af7fc4cd",
+  "slug": "will-trump-say-zelensky-during-wednesday-speech",
+  "question": "Will Trump say \"Zelensky\" during Wednesday speech?"
+}

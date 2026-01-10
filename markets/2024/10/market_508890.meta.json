@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:25:31.743592Z",
+  "market_createdAt": "2024-10-04T16:25:31.743592Z",
+  "market_updatedAt": "2024-10-06T17:36:46.603759Z",
+  "market_startDate": "2024-10-04T18:33:09.444624Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 00:03:28+00",
+  "conditionId": "0x63a7ff3ac68b7c2195afc9f09292f09b3a1f779a09e14096c57663d30dbe5e68",
+  "slug": "will-indiana-and-northwestern-combine-for-42-or-more-points",
+  "question": "Will Indiana and Northwestern combine for 42 or more points?"
+}

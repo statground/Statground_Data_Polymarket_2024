@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502192",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-07T13:49:31.102939Z",
+  "market_createdAt": "2024-06-07T13:49:31.102939Z",
+  "market_updatedAt": "2024-06-09T06:06:11.849271Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-08 06:12:48+00",
+  "conditionId": "0x1124807f9fa76b09255a6b681bfa8b1346d601ca8c276eed2883d666e9ada34b",
+  "slug": "will-andrew-tate-buy-another-crypto-today",
+  "question": "Will Andrew Tate buy another crypto today?"
+}

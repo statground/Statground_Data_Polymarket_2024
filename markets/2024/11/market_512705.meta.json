@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:09:08.878850Z",
+  "market_createdAt": "2024-11-11T18:09:08.87885Z",
+  "market_updatedAt": "2024-11-17T05:11:16.000591Z",
+  "market_startDate": "2024-11-11T18:11:42.748823Z",
+  "market_endDate": "2024-11-23T01:00:00Z",
+  "market_closedTime": "2024-11-16 05:32:38+00",
+  "conditionId": "0xab7cb860a35bca0fc66515173e72ab642ad4bda0b0e5bb193d463a9747fe62de",
+  "slug": "nba-phx-okc-2024-11-15",
+  "question": "Suns vs. Thunder"
+}

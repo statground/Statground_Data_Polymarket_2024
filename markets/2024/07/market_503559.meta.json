@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503559",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:20:25.789255Z",
+  "market_createdAt": "2024-07-16T16:20:25.789255Z",
+  "market_updatedAt": "2024-07-20T03:30:39.552359Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:40+00",
+  "conditionId": "0x76a022fde364d3c84c2a88c999470b31cecfd57c6c73b0552fd30fc4b81bcf33",
+  "slug": "will-cameron-smith-win-the-british-open",
+  "question": "Will Cameron Smith win the British Open?"
+}

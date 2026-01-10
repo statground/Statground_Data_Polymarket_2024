@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512137",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T22:06:43.556961Z",
+  "market_createdAt": "2024-11-05T22:06:43.556961Z",
+  "market_updatedAt": "2024-11-08T22:02:56.282329Z",
+  "market_startDate": "2024-11-07T03:09:43.016301Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-08 01:16:25+00",
+  "conditionId": "0x72a4a86dc176e267f7edcb29d802f9890590a9427f1669147a9f0685960be3e1",
+  "slug": "will-the-match-between-lazio-and-porto-end-in-a-draw",
+  "question": "Will the match between Lazio and Porto end in a draw?"
+}

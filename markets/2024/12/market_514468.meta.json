@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514468",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T20:08:37.974116Z",
+  "market_createdAt": "2024-12-02T20:08:37.974116Z",
+  "market_updatedAt": "2024-12-05T16:49:37.884289Z",
+  "market_startDate": "2024-12-02T21:16:48.045585Z",
+  "market_endDate": "2024-12-04T12:00:00Z",
+  "market_closedTime": "2024-12-04 16:50:13+00",
+  "conditionId": "0x6081a60cf6ff01a6f341b5b2049c7f8d5d9d10b7ac9304631df743ff3241de72",
+  "slug": "will-game-8-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 8 of the World Chess Championship end in a draw?"
+}

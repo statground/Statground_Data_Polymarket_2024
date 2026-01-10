@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513599",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:08:21.055011Z",
+  "market_createdAt": "2024-11-20T22:08:21.055011Z",
+  "market_updatedAt": "2025-04-20T00:26:36.132823Z",
+  "market_startDate": "2024-11-20T22:37:43.388Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 20:58:09+00",
+  "conditionId": "0x3dd328003f309c77e05dd99130ff396fce3f97bcb721163b33bfae1f5877e389",
+  "slug": "will-jake-paul-fight-jorge-masvidal-next",
+  "question": "Will Jake Paul fight Jorge Masvidal next?"
+}

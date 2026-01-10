@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510149",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T17:25:21.658333Z",
+  "market_createdAt": "2024-10-18T17:25:21.658333Z",
+  "market_updatedAt": "2024-10-20T22:30:48.630743Z",
+  "market_startDate": "2024-10-18T23:12:58.88059Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-20 01:32:19+00",
+  "conditionId": "0xd28d4ebb129c69f251ecbba42bda4ff1d8a15e85077573ac293d8773ff7e1ddf",
+  "slug": "will-arizona-beat-colorado",
+  "question": "Will Arizona beat Colorado?"
+}

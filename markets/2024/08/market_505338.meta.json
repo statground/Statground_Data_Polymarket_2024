@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505338",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:57:41.855679Z",
+  "market_createdAt": "2024-08-19T16:57:41.855679Z",
+  "market_updatedAt": "2024-09-05T02:21:06.58557Z",
+  "market_startDate": "2024-08-19T16:57:41.855679Z",
+  "market_endDate": "2024-09-07T12:00:00Z",
+  "market_closedTime": "2024-09-04 03:39:06+00",
+  "conditionId": "0x55e8b9f622ab1ccdf91a72dac953702cd98a730b3e846b408cb3e2480964fc7b",
+  "slug": "will-qinwen-zheng-win-the-us-open",
+  "question": "Will Qinwen Zheng win the US Open?"
+}

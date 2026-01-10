@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504007",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-22T19:31:24.763942Z",
+  "market_createdAt": "2024-07-22T19:31:24.763942Z",
+  "market_updatedAt": "2024-08-02T17:13:05.259536Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-08-01 06:13:44+00",
+  "conditionId": "0x3902eeca9450fde00c3ee5aeceba6b932db642c551e3ea09b2de4451c8e3473b",
+  "slug": "kamala-announces-vp-pick-in-july",
+  "question": "Kamala announces VP pick in July?"
+}

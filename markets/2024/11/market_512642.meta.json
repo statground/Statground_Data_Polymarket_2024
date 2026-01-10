@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512642",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-09T20:48:16.570398Z",
+  "market_createdAt": "2024-11-09T20:48:16.570398Z",
+  "market_updatedAt": "2025-01-24T00:07:29.426509Z",
+  "market_startDate": "2024-11-12T00:20:10.228465Z",
+  "market_endDate": "2025-04-29T12:00:00Z",
+  "market_closedTime": "2025-01-23 00:05:54+00",
+  "conditionId": "0x06f04f9b85b837e074369079ab1c8a27d600584a9f8cca12f8595995e8ebc6aa",
+  "slug": "will-trump-withdraw-from-paris-climate-agreement-in-first-100-days",
+  "question": "Will Trump withdraw from Paris climate agreement in first 100 days?"
+}

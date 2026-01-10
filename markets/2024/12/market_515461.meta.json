@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515461",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T22:51:56.298709Z",
+  "market_createdAt": "2024-12-11T22:51:56.298709Z",
+  "market_updatedAt": "2025-07-03T00:26:45.628105Z",
+  "market_startDate": "2024-12-12T00:30:54.424Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 23:57:19+00",
+  "conditionId": "0x23e730eca8e579958f37504f006dd5e02d5d2dd26225f75cde5d2e52be954f46",
+  "slug": "no-trump-announcement-of-next-fed-chair-by-june-30",
+  "question": "No Trump announcement of next Fed Chair by June 30?"
+}

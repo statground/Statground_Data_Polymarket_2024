@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503273",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-08T16:01:22.749682Z",
+  "market_createdAt": "2024-07-08T16:01:22.749682Z",
+  "market_updatedAt": "2024-07-15T17:46:53.919149Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 00:41:52+00",
+  "conditionId": "0x8ef98e40dfbe0faf36fc9e879b872c4d1de61409d4c1c8017cbe9bcc2a8d2d33",
+  "slug": "will-fabian-ruiz-be-player-of-the-tournament-for-euro-2024",
+  "question": "Will Fabian Ruiz be Player of the Tournament for Euro 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506743",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T19:33:35.897468Z",
+  "market_createdAt": "2024-09-09T19:33:35.897468Z",
+  "market_updatedAt": "2025-01-26T19:47:13.547635Z",
+  "market_startDate": "2024-09-09T21:03:57.218524Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-01-25 20:46:29+00",
+  "conditionId": "0x0c0fbd8b82167afa7d8549d04d9e8f7accb3ae0e93395935ca7c2c03977f4760",
+  "slug": "southampton-wins-the-premier-league",
+  "question": "Southampton wins the Premier League?"
+}

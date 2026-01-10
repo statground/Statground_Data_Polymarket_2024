@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T00:06:01.273000Z",
+  "market_createdAt": "2024-02-27T00:06:01.273Z",
+  "market_updatedAt": "2024-03-06T18:10:28.175Z",
+  "market_startDate": "2024-02-27T18:28:00Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-03-05 19:34:13+00",
+  "conditionId": "0x6874f3bbffd0ff156b09768d1e1a5bdfaac48a7aaee9fbe1e883dccdc5f3d68d",
+  "slug": "bitcoin-all-time-high-in-q4-2024",
+  "question": "Bitcoin all time high in Q4?"
+}

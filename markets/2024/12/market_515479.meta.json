@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:46:11.146880Z",
+  "market_createdAt": "2024-12-11T23:46:11.14688Z",
+  "market_updatedAt": "2024-12-16T05:09:25.498839Z",
+  "market_startDate": "2024-12-13T23:10:31.212018Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:14:59+00",
+  "conditionId": "0x0bdfdc0d6ad2bc4d48bd82af374bc544c9a7b7aa252018af1ff8f265fbc28164",
+  "slug": "johnson-vs-azaitar",
+  "question": "Johnson vs. Azaitar"
+}

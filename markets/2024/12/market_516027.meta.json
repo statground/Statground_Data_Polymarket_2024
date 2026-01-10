@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516027",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T21:02:14.845391Z",
+  "market_createdAt": "2024-12-18T21:02:14.845391Z",
+  "market_updatedAt": "2025-01-01T21:23:30.247005Z",
+  "market_startDate": "2024-12-18T21:06:09.616564Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:40:35+00",
+  "conditionId": "0x88073c3a348b590749b2159784b644890ed6003cb6c69d7697236015c5ba44b3",
+  "slug": "nyse-marketwide-circuit-breaker-before-2025",
+  "question": "NYSE marketwide circuit breaker before 2025?"
+}

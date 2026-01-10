@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513109",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T15:31:35.640664Z",
+  "market_createdAt": "2024-11-15T15:31:35.640664Z",
+  "market_updatedAt": "2024-11-17T07:39:15.62205Z",
+  "market_startDate": "2024-11-15T15:58:15.217001Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 07:44:19+00",
+  "conditionId": "0x5cdfa97a139c254b09a6038056a1ac6603c2002b8903d395a94748e60855d34e",
+  "slug": "mike-tyson-bites-jake-pauls-ear",
+  "question": "Mike Tyson bites Jake Paul's ear?"
+}

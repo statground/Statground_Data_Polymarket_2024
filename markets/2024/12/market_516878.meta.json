@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516878",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T21:11:24.320452Z",
+  "market_createdAt": "2024-12-30T21:11:24.320452Z",
+  "market_updatedAt": "2026-01-04T22:41:48.355321Z",
+  "market_startDate": "2024-12-30T22:07:47.006Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2026-01-01 07:18:23+00",
+  "conditionId": "0xeeb92ddd77d671d1f9ea1f5727208d1fa91896a6d1f657fdcd7c9d578fe5c46c",
+  "slug": "will-ethereum-hit-5000-by-december-31-796-376",
+  "question": "Will Ethereum hit $5,000 by December 31?"
+}

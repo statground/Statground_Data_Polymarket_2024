@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510910",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T15:19:37.126500Z",
+  "market_createdAt": "2024-10-25T15:19:37.1265Z",
+  "market_updatedAt": "2024-12-04T19:59:05.038072Z",
+  "market_startDate": "2024-10-25T19:55:45.231742Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-03 21:37:09+00",
+  "conditionId": "0xaec0b0084cb27efbe4b2cdb5caaec45a31f34a8bb18cfaab646a1d888e1e8d04",
+  "slug": "will-trump-win-ohio-by-12-points",
+  "question": "Will Trump win Ohio by 12+ points?"
+}

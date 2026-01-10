@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505381",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:36:50.078707Z",
+  "market_createdAt": "2024-08-19T19:36:50.078707Z",
+  "market_updatedAt": "2024-08-26T04:10:54.607587Z",
+  "market_startDate": "2024-08-24T12:00:00Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-25 04:37:20+00",
+  "conditionId": "0x89ec43443f68e7c9272dc64350883bf164522e50bb83784399bc899388cb656d",
+  "slug": "nfl-nyj-nyg-2024-08-24",
+  "question": "Jets vs. Giants"
+}

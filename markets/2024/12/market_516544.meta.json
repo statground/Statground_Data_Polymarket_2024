@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516544",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T20:16:28.335845Z",
+  "market_createdAt": "2024-12-27T20:16:28.335845Z",
+  "market_updatedAt": "2024-12-29T08:20:11.399536Z",
+  "market_startDate": "2024-12-27T21:32:51.506161Z",
+  "market_endDate": "2024-12-28T12:00:00Z",
+  "market_closedTime": "2024-12-29 04:22:48+00",
+  "conditionId": "0xdc226c162ef37ba80a24f6b6f9506d3c0b48fb3fa53a8228947504bb3cb443ce",
+  "slug": "will-nc-state-and-ecu-combine-for-60-or-more-points",
+  "question": "Will NC State and ECU combine for 60 or more points?"
+}

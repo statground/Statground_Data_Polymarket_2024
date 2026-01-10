@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T17:04:21.193319Z",
+  "market_createdAt": "2024-04-18T17:04:21.193319Z",
+  "market_updatedAt": "2024-06-06T02:16:11.580855Z",
+  "market_startDate": "2024-04-18T22:09:41.065Z",
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-05 13:21:02+00",
+  "conditionId": "0x0e32fd85a870d09ee702b15a21edb4492f24bf1b65aca3a2007a22d2ae081d56",
+  "slug": "will-the-nda-win-more-than-400-seats",
+  "question": "Will the NDA win more than 400 seats?"
+}

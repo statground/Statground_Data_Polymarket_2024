@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508938",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T17:28:04.965102Z",
+  "market_createdAt": "2024-10-04T17:28:04.965102Z",
+  "market_updatedAt": "2024-10-06T05:51:39.279368Z",
+  "market_startDate": "2024-10-04T18:41:30.791205Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:48:51+00",
+  "conditionId": "0x4934d98a72b6e40c147cd104ca6ff79794454d080e61e27b761db3c86bfdfbdd",
+  "slug": "will-arizona-state-beat-kansas-by-3-or-more-points",
+  "question": "Will Arizona State beat Kansas by 3 or more points?"
+}

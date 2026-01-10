@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502658",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T22:06:36.942208Z",
+  "market_createdAt": "2024-06-19T22:06:36.942208Z",
+  "market_updatedAt": "2024-06-29T07:11:04.150853Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 07:23:07+00",
+  "conditionId": "0x83e721e12e2c85daedaedb7c6cb1e795b0feb33899e00676c821550fe7bdda66",
+  "slug": "will-biden-say-cornpop-during-the-debate",
+  "question": "Will Biden say \"Cornpop\" during the debate?"
+}

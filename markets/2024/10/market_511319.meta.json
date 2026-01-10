@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T17:41:53.687389Z",
+  "market_createdAt": "2024-10-29T17:41:53.687389Z",
+  "market_updatedAt": "2024-11-10T08:48:48.470409Z",
+  "market_startDate": "2024-10-29T22:55:33.126Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 09:51:24+00",
+  "conditionId": "0xb51e77945ee4d28fca06a2a7ace09103b5e80b9d6ac66fc62d7c3037671666c3",
+  "slug": "trump-wins-az-ga-mi-pa-wi-nc-306-evs",
+  "question": "Trump wins 306-232 - AZ, GA, MI, PA, WI, NC "
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:16:04.949996Z",
+  "market_createdAt": "2024-11-14T21:16:04.949996Z",
+  "market_updatedAt": "2024-11-16T21:42:57.410084Z",
+  "market_startDate": "2024-11-14T22:50:10.342946Z",
+  "market_endDate": "2024-11-15T12:00:00Z",
+  "market_closedTime": "2024-11-16 00:58:27+00",
+  "conditionId": "0xa7c10a6ff7faa2e2c94385173d5eadc352d22c4cb0e042a3addeb29c74ee984a",
+  "slug": "will-switzerland-beat-serbia",
+  "question": "Will Switzerland beat Serbia?"
+}

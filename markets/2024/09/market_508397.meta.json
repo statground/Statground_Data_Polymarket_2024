@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T16:30:44.717385Z",
+  "market_createdAt": "2024-09-30T16:30:44.717385Z",
+  "market_updatedAt": "2024-10-03T09:06:40.52574Z",
+  "market_startDate": "2024-09-30T16:48:33.638Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 09:07:10+00",
+  "conditionId": "0x6393d66f735c58756991e486b8b7aad2f372382161560eb37da4a92f01f77792",
+  "slug": "will-tim-walz-say-trump-30-or-more-times-during-the-debate",
+  "question": "Will Tim Walz say \"Trump\" 30 or more times during the debate?"
+}

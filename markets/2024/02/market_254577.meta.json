@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T19:37:12.662000Z",
+  "market_createdAt": "2024-02-21T19:37:12.662Z",
+  "market_updatedAt": "2024-12-19T22:31:20.634643Z",
+  "market_startDate": "2024-03-21T16:44:19.282Z",
+  "market_endDate": "2024-12-30T12:00:00Z",
+  "market_closedTime": "2024-12-18 22:30:02+00",
+  "conditionId": "0x260fd9d6b10746909a26c2af7a68b409f757c95a07dc57ddd480774a36c8399b",
+  "slug": "will-fed-cut-interest-rates-3-times-by-dec-meeting",
+  "question": "Will Fed cut interest rates 3 times in 2024?"
+}

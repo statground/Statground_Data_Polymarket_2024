@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513773",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:01:37.698435Z",
+  "market_createdAt": "2024-11-24T05:01:37.698435Z",
+  "market_updatedAt": "2024-11-30T22:17:13.746813Z",
+  "market_startDate": "2024-11-24T05:04:12.357771Z",
+  "market_endDate": "2024-12-06T17:00:00Z",
+  "market_closedTime": "2024-11-29 22:36:15+00",
+  "conditionId": "0x528f0c798c848465413d5c1e12b087f9599b6629e38b6b8ba0f1c45dd368cd12",
+  "slug": "cfb-navy-ecu-2024-11-29",
+  "question": "Navy vs. East Carolina"
+}

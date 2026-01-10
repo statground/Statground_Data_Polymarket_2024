@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508229",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T17:48:34.198399Z",
+  "market_createdAt": "2024-09-26T17:48:34.198399Z",
+  "market_updatedAt": "2024-09-29T00:22:39.986586Z",
+  "market_startDate": "2024-09-27T15:52:23.326487Z",
+  "market_endDate": "2024-09-27T12:00:00Z",
+  "market_closedTime": "2024-09-28 05:49:59+00",
+  "conditionId": "0xf693e1703efb3503054441423590b98ca02455ddba2608f826d897a634e80c01",
+  "slug": "will-rutgers-beat-washington-by-3-or-more-points",
+  "question": "Will Rutgers beat Washington by 3 or more points?"
+}

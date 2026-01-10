@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-25T19:44:35.751000Z",
+  "market_createdAt": "2024-01-25T19:44:35.751Z",
+  "market_updatedAt": "2024-03-12T03:14:03.443Z",
+  "market_startDate": "2024-01-25T21:03:00Z",
+  "market_endDate": "2024-03-08T00:00:00Z",
+  "market_closedTime": "2024-03-11 04:00:17+00",
+  "conditionId": "0x0299283786ad9e86b99fb1e3042cfc872b8a6f366814b2fb47c5e331dbfd48ae",
+  "slug": "will-robert-de-niro-win-the-oscar-for-best-supporting-actor",
+  "question": "Will Robert De Niro win the Oscar for Best Supporting Actor?"
+}

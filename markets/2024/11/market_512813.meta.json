@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512813",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T01:09:10.584783Z",
+  "market_createdAt": "2024-11-12T01:09:10.584783Z",
+  "market_updatedAt": "2024-12-04T23:21:53.399106Z",
+  "market_startDate": "2024-11-12T16:18:56.952Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:14:44+00",
+  "conditionId": "0x74739a425dc26565ff1065f72f13afccde89086e7016589ebf970571f0607978",
+  "slug": "will-sinn-fein-win-the-most-seats-in-the-2024-irish-general-election",
+  "question": "Will Sinn Féin win the most seats in the 2024 Irish general election?"
+}

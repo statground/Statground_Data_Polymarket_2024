@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516561",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T21:21:33.870107Z",
+  "market_createdAt": "2024-12-27T21:21:33.870107Z",
+  "market_updatedAt": "2024-12-30T13:19:41.057452Z",
+  "market_startDate": "2024-12-27T22:13:13.835786Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-12-29 23:05:59+00",
+  "conditionId": "0xc5aa38d526b1cff0e202dd2b5e4ecdbc698cfe46f27a50222406357ab1d7713c",
+  "slug": "will-the-eagles-beat-the-cowboys-by-8-or-more-points",
+  "question": "Will the Eagles beat the Cowboys by 8 or more points?"
+}

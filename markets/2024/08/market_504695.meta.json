@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504695",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:07:22.070609Z",
+  "market_createdAt": "2024-08-07T21:07:22.070609Z",
+  "market_updatedAt": "2024-08-24T03:22:57.257259Z",
+  "market_startDate": "2024-08-09T20:39:03.13Z",
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-23 05:53:50+00",
+  "conditionId": "0x49b6c3efb4233ebacf5e3b54686c2cbfc1dc96bceb318ad74e2dc28940783578",
+  "slug": "will-lebron-james-speak-at-the-dnc",
+  "question": "Will Lebron James speak at the DNC?"
+}

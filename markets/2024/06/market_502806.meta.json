@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502806",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T17:03:06.354811Z",
+  "market_createdAt": "2024-06-24T17:03:06.354811Z",
+  "market_updatedAt": "2024-11-22T09:30:50.46145Z",
+  "market_startDate": "2024-06-24T17:03:06.354811Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-11-21 09:57:58+00",
+  "conditionId": "0xa8f9da1409ba89bfa4a40dbd3bced4a65dfb3090e3c5c7cf80a56964e5eeb7e9",
+  "slug": "will-charles-leclerc-win-the-2024-f1-season",
+  "question": "Will Charles Leclerc win the 2024 F1 season?"
+}

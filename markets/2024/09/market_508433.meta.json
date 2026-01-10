@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508433",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:16:35.219641Z",
+  "market_createdAt": "2024-09-30T19:16:35.219641Z",
+  "market_updatedAt": "2024-10-02T18:20:56.325313Z",
+  "market_startDate": "2024-09-30T22:20:52.130693Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 22:04:20+00",
+  "conditionId": "0x8b6d5e67f63edaea0e47161e45baefa047e9eb714aabc08df0a686d0c004fa97",
+  "slug": "will-the-match-between-rb-salzburg-and-stade-brestois-end-in-a-draw",
+  "question": "Will the match between RB Salzburg and Stade Brestois end in a draw?"
+}

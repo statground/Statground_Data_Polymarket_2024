@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:55:02.136613Z",
+  "market_createdAt": "2024-12-10T22:55:02.136613Z",
+  "market_updatedAt": "2024-12-12T06:59:06.088816Z",
+  "market_startDate": "2024-12-11T00:20:24.901Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 07:16:02+00",
+  "conditionId": "0x6bc2b21c5a7a649e312597cc05a3f4338b9069405025cf42d57b323fa2d0319e",
+  "slug": "will-jersey-jerry-complete-the-immaculate-inning-challenge",
+  "question": "Will Jersey Jerry complete the Immaculate Inning Challenge?"
+}

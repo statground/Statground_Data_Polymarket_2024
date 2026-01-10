@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506403",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T18:45:02.839577Z",
+  "market_createdAt": "2024-09-04T18:45:02.839577Z",
+  "market_updatedAt": "2024-10-02T07:16:52.94879Z",
+  "market_startDate": "2024-09-04T20:09:02.844787Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 07:22:46+00",
+  "conditionId": "0x111752b97fb2b38eaa15dfb048e9a4e51cc3282bf281f43b5a9bf31f621174a8",
+  "slug": "walzs-brother-at-trump-rally-in-september",
+  "question": "Walz's brother attends Trump rally in September?"
+}

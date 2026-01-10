@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513194",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T19:32:54.250807Z",
+  "market_createdAt": "2024-11-15T19:32:54.250807Z",
+  "market_updatedAt": "2024-11-18T03:21:06.516793Z",
+  "market_startDate": "2024-11-15T22:16:10.517053Z",
+  "market_endDate": "2024-11-17T12:00:00Z",
+  "market_closedTime": "2024-11-17 09:08:00+00",
+  "conditionId": "0x1cbb9638fc22f52f0eda0634e647be800d32058305d4e114204c93fc2c1bdd7b",
+  "slug": "will-unlv-beat-san-diego-state-by-21-or-more-points",
+  "question": "Will UNLV beat San Diego State by 21 or more points?"
+}

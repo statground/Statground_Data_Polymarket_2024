@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511313",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T17:16:22.167315Z",
+  "market_createdAt": "2024-10-29T17:16:22.167315Z",
+  "market_updatedAt": "2024-12-06T19:47:22.862171Z",
+  "market_startDate": "2024-10-30T01:35:59.857838Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-05 21:54:10+00",
+  "conditionId": "0xe8331e50e19c7bef939c79668285baac1d50bf7ba7d7be4301640d72dcc65bae",
+  "slug": "will-trump-win-missouri-by-20-points",
+  "question": "Will Trump win Missouri by 20+ points?"
+}

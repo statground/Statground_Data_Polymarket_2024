@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T14:30:19.527034Z",
+  "market_createdAt": "2024-06-04T14:30:19.527034Z",
+  "market_updatedAt": "2024-06-16T04:36:11.784062Z",
+  "market_startDate": "2024-06-04T15:56:41.906Z",
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-15 06:23:25+00",
+  "conditionId": "0xf58869505d8daf39296c96bb94609c84ef94cd60cc6c3ffc860439c124d0dfd3",
+  "slug": "will-the-celtics-win-4-0",
+  "question": "Will the Celtics win the 2024 NBA Finals 4-0?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T16:36:18.973000Z",
+  "market_createdAt": "2024-01-31T16:36:18.973Z",
+  "market_updatedAt": "2025-01-02T08:13:04.869654Z",
+  "market_startDate": "2024-01-31T16:55:00Z",
+  "market_endDate": "2024-12-29T00:00:00Z",
+  "market_closedTime": "2025-01-01 08:28:14+00",
+  "conditionId": "0xcd30346281d728bb08a85f4e36adccdd3c443300fa74aaefc7a4ee83744b4f49",
+  "slug": "will-ftx-payouts-start-in-q4-2024",
+  "question": "Will FTX payouts start in Q4 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255372",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T18:03:12.775000Z",
+  "market_createdAt": "2024-03-08T18:03:12.775Z",
+  "market_updatedAt": "2024-11-07T17:59:00.077138Z",
+  "market_startDate": "2024-05-08T21:52:58.828Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-07 04:09:06+00",
+  "conditionId": "0x48fc13bd00c0fb187c1c3446bcc09bc3b943d5260ca755618c8bc7c97d6aee94",
+  "slug": "will-a-candidate-from-another-party-win-montana-governor-election",
+  "question": "Will a candidate from another party win Montana Governor Election?"
+}

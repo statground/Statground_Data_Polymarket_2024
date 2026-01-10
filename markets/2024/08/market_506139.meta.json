@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506139",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-30T17:08:40.671416Z",
+  "market_createdAt": "2024-08-30T17:08:40.671416Z",
+  "market_updatedAt": "2024-09-07T16:03:04.355595Z",
+  "market_startDate": "2024-08-30T17:08:40.671416Z",
+  "market_endDate": "2024-09-06T12:00:00Z",
+  "market_closedTime": "2024-09-06 18:12:38+00",
+  "conditionId": "0xbeafe53ccaae387a05ec6daa67fb51df6e0b97947d7bde8cf6e13e934636cc14",
+  "slug": "solana-above-140-on-september-6",
+  "question": "Solana above $140 on September 6?"
+}

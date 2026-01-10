@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510698",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:27:12.497166Z",
+  "market_createdAt": "2024-10-23T15:27:12.497166Z",
+  "market_updatedAt": "2024-10-27T05:26:54.885019Z",
+  "market_startDate": "2024-10-23T17:42:56.386Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:21:35+00",
+  "conditionId": "0xbcb1e3631f7dcbc56a9fef4274949801d4eca7fb70cd2382b3c1a750e5ca03dc",
+  "slug": "will-trump-say-fake-news-on-the-joe-rogan-experience",
+  "question": "Will Trump say \"fake news\" on The Joe Rogan Experience?"
+}

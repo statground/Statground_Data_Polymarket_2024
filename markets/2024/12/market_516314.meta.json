@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T06:01:11.476559Z",
+  "market_createdAt": "2024-12-23T06:01:11.476559Z",
+  "market_updatedAt": "2025-01-01T06:23:35.616193Z",
+  "market_startDate": "2024-12-23T06:03:42.80046Z",
+  "market_endDate": "2025-01-07T01:15:00Z",
+  "market_closedTime": "2024-12-31 06:22:38+00",
+  "conditionId": "0xce908f140145b3d28abe31e0ad189be3031248aec1ceb057266f6f5c143be097",
+  "slug": "nfl-det-sf-2024-12-30",
+  "question": "Lions vs. 49ers"
+}

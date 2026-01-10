@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505857",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:17:32.859188Z",
+  "market_createdAt": "2024-08-26T20:17:32.859188Z",
+  "market_updatedAt": "2024-09-11T04:43:09.682799Z",
+  "market_startDate": "2024-09-09T12:00:00Z",
+  "market_endDate": "2024-09-09T12:00:00Z",
+  "market_closedTime": "2024-09-10 05:24:38+00",
+  "conditionId": "0x5906417c5adbafee37c4ecbb89a5ec860930a135d42a9f18ad1163ed7b08539a",
+  "slug": "nfl-sf-nyj-2024-09-09",
+  "question": "49ers vs. Jets"
+}

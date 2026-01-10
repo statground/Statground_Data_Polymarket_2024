@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T05:02:29.580950Z",
+  "market_createdAt": "2024-11-18T05:02:29.58095Z",
+  "market_updatedAt": "2024-11-25T21:35:49.800697Z",
+  "market_startDate": "2024-11-18T05:04:56.353776Z",
+  "market_endDate": "2024-12-01T18:00:00Z",
+  "market_closedTime": "2024-11-24 23:16:16+00",
+  "conditionId": "0xc07162cfd56c10b3803e7dc3d1b41e3d78dc2e22f172a374921c2d3870b42e4f",
+  "slug": "nfl-ne-mia-2024-11-24",
+  "question": "Patriots vs. Dolphins"
+}

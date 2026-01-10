@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516181",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T21:20:42.113654Z",
+  "market_createdAt": "2024-12-20T21:20:42.113654Z",
+  "market_updatedAt": "2024-12-23T06:19:34.781889Z",
+  "market_startDate": "2024-12-20T21:56:53.440092Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-22 06:54:50+00",
+  "conditionId": "0xb108d9af8ad1a88f562df6319399618eca485af2dd3ad385f11e1234a8a66fa2",
+  "slug": "the-cfp-favorites-parlay",
+  "question": "The CFP Favorites Parlay"
+}

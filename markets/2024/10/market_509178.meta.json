@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509178",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:21:25.476519Z",
+  "market_createdAt": "2024-10-07T22:21:25.476519Z",
+  "market_updatedAt": "2024-10-14T21:46:52.921679Z",
+  "market_startDate": "2024-10-07T22:23:31.142648Z",
+  "market_endDate": "2024-10-13T17:00:00Z",
+  "market_closedTime": "2024-10-13 22:18:41+00",
+  "conditionId": "0xfcdd8e4f36a1b58c2cec363bfb3446285aea63e8df18e6dfca2171511a2eb6cf",
+  "slug": "nfl-ari-gb-2024-10-13",
+  "question": "Cardinals vs. Packers"
+}

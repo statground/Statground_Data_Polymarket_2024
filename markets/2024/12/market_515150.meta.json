@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515150",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T19:09:47.106217Z",
+  "market_createdAt": "2024-12-09T19:09:47.106217Z",
+  "market_updatedAt": "2024-12-11T21:37:21.931485Z",
+  "market_startDate": "2024-12-09T23:37:10.445146Z",
+  "market_endDate": "2024-12-10T12:00:00Z",
+  "market_closedTime": "2024-12-11 01:11:45+00",
+  "conditionId": "0x6ccfad7d08a30c35955509102fbb901996d31ce1051f7c4cc1ac76999d4ebd66",
+  "slug": "will-the-match-between-shakhtar-donetsk-and-bayern-munich-end-in-a-draw",
+  "question": "Will the match between Shakhtar Donetsk and Bayern Munich end in a draw?"
+}

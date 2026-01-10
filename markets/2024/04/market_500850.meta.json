@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500850",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-09T22:15:28.828982Z",
+  "market_createdAt": "2024-04-09T22:15:28.828982Z",
+  "market_updatedAt": "2024-05-07T23:09:29.085077Z",
+  "market_startDate": "2024-04-09T23:11:58.681Z",
+  "market_endDate": "2024-04-10T12:00:00Z",
+  "market_closedTime": "2024-04-11 00:09:40+00",
+  "conditionId": "0x29a4f51eb14f065f055f71cbb49e0f08f73bf2cdd6bf9b26cb204b16c93676b6",
+  "slug": "will-atletico-madrid-win-against-borussia-dortmund-4102024",
+  "question": "Will Atletico Madrid win against Borussia Dortmund? "
+}

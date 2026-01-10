@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501829",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-24T20:03:13.082979Z",
+  "market_createdAt": "2024-05-24T20:03:13.082979Z",
+  "market_updatedAt": "2024-06-01T01:41:14.344626Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-30T12:00:00Z",
+  "market_closedTime": "2024-05-31 02:06:00+00",
+  "conditionId": "0x2e43064646a6fd16620b4e0ee8fad35d8786f4dd2c294676986f2244806681c2",
+  "slug": "will-nadeshot-win-the-founding-fathers-lan",
+  "question": "Will Nadeshot win the Founding Fathers Lan?"
+}

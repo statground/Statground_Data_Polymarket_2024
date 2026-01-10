@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502173",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-06T17:46:33.761330Z",
+  "market_createdAt": "2024-06-06T17:46:33.76133Z",
+  "market_updatedAt": "2024-06-08T17:31:17.357402Z",
+  "market_startDate": "2024-06-06T18:03:57.015Z",
+  "market_endDate": "2024-06-07T12:00:00Z",
+  "market_closedTime": "2024-06-07 23:48:19+00",
+  "conditionId": "0xfa5f545a635e5ffa3da64c48bd2c1086d57609af24baaa88e885374e3f2e794c",
+  "slug": "roaring-kitty-says-solana-in-livestream",
+  "question": "Roaring Kitty says Solana in livestream?"
+}

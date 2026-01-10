@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-23T05:10:34.860565Z",
+  "market_createdAt": "2024-08-23T05:10:34.860565Z",
+  "market_updatedAt": "2024-09-08T22:37:08.481461Z",
+  "market_startDate": "2024-08-23T17:41:14.262Z",
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-09-08 01:16:50+00",
+  "conditionId": "0x5d408475b03e6d2ede598e435e4b709362f5af70a367306b93bb5376f3fc9d7f",
+  "slug": "will-another-player-win-the-us-open-w",
+  "question": "Will another player win the US Open?"
+}

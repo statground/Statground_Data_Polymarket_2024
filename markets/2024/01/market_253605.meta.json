@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253605",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-05T18:27:46.325000Z",
+  "market_createdAt": "2024-01-05T18:27:46.325Z",
+  "market_updatedAt": "2024-04-26T02:59:28.313018Z",
+  "market_startDate": "2024-01-06T09:10:00Z",
+  "market_endDate": "2024-02-10T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:02:54+00",
+  "conditionId": "0x079fd5cd4c762657700526c9c8066445c71be8277ff4978662905dcb3b9fda58",
+  "slug": "will-the-san-francisco-49ers-win-super-bowl-lviii",
+  "question": "Will the San Francisco 49ers win Super Bowl LVIII?"
+}

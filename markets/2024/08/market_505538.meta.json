@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T15:04:51.707526Z",
+  "market_createdAt": "2024-08-21T15:04:51.707526Z",
+  "market_updatedAt": "2024-08-23T02:47:06.889712Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-22 04:46:44+00",
+  "conditionId": "0xa7aa0564b49711343500d1bbe1feefae06b4f4f0009aa005577818b03c487b6d",
+  "slug": "will-bill-clinton-say-ceasefire-at-dnc-speech",
+  "question": "Will Bill Clinton say \"Ceasefire\" at DNC speech?"
+}

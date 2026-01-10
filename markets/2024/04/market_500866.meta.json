@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500866",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-10T18:59:18.297207Z",
+  "market_createdAt": "2024-04-10T18:59:18.297207Z",
+  "market_updatedAt": "2024-07-01T22:31:00.635565Z",
+  "market_startDate": "2024-04-10T20:09:21.977Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 07:34:56+00",
+  "conditionId": "0xfed62d33fa012396100eab34767a163aeac916f034878c54995f0401314eadda",
+  "slug": "argent-airdrop-by-june-30",
+  "question": "Argent airdrop by June 30?"
+}

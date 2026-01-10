@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T05:01:55.270737Z",
+  "market_createdAt": "2024-12-08T05:01:55.270737Z",
+  "market_updatedAt": "2024-12-10T03:07:16.749154Z",
+  "market_startDate": "2024-12-08T05:05:14.78527Z",
+  "market_endDate": "2024-12-16T00:00:00Z",
+  "market_closedTime": "2024-12-09 04:34:24+00",
+  "conditionId": "0x9b9f0de2de00e1786a3c77a83ffd7332351ac5c8848ddd887b5f290de9ec52e6",
+  "slug": "nba-mem-was-2024-12-08",
+  "question": "Grizzlies vs. Wizards"
+}

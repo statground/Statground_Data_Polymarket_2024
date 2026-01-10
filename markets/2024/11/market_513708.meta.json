@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513708",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-22T00:43:59.074326Z",
+  "market_createdAt": "2024-11-22T00:43:59.074326Z",
+  "market_updatedAt": "2025-01-29T17:39:15.050315Z",
+  "market_startDate": "2024-11-22T01:05:40.566Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2025-01-28 17:40:45+00",
+  "conditionId": "0xa543d3d98b933627853ebb6f0cff22a9984489cddd336a6b41591e03334e7410",
+  "slug": "will-the-doomsday-clock-move-closer-to-midnight-in-2025",
+  "question": "Will the Doomsday Clock move closer to Midnight?"
+}

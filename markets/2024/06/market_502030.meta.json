@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T15:48:01.090620Z",
+  "market_createdAt": "2024-06-03T15:48:01.09062Z",
+  "market_updatedAt": "2024-06-06T00:31:09.65621Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-05 06:57:43+00",
+  "conditionId": "0xaa482850b489cb753ee7863129fdcd8c70451531c916c3549522412a50cfbb64",
+  "slug": "will-andy-kim-win-new-jersey-dem-senate-primary",
+  "question": "Will Andy Kim win New Jersey Dem Senate Primary?"
+}

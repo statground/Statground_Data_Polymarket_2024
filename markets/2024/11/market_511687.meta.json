@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511687",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:10:03.631083Z",
+  "market_createdAt": "2024-11-01T18:10:03.631083Z",
+  "market_updatedAt": "2024-11-04T05:26:56.481739Z",
+  "market_startDate": "2024-11-01T23:07:18.309403Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-03 05:46:18+00",
+  "conditionId": "0xae6ec984e9980197f2c10d521bd26826387b124572917945fb60d14abed430c5",
+  "slug": "will-tennessee-beat-kentucky",
+  "question": "Will Tennessee beat Kentucky?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254477",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T21:42:14.984000Z",
+  "market_createdAt": "2024-02-14T21:42:14.984Z",
+  "market_updatedAt": "2024-05-07T23:09:58.879938Z",
+  "market_startDate": "2024-02-15T00:23:38.785Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 06:26:50+00",
+  "conditionId": "0x85e779d57a90bd32b7b2beeab48e4a3ca47818f8422f578090731c1e19ec1511",
+  "slug": "will-openai-launch-a-web-search-product-by-march-31",
+  "question": "Will OpenAI launch a Web Search Product by March 31?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503369",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-10T17:50:05.596551Z",
+  "market_createdAt": "2024-07-10T17:50:05.596551Z",
+  "market_updatedAt": "2024-08-02T17:13:04.528832Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-07-31 21:23:40+00",
+  "conditionId": "0xaddce36909cb534cd5f59a429a99e8c3f4e55209699d8154ca5e81c952576c0f",
+  "slug": "will-nadal-win-a-gold-medal-in-paris",
+  "question": "Will Nadal win a gold medal in Paris?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-02T15:07:19.820007Z",
+  "market_createdAt": "2024-07-02T15:07:19.820007Z",
+  "market_updatedAt": "2024-07-09T20:00:52.783234Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-08T12:00:00Z",
+  "market_closedTime": "2024-07-09 03:02:36+00",
+  "conditionId": "0x837b4c2e3e13e9b419854fe334ee1dd18bbd5408e688e751b8d18a03f6a99137",
+  "slug": "will-despicable-me-4-gross-less-than-105m-on-5-day-opening-weekend",
+  "question": "Will 'Despicable Me 4' gross less than $105m on 5-day opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T14:55:53.336943Z",
+  "market_createdAt": "2024-08-19T14:55:53.336943Z",
+  "market_updatedAt": "2024-08-21T05:11:00.549834Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-20 06:01:34+00",
+  "conditionId": "0xa7bd484aae9dba8f38adac0084da078ca44eeaaaf7d2009153590a778173731a",
+  "slug": "will-biden-say-old-at-dnc-speech",
+  "question": "Will Biden say \"Old\" at DNC speech?"
+}

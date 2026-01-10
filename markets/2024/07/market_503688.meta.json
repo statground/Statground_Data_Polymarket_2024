@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T22:13:12.566300Z",
+  "market_createdAt": "2024-07-17T22:13:12.5663Z",
+  "market_updatedAt": "2024-08-10T19:52:57.16595Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-09 23:03:07+00",
+  "conditionId": "0xe4a442948c6101fa29338fa9f919275b83d2aa754db8b347da74562be897b3a6",
+  "slug": "will-another-athlete-win-gold-in-400m-hurdles",
+  "question": "Will another athlete win Gold in 400m Hurdles?"
+}

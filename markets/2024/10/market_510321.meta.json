@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510321",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T18:57:19.436868Z",
+  "market_createdAt": "2024-10-21T18:57:19.436868Z",
+  "market_updatedAt": "2024-10-26T05:21:05.098375Z",
+  "market_startDate": "2024-10-21T18:59:57.574Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:28:23+00",
+  "conditionId": "0x1140c36e29a3625d7558b361a9b87a3b878dc73bcbfa7785416e59e179176a54",
+  "slug": "nfl-min-lar-2024-10-24",
+  "question": "Vikings vs. Rams"
+}

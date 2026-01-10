@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501489",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-08T20:06:31.351049Z",
+  "market_createdAt": "2024-05-08T20:06:31.351049Z",
+  "market_updatedAt": "2024-11-06T23:43:28.93177Z",
+  "market_startDate": "2024-05-08T20:06:31.351049Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 23:40:19+00",
+  "conditionId": "0x30999089aa9dbb613d996ad9d6ef55f641d8ac6980441bf1eb3a8076db73b48f",
+  "slug": "will-a-republican-win-delaware-governor-election",
+  "question": "Will a Republican win Delaware Governor Election?"
+}

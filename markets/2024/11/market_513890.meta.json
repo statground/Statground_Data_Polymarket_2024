@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:50:48.843085Z",
+  "market_createdAt": "2024-11-24T18:50:48.843085Z",
+  "market_updatedAt": "2024-11-27T04:52:36.791608Z",
+  "market_startDate": "2024-11-24T18:53:16.897208Z",
+  "market_endDate": "2024-12-03T00:00:00Z",
+  "market_closedTime": "2024-11-26 04:48:17+00",
+  "conditionId": "0x55ef29bd0cd38355f7e7c2bdd6a547f80fecfc790263386f0aa452d8597cd60d",
+  "slug": "nba-tor-det-2024-11-25",
+  "question": "Raptors vs. Pistons"
+}

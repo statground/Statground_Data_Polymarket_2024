@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253578",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-02T23:13:16.841000Z",
+  "market_createdAt": "2024-01-02T23:13:16.841Z",
+  "market_updatedAt": "2024-11-06T09:27:16.275948Z",
+  "market_startDate": "2024-01-02T23:57:16.961Z",
+  "market_endDate": "2024-11-05T00:00:00Z",
+  "market_closedTime": "2024-11-05 09:37:37+00",
+  "conditionId": "0x01a9eea306780839c5cf9a15a572a438c23af6c49b57f67e8a379f5e48e0e4f8",
+  "slug": "joe-biden-impeached-before-2024-election",
+  "question": "Joe Biden impeached before 2024 election?"
+}

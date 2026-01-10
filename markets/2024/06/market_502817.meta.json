@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T18:46:56.197231Z",
+  "market_createdAt": "2024-06-24T18:46:56.197231Z",
+  "market_updatedAt": "2024-07-12T00:54:48.197164Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-12T12:00:00Z",
+  "market_closedTime": "2024-07-11 01:44:30+00",
+  "conditionId": "0x23617f7c1a0d2feaecb3539011ce60d1385151e7fcbe866b3f8aec3645f07067",
+  "slug": "trump-to-speak-at-bitcoin-2024-conference",
+  "question": "Trump to speak at Bitcoin 2024 conference?"
+}

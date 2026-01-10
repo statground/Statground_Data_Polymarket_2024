@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507127",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T16:50:22.529298Z",
+  "market_createdAt": "2024-09-16T16:50:22.529298Z",
+  "market_updatedAt": "2024-09-19T00:52:41.540458Z",
+  "market_startDate": "2024-09-16T17:29:01.715Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 02:19:13+00",
+  "conditionId": "0x83d8824cf385bdf2920f243d3096be3ad1f459ae5b14bc8a7f06ba966e0a7216",
+  "slug": "will-donald-trump-say-cat-during-his-michigan-rally",
+  "question": "Will Donald Trump say \"cat\" during his Michigan town hall?"
+}

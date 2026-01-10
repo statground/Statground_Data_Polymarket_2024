@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505876",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T13:23:06.954515Z",
+  "market_createdAt": "2024-08-27T13:23:06.954515Z",
+  "market_updatedAt": "2024-09-29T04:16:43.809603Z",
+  "market_startDate": "2024-08-27T17:19:46.084Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-28 15:55:06+00",
+  "conditionId": "0x9b96e9358956f4274307383b5c193a7c315ab43dd6d88732bf9b74ab7d5b3f65",
+  "slug": "will-the-minnesota-twins-win-the-world-series",
+  "question": "Will the Minnesota Twins win the World Series?"
+}

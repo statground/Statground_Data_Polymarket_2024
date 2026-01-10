@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500320",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T18:05:58.659326Z",
+  "market_createdAt": "2024-03-19T18:05:58.659326Z",
+  "market_updatedAt": "2024-05-07T23:09:43.390907Z",
+  "market_startDate": "2024-03-19T18:18:58.602Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 00:09:17+00",
+  "conditionId": "0x05235ab8ed18b8e36488b83638ee52b3ef349f7cd0be3d136a20c71cec6eb40d",
+  "slug": "israel-ground-offensive-in-rafah-by-april-30",
+  "question": "Israel ground offensive in Rafah by April 30?"
+}

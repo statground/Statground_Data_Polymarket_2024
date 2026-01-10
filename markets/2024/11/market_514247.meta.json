@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514247",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T20:28:33.606765Z",
+  "market_createdAt": "2024-11-27T20:28:33.606765Z",
+  "market_updatedAt": "2024-11-30T05:47:17.310824Z",
+  "market_startDate": "2024-11-27T21:05:56.613Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 06:22:19+00",
+  "conditionId": "0xe7d0370552e27a95c3cd29b39d15d3b93e8d3e96040246e210b292cc1c07a546",
+  "slug": "the-thanksgiving-special",
+  "question": "The Thanksgiving Special"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T19:49:00.777294Z",
+  "market_createdAt": "2024-05-02T19:49:00.777294Z",
+  "market_updatedAt": "2024-12-02T07:07:24.362074Z",
+  "market_startDate": "2024-05-02T19:49:00.777Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-01 08:39:58+00",
+  "conditionId": "0xa4855d0b28960be4824c31c280d274572e176313d8efda21446cabe6bdc32efc",
+  "slug": "will-there-be-between-21-and-25-named-storms-during-atlantic-hurricane-season",
+  "question": "Will there be between 21 and 25 named storms during Atlantic Hurricane Season?"
+}

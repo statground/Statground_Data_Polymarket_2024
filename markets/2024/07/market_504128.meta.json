@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504128",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T17:06:48.957875Z",
+  "market_createdAt": "2024-07-25T17:06:48.957875Z",
+  "market_updatedAt": "2024-07-29T08:01:04.853693Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-28T12:00:00Z",
+  "market_closedTime": "2024-07-28 22:03:04+00",
+  "conditionId": "0xfb5179540ad5d4fbfbd3f19262b74be73e657e3a789b75961afd958b3c620978",
+  "slug": "will-brendon-smith-aus-win-gold-in-mens-400m-individual-medley",
+  "question": "Will Brendon Smith (AUS) win Gold in Men's 400m Individual Medley?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:36:15.387752Z",
+  "market_createdAt": "2024-10-23T15:36:15.387752Z",
+  "market_updatedAt": "2024-11-11T17:02:40.769862Z",
+  "market_startDate": "2024-10-23T17:59:35.974844Z",
+  "market_endDate": "2024-12-07T12:00:00Z",
+  "market_closedTime": "2024-11-10 20:47:35+00",
+  "conditionId": "0x6ed233b79c2e135ae88d3171770e53759e188f5a506a4a353d8f6eaef31d1ccb",
+  "slug": "will-the-vancouver-whitecaps-win-the-2024-mls-cup",
+  "question": "Will the Vancouver Whitecaps win the 2024 MLS Cup?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508726",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:24:06.433315Z",
+  "market_createdAt": "2024-10-02T20:24:06.433315Z",
+  "market_updatedAt": "2024-10-14T22:06:54.90383Z",
+  "market_startDate": "2024-10-02T21:48:29.10821Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-14 00:21:55+00",
+  "conditionId": "0xfd8c343e89673b1cbc04ec2e2fc8e5da276f10fa1aca8167afd194d49199ffa2",
+  "slug": "will-mouz-win-iem-rio-2024",
+  "question": "Will Mouz win IEM Rio 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T23:26:35.094104Z",
+  "market_createdAt": "2024-10-01T23:26:35.094104Z",
+  "market_updatedAt": "2024-10-07T20:56:37.278265Z",
+  "market_startDate": "2024-10-01T23:28:42.199931Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 22:21:58+00",
+  "conditionId": "0xc8c3142d66974bf4e5ca9c2f7d94dcdcf02e224ba7cd6605e46c84f0645edc18",
+  "slug": "nfl-mia-ne-2024-10-06",
+  "question": "Dolphins vs. Patriots"
+}

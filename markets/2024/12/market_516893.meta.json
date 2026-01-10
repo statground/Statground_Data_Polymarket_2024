@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516893",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-30T22:04:05.190719Z",
+  "market_createdAt": "2024-12-30T22:04:05.190719Z",
+  "market_updatedAt": "2025-01-01T21:17:27.150123Z",
+  "market_startDate": "2024-12-30T23:00:33.02948Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 00:59:41+00",
+  "conditionId": "0x9c207de5cdba06a90dcd8c86745e72fb41637126a9ecd659ee3637b074e4096e",
+  "slug": "will-louisville-beat-washington-by-2-or-more-points",
+  "question": "Will Louisville beat Washington by 2 or more points?"
+}

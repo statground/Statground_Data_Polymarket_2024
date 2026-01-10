@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511234",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:47:13.225660Z",
+  "market_createdAt": "2024-10-28T20:47:13.22566Z",
+  "market_updatedAt": "2024-11-02T04:37:10.849498Z",
+  "market_startDate": "2024-10-28T20:49:50.587531Z",
+  "market_endDate": "2024-11-01T00:00:00Z",
+  "market_closedTime": "2024-11-01 04:48:32+00",
+  "conditionId": "0xe03a3f8cd716d0aec3767cb983a4601eeeea28fe8da525531b2155cf3e848965",
+  "slug": "nba-mil-mem-2024-10-31",
+  "question": "Bucks vs. Grizzlies"
+}

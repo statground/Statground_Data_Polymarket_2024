@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510801",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:43:21.651141Z",
+  "market_createdAt": "2024-10-24T17:43:21.651141Z",
+  "market_updatedAt": "2024-10-25T23:17:01.494361Z",
+  "market_startDate": "2024-10-24T20:27:03.809924Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 09:39:21+00",
+  "conditionId": "0x8aa7e346f7757b8f6723f10a61196a5e116d1f5eada5eede6b115320a2d76c84",
+  "slug": "will-pittsburgh-beat-syracuse",
+  "question": "Will Pittsburgh beat Syracuse?"
+}

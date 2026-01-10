@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503530",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T00:53:40.029083Z",
+  "market_createdAt": "2024-07-16T00:53:40.029083Z",
+  "market_updatedAt": "2024-07-20T11:02:43.145026Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:26+00",
+  "conditionId": "0xe18e912c5cfd89a7b099320cec021ead6739a780468e6c9866c5e12e239f5df7",
+  "slug": "will-rory-mcilroy-win-the-british-open",
+  "question": "Will Rory McIlroy win the British Open?"
+}

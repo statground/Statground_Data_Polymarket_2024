@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254490",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T23:30:18.568000Z",
+  "market_createdAt": "2024-02-14T23:30:18.568Z",
+  "market_updatedAt": "2024-07-02T08:45:50.484776Z",
+  "market_startDate": "2024-02-15T17:18:49.955Z",
+  "market_endDate": "2024-06-28T12:00:00Z",
+  "market_closedTime": "2024-07-01 10:18:45+00",
+  "conditionId": "0xafdbc2b140c6dd0a9f0596f91bb6524054a984ed96c2089a950a77a7bb41fdc5",
+  "slug": "marginfi-airdrop-by-june-30",
+  "question": "MarginFi airdrop by June 30?"
+}

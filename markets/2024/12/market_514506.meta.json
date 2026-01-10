@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T21:35:51.975999Z",
+  "market_createdAt": "2024-12-02T21:35:51.975999Z",
+  "market_updatedAt": "2024-12-17T18:53:23.146962Z",
+  "market_startDate": "2024-12-02T23:16:31.012082Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 03:09:06+00",
+  "conditionId": "0x37f6d3012166c355f6a648b7463f2de92f876a6fb84aa95127c2f6e55b6aae98",
+  "slug": "will-kraven-the-hunter-gross-between-22-25m-on-3-day-opening-weekend",
+  "question": "Will 'Kraven the Hunter' gross between $22-25m on 3-day opening weekend?"
+}

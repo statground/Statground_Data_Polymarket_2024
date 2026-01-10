@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510499",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T03:23:17.788922Z",
+  "market_createdAt": "2024-10-22T03:23:17.788922Z",
+  "market_updatedAt": "2024-10-23T19:41:29.125711Z",
+  "market_startDate": "2024-10-23T14:56:28.782484Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 19:38:37+00",
+  "conditionId": "0x980d30c0086729c90909d55f9d2b3d79a8a636833db2593a478d54e6449be17b",
+  "slug": "will-if-elfsborg-beat-galatasaray",
+  "question": "Will IF Elfsborg beat Galatasaray?"
+}

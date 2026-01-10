@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502479",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-14T20:48:22.620405Z",
+  "market_createdAt": "2024-06-14T20:48:22.620405Z",
+  "market_updatedAt": "2025-01-02T10:29:05.387047Z",
+  "market_startDate": "2024-06-14T20:51:00.05Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 12:16:09+00",
+  "conditionId": "0x329b0bada35554e509f8d9e8d85a86ab70a787dc7f6f3fd06e4715c31f543823",
+  "slug": "no-trump-coin-reaches-1b",
+  "question": "No Trump coin reaches $1b?"
+}

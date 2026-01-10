@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514125",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:39:01.479845Z",
+  "market_createdAt": "2024-11-26T08:39:01.479845Z",
+  "market_updatedAt": "2024-11-30T01:07:22.172242Z",
+  "market_startDate": "2024-11-26T23:08:02.367256Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:10:09+00",
+  "conditionId": "0xb1b3e119a2ac68bae7807911b11fc092dbe59396fcc60b5f7cba0060c7384d7c",
+  "slug": "will-the-match-between-manchester-united-and-bodo-glimt-end-in-a-draw",
+  "question": "Will the match between Manchester United and Bodo Glimt end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516401",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-25T06:26:36.546689Z",
+  "market_createdAt": "2024-12-25T06:26:36.546689Z",
+  "market_updatedAt": "2024-12-27T19:03:15.380794Z",
+  "market_startDate": "2024-12-25T06:29:08.093222Z",
+  "market_endDate": "2024-12-26T15:00:00Z",
+  "market_closedTime": "2024-12-26 20:15:30+00",
+  "conditionId": "0x4730e89f98be1e318778358254515cc096525525787d3e51739a1a807ea1c819",
+  "slug": "epl-bou-cry-2024-12-26-draw",
+  "question": "Will Bournemouth vs. Crystal Palace end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502628",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T18:10:43.982502Z",
+  "market_createdAt": "2024-06-19T18:10:43.982502Z",
+  "market_updatedAt": "2024-06-30T17:31:06.00183Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-29 21:21:30+00",
+  "conditionId": "0x9eb3f5d057c4f33f9b57bed67d3ada0f5450ad55f6f96fe34c042d3571144860",
+  "slug": "will-south-africa-win-the-icc-t20-cricket-world-cup",
+  "question": "Will South Africa win the ICC T20 Cricket World Cup?"
+}

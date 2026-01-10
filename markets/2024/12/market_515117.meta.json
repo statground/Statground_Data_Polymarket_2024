@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T17:28:57.719411Z",
+  "market_createdAt": "2024-12-09T17:28:57.719411Z",
+  "market_updatedAt": "2024-12-15T19:49:43.169118Z",
+  "market_startDate": "2024-12-09T17:32:23.036415Z",
+  "market_endDate": "2024-12-14T15:00:00Z",
+  "market_closedTime": "2024-12-14 20:18:49+00",
+  "conditionId": "0xc18cd715133ac4ddb7764b1750c3d40437c3fc13fcfdd0c6196f18646b99e4ba",
+  "slug": "epl-liv-ful-2024-12-14-draw",
+  "question": "Will Liverpool vs. Fulham end in a draw?"
+}

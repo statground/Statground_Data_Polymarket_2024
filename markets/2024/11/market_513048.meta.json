@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513048",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T21:07:50.037917Z",
+  "market_createdAt": "2024-11-14T21:07:50.037917Z",
+  "market_updatedAt": "2025-02-05T21:14:31.052689Z",
+  "market_startDate": "2024-11-14T22:05:29.001613Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-02-05 04:39:58+00",
+  "conditionId": "0x1fb50f6598d735f13cbb118809aff50cf0794768f52a01de0cf62813d781fd12",
+  "slug": "will-mike-lee-be-trumps-attorney-general",
+  "question": "Will Mike Lee be Trump's Attorney General?"
+}

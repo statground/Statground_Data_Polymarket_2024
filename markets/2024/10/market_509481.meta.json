@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509481",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T23:32:46.506293Z",
+  "market_createdAt": "2024-10-09T23:32:46.506293Z",
+  "market_updatedAt": "2024-11-08T05:23:01.346182Z",
+  "market_startDate": "2024-10-30T18:33:37.495884Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:58:58+00",
+  "conditionId": "0x85d95c95ebbe3a632c6c60e988a103eb61d40626d8fe5dc106e8ef5d672492f6",
+  "slug": "kamala-wins-273-electoral-votes-black-vote-victory",
+  "question": "Kamala wins 273-265 - GA, MI, NC"
+}

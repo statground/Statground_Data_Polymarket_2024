@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T19:28:21.011539Z",
+  "market_createdAt": "2024-11-01T19:28:21.011539Z",
+  "market_updatedAt": "2024-11-04T17:01:04.205002Z",
+  "market_startDate": "2024-11-02T21:32:27.194634Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 22:50:16+00",
+  "conditionId": "0x8aa85a2180f5ff47edf1463f1c61fa5ccce982dfe328516c57d62f1eb675b785",
+  "slug": "will-the-bengals-and-raiders-combine-for-46-or-more-points",
+  "question": "Will the Bengals and Raiders combine for 46 or more points?"
+}

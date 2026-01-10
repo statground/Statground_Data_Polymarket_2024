@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:14:44.019775Z",
+  "market_createdAt": "2024-12-29T07:14:44.019775Z",
+  "market_updatedAt": "2025-01-06T07:39:14.689202Z",
+  "market_startDate": "2024-12-29T07:17:17.646428Z",
+  "market_endDate": "2025-01-12T03:00:00Z",
+  "market_closedTime": "2025-01-05 07:48:06+00",
+  "conditionId": "0xd906951d723c2396dd218cbd612a0a0c4b27a9954c569055a60798cdf1ac2650",
+  "slug": "nhl-buf-las-2025-01-04",
+  "question": "Sabres vs. Golden Knights"
+}

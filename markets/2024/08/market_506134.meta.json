@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506134",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T22:44:43.626465Z",
+  "market_createdAt": "2024-08-29T22:44:43.626465Z",
+  "market_updatedAt": "2024-09-18T16:12:41.654895Z",
+  "market_startDate": "2024-08-29T22:44:43.626465Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-09-17 16:10:42+00",
+  "conditionId": "0x1c3499d7319d69a2ad56c1098452c577d145f48e6ceb9f5baee3f01c3849aae1",
+  "slug": "will-apple-remain-largest-company-through-sep-30",
+  "question": "Will Apple remain largest company through Sep 30?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502686",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-20T16:06:41.077491Z",
+  "market_createdAt": "2024-06-20T16:06:41.077491Z",
+  "market_updatedAt": "2024-07-06T04:30:45.643827Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 19:27:59+00",
+  "conditionId": "0x65d6839122d21bce69d3c8abd9eb7872b5d3f8104233c8577b2b6c6c30afa0ce",
+  "slug": "will-the-liberal-democrats-win-61-75-seats-in-the-next-uk-election",
+  "question": "Will the Liberal Democrats win 61-75 seats in the next UK Election?"
+}

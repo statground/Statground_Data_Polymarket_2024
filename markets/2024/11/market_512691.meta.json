@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512691",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:05:56.151836Z",
+  "market_createdAt": "2024-11-11T18:05:56.151836Z",
+  "market_updatedAt": "2024-11-15T07:34:56.864177Z",
+  "market_startDate": "2024-11-11T18:08:26.428356Z",
+  "market_endDate": "2024-11-21T03:00:00Z",
+  "market_closedTime": "2024-11-14 07:50:40+00",
+  "conditionId": "0xa6e30eaff9789c9e188f30ffcc7b181b56dc7589026c5e0ad6cc9679c94f979b",
+  "slug": "nba-mem-lal-2024-11-13",
+  "question": "Grizzlies vs. Lakers"
+}

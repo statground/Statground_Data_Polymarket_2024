@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512547",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:27:06.854798Z",
+  "market_createdAt": "2024-11-08T22:27:06.854798Z",
+  "market_updatedAt": "2024-11-19T23:57:07.956034Z",
+  "market_startDate": "2024-11-13T23:50:09.518Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-19 02:37:12+00",
+  "conditionId": "0x398b8b08a4c3b2be13b7432e0c4641b0abd4bcf137ed62e9173b4de78bcfb9b4",
+  "slug": "will-trump-nominate-emil-michael-for-transportation-secretary",
+  "question": "Will Trump nominate Emil Michael for Transportation Secretary?"
+}

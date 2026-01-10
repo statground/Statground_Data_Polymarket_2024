@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:23:17.987094Z",
+  "market_createdAt": "2024-10-02T17:23:17.987094Z",
+  "market_updatedAt": "2024-10-13T21:20:54.441264Z",
+  "market_startDate": "2024-10-02T21:07:41.543048Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-12 23:34:53+00",
+  "conditionId": "0x86ea71e6ef7236e77a5d7976bfacc58f0b9144652579975537eea7cbf469c79c",
+  "slug": "will-the-detroit-tigers-win-the-american-league",
+  "question": "Will the Detroit Tigers win the American League?"
+}

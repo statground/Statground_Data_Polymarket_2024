@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514776",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:13:58.996767Z",
+  "market_createdAt": "2024-12-04T21:13:58.996767Z",
+  "market_updatedAt": "2024-12-09T01:13:23.737675Z",
+  "market_startDate": "2024-12-04T21:17:22.916661Z",
+  "market_endDate": "2024-12-14T21:00:00Z",
+  "market_closedTime": "2024-12-08 01:39:19+00",
+  "conditionId": "0xceeab93d111ab3cc4ebe6029d2e1f171afd83de531cf8df940949ceb77451ce8",
+  "slug": "nhl-wpg-chi-2024-12-07",
+  "question": "Jets vs. Blackhawks"
+}

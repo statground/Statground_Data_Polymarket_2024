@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:40:29.616628Z",
+  "market_createdAt": "2024-11-08T19:40:29.616628Z",
+  "market_updatedAt": "2024-11-11T00:28:45.763713Z",
+  "market_startDate": "2024-11-08T22:16:59.832466Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 02:28:12+00",
+  "conditionId": "0x86f8a590ca5e573631b11dc0d28d4c727aa390b4e1ce7454cc33a948d4b56d75",
+  "slug": "cfb-indiana-vs-michigan",
+  "question": "CFB: Indiana vs. Michigan"
+}

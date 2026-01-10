@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510542",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:44:40.034072Z",
+  "market_createdAt": "2024-10-22T15:44:40.034072Z",
+  "market_updatedAt": "2024-10-26T04:26:57.385074Z",
+  "market_startDate": "2024-10-22T21:45:32.954Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 05:03:15+00",
+  "conditionId": "0x133ed052360c60acfb0c830ab3e23dfc16baea0c9dacb63aea9b6dc2e54a5e57",
+  "slug": "will-trump-say-frack-or-fracking-3-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"frack\" or \"fracking\" 3 or more times during Las Vegas rally on October 24?"
+}

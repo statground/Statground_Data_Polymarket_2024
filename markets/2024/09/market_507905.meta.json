@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507905",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T16:07:37.672945Z",
+  "market_createdAt": "2024-09-24T16:07:37.672945Z",
+  "market_updatedAt": "2024-09-26T19:26:44.108523Z",
+  "market_startDate": "2024-09-24T16:35:06.059665Z",
+  "market_endDate": "2024-09-25T12:00:00Z",
+  "market_closedTime": "2024-09-25 19:33:10+00",
+  "conditionId": "0x4a4833d562b6f924ce4ef9fd6fd8f71710682cda0646d013ce5be6c1d3b68d0d",
+  "slug": "will-donald-trump-say-mcdonalds-during-his-north-carolina-speech",
+  "question": "Will Donald Trump say \"McDonald's\" during his North Carolina speech?"
+}

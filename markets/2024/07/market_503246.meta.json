@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503246",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T20:02:46.576587Z",
+  "market_createdAt": "2024-07-05T20:02:46.576587Z",
+  "market_updatedAt": "2024-11-03T14:01:12.373667Z",
+  "market_startDate": "2024-07-05T20:02:46.576587Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:35:30+00",
+  "conditionId": "0x7f16ad3e07246cee944535f1b722088f50a64db613fec9e4ab69844a5f31d3af",
+  "slug": "tom-tugendhat-next-conservative-party-leader",
+  "question": "Tom Tugendhat next Conservative party leader?"
+}

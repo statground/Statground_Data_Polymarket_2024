@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504573",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-05T21:18:48.889342Z",
+  "market_createdAt": "2024-08-05T21:18:48.889342Z",
+  "market_updatedAt": "2025-01-01T08:11:21.214998Z",
+  "market_startDate": "2024-08-05T21:18:48.889342Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:08:24+00",
+  "conditionId": "0xe0eb66d0f614bedb1b730345d9069766d144ccecb52fba8fd42d5356cd1a2830",
+  "slug": "uk-civil-war-in-2024",
+  "question": "UK civil war in 2024?"
+}

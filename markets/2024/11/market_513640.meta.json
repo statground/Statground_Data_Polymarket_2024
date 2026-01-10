@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513640",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-21T18:33:47.466027Z",
+  "market_createdAt": "2024-11-21T18:33:47.466027Z",
+  "market_updatedAt": "2024-11-22T23:48:52.67593Z",
+  "market_startDate": "2024-11-21T18:58:23.515175Z",
+  "market_endDate": "2024-11-21T12:00:00Z",
+  "market_closedTime": "2024-11-22 06:07:17+00",
+  "conditionId": "0x54845b3d3b892bf638ccd2de5b2796853105f8f4a7d60df26480cee4634054e3",
+  "slug": "will-georgia-tech-and-nc-state-combine-for-52-or-more-points",
+  "question": "Will Georgia Tech and NC State combine for 52 or more points?"
+}

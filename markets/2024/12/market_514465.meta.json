@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514465",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:45:37.348838Z",
+  "market_createdAt": "2024-12-02T19:45:37.348838Z",
+  "market_updatedAt": "2024-12-04T21:17:18.499366Z",
+  "market_startDate": "2024-12-02T21:12:34.505837Z",
+  "market_endDate": "2024-12-03T12:00:00Z",
+  "market_closedTime": "2024-12-04 01:13:39+00",
+  "conditionId": "0x5ed7f26d3b469b5b1cf6c4e51afa5bf4eaf8400407001ba7e0737d0f2a7809d7",
+  "slug": "will-game-7-of-the-world-chess-championship-end-in-a-draw",
+  "question": "Will Game 7 of the World Chess Championship end in a draw?"
+}

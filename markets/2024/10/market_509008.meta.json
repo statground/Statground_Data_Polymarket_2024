@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509008",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T22:00:33.139972Z",
+  "market_createdAt": "2024-10-04T22:00:33.139972Z",
+  "market_updatedAt": "2024-10-07T20:56:31.802922Z",
+  "market_startDate": "2024-10-04T22:31:43.849698Z",
+  "market_endDate": "2024-10-06T12:00:00Z",
+  "market_closedTime": "2024-10-06 21:21:44+00",
+  "conditionId": "0xda0bdaf99fbe78aef9dcda8683a99f38344d44cf8e6bdbb1bc617d8b161b7d5d",
+  "slug": "will-trump-say-jd-vance-or-jd-vance-during-wisconsin-rally",
+  "question": "Will Trump say \"JD\", \"Vance\", or \"JD Vance\" during Wisconsin rally?"
+}

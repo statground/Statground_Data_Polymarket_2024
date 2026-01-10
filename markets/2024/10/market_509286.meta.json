@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509286",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-08T19:48:08.085018Z",
+  "market_createdAt": "2024-10-08T19:48:08.085018Z",
+  "market_updatedAt": "2024-10-12T22:40:54.034519Z",
+  "market_startDate": "2024-10-09T15:48:08.086974Z",
+  "market_endDate": "2024-10-11T12:00:00Z",
+  "market_closedTime": "2024-10-11 23:37:37+00",
+  "conditionId": "0x860f44de4524d0aa37f4e038bd9d6c53efabd25fac563b0e273ff1669ff14afe",
+  "slug": "will-trump-say-reagan-during-colorado-rally-on-october-11",
+  "question": "Will Trump say \"Reagan\" during Colorado rally on October 11?"
+}

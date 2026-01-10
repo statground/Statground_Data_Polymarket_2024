@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:43:19.681547Z",
+  "market_createdAt": "2024-09-27T20:43:19.681547Z",
+  "market_updatedAt": "2024-10-01T05:26:32.505565Z",
+  "market_startDate": "2024-09-27T22:09:14.273992Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 05:28:14+00",
+  "conditionId": "0x1408465400ce82229023cf99cbb8909c3effd06a4fd9985b59cc18725b9eaf92",
+  "slug": "bal-vs-buf-will-there-be-47-or-more-combined-points-scored",
+  "question": "BAL vs. BUF: Will there be 47 or more combined points scored?"
+}

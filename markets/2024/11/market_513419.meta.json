@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513419",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T22:18:06.927535Z",
+  "market_createdAt": "2024-11-18T22:18:06.927535Z",
+  "market_updatedAt": "2024-11-21T02:01:04.529278Z",
+  "market_startDate": "2024-11-19T20:41:37.930414Z",
+  "market_endDate": "2024-11-19T12:00:00Z",
+  "market_closedTime": "2024-11-20 05:30:13+00",
+  "conditionId": "0x9b2dfdd9370187ce62a3516b0d3062ad3592fe50b7409a1b0db72c8df8e5553e",
+  "slug": "will-peru-beat-argentina",
+  "question": "Will Peru beat Argentina?"
+}

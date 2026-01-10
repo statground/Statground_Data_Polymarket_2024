@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500231",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:55:32.477844Z",
+  "market_createdAt": "2024-03-18T14:55:32.477844Z",
+  "market_updatedAt": "2024-05-07T23:09:52.625553Z",
+  "market_startDate": "2024-03-18T18:56:56.132Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-24 00:40:30+00",
+  "conditionId": "0xbf06be60d59a444fba1a6dbf50b0b2ea7b697731b86a6461f29f6667ac0837bc",
+  "slug": "will-kansas-win-the-ncaa-tournament",
+  "question": "Will Kansas win the NCAA tournament?"
+}

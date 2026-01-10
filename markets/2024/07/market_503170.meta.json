@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503170",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-03T15:07:26.178254Z",
+  "market_createdAt": "2024-07-03T15:07:26.178254Z",
+  "market_updatedAt": "2024-07-05T04:20:49.15233Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-03T12:00:00Z",
+  "market_closedTime": "2024-07-04 06:03:43+00",
+  "conditionId": "0x1e337455dcbd43cbf2b1e8dad63d85e5bbb1c2d57bd580271cfa635a0d8f3712",
+  "slug": "will-biden-drop-out-today-july-3",
+  "question": "Will Biden drop out today?"
+}

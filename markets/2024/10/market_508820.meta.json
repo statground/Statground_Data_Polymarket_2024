@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:17:35.628988Z",
+  "market_createdAt": "2024-10-03T22:17:35.628988Z",
+  "market_updatedAt": "2025-04-27T02:32:35.150975Z",
+  "market_startDate": "2024-10-04T15:29:43.622729Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-04-27 02:29:31+00",
+  "conditionId": "0x4db6366ee1c55443d76c953bc5ccbf931ffbe0f1d0f769121b9358530f2a3c28",
+  "slug": "will-the-memphis-grizzlies-win-the-western-conference",
+  "question": "Will the Memphis Grizzlies win the Western Conference?"
+}

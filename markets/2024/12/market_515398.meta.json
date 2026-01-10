@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T19:07:46.131252Z",
+  "market_createdAt": "2024-12-11T19:07:46.131252Z",
+  "market_updatedAt": "2025-07-03T00:26:45.424955Z",
+  "market_startDate": "2024-12-11T19:15:00.203369Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 22:42:51.407649+00",
+  "conditionId": "0x774ca4122d2df30f856cb2eb5e1f393bd0bea1922bcbf072f207d0ab914d759e",
+  "slug": "will-syria-hold-national-elections-before-july",
+  "question": "Will Syria hold national elections before July?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516506",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:50:15.380788Z",
+  "market_createdAt": "2024-12-27T16:50:15.380788Z",
+  "market_updatedAt": "2024-12-29T06:19:26.862925Z",
+  "market_startDate": "2024-12-27T17:29:49.663Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 09:27:56+00",
+  "conditionId": "0x91ee09b537f5966ca14175132146281c8ea59edef0fe0d0f9be953b0f1f4951b",
+  "slug": "will-dave-portnoy-win-cracker-of-the-year",
+  "question": "Will Dave Portnoy win Cracker of the Year?"
+}

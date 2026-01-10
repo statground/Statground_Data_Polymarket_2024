@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506422",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-04T21:39:12.797843Z",
+  "market_createdAt": "2024-09-04T21:39:12.797843Z",
+  "market_updatedAt": "2024-09-07T16:51:12.29131Z",
+  "market_startDate": "2024-09-04T22:37:32.189Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-09-06 17:47:36+00",
+  "conditionId": "0x8246bf269ef2fc7a7584f6509e546ddebeadaf7d7f67f4872358a65e7fcdf352",
+  "slug": "taylor-swift-shown-5-or-more-times",
+  "question": "Taylor Swift shown 5 or more times?"
+}

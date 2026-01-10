@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505366",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:21:28.397077Z",
+  "market_createdAt": "2024-08-19T19:21:28.397077Z",
+  "market_updatedAt": "2024-09-12T14:07:13.784358Z",
+  "market_startDate": "2024-08-19T19:21:28.397077Z",
+  "market_endDate": "2024-09-11T12:00:00Z",
+  "market_closedTime": "2024-09-11 14:34:09+00",
+  "conditionId": "0xe6bfcb7d47a478fd3804cca7dde22381d4f3fde2a2fbf6e9cb7aa92132bb8fad",
+  "slug": "annual-inflation-above-2pt5-in-august",
+  "question": "Annual inflation above 2.5% in August?"
+}

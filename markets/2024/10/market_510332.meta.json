@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510332",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T19:03:00.667357Z",
+  "market_createdAt": "2024-10-21T19:03:00.667357Z",
+  "market_updatedAt": "2024-10-29T01:31:13.034088Z",
+  "market_startDate": "2024-10-21T19:05:36.806284Z",
+  "market_endDate": "2024-10-27T20:25:00Z",
+  "market_closedTime": "2024-10-28 01:47:59+00",
+  "conditionId": "0x6d0c7be442d4ea86711485eccf392ae9bd1cc7597dc01e5b25360f2eef437149",
+  "slug": "nfl-car-den-2024-10-27",
+  "question": "Panthers vs. Broncos"
+}

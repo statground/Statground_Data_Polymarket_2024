@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515083",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:05:57.690666Z",
+  "market_createdAt": "2024-12-08T07:05:57.690666Z",
+  "market_updatedAt": "2024-12-16T03:49:33.583952Z",
+  "market_startDate": "2024-12-08T07:09:21.832741Z",
+  "market_endDate": "2024-12-22T00:00:00Z",
+  "market_closedTime": "2024-12-15 05:05:17+00",
+  "conditionId": "0x9783615fff3ef2eb2097c18107b457d519b4bf56f977febae565d41ee58fc7c5",
+  "slug": "nhl-ana-cbj-2024-12-14",
+  "question": "Ducks vs. Blue Jackets"
+}

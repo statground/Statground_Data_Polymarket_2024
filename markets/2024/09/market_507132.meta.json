@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507132",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T16:54:26.608033Z",
+  "market_createdAt": "2024-09-16T16:54:26.608033Z",
+  "market_updatedAt": "2024-09-19T00:56:46.011413Z",
+  "market_startDate": "2024-09-16T17:40:37.498Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-18 02:13:43+00",
+  "conditionId": "0x2428fd7c504e34951cf6ccd3f063ad8318859672452b5a8fd9a59aec8a8027e9",
+  "slug": "will-donald-trump-say-crypto-or-bitcoin-during-his-michigan-rally",
+  "question": "Will Donald Trump say \"crypto\" or \"Bitcoin\" during his Michigan town hall?"
+}

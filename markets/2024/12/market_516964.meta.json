@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516964",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:55:07.032395Z",
+  "market_createdAt": "2024-12-31T19:55:07.032395Z",
+  "market_updatedAt": "2026-01-01T16:31:24.869336Z",
+  "market_startDate": "2024-12-31T20:19:52.526Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:41:11+00",
+  "conditionId": "0x8309a3b9eb96171c215153b8dccc3bcbcfa84d709f10d9319f5cb8874ff2c728",
+  "slug": "will-meta-have-the-top-ai-model-on-december-31",
+  "question": "Will Meta have the top AI model on December 31?"
+}

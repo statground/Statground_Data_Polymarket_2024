@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504364",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T15:12:33.443090Z",
+  "market_createdAt": "2024-07-31T15:12:33.44309Z",
+  "market_updatedAt": "2024-08-04T23:42:59.28535Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 23:36:10+00",
+  "conditionId": "0x18da1d4623e1bb9372f5a64de30a7af6bece7a02d0e5c8efe1b6c0a9e0215a84",
+  "slug": "ufc-fight-night-tony-ferguson-vs-michael-chiesa",
+  "question": "UFC Fight Night: Tony Ferguson vs. Michael Chiesa"
+}

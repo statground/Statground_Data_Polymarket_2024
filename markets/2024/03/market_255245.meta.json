@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-04T21:06:25.807000Z",
+  "market_createdAt": "2024-03-04T21:06:25.807Z",
+  "market_updatedAt": "2024-05-07T23:09:10.972551Z",
+  "market_startDate": "2024-03-06T17:50:00Z",
+  "market_endDate": "2024-03-17T00:00:00Z",
+  "market_closedTime": "2024-03-20 05:04:18+00",
+  "conditionId": "0x3df45356be3cd86a3ad093f410246ea11067bcc3a5f8c614e4daad30eaa2cc0d",
+  "slug": "will-matt-dolan-win-the-ohio-republican-senate-primary",
+  "question": "Will Matt Dolan win the Ohio Republican Senate Primary?"
+}

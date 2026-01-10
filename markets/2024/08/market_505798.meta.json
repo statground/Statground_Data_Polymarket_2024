@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505798",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T18:15:45.771773Z",
+  "market_createdAt": "2024-08-26T18:15:45.771773Z",
+  "market_updatedAt": "2024-08-31T02:51:03.052902Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-30 02:55:29+00",
+  "conditionId": "0xaddd0f2052098c7db9c631f1429ad9475cd7162b255f7ccc8666798ce3bf231c",
+  "slug": "will-donald-trump-say-fentanyl-during-michigan-town-hall",
+  "question": "Will Donald Trump say \"fentanyl\" during Michigan town hall?"
+}

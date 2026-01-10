@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T19:37:32.604018Z",
+  "market_createdAt": "2024-10-07T19:37:32.604018Z",
+  "market_updatedAt": "2024-11-02T19:51:11.62961Z",
+  "market_startDate": "2024-10-07T23:00:51.139607Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 22:45:45+00",
+  "conditionId": "0xc6b62089121585f661a9e5361f3e991b21fcb6c811f5d00f29c81ae5297116b7",
+  "slug": "30-year-mortgage-rate-below-6-before-election",
+  "question": "30-year mortgage rate below 6% before election?"
+}

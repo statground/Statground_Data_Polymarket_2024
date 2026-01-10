@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-06T15:59:29.735789Z",
+  "market_createdAt": "2024-05-06T15:59:29.735789Z",
+  "market_updatedAt": "2024-05-09T18:09:09.093695Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-08T12:00:00Z",
+  "market_closedTime": "2024-05-09 00:10:31+00",
+  "conditionId": "0x27f2aaa422d7e7fec8a8b3e9fcf887a2d7c838d9740c5465acca4fc04ad226de",
+  "slug": "will-real-madrid-win-vs-bayern-munich-UCL-scond-leg",
+  "question": "Will Real Madrid win against Bayern Munich"
+}

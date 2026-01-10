@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504662",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T17:44:08.671145Z",
+  "market_createdAt": "2024-08-07T17:44:08.671145Z",
+  "market_updatedAt": "2024-12-07T17:33:14.544159Z",
+  "market_startDate": "2024-08-07T17:44:08.671145Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-06 17:29:35+00",
+  "conditionId": "0xeae90bc0d5d1ed9925b67905c1ab536c4ed2885ae7c5ae8807923fb71e24988e",
+  "slug": "will-eth-hit-2k-or-4k-first",
+  "question": "Will $ETH hit $2000 or $4000 first?"
+}

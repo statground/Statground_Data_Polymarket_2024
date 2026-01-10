@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511540",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-31T20:16:45.671387Z",
+  "market_createdAt": "2024-10-31T20:16:45.671387Z",
+  "market_updatedAt": "2024-12-01T10:57:40.145954Z",
+  "market_startDate": "2024-11-01T14:42:23.343Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:51+00",
+  "conditionId": "0x634d7096e43d3beef3396e0a93e166c122ab2156a7b9ecace5daf0e4d61ecadf",
+  "slug": "will-solana-reach-140-in-november",
+  "question": "Will Solana reach $140 in November?"
+}

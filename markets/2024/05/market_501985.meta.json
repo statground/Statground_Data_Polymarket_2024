@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T21:26:20.691169Z",
+  "market_createdAt": "2024-05-31T21:26:20.691169Z",
+  "market_updatedAt": "2024-06-08T04:51:13.434576Z",
+  "market_startDate": "2024-06-01T00:29:55.208Z",
+  "market_endDate": "2024-06-06T12:00:00Z",
+  "market_closedTime": "2024-06-07 04:59:10+00",
+  "conditionId": "0xb27e421cf7affa5092022cc15d17dfcc06cf1cd6fcd37d93fa5bc0b007de9c3b",
+  "slug": "nba-bos-dal-2024-06-06",
+  "question": "NBA Finals Game 1: Celtics vs. Mavericks"
+}

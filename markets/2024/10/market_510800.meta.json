@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510800",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T17:43:09.957895Z",
+  "market_createdAt": "2024-10-24T17:43:09.957895Z",
+  "market_updatedAt": "2024-12-07T12:01:15.663658Z",
+  "market_startDate": "2024-10-24T18:40:55.350939Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-07 01:40:42+00",
+  "conditionId": "0x9aa76ab024627187d43a54e0435f35e89ccf5bc665e0ec3e0de7534b79acf153",
+  "slug": "will-harris-win-colorado-by-8-points",
+  "question": "Will Harris win Colorado by 8+ points?"
+}

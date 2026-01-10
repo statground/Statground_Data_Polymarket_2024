@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507105",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-15T21:03:45.398305Z",
+  "market_createdAt": "2024-09-15T21:03:45.398305Z",
+  "market_updatedAt": "2024-09-17T05:02:49.156571Z",
+  "market_startDate": "2024-09-15T23:36:48.799484Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-16 05:50:49+00",
+  "conditionId": "0x080fbe0d10840774792ffbe9597fd994a718835dcd08036068511327943a8cf3",
+  "slug": "will-there-be-45-or-more-combined-points-scored-hou-chi",
+  "question": "Will there be 45 or more combined points scored?"
+}

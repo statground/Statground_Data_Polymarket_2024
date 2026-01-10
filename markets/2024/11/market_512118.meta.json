@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512118",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T21:40:06.319326Z",
+  "market_createdAt": "2024-11-05T21:40:06.319326Z",
+  "market_updatedAt": "2024-11-08T19:49:02.363075Z",
+  "market_startDate": "2024-11-07T03:04:12.670874Z",
+  "market_endDate": "2024-11-07T12:00:00Z",
+  "market_closedTime": "2024-11-07 23:10:03+00",
+  "conditionId": "0xb36392b95690b2d78bc641163fb761559f4fd71c9bf364511a20c2470378a79a",
+  "slug": "will-the-match-between-nice-and-twente-end-in-a-draw",
+  "question": "Will the match between Nice and Twente end in a draw?"
+}

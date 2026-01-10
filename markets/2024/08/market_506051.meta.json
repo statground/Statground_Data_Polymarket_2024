@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506051",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T15:03:46.345154Z",
+  "market_createdAt": "2024-08-29T15:03:46.345154Z",
+  "market_updatedAt": "2024-08-31T22:37:02.198897Z",
+  "market_startDate": "2024-08-29T18:28:17.893Z",
+  "market_endDate": "2024-08-30T12:00:00Z",
+  "market_closedTime": "2024-08-30 23:00:32+00",
+  "conditionId": "0x29d75da9595a3dd042be2c391d140bdb6e9ac8b112002c2237b062db26799ca1",
+  "slug": "will-donald-trump-say-tampon-during-pennsylvania-rally",
+  "question": "Will Donald Trump say \"tampon\" during Pennsylvania rally?"
+}

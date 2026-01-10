@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507404",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:41:25.796634Z",
+  "market_createdAt": "2024-09-18T02:41:25.796634Z",
+  "market_updatedAt": "2025-03-16T13:01:32.569533Z",
+  "market_startDate": "2024-09-18T16:48:49.036523Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-03-16 01:45:24+00",
+  "conditionId": "0x4a64f9884cca36e19d0647221e43dd231489b675b66e993a0493903323ff080c",
+  "slug": "will-valencia-cf-win-la-liga",
+  "question": "Will Valencia CF win La Liga?"
+}

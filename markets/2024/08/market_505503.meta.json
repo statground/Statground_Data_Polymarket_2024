@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505503",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:49:45.219620Z",
+  "market_createdAt": "2024-08-21T01:49:45.21962Z",
+  "market_updatedAt": "2024-08-26T20:41:04.690864Z",
+  "market_startDate": "2024-08-21T16:45:47.919Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-25 20:36:20+00",
+  "conditionId": "0xa22ac788087fd00974b75c4e875e6354f354505baae23e88d88fb398d2f48053",
+  "slug": "will-brentford-beat-liverpool",
+  "question": "Will Brentford beat Liverpool?"
+}

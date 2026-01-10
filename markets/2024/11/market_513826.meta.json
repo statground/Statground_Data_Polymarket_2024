@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513826",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:13:07.708011Z",
+  "market_createdAt": "2024-11-24T05:13:07.708011Z",
+  "market_updatedAt": "2024-12-02T05:11:18.973535Z",
+  "market_startDate": "2024-11-24T05:16:06.892664Z",
+  "market_endDate": "2024-12-08T00:30:00Z",
+  "market_closedTime": "2024-12-01 06:30:48+00",
+  "conditionId": "0x95a124ed17ff5d91a49329f3826e497530cc5b253637fa50a049cadafbfa8ec2",
+  "slug": "cfb-tex-txam-2024-11-30",
+  "question": "Texas vs. Texas A&M"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502253",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T15:42:22.416179Z",
+  "market_createdAt": "2024-06-10T15:42:22.416179Z",
+  "market_updatedAt": "2024-06-18T23:21:12.751421Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-17T12:00:00Z",
+  "market_closedTime": "2024-06-18 02:37:45+00",
+  "conditionId": "0x0522806c6d585ee9bffbeeace5a67a8922711d1c9def71c2b321cd5f5d21eafa",
+  "slug": "will-inside-out-2-gross-between-99-108m-opening-weekend",
+  "question": "Will 'Inside Out 2' gross between $99-108m opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255107",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:24:03.256000Z",
+  "market_createdAt": "2024-03-01T18:24:03.256Z",
+  "market_updatedAt": "2024-11-07T15:03:01.782642Z",
+  "market_startDate": "2024-03-28T21:55:14.674Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 17:05:10+00",
+  "conditionId": "0x7519824e6a81fe711904c58b0f1aca91e6ddcf3d10510eb84d6a26338f025910",
+  "slug": "will-a-republican-win-indiana-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Indiana Presidential Election?"
+}

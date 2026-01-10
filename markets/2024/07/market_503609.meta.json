@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503609",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:21:45.609304Z",
+  "market_createdAt": "2024-07-17T17:21:45.609304Z",
+  "market_updatedAt": "2024-11-06T08:01:19.113432Z",
+  "market_startDate": "2024-07-17T17:21:45.609304Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 07:58:25+00",
+  "conditionId": "0x1ef59523ee90ac0af9454ae2bed6c866522526ad1360c8d46fb0df7e760eb17e",
+  "slug": "trump-post-about-a-memecoin-before-election",
+  "question": "Trump post about a memecoin before election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-30T15:48:32.127251Z",
+  "market_createdAt": "2024-04-30T15:48:32.127251Z",
+  "market_updatedAt": "2024-07-05T16:40:50.227631Z",
+  "market_startDate": "2024-04-30T16:04:56.359Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:24:31+00",
+  "conditionId": "0xe6d2c502694c4358abdd310107bc744f7a4a9d5e6d877c3dcb3e866832ccf1a2",
+  "slug": "rishi-sunak-out-before-next-uk-election",
+  "question": "Rishi Sunak out before next UK election?"
+}

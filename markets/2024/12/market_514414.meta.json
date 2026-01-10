@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514414",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:02:40.263220Z",
+  "market_createdAt": "2024-12-02T19:02:40.26322Z",
+  "market_updatedAt": "2024-12-05T21:27:32.72645Z",
+  "market_startDate": "2024-12-02T19:06:08.692408Z",
+  "market_endDate": "2024-12-04T19:30:00Z",
+  "market_closedTime": "2024-12-05 00:49:40+00",
+  "conditionId": "0x2d294a457e49c6f47873360f032dc1dd40d16e547f58807c8e0546c56d57ba15",
+  "slug": "epl-sou-che-2024-12-04-draw",
+  "question": "Will Southampton vs. Chelsea end in a draw?"
+}

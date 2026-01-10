@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T20:21:31.850701Z",
+  "market_createdAt": "2024-09-24T20:21:31.850701Z",
+  "market_updatedAt": "2024-10-03T04:16:38.66426Z",
+  "market_startDate": "2024-09-24T23:59:05.329Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 04:50:05+00",
+  "conditionId": "0x2ab98304426b17f82f8a795915edc3666484e31f3e3b251bd8e6161b8ae8f8ee",
+  "slug": "will-jd-vance-say-cat-during-the-debate",
+  "question": "Will JD Vance say \"Cat\" during the debate?"
+}

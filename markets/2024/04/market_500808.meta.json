@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T18:53:33.893669Z",
+  "market_createdAt": "2024-04-08T18:53:33.893669Z",
+  "market_updatedAt": "2024-05-07T23:10:01.837887Z",
+  "market_startDate": "2024-04-08T20:19:11.954Z",
+  "market_endDate": "2024-04-30T12:00:00Z",
+  "market_closedTime": "2024-05-01 06:25:45+00",
+  "conditionId": "0xb7f195f780c47ef35b82edbc90fad0d996b3b85435e19ad9003cdb72fc1f9c95",
+  "slug": "will-wif-flip-shib-in-april",
+  "question": "Will $WIF flip $SHIB in April?"
+}

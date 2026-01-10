@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501090",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T20:32:00.556748Z",
+  "market_createdAt": "2024-04-19T20:32:00.556748Z",
+  "market_updatedAt": "2024-05-07T23:10:17.594162Z",
+  "market_startDate": "2024-04-20T00:49:14.411Z",
+  "market_endDate": "2024-04-25T12:00:00Z",
+  "market_closedTime": "2024-04-28 06:30:40+00",
+  "conditionId": "0xb0954643267a4bdfedb9de50907e47e0406517d7cc22fffae894f6b07c475f13",
+  "slug": "will-taylor-swifts-new-album-have-more-than-2pt4m-sales-in-its-first-week",
+  "question": "Will Taylor Swift's new album have more than 2.4m sales in its first week?"
+}

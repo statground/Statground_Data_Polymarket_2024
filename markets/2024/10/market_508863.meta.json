@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508863",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T16:02:43.586366Z",
+  "market_createdAt": "2024-10-04T16:02:43.586366Z",
+  "market_updatedAt": "2024-10-06T20:26:40.456587Z",
+  "market_startDate": "2024-10-04T18:29:28.032119Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-05 21:32:27+00",
+  "conditionId": "0x2783bf3767780947692a21ec96ad00ddff50a9184d6bd2cfef7baa452b285689",
+  "slug": "will-texas-am-beat-missouri-by-3-or-more-points",
+  "question": "Will Texas A&M beat Missouri by 3 or more points?"
+}

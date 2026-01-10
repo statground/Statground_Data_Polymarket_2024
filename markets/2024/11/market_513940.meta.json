@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513940",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:03:01.392762Z",
+  "market_createdAt": "2024-11-25T05:03:01.392762Z",
+  "market_updatedAt": "2024-12-02T23:17:22.630782Z",
+  "market_startDate": "2024-11-25T05:05:36.006156Z",
+  "market_endDate": "2024-12-08T18:00:00Z",
+  "market_closedTime": "2024-12-01 23:29:47+00",
+  "conditionId": "0x3a59784d74e1f1b88a36d37483eddf07054668e65a4424487cb479cc523a342b",
+  "slug": "nfl-pit-cin-2024-12-01",
+  "question": "Steelers vs. Bengals"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T15:40:18.976538Z",
+  "market_createdAt": "2024-10-04T15:40:18.976538Z",
+  "market_updatedAt": "2024-10-06T06:42:40.710308Z",
+  "market_startDate": "2024-10-04T18:24:06.400229Z",
+  "market_endDate": "2024-10-04T12:00:00Z",
+  "market_closedTime": "2024-10-05 06:39:00+00",
+  "conditionId": "0xe473ab049e20acd42c49d195a237429f70e4f99767814726f20c4dbb1b199388",
+  "slug": "will-unlv-beat-syracuse-by-7-or-more-points",
+  "question": "Will UNLV beat Syracuse by 7 or more points?"
+}

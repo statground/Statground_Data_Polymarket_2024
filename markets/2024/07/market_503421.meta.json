@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503421",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T17:53:41.388963Z",
+  "market_createdAt": "2024-07-12T17:53:41.388963Z",
+  "market_updatedAt": "2024-07-16T05:10:44.830877Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 06:12:11+00",
+  "conditionId": "0x2fe1ebe15604a00b35f39750737fdc75d66f21c6363e0d75bcffb0891fb1f5e0",
+  "slug": "copa-america-finals-argentina-vs-colombia",
+  "question": "Copa America Finals: Argentina vs. Colombia"
+}

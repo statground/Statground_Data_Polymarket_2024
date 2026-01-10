@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254035",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-19T20:19:09.149000Z",
+  "market_createdAt": "2024-01-19T20:19:09.149Z",
+  "market_updatedAt": "2024-01-23T19:37:25.984Z",
+  "market_startDate": "2024-01-19T21:35:00Z",
+  "market_endDate": "2024-01-24T00:00:00Z",
+  "market_closedTime": "2024-01-22 22:00:46+00",
+  "conditionId": "0xa4f2e923e78540bcf674d741ad1f13b29ed83a3dc3926a37807da6030dd23936",
+  "slug": "did-mrbeasts-twitter-post-with-over-124m-views-make-between-0-and-5k",
+  "question": "Did MrBeast's Twitter post with over 124m views make between $0 and $5k?"
+}

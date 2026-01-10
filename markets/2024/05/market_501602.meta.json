@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501602",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-14T20:50:54.154173Z",
+  "market_createdAt": "2024-05-14T20:50:54.154173Z",
+  "market_updatedAt": "2024-05-19T03:44:31.222737Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-19T12:00:00Z",
+  "market_closedTime": "2024-05-18 17:56:06+00",
+  "conditionId": "0x1e7bcdb7e1834de5d2a9d6cd83155edc1589edb30c8b12fae7a0b3996e53bb2c",
+  "slug": "will-ludvig-aberg-win-the-2024-pga-championship",
+  "question": "Will Ludvig Aberg win the 2024 PGA Championship?"
+}

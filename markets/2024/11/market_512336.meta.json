@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512336",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T23:22:23.892077Z",
+  "market_createdAt": "2024-11-07T23:22:23.892077Z",
+  "market_updatedAt": "2024-12-28T12:25:08.051777Z",
+  "market_startDate": "2024-11-08T00:21:56.307Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-27 12:40:39+00",
+  "conditionId": "0x43419b262b7a6e795bd1432b369153a0dbdad5625678bd3e21664eb50dc3ea19",
+  "slug": "bundestag-dissolved-in-2024",
+  "question": "German Bundestag dissolved in 2024?"
+}

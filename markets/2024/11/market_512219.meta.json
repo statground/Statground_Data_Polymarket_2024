@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512219",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T21:08:18.407265Z",
+  "market_createdAt": "2024-11-06T21:08:18.407265Z",
+  "market_updatedAt": "2024-11-24T21:19:56.587642Z",
+  "market_startDate": "2024-11-06T21:39:44.77Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-24 00:41:47+00",
+  "conditionId": "0x62cb3e1f93e717296c7207c645adce86a47849997ab96191d05362dce2914300",
+  "slug": "will-trump-nominate-sid-miller-for-agriculture-secretary",
+  "question": "Will Trump nominate Sid Miller for Agriculture Secretary?"
+}

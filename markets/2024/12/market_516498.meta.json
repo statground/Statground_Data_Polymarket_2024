@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516498",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:21:56.550988Z",
+  "market_createdAt": "2024-12-27T16:21:56.550988Z",
+  "market_updatedAt": "2025-01-31T19:53:09.48266Z",
+  "market_startDate": "2024-12-27T17:19:00.378Z",
+  "market_endDate": "2025-01-03T12:00:00Z",
+  "market_closedTime": "2025-01-03 19:31:47+00",
+  "conditionId": "0xc201255ac4fd4ca73d38eb331681dd9c4597fc85ed52a89ef664fa399a2f185a",
+  "slug": "bitcoin-above-94000-on-january-3",
+  "question": "Bitcoin above $94,000 on January 3?"
+}

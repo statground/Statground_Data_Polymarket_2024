@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515081",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:05:30.021519Z",
+  "market_createdAt": "2024-12-08T07:05:30.021519Z",
+  "market_updatedAt": "2024-12-16T04:27:25.979498Z",
+  "market_startDate": "2024-12-08T07:08:57.028093Z",
+  "market_endDate": "2024-12-22T00:00:00Z",
+  "market_closedTime": "2024-12-15 05:00:09+00",
+  "conditionId": "0x6c1e285a0f555996a5f955e4aeedaaeb8a69a9646040b5acd9fc21cacef3d86c",
+  "slug": "nhl-mon-wpg-2024-12-14",
+  "question": "Canadiens vs. Jets"
+}

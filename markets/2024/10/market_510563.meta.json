@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:31:47.182693Z",
+  "market_createdAt": "2024-10-22T16:31:47.182693Z",
+  "market_updatedAt": "2024-10-25T20:57:08.00214Z",
+  "market_startDate": "2024-10-22T20:58:26.143466Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 22:09:29+00",
+  "conditionId": "0x433165fd0d520ebf2a41285534c2529cf993917147ecb6ac594a088b30ec93ff",
+  "slug": "will-nice-beat-ferencvaros",
+  "question": "Will Nice beat Ferencvaros?"
+}

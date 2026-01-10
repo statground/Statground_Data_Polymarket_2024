@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514235",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:40:45.962440Z",
+  "market_createdAt": "2024-11-27T19:40:45.96244Z",
+  "market_updatedAt": "2024-11-29T23:13:18.122342Z",
+  "market_startDate": "2024-11-27T20:51:52.077703Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-28 23:07:37+00",
+  "conditionId": "0x5dc867a84fba1c68fc6f021250929df285e286b8613770f60787d118019b7cf5",
+  "slug": "will-the-lions-beat-the-bears-by-10-or-more-points",
+  "question": "Will the Lions beat the Bears by 10 or more points?"
+}

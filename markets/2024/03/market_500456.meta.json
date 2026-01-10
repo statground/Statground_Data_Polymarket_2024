@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500456",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-26T19:08:02.892834Z",
+  "market_createdAt": "2024-03-26T19:08:02.892834Z",
+  "market_updatedAt": "2024-05-07T23:09:23.411927Z",
+  "market_startDate": "2024-03-26T21:08:32.489Z",
+  "market_endDate": "2024-04-23T12:00:00Z",
+  "market_closedTime": "2024-04-22 03:38:18+00",
+  "conditionId": "0x9aadb728350ee642de8f3c8d15a4377be42dfd903a8bcfededf1a2ddf3f8d01a",
+  "slug": "will-fabiano-caruana-win-fide-candidates-2024",
+  "question": "Will Fabiano Caruana win FIDE Candidates 2024?"
+}

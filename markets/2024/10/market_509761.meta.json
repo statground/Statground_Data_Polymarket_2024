@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-12T21:28:45.221895Z",
+  "market_createdAt": "2024-10-12T21:28:45.221895Z",
+  "market_updatedAt": "2024-10-22T08:27:19.39415Z",
+  "market_startDate": "2024-10-13T18:17:33.577827Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-21 08:49:14+00",
+  "conditionId": "0x355ca6f99395963c8d7282349392fd4b6b40745ca73c3169cd55432dc50abd09",
+  "slug": "dodgers-vs-mets-series-winner-nlcs",
+  "question": "Dodgers vs. Mets Series Winner"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504397",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T20:17:22.872944Z",
+  "market_createdAt": "2024-07-31T20:17:22.872944Z",
+  "market_updatedAt": "2024-08-04T07:53:00.501763Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 18:33:08+00",
+  "conditionId": "0x6d41809ca5c64abc7ba8c52a15487e6ba6be5842d8c02418bc824e52fbfd4174",
+  "slug": "will-another-athlete-win-gold-in-womens-vault-final",
+  "question": "Will another athlete win Gold in Women’s Vault Final?"
+}

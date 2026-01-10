@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507707",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-23T15:46:46.971108Z",
+  "market_createdAt": "2024-09-23T15:46:46.971108Z",
+  "market_updatedAt": "2025-01-02T10:11:01.769706Z",
+  "market_startDate": "2024-09-23T17:41:40.83391Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 10:28:32+00",
+  "conditionId": "0xb6b07ed97d10051f2a63821e47ff46d71d4f479fa255ce8a6e07d5325ac06a68",
+  "slug": "will-berachain-not-launch-a-token-in-2024",
+  "question": "Will Berachain not launch a token in 2024?"
+}

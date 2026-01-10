@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255282",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-05T05:24:28.722000Z",
+  "market_createdAt": "2024-03-05T05:24:28.722Z",
+  "market_updatedAt": "2024-04-26T02:59:19.421781Z",
+  "market_startDate": "2024-03-05T06:03:24.595Z",
+  "market_endDate": "2024-03-04T00:00:00Z",
+  "market_closedTime": "2024-03-06 08:02:57+00",
+  "conditionId": "0xdb14ad61ab20a6caf1cfa204f7b056852ef1a76a6b253b2cada2cc9e1d62a528",
+  "slug": "will-trump-win-california-republican-primary",
+  "question": "Will Trump win California Republican Primary?"
+}

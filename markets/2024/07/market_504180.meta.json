@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504180",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T18:59:55.767413Z",
+  "market_createdAt": "2024-07-25T18:59:55.767413Z",
+  "market_updatedAt": "2024-08-12T15:06:50.939556Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-11 18:54:42+00",
+  "conditionId": "0x8ab81a4fbffe1d5ea5d73d17ec945243b756accb147f1fb9d49bd7424667ff1d",
+  "slug": "will-another-country-win-the-3rd-most-gold-medals",
+  "question": "Will another country win the 3rd most gold medals?"
+}

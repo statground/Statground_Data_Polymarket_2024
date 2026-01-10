@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502271",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-10T18:55:57.964395Z",
+  "market_createdAt": "2024-06-10T18:55:57.964395Z",
+  "market_updatedAt": "2024-07-05T16:20:38.56969Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 16:19:01+00",
+  "conditionId": "0x1a69dba497469599870c5afd84207303090235faa7fc0d226ef8b3ad3d3c728a",
+  "slug": "greens-win-the-second-most-seats-in-next-uk-election",
+  "question": "Greens win the second most seats in next UK election? "
+}

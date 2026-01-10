@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508677",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T17:17:03.330419Z",
+  "market_createdAt": "2024-10-02T17:17:03.330419Z",
+  "market_updatedAt": "2024-10-10T23:52:46.803517Z",
+  "market_startDate": "2024-10-02T21:01:12.193755Z",
+  "market_endDate": "2024-10-21T12:00:00Z",
+  "market_closedTime": "2024-10-10 06:14:49+00",
+  "conditionId": "0x8d1175dfe9f4b75d12b78c80f790371f09df9050245b68b2aa205cee1c83c0cd",
+  "slug": "will-the-philadelphia-phillies-win-the-national-league",
+  "question": "Will the Philadelphia Phillies win the National League?"
+}

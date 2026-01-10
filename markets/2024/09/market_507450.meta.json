@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507450",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T15:15:13.463658Z",
+  "market_createdAt": "2024-09-19T15:15:13.463658Z",
+  "market_updatedAt": "2024-09-21T03:56:47.263478Z",
+  "market_startDate": "2024-09-19T15:21:53.259472Z",
+  "market_endDate": "2024-09-19T12:00:00Z",
+  "market_closedTime": "2024-09-20 05:19:09+00",
+  "conditionId": "0x0b2876b6a5152dacef31e38fd6cb79e8b7b05b246f2bab91203dc79e2022f82d",
+  "slug": "will-the-jets-and-patriots-combine-for-39-or-more-points",
+  "question": "Will the Jets and Patriots combine for 39 or more points?"
+}

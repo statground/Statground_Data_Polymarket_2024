@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512330",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T22:26:03.486397Z",
+  "market_createdAt": "2024-11-07T22:26:03.486397Z",
+  "market_updatedAt": "2024-11-16T16:34:57.470573Z",
+  "market_startDate": "2024-11-07T22:52:42.504Z",
+  "market_endDate": "2024-11-14T12:00:00Z",
+  "market_closedTime": "2024-11-15 19:19:44+00",
+  "conditionId": "0x80cd2c45399e16f58d51f9b10a9b376880f1d4cc47caf14732fabc10698d8ee5",
+  "slug": "will-the-sjb-win-the-most-seats-in-the-2024-sri-lankan-parliamentary-elections",
+  "question": "Will the SJB win the most seats in the 2024 Sri Lankan Parliamentary elections?"
+}

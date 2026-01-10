@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-12T19:34:18.559591Z",
+  "market_createdAt": "2024-07-12T19:34:18.559591Z",
+  "market_updatedAt": "2024-07-15T20:06:49.08731Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-14 23:47:11+00",
+  "conditionId": "0x91880b1d682b598a7e7831bdc2fe4bc1ae662424bd53590be5004f631f554a8c",
+  "slug": "will-nico-williams-score-the-first-goal",
+  "question": "Will Nico Williams score the first goal?"
+}

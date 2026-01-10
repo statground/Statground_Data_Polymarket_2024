@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507382",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T22:50:36.711439Z",
+  "market_createdAt": "2024-09-17T22:50:36.711439Z",
+  "market_updatedAt": "2024-10-01T20:42:39.876186Z",
+  "market_startDate": "2024-09-17T23:22:39.251781Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 06:22:00+00",
+  "conditionId": "0xac1c3cd4d72c9817834941ad62521cde5a43f69b3036d69d82632ddc1fbd4c6f",
+  "slug": "diddy-released-from-custody-before-october",
+  "question": "Diddy released from custody before October?"
+}

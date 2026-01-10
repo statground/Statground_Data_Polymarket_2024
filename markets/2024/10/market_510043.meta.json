@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T22:01:14.103219Z",
+  "market_createdAt": "2024-10-16T22:01:14.103219Z",
+  "market_updatedAt": "2024-10-19T05:32:54.520159Z",
+  "market_startDate": "2024-10-16T22:08:53.201148Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 06:00:37+00",
+  "conditionId": "0xa63bf267a26e8257bd564116f862c0cbcf81fbee03df665800a07ee7da2d5457",
+  "slug": "will-bronny-score-a-point-oct-17",
+  "question": "Will Bronny score in his next game?"
+}

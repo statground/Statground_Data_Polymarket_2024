@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516154",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:48:14.972546Z",
+  "market_createdAt": "2024-12-20T19:48:14.972546Z",
+  "market_updatedAt": "2024-12-23T21:41:43.461807Z",
+  "market_startDate": "2024-12-20T21:31:32.941936Z",
+  "market_endDate": "2024-12-22T12:00:00Z",
+  "market_closedTime": "2024-12-22 22:53:50+00",
+  "conditionId": "0x551e8275f450d3999099c3cd81d22f7dbd683d908fc00702f4cd58ece47a8864",
+  "slug": "will-the-bengals-beat-the-browns-by-9-or-more-points",
+  "question": "Will the Bengals beat the Browns by 9 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505310",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:23:00.125713Z",
+  "market_createdAt": "2024-08-19T16:23:00.125713Z",
+  "market_updatedAt": "2024-08-27T23:33:07.844328Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-27 01:51:19+00",
+  "conditionId": "0x0254a25784aa8eef805f97b4ec584814263960308d703e9c33a4e800cee2b255",
+  "slug": "will-anish-giri-win-the-2024-sinquefield-cup",
+  "question": "Will Anish Giri win the 2024 Sinquefield Cup?"
+}

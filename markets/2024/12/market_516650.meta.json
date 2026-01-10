@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T06:03:54.715051Z",
+  "market_createdAt": "2024-12-29T06:03:54.715051Z",
+  "market_updatedAt": "2025-01-06T23:35:28.900491Z",
+  "market_startDate": "2024-12-29T06:06:31.25Z",
+  "market_endDate": "2025-01-12T12:00:00Z",
+  "market_closedTime": "2025-01-05 23:43:25+00",
+  "conditionId": "0x51fdf908692ac89ae6879c5b31195868aefffaca59ef553bf81e91a6b0019cdb",
+  "slug": "nfl-jax-ind-2025-01-05",
+  "question": "Jaguars vs. Colts"
+}

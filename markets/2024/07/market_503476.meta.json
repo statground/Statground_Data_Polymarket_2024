@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503476",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T14:47:01.320649Z",
+  "market_createdAt": "2024-07-15T14:47:01.320649Z",
+  "market_updatedAt": "2024-07-18T16:28:45.628367Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-17 18:18:19+00",
+  "conditionId": "0x40e4475b7a0800c543d7594dd2e73d56e2c5f58db5e07de00693d737613712d6",
+  "slug": "will-biden-say-ear-during-lester-holt-interview",
+  "question": "Will Biden say \"Ear\" during Lester Holt interview?"
+}

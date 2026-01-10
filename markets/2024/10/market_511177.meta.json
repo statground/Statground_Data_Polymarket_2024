@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511177",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T20:11:09.607467Z",
+  "market_createdAt": "2024-10-28T20:11:09.607467Z",
+  "market_updatedAt": "2024-11-02T05:07:09.144491Z",
+  "market_startDate": "2024-10-28T20:13:51.172634Z",
+  "market_endDate": "2024-11-01T00:15:00Z",
+  "market_closedTime": "2024-11-01 06:29:59+00",
+  "conditionId": "0xcd04add0c79c55d183366c2d6e717b561b7e9aed12f8091516efe6e60b12c389",
+  "slug": "nfl-hou-nyj-2024-10-31",
+  "question": "Texans vs. Jets"
+}

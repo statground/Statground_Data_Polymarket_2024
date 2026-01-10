@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500679",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T15:45:39.269498Z",
+  "market_createdAt": "2024-04-04T15:45:39.269498Z",
+  "market_updatedAt": "2024-11-08T01:03:06.312811Z",
+  "market_startDate": "2024-04-12T19:52:55.654Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 02:38:18+00",
+  "conditionId": "0x8e69d81c842e4887edbd21dabcc85e8a0e05dc2efeacc1dca2995f4f02122e9b",
+  "slug": "will-a-republican-win-new-mexico-us-senate-election",
+  "question": "Will a Republican win New Mexico US Senate Election?"
+}

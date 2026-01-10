@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515285",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:43:34.995112Z",
+  "market_createdAt": "2024-12-10T19:43:34.995112Z",
+  "market_updatedAt": "2024-12-24T16:43:32.918464Z",
+  "market_startDate": "2024-12-10T19:59:55.147457Z",
+  "market_endDate": "2024-12-23T12:00:00Z",
+  "market_closedTime": "2024-12-23 18:47:51+00",
+  "conditionId": "0x0cf9c58ccce129e0166109bf40b47d7d27429d0b00ee8dff1d1c5a77aee36600",
+  "slug": "will-mufasa-the-lion-king-rotten-tomatoes-score-be-between-70-79",
+  "question": "Will \"Mufasa: The Lion King\" Rotten Tomatoes score be between 70-79?"
+}

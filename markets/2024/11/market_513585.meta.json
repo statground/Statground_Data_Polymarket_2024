@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T21:30:42.597477Z",
+  "market_createdAt": "2024-11-20T21:30:42.597477Z",
+  "market_updatedAt": "2025-02-04T06:30:29.003562Z",
+  "market_startDate": "2024-11-20T22:05:28.11Z",
+  "market_endDate": "2025-02-02T12:00:00Z",
+  "market_closedTime": "2025-02-03 07:48:40+00",
+  "conditionId": "0xe9457843bee925935748507cc4ec194b9c7b418114b71dde310617ea69210566",
+  "slug": "will-espresso-win-record-of-the-year",
+  "question": "Will 'Espresso' win Record of the Year?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505637",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T17:00:03.211655Z",
+  "market_createdAt": "2024-08-22T17:00:03.211655Z",
+  "market_updatedAt": "2024-08-23T22:07:05.567138Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-22T12:00:00Z",
+  "market_closedTime": "2024-08-22 22:38:33+00",
+  "conditionId": "0x95bf781042a2171846f66d63bfeb974f740e7b4b79f68b09f858d36092bd4e6b",
+  "slug": "will-donald-trump-say-world-war-3-in-border-speech",
+  "question": "Will Donald Trump say \"World War 3\" in border speech?"
+}

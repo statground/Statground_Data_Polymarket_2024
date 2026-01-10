@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515223",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T23:11:41.532310Z",
+  "market_createdAt": "2024-12-09T23:11:41.53231Z",
+  "market_updatedAt": "2024-12-16T05:37:26.394933Z",
+  "market_startDate": "2024-12-10T18:09:18.483792Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 06:14:47+00",
+  "conditionId": "0x3e4ccb12ae0a3a3a56e25ae4ed57d78053d86d3d5a8f1343a9bc0c81cb7b9334",
+  "slug": "yanez-vs-marcos",
+  "question": "Yanez vs. Marcos"
+}

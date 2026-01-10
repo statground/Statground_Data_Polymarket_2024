@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514074",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:45:49.778047Z",
+  "market_createdAt": "2024-11-26T07:45:49.778047Z",
+  "market_updatedAt": "2024-11-28T21:57:29.158994Z",
+  "market_startDate": "2024-11-26T22:28:00.863744Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:08:11+00",
+  "conditionId": "0x05206035e3a913a8d9c6fe648dd7c1ba0aa71f53798abf659d1106f8abf29bde",
+  "slug": "will-the-match-between-celtic-and-club-brugge-end-in-a-draw",
+  "question": "Will the match between Celtic and Club Brugge end in a draw?"
+}

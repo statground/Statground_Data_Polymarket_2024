@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502319",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:42:18.808106Z",
+  "market_createdAt": "2024-06-11T18:42:18.808106Z",
+  "market_updatedAt": "2024-07-16T07:20:42.918003Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-07-15 07:21:23+00",
+  "conditionId": "0x1c27161c95cb6a3a1403641517c1d79e4e18431f75ad1a9bc1443193b1e1a246",
+  "slug": "argentina-wins-copa-america-2024",
+  "question": "Argentina wins Copa America 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T14:57:20.772722Z",
+  "market_createdAt": "2024-03-18T14:57:20.772722Z",
+  "market_updatedAt": "2024-05-07T23:09:32.963153Z",
+  "market_startDate": "2024-03-18T18:57:03.349Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-23 02:14:01+00",
+  "conditionId": "0xee95b0a8b53435a180c3f9ff319e565d46db44a3edf5e1bbbcac446137fda1f7",
+  "slug": "will-auburn-win-the-ncaa-tournament",
+  "question": "Will Auburn win the NCAA tournament?"
+}

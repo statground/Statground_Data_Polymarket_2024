@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T14:02:35.428503Z",
+  "market_createdAt": "2024-09-03T14:02:35.428503Z",
+  "market_updatedAt": "2024-09-05T05:47:04.582578Z",
+  "market_startDate": "2024-09-03T15:07:49.573786Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-04 06:08:00+00",
+  "conditionId": "0x17fd45c3617a151703ce45ce9fc072cae06d057bb733fc92283d24fdb59f32d2",
+  "slug": "us-open-tiafoe-vs-dimitrov",
+  "question": "US Open: Tiafoe vs. Dimitrov"
+}

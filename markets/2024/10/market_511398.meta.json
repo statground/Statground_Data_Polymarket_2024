@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511398",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T22:27:07.563303Z",
+  "market_createdAt": "2024-10-29T22:27:07.563303Z",
+  "market_updatedAt": "2024-11-07T18:29:11.73732Z",
+  "market_startDate": "2024-10-29T22:35:37.404451Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 22:00:58+00",
+  "conditionId": "0x6d28b4c6c6416dedbb5d3a261f7e0915bdf54b9538e89c57e296db795dc836ac",
+  "slug": "harris-wins-the-election-but-loses-wi-mi-or-pa",
+  "question": "Harris wins the election but loses WI, MI, or PA?"
+}

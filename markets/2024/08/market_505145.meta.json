@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505145",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T00:04:12.877167Z",
+  "market_createdAt": "2024-08-15T00:04:12.877167Z",
+  "market_updatedAt": "2024-09-11T21:07:04.444651Z",
+  "market_startDate": "2024-08-15T00:04:12.877167Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:08:30+00",
+  "conditionId": "0xce01eadbad63add355c37a6bad0f5ceac70b34906e0a5bd72331412d9e53aaff",
+  "slug": "live-audience-at-trumpharris-debate",
+  "question": "Live audience at Trump/Harris debate?"
+}

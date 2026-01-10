@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511159",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:59:25.287552Z",
+  "market_createdAt": "2024-10-28T19:59:25.287552Z",
+  "market_updatedAt": "2024-11-04T19:03:21.834329Z",
+  "market_startDate": "2024-10-28T20:02:04.481717Z",
+  "market_endDate": "2024-11-03T14:00:00Z",
+  "market_closedTime": "2024-11-03 19:19:24+00",
+  "conditionId": "0x04cd645d9b4b1d810580af7f56b1babca6dbfe16124fd7e9173bea5234beda3f",
+  "slug": "epl-tot-ast-2024-11-03-draw",
+  "question": "Will Spurs vs. Villa end in a draw?"
+}

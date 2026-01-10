@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515692",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:01:34.388290Z",
+  "market_createdAt": "2024-12-15T07:01:34.38829Z",
+  "market_updatedAt": "2024-12-19T04:35:51.656428Z",
+  "market_startDate": "2024-12-15T07:03:59.503306Z",
+  "market_endDate": "2024-12-25T00:00:00Z",
+  "market_closedTime": "2024-12-18 05:08:06+00",
+  "conditionId": "0xfa5feded941dac20fe1adc8df65d71e40d68a87ea5361e3b9117b9b9078db9d2",
+  "slug": "nhl-cbj-tb-2024-12-17",
+  "question": "Blue Jackets vs. Lightning"
+}

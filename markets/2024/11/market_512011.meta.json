@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512011",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:50:19.696096Z",
+  "market_createdAt": "2024-11-05T04:50:19.696096Z",
+  "market_updatedAt": "2024-11-08T01:23:05.962632Z",
+  "market_startDate": "2024-11-05T20:19:26.720131Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:19:14+00",
+  "conditionId": "0xe2a01adba82c22860a4258d8bb1509f4d863e78e4a64b0fbda8890b9748d6678",
+  "slug": "will-stuttgart-beat-atalanta",
+  "question": "Will Stuttgart beat Atalanta?"
+}

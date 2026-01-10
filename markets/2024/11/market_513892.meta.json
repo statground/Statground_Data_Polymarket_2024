@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513892",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T18:51:12.366853Z",
+  "market_createdAt": "2024-11-24T18:51:12.366853Z",
+  "market_updatedAt": "2024-11-27T04:35:46.821285Z",
+  "market_startDate": "2024-11-24T18:53:47.011414Z",
+  "market_endDate": "2024-12-03T00:30:00Z",
+  "market_closedTime": "2024-11-26 04:48:23+00",
+  "conditionId": "0xd072d0e34cc2987e4222132bef43907a1fc227984bef44fb1c855b6a544a3124",
+  "slug": "nba-dal-atl-2024-11-25",
+  "question": "Mavericks vs. Hawks"
+}

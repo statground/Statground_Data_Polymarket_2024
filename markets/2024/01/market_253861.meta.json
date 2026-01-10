@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253861",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-12T21:24:28.980000Z",
+  "market_createdAt": "2024-01-12T21:24:28.98Z",
+  "market_updatedAt": "2024-01-29T19:09:39.803Z",
+  "market_startDate": "2024-01-17T00:05:38.985Z",
+  "market_endDate": "2024-01-26T00:00:00Z",
+  "market_closedTime": "2024-01-29 01:18:40+00",
+  "conditionId": "0xa2279b962c1fa4616bf04f0d54a9a1f3b1697db528c4d2a939ca15ece667f075",
+  "slug": "finnish-presidential-election-will-olli-rehn-win",
+  "question": "Finnish Presidential Election: Will Olli Rehn win?"
+}

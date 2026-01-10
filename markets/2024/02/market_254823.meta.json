@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254823",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T20:44:03.455000Z",
+  "market_createdAt": "2024-02-27T20:44:03.455Z",
+  "market_updatedAt": "2024-05-20T16:44:06.065938Z",
+  "market_startDate": "2024-03-01T20:00:00Z",
+  "market_endDate": "2024-04-23T00:00:00Z",
+  "market_closedTime": "2024-05-18 21:19:28+00",
+  "conditionId": "0x88c2ef1bea4bc18ff158046d8f6120c5878f7bfd0ed3b716184a69e348b82a70",
+  "slug": "will-russell-wilson-be-traded-to-the-steelers",
+  "question": "Will Russell Wilson be traded to the Steelers?"
+}

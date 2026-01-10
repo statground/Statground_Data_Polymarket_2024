@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501166",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-25T03:48:00.818853Z",
+  "market_createdAt": "2024-04-25T03:48:00.818853Z",
+  "market_updatedAt": "2024-11-09T22:12:58.915752Z",
+  "market_startDate": "2024-04-25T03:49:31.593Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-09 00:29:46+00",
+  "conditionId": "0x831ebc7fa8c94d42d526bd6ed622afde66cbbaaa2f14a480072d7b5e58f0c7ec",
+  "slug": "unrealized-gains-tax-passed-before-election-day",
+  "question": "Unrealized gains tax passed before election day?"
+}

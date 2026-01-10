@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500590",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-01T15:36:19.979383Z",
+  "market_createdAt": "2024-04-01T15:36:19.979383Z",
+  "market_updatedAt": "2024-05-07T23:10:01.803121Z",
+  "market_startDate": "2024-04-01T16:52:17.125Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-01 22:33:29+00",
+  "conditionId": "0xf4d226711a7bc139c21fdce2f46b2b14913c1789138b02ca3dd298687d832096",
+  "slug": "port-of-baltimore-temporary-channel-opened-by-april-15",
+  "question": " Port of Baltimore temporary channel open by April 15?"
+}

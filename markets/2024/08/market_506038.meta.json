@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506038",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:54:16.149061Z",
+  "market_createdAt": "2024-08-28T19:54:16.149061Z",
+  "market_updatedAt": "2024-12-31T01:37:41.905663Z",
+  "market_startDate": "2024-08-28T19:54:16.149061Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-30 08:17:11+00",
+  "conditionId": "0x2ad51109317dfbd94cdcc4911759490c66bd81249701fe1eb1103c94a2f9f413",
+  "slug": "will-the-seahawks-win-the-nfc-championship",
+  "question": "Will the Seahawks win the NFC Championship?"
+}

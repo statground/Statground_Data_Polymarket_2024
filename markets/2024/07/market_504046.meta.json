@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504046",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-23T17:44:58.795785Z",
+  "market_createdAt": "2024-07-23T17:44:58.795785Z",
+  "market_updatedAt": "2024-07-26T03:02:42.806955Z",
+  "market_startDate": "2024-07-24T21:07:11.526Z",
+  "market_endDate": "2024-07-24T12:00:00Z",
+  "market_closedTime": "2024-07-25 03:37:57+00",
+  "conditionId": "0x0729f4e17ad96fba70077d1f645a9ba7058998bec658c99e456341c6a9cacd03",
+  "slug": "will-biden-say-folks-three-or-more-times-during-drop-out-speech",
+  "question": "Will Biden say \"Folks\" three or more times during drop out speech?"
+}

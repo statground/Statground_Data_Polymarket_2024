@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515326",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:16:12.867461Z",
+  "market_createdAt": "2024-12-10T22:16:12.867461Z",
+  "market_updatedAt": "2024-12-13T21:53:21.540933Z",
+  "market_startDate": "2024-12-11T23:03:03.108974Z",
+  "market_endDate": "2024-12-12T12:00:00Z",
+  "market_closedTime": "2024-12-13 01:04:22+00",
+  "conditionId": "0x729c82c86d4b69514ec8d7f1457f453b134aa316276a37f44f5eb9c7f5f16149",
+  "slug": "will-if-elfsborg-beat-fk-qarabag",
+  "question": "Will IF Elfsborg beat FK Qarabag?"
+}

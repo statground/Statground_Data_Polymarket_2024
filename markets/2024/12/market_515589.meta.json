@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:30:19.404763Z",
+  "market_createdAt": "2024-12-13T19:30:19.404763Z",
+  "market_updatedAt": "2024-12-21T05:32:58.007973Z",
+  "market_startDate": "2024-12-13T19:32:50.795522Z",
+  "market_endDate": "2024-12-27T01:00:00Z",
+  "market_closedTime": "2024-12-20 05:56:34+00",
+  "conditionId": "0x074b0e01739e66ac3613434fdbfe28d5d18e4787f25d4a7efa84baf7e6ae3840",
+  "slug": "nba-atl-sas-2024-12-19",
+  "question": "Hawks vs. Spurs"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502317",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T16:57:06.426641Z",
+  "market_createdAt": "2024-06-11T16:57:06.426641Z",
+  "market_updatedAt": "2024-06-16T03:11:12.023818Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-15 06:03:19+00",
+  "conditionId": "0x3a0e0c29791418b6187633d4cedcdaa9763fa6802809157cd5b57af9c63a8fcb",
+  "slug": "ethereum-below-3000-by-friday-june-14",
+  "question": "Will ETH dip below $3,000 by Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505324",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:43:19.848369Z",
+  "market_createdAt": "2024-08-19T16:43:19.848369Z",
+  "market_updatedAt": "2024-09-08T03:07:10.581943Z",
+  "market_startDate": "2024-08-19T16:43:19.848369Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-07 06:22:26+00",
+  "conditionId": "0x96f08eb599f5876e4b13e814afb2bb64cd843032d0d7b0c2a1ee67cd5f0c007e",
+  "slug": "will-frances-tiafoe-win-the-us-open",
+  "question": "Will Frances Tiafoe win the US Open?"
+}

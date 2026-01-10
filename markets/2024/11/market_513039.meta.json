@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513039",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T20:53:15.622040Z",
+  "market_createdAt": "2024-11-14T20:53:15.62204Z",
+  "market_updatedAt": "2024-12-07T15:13:10.713633Z",
+  "market_startDate": "2024-11-14T21:02:30.083981Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 16:46:00+00",
+  "conditionId": "0x44d97a2b28be0af7759eee93e231341d0820ad38e3322b3e3196e217081aaeae",
+  "slug": "will-the-november-unemployment-rate-be-4pt1",
+  "question": "Will the November unemployment rate be 4.1%?"
+}

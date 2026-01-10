@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511436",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T16:51:03.040912Z",
+  "market_createdAt": "2024-10-30T16:51:03.040912Z",
+  "market_updatedAt": "2024-11-01T22:07:16.192052Z",
+  "market_startDate": "2024-10-30T18:38:17.487972Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-31 22:01:27+00",
+  "conditionId": "0x7cc116758d36d85c874acf87fddaea3efbe4376031443563d786e1cb05e7fb47",
+  "slug": "will-trump-say-halloween-during-new-mexico-rally-on-october-31",
+  "question": "Will Trump say \"Halloween\" during New Mexico rally on October 31?"
+}

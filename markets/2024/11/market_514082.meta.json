@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514082",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:53:31.897426Z",
+  "market_createdAt": "2024-11-26T07:53:31.897426Z",
+  "market_updatedAt": "2024-11-29T00:39:29.124789Z",
+  "market_startDate": "2024-11-26T22:29:26.195169Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:08:21+00",
+  "conditionId": "0xf4333342b3ea9861f668a609bdcc3beee38d51e13db1a5ca835f908282c698e9",
+  "slug": "will-shakhtar-donetsk-beat-psv",
+  "question": "Will Shakhtar Donetsk beat PSV?"
+}

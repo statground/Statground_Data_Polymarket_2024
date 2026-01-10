@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506932",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-12T21:11:43.279102Z",
+  "market_createdAt": "2024-09-12T21:11:43.279102Z",
+  "market_updatedAt": "2024-09-21T00:32:46.558568Z",
+  "market_startDate": "2024-09-12T21:52:19.025Z",
+  "market_endDate": "2024-09-15T12:00:00Z",
+  "market_closedTime": "2024-09-20 00:24:48+00",
+  "conditionId": "0x0f95af9db08ac27acc4fb57b4305b809f54aa45fd557f8faaa4e10c9b792d828",
+  "slug": "abc-whistleblower-report-released-by-sunday",
+  "question": "ABC Whistleblower report released by Sunday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514331",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T06:01:50.129069Z",
+  "market_createdAt": "2024-12-01T06:01:50.129069Z",
+  "market_updatedAt": "2024-12-10T02:07:15.102588Z",
+  "market_startDate": "2024-12-01T06:05:19.957276Z",
+  "market_endDate": "2024-12-15T21:25:00Z",
+  "market_closedTime": "2024-12-09 02:38:47+00",
+  "conditionId": "0x8a5856973c75efb73d8d07ca46cb50f10f6e66b7f859a28c5e51616d4697f708",
+  "slug": "nfl-buf-la-2024-12-08",
+  "question": "Bills vs. Rams"
+}

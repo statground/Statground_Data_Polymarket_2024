@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-25T16:49:47.543092Z",
+  "market_createdAt": "2024-07-25T16:49:47.543092Z",
+  "market_updatedAt": "2024-07-28T17:41:03.938362Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 22:51:39+00",
+  "conditionId": "0x697d3149877eec043dd811a0918b6a5c2e6d66af80b3d99d0d342dbdba5bf67e",
+  "slug": "will-oliver-klemet-ger-win-gold-in-mens-400m-freestyle",
+  "question": "Will Oliver Klemet (GER) win Gold in Men's 400m Freestyle?"
+}

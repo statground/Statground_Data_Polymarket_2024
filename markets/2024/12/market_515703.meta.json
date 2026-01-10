@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515703",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-15T07:04:04.491675Z",
+  "market_createdAt": "2024-12-15T07:04:04.491675Z",
+  "market_updatedAt": "2024-12-20T07:03:05.443777Z",
+  "market_startDate": "2024-12-15T07:06:50.645486Z",
+  "market_endDate": "2024-12-26T02:30:00Z",
+  "market_closedTime": "2024-12-19 07:47:18+00",
+  "conditionId": "0xe4aad8941041b37aeaac914baf9a0ef2d9acbdb021eda299b3f3112aeb299704",
+  "slug": "nhl-fla-min-2024-12-18",
+  "question": "Panthers vs. Wild"
+}

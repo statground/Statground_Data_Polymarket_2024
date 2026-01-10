@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502538",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-17T16:29:44.884911Z",
+  "market_createdAt": "2024-06-17T16:29:44.884911Z",
+  "market_updatedAt": "2024-06-19T17:51:16.360794Z",
+  "market_startDate": "2024-06-17T17:04:13.798Z",
+  "market_endDate": "2024-06-18T12:00:00Z",
+  "market_closedTime": "2024-06-18 21:08:26+00",
+  "conditionId": "0x5c65882f7cb2b62c5072a1b6885338366cebb2827fa9de8ec477de9eb6a4db00",
+  "slug": "will-georgia-win",
+  "question": "Will Georgia win?"
+}

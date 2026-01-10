@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503256",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T22:48:11.283384Z",
+  "market_createdAt": "2024-07-05T22:48:11.283384Z",
+  "market_updatedAt": "2024-07-08T15:25:47.72335Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-07T12:00:00Z",
+  "market_closedTime": "2024-07-07 19:24:27+00",
+  "conditionId": "0xb2b5be8a3ca1a1c41eeae8b7e4b3ce7d5bb515a3f4b745277d55a1c311e73753",
+  "slug": "will-lando-norris-win-the-british-grand-prix",
+  "question": "Will Lando Norris win the British Grand Prix?"
+}

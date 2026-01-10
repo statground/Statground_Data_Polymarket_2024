@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507840",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-24T04:52:34.896593Z",
+  "market_createdAt": "2024-09-24T04:52:34.896593Z",
+  "market_updatedAt": "2024-10-01T04:20:40.514134Z",
+  "market_startDate": "2024-09-24T04:54:54.327739Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 05:22:58+00",
+  "conditionId": "0xf2a81980abbc8cd3d287ecc144cf2a362f0a882f0fb6e106879907d194f678f3",
+  "slug": "nfl-bal-buf-2024-09-29",
+  "question": "Ravens vs. Bills"
+}

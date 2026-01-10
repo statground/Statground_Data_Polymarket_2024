@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511252",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T21:25:20.653002Z",
+  "market_createdAt": "2024-10-28T21:25:20.653002Z",
+  "market_updatedAt": "2024-11-03T05:47:03.252813Z",
+  "market_startDate": "2024-10-29T00:03:05.649304Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 05:40:01+00",
+  "conditionId": "0x2ab330d7d57b763e7c22802d2095e11319ae37998d469ab75cfd05cb515ea642",
+  "slug": "will-trump-say-pocahontas-during-wisconsin-rally-on-nov-1",
+  "question": "Will Trump say \"Pocahontas\" during Wisconsin rally on Nov 1?"
+}

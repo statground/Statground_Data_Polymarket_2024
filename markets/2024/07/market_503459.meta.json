@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503459",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-14T00:34:48.550527Z",
+  "market_createdAt": "2024-07-14T00:34:48.550527Z",
+  "market_updatedAt": "2024-08-17T05:07:00.413569Z",
+  "market_startDate": "2024-07-14T01:10:10.841Z",
+  "market_endDate": "2024-08-15T12:00:00Z",
+  "market_closedTime": "2024-08-16 06:09:05+00",
+  "conditionId": "0xbdfeeb596891d9f498540c0aff203987c837693a805ac9e4d171aae1d2ee715f",
+  "slug": "fact-check-was-it-a-rogue-actor",
+  "question": "Fact Check: Was it a rogue actor?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500117",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-13T17:16:42.476916Z",
+  "market_createdAt": "2024-03-13T17:16:42.476916Z",
+  "market_updatedAt": "2024-11-08T02:19:04.807573Z",
+  "market_startDate": "2024-04-03T21:48:05.43Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 06:31:25+00",
+  "conditionId": "0x7eca3eee73a4d437797aeb9a1815aaf4484403bdb926791f7e5c435a7f05f0e3",
+  "slug": "will-a-democrat-win-ohio-us-senate-election",
+  "question": "Will a Democrat win Ohio US Senate Election?"
+}

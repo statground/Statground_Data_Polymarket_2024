@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T22:07:43.393728Z",
+  "market_createdAt": "2024-08-07T22:07:43.393728Z",
+  "market_updatedAt": "2024-08-11T02:30:56.512824Z",
+  "market_startDate": "2024-08-09T12:00:00Z",
+  "market_endDate": "2024-08-09T12:00:00Z",
+  "market_closedTime": "2024-08-10 04:47:40+00",
+  "conditionId": "0x7613667579785d4f6e981e78d81099bb48af4c8a37f3f54aafaabd629691511c",
+  "slug": "nfl-bal-phi-2024-08-09",
+  "question": "Ravens vs. Eagles"
+}

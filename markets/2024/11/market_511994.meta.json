@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T04:09:28.556438Z",
+  "market_createdAt": "2024-11-05T04:09:28.556438Z",
+  "market_updatedAt": "2024-11-07T22:09:08.525191Z",
+  "market_startDate": "2024-11-05T20:12:24.099184Z",
+  "market_endDate": "2024-11-06T12:00:00Z",
+  "market_closedTime": "2024-11-07 01:43:42+00",
+  "conditionId": "0x86a3324ea5817ed343ae180cf994349eaa4f8cd38071b67415a86023b07913ea",
+  "slug": "will-the-match-between-bayern-munich-and-benfica-end-in-a-draw",
+  "question": "Will the match between Bayern Munich and Benfica end in a draw?"
+}

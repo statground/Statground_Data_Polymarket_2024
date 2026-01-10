@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512030",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T17:35:18.359591Z",
+  "market_createdAt": "2024-11-05T17:35:18.359591Z",
+  "market_updatedAt": "2024-11-16T16:56:55.262317Z",
+  "market_startDate": "2024-11-05T18:22:04.023897Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 17:13:17+00",
+  "conditionId": "0xea888eb57a812e605ba4285079c15fcd57c66fe0254924c8622306333019242c",
+  "slug": "will-trump-say-mail-in-in-his-speech-after-the-election-is-called",
+  "question": "Will Trump say \"Mail-in\" in his speech after the election is called?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T19:52:25.994000Z",
+  "market_createdAt": "2024-08-29T19:52:25.994Z",
+  "market_updatedAt": "2025-02-08T07:58:48.611212Z",
+  "market_startDate": "2024-08-29T19:52:25.994Z",
+  "market_endDate": "2025-02-09T12:00:00Z",
+  "market_closedTime": "2025-02-07 07:59:17+00",
+  "conditionId": "0x74b835cd8ec86eb9c44c6f1dc4185e5788c235868f2cb3f17b69ba67fe883d0c",
+  "slug": "will-lamar-jackson-win-nfl-mvp-for-the-2024-25-season",
+  "question": "Will Lamar Jackson win NFL MVP for the 2024-25 season?"
+}

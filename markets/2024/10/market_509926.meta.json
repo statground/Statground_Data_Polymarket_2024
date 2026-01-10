@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509926",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T19:04:22.904651Z",
+  "market_createdAt": "2024-10-15T19:04:22.904651Z",
+  "market_updatedAt": "2025-05-24T01:47:39.016241Z",
+  "market_startDate": "2024-10-15T22:49:24.525537Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-24 01:46:15+00",
+  "conditionId": "0xebd0ae0a8350aed76b00a1903f204abcb6bbfe0ace01f13cd823cc700b3c21ce",
+  "slug": "will-another-team-win-the-serie-a",
+  "question": "Will another team win the Serie A?"
+}

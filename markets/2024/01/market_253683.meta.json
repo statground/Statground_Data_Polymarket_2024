@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "253683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-08T21:24:21.852000Z",
+  "market_createdAt": "2024-01-08T21:24:21.852Z",
+  "market_updatedAt": "2024-11-11T00:28:45.207538Z",
+  "market_startDate": "2024-01-10T01:42:00Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-10 06:47:35+00",
+  "conditionId": "0x272461ac34da7a85f4c7f6cad291b10b9268061e5813cad8c9cb9897cf0d94a9",
+  "slug": "2024-presidential-election-democrats-win-by-5-14",
+  "question": "2024 presidential election: Democrats win by 5-14"
+}

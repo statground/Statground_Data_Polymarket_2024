@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501092",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-19T21:12:30.458308Z",
+  "market_createdAt": "2024-04-19T21:12:30.458308Z",
+  "market_updatedAt": "2024-05-26T15:49:26.968558Z",
+  "market_startDate": "2024-04-19T21:54:43.557Z",
+  "market_endDate": "2024-05-25T12:00:00Z",
+  "market_closedTime": "2024-05-25 19:06:42+00",
+  "conditionId": "0xc80b3b116eb80acb5b89b767d0ac0c9f37bffa8dd5cceb8bd91b896ee3db69a7",
+  "slug": "will-manchester-city-win-the-fa-cup-2024",
+  "question": "Will Manchester City win the FA Cup?"
+}

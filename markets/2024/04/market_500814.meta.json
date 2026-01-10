@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500814",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-08T20:52:49.389483Z",
+  "market_createdAt": "2024-04-08T20:52:49.389483Z",
+  "market_updatedAt": "2024-05-07T23:09:34.549082Z",
+  "market_startDate": "2024-04-10T15:05:47.693Z",
+  "market_endDate": "2024-04-14T12:00:00Z",
+  "market_closedTime": "2024-04-15 02:17:19+00",
+  "conditionId": "0x60a8ba6290a34b45bdf5fefa5a8ffa4f88ebe650bedd089ec04add623a4449fb",
+  "slug": "will-jon-rahm-win-the-2024-masters-tournament",
+  "question": "Will Jon Rahm win the 2024 Masters Tournament?"
+}

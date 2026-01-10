@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516164",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-20T19:59:43.128916Z",
+  "market_createdAt": "2024-12-20T19:59:43.128916Z",
+  "market_updatedAt": "2025-07-02T08:24:49.731052Z",
+  "market_startDate": "2024-12-20T21:00:03.303Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 08:28:45+00",
+  "conditionId": "0xfbee41b4a62986a4b5fa4869763dc504b302490ade595e68ab1cbdbfaa902cf8",
+  "slug": "mh370-underwater-wreckage-found-by-june",
+  "question": "MH370 underwater wreckage found by June 30?"
+}

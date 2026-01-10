@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514076",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T07:47:14.573772Z",
+  "market_createdAt": "2024-11-26T07:47:14.573772Z",
+  "market_updatedAt": "2024-11-29T00:47:30.825762Z",
+  "market_startDate": "2024-11-26T22:29:05.224574Z",
+  "market_endDate": "2024-11-27T12:00:00Z",
+  "market_closedTime": "2024-11-28 01:08:05+00",
+  "conditionId": "0x6943a152437f7cbbb7015c8af47719a38154b5415f3e5afce5a59c9e2bbb9b97",
+  "slug": "will-borussia-dortmund-beat-dinamo-zagreb",
+  "question": "Will Borussia Dortmund beat Dinamo Zagreb?"
+}

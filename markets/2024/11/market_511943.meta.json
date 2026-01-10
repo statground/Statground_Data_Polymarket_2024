@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511943",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T19:23:12.680620Z",
+  "market_createdAt": "2024-11-04T19:23:12.68062Z",
+  "market_updatedAt": "2024-11-25T12:35:54.337838Z",
+  "market_startDate": "2024-11-06T16:28:46.170888Z",
+  "market_endDate": "2024-11-24T12:00:00Z",
+  "market_closedTime": "2024-11-24 13:09:16+00",
+  "conditionId": "0xe5dbb6dbb65688c54459c30ad65f3d2991537bf5f67518362659b813aa350bfa",
+  "slug": "will-max-verstappen-win-the-las-vegas-grand-prix",
+  "question": "Will Max Verstappen win the 2024 Las Vegas Grand Prix?"
+}

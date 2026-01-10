@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511116",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-28T19:32:34.597573Z",
+  "market_createdAt": "2024-10-28T19:32:34.597573Z",
+  "market_updatedAt": "2024-11-01T02:52:49.57155Z",
+  "market_startDate": "2024-10-28T20:57:09.323Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 02:53:24+00",
+  "conditionId": "0xe85a78d6512d78d41ec1bce909da89203877725ff43dcb1e29abaef4a872f8e3",
+  "slug": "will-trump-say-border-30-or-more-times-during-wisconsin-rally-on-oct-30",
+  "question": "Will Trump say \"border\" 30 or more times during Wisconsin rally on Oct 30?"
+}

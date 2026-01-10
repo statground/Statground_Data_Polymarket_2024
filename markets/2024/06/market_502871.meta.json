@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502871",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T16:57:46.772338Z",
+  "market_createdAt": "2024-06-25T16:57:46.772338Z",
+  "market_updatedAt": "2024-07-02T19:25:49.031574Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-01T12:00:00Z",
+  "market_closedTime": "2024-07-02 02:44:37+00",
+  "conditionId": "0xf27bfcd39d25d1c27e4ca7b3966eb9007ca5785906e69d3799a6bd13ae7567d9",
+  "slug": "will-a-quiet-place-day-one-gross-less-than-48m-opening-weekend",
+  "question": "Will 'A Quiet Place: Day One' gross less than $48m opening weekend?"
+}

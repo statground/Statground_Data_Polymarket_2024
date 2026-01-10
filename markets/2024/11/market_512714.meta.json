@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512714",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:10:19.230929Z",
+  "market_createdAt": "2024-11-11T18:10:19.230929Z",
+  "market_updatedAt": "2024-11-18T05:07:05.681835Z",
+  "market_startDate": "2024-11-11T18:12:56.172933Z",
+  "market_endDate": "2024-11-24T01:00:00Z",
+  "market_closedTime": "2024-11-17 05:27:38+00",
+  "conditionId": "0x4885bdd39911dd679e04ffd47ec011caa487fc536256550cf6c8889622fe04f2",
+  "slug": "nba-lal-nop-2024-11-16",
+  "question": "Lakers vs. Pelicans"
+}

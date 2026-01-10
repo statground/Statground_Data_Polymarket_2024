@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513969",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T17:38:59.948064Z",
+  "market_createdAt": "2024-11-25T17:38:59.948064Z",
+  "market_updatedAt": "2024-11-27T06:23:43.399197Z",
+  "market_startDate": "2024-11-25T22:10:48.109721Z",
+  "market_endDate": "2024-11-25T12:00:00Z",
+  "market_closedTime": "2024-11-26 06:29:23+00",
+  "conditionId": "0x002dd16e7b6a7b619f74d6165ebd7e00ce0811e621d096f957fc382e3515cac7",
+  "slug": "will-derrick-henry-score-a-touchdown-nov-25",
+  "question": "Will Derrick Henry score a Touchdown?"
+}

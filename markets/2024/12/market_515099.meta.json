@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515099",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-09T16:38:59.824309Z",
+  "market_createdAt": "2024-12-09T16:38:59.824309Z",
+  "market_updatedAt": "2024-12-11T04:27:12.557953Z",
+  "market_startDate": "2024-12-09T23:22:48.778489Z",
+  "market_endDate": "2024-12-09T12:00:00Z",
+  "market_closedTime": "2024-12-10 06:23:43+00",
+  "conditionId": "0xaefe28e5452cc59d980092b4dd3c5799a91d71d5a5fd7d5752731c6e32b975f7",
+  "slug": "will-the-bengals-beat-the-cowboys-by-5-or-more-points",
+  "question": "Will the Bengals beat the Cowboys by 5 or more points?"
+}

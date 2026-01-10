@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508496",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T22:40:43.132728Z",
+  "market_createdAt": "2024-09-30T22:40:43.132728Z",
+  "market_updatedAt": "2024-10-17T21:26:45.973379Z",
+  "market_startDate": "2024-10-01T00:13:48.866828Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-10-16 21:25:35+00",
+  "conditionId": "0x2c082b4f588d1d5d3ee74f207a01e62c145ede98829d8acbb94e4de60beefccf",
+  "slug": "will-israeli-troops-enter-bint-jbeil-by-october-15",
+  "question": "Will Israeli troops enter Bint Jbeil by October 15?"
+}

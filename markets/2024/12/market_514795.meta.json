@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514795",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:18:36.476736Z",
+  "market_createdAt": "2024-12-04T21:18:36.476736Z",
+  "market_updatedAt": "2024-12-12T03:09:09.7527Z",
+  "market_startDate": "2024-12-04T21:22:02.772418Z",
+  "market_endDate": "2024-12-18T00:00:00Z",
+  "market_closedTime": "2024-12-11 04:45:22+00",
+  "conditionId": "0x3ee09c8e5e6e96ca0e036f3c8fd3d38940d36b0b3dd4ba705e7ffa7577f0596d",
+  "slug": "nhl-tor-nj-2024-12-10",
+  "question": "Maple Leafs vs. Devils"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510540",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T15:41:56.984280Z",
+  "market_createdAt": "2024-10-22T15:41:56.98428Z",
+  "market_updatedAt": "2024-10-26T04:23:00.683555Z",
+  "market_startDate": "2024-10-22T21:43:48Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 04:52:51+00",
+  "conditionId": "0xddab3d4ad0cc7e345bfe17a4043ca63a159f3cabe932b5ecf0a9395bebd7af3f",
+  "slug": "will-trump-say-kamala-10-or-more-times-during-las-vegas-rally-on-october-24",
+  "question": "Will Trump say \"Kamala\" 10 or more times during Las Vegas rally on October 24?"
+}

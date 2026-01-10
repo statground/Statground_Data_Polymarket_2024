@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514227",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T19:20:37.060321Z",
+  "market_createdAt": "2024-11-27T19:20:37.060321Z",
+  "market_updatedAt": "2024-12-05T13:19:37.429307Z",
+  "market_startDate": "2024-11-27T19:35:00.520323Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-04 16:24:48+00",
+  "conditionId": "0x9402ea62aad233d5ada8c0faa85f1c06fed1e02d4685f278c2cbf88e54647c4a",
+  "slug": "will-bruno-mars-be-the-top-spotify-artist-for-2024",
+  "question": "Will Bruno Mars be the top Spotify artist for 2024?"
+}

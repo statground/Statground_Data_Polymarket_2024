@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511651",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:21:40.855836Z",
+  "market_createdAt": "2024-11-01T17:21:40.855836Z",
+  "market_updatedAt": "2024-11-03T18:33:01.26488Z",
+  "market_startDate": "2024-11-01T22:51:03.250381Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 21:11:56+00",
+  "conditionId": "0x0b9a2d73173ddbbe8a44e832312eb4869f2392ef5475f4c245a90a39ce72f39c",
+  "slug": "will-air-force-beat-army-nov-2",
+  "question": "Will Army beat Air Force"
+}

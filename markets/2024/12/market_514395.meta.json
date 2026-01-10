@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T17:54:48.579866Z",
+  "market_createdAt": "2024-12-02T17:54:48.579866Z",
+  "market_updatedAt": "2025-01-02T07:59:02.028998Z",
+  "market_startDate": "2024-12-02T18:33:07.920891Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:47:00+00",
+  "conditionId": "0x59fb15748bb682ac730bfd6f672aa1cb6b1068c0666a094cf7635f2b43cf89a4",
+  "slug": "will-sol-flip-xrp-again-in-2024",
+  "question": "Will SOL flip XRP again in 2024?"
+}

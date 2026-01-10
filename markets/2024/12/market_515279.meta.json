@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515279",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T19:29:41.388022Z",
+  "market_createdAt": "2024-12-10T19:29:41.388022Z",
+  "market_updatedAt": "2025-01-24T16:16:53.321923Z",
+  "market_startDate": "2024-12-11T19:11:50.134Z",
+  "market_endDate": "2025-01-23T12:00:00Z",
+  "market_closedTime": "2025-01-23 16:36:40+00",
+  "conditionId": "0x9c0197b8f2d14e0b7d1cc7a6a363efc89d5499b74c815cf1539835b0475684e1",
+  "slug": "will-nosferatu-be-nominated-for-oscar-for-best-picture",
+  "question": "Will 'Nosferatu' be nominated for Oscar for Best Picture?"
+}

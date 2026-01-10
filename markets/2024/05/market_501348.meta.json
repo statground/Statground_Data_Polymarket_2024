@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501348",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-02T16:50:16.390374Z",
+  "market_createdAt": "2024-05-02T16:50:16.390374Z",
+  "market_updatedAt": "2024-05-07T23:09:40.191842Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:14:48+00",
+  "conditionId": "0xefe7806c6279942a07345e9a617330b2e1d7ac573e0feb3ab60cfb8ec1b54d05",
+  "slug": "will-forever-young-win-the-2024-kentucky-derby",
+  "question": "Will Forever Young win the 2024 Kentucky Derby?"
+}

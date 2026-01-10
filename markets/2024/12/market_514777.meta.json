@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514777",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:14:14.218696Z",
+  "market_createdAt": "2024-12-04T21:14:14.218696Z",
+  "market_updatedAt": "2024-12-09T01:53:21.140638Z",
+  "market_startDate": "2024-12-04T21:17:44.70164Z",
+  "market_endDate": "2024-12-14T22:00:00Z",
+  "market_closedTime": "2024-12-08 02:39:57+00",
+  "conditionId": "0xa01aa81546a6d37fdc34fcf70ab0e09ce5d056df7dc92ef25ed95dc95a38fd40",
+  "slug": "nhl-car-nyi-2024-12-07",
+  "question": "Hurricanes vs. Islanders"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T19:32:45.805947Z",
+  "market_createdAt": "2024-11-18T19:32:45.805947Z",
+  "market_updatedAt": "2024-12-05T02:47:28.212373Z",
+  "market_startDate": "2024-11-18T20:51:05.221Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-04 03:10:31+00",
+  "conditionId": "0xf156020d6a4c986b5a838995649a39efa28606a12c39e8dea7ea3abccc4c3101",
+  "slug": "will-mog-be-listed-first-on-coinbase",
+  "question": "Will $Mog be listed first on Coinbase?"
+}

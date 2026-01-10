@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505901",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-27T17:11:58.840894Z",
+  "market_createdAt": "2024-08-27T17:11:58.840894Z",
+  "market_updatedAt": "2024-09-22T21:22:50.673178Z",
+  "market_startDate": "2024-08-27T17:11:58.840894Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-09-22 02:13:54+00",
+  "conditionId": "0x4b266200b9a0c596f105b45b0eb968ffc196a6fe2d92a1da37412189eebe331d",
+  "slug": "will-the-toronto-blue-jays-win-the-world-series",
+  "question": "Will the Toronto Blue Jays win the World Series?"
+}

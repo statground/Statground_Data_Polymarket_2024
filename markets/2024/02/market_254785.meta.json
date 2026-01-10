@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254785",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-27T16:41:11.308000Z",
+  "market_createdAt": "2024-02-27T16:41:11.308Z",
+  "market_updatedAt": "2024-04-26T02:53:25.868001Z",
+  "market_startDate": "2024-02-27T17:09:08.88Z",
+  "market_endDate": "2024-02-27T00:00:00Z",
+  "market_closedTime": "2024-03-03 23:31:56+00",
+  "conditionId": "0x5b34bf185b88e212328c608b1449d0a332a021bad35ac20f900f5243c070158a",
+  "slug": "will-uncommitted-receive-between-5-10-of-the-popular-vote-in-the-2024-democratic-michigan-primary",
+  "question": "Will ‘Uncommitted’ receive between 5-10% of the popular vote in the 2024 Democratic Michigan Primary?"
+}

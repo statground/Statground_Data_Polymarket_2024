@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511043",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-27T21:06:33.568990Z",
+  "market_createdAt": "2024-10-27T21:06:33.56899Z",
+  "market_updatedAt": "2025-01-02T09:15:03.419607Z",
+  "market_startDate": "2024-10-28T14:13:42.137631Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:42:04+00",
+  "conditionId": "0x5ded9ba6b490fe08251a99734ad3eb396ba2daeb5c81af6f3fe91926b1d4af3d",
+  "slug": "another-israeli-military-action-against-iran-in-2024",
+  "question": "Another Israeli military action against Iran in 2024?"
+}

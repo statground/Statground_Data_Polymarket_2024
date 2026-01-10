@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516961",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T19:52:19.039592Z",
+  "market_createdAt": "2024-12-31T19:52:19.039592Z",
+  "market_updatedAt": "2026-01-02T00:31:22.280113Z",
+  "market_startDate": "2024-12-31T20:18:17.148Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-12-31 20:39:01+00",
+  "conditionId": "0xad5642932e897c551def57ddc3066bdea2cf0eb13fc40979c1043743fceb5c9c",
+  "slug": "will-openai-have-the-top-ai-model-on-december-31",
+  "question": "Will OpenAI have the top AI model on December 31?"
+}

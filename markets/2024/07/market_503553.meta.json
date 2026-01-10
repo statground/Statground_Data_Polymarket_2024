@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503553",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T16:15:02.175473Z",
+  "market_createdAt": "2024-07-16T16:15:02.175473Z",
+  "market_updatedAt": "2024-07-20T00:22:43.636585Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-21T12:00:00Z",
+  "market_closedTime": "2024-07-20 00:10:50+00",
+  "conditionId": "0xf3e1e30bed54d58e72681a61dabe123f637e0c14fe12fa5cee9629c0e760deb2",
+  "slug": "will-tommy-fleetwood-win-the-british-open",
+  "question": "Will Tommy Fleetwood win the British Open?"
+}

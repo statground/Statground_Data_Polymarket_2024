@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T20:00:46.253000Z",
+  "market_createdAt": "2024-03-01T20:00:46.253Z",
+  "market_updatedAt": "2024-11-07T13:59:01.978477Z",
+  "market_startDate": "2024-03-28T20:58:00.148Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 15:49:36+00",
+  "conditionId": "0xccfc2642dcc76756895c101dcf98f3cba65cb501026354a533ae25e7112382c9",
+  "slug": "will-a-reoublican-win-washington-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Washington Presidential Election?"
+}

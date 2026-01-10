@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508405",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T17:48:12.616328Z",
+  "market_createdAt": "2024-09-30T17:48:12.616328Z",
+  "market_updatedAt": "2024-10-02T04:06:50.813085Z",
+  "market_startDate": "2024-09-30T18:29:59.408949Z",
+  "market_endDate": "2024-09-30T12:00:00Z",
+  "market_closedTime": "2024-10-01 04:51:14+00",
+  "conditionId": "0x6f278af04fa068bb6e63159a2751a9cff9f094e54e0c916cb4b980fe949378dc",
+  "slug": "nfl-ten-mia-2024-09-30",
+  "question": "Titans vs. Dolphins"
+}

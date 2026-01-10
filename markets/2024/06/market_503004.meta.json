@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503004",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-28T19:30:24.205707Z",
+  "market_createdAt": "2024-06-28T19:30:24.205707Z",
+  "market_updatedAt": "2024-06-30T22:46:02.922291Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-30 05:13:50+00",
+  "conditionId": "0xd8cbc6204dcf4f7a3808a5a707d90424fb0b078a0a0b1b1243c65b3e4865cea6",
+  "slug": "will-this-match-be-a-draw-canada-chile",
+  "question": "Will this match be a draw?"
+}

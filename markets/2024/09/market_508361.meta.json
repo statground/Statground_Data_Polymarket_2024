@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:05:05.669395Z",
+  "market_createdAt": "2024-09-27T20:05:05.669395Z",
+  "market_updatedAt": "2025-01-02T07:39:05.707748Z",
+  "market_startDate": "2024-09-27T21:14:44.057061Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:27:46+00",
+  "conditionId": "0xb8584531b136799cba85c7dbd703da073cb54e468be37efa1baa0d8b73efa27f",
+  "slug": "berachain-airdrop-in-2024",
+  "question": "Berachain airdrop in 2024?"
+}

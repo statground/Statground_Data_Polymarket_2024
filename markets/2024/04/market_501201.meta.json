@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-26T15:05:43.941213Z",
+  "market_createdAt": "2024-04-26T15:05:43.941213Z",
+  "market_updatedAt": "2024-05-07T23:09:18.271459Z",
+  "market_startDate": "2024-04-26T16:30:07.888Z",
+  "market_endDate": "2024-05-10T12:00:00Z",
+  "market_closedTime": "2024-04-27 05:21:47+00",
+  "conditionId": "0xa93a733a96e43d64b6c20fa3ba251e332f3c9b96d7dd36f981ffcc1f6ea3b401",
+  "slug": "will-roon-tweet-again-by-may-10",
+  "question": "Will roon tweet again by May 10?"
+}

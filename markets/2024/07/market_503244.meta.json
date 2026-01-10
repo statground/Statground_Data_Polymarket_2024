@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503244",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-05T20:01:56.040063Z",
+  "market_createdAt": "2024-07-05T20:01:56.040063Z",
+  "market_updatedAt": "2024-11-03T14:01:12.384249Z",
+  "market_startDate": "2024-07-05T20:01:56.040063Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-11-02 15:14:48+00",
+  "conditionId": "0x2151f3bb327741f78fb775e5b5e94c6d0aa3293e35faf1d59cb71fc6826b4d13",
+  "slug": "jeremy-hunt-next-conservative-party-leader",
+  "question": "Jeremy Hunt next Conservative party leader?"
+}

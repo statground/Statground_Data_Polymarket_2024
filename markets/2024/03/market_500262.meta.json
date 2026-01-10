@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500262",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T16:23:05.138802Z",
+  "market_createdAt": "2024-03-18T16:23:05.138802Z",
+  "market_updatedAt": "2024-05-07T23:09:20.708571Z",
+  "market_startDate": "2024-03-18T16:40:08.851Z",
+  "market_endDate": "2024-03-31T07:00:00Z",
+  "market_closedTime": "2024-04-01 08:31:37+00",
+  "conditionId": "0xd6b830595befd0836dbe3f5295eb3a7407c97228f8c3818a975caa3461f2db5f",
+  "slug": "slerf-criminal-charges-in-march",
+  "question": "SLERF criminal charges in March?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515463",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:06:06.074563Z",
+  "market_createdAt": "2024-12-11T23:06:06.074563Z",
+  "market_updatedAt": "2025-01-01T23:11:23.389604Z",
+  "market_startDate": "2024-12-23T19:12:10.121298Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 23:08:15+00",
+  "conditionId": "0x4a044881137b2ec058392a87ab57c1bc22705ee5c385d726e4400d9a7f2f5c65",
+  "slug": "will-fabiano-caruana-win-the-2024-world-blitz-championship",
+  "question": "Will Fabiano Caruana win the 2024 World Blitz Championship?"
+}

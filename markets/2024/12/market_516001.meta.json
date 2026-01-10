@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516001",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-18T19:27:46.641012Z",
+  "market_createdAt": "2024-12-18T19:27:46.641012Z",
+  "market_updatedAt": "2024-12-22T02:30:53.469253Z",
+  "market_startDate": "2024-12-18T19:32:28.464Z",
+  "market_endDate": "2024-12-19T12:00:00Z",
+  "market_closedTime": "2024-12-21 03:00:50+00",
+  "conditionId": "0x9543218f2d765050c8b0cbe2f3b42e0011bd8a220d45abec65b5ed4756b769bb",
+  "slug": "will-congress-pass-another-spending-bill-before-inauguration",
+  "question": "Congress passes funding bill before Trump inauguration?"
+}

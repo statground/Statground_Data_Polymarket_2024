@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501377",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-03T14:40:38.367887Z",
+  "market_createdAt": "2024-05-03T14:40:38.367887Z",
+  "market_updatedAt": "2024-05-07T23:09:56.581893Z",
+  "market_startDate": null,
+  "market_endDate": "2024-05-04T12:00:00Z",
+  "market_closedTime": "2024-05-05 07:25:04+00",
+  "conditionId": "0x17b1c270c1bfbf1a70ee041b6b1998f62b7ab09f84a8dd5adf2078bb527ae767",
+  "slug": "will-resilience-win-the-2024-kentucky-derby",
+  "question": "Will Resilience win the 2024 Kentucky Derby?"
+}

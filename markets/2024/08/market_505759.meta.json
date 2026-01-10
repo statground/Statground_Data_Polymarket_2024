@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505759",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T14:12:14.913373Z",
+  "market_createdAt": "2024-08-26T14:12:14.913373Z",
+  "market_updatedAt": "2024-09-12T03:17:02.999261Z",
+  "market_startDate": "2024-08-26T14:46:04.714Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 03:13:18+00",
+  "conditionId": "0x6541d506c7a337b80fb9e4ed7487347a90d8c59071136e7caa11dc42b3755eb5",
+  "slug": "harris-and-trump-debate-on-sept-10",
+  "question": "Will Trump debate Kamala on Sept 10?"
+}

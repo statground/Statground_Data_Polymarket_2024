@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515749",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T16:29:56.633332Z",
+  "market_createdAt": "2024-12-16T16:29:56.633332Z",
+  "market_updatedAt": "2024-12-18T00:59:22.486493Z",
+  "market_startDate": "2024-12-16T23:32:46.262732Z",
+  "market_endDate": "2024-12-16T12:00:00Z",
+  "market_closedTime": "2024-12-17 06:44:53+00",
+  "conditionId": "0x1154fc3ec453c965b91a5ce300a34e36da1a49e2e04d1a273bdf9592622ecdf0",
+  "slug": "will-the-falcons-beat-the-raiders-by-4-or-more-points",
+  "question": "Will the Falcons beat the Raiders by 4 or more points?"
+}

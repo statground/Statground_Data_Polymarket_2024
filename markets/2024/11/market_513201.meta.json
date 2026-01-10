@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513201",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-15T20:00:41.605910Z",
+  "market_createdAt": "2024-11-15T20:00:41.60591Z",
+  "market_updatedAt": "2025-01-02T00:31:16.459861Z",
+  "market_startDate": "2024-11-18T18:07:56.210698Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:31:22+00",
+  "conditionId": "0x0c137a25152a54832b9f2a7d8c07c65d72c90a7f8d50ef17863adf8d5c74ac26",
+  "slug": "new-netherlands-election-called-before-march",
+  "question": "New Netherlands election called in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508420",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T18:14:56.839178Z",
+  "market_createdAt": "2024-09-30T18:14:56.839178Z",
+  "market_updatedAt": "2024-10-03T05:14:38.603967Z",
+  "market_startDate": "2024-09-30T18:17:50.892025Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 05:20:01+00",
+  "conditionId": "0x712d1c556e2682aa8b151cb114d9fb663f5b5a18d6377affd180c3e2c88a2ac3",
+  "slug": "will-jd-vance-say-helene-during-the-debate",
+  "question": "Will JD Vance say \"Helene\" during the debate?"
+}

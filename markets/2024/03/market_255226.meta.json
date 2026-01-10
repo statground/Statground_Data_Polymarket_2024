@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255226",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T23:08:27.340000Z",
+  "market_createdAt": "2024-03-01T23:08:27.34Z",
+  "market_updatedAt": "2024-05-07T23:10:11.149033Z",
+  "market_startDate": "2024-03-02T01:10:11.169Z",
+  "market_endDate": "2024-03-15T00:00:00Z",
+  "market_closedTime": "2024-03-16 06:03:57+00",
+  "conditionId": "0xd933622d069763b1301b6ce10a61dc0359d532271c17ff84f98c685507eba2a4",
+  "slug": "did-the-alaska-balloon-come-from-china",
+  "question": "Did the Alaska balloon come from China?"
+}

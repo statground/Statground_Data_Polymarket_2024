@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500716",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:46:42.086885Z",
+  "market_createdAt": "2024-04-04T17:46:42.086885Z",
+  "market_updatedAt": "2024-11-07T15:59:08.613371Z",
+  "market_startDate": "2024-04-12T19:13:21.279Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 19:36:13+00",
+  "conditionId": "0xb6d19c0a24290dcde7ddaae53ec13a97b7e808bdbdda98ddf355e643fa9abcae",
+  "slug": "will-a-republican-win-new-jersey-us-senate-election",
+  "question": "Will a Republican win New Jersey US Senate Election?"
+}

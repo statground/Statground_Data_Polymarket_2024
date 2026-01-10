@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515084",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-08T07:06:10.932886Z",
+  "market_createdAt": "2024-12-08T07:06:10.932886Z",
+  "market_updatedAt": "2024-12-16T04:09:32.990224Z",
+  "market_startDate": "2024-12-08T07:09:31.90203Z",
+  "market_endDate": "2024-12-22T00:00:00Z",
+  "market_closedTime": "2024-12-15 04:45:13+00",
+  "conditionId": "0x9fcfcdb8efec691ae82f184116b25a65d5803c2407fc80ab48c4c4764e339a5d",
+  "slug": "nhl-tor-det-2024-12-14",
+  "question": "Maple Leafs vs. Red Wings"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502809",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T17:04:43.175209Z",
+  "market_createdAt": "2024-06-24T17:04:43.175209Z",
+  "market_updatedAt": "2024-11-06T17:37:11.23945Z",
+  "market_startDate": "2024-06-24T17:04:43.175209Z",
+  "market_endDate": "2024-12-29T12:00:00Z",
+  "market_closedTime": "2024-11-05 18:17:28+00",
+  "conditionId": "0x3a5a0889ac67e4b72ef56bd38002e5a62614308ac5c823310bdf1e79234b9939",
+  "slug": "will-oscar-piastri-win-the-2024-f1-season",
+  "question": "Will Oscar Piastri win the 2024 F1 season?"
+}

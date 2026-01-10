@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508407",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T17:50:41.704364Z",
+  "market_createdAt": "2024-09-30T17:50:41.704364Z",
+  "market_updatedAt": "2024-10-02T21:00:46.020099Z",
+  "market_startDate": "2024-09-30T19:27:07.869448Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 22:00:08+00",
+  "conditionId": "0x214a891287f1ee5adf82d385ec2a9bf946fcbcc2a5da8cb6f1ffcd19843744c5",
+  "slug": "will-trump-say-tip-or-more-times-in-wisconsin-speech-october-1",
+  "question": "Will Trump say \"tip\" during Wisconsin speech October 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506455",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-05T13:43:10.703654Z",
+  "market_createdAt": "2024-09-05T13:43:10.703654Z",
+  "market_updatedAt": "2024-09-07T02:07:02.584307Z",
+  "market_startDate": "2024-09-05T14:13:00.375096Z",
+  "market_endDate": "2024-09-05T12:00:00Z",
+  "market_closedTime": "2024-09-06 02:48:11+00",
+  "conditionId": "0x0a9d83dd3b4f6054afc0aa635940fc0fccae085ec2458f0e8c23249392938802",
+  "slug": "us-open-sabalenka-vs-navarro",
+  "question": "US Open: Sabalenka vs. Navarro"
+}

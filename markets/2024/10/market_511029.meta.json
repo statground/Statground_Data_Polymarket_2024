@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511029",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T22:19:58.827044Z",
+  "market_createdAt": "2024-10-25T22:19:58.827044Z",
+  "market_updatedAt": "2024-10-30T01:37:01.318201Z",
+  "market_startDate": "2024-10-25T22:47:02.825159Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-29 01:57:27+00",
+  "conditionId": "0x74a04d47a05b29019ec79b00e7263ae8b1afab6e734e1661c76a0da6b9a23a7e",
+  "slug": "will-trump-say-tariff-during-georgia-rally-on-october-28",
+  "question": "Will Trump say \"Tariff\" during Georgia rally on October 28?"
+}

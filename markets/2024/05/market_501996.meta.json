@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501996",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T22:08:24.444037Z",
+  "market_createdAt": "2024-05-31T22:08:24.444037Z",
+  "market_updatedAt": "2024-06-30T20:56:05.099607Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-14T12:00:00Z",
+  "market_closedTime": "2024-06-30 00:40:25+00",
+  "conditionId": "0x7c5ce6de73e7245cc09e5236e2dcdf8fe90ecc41c9f5d2a94e7009d76d122fe2",
+  "slug": "will-denmark-win-the-2024-euros",
+  "question": "Will Denmark win the 2024 Euros?"
+}

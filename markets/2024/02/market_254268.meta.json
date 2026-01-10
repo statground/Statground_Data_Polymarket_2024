@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-01T23:28:48.003000Z",
+  "market_createdAt": "2024-02-01T23:28:48.003Z",
+  "market_updatedAt": "2024-02-13T05:25:40.769Z",
+  "market_startDate": "2024-02-02T00:10:00Z",
+  "market_endDate": "2024-02-09T00:00:00Z",
+  "market_closedTime": "2024-02-12 07:18:10+00",
+  "conditionId": "0x9afbc907da901bb40b162657f57c4f548fed58bd50c9b3fea709ca9c6dd9670c",
+  "slug": "will-the-gatorade-shower-at-2024-super-bowl-be-redpink",
+  "question": "Will the Gatorade shower at 2024 Super Bowl be red/pink?"
+}

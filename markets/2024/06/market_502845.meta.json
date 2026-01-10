@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502845",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:33:22.780917Z",
+  "market_createdAt": "2024-06-24T23:33:22.780917Z",
+  "market_updatedAt": "2024-06-26T22:51:09.095642Z",
+  "market_startDate": "2024-06-25T01:05:07.762Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-26 00:04:35+00",
+  "conditionId": "0x31062e251e3733ec2259eb2242dd7916c09c2deb2850538cb78a8d04b7d61de5",
+  "slug": "will-slovenia-win-june-25",
+  "question": "Will Slovenia win?"
+}

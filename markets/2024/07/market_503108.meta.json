@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503108",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-01T22:38:56.291776Z",
+  "market_createdAt": "2024-07-01T22:38:56.291776Z",
+  "market_updatedAt": "2024-07-02T03:53:06.240365Z",
+  "market_startDate": "2024-07-01T22:52:01.619Z",
+  "market_endDate": "2024-07-31T12:00:00Z",
+  "market_closedTime": "2024-07-02 03:51:31+00",
+  "conditionId": "0xefacb3cf70c5cbdd5f6d409a9208cf80eb5614aa27165d98e6847c3636773609",
+  "slug": "will-biden-say-old-during-his-speech",
+  "question": "Will Biden say \"Old\" during his speech?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:57:08.193313Z",
+  "market_createdAt": "2024-12-06T22:57:08.193313Z",
+  "market_updatedAt": "2024-12-09T18:01:34.181377Z",
+  "market_startDate": "2024-12-06T23:23:15.810231Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:25:56+00",
+  "conditionId": "0x86bf39917e98fd0abfa31b8ae55ded18c487b50c759c4d2a841dc73182873c45",
+  "slug": "will-the-steelers-and-browns-combine-for-44-or-more-points",
+  "question": "Will the Steelers and Browns combine for 44 or more points?"
+}

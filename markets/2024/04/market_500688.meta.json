@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500688",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T16:14:13.949276Z",
+  "market_createdAt": "2024-04-04T16:14:13.949276Z",
+  "market_updatedAt": "2024-11-07T13:49:08.320312Z",
+  "market_startDate": "2024-04-12T19:47:21.924Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 13:41:04+00",
+  "conditionId": "0x9d455df75bf78e1b541bdbde04322a94940a9c2513c1f6a937fffe834255fa30",
+  "slug": "will-a-candidate-from-another-party-win-nebraska-us-senate-election",
+  "question": "Will a candidate from another party win Nebraska US Senate Election?"
+}

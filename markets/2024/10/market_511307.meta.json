@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511307",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T16:14:43.295332Z",
+  "market_createdAt": "2024-10-29T16:14:43.295332Z",
+  "market_updatedAt": "2024-11-02T01:47:13.313741Z",
+  "market_startDate": "2024-10-29T17:00:59.147Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-11-01 03:39:46+00",
+  "conditionId": "0x61e742dea3b240fe260f47e94c9bc640379a3114f133ed1f2df4be2621267473",
+  "slug": "will-jd-vance-say-china-5-or-more-times-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"China\" 5 or more times during the Joe Rogan podcast?"
+}

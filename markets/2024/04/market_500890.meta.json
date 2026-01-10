@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500890",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-11T15:35:38.844855Z",
+  "market_createdAt": "2024-04-11T15:35:38.844855Z",
+  "market_updatedAt": "2024-05-07T23:09:12.138655Z",
+  "market_startDate": "2024-04-11T15:51:15.497Z",
+  "market_endDate": "2024-04-15T12:00:00Z",
+  "market_closedTime": "2024-04-16 06:04:50+00",
+  "conditionId": "0x659e9edfc75e1aa07a24a5a1d1afa95a6ba158958c4dfe7ec6354a7e7fc51e4e",
+  "slug": "us-military-action-against-iran-by-april-15",
+  "question": "U.S. military action against Iran by April 15?"
+}

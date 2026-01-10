@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255347",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-08T16:21:34.332000Z",
+  "market_createdAt": "2024-03-08T16:21:34.332Z",
+  "market_updatedAt": "2024-11-07T17:33:10.439479Z",
+  "market_startDate": "2024-05-08T22:28:21.882Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:54:55+00",
+  "conditionId": "0x34a3867607c87f90203bf6e00037714dfe9edabbf265ce6ca47fc16511579362",
+  "slug": "will-a-republican-win-north-carolina-governor-election",
+  "question": "Will a Republican win North Carolina Governor Election?"
+}

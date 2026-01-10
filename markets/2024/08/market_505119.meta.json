@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505119",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T18:58:24.634862Z",
+  "market_createdAt": "2024-08-14T18:58:24.634862Z",
+  "market_updatedAt": "2024-08-22T04:57:01.792339Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:06:52+00",
+  "conditionId": "0x2660c455563febb3aac5ba430f54fca146ee18700cb9049504a32ddefa14ec2f",
+  "slug": "will-whitney-fox-win-the-fl-13-democratic-primary",
+  "question": "Will Whitney Fox win the FL-13 Democratic primary?"
+}

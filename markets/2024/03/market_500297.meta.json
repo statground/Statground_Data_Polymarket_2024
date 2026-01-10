@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500297",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:14:25.456428Z",
+  "market_createdAt": "2024-03-18T23:14:25.456428Z",
+  "market_updatedAt": "2024-05-07T23:09:17.161746Z",
+  "market_startDate": "2024-03-19T00:01:22.871Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-21 10:36:18+00",
+  "conditionId": "0x86fb96ddc93f63ef5463d5ba994ca8c1d34672c284f391dce5ac2fbf040d39ea",
+  "slug": "will-james-cardoza-win-ca20-special-election",
+  "question": "Will James Cardoza win CA-20 Special Election?"
+}

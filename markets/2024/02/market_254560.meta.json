@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T22:58:36.754000Z",
+  "market_createdAt": "2024-02-20T22:58:36.754Z",
+  "market_updatedAt": "2024-04-26T02:53:19.927882Z",
+  "market_startDate": "2024-02-21T16:23:53.991Z",
+  "market_endDate": "2024-04-29T12:00:00Z",
+  "market_closedTime": "2024-04-19 23:12:23+00",
+  "conditionId": "0xc481b0b1bf98a3e13861d2f3a196f1173249006b7317cb295fd5f57d23b0ce3e",
+  "slug": "will-ansem-win-his-fight",
+  "question": "Will Ansem win his fight?"
+}

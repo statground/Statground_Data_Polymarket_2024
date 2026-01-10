@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506077",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-29T16:19:36.100542Z",
+  "market_createdAt": "2024-08-29T16:19:36.100542Z",
+  "market_updatedAt": "2024-09-02T18:47:00.575153Z",
+  "market_startDate": "2024-08-29T16:19:36.100542Z",
+  "market_endDate": "2024-09-01T12:00:00Z",
+  "market_closedTime": "2024-09-01 23:58:24+00",
+  "conditionId": "0x550e0b2c15c371abdd2e5218a724117e243cb27a6b1f1f2d964614410467c35d",
+  "slug": "will-tony-finau-win-the-tour-championship",
+  "question": "Will Tony Finau win the Tour Championship?"
+}

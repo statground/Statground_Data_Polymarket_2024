@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515471",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T23:15:10.582800Z",
+  "market_createdAt": "2024-12-11T23:15:10.5828Z",
+  "market_updatedAt": "2025-01-01T01:16:37.004159Z",
+  "market_startDate": "2024-12-23T19:15:24.545Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-31 05:35:26+00",
+  "conditionId": "0x7ed39d5ec3e72074ab27d3f1c708a533a013ebad17c239bac394ad992ee36734",
+  "slug": "will-ben-finegold-win-the-2024-world-blitz-championship",
+  "question": "Will Ben Finegold win the 2024 World Blitz Championship?"
+}

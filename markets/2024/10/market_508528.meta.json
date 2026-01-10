@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508528",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T17:00:25.496036Z",
+  "market_createdAt": "2024-10-01T17:00:25.496036Z",
+  "market_updatedAt": "2024-10-04T17:12:42.820696Z",
+  "market_startDate": "2024-10-02T14:42:13.791717Z",
+  "market_endDate": "2024-10-03T12:00:00Z",
+  "market_closedTime": "2024-10-03 22:15:26+00",
+  "conditionId": "0xb38718f7463746f54e812bc84f2257bd66f497b0ef3ef061fa75e15f4f0d2e0a",
+  "slug": "will-fk-rfs-beat-galatasaray",
+  "question": "Will FK RFS beat Galatasaray?"
+}

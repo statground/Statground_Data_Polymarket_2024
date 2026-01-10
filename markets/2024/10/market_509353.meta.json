@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509353",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-09T17:19:23.816012Z",
+  "market_createdAt": "2024-10-09T17:19:23.816012Z",
+  "market_updatedAt": "2025-04-14T04:37:35.951174Z",
+  "market_startDate": "2024-10-10T20:19:43.862957Z",
+  "market_endDate": "2025-04-13T12:00:00Z",
+  "market_closedTime": "2025-04-14 04:34:38+00",
+  "conditionId": "0x407745dd25e9d020c2952a2b4b4590683918433bed255eb30640afd620fae7af",
+  "slug": "will-deaaron-fox-lead-the-nba-in-scoring",
+  "question": "Will De’Aaron Fox lead the NBA in scoring?"
+}

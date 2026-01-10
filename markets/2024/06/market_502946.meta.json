@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502946",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-27T17:16:45.495487Z",
+  "market_createdAt": "2024-06-27T17:16:45.495487Z",
+  "market_updatedAt": "2024-09-12T03:13:02.032401Z",
+  "market_startDate": "2024-07-05T22:41:27.919Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 06:12:39+00",
+  "conditionId": "0xd59ae0bc54b326725fdc101d38110cf237306afef14c64f9599591a58d61ae19",
+  "slug": "second-presidential-debate-happen-as-scheduled",
+  "question": "Will Trump + Biden 2nd debate happen as scheduled?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510555",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:16:20.854327Z",
+  "market_createdAt": "2024-10-22T16:16:20.854327Z",
+  "market_updatedAt": "2024-10-29T01:43:07.034709Z",
+  "market_startDate": "2024-10-22T22:29:16.128Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-28 02:47:49+00",
+  "conditionId": "0x5d4e84629096c6d8372b369cf5113f5c044f1f8266b8c8c4aa17b68341a36d72",
+  "slug": "will-trump-say-tax-30-or-more-times-during-new-york-rally-on-october-27",
+  "question": "Will Trump say \"tax\" 30 or more times during New York rally on October 27?"
+}

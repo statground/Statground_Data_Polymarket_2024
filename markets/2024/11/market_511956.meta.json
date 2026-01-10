@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511956",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T22:41:11.889250Z",
+  "market_createdAt": "2024-11-04T22:41:11.88925Z",
+  "market_updatedAt": "2024-11-08T08:03:02.397889Z",
+  "market_startDate": "2024-11-04T23:00:19.602968Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-08 02:24:11+00",
+  "conditionId": "0x33e43ca14d148af8cccd07e1abb5fb9bc674b391fe565f11e97b85fe6203c76a",
+  "slug": "pa-07-election-wild-d-vs-mackenzie-r",
+  "question": "PA-07 election: Wild (D) vs. Mackenzie (R)"
+}

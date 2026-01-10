@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500793",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-07T03:04:27.509332Z",
+  "market_createdAt": "2024-04-07T03:04:27.509332Z",
+  "market_updatedAt": "2024-07-22T02:58:38.717781Z",
+  "market_startDate": "2024-04-07T03:15:13.847Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-07-21 02:59:50+00",
+  "conditionId": "0x2947e01438abca09a05b9f34e74e7e2d193f4b0ddb19801b30a7b01cee91f7ae",
+  "slug": "will-mew-reach-1b-first",
+  "question": "Will MEW reach $1b first?"
+}

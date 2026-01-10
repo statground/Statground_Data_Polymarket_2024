@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510123",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-18T16:43:30.803189Z",
+  "market_createdAt": "2024-10-18T16:43:30.803189Z",
+  "market_updatedAt": "2024-10-20T20:16:49.463191Z",
+  "market_startDate": "2024-10-18T23:29:22.576302Z",
+  "market_endDate": "2024-10-19T12:00:00Z",
+  "market_closedTime": "2024-10-19 21:41:50+00",
+  "conditionId": "0x4331a1c67189b69ab4af3d9e708b006db56115e8d5f83e9d98f009e0094ce1dc",
+  "slug": "will-missouri-beat-auburn",
+  "question": "Will Missouri beat Auburn?"
+}

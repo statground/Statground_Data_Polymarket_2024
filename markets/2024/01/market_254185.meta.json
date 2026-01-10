@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254185",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-29T19:07:26.858000Z",
+  "market_createdAt": "2024-01-29T19:07:26.858Z",
+  "market_updatedAt": "2024-03-01T07:21:54.255Z",
+  "market_startDate": "2024-01-29T20:21:54.664Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:17:00+00",
+  "conditionId": "0x9c97d059cf22a6e6ffc5d586a073af9c3c91dbccda37fca6f32eb9151669b8b5",
+  "slug": "opensea-acquired-before-march",
+  "question": "OpenSea acquired before March?"
+}

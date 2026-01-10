@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513594",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:02:13.231602Z",
+  "market_createdAt": "2024-11-20T22:02:13.231602Z",
+  "market_updatedAt": "2025-04-20T00:26:36.27422Z",
+  "market_startDate": "2024-11-20T22:34:38.111Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:03:01+00",
+  "conditionId": "0x37f276686440c2309681c212d6764c50a646eb42ec632c4f9e005d0ac560ad2f",
+  "slug": "will-jake-paul-fight-artur-beterbiev-next",
+  "question": "Will Jake Paul fight Artur Beterbiev next?"
+}

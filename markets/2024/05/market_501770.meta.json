@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-22T16:34:20.113208Z",
+  "market_createdAt": "2024-05-22T16:34:20.113208Z",
+  "market_updatedAt": "2024-07-06T11:45:46.971899Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-04T12:00:00Z",
+  "market_closedTime": "2024-07-05 18:07:26+00",
+  "conditionId": "0x7f7582fb2dc722552e873177aad2028a8f77bb7741c79451fc037d2260291f83",
+  "slug": "will-boris-johnson-be-next-uk-prime-minister",
+  "question": "Will Boris Johnson be next UK prime minister?"
+}

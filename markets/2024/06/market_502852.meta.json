@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502852",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:22:33.937011Z",
+  "market_createdAt": "2024-06-25T15:22:33.937011Z",
+  "market_updatedAt": "2024-06-28T00:11:03.430014Z",
+  "market_startDate": "2024-06-25T18:14:54.164Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 03:15:39+00",
+  "conditionId": "0xbd97bfe60bede906bd7469f15d40eec1ebc3c04d2b9320a1f3aab82994d60261",
+  "slug": "will-ecuador-win-jun-26",
+  "question": "Will Ecuador win?"
+}

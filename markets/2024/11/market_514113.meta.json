@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514113",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T08:31:36.295796Z",
+  "market_createdAt": "2024-11-26T08:31:36.295796Z",
+  "market_updatedAt": "2024-11-29T21:57:27.971128Z",
+  "market_startDate": "2024-11-26T23:01:27.360009Z",
+  "market_endDate": "2024-11-28T12:00:00Z",
+  "market_closedTime": "2024-11-29 01:19:56+00",
+  "conditionId": "0x6b3624398cbed2352498e78a8e0a526f689665165e8415be77e03ad31f8c1202",
+  "slug": "will-the-match-between-frankfurt-and-fc-midtjylland-end-in-a-draw",
+  "question": "Will the match between Frankfurt and FC Midtjylland end in a draw?"
+}

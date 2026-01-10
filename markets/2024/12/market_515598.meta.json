@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515598",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T20:30:23.499060Z",
+  "market_createdAt": "2024-12-13T20:30:23.49906Z",
+  "market_updatedAt": "2025-01-01T22:01:44.237781Z",
+  "market_startDate": "2024-12-13T20:47:10.391409Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:41:50+00",
+  "conditionId": "0x554cd51e958fdb564245c40a42e058929cbd5ed130483ddb3a97f7753b726dad",
+  "slug": "openai-settlement-with-elon-musk-in-2024",
+  "question": "Will Elon Musk settle lawsuit with OpenAI before 2025?"
+}

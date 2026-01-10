@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509770",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-13T20:23:02.934948Z",
+  "market_createdAt": "2024-10-13T20:23:02.934948Z",
+  "market_updatedAt": "2024-10-15T21:26:46.308014Z",
+  "market_startDate": "2024-10-14T14:47:56.086153Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 00:03:38+00",
+  "conditionId": "0x223a8b9a167241f4c890a351a5a9f4eba11df4fca3dd16fc8407a9a5c2c9f323",
+  "slug": "will-the-match-between-belgium-and-france-end-in-a-draw",
+  "question": "Will the match between Belgium and France end in a draw?"
+}

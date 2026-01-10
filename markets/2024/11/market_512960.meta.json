@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512960",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-13T16:16:51.240271Z",
+  "market_createdAt": "2024-11-13T16:16:51.240271Z",
+  "market_updatedAt": "2024-11-16T00:58:57.715413Z",
+  "market_startDate": "2024-11-13T17:10:33.154Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 02:02:07+00",
+  "conditionId": "0x5cd67fd481227f8be845343aefa5cb2137cbec678598a3e1cb7065118be072d9",
+  "slug": "will-trump-nominate-matthew-g-whitaker-for-attorney-general",
+  "question": "Will Trump nominate Matthew G. Whitaker for Attorney General?"
+}

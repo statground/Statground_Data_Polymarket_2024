@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512344",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T00:27:42.315189Z",
+  "market_createdAt": "2024-11-08T00:27:42.315189Z",
+  "market_updatedAt": "2025-04-02T06:36:36.3735Z",
+  "market_startDate": "2024-11-08T00:31:12.325Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-04-01 07:25:54+00",
+  "conditionId": "0x3f02f7f4510608657abe3441c090fa6a0c47231bb6f0fa2cc627ee4e28a620c2",
+  "slug": "will-betsy-davos-be-a-member-of-the-trump-administration",
+  "question": "Will Betsy DeVos be a member of the Trump administration?"
+}

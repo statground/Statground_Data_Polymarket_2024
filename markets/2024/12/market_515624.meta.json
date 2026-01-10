@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515624",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T22:29:57.578145Z",
+  "market_createdAt": "2024-12-13T22:29:57.578145Z",
+  "market_updatedAt": "2024-12-22T07:01:28.31512Z",
+  "market_startDate": "2024-12-13T22:36:31.375Z",
+  "market_endDate": "2024-12-20T12:00:00Z",
+  "market_closedTime": "2024-12-21 07:12:19+00",
+  "conditionId": "0x8adfa7b4bdd9536fd63ea96e58dd3fc2b186c05f720c4e6565f76ba8f28f1e9b",
+  "slug": "mystery-drones-shot-down-by-next-friday",
+  "question": "Mystery drones shot down by Friday?"
+}

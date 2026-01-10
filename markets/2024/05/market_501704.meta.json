@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-20T17:30:17.400367Z",
+  "market_createdAt": "2024-05-20T17:30:17.400367Z",
+  "market_updatedAt": "2024-06-20T10:15:14.223947Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-20T12:00:00Z",
+  "market_closedTime": "2024-06-20 10:13:46+00",
+  "conditionId": "0xdbf039208c7ec82f5fc414680ce98f0ce7e2bf396b12ed43e18519a354a6d7ed",
+  "slug": "will-gholam-hossein-esmaeili-be-the-next-president-of-iran",
+  "question": "Will Gholam-Hossein Esmaeili be the next President of Iran?"
+}

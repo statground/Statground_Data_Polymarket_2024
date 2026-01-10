@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511293",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-29T15:45:43.446380Z",
+  "market_createdAt": "2024-10-29T15:45:43.44638Z",
+  "market_updatedAt": "2024-11-01T19:57:12.215642Z",
+  "market_startDate": "2024-10-29T16:51:33.532838Z",
+  "market_endDate": "2024-10-30T12:00:00Z",
+  "market_closedTime": "2024-10-31 20:03:06+00",
+  "conditionId": "0x56918f70b0730dd3e4300d18b554b6693daa87daa8dfa20def81af470a11385e",
+  "slug": "will-jd-vance-say-alien-during-the-joe-rogan-podcast",
+  "question": "Will JD Vance say \"alien\" during the Joe Rogan podcast?"
+}

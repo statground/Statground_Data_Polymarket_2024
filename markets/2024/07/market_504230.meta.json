@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504230",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-26T19:05:10.270320Z",
+  "market_createdAt": "2024-07-26T19:05:10.27032Z",
+  "market_updatedAt": "2024-07-28T22:07:03.463662Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-27T12:00:00Z",
+  "market_closedTime": "2024-07-27 23:55:15+00",
+  "conditionId": "0xf2805cbebfebd105a00b05c4337abe008ddfd1bd6091119f9c14571384bc2a28",
+  "slug": "will-trump-say-solana-during-his-bitcoin-conference-speech",
+  "question": "Will Trump say \"Solana\" during his Bitcoin Conference speech?"
+}

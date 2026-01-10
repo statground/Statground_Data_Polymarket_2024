@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500969",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:35:08.680261Z",
+  "market_createdAt": "2024-04-15T20:35:08.680261Z",
+  "market_updatedAt": "2024-05-19T08:19:12.320063Z",
+  "market_startDate": "2024-04-16T16:50:18.947Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-18 09:21:39+00",
+  "conditionId": "0x43476d0dba20e9751eb765dd11f5361b9a6a4e3d4ec524937c2e1eb8a5777d7e",
+  "slug": "colorado-avalanche-win-the-2024-stanley-cup",
+  "question": "Colorado Avalanche win the 2024 Stanley Cup?"
+}

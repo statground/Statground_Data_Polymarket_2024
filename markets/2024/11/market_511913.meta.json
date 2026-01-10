@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511913",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:36:31.374136Z",
+  "market_createdAt": "2024-11-04T18:36:31.374136Z",
+  "market_updatedAt": "2024-11-10T04:42:44.958329Z",
+  "market_startDate": "2024-11-04T18:39:08.431919Z",
+  "market_endDate": "2024-11-09T00:00:00Z",
+  "market_closedTime": "2024-11-09 04:36:58+00",
+  "conditionId": "0x7b61a2eca67dc8bfbec7b80ae54f92c6eaf6fa029bca5959cabeec77cf21fbb3",
+  "slug": "nba-ind-cha-2024-11-08",
+  "question": "Pacers vs. Hornets"
+}

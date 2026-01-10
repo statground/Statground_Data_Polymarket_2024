@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512323",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T21:18:00.511997Z",
+  "market_createdAt": "2024-11-07T21:18:00.511997Z",
+  "market_updatedAt": "2025-01-30T22:23:03.348769Z",
+  "market_startDate": "2024-11-07T22:42:06.902Z",
+  "market_endDate": "2025-01-29T12:00:00Z",
+  "market_closedTime": "2025-01-29 23:03:10+00",
+  "conditionId": "0xf48f79d8e60ab1efa76e53bec8c005611bfdc097cc0e51dc2f612709c04f5acf",
+  "slug": "fed-decreases-interest-rates-by-25-bps-after-january-2025-meeting",
+  "question": "Fed decreases interest rates by 25 bps after January 2025 meeting?"
+}

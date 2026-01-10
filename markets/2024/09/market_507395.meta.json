@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507395",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-18T02:35:32.124582Z",
+  "market_createdAt": "2024-09-18T02:35:32.124582Z",
+  "market_updatedAt": "2025-05-17T00:23:37.940312Z",
+  "market_startDate": "2024-09-18T16:34:08.235475Z",
+  "market_endDate": "2025-05-25T12:00:00Z",
+  "market_closedTime": "2025-05-16 02:48:37+00",
+  "conditionId": "0x6452c3d3e25f381ce39e9b7ffb06cf9d7a7cf1cc6c13044c2403c4606b77e5f8",
+  "slug": "will-real-madrid-win-la-liga",
+  "question": "Will Real Madrid win La Liga?"
+}

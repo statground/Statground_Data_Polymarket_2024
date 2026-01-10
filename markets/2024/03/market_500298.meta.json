@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500298",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T23:14:45.541503Z",
+  "market_createdAt": "2024-03-18T23:14:45.541503Z",
+  "market_updatedAt": "2024-05-07T23:09:14.87131Z",
+  "market_startDate": "2024-03-19T00:01:18.787Z",
+  "market_endDate": "2024-03-19T04:00:00Z",
+  "market_closedTime": "2024-03-21 10:26:22+00",
+  "conditionId": "0x39ddf59e142b22f5ecd400bbe1e3e39b4c77e1650f433ffe6717b84d8631a95e",
+  "slug": "will-anna-zo-cohen-win-ca20-special-election",
+  "question": "Will Anna Zoë Cohen win CA-20 Special Election?"
+}

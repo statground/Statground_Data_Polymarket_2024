@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-03T19:57:48.934273Z",
+  "market_createdAt": "2024-12-03T19:57:48.934273Z",
+  "market_updatedAt": "2024-12-10T21:09:16.69608Z",
+  "market_startDate": "2024-12-03T20:40:07.982772Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2024-12-09 21:21:13+00",
+  "conditionId": "0x98b37ce52cbde9b943184cba4f5e8290e32d3878085c23f6013096f7359e3e1e",
+  "slug": "daniel-penny-not-sentenced-to-prison",
+  "question": "Daniel Penny not sentenced to prison?"
+}

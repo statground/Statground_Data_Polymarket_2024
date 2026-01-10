@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503706",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T15:59:47.162935Z",
+  "market_createdAt": "2024-07-18T15:59:47.162935Z",
+  "market_updatedAt": "2024-07-20T06:40:42.365684Z",
+  "market_startDate": "2024-07-18T16:12:17.601Z",
+  "market_endDate": "2024-07-18T12:00:00Z",
+  "market_closedTime": "2024-07-19 07:29:38+00",
+  "conditionId": "0x15272971ff335044881bc74456e2b6b81302c2c1ac7d2de489de1fe3fac73d84",
+  "slug": "will-elon-musk-speak-at-the-rnc",
+  "question": "Will Elon Musk speak at the RNC today?"
+}

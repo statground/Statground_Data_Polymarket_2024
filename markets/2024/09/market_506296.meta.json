@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T18:01:35.741785Z",
+  "market_createdAt": "2024-09-03T18:01:35.741785Z",
+  "market_updatedAt": "2024-09-12T04:43:04.517185Z",
+  "market_startDate": "2024-09-03T22:32:24.056Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:13:28+00",
+  "conditionId": "0x995438035db4dc5a2c99d6077ccd197cd56256a36453d05529b50717682d2c0d",
+  "slug": "will-trump-say-maga-at-debate",
+  "question": "Will Trump say \"MAGA\" 3 or more times at debate?"
+}

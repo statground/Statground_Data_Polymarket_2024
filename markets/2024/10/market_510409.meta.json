@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T21:42:01.329843Z",
+  "market_createdAt": "2024-10-21T21:42:01.329843Z",
+  "market_updatedAt": "2024-10-24T00:23:15.361456Z",
+  "market_startDate": "2024-10-22T00:40:07.268268Z",
+  "market_endDate": "2024-10-22T12:00:00Z",
+  "market_closedTime": "2024-10-23 00:25:11+00",
+  "conditionId": "0xf67accf78543d6fc851965d26d391e8d2c4373c08f35784caf3f2bab10c3db97",
+  "slug": "will-arsenal-beat-shakhtar-donetsk",
+  "question": "Will Arsenal beat Shakhtar Donetsk?"
+}

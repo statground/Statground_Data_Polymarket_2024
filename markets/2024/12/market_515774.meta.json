@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515774",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T19:32:36.157876Z",
+  "market_createdAt": "2024-12-16T19:32:36.157876Z",
+  "market_updatedAt": "2025-03-17T21:34:17.595646Z",
+  "market_startDate": "2024-12-16T23:27:01.549Z",
+  "market_endDate": "2025-03-17T12:00:00Z",
+  "market_closedTime": "2025-03-16 21:54:05+00",
+  "conditionId": "0x20d02e53b154db81e37b8e3a4ba085f31d3452af65bbf423681fd8b6baf6db86",
+  "slug": "will-newcastle-united-win-the-2024-carabao-cup",
+  "question": "Will Newcastle United win the 2024 Carabao Cup?"
+}

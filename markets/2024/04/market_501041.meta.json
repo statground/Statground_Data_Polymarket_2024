@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501041",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T16:55:35.165737Z",
+  "market_createdAt": "2024-04-18T16:55:35.165737Z",
+  "market_updatedAt": "2024-06-06T02:16:11.589674Z",
+  "market_startDate": "2024-04-18T22:09:40.015Z",
+  "market_endDate": "2024-06-04T12:00:00Z",
+  "market_closedTime": "2024-06-05 13:05:32+00",
+  "conditionId": "0x4c5751480bedaf4e876e16ea32fe406858a9a27271fcf754e8091891c1a279b8",
+  "slug": "will-the-nda-win-351-375-seats",
+  "question": "Will the NDA win 351-375 seats?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505130",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-14T21:37:25.578924Z",
+  "market_createdAt": "2024-08-14T21:37:25.578924Z",
+  "market_updatedAt": "2024-08-20T01:12:59.171445Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-18T12:00:00Z",
+  "market_closedTime": "2024-08-19 01:22:49+00",
+  "conditionId": "0xa2d59a21047cb4663a5a22e6e7b03b36a47980bacee231c2fbd5af484232d900",
+  "slug": "will-jon-rahm-win-the-2024-liv-greenbrier-tournament",
+  "question": " Will Jon Rahm win the 2024 LIV Greenbrier Tournament?"
+}

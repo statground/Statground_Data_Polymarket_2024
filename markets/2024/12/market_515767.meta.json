@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515767",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-16T18:47:19.914787Z",
+  "market_createdAt": "2024-12-16T18:47:19.914787Z",
+  "market_updatedAt": "2025-01-07T17:41:20.103792Z",
+  "market_startDate": "2024-12-16T19:04:03.448Z",
+  "market_endDate": "2025-03-31T12:00:00Z",
+  "market_closedTime": "2025-01-06 18:47:37+00",
+  "conditionId": "0x47531c9032a272679648284fdf10a47ee52da16ce2525c6a925962e0693b21c6",
+  "slug": "trudeau-out-before-april",
+  "question": "Trudeau out before April?"
+}

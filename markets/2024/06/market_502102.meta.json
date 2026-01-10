@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502102",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T15:28:30.371732Z",
+  "market_createdAt": "2024-06-04T15:28:30.371732Z",
+  "market_updatedAt": "2024-06-19T06:36:13.895379Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 07:05:20+00",
+  "conditionId": "0x5a48e55bc9904e83e45ff3a95c362820def43f312b952186841998a713dc9801",
+  "slug": "will-derrick-white-make-the-most-3-pointers-in-the-2024-nba-finals-series",
+  "question": "Will Derrick White make the most 3-pointers in the 2024 NBA Finals series?"
+}

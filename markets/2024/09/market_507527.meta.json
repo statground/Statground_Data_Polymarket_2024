@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507527",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-19T20:40:00.009452Z",
+  "market_createdAt": "2024-09-19T20:40:00.009452Z",
+  "market_updatedAt": "2024-12-16T04:43:30.317817Z",
+  "market_startDate": "2024-09-19T21:35:08.573585Z",
+  "market_endDate": "2024-12-14T12:00:00Z",
+  "market_closedTime": "2024-12-15 05:36:51+00",
+  "conditionId": "0x4635d149e0b87db1e5a04fa38a18747655cb54a341d72b5beb2951627dcee3dc",
+  "slug": "will-dylan-raiola-win-the-heisman-trophy",
+  "question": "Will Dylan Raiola win the Heisman Trophy?"
+}

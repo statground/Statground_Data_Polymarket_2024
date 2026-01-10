@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T19:28:24.292211Z",
+  "market_createdAt": "2024-07-15T19:28:24.292211Z",
+  "market_updatedAt": "2024-12-18T02:16:07.746829Z",
+  "market_startDate": "2024-07-16T18:05:57.006Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-18 02:13:00+00",
+  "conditionId": "0x119441378a6368cf8b62ff0015105ba16689d9ffc729c6569a20965d89c62c74",
+  "slug": "will-new-mexico-be-the-tipping-point-state",
+  "question": "Will New Mexico be the tipping point state?"
+}

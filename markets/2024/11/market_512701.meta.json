@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512701",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:08:28.860130Z",
+  "market_createdAt": "2024-11-11T18:08:28.86013Z",
+  "market_updatedAt": "2024-11-17T04:21:01.019874Z",
+  "market_startDate": "2024-11-11T18:11:00.65778Z",
+  "market_endDate": "2024-11-23T00:30:00Z",
+  "market_closedTime": "2024-11-16 04:57:18+00",
+  "conditionId": "0x9adc340722aa695a028d62fc093a661aa3c9a9ca6185ee3faf74a7b82eb4421c",
+  "slug": "nba-chi-cle-2024-11-15",
+  "question": "Bulls vs. Cavaliers"
+}

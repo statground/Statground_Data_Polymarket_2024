@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505454",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-20T19:51:38.157880Z",
+  "market_createdAt": "2024-08-20T19:51:38.15788Z",
+  "market_updatedAt": "2024-08-22T20:37:09.087374Z",
+  "market_startDate": "2024-08-20T20:37:36.469Z",
+  "market_endDate": "2024-08-21T12:00:00Z",
+  "market_closedTime": "2024-08-21 21:12:37+00",
+  "conditionId": "0x2bb1a95867d1f4fb22cff7e61b5206d8eb0c5dc4a357adff89ba408e95610d87",
+  "slug": "will-trump-say-world-war-3-during-wednesday-speech",
+  "question": "Will Trump say \"World War 3\" during Wednesday speech?"
+}

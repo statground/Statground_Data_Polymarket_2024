@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514161",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T18:14:54.301075Z",
+  "market_createdAt": "2024-11-26T18:14:54.301075Z",
+  "market_updatedAt": "2025-02-25T12:35:19.100837Z",
+  "market_startDate": "2024-12-16T18:22:03.444Z",
+  "market_endDate": "2025-02-23T12:00:00Z",
+  "market_closedTime": "2025-02-24 12:30:42+00",
+  "conditionId": "0x1921202aa3f884b9c562a244f1e58417d93c9315e6768d27768eb3b2abc2c95b",
+  "slug": "will-union-win-the-most-seats-in-the-next-german-election",
+  "question": "Will Union win the most seats in the next German election?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514803",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T21:20:41.734397Z",
+  "market_createdAt": "2024-12-04T21:20:41.734397Z",
+  "market_updatedAt": "2024-12-12T07:01:09.259625Z",
+  "market_startDate": "2024-12-04T21:24:07.551273Z",
+  "market_endDate": "2024-12-18T02:30:00Z",
+  "market_closedTime": "2024-12-11 07:36:42+00",
+  "conditionId": "0xe86470ebac5e84fc8949aaa330abcb1e6736a06a5f0904b256ca5ac58ef4fe06",
+  "slug": "nhl-min-utah-2024-12-10",
+  "question": "Wild vs. Utah"
+}

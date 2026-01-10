@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513018",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-14T17:07:11.349518Z",
+  "market_createdAt": "2024-11-14T17:07:11.349518Z",
+  "market_updatedAt": "2024-12-12T16:29:14.588812Z",
+  "market_startDate": "2024-11-14T17:20:28.882133Z",
+  "market_endDate": "2024-12-11T12:00:00Z",
+  "market_closedTime": "2024-12-11 16:52:54+00",
+  "conditionId": "0xe5698213431d592d81cca4b85a5f43a108f5aa7a918f6b8bc13aaf47a273eb8f",
+  "slug": "will-inflation-increase-by-2pt6-in-november",
+  "question": "Will inflation increase by 2.6% in November?"
+}

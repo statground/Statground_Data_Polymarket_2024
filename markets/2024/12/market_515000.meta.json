@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:07:10.124242Z",
+  "market_createdAt": "2024-12-06T22:07:10.124242Z",
+  "market_updatedAt": "2025-05-06T08:20:33.316656Z",
+  "market_startDate": "2024-12-06T22:59:31.171557Z",
+  "market_endDate": "2025-07-31T12:00:00Z",
+  "market_closedTime": "2025-05-05 18:55:55+00",
+  "conditionId": "0x618620c8156fae308a73ab3477ab2e66796b2be41077c3025f77f7eea34e7b96",
+  "slug": "will-marcel-ciolacu-advance-to-the-romanian-presidential-election-runoff",
+  "question": "Will Marcel Ciolacu advance to the Romanian Presidential Election Runoff?"
+}

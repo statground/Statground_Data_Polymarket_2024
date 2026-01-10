@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516055",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-19T16:55:17.659435Z",
+  "market_createdAt": "2024-12-19T16:55:17.659435Z",
+  "market_updatedAt": "2024-12-23T01:35:41.437981Z",
+  "market_startDate": "2024-12-19T23:19:46.828987Z",
+  "market_endDate": "2024-12-21T12:00:00Z",
+  "market_closedTime": "2024-12-22 03:08:18+00",
+  "conditionId": "0x933514d3e67410761ec765fbd88122fd33d00c1e1639f2928db83e7933fd92e8",
+  "slug": "will-the-fight-end-in-round-12-usyk-fury-2",
+  "question": "Will the fight end in Round 12?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504648",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T15:25:27.046942Z",
+  "market_createdAt": "2024-08-07T15:25:27.046942Z",
+  "market_updatedAt": "2025-01-02T07:35:04.760788Z",
+  "market_startDate": "2024-08-07T15:25:27.046942Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 09:06:50+00",
+  "conditionId": "0x1e12293226f977844cdbb110fa5a746cc2f18b61aeb4a9835973f4c6f8166d26",
+  "slug": "maduro-out-in-2024",
+  "question": "Maduro out in 2024?"
+}

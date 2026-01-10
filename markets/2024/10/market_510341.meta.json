@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:08:47.466221Z",
+  "market_createdAt": "2024-10-21T20:08:47.466221Z",
+  "market_updatedAt": "2024-11-12T17:13:14.037312Z",
+  "market_startDate": "2024-10-21T21:08:32.841Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:39:38+00",
+  "conditionId": "0xc87e53da2db5529074b2656bfa66eb469b5c2df4c509d722faa14f0597c555a2",
+  "slug": "who-will-win-men",
+  "question": "Who will win men?"
+}

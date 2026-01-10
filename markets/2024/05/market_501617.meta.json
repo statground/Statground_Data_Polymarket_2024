@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501617",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-15T14:50:04.959550Z",
+  "market_createdAt": "2024-05-15T14:50:04.95955Z",
+  "market_updatedAt": "2024-06-10T20:31:16.023564Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-09T12:00:00Z",
+  "market_closedTime": "2024-06-09 20:51:56+00",
+  "conditionId": "0x4ea63b3674a46b2d5c7436d32dc7b0a80c23556dcaadefe98b428d8ec48c9610",
+  "slug": "will-carlos-alcaraz-win-the-2024-french-open-mens-singles",
+  "question": "Will Carlos Alcaraz win the 2024 French Open Men's Singles?"
+}

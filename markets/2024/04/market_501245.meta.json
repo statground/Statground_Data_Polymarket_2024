@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501245",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-29T19:08:29.945793Z",
+  "market_createdAt": "2024-04-29T19:08:29.945793Z",
+  "market_updatedAt": "2024-05-23T11:24:11.425637Z",
+  "market_startDate": "2024-04-29T22:52:38.063Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-05-22 21:11:30+00",
+  "conditionId": "0xf1f5ba135c3237c7f628e438392375e46c50fb4fc9a586110ab7865188e31546",
+  "slug": "uk-election-in-november",
+  "question": "UK election in November?"
+}

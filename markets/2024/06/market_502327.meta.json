@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502327",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-11T18:53:52.990653Z",
+  "market_createdAt": "2024-06-11T18:53:52.990653Z",
+  "market_updatedAt": "2024-06-13T21:26:15.911532Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-12T12:00:00Z",
+  "market_closedTime": "2024-06-12 22:02:03+00",
+  "conditionId": "0x77b134348ef160a7a9059d5807793caaf8ce3ff77ac9db8dc678fb1868a96f1c",
+  "slug": "gme-halted-on-wednesday-june-12",
+  "question": "GME halted on Wednesday?"
+}

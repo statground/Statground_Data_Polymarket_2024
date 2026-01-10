@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508435",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T19:22:19.606744Z",
+  "market_createdAt": "2024-09-30T19:22:19.606744Z",
+  "market_updatedAt": "2024-10-02T19:36:53.380691Z",
+  "market_startDate": "2024-09-30T21:24:41.951997Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-01 21:59:24+00",
+  "conditionId": "0x79fbf3e95787511c369ab65e86250218e4cfdb16fd3ed37e676ec6cffa960311",
+  "slug": "will-stuttgart-beat-sparta-praha",
+  "question": "Will Stuttgart beat Sparta Praha?"
+}

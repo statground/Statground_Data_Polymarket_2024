@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512200",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-06T19:22:19.619282Z",
+  "market_createdAt": "2024-11-06T19:22:19.619282Z",
+  "market_updatedAt": "2024-11-15T22:47:17.410131Z",
+  "market_startDate": "2024-11-06T19:47:50.388Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:14:29+00",
+  "conditionId": "0x70332dfc2149fdcd4c031d0440068efd0288d243256363840a7495e96e1fc03a",
+  "slug": "will-trump-nominate-will-levi-for-attorney-general",
+  "question": "Will Trump nominate Will Levi for Attorney General?"
+}

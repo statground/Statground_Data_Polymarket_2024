@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515412",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-11T20:31:16.866646Z",
+  "market_createdAt": "2024-12-11T20:31:16.866646Z",
+  "market_updatedAt": "2025-01-11T16:50:40.996214Z",
+  "market_startDate": "2024-12-11T21:13:50.924199Z",
+  "market_endDate": "2025-01-10T12:00:00Z",
+  "market_closedTime": "2025-01-10 16:45:26+00",
+  "conditionId": "0x026bd42df2b17550ad5edceb43f95553b254deb94571905c5338cb3dc5a801ab",
+  "slug": "will-us-add-less-than-100k-jobs-in-december-2024",
+  "question": "Will US add less than 100k jobs in December 2024?"
+}

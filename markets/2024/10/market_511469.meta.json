@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511469",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-30T22:36:34.823299Z",
+  "market_createdAt": "2024-10-30T22:36:34.823299Z",
+  "market_updatedAt": "2024-11-03T00:53:08.535819Z",
+  "market_startDate": "2024-11-01T16:01:47.095364Z",
+  "market_endDate": "2024-11-01T12:00:00Z",
+  "market_closedTime": "2024-11-02 00:52:18+00",
+  "conditionId": "0xee4ecc2efc32564af202651aa6a84ae2cc2e8414943d5a99a4fd937bf767dd69",
+  "slug": "will-trump-say-gun-5-or-more-during-warren-mi-rally",
+  "question": "Will Trump say \"gun\" 5 or more during Warren, MI rally?"
+}

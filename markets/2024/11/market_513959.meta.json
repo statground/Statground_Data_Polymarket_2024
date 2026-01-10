@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513959",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T15:10:05.622354Z",
+  "market_createdAt": "2024-11-25T15:10:05.622354Z",
+  "market_updatedAt": "2024-11-26T21:50:19.870449Z",
+  "market_startDate": "2024-11-25T15:31:35.484143Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-11-25 21:50:25+00",
+  "conditionId": "0x6b4450f63b9654e8dfe1b78fe7f54bdf4925cd69cb5e351e94053d7f667936a4",
+  "slug": "pumpfun-ends-livestreaming-by-friday",
+  "question": "Pump.fun disables livestreaming by Friday?"
+}

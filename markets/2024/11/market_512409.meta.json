@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512409",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:32:15.694045Z",
+  "market_createdAt": "2024-11-08T19:32:15.694045Z",
+  "market_updatedAt": "2024-11-16T02:01:08.666006Z",
+  "market_startDate": "2024-11-14T16:54:32.55Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-15 03:38:45+00",
+  "conditionId": "0x61f44322c848bbf8738c9ad980a53b52457363662c49e5a73a86c2287a8627a7",
+  "slug": "will-trump-nominate-another-person-for-homeland-security-secretary",
+  "question": "Will Trump nominate another person for Homeland Security Secretary?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500560",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-29T17:56:30.457702Z",
+  "market_createdAt": "2024-03-29T17:56:30.457702Z",
+  "market_updatedAt": "2024-05-07T23:09:10.411959Z",
+  "market_startDate": "2024-03-29T18:10:28.974Z",
+  "market_endDate": "2024-04-05T12:00:00Z",
+  "market_closedTime": "2024-04-05 18:03:26+00",
+  "conditionId": "0x05a440c5bd7140f3c770c386d29981defbfa3d23ecba36e2c33d6d6f553ffef0",
+  "slug": "will-eth-hit-3500-by-april-5",
+  "question": "Ethereum above $3,500 on April 5?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505855",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-26T20:16:42.170636Z",
+  "market_createdAt": "2024-08-26T20:16:42.170636Z",
+  "market_updatedAt": "2024-09-10T01:37:12.313744Z",
+  "market_startDate": "2024-09-08T12:00:00Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 02:08:51+00",
+  "conditionId": "0xbb7f1a9cc64c8a6a2716984b7bc476f2187eac544bc761322cb25466c3411af1",
+  "slug": "nfl-cle-dal-2024-09-08",
+  "question": "Browns vs. Cowboys"
+}

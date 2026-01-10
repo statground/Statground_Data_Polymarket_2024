@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502627",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-19T18:09:56.372429Z",
+  "market_createdAt": "2024-06-19T18:09:56.372429Z",
+  "market_updatedAt": "2024-06-25T07:56:13.380285Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-29T12:00:00Z",
+  "market_closedTime": "2024-06-24 09:14:26+00",
+  "conditionId": "0x2b749b3be4503122f04677885fde22eac5a253b036370d0c8cfe4579e084aa34",
+  "slug": "will-the-west-indies-win-the-icc-t20-cricket-world-cup",
+  "question": "Will the West Indies win the ICC T20 Cricket World Cup?"
+}

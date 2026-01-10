@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500328",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-19T19:15:14.384272Z",
+  "market_createdAt": "2024-03-19T19:15:14.384272Z",
+  "market_updatedAt": "2024-05-07T23:09:46.678495Z",
+  "market_startDate": "2024-03-19T19:31:30.993Z",
+  "market_endDate": "2024-03-31T07:00:00Z",
+  "market_closedTime": "2024-04-12 22:19:30+00",
+  "conditionId": "0x9019c7a214887000c8aeea44129afb2c792bd21b7492ef2ad958dfa5af3a2865",
+  "slug": "more-border-encounters-in-march-vs-feb",
+  "question": "More border encounters in March vs. Feb?"
+}

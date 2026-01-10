@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508722",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:21:29.816685Z",
+  "market_createdAt": "2024-10-02T20:21:29.816685Z",
+  "market_updatedAt": "2024-10-10T23:42:46.612373Z",
+  "market_startDate": "2024-10-02T21:47:15.169366Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-10 01:14:37+00",
+  "conditionId": "0x9ecd4a3a5ad60c5bb5f67977dbe4e18693bbe611434225b87220912997b3d12c",
+  "slug": "will-faze-clan-win-iem-rio-2024",
+  "question": "Will Faze Clan win IEM Rio 2024?"
+}

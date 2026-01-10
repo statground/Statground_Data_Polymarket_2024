@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-07T17:13:01.868953Z",
+  "market_createdAt": "2024-11-07T17:13:01.868953Z",
+  "market_updatedAt": "2024-11-24T01:14:50.407435Z",
+  "market_startDate": "2024-11-07T18:10:50.189537Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2024-11-23 05:55:29+00",
+  "conditionId": "0x1dd8d6afc998fe922a00c46a2705c325f4bc09f9af750bedf1946513dd60c099",
+  "slug": "will-trump-nominate-tim-scott-for-hud-secretary",
+  "question": "Will Trump nominate Tim Scott for HUD Secretary?"
+}

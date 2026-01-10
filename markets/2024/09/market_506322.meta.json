@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506322",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T19:03:53.000445Z",
+  "market_createdAt": "2024-09-03T19:03:53.000445Z",
+  "market_updatedAt": "2024-10-29T20:37:07.767934Z",
+  "market_startDate": "2024-09-04T00:29:57.227499Z",
+  "market_endDate": "2024-10-28T12:00:00Z",
+  "market_closedTime": "2024-10-28 23:48:33+00",
+  "conditionId": "0x304d51387ba144ce767972b037a1fcdefd67010e0d6fbd5d5c685298ff1b4c6d",
+  "slug": "will-harry-kane-win-the-ballon-dor",
+  "question": "Will Harry Kane win the Ballon d’Or?"
+}

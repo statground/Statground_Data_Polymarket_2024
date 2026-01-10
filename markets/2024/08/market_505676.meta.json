@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505676",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-22T19:44:48.349208Z",
+  "market_createdAt": "2024-08-22T19:44:48.349208Z",
+  "market_updatedAt": "2024-08-26T22:46:57.450372Z",
+  "market_startDate": "2024-08-23T16:27:31.438Z",
+  "market_endDate": "2024-08-25T12:00:00Z",
+  "market_closedTime": "2024-08-26 01:36:30+00",
+  "conditionId": "0x0a909afe0d1e0fa858f0fad96100ff9aa64c114e15ff7f16d785db242aefe5e3",
+  "slug": "will-florida-win-the-2024-little-league-world-series",
+  "question": "Will Florida win the 2024 Little League World Series?"
+}

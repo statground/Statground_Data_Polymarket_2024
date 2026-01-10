@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-07T21:14:09.685190Z",
+  "market_createdAt": "2024-08-07T21:14:09.68519Z",
+  "market_updatedAt": "2024-12-19T00:39:23.336557Z",
+  "market_startDate": "2024-08-08T17:59:22.008Z",
+  "market_endDate": "2025-01-31T12:00:00Z",
+  "market_closedTime": "2024-12-18 00:57:04+00",
+  "conditionId": "0xfd3af5c93893b1cf117c28e4e8b1d91eca4c69649ec4e8dd62445667047ad9b0",
+  "slug": "democrats-win-popular-vote-by-5-6",
+  "question": "Democrats win popular vote by 5-6%?"
+}

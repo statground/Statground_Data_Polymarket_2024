@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T17:24:58.780408Z",
+  "market_createdAt": "2024-11-01T17:24:58.780408Z",
+  "market_updatedAt": "2024-11-09T14:53:02.097172Z",
+  "market_startDate": "2024-11-01T17:43:25.833235Z",
+  "market_endDate": "2024-11-08T12:00:00Z",
+  "market_closedTime": "2024-11-08 20:43:04+00",
+  "conditionId": "0x4dd811bddd1cbb87d6b0f8c8f952aede1edc01500e149b7e76151ff61a750a26",
+  "slug": "will-elon-tweet-600-or-more-times-november-1-8",
+  "question": "Will Elon tweet 600 or more times November 1-8?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514305",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T05:12:26.740916Z",
+  "market_createdAt": "2024-12-01T05:12:26.740916Z",
+  "market_updatedAt": "2024-12-07T04:49:15.97675Z",
+  "market_startDate": "2024-12-01T05:15:49.463987Z",
+  "market_endDate": "2024-12-13T01:00:00Z",
+  "market_closedTime": "2024-12-06 05:34:59+00",
+  "conditionId": "0x5abc2192f1e37265bb23c1f6edc32dce1c8ca316c8a8295832b5e4e36ff880c8",
+  "slug": "nba-phx-nop-2024-12-05",
+  "question": "Suns vs. Pelicans"
+}

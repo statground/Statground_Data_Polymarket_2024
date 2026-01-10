@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509211",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T23:58:45.983021Z",
+  "market_createdAt": "2024-10-07T23:58:45.983021Z",
+  "market_updatedAt": "2024-11-28T08:17:34.862651Z",
+  "market_startDate": "2024-10-08T16:18:40.888158Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-27 08:17:16+00",
+  "conditionId": "0x93a2009f56d2ae9d4f224824bfc2ad4b7805417b5410d5c824fdaa9beabcf36a",
+  "slug": "will-the-republican-candidate-win-nevada-by-3pt0-4pt0",
+  "question": "Will the Republican candidate win Nevada by 3.0%-4.0%? "
+}

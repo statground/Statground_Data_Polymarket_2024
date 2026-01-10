@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512050",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-05T19:05:11.559520Z",
+  "market_createdAt": "2024-11-05T19:05:11.55952Z",
+  "market_updatedAt": "2024-11-11T23:13:18.352665Z",
+  "market_startDate": "2024-11-05T19:07:53.03089Z",
+  "market_endDate": "2024-11-10T18:00:00Z",
+  "market_closedTime": "2024-11-10 23:21:50+00",
+  "conditionId": "0xfbd16cef492d69666158e004b232570784251368bb3a8c7f068f9e2edb20d95b",
+  "slug": "nfl-min-jax-2024-11-10",
+  "question": "Vikings vs. Jaguars"
+}

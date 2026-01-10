@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505970",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T13:57:25.751978Z",
+  "market_createdAt": "2024-08-28T13:57:25.751978Z",
+  "market_updatedAt": "2024-12-09T20:53:22.103773Z",
+  "market_startDate": "2024-08-28T16:52:20.291Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 21:04:20+00",
+  "conditionId": "0x5f1eacf52b67e971102e6c1418e69a9c141c9a21e08527be10fac19301495a05",
+  "slug": "will-ferrari-win-the-2024-f1-constructors-cup",
+  "question": "Will Ferrari win the 2024 F1 Constructors Championship?"
+}

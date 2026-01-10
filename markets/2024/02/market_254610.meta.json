@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254610",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-21T21:31:39.371000Z",
+  "market_createdAt": "2024-02-21T21:31:39.371Z",
+  "market_updatedAt": "2024-02-27T04:25:56.685Z",
+  "market_startDate": "2024-02-21T22:08:14.34Z",
+  "market_endDate": "2024-02-25T00:00:00Z",
+  "market_closedTime": "2024-02-26 07:01:21+00",
+  "conditionId": "0x86d224abc4515578789b23030a8a970161511cf04357713a2ab89e1eedc3e213",
+  "slug": "will-biden-trip-on-a-staircase-again-this-week",
+  "question": "Will Biden trip on a staircase again this week?"
+}

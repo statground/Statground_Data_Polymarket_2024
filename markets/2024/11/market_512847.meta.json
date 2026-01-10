@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512847",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T17:11:35.258811Z",
+  "market_createdAt": "2024-11-12T17:11:35.258811Z",
+  "market_updatedAt": "2024-12-05T01:03:34.659831Z",
+  "market_startDate": "2024-11-12T17:38:14.573Z",
+  "market_endDate": "2024-12-01T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:20:16+00",
+  "conditionId": "0x2e9a4324f3e2269b6069daec1473eeb127859c72f9db70b3842d70fcb87c31dd",
+  "slug": "will-psd-win-the-most-seats-in-the-romanian-parliamentary-election",
+  "question": "Will PSD win the most seats in the Romanian parliamentary election?"
+}

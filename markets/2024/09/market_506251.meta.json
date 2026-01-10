@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506251",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T04:29:47.219842Z",
+  "market_createdAt": "2024-09-03T04:29:47.219842Z",
+  "market_updatedAt": "2024-09-04T18:47:10.290844Z",
+  "market_startDate": "2024-09-03T05:38:57.798593Z",
+  "market_endDate": "2024-09-03T12:00:00Z",
+  "market_closedTime": "2024-09-03 18:48:19+00",
+  "conditionId": "0x81cd0bf8f10eceae150294165df3787200df9d338410f41d34af9147eaaf92b4",
+  "slug": "will-trump-say-abortion-during-lex-interview",
+  "question": "Will Trump say \"Abortion\" during Lex interview?"
+}

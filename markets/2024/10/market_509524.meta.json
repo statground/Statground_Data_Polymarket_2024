@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509524",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T02:02:55.952362Z",
+  "market_createdAt": "2024-10-10T02:02:55.952362Z",
+  "market_updatedAt": "2025-02-08T04:18:57.331791Z",
+  "market_startDate": "2024-10-24T21:31:08.905533Z",
+  "market_endDate": "2025-02-06T12:00:00Z",
+  "market_closedTime": "2025-02-07 06:28:53+00",
+  "conditionId": "0x393380c861ab522223247af609627b9c77cf1828ba92d7ffd7ce2ad88bc422cc",
+  "slug": "will-another-player-win-nfl-defensive-player-of-the-year",
+  "question": "Will another player win NFL Defensive Player of the Year?"
+}

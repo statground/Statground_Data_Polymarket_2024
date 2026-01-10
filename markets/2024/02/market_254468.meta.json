@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254468",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-14T21:15:12.449000Z",
+  "market_createdAt": "2024-02-14T21:15:12.449Z",
+  "market_updatedAt": "2024-05-07T23:09:36.722289Z",
+  "market_startDate": "2024-02-14T21:37:00Z",
+  "market_endDate": "2024-06-28T00:00:00Z",
+  "market_closedTime": "2024-04-16 10:14:44+00",
+  "conditionId": "0x8c88fa7603b6953976145e5f545349f25c872c563b0bdd6b4abd704627a1cfc4",
+  "slug": "hyperliquid-airdrop-by-june-30",
+  "question": "Hyperliquid airdrop by June 30?"
+}

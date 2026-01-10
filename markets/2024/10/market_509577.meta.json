@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509577",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T00:07:56.277879Z",
+  "market_createdAt": "2024-10-11T00:07:56.277879Z",
+  "market_updatedAt": "2024-12-10T22:53:20.415432Z",
+  "market_startDate": "2024-10-11T16:45:54.081Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-12-10 06:04:23+00",
+  "conditionId": "0x8263c57e320bac37676b2f3dadfe37c2c9243dde44c440531eb5b5fcc6b9c2bc",
+  "slug": "will-trump-lose-new-york-by-less-then-10-points",
+  "question": "Will Kamala win New York by 10+ points?"
+}

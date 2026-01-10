@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503621",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T17:49:40.482651Z",
+  "market_createdAt": "2024-07-17T17:49:40.482651Z",
+  "market_updatedAt": "2024-08-10T21:20:58.458303Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-11T12:00:00Z",
+  "market_closedTime": "2024-08-10 00:32:37+00",
+  "conditionId": "0xb4d056dc0a982103c7da56be34aedc97ee4dab65aa23be4a90b8a423d170fbfd",
+  "slug": "will-belgium-win-gold-in-womens-basketball",
+  "question": "Will Belgium win Gold in Women's Basketball?"
+}

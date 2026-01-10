@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506978",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-13T16:41:13.799919Z",
+  "market_createdAt": "2024-09-13T16:41:13.799919Z",
+  "market_updatedAt": "2024-09-18T08:22:47.90719Z",
+  "market_startDate": "2024-09-13T17:40:05.66196Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-17 09:29:59+00",
+  "conditionId": "0x110f7d7755db1dfc52ef87400f78c9eba48f0f773afaa1cb8767576345c78b4a",
+  "slug": "will-elon-tweet-less-than-100-times-sept-20",
+  "question": "Will Elon tweet less than 100 times?"
+}

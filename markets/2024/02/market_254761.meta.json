@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254761",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T21:57:47.968000Z",
+  "market_createdAt": "2024-02-26T21:57:47.968Z",
+  "market_updatedAt": "2024-05-07T23:09:35.614709Z",
+  "market_startDate": "2024-02-27T19:03:00Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-04-01 07:50:49+00",
+  "conditionId": "0xd1adbc250696e48cb97c28d8cb337b9500c1e232e2f8ce4038e1e16d12d9352f",
+  "slug": "solana-all-time-high-in-q1",
+  "question": "Solana all time high in Q1?"
+}

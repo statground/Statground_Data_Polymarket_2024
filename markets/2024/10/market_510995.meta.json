@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510995",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T20:37:44.387627Z",
+  "market_createdAt": "2024-10-25T20:37:44.387627Z",
+  "market_updatedAt": "2024-10-28T20:12:49.456038Z",
+  "market_startDate": "2024-10-25T21:48:16.252665Z",
+  "market_endDate": "2024-10-27T12:00:00Z",
+  "market_closedTime": "2024-10-27 22:25:16+00",
+  "conditionId": "0x03cfcc6d7caca61eae9aadfea9f2015a3cb3ea3f4ea2b13be349f40eecde6e0a",
+  "slug": "will-the-jets-beat-the-patriots-by-8-or-more-points",
+  "question": "Will the Jets beat the Patriots by 8 or more points?"
+}

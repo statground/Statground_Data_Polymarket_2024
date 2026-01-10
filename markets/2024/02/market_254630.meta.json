@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254630",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-22T16:40:52.084000Z",
+  "market_createdAt": "2024-02-22T16:40:52.084Z",
+  "market_updatedAt": "2024-03-02T04:38:17.483Z",
+  "market_startDate": "2024-02-22T17:55:48.954Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-03-01 07:05:48+00",
+  "conditionId": "0x6995ce26f673657a0a5848ad1db4105f220a708d938f365c9ad27250031adaa5",
+  "slug": "was-the-att-cellular-outage-caused-by-a-hack",
+  "question": "Was the AT&T cellular outage caused by a hack?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509846",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-14T20:11:48.256078Z",
+  "market_createdAt": "2024-10-14T20:11:48.256078Z",
+  "market_updatedAt": "2024-10-24T17:23:16.945846Z",
+  "market_startDate": "2024-10-15T15:00:18.516812Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-24 05:22:22+00",
+  "conditionId": "0xc7373f4cb9857a2da3a13eeadccf4812c25847b4367e89c8055d42d467f6efa2",
+  "slug": "will-levon-aronian-win-the-2024-us-chess-championship",
+  "question": "Will Levon Aronian win the 2024 US Chess Championship?"
+}

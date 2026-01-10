@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514167",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-26T21:50:59.151133Z",
+  "market_createdAt": "2024-11-26T21:50:59.151133Z",
+  "market_updatedAt": "2024-12-07T01:47:23.041283Z",
+  "market_startDate": "2024-11-26T22:02:51.550298Z",
+  "market_endDate": "2024-12-05T12:00:00Z",
+  "market_closedTime": "2024-12-06 01:44:12+00",
+  "conditionId": "0x44df061334cb32921c8f787aae86d423080af79dd27e54fc2a59b4e5915fd1ed",
+  "slug": "will-hawk-fdv-be-below-10000000-one-day-after-launch",
+  "question": "Will $HAWK FDV be below $10,000,000 one day after launch?"
+}

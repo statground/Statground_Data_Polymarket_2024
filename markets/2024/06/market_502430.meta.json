@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-13T23:29:03.034857Z",
+  "market_createdAt": "2024-06-13T23:29:03.034857Z",
+  "market_updatedAt": "2024-11-06T08:27:08.248189Z",
+  "market_startDate": "2024-06-13T23:29:03.034857Z",
+  "market_endDate": "2024-11-04T12:00:00Z",
+  "market_closedTime": "2024-11-05 08:47:34+00",
+  "conditionId": "0x9c88772e37d1faa66b346c8f3d96fc166a779898b7cf1acc009c43d50ebcf3c4",
+  "slug": "mike-johnson-out-as-speaker-before-election",
+  "question": "Mike Johnson out as Speaker before Election?"
+}

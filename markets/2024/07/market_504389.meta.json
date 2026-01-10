@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504389",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-31T19:56:02.385294Z",
+  "market_createdAt": "2024-07-31T19:56:02.385294Z",
+  "market_updatedAt": "2025-01-02T05:41:12.859565Z",
+  "market_startDate": "2024-07-31T21:16:50.761Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 08:27:42+00",
+  "conditionId": "0x3fce809e37646d54bf5e13b8919cf26a939f71c0c84d09fee395f4d69cc0f388",
+  "slug": "will-openai-release-gpt-5-in-2024",
+  "question": "GPT-5 released in 2024?"
+}

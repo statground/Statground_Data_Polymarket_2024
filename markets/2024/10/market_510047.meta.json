@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510047",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T23:04:17.747408Z",
+  "market_createdAt": "2024-10-16T23:04:17.747408Z",
+  "market_updatedAt": "2024-11-12T18:29:13.832007Z",
+  "market_startDate": "2024-10-18T00:00:31.092Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-11 19:49:14+00",
+  "conditionId": "0x8020ab76f630df1c30daca869b1e1cacefb64626607b68c83512002c3e1c3eac",
+  "slug": "will-trump-do-better-with-latinos-than-in-2020",
+  "question": "Will Trump do better with Latinos than in 2020?"
+}

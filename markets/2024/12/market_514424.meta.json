@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514424",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:06:03.012364Z",
+  "market_createdAt": "2024-12-02T19:06:03.012364Z",
+  "market_updatedAt": "2024-12-05T23:43:28.517692Z",
+  "market_startDate": "2024-12-02T19:09:17.832537Z",
+  "market_endDate": "2024-12-04T20:15:00Z",
+  "market_closedTime": "2024-12-05 01:26:08+00",
+  "conditionId": "0x5bc697fa00f49ca43fcbd83728106d630911f9b59b784c41f0e26bdccbfc0ebe",
+  "slug": "epl-ars-mun-2024-12-04-mun",
+  "question": "Will Manchester United win on 2024-12-04?"
+}

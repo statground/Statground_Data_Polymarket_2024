@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505302",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T16:13:22.024501Z",
+  "market_createdAt": "2024-08-19T16:13:22.024501Z",
+  "market_updatedAt": "2024-08-29T20:13:12.148489Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-29T12:00:00Z",
+  "market_closedTime": "2024-08-28 23:17:12+00",
+  "conditionId": "0x9fa5148db5ab633650b2c4d6436d9e9d639b01d00d7a1166041a8069ce7015cf",
+  "slug": "will-fabiano-caruana-win-the-2024-sinquefield-cup",
+  "question": "Will Fabiano Caruana win the 2024 Sinquefield Cup?"
+}

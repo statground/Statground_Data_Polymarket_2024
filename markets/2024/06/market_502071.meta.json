@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502071",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T23:10:10.527430Z",
+  "market_createdAt": "2024-06-03T23:10:10.52743Z",
+  "market_updatedAt": "2024-06-18T06:31:07.472591Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:29:22+00",
+  "conditionId": "0x10ee34256549c3b2b661b649b6619d113eea62de32ae6132f4f1b4fbf9401bd3",
+  "slug": "derrick-white-top-scorer-in-nba-finals",
+  "question": "Derrick White top scorer in NBA Finals?"
+}

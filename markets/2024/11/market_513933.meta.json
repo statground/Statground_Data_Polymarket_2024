@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513933",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-25T05:01:29.416485Z",
+  "market_createdAt": "2024-11-25T05:01:29.416485Z",
+  "market_updatedAt": "2024-11-30T06:39:20.478127Z",
+  "market_startDate": "2024-11-25T05:04:01.274Z",
+  "market_endDate": "2024-12-05T12:00:00Z",
+  "market_closedTime": "2024-11-29 06:38:41+00",
+  "conditionId": "0x68c4077d998a674d04edbcbb185ec5173188a54dfa99401decb2aaa3e0f130fa",
+  "slug": "nfl-mia-gb-2024-11-28",
+  "question": "Dolphins vs. Packers"
+}

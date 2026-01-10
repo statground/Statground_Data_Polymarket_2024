@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508411",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-30T18:00:13.686529Z",
+  "market_createdAt": "2024-09-30T18:00:13.686529Z",
+  "market_updatedAt": "2024-10-02T23:46:39.24838Z",
+  "market_startDate": "2024-09-30T19:28:33.279849Z",
+  "market_endDate": "2024-10-01T12:00:00Z",
+  "market_closedTime": "2024-10-02 00:01:26+00",
+  "conditionId": "0xd8a0f912d56d4dfa1e52c4312939ac3363d0ceff074005ba8b1e2c080b2624d2",
+  "slug": "will-trump-say-ai-during-wisconsin-speech-october-1",
+  "question": "Will Trump say \"AI\" during Wisconsin speech October 1?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506019",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-28T19:46:54.070074Z",
+  "market_createdAt": "2024-08-28T19:46:54.070074Z",
+  "market_updatedAt": "2024-12-02T21:51:26.134947Z",
+  "market_startDate": "2024-08-28T19:46:54.070074Z",
+  "market_endDate": "2025-01-26T12:00:00Z",
+  "market_closedTime": "2024-12-02 00:41:34+00",
+  "conditionId": "0x544a42c7bf384059909293dc6d703fd989b984428be0efeafbe360cf719634ca",
+  "slug": "will-the-patriots-win-the-afc-championship",
+  "question": "Will the Patriots win the AFC Championship?"
+}

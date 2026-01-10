@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514646",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-04T00:18:19.893744Z",
+  "market_createdAt": "2024-12-04T00:18:19.893744Z",
+  "market_updatedAt": "2024-12-08T06:57:25.141305Z",
+  "market_startDate": "2024-12-04T00:51:25.633523Z",
+  "market_endDate": "2024-12-04T12:00:00Z",
+  "market_closedTime": "2024-12-07 07:25:37+00",
+  "conditionId": "0x1445e9510f45aa3c49f8e9d6c3e3f2037176ebcef119e9a71704d323bb58c85d",
+  "slug": "will-hegseth-say-alcohol-during-the-interview",
+  "question": "Will Hegseth say \"Alcohol\" during the interview?"
+}

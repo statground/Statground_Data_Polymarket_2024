@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515581",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:28:30.050333Z",
+  "market_createdAt": "2024-12-13T19:28:30.050333Z",
+  "market_updatedAt": "2024-12-18T05:05:22.779413Z",
+  "market_startDate": "2024-12-13T19:31:05.788601Z",
+  "market_endDate": "2024-12-24T00:30:00Z",
+  "market_closedTime": "2024-12-17 05:03:56+00",
+  "conditionId": "0xc5c3dc482d21e51ad7d4e6f7ad15b41bf73291d7f5c64b770b25cf096e777f18",
+  "slug": "nba-cle-bkn-2024-12-16",
+  "question": "Cavaliers vs. Nets"
+}

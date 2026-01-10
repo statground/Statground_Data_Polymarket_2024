@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:01:05.733917Z",
+  "market_createdAt": "2024-12-23T05:01:05.733917Z",
+  "market_updatedAt": "2024-12-25T00:51:39.234669Z",
+  "market_startDate": "2024-12-23T05:03:36.391507Z",
+  "market_endDate": "2024-12-30T19:30:00Z",
+  "market_closedTime": "2024-12-24 01:04:00+00",
+  "conditionId": "0x59b45c55d718be46d23cfb0dc06d72f825fd8eb4fcfda3e55d65c088300e784f",
+  "slug": "cfb-niu-frsno-2024-12-23",
+  "question": "Northern Illinois vs. Fresno State"
+}

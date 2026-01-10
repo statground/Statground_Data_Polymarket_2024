@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501032",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T15:20:44.356678Z",
+  "market_createdAt": "2024-04-18T15:20:44.356678Z",
+  "market_updatedAt": "2024-05-07T23:10:07.853129Z",
+  "market_startDate": "2024-04-18T16:10:29.96Z",
+  "market_endDate": "2024-04-22T12:00:00Z",
+  "market_closedTime": "2024-04-23 00:15:35+00",
+  "conditionId": "0xf5c69fbb83bd24a08967af5e22d68e04ab578c91d4a28befa614c5577062b80a",
+  "slug": "abigail-over-15m-opening-weekend",
+  "question": "'Abigail' over $15m opening weekend?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510704",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-23T15:37:55.527263Z",
+  "market_createdAt": "2024-10-23T15:37:55.527263Z",
+  "market_updatedAt": "2024-10-27T04:42:55.369889Z",
+  "market_startDate": "2024-10-23T17:45:54.807951Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:36:18+00",
+  "conditionId": "0x846e37fd5d7367e0ae08e8d83f437cfe9aa1c63cd47991dc72a9498751e1d4da",
+  "slug": "will-trump-smoke-weed-with-rogan",
+  "question": "Will Trump smoke weed with Rogan?"
+}

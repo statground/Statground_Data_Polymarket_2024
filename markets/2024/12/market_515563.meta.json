@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515563",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T18:01:58.084849Z",
+  "market_createdAt": "2024-12-13T18:01:58.084849Z",
+  "market_updatedAt": "2025-01-21T20:33:08.539606Z",
+  "market_startDate": "2024-12-13T19:26:35.25Z",
+  "market_endDate": "2025-01-20T12:00:00Z",
+  "market_closedTime": "2025-01-20 20:28:24+00",
+  "conditionId": "0x0efe5b8d0c680f24a7ce71379e8f5bf58318018649bc07722f6656f834d58298",
+  "slug": "will-biden-issue-more-pardons-than-trump",
+  "question": "Will Biden issue more pardons than Trump?"
+}

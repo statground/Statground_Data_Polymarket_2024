@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515582",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:28:41.882709Z",
+  "market_createdAt": "2024-12-13T19:28:41.882709Z",
+  "market_updatedAt": "2024-12-18T07:27:11.943863Z",
+  "market_startDate": "2024-12-13T19:31:09.851379Z",
+  "market_endDate": "2024-12-24T03:00:00Z",
+  "market_closedTime": "2024-12-17 07:34:05+00",
+  "conditionId": "0xb424222083a52ab8ef0dcbed6b0929feaabcf03d375b2d65b52fcb9662cf9cd6",
+  "slug": "nba-den-sac-2024-12-16",
+  "question": "Nuggets vs. Kings"
+}

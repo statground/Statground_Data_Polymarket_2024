@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502924",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-26T15:45:49.075598Z",
+  "market_createdAt": "2024-06-26T15:45:49.075598Z",
+  "market_updatedAt": "2024-06-28T23:46:04.094473Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-27T12:00:00Z",
+  "market_closedTime": "2024-06-28 06:04:49+00",
+  "conditionId": "0xb7287b57541f7efe5eb91b0fb3f1c8eeb0d64eabed95006c189a46af4ac86f02",
+  "slug": "will-the-match-be-a-draw-uruguay-bolivia",
+  "question": "Will the match be a draw?"
+}

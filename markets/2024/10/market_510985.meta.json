@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510985",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-25T19:21:58.378022Z",
+  "market_createdAt": "2024-10-25T19:21:58.378022Z",
+  "market_updatedAt": "2024-10-28T03:32:46.162671Z",
+  "market_startDate": "2024-10-25T22:33:45.69376Z",
+  "market_endDate": "2024-10-26T12:00:00Z",
+  "market_closedTime": "2024-10-27 06:03:43+00",
+  "conditionId": "0x5214f6eb2b04a8cc314dff54441e4a9fcbc454e5d8b1f98d9f74c833b21ee4b2",
+  "slug": "will-kansas-state-beat-kansas-by-10-or-more-points",
+  "question": "Will Kansas State beat Kansas by 10 or more points?"
+}

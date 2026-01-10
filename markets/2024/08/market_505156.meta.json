@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505156",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-15T16:45:16.577169Z",
+  "market_createdAt": "2024-08-15T16:45:16.577169Z",
+  "market_updatedAt": "2024-11-15T07:11:00.844043Z",
+  "market_startDate": "2024-08-15T16:45:16.577169Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-14 17:00:19+00",
+  "conditionId": "0xb6d551c976fbeeda16409604e1378b71dc4a8f88f9672b2eadf6acd3349dda2c",
+  "slug": "ca-13-election-rollins-d-vs-calvert-r",
+  "question": "CA-41 election: Rollins (D) vs. Calvert (R)"
+}

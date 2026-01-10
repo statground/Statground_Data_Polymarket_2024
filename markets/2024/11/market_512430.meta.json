@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512430",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T19:56:55.296811Z",
+  "market_createdAt": "2024-11-08T19:56:55.296811Z",
+  "market_updatedAt": "2024-11-11T03:08:41.049448Z",
+  "market_startDate": "2024-11-08T22:18:55.006848Z",
+  "market_endDate": "2024-11-09T12:00:00Z",
+  "market_closedTime": "2024-11-10 05:56:07+00",
+  "conditionId": "0xe0f5b2dd721fb5647bbad977428f07581432f28d0ceb5ca632a89520055760eb",
+  "slug": "cfb-oregon-vs-maryland",
+  "question": "CFB: Oregon vs. Maryland"
+}

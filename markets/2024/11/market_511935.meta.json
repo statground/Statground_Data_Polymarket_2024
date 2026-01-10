@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511935",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:47:28.844835Z",
+  "market_createdAt": "2024-11-04T18:47:28.844835Z",
+  "market_updatedAt": "2024-11-12T04:43:16.902649Z",
+  "market_startDate": "2024-11-04T18:50:10.701913Z",
+  "market_endDate": "2024-11-11T00:00:00Z",
+  "market_closedTime": "2024-11-11 04:58:12+00",
+  "conditionId": "0x280a74e8a3f2f0a97eeb3ed7be0f15ba44f85af9e44f88ff84d2bb86ce4e6ad8",
+  "slug": "nba-mia-min-2024-11-10",
+  "question": "Heat vs. Timberwolves"
+}

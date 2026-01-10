@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508667",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T14:51:29.775668Z",
+  "market_createdAt": "2024-10-02T14:51:29.775668Z",
+  "market_updatedAt": "2024-10-04T04:46:40.382207Z",
+  "market_startDate": "2024-10-02T15:00:00.763865Z",
+  "market_endDate": "2024-10-02T12:00:00Z",
+  "market_closedTime": "2024-10-03 05:27:50+00",
+  "conditionId": "0xc7effb08fe51a8535dff8ea9b9c0bfdbdc2530548f9e94bae2a6453b98e7ad13",
+  "slug": "nl-wildcard-padres-vs-braves-game-2",
+  "question": "NL Wildcard: Padres vs. Braves Game 2"
+}

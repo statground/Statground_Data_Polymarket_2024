@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507155",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-16T17:29:26.855327Z",
+  "market_createdAt": "2024-09-16T17:29:26.855327Z",
+  "market_updatedAt": "2024-09-18T21:36:48.45463Z",
+  "market_startDate": "2024-09-16T19:22:40.679315Z",
+  "market_endDate": "2024-09-17T12:00:00Z",
+  "market_closedTime": "2024-09-17 21:48:46+00",
+  "conditionId": "0x4c46314365c6ccbea192d580f6efc6ad1f497b3c323c86e5895a9b6239948e82",
+  "slug": "will-juventus-beat-psv",
+  "question": "Will Juventus beat PSV?"
+}

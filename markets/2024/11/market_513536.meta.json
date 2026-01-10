@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513536",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T17:17:40.539409Z",
+  "market_createdAt": "2024-11-20T17:17:40.539409Z",
+  "market_updatedAt": "2024-12-04T23:01:34.191128Z",
+  "market_startDate": "2024-11-20T18:59:11.07Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:09:40+00",
+  "conditionId": "0xe96bc63824095441e7104a8b15153bdec7c15d3fe9fa682e668889f5ed4517f4",
+  "slug": "will-the-peoples-party-win-the-most-seats-in-the-icelandic-parliamentary-election",
+  "question": "Will the People's Party win the most seats in the Icelandic parliamentary election?"
+}

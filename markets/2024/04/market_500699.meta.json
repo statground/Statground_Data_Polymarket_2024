@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500699",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T17:03:31.129848Z",
+  "market_createdAt": "2024-04-04T17:03:31.129848Z",
+  "market_updatedAt": "2024-11-07T18:23:04.476178Z",
+  "market_startDate": "2024-04-12T19:35:26.364Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-06 21:05:03+00",
+  "conditionId": "0x5b6ccf86a766f363d0c3d24f17f40974c706d85c67827d4f3dcaeae4b90070c9",
+  "slug": "will-a-republican-win-mississippi-us-senate-election",
+  "question": "Will a Republican win Mississippi US Senate Election?"
+}

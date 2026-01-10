@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "255131",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-01T18:40:43.743000Z",
+  "market_createdAt": "2024-03-01T18:40:43.743Z",
+  "market_updatedAt": "2024-11-08T02:09:02.0845Z",
+  "market_startDate": "2024-03-28T21:56:46.391Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 03:38:52+00",
+  "conditionId": "0x689a0b1047d08a1081d604c8c09c4eb5719cbd0e926e4e8492800ce58578bd79",
+  "slug": "will-a-republican-win-maine-in-the-2024-us-presidential-election",
+  "question": "Will a Republican win Maine Presidential Election?"
+}

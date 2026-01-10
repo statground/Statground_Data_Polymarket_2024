@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500757",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-05T16:10:16.970612Z",
+  "market_createdAt": "2024-04-05T16:10:16.970612Z",
+  "market_updatedAt": "2024-08-08T03:52:53.532902Z",
+  "market_startDate": "2024-05-02T21:33:51.866Z",
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-07 06:50:01+00",
+  "conditionId": "0x052d5fead4f0d951ef469d7150ee3c6dd16ce1548b27abbc7a2a1dd95f39120f",
+  "slug": "will-another-candidate-win-the-mo-1-democratic-house-primary",
+  "question": "Will another candidate win the MO-1 Democratic House Primary?"
+}

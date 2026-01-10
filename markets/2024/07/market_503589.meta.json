@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503589",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-16T20:44:14.505759Z",
+  "market_createdAt": "2024-07-16T20:44:14.505759Z",
+  "market_updatedAt": "2024-07-19T04:34:42.659651Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-17T12:00:00Z",
+  "market_closedTime": "2024-07-18 05:25:59+00",
+  "conditionId": "0x61d0fd82425989a37319475197eb32f0b4481d085248debfd64046055de9a5dc",
+  "slug": "will-bronny-make-a-3-in-his-next-game",
+  "question": "Will Bronny make a 3 in his next game?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513434",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T23:20:38.917405Z",
+  "market_createdAt": "2024-11-18T23:20:38.917405Z",
+  "market_updatedAt": "2024-11-24T13:51:22.536453Z",
+  "market_startDate": "2024-11-19T20:53:02.570865Z",
+  "market_endDate": "2024-11-23T12:00:00Z",
+  "market_closedTime": "2024-11-23 14:08:57+00",
+  "conditionId": "0xac8f40b6bd572512fc0a1e298eb335a19d07ad3bc2481235dd47107bd6bab224",
+  "slug": "zhang-vs-diaz",
+  "question": "Zhang vs. Diaz"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509002",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-04T21:33:57.376748Z",
+  "market_createdAt": "2024-10-04T21:33:57.376748Z",
+  "market_updatedAt": "2024-10-06T23:02:40.730489Z",
+  "market_startDate": "2024-10-04T21:50:26.886916Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 01:32:05+00",
+  "conditionId": "0x2ee83f63bb01ffa7f91489b62c0ac917c81abd361355b230e91425c130f3f749",
+  "slug": "nlds-phillies-vs-mets-game-1",
+  "question": "NLDS: Phillies vs. Mets Game 1"
+}

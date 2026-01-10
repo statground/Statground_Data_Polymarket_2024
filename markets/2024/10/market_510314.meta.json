@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510314",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T17:09:20.350185Z",
+  "market_createdAt": "2024-10-21T17:09:20.350185Z",
+  "market_updatedAt": "2024-10-27T05:22:52.269204Z",
+  "market_startDate": "2024-10-21T18:32:15.632248Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:31:03+00",
+  "conditionId": "0xdc03dc8cd414b063b608ea45a5e9956da4869c36719e12a8e05730ccc924986c",
+  "slug": "world-series-dodgers-vs-yankees-game-1",
+  "question": "World Series: Dodgers vs. Yankees Game 1"
+}

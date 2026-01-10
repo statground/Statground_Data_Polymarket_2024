@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515005",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:34:18.399806Z",
+  "market_createdAt": "2024-12-06T22:34:18.399806Z",
+  "market_updatedAt": "2024-12-09T18:05:21.123504Z",
+  "market_startDate": "2024-12-06T23:26:36.397548Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-08 23:46:34+00",
+  "conditionId": "0x6322d2d93b888eba9640cba884951d12d7825db00ae864abc5c81568d0ac9c43",
+  "slug": "will-the-dolphins-beat-the-jets-by-6-or-more-points",
+  "question": "Will the Dolphins beat the Jets by 6 or more points?"
+}

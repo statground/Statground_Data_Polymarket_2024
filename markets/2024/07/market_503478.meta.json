@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-15T15:05:19.142658Z",
+  "market_createdAt": "2024-07-15T15:05:19.142658Z",
+  "market_updatedAt": "2024-07-17T01:42:45.155355Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-15T12:00:00Z",
+  "market_closedTime": "2024-07-16 03:26:23+00",
+  "conditionId": "0xf665a9607b40d18bf19f3592fa2584489de84229241f7fc2e34968bdfbe5a7f7",
+  "slug": "will-biden-say-secret-service-during-lester-holt-interview",
+  "question": "Will Biden say \"Secret Service\" during Lester Holt interview?"
+}

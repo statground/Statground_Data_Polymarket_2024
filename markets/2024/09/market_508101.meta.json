@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508101",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-25T16:54:18.763275Z",
+  "market_createdAt": "2024-09-25T16:54:18.763275Z",
+  "market_updatedAt": "2024-11-03T21:57:01.05042Z",
+  "market_startDate": "2024-09-25T17:36:11.065307Z",
+  "market_endDate": "2024-11-02T12:00:00Z",
+  "market_closedTime": "2024-11-02 21:50:36+00",
+  "conditionId": "0x524d718f3df4d4cdcef5be16edfaca90d3c48675f0673d814779d68172746f83",
+  "slug": "will-bilibili-gaming-win-lol-worlds-2024",
+  "question": "Will Bilibili Gaming win LoL Worlds 2024?"
+}

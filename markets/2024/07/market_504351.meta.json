@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-30T21:35:04.638162Z",
+  "market_createdAt": "2024-07-30T21:35:04.638162Z",
+  "market_updatedAt": "2024-08-04T13:21:03.189642Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-03T12:00:00Z",
+  "market_closedTime": "2024-08-03 16:20:55+00",
+  "conditionId": "0x21ef01b6c16f81cf6275bca67145356a65311d6d919496b4680c8f519ab7dc88",
+  "slug": "will-another-team-win-gold-in-mens-doubles-tennis",
+  "question": "Will another team win Gold in Men's Doubles Tennis?"
+}

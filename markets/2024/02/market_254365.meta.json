@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254365",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-07T18:21:30.056000Z",
+  "market_createdAt": "2024-02-07T18:21:30.056Z",
+  "market_updatedAt": "2024-05-07T23:09:12.156185Z",
+  "market_startDate": "2024-02-07T21:19:00Z",
+  "market_endDate": "2024-04-29T00:00:00Z",
+  "market_closedTime": "2024-04-03 14:39:37+00",
+  "conditionId": "0x4283a57a03d2b19c6c47a734eb5f10e192684a92cc358cbe32c22f58b8099c0f",
+  "slug": "wormhole-airdrop-in-april",
+  "question": "Wormhole airdrop in April?"
+}

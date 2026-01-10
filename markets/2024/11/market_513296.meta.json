@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513296",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-17T05:08:38.542165Z",
+  "market_createdAt": "2024-11-17T05:08:38.542165Z",
+  "market_updatedAt": "2024-11-25T03:31:44.571123Z",
+  "market_startDate": "2024-11-17T05:11:16.169719Z",
+  "market_endDate": "2024-12-01T00:00:00Z",
+  "market_closedTime": "2024-11-24 04:26:15+00",
+  "conditionId": "0x556a2db4c994a3318ded097ec30cc906662078d1499424535042f0b85135d584",
+  "slug": "nba-det-orl-2024-11-23",
+  "question": "Pistons vs. Magic"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514216",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-27T16:54:05.173345Z",
+  "market_createdAt": "2024-11-27T16:54:05.173345Z",
+  "market_updatedAt": "2024-12-07T19:19:25.248295Z",
+  "market_startDate": "2024-11-29T18:41:36.704811Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 19:20:15+00",
+  "conditionId": "0xb68dc440ece98763d1c3b47fea240e619d36224583ccaefd3b292b04ddd3c574",
+  "slug": "ethereum-above-3500-on-december-6",
+  "question": "Ethereum above $3,500 on December 6?"
+}

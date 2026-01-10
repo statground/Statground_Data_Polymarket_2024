@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516994",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-31T21:06:25.976400Z",
+  "market_createdAt": "2024-12-31T21:06:25.9764Z",
+  "market_updatedAt": "2025-01-02T22:47:05.079371Z",
+  "market_startDate": "2024-12-31T21:47:45.544139Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2025-01-02 00:29:17+00",
+  "conditionId": "0x36b1ccb771da7c9fdfabe5c84ca434e086cbc803c8300a09479f838f87a8f05f",
+  "slug": "will-texas-beat-arizona-state-by-13-or-more-points",
+  "question": "Will Texas beat Arizona State by 13 or more points?"
+}

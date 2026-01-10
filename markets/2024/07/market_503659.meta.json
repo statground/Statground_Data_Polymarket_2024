@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503659",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:22:23.547735Z",
+  "market_createdAt": "2024-07-17T19:22:23.547735Z",
+  "market_updatedAt": "2024-08-07T20:16:48.52845Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-06T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:22:44+00",
+  "conditionId": "0x32ec1d4fc4eb064a369f9dd5c79d8699d7d74d1c028764a741c326af72dfbe01",
+  "slug": "will-josh-kerr-gbr-win-gold-in-1500m",
+  "question": "Will Josh Kerr (GBR) win Gold in 1500m?"
+}

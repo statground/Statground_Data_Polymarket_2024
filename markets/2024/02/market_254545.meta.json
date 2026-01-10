@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254545",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-20T18:33:08.231000Z",
+  "market_createdAt": "2024-02-20T18:33:08.231Z",
+  "market_updatedAt": "2024-05-12T22:04:01.946731Z",
+  "market_startDate": "2024-02-21T00:32:00Z",
+  "market_endDate": "2024-05-08T00:00:00Z",
+  "market_closedTime": "2024-05-12 02:10:03+00",
+  "conditionId": "0xff4b4953a9726c957d25aaf2993e9492b4c7e8d9098fdbea55b8682248d59406",
+  "slug": "will-ireland-win-eurovision-2024",
+  "question": "Will Ireland win Eurovision 2024?"
+}

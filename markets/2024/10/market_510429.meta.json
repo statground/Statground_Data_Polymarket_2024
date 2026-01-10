@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510429",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T22:11:56.848714Z",
+  "market_createdAt": "2024-10-21T22:11:56.848714Z",
+  "market_updatedAt": "2024-10-24T20:17:12.502047Z",
+  "market_startDate": "2024-10-22T00:54:57.536356Z",
+  "market_endDate": "2024-10-23T12:00:00Z",
+  "market_closedTime": "2024-10-23 21:57:34+00",
+  "conditionId": "0x788b05f91b875964932218f15926b86e82f465027ba65a7f57404bdf58de2de4",
+  "slug": "will-the-match-between-atalanta-and-celtic-end-in-a-draw",
+  "question": "Will the match between Atalanta and Celtic end in a draw?"
+}

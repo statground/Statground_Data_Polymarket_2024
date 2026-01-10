@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516315",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T16:00:13.432307Z",
+  "market_createdAt": "2024-12-23T16:00:13.432307Z",
+  "market_updatedAt": "2025-07-02T08:24:49.788256Z",
+  "market_startDate": "2024-12-29T19:14:31.619Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-07-01 08:08:33+00",
+  "conditionId": "0xa07f15fdd0baa90adf78bd4d66543083334a7e5235a95fa5f241c4e519ea83f6",
+  "slug": "will-us-leave-nato-by-june-30",
+  "question": "Will US leave NATO by June 30?"
+}

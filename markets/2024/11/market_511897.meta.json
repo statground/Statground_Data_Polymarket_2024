@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511897",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-04T18:28:43.450846Z",
+  "market_createdAt": "2024-11-04T18:28:43.450846Z",
+  "market_updatedAt": "2024-11-08T05:18:55.71004Z",
+  "market_startDate": "2024-11-04T18:31:20.931942Z",
+  "market_endDate": "2024-11-07T00:30:00Z",
+  "market_closedTime": "2024-11-07 05:33:47+00",
+  "conditionId": "0x8f9d217ecb42848aa8e9dd5f99340c1da4711d676996607c72ee0f52f3e28a65",
+  "slug": "nba-gsw-bos-2024-11-06",
+  "question": "Warriors vs. Celtics"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506660",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-09T15:59:24.276535Z",
+  "market_createdAt": "2024-09-09T15:59:24.276535Z",
+  "market_updatedAt": "2024-10-22T18:01:27.190802Z",
+  "market_startDate": "2024-09-10T17:04:27.900017Z",
+  "market_endDate": "2025-01-01T12:00:00Z",
+  "market_closedTime": "2024-10-21 19:25:55+00",
+  "conditionId": "0x0e8fc620e52455faed4c33d14f6a8f8d69788362f4480d779115630ddf9f000b",
+  "slug": "september-temperature-increase-by-less-than-1pt17c",
+  "question": "September temperature increase by less than 1.17°C?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510371",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:31:00.609200Z",
+  "market_createdAt": "2024-10-21T20:31:00.6092Z",
+  "market_updatedAt": "2024-10-28T03:52:53.563862Z",
+  "market_startDate": "2024-10-21T20:33:35.286486Z",
+  "market_endDate": "2024-10-26T23:00:00Z",
+  "market_closedTime": "2024-10-27 04:05:18+00",
+  "conditionId": "0x3e0630945993790970fa11ac903af5a422e56d57fdf2838c3f6ee01ab7efbd6c",
+  "slug": "nba-cle-wsh-2024-10-26",
+  "question": "Cavaliers vs. Wizards"
+}

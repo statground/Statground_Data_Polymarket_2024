@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516257",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:00:26.288386Z",
+  "market_createdAt": "2024-12-22T07:00:26.288386Z",
+  "market_updatedAt": "2024-12-23T22:17:38.682626Z",
+  "market_startDate": "2024-12-22T07:03:03.449573Z",
+  "market_endDate": "2024-12-29T17:30:00Z",
+  "market_closedTime": "2024-12-22 22:18:54+00",
+  "conditionId": "0x9abc0ce65a7523a36c48246f494faece90921257adea18b4352680aa3f758848",
+  "slug": "nhl-car-nyr-2024-12-22",
+  "question": "Hurricanes vs. Rangers"
+}

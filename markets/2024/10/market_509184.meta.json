@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509184",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T22:24:23.974816Z",
+  "market_createdAt": "2024-10-07T22:24:23.974816Z",
+  "market_updatedAt": "2024-10-16T05:40:55.475004Z",
+  "market_startDate": "2024-10-07T22:26:35.669Z",
+  "market_endDate": "2024-10-14T12:00:00Z",
+  "market_closedTime": "2024-10-15 05:40:54+00",
+  "conditionId": "0x9e9adb89078e4cd2270c3f21c147bc60327468b1ae5676cdb165dbd49c6c0f4f",
+  "slug": "nfl-buf-nyj-2024-10-14",
+  "question": "Bills vs. Jets"
+}

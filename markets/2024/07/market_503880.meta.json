@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503880",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-19T16:51:05.558433Z",
+  "market_createdAt": "2024-07-19T16:51:05.558433Z",
+  "market_updatedAt": "2024-08-03T17:57:02.088033Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 22:09:24+00",
+  "conditionId": "0x9d8add4e5956bee2feb12474ed7ee87a542e967b0f29b17bb79e2bbb93eaf358",
+  "slug": "will-phoebe-bacon-usa-win-gold-in-womens-200m-backstroke",
+  "question": "Will Phoebe Bacon (USA) win Gold in Women's 200m Backstroke?"
+}

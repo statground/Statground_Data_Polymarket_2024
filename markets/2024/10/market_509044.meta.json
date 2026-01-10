@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509044",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-07T16:09:20.611684Z",
+  "market_createdAt": "2024-10-07T16:09:20.611684Z",
+  "market_updatedAt": "2024-10-09T05:26:43.615966Z",
+  "market_startDate": "2024-10-07T18:24:24.584267Z",
+  "market_endDate": "2024-10-07T12:00:00Z",
+  "market_closedTime": "2024-10-08 05:27:08+00",
+  "conditionId": "0x2a5ee20c2307c8f1e589b56e12b53c91c3c1367be8ad7512e2a627f757df64b7",
+  "slug": "will-the-chiefs-beat-the-saints-by-6-or-more-points",
+  "question": "Will the Chiefs beat the Saints by 6 or more points?"
+}

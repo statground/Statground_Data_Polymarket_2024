@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-01T19:31:29.090136Z",
+  "market_createdAt": "2024-10-01T19:31:29.090136Z",
+  "market_updatedAt": "2024-10-07T05:36:43.47227Z",
+  "market_startDate": "2024-10-01T20:52:25.655351Z",
+  "market_endDate": "2024-10-05T12:00:00Z",
+  "market_closedTime": "2024-10-06 05:39:07+00",
+  "conditionId": "0x02d1492ba5badd3bf46e13bf29610c5aa633ef5f1831c9cb3678cb100427e699",
+  "slug": "bautista-vs-aldo",
+  "question": "Bautista vs. Aldo"
+}

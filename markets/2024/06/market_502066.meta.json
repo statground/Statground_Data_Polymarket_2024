@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502066",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-03T22:47:49.580040Z",
+  "market_createdAt": "2024-06-03T22:47:49.58004Z",
+  "market_updatedAt": "2024-06-18T14:41:15.83874Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-23T12:00:00Z",
+  "market_closedTime": "2024-06-18 06:55:40+00",
+  "conditionId": "0x6a65d3b5b3bf632c5efc52031756c8803ed453362f5675ad5e95f531a0754042",
+  "slug": "will-three-or-more-games-in-the-2024-nba-finals-series-reach-overtime",
+  "question": "Will three or more games in the 2024 NBA Finals series reach overtime?"
+}

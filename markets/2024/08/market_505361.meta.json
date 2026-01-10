@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505361",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-19T19:13:17.668578Z",
+  "market_createdAt": "2024-08-19T19:13:17.668578Z",
+  "market_updatedAt": "2024-08-22T04:47:02.820284Z",
+  "market_startDate": "2024-08-20T15:21:24.134Z",
+  "market_endDate": "2024-08-20T12:00:00Z",
+  "market_closedTime": "2024-08-21 05:40:40+00",
+  "conditionId": "0x04a36062ce4e0012cfe72629ad7a87584610da32282d366bc8ff99a42a141ee5",
+  "slug": "will-obama-say-black-at-dnc-speech",
+  "question": "Will Obama say \"Black\" at DNC speech?"
+}

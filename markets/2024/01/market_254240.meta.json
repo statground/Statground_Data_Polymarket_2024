@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254240",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-01-31T18:17:08.856000Z",
+  "market_createdAt": "2024-01-31T18:17:08.856Z",
+  "market_updatedAt": "2024-02-13T18:09:36.209Z",
+  "market_startDate": "2024-01-31T19:40:54.001Z",
+  "market_endDate": "2024-02-29T00:00:00Z",
+  "market_closedTime": "2024-02-12 19:31:20+00",
+  "conditionId": "0x40a93ba2e52a40676801cb144050bd4fc64ddedb778f13f2ade72d61a89dee8b",
+  "slug": "will-btc-hit-50000-in-february",
+  "question": "Will BTC hit $50,000 in February?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507653",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-20T21:52:50.959014Z",
+  "market_createdAt": "2024-09-20T21:52:50.959014Z",
+  "market_updatedAt": "2024-09-25T02:02:42.808965Z",
+  "market_startDate": "2024-09-20T23:01:52.471557Z",
+  "market_endDate": "2024-09-23T12:00:00Z",
+  "market_closedTime": "2024-09-24 02:00:43+00",
+  "conditionId": "0xb2e042c9fb83a7910dbca687f2adf06e37a8872a6e01a48a81cc5b318a425a0a",
+  "slug": "will-donald-trump-say-israel-during-his-pennsylvania-rally",
+  "question": "Will Donald Trump say \"Israel\" during his Pennsylvania rally?"
+}

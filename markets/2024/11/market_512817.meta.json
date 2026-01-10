@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512817",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-12T01:22:50.643935Z",
+  "market_createdAt": "2024-11-12T01:22:50.643935Z",
+  "market_updatedAt": "2024-12-05T01:29:30.339592Z",
+  "market_startDate": "2024-11-12T16:22:09.973Z",
+  "market_endDate": "2024-11-29T12:00:00Z",
+  "market_closedTime": "2024-12-04 02:14:36+00",
+  "conditionId": "0xbe751328d9bb0bcb36e92b4cd97aae70976cead638beb75cb24759954e71d906",
+  "slug": "will-another-party-win-the-most-seats-in-the-2024-irish-general-election",
+  "question": "Will another party win the most seats in the 2024 Irish general election?"
+}

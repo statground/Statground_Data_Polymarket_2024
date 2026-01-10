@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501570",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-13T19:16:58.007362Z",
+  "market_createdAt": "2024-05-13T19:16:58.007362Z",
+  "market_updatedAt": "2024-05-19T06:04:07.857021Z",
+  "market_startDate": "2024-05-13T19:19:23.412Z",
+  "market_endDate": "2024-05-17T12:00:00Z",
+  "market_closedTime": "2024-05-18 06:05:00+00",
+  "conditionId": "0xde68d1f2a77415efabb5af33355a9c077fb598b26dd23ecb7dac6fe019b5c54d",
+  "slug": "apple-openai-deal-announced-by-friday",
+  "question": "Apple + OpenAI deal announced by Friday?"
+}

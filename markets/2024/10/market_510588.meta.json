@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510588",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T16:51:28.927403Z",
+  "market_createdAt": "2024-10-22T16:51:28.927403Z",
+  "market_updatedAt": "2024-10-25T23:01:06.839256Z",
+  "market_startDate": "2024-10-22T21:18:33.541535Z",
+  "market_endDate": "2024-10-24T12:00:00Z",
+  "market_closedTime": "2024-10-25 00:18:10+00",
+  "conditionId": "0x42e9d7194aeff245c472dc9c6cd77596540e366e1530aa2c14039f0ee1853c66",
+  "slug": "will-lazio-beat-twente",
+  "question": "Will Lazio beat Twente?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515334",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-10T22:21:41.519121Z",
+  "market_createdAt": "2024-12-10T22:21:41.519121Z",
+  "market_updatedAt": "2024-12-24T09:39:39.643064Z",
+  "market_startDate": "2024-12-11T00:24:15.725071Z",
+  "market_endDate": "2024-12-23T12:00:00Z",
+  "market_closedTime": "2024-12-23 18:58:27+00",
+  "conditionId": "0x1c8fd9e0acbaf389e0ea744a20105d91e0de6bf50b4e7df8ddb157cc428a7644",
+  "slug": "will-sonic-3-rotten-tomatoes-score-be-between-70-79",
+  "question": "Will \"Sonic 3\" Rotten Tomatoes score be between 70-79?"
+}

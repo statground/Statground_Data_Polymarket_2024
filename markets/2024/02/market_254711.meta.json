@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254711",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-26T17:33:33.797000Z",
+  "market_createdAt": "2024-02-26T17:33:33.797Z",
+  "market_updatedAt": "2024-04-26T03:01:08.923399Z",
+  "market_startDate": "2024-02-27T00:11:18.377Z",
+  "market_endDate": "2024-03-31T00:00:00Z",
+  "market_closedTime": "2024-03-08 06:32:37+00",
+  "conditionId": "0x909f398561f040a7111a25f4bc88be186646b7f095f7e97460264e5a9c54496c",
+  "slug": "portal-price-above-3pt40-one-week-after-launch",
+  "question": "Portal price above $3.40 one week after launch?"
+}

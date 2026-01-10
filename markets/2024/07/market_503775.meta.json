@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503775",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T19:44:00.271566Z",
+  "market_createdAt": "2024-07-18T19:44:00.271566Z",
+  "market_updatedAt": "2024-08-04T18:02:55.298574Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-02T12:00:00Z",
+  "market_closedTime": "2024-08-03 22:12:16+00",
+  "conditionId": "0x521748ca45bee26ef6f7045986a1c85dc1bb98acfa016f04a37dbb8bc9b2f19f",
+  "slug": "will-josh-liendo-can-win-gold-in-mens-100m-butterfly",
+  "question": "Will Josh Liendo (CAN) win Gold in Men's 100m Butterfly?"
+}

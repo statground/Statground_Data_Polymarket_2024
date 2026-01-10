@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "505478",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-21T01:24:12.751158Z",
+  "market_createdAt": "2024-08-21T01:24:12.751158Z",
+  "market_updatedAt": "2024-08-25T18:52:53.303151Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-24T12:00:00Z",
+  "market_closedTime": "2024-08-24 19:16:56+00",
+  "conditionId": "0xd9bba210649703cfe187a3cc2e02949a94462388406426e94e65477ff421cd5b",
+  "slug": "will-tottenham-beat-everton",
+  "question": "Will Tottenham beat Everton?"
+}

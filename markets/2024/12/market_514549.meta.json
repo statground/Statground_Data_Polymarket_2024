@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514549",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T23:57:08.204664Z",
+  "market_createdAt": "2024-12-02T23:57:08.204664Z",
+  "market_updatedAt": "2024-12-08T09:37:34.494184Z",
+  "market_startDate": "2024-12-03T00:38:26.287Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-07 10:57:41+00",
+  "conditionId": "0x10fe6469583bb82a3421be8b08913372946a35030f82a048d386e03e5fa480b3",
+  "slug": "daniel-penny-found-guilty-of-manslaughter",
+  "question": "Daniel Penny found guilty of manslaughter?"
+}

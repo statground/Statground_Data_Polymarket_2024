@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516268",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:02:47.504202Z",
+  "market_createdAt": "2024-12-22T07:02:47.504202Z",
+  "market_updatedAt": "2024-12-25T02:45:29.263393Z",
+  "market_startDate": "2024-12-22T07:05:46.762142Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 04:59:18+00",
+  "conditionId": "0x712826475a89c410ee78196d2fe87f76381925bda42ee94377dd969eb2b02b3f",
+  "slug": "nhl-wsh-bos-2024-12-23",
+  "question": "Capitals vs. Bruins"
+}

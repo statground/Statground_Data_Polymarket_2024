@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513341",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-18T15:49:23.511210Z",
+  "market_createdAt": "2024-11-18T15:49:23.51121Z",
+  "market_updatedAt": "2024-11-20T00:47:05.361715Z",
+  "market_startDate": "2024-11-18T16:26:42.060723Z",
+  "market_endDate": "2024-11-18T12:00:00Z",
+  "market_closedTime": "2024-11-19 01:00:50+00",
+  "conditionId": "0x50e64ea7ae597b600a3a87e9f1cc6829120df624df3f831c8e61d089f80e0233",
+  "slug": "will-spain-beat-switzerland",
+  "question": "Will Spain beat Switzerland?"
+}

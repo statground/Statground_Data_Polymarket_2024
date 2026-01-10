@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510351",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-21T20:21:53.743042Z",
+  "market_createdAt": "2024-10-21T20:21:53.743042Z",
+  "market_updatedAt": "2024-10-25T05:07:16.113792Z",
+  "market_startDate": "2024-10-21T20:24:36.181552Z",
+  "market_endDate": "2024-10-24T01:00:00Z",
+  "market_closedTime": "2024-10-24 06:16:40+00",
+  "conditionId": "0x5c229453b14e8b8c117c0c0341655303cd5a71daba712d213d4abbdabcfe5125",
+  "slug": "nba-mem-utah-2024-10-23",
+  "question": "Grizzlies vs. Jazz"
+}

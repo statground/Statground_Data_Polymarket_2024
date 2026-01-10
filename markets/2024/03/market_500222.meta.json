@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500222",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-03-18T04:22:29.570921Z",
+  "market_createdAt": "2024-03-18T04:22:29.570921Z",
+  "market_updatedAt": "2024-05-07T23:09:15.993596Z",
+  "market_startDate": "2024-03-18T18:53:26.478Z",
+  "market_endDate": "2024-04-08T04:00:00Z",
+  "market_closedTime": "2024-03-29 04:32:29+00",
+  "conditionId": "0x986200ded22c6f5be6fad2c5d56302b61b5c52bf2aa5083cb020c977011e2d3f",
+  "slug": "will-arizona-win-the-ncaa-tournament",
+  "question": "Will Arizona win the NCAA tournament?"
+}

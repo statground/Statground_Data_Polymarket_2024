@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506294",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-03T17:50:50.780813Z",
+  "market_createdAt": "2024-09-03T17:50:50.780813Z",
+  "market_updatedAt": "2024-09-12T04:47:03.037144Z",
+  "market_startDate": "2024-09-03T22:26:24.43Z",
+  "market_endDate": "2024-09-10T12:00:00Z",
+  "market_closedTime": "2024-09-11 05:13:32+00",
+  "conditionId": "0x29a00f6faad5bd2188ac0c7c2264fada6961d906d7e03ea28675fbac264ea2dc",
+  "slug": "will-trump-say-elon-musk-at-debate",
+  "question": "Will Trump say \"Elon Musk\" at debate?"
+}

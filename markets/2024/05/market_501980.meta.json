@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501980",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-31T20:25:04.368870Z",
+  "market_createdAt": "2024-05-31T20:25:04.36887Z",
+  "market_updatedAt": "2024-07-02T05:10:52.516259Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 06:55:42+00",
+  "conditionId": "0xd0be21096143ed343aa309d474d6e93ad2c6eb4f904710c1c7200bcd7db6e097",
+  "slug": "netanyahu-adress-us-congress-in-june",
+  "question": "Netanyahu address to US congress in June?"
+}

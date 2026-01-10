@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503820",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T21:24:29.514921Z",
+  "market_createdAt": "2024-07-18T21:24:29.514921Z",
+  "market_updatedAt": "2024-08-03T21:31:00.542753Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-01T12:00:00Z",
+  "market_closedTime": "2024-08-02 21:53:22+00",
+  "conditionId": "0x9082084c5d2b1c5c52f46ea60226a12dbd8b16ec6e122aa35b43a3e00c89cf40",
+  "slug": "will-cameron-mcevoy-aus-win-gold-in-mens-50m-freestyle",
+  "question": "Will Cameron McEvoy (AUS) win Gold in Men's 50m Freestyle?"
+}

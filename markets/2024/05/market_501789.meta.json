@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501789",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-05-23T14:48:24.773753Z",
+  "market_createdAt": "2024-05-23T14:48:24.773753Z",
+  "market_updatedAt": "2025-01-01T22:05:32.002435Z",
+  "market_startDate": "2024-05-23T14:48:24.773753Z",
+  "market_endDate": "2024-12-31T12:00:00Z",
+  "market_closedTime": "2025-01-01 07:58:08+00",
+  "conditionId": "0xea27d1fc974b4aa0756d37bb2c72e9e424b74a271e291b195510dc68399e5071",
+  "slug": "bird-flu-pandemic-in-2024",
+  "question": "Bird flu pandemic in 2024?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510615",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-22T18:45:57.775586Z",
+  "market_createdAt": "2024-10-22T18:45:57.775586Z",
+  "market_updatedAt": "2024-11-09T19:52:57.706105Z",
+  "market_startDate": "2024-10-23T19:58:19.164556Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-08 20:02:38+00",
+  "conditionId": "0x9c9b3923bac52ec0fb09a8257ba86552890660ccaa9082a7462b882f82762d9a",
+  "slug": "will-the-october-2024-temperature-increase-be-between-1pt35-1pt40c",
+  "question": "Will the October 2024 temperature increase be between 1.35-1.40°C?"
+}

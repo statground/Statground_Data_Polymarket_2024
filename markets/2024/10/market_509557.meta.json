@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509557",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-10T20:01:41.928058Z",
+  "market_createdAt": "2024-10-10T20:01:41.928058Z",
+  "market_updatedAt": "2024-10-21T18:26:46.013504Z",
+  "market_startDate": "2024-10-10T20:03:29.659111Z",
+  "market_endDate": "2024-10-20T13:00:00Z",
+  "market_closedTime": "2024-10-20 18:20:40+00",
+  "conditionId": "0xb09480cf69af9849e035d15feae3de1fde3c8eb8f89b7274c076419a63cb0a3b",
+  "slug": "epl-wol-mac-2024-10-20-draw",
+  "question": "Will Wolves vs. Man City end in a draw?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516236",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T05:12:15.135928Z",
+  "market_createdAt": "2024-12-22T05:12:15.135928Z",
+  "market_updatedAt": "2024-12-30T06:08:18.979623Z",
+  "market_startDate": "2024-12-22T05:14:51.815363Z",
+  "market_endDate": "2025-01-05T02:00:00Z",
+  "market_closedTime": "2024-12-29 06:54:08+00",
+  "conditionId": "0xbb8e2ee9deaa1db50716365ca0e761e874e48ff8cec1d7ff1d5047c6db11ed4b",
+  "slug": "nba-det-den-2024-12-28",
+  "question": "Pistons vs. Nuggets"
+}

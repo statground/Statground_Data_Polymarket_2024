@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507303",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T17:28:05.162383Z",
+  "market_createdAt": "2024-09-17T17:28:05.162383Z",
+  "market_updatedAt": "2025-03-13T00:22:23.395014Z",
+  "market_startDate": "2024-09-17T18:25:11.466771Z",
+  "market_endDate": null,
+  "market_closedTime": "2025-03-12 02:12:40+00",
+  "conditionId": "0x4549ef05bb9b63f2934e36a4ea57942d8be4d45aeae3add4bf510b3edf9cb712",
+  "slug": "will-liverpool-win-the-uefa-champions-league",
+  "question": "Will Liverpool win the UEFA Champions League?"
+}

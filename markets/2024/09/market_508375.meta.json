@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508375",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-27T20:41:59.463196Z",
+  "market_createdAt": "2024-09-27T20:41:59.463196Z",
+  "market_updatedAt": "2024-09-30T20:22:41.12341Z",
+  "market_startDate": "2024-09-27T22:03:01.040405Z",
+  "market_endDate": "2024-09-29T12:00:00Z",
+  "market_closedTime": "2024-09-30 01:25:00+00",
+  "conditionId": "0x72002b7999f222bbcf98cd3e6662e00a01797d9b2f15e7b7b3122a706b861e83",
+  "slug": "kc-vs-lac-will-there-be-40-or-more-combined-points-scored",
+  "question": "KC vs. LAC: Will there be 40 or more combined points scored?"
+}

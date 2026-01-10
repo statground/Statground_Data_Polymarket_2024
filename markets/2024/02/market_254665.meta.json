@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "254665",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-02-23T17:06:49.115000Z",
+  "market_createdAt": "2024-02-23T17:06:49.115Z",
+  "market_updatedAt": "2024-04-26T02:53:12.132052Z",
+  "market_startDate": "2024-02-23T18:04:00Z",
+  "market_endDate": "2024-02-24T00:00:00Z",
+  "market_closedTime": "2024-02-28 12:49:23+00",
+  "conditionId": "0x2b78d885ce7c0441442a18e4821e43e724ff1681d15e91dc6074c3263faec646",
+  "slug": "will-trump-win-the-michigan-primary-by-between-50-60-of-the-vote",
+  "question": "Will Trump win the Michigan Primary by between 50-60% of the vote?"
+}

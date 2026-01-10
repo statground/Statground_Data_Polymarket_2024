@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513778",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:02:36.361980Z",
+  "market_createdAt": "2024-11-24T05:02:36.36198Z",
+  "market_updatedAt": "2024-12-01T01:15:23.378126Z",
+  "market_startDate": "2024-11-24T05:05:37.393245Z",
+  "market_endDate": "2024-12-06T21:00:00Z",
+  "market_closedTime": "2024-11-30 02:52:03+00",
+  "conditionId": "0x0dea0c87f4f86bcd15adc0e2ddb3d68eb6806db0f3e7ad0afc595bfed67432e3",
+  "slug": "cfb-stan-sjsu-2024-11-29",
+  "question": "Stanford vs. San José State"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508822",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-03T22:18:16.056102Z",
+  "market_createdAt": "2024-10-03T22:18:16.056102Z",
+  "market_updatedAt": "2025-03-15T02:39:29.174573Z",
+  "market_startDate": "2024-10-04T15:30:52.437746Z",
+  "market_endDate": "2025-06-05T12:00:00Z",
+  "market_closedTime": "2025-03-14 06:32:37+00",
+  "conditionId": "0xb390acc6607acf5cdb76e092119d33a1921baa6c8a1488eba4f8456949ada297",
+  "slug": "will-the-new-orleans-pelicans-win-the-western-conference",
+  "question": "Will the New Orleans Pelicans win the Western Conference?"
+}

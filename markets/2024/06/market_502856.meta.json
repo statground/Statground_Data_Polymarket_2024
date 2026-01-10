@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502856",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-25T15:29:52.808533Z",
+  "market_createdAt": "2024-06-25T15:29:52.808533Z",
+  "market_updatedAt": "2024-06-28T00:56:01.090699Z",
+  "market_startDate": "2024-06-25T18:11:44.958Z",
+  "market_endDate": "2024-06-26T12:00:00Z",
+  "market_closedTime": "2024-06-27 06:09:28+00",
+  "conditionId": "0xbb08a469e56e06f220524b28fd42b66f8cf7d206d198ce38d9181a4fb89b31d6",
+  "slug": "will-mexico-win-jun-26",
+  "question": "Will Mexico win?"
+}

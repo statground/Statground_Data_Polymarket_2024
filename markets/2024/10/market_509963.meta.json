@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509963",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-15T21:45:24.893842Z",
+  "market_createdAt": "2024-10-15T21:45:24.893842Z",
+  "market_updatedAt": "2024-11-02T08:37:08.011462Z",
+  "market_startDate": "2024-10-16T21:39:41.484129Z",
+  "market_endDate": "2024-10-31T12:00:00Z",
+  "market_closedTime": "2024-11-01 08:34:29+00",
+  "conditionId": "0x7f85e2a019c4c81ee857fa09cc968db9c6e687d77fab88b2e4fed8d60a5c3902",
+  "slug": "tesla-sells-bitcoin-in-october",
+  "question": "Tesla sells bitcoin in October?"
+}

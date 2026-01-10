@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506232",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-02T22:09:10.837053Z",
+  "market_createdAt": "2024-09-02T22:09:10.837053Z",
+  "market_updatedAt": "2024-09-09T19:57:09.997196Z",
+  "market_startDate": "2024-09-03T15:35:09.334365Z",
+  "market_endDate": "2024-09-08T12:00:00Z",
+  "market_closedTime": "2024-09-09 01:03:23+00",
+  "conditionId": "0x538ff37c353b1bf1b6a87f3d228a2e59e03d51735ed67a891356584ef243a848",
+  "slug": "will-great-britain-win-the-third-most-gold-medals-in-the-2024-paralympics",
+  "question": "Will Great Britain win the third most medals in the 2024 Paralympics?"
+}

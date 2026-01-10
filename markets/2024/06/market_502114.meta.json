@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502114",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-04T18:41:34.966606Z",
+  "market_createdAt": "2024-06-04T18:41:34.966606Z",
+  "market_updatedAt": "2024-07-02T16:15:48.897202Z",
+  "market_startDate": "2024-06-05T01:39:18.504Z",
+  "market_endDate": "2024-06-30T12:00:00Z",
+  "market_closedTime": "2024-07-01 18:17:53+00",
+  "conditionId": "0x78ee89ec023f670b64b2b72a1e59183b54196fae85bf724645d517b95acb254f",
+  "slug": "court-blocks-biden-executive-order-on-immigration",
+  "question": "Court blocks Biden executive order on immigration?"
+}

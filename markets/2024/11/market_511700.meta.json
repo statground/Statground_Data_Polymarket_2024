@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511700",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-01T18:48:00.431545Z",
+  "market_createdAt": "2024-11-01T18:48:00.431545Z",
+  "market_updatedAt": "2024-11-04T20:57:23.718988Z",
+  "market_startDate": "2024-11-01T22:14:55.099543Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-03 23:44:56+00",
+  "conditionId": "0x7ab5723388a73383a435b4527b2f20310f01c51966b8968a0c5a873c7030f7c0",
+  "slug": "will-the-bills-beat-the-dolphins-by-6-or-more-points",
+  "question": "Will the Bills beat the Dolphins by 6 or more points?"
+}

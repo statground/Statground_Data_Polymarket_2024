@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514349",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-01T17:25:59.852716Z",
+  "market_createdAt": "2024-12-01T17:25:59.852716Z",
+  "market_updatedAt": "2024-12-07T17:03:22.189806Z",
+  "market_startDate": "2024-12-02T15:32:26.014142Z",
+  "market_endDate": "2024-12-06T12:00:00Z",
+  "market_closedTime": "2024-12-06 20:14:49+00",
+  "conditionId": "0xd1f7604e477c19a41d27a8862dc54fb1d47cda5d27bc2e068e13e02abf4339a3",
+  "slug": "will-trump-tweet-7-8-times-nov-29-dec-6",
+  "question": "Will trump tweet 7-8 times Nov 29-Dec 6?"
+}

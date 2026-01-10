@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500976",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-15T20:40:47.382549Z",
+  "market_createdAt": "2024-04-15T20:40:47.382549Z",
+  "market_updatedAt": "2024-05-07T23:09:47.751262Z",
+  "market_startDate": "2024-04-16T16:50:58.806Z",
+  "market_endDate": "2024-06-24T12:00:00Z",
+  "market_closedTime": "2024-05-01 07:47:53+00",
+  "conditionId": "0x058c0a838463b97dd0df3e9cad7e41cc9ac038f252c638d4b3c27ab95db8e49d",
+  "slug": "winnipeg-jets-win-the-2024-stanley-cup",
+  "question": "Winnipeg Jets win the 2024 Stanley Cup?"
+}

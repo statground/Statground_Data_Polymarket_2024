@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "501062",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-18T21:33:27.707527Z",
+  "market_createdAt": "2024-04-18T21:33:27.707527Z",
+  "market_updatedAt": "2024-11-08T02:37:03.090251Z",
+  "market_startDate": "2024-04-19T15:59:18.27Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-07 07:04:10+00",
+  "conditionId": "0xea4002c56d118cab706bf6cd34783948f5523a06239f7e59f443ac683f0fa140",
+  "slug": "presidential-election-republicans-win-a-solid-blue-state",
+  "question": "Trump wins a solid blue state?"
+}

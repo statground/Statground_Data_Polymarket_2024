@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513787",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-24T05:04:25.834686Z",
+  "market_createdAt": "2024-11-24T05:04:25.834686Z",
+  "market_updatedAt": "2024-12-02T02:43:11.628265Z",
+  "market_startDate": "2024-11-24T05:07:27.120059Z",
+  "market_endDate": "2024-12-07T05:00:00Z",
+  "market_closedTime": "2024-12-01 02:40:35+00",
+  "conditionId": "0x96fadcfb782023401c1058b562ad61052c52c95a81a44e1198fe37c24535a3ab",
+  "slug": "cfb-ndame-usc-2024-11-30",
+  "question": "Notre Dame vs. USC"
+}

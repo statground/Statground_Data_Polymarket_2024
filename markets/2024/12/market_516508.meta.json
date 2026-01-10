@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516508",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-27T16:53:28.925372Z",
+  "market_createdAt": "2024-12-27T16:53:28.925372Z",
+  "market_updatedAt": "2024-12-29T06:19:25.119196Z",
+  "market_startDate": "2024-12-27T17:31:40.619Z",
+  "market_endDate": "2024-12-27T12:00:00Z",
+  "market_closedTime": "2024-12-28 09:33:06+00",
+  "conditionId": "0x43e111b043c95b3915926de819e27cfaf7f7de18cc2c33c9250607eeb03e7c63",
+  "slug": "will-mike-mayock-win-cracker-of-the-year",
+  "question": "Will Mike Mayock win Cracker of the Year?"
+}

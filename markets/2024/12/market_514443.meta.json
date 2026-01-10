@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514443",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-02T19:13:30.168505Z",
+  "market_createdAt": "2024-12-02T19:13:30.168505Z",
+  "market_updatedAt": "2024-12-08T19:55:37.204715Z",
+  "market_startDate": "2024-12-02T19:16:37.940019Z",
+  "market_endDate": "2024-12-07T15:00:00Z",
+  "market_closedTime": "2024-12-07 20:12:45+00",
+  "conditionId": "0x1b9bdaebecd94ed7f6382f51624ab5b777ff184799ad9bf0dadecdf4f31a185f",
+  "slug": "epl-cry-mac-2024-12-07-cry",
+  "question": "Will Crystal Palace win on 2024-12-07?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "506886",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-11T22:14:56.068241Z",
+  "market_createdAt": "2024-09-11T22:14:56.068241Z",
+  "market_updatedAt": "2024-09-21T13:46:52.44009Z",
+  "market_startDate": "2024-09-11T22:35:54.163Z",
+  "market_endDate": "2024-09-20T12:00:00Z",
+  "market_closedTime": "2024-09-20 15:53:35+00",
+  "conditionId": "0x16f01fe9341bf3426281515706b42e10d7f5b6dbda385d7f3d74bde9c26d039d",
+  "slug": "trump-silver-bulletin-odds-60-next-friday",
+  "question": "Trump Silver Bulletin odds >60% Friday?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516301",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-23T05:02:24.237402Z",
+  "market_createdAt": "2024-12-23T05:02:24.237402Z",
+  "market_updatedAt": "2024-12-28T22:34:54.40847Z",
+  "market_startDate": "2024-12-23T05:04:51.831747Z",
+  "market_endDate": "2025-01-03T17:00:00Z",
+  "market_closedTime": "2024-12-27 22:37:26+00",
+  "conditionId": "0x6cb0b25c4d6c42858738a274420b16ffc9bb334fd3f1c1780856f19b651774b3",
+  "slug": "cfb-okla-navy-2024-12-27",
+  "question": "Oklahoma vs. Navy"
+}

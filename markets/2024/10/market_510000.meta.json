@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510000",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-16T17:51:23.340308Z",
+  "market_createdAt": "2024-10-16T17:51:23.340308Z",
+  "market_updatedAt": "2024-10-19T05:56:50.048761Z",
+  "market_startDate": "2024-10-17T01:12:15.763765Z",
+  "market_endDate": "2024-10-17T12:00:00Z",
+  "market_closedTime": "2024-10-18 05:56:07+00",
+  "conditionId": "0x4f09a7c0afd880d1bf8e800c5ad41eb87f8c177b75f3cd57e48958220992f214",
+  "slug": "mets-vs-dodgers-game-4",
+  "question": "Mets vs. Dodgers - Game 4"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504444",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-08-01T21:30:13.424746Z",
+  "market_createdAt": "2024-08-01T21:30:13.424746Z",
+  "market_updatedAt": "2024-09-02T07:47:06.430477Z",
+  "market_startDate": "2024-08-01T22:19:06.763Z",
+  "market_endDate": "2024-08-31T12:00:00Z",
+  "market_closedTime": "2024-09-01 15:31:23+00",
+  "conditionId": "0x08b8ef1c212b2de1b83966e65160a3728de6cf810c57ae18394c7c318b70fef9",
+  "slug": "will-trump-say-shark-in-august",
+  "question": "Will Trump say \"Shark\" in August?"
+}

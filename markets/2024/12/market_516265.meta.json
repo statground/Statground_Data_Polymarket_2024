@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516265",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-22T07:02:05.146319Z",
+  "market_createdAt": "2024-12-22T07:02:05.146319Z",
+  "market_updatedAt": "2024-12-25T04:23:35.097939Z",
+  "market_startDate": "2024-12-22T07:05:06.652411Z",
+  "market_endDate": "2024-12-31T00:00:00Z",
+  "market_closedTime": "2024-12-24 05:13:49+00",
+  "conditionId": "0x5c21c5bd5c085ddb78072c32ca5a12df6dfe1c5f3da3243811a38eec06770ff9",
+  "slug": "nhl-mon-cbj-2024-12-23",
+  "question": "Canadiens vs. Blue Jackets"
+}

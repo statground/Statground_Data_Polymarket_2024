@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508214",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-26T17:25:35.888911Z",
+  "market_createdAt": "2024-09-26T17:25:35.888911Z",
+  "market_updatedAt": "2024-09-29T21:10:47.407227Z",
+  "market_startDate": "2024-09-26T19:55:26.7227Z",
+  "market_endDate": "2024-09-28T12:00:00Z",
+  "market_closedTime": "2024-09-28 22:10:33+00",
+  "conditionId": "0xc7850974a7735b46542e6c6af956720cb9c845b7774b8002bb0405c9ca37da27",
+  "slug": "will-trump-say-mcdonalds-during-his-wisconsin-speech",
+  "question": "Will Trump say \"McDonald's\" during his Wisconsin speech?"
+}

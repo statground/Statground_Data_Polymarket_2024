@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502399",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-12T21:01:07.232136Z",
+  "market_createdAt": "2024-06-12T21:01:07.232136Z",
+  "market_updatedAt": "2024-06-15T23:16:13.60711Z",
+  "market_startDate": null,
+  "market_endDate": "2024-06-14T12:00:00Z",
+  "market_closedTime": "2024-06-14 23:48:21+00",
+  "conditionId": "0x1bc9173f53e3bf00bd4be3f5d39f0b1324c98c9d41ebc97e7dfa47b756c95e56",
+  "slug": "trump-logan-paul-tiktok-100m-views-by-friday",
+  "question": "Trump + Logan Paul TikTok >100M views by Friday?"
+}

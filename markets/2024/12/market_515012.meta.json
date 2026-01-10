@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515012",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T22:46:21.661142Z",
+  "market_createdAt": "2024-12-06T22:46:21.661142Z",
+  "market_updatedAt": "2024-12-09T02:27:10.31548Z",
+  "market_startDate": "2024-12-06T23:28:51.82457Z",
+  "market_endDate": "2024-12-08T12:00:00Z",
+  "market_closedTime": "2024-12-09 02:23:19+00",
+  "conditionId": "0x8bd33c3070bf69fdcb5b58584819bc218b847448615d6ac80e1ba4c3d89bbca1",
+  "slug": "will-the-cardinals-beat-the-seahawks-by-3-or-more-points",
+  "question": "Will the Cardinals beat the Seahawks by 3 or more points?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515585",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-13T19:29:22.878059Z",
+  "market_createdAt": "2024-12-13T19:29:22.878059Z",
+  "market_updatedAt": "2024-12-21T04:05:10.099413Z",
+  "market_startDate": "2024-12-13T19:32:00.844479Z",
+  "market_endDate": "2024-12-27T00:00:00Z",
+  "market_closedTime": "2024-12-20 04:44:47+00",
+  "conditionId": "0x2b0ea8b53e9dd9d99bdba66a5b209436535b253c024f721e5a94a43520ff6a91",
+  "slug": "nba-uta-det-2024-12-19",
+  "question": "Jazz vs. Pistons"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503739",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-18T18:15:40.454965Z",
+  "market_createdAt": "2024-07-18T18:15:40.454965Z",
+  "market_updatedAt": "2024-07-31T19:43:02.764441Z",
+  "market_startDate": null,
+  "market_endDate": "2024-07-29T12:00:00Z",
+  "market_closedTime": "2024-07-30 22:24:57+00",
+  "conditionId": "0x30b96c6c918ff0aef42a2765e2774deb5eeae7c87e6f15f6f488a26af101a980",
+  "slug": "will-another-athlete-win-gold-in-100m-womens-backstroke",
+  "question": "Will another athlete win Gold in 100m Women's Backstroke?"
+}

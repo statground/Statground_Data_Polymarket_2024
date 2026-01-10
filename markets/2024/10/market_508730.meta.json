@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508730",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:26:13.978257Z",
+  "market_createdAt": "2024-10-02T20:26:13.978257Z",
+  "market_updatedAt": "2024-10-09T11:26:51.282238Z",
+  "market_startDate": "2024-10-02T21:50:50.590571Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-09 01:29:03+00",
+  "conditionId": "0xe41142aa8abff880d504a668b393e672147cb316b6d572ad8eafed09015636fc",
+  "slug": "will-complexity-win-iem-rio-2024",
+  "question": "Will Complexity win IEM Rio 2024?"
+}

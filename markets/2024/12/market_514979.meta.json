@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "514979",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-06T19:29:23.198845Z",
+  "market_createdAt": "2024-12-06T19:29:23.198845Z",
+  "market_updatedAt": "2024-12-14T19:03:11.930379Z",
+  "market_startDate": "2024-12-06T20:51:24.607605Z",
+  "market_endDate": "2024-12-13T12:00:00Z",
+  "market_closedTime": "2024-12-13 19:01:28+00",
+  "conditionId": "0xfdbdd78b406368afe28a0a48b016c294079ea0b1dd057d8d47793214baeaccf6",
+  "slug": "coinbase-top-20-app-december-13",
+  "question": "Coinbase top 20 app December 13?"
+}

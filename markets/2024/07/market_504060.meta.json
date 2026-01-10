@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "504060",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-24T15:11:05.035937Z",
+  "market_createdAt": "2024-07-24T15:11:05.035937Z",
+  "market_updatedAt": "2024-08-07T19:40:49.586534Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-19T12:00:00Z",
+  "market_closedTime": "2024-08-06 22:54:08+00",
+  "conditionId": "0xd184690d1ce781fb82277310e5cefb2c7ebf20b02262b1a4acb4970c889aaf69",
+  "slug": "will-kamala-announce-vp-pick-before-dnc",
+  "question": "Will Kamala announce VP pick before DNC?"
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "511808",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-02T20:42:57.218419Z",
+  "market_createdAt": "2024-11-02T20:42:57.218419Z",
+  "market_updatedAt": "2024-11-05T03:23:09.873751Z",
+  "market_startDate": "2024-11-02T23:22:04.54Z",
+  "market_endDate": "2024-11-03T12:00:00Z",
+  "market_closedTime": "2024-11-04 05:15:53+00",
+  "conditionId": "0x08b38017561b011605fef65c565eb0bbf3041f6395c841355cfdf801c6c6557e",
+  "slug": "will-trump-say-border-30-or-more-times-during-macon-ga-rally",
+  "question": "Will Trump say \"Border\" 30 or more times during Macon, GA rally?"
+}

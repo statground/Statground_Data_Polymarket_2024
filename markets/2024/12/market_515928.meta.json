@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "515928",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-17T22:18:52.495186Z",
+  "market_createdAt": "2024-12-17T22:18:52.495186Z",
+  "market_updatedAt": "2025-03-15T14:29:19.586715Z",
+  "market_startDate": "2024-12-17T22:36:59.555Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_closedTime": "2025-03-14 14:36:55+00",
+  "conditionId": "0x19f0ff3845b991bf9561aa81f7a23d88a607a437a6ecaebdf117ef8e37e7d0df",
+  "slug": "will-the-greens-win-over-15-of-the-vote-in-the-german-election",
+  "question": "Greens win over 15% of vote in German election? "
+}

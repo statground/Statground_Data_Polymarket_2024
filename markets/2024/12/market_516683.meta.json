@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "516683",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-12-29T07:08:32.045040Z",
+  "market_createdAt": "2024-12-29T07:08:32.04504Z",
+  "market_updatedAt": "2025-01-04T06:03:00.875062Z",
+  "market_startDate": "2024-12-29T07:11:02.122405Z",
+  "market_endDate": "2025-01-10T01:00:00Z",
+  "market_closedTime": "2025-01-03 05:59:21+00",
+  "conditionId": "0xebecc94c2b1043e5e04e2857243518925d76bfa9f49ca366a8e2795db2b158c2",
+  "slug": "nhl-ott-dal-2025-01-02",
+  "question": "Senators vs. Stars"
+}

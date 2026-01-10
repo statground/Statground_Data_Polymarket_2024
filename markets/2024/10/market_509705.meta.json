@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "509705",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-11T20:16:06.756144Z",
+  "market_createdAt": "2024-10-11T20:16:06.756144Z",
+  "market_updatedAt": "2024-10-13T19:10:56.117476Z",
+  "market_startDate": "2024-10-11T20:42:57.221328Z",
+  "market_endDate": "2024-10-12T12:00:00Z",
+  "market_closedTime": "2024-10-12 20:07:19+00",
+  "conditionId": "0x7b6568ac2a31a1486eadf0028c09bfc5b9f977778461ead62d92d1a2682c5880",
+  "slug": "will-there-be-at-least-1-run-scored-in-the-first-inning-ALDS-oct-12",
+  "question": " Will there be at least 1 run scored in the first inning?"
+}

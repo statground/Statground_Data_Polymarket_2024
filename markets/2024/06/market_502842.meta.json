@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "502842",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-06-24T23:22:40.790113Z",
+  "market_createdAt": "2024-06-24T23:22:40.790113Z",
+  "market_updatedAt": "2024-06-26T19:16:12.378038Z",
+  "market_startDate": "2024-06-24T23:28:32.473Z",
+  "market_endDate": "2024-06-25T12:00:00Z",
+  "market_closedTime": "2024-06-25 21:07:54+00",
+  "conditionId": "0xa9e21b25b3396da1314b79893a7beafdd10eaad4250ad5240a8470cafb61a6df",
+  "slug": "will-the-match-be-a-draw-france-poland",
+  "question": "Will the match be a draw?"
+}

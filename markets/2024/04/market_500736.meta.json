@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "500736",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-04-04T18:39:34.159206Z",
+  "market_createdAt": "2024-04-04T18:39:34.159206Z",
+  "market_updatedAt": "2024-11-09T21:28:51.868255Z",
+  "market_startDate": "2024-04-12T18:58:04.915Z",
+  "market_endDate": "2024-11-05T12:00:00Z",
+  "market_closedTime": "2024-11-09 01:05:17+00",
+  "conditionId": "0x27e47fcc55d252f5ffeee42bf8e2d7d6d5a54e4ff7a31e95e5cb057e18b7d0dc",
+  "slug": "will-a-republican-win-maine-us-senate-election",
+  "question": "Will a Republican win Maine US Senate Election?"
+}

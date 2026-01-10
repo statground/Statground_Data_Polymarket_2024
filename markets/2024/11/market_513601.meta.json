@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "513601",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-20T22:20:43.809807Z",
+  "market_createdAt": "2024-11-20T22:20:43.809807Z",
+  "market_updatedAt": "2025-04-20T00:26:36.035701Z",
+  "market_startDate": "2024-11-20T22:39:02.403Z",
+  "market_endDate": "2025-06-30T12:00:00Z",
+  "market_closedTime": "2025-04-18 21:23:21+00",
+  "conditionId": "0x23199a916a4183d5e4a2ffc3cf5c51d339744ca663052090a977e96a9149b8e3",
+  "slug": "will-jake-paul-fight-ryan-garcia-next",
+  "question": "Will Jake Paul fight Ryan Garcia next?"
+}

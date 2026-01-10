@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512702",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:08:44.898497Z",
+  "market_createdAt": "2024-11-11T18:08:44.898497Z",
+  "market_updatedAt": "2024-11-17T04:58:55.941416Z",
+  "market_startDate": "2024-11-11T18:11:15.691523Z",
+  "market_endDate": "2024-11-23T01:00:00Z",
+  "market_closedTime": "2024-11-16 05:22:24+00",
+  "conditionId": "0x3ac8c2843007fec98b62191fb18eaf12205684c972643dad0766c3acc9c0edb4",
+  "slug": "nba-den-nop-2024-11-15",
+  "question": "Nuggets vs. Pelicans"
+}

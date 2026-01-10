@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "510832",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-24T19:59:12.022928Z",
+  "market_createdAt": "2024-10-24T19:59:12.022928Z",
+  "market_updatedAt": "2024-10-27T05:32:49.444879Z",
+  "market_startDate": "2024-10-24T20:24:09.820437Z",
+  "market_endDate": "2024-10-25T12:00:00Z",
+  "market_closedTime": "2024-10-26 06:16:07+00",
+  "conditionId": "0xfc1eb3ad86d3d14952e9199ce47ca0858d19f0cf23d2e9f48aba6cb10e4959de",
+  "slug": "will-trump-say-mcdonalds-during-michigan-rally-on-october-25",
+  "question": "Will Trump say \"McDonald's\" during Michigan rally on October 25?"
+}

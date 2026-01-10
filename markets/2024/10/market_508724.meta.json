@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "508724",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-10-02T20:22:44.800119Z",
+  "market_createdAt": "2024-10-02T20:22:44.800119Z",
+  "market_updatedAt": "2024-10-10T19:10:50.62013Z",
+  "market_startDate": "2024-10-02T21:47:41.025397Z",
+  "market_endDate": "2024-10-13T12:00:00Z",
+  "market_closedTime": "2024-10-09 19:46:54+00",
+  "conditionId": "0x22340cb9a839501690b4e561173f04e8b331afc42dc9e91ec4dec42d68f2048d",
+  "slug": "will-eternal-fire-win-iem-rio-2024",
+  "question": "Will Eternal Fire win IEM Rio 2024?"
+}

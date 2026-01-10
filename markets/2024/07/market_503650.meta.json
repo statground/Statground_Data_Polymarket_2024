@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "503650",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-07-17T19:06:39.735922Z",
+  "market_createdAt": "2024-07-17T19:06:39.735922Z",
+  "market_updatedAt": "2024-08-05T17:27:00.177141Z",
+  "market_startDate": null,
+  "market_endDate": "2024-08-04T12:00:00Z",
+  "market_closedTime": "2024-08-04 23:09:47+00",
+  "conditionId": "0x0d9f5a7048cc90dfbbfaf73ce6b43ffd95a970d8059098cd6b61737572a06efa",
+  "slug": "will-wojciech-nowicki-win-gold-in-hammer-throw",
+  "question": "Will Wojciech Nowicki win Gold in Hammer Throw?"
+}

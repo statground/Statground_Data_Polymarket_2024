@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "507393",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-09-17T23:23:45.338568Z",
+  "market_createdAt": "2024-09-17T23:23:45.338568Z",
+  "market_updatedAt": "2024-09-24T01:02:41.928671Z",
+  "market_startDate": "2024-09-18T03:32:08.792783Z",
+  "market_endDate": "2024-09-22T12:00:00Z",
+  "market_closedTime": "2024-09-23 03:39:24+00",
+  "conditionId": "0x52869b1652a5225954aa99412c82a5b85c2d1b5175bfd62c494c8aa6ef9b07f7",
+  "slug": "will-another-driver-win-the-singapore-grand-prix",
+  "question": "Will another driver win the Singapore Grand Prix?"
+}

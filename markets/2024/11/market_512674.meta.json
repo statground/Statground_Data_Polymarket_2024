@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512674",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-11T18:01:34.466156Z",
+  "market_createdAt": "2024-11-11T18:01:34.466156Z",
+  "market_updatedAt": "2024-11-14T04:29:10.685622Z",
+  "market_startDate": "2024-11-11T18:04:08.146007Z",
+  "market_endDate": "2024-11-20T00:00:00Z",
+  "market_closedTime": "2024-11-13 04:37:13+00",
+  "conditionId": "0x91fc650d2309389d7fe1d040bc513b9a954ea198d09a2c8d120b38629ac6ef9a",
+  "slug": "nba-cha-orl-2024-11-12",
+  "question": "Hornets vs. Magic"
+}

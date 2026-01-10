@@ -1,0 +1,14 @@
+{
+  "entity": "market",
+  "market_id": "512600",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "folder_dt_utc": "2024-11-08T22:55:15.867472Z",
+  "market_createdAt": "2024-11-08T22:55:15.867472Z",
+  "market_updatedAt": "2024-12-02T07:19:22.836514Z",
+  "market_startDate": "2024-11-11T17:27:50.66Z",
+  "market_endDate": "2024-11-30T12:00:00Z",
+  "market_closedTime": "2024-12-01 07:15:21+00",
+  "conditionId": "0xb803598e76d5fb6841e1f4dec4adc2e6f43fab996eb2a552f9cccfc5938b15cb",
+  "slug": "will-bitcoin-hit-100k-in-november",
+  "question": "Will Bitcoin hit $100k in November?"
+}
