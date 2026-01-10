@@ -1,15 +1,15 @@
 {
   "entity": "series",
-  "series_id": "10000",
-  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "folder_dt_utc": "2024-06-14T18:57:17.756574Z",
-  "series_createdAt": "2024-06-14T18:57:17.756574Z",
-  "series_publishedAt": "2024-06-14 18:57:17.756574+00",
-  "series_updatedAt": "2026-01-10T14:43:15.82378Z",
-  "slug": "elon-tweets",
-  "ticker": "elon-tweets",
-  "title": "Elon Tweets",
-  "startDate": "2024-06-14T18:57:17.756574Z",
+  "folder_rule": "series.createdAt (fallback: series.publishedAt)",
   "recurrence": "weekly",
-  "seriesType": "single"
+  "seriesType": "single",
+  "series_createdAt": "2024-06-14T18:57:17.756574Z",
+  "series_id": "10000",
+  "series_publishedAt": "2024-06-14 18:57:17.756574+00",
+  "series_updatedAt": "2026-01-10T15:53:42.293394Z",
+  "slug": "elon-tweets",
+  "startDate": "2024-06-14T18:57:17.756574Z",
+  "ticker": "elon-tweets",
+  "title": "Elon Tweets"
 }
