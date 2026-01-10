@@ -1,14 +1,14 @@
 {
-  "entity": "market",
-  "market_id": "516938",
-  "folder_rule": "market.createdAt (fallback: market.published_at)",
-  "folder_dt_utc": "2024-12-31T17:05:30.463124Z",
-  "market_createdAt": "2024-12-31T17:05:30.463124Z",
-  "market_updatedAt": "2026-01-10T14:44:50.369655Z",
-  "market_startDate": "2024-12-31T18:52:33.716Z",
-  "market_endDate": "2025-12-31T12:00:00Z",
-  "market_closedTime": null,
   "conditionId": "0xe6508d867d153a268bdab732aa8abc8cc57e652d28a23aa042da40895bf031b2",
-  "slug": "will-2025-be-the-hottest-year-on-record",
-  "question": "Will 2025 be the hottest year on record?"
+  "entity": "market",
+  "folder_dt_utc": "2024-12-31T17:05:30.463124Z",
+  "folder_rule": "market.createdAt (fallback: market.published_at)",
+  "market_closedTime": null,
+  "market_createdAt": "2024-12-31T17:05:30.463124Z",
+  "market_endDate": "2025-12-31T12:00:00Z",
+  "market_id": "516938",
+  "market_startDate": "2024-12-31T18:52:33.716Z",
+  "market_updatedAt": "2026-01-10T18:38:34.810949Z",
+  "question": "Will 2025 be the hottest year on record?",
+  "slug": "will-2025-be-the-hottest-year-on-record"
 }
