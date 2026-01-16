@@ -1,18 +1,20 @@
 {
   "entity": "event",
-  "event_id": "12777",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2024-09-23T18:35:55.418806Z",
   "event_createdAt": "2024-09-23T18:35:55.418806Z",
   "event_creationDate": "2024-09-23T19:26:50.494492Z",
-  "event_startDate": "2024-09-23T19:26:50.494497Z",
   "event_endDate": "2024-10-31T12:00:00Z",
-  "event_updatedAt": "2024-11-02T07:37:15.07326Z",
-  "markets_len": 1,
+  "event_id": "12777",
+  "event_startDate": "2024-09-23T19:26:50.494497Z",
+  "event_updatedAt": "2026-01-16T15:24:08.658608Z",
+  "folder_dt_utc": "2024-09-23T18:35:55.418806Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "507743"
   ],
-  "series_len": 0,
-  "series_ids": [],
-  "series_slug": null
+  "markets_len": 1,
+  "series_ids": [
+    "10898"
+  ],
+  "series_len": 1,
+  "series_slug": "iran-strike-on-us-military"
 }
