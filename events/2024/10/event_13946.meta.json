@@ -1,14 +1,13 @@
 {
   "entity": "event",
-  "event_id": "13946",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2024-10-31T19:57:23.574056Z",
   "event_createdAt": "2024-10-31T19:57:23.574056Z",
   "event_creationDate": "2024-11-01T18:03:15.215182Z",
-  "event_startDate": "2024-11-01T18:03:15.215186Z",
   "event_endDate": "2024-11-30T12:00:00Z",
-  "event_updatedAt": "2025-02-01T00:52:53.345791Z",
-  "markets_len": 8,
+  "event_id": "13946",
+  "event_startDate": "2024-11-01T18:03:15.215186Z",
+  "event_updatedAt": "2026-01-20T05:08:19.106086Z",
+  "folder_dt_utc": "2024-10-31T19:57:23.574056Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "511531",
     "511529",
@@ -19,9 +18,10 @@
     "512661",
     "512660"
   ],
-  "series_len": 1,
+  "markets_len": 8,
   "series_ids": [
     "10017"
   ],
+  "series_len": 1,
   "series_slug": "eth-monthly-prices"
 }

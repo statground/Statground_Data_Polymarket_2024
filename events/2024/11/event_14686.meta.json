@@ -1,20 +1,20 @@
 {
   "entity": "event",
-  "event_id": "14686",
-  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
-  "folder_dt_utc": "2024-11-24T05:02:47.647374Z",
   "event_createdAt": "2024-11-24T05:02:47.647374Z",
   "event_creationDate": "2024-11-30T00:30:00Z",
-  "event_startDate": "2024-11-24T05:06:57.833376Z",
   "event_endDate": "2024-11-30T00:30:00Z",
-  "event_updatedAt": "2024-12-01T06:51:49.712126Z",
-  "markets_len": 1,
+  "event_id": "14686",
+  "event_startDate": "2024-11-24T05:06:57.833376Z",
+  "event_updatedAt": "2026-01-20T05:07:20.611147Z",
+  "folder_dt_utc": "2024-11-24T05:02:47.647374Z",
+  "folder_rule": "event.createdAt (fallback: max(markets[].published_at))",
   "market_ids": [
     "513779"
   ],
-  "series_len": 1,
+  "markets_len": 1,
   "series_ids": [
     "10002"
   ],
+  "series_len": 1,
   "series_slug": "cfb"
 }
